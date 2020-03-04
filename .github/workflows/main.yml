@@ -1,0 +1,31 @@
+name: Hourly Update
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Triggers the workflow every hour, on the hour
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+
+    - name: Install requests lib
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run the update script
+      run: python update.py
+
+    - name: Commit and push generated data files
+      run: |
+        git add .
+        git commit -m "$(date -u)"
+        git push -u origin master
