@@ -1,4 +1,4 @@
-name: Hourly Update but renamded
+name: Hourly Update
 
 on:
   schedule:
