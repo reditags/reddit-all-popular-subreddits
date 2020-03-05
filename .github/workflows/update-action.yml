@@ -1,7 +1,7 @@
 name: Hourly Update
 on:
   schedule:
-    - cron: '0 * * * *' # Triggers the workflow every hour, on the hour
+    - cron: '25 * * * *' # Triggers the workflow every hour, on the hour
 jobs:
   update:
     runs-on: ubuntu-latest
