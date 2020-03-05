@@ -1,8 +1,8 @@
-name: Hourly Update
+name: Hourly Update but renamded
 
 on:
   schedule:
-    - cron: '25 * * * *' # Triggers the workflow every hour, on the hour
+    - cron: '0 * * * *' # Triggers the workflow every hour, on the hour
 
 jobs:
   update:
