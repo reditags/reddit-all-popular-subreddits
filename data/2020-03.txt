@@ -430,6 +430,7 @@ asoiaf
 aSongOfMemesAndRage
 ASOUE
 asozialesnetzwerk
+Aspen_Rae
 aspergers
 ass
 assassinscreed
@@ -871,6 +872,7 @@ boomershumor
 BoomerTears
 boop
 boostedboards
+bootleg_memes
 boottoobig
 booty
 booty_queens
@@ -1374,6 +1376,7 @@ Competitiveoverwatch
 CompetitiveTFT
 COMPLETEANARCHY
 ComplexionExcellence
+CompulsiveSkinPicking
 computerscience
 conan
 ConanBeingAwesome
@@ -1596,6 +1599,7 @@ dancegavindance
 danganronpa
 dangerousdesign
 DaniDaniels
+DanielleSharp
 dank_meme
 dankchristianmemes
 dankcrusadememes
@@ -2013,6 +2017,7 @@ EmKay
 Emma_Roberts
 EmmaStone
 EmmaWatsonBum
+EmmyRossum
 Emo
 emogirls
 emojipasta
@@ -2057,6 +2062,7 @@ entwives
 envee420
 environment
 EpicSeven
+Epithet_Erased
 Epstein
 equelMemes
 Equestrian
@@ -2293,6 +2299,7 @@ fnv
 fo4
 fo76
 fo76FilthyCasuals
+FolkPunk
 FondantHate
 food
 Foodforthought
@@ -3061,6 +3068,7 @@ im14andthisiswoooosh
 Im15AndThisIsYeet
 Im16AndThisIsNeat
 Im5andthisismacaroni
+ImageStabilization
 ImagesYouCanHear
 ImaginaryArchitecture
 ImaginaryArmor
@@ -3195,6 +3203,7 @@ InstinctiveDownvotes
 insurgency
 interesting
 interestingasfuck
+InterestingVideoClips
 InteriorDesign
 intermittentfasting
 internet_funeral
@@ -3275,6 +3284,7 @@ JailyneOjedaOchoa
 jakeandamir
 JakesDoorComics
 JamesBond
+janicegriffith
 JannaBreslin
 japan
 japanese
@@ -3358,6 +3368,7 @@ JuliaJAV
 JuliaRose
 jumpforce
 Jung
+junjiito
 JurassicMemes
 JurassicPark
 jurassicworldevo
@@ -3389,6 +3400,7 @@ Kaiserposting
 Kaiserreich
 kakarot
 kaleycuoco
+kaliroses
 KamenRider
 KamikazeByWords
 kancolle
@@ -3468,6 +3480,7 @@ KingkillerChronicle
 KingKrule
 KingOfTheHill
 kings
+KinseyWolanski
 Kirby
 KitchenConfidential
 Kitler
@@ -3855,6 +3868,7 @@ MarriedAtFirstSight
 Marvel
 MarvelCringe
 marvelmemes
+MarvelPrequelMemes
 MarvelStrikeForce
 marvelstudios
 MarvelStudiosSpoilers
@@ -4251,6 +4265,7 @@ nebelung
 NeckbeardNests
 neckbeardRPG
 NederlandseMemes
+needadvice
 needforspeed
 neko
 nekoatsume
@@ -4262,6 +4277,7 @@ neoliberal
 neoncities
 neopets
 Nepal
+nerdcubed
 nerdfighters
 Nerf
 nes
@@ -4304,6 +4320,7 @@ nice
 Nicegirls
 niceguys
 NiceSaveOuija
+Nichijou
 Nicki_Minaj
 nickofstatic
 NickUbel
@@ -5917,6 +5934,7 @@ Symphogear
 SyrianCirclejerkWar
 sysadmin
 systemofadown
+tabletopgamedesign
 tacobell
 tacticalgear
 Taihou
@@ -6116,8 +6134,10 @@ TheOrville
 TheoryOfReddit
 theouterworlds
 TheOwlHouse
+thepast
 theperfectpokemongame
 thepromisedneverland
+TheRareOnes
 theratio
 TheRealJoke
 thereifixedit
@@ -6784,6 +6804,7 @@ we_irl
 WeaponsMoe
 WeAreTheMusicMakers
 WeatherGifs
+WeatherPorn
 web_design
 webcamgirlsnsfw
 webcomics
@@ -7050,6 +7071,7 @@ yunggravy
 yunyun
 yuri
 YUROP
+yuruyuri
 YuzuPyon
 ZanClan
 zelda
