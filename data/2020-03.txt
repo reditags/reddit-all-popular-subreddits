@@ -109,6 +109,7 @@ actuary
 Acylion
 Adelaide
 AdeptusMechanicus
+adhd_anxiety
 adhdmeme
 AdmiralBulldog
 AdmiralCloudberg
@@ -479,6 +480,7 @@ asstastic
 AssVsBoobs
 Astolfo
 AstralProjection
+astrology
 astrologymemes
 Astroneer
 Astronomy
@@ -1611,6 +1613,7 @@ CryptoCurrency
 CryptoMarkets
 Cryptozoology
 Crystals
+CrystalWestbrooks
 CrystinaRossi
 cscareerquestions
 csgo
@@ -2803,6 +2806,7 @@ GoForGold
 gog
 GoldandBlack
 Goldendoodles
+goldenknights
 goldenretrievers
 GolemSexy
 golf
@@ -5157,6 +5161,7 @@ Poldersocialisme
 poledancing
 PoliceBrotality
 policeporn
+politecats
 POLITIC
 Political_Revolution
 PoliticalCompass
@@ -5325,6 +5330,7 @@ PutYourDickInThat
 PuzzleAndDragons
 PvZGardenWarfare
 PvZHeroes
+pykemains
 pyrocynical
 Python
 qotsa
@@ -6789,6 +6795,7 @@ TwoSentenceHorror
 TwoSentenceSadness
 TwoSentenceTragedy
 TwoXChromosomes
+TwoXSex
 twrmod
 TWRP
 tyingherhairup
@@ -7139,6 +7146,7 @@ vikingstv
 VillagePorn
 vim
 VinaSky
+Vindicta
 Vinesauce
 VinlandSaga
 vintage
