@@ -2830,6 +2830,7 @@ gameassets
 Gameboy
 gamecollecting
 Gamecube
+GamedayGoneWild
 gamedev
 gamegrumps
 Gamemeneersubmissies
@@ -3962,6 +3963,7 @@ KikiPasso
 kilian
 killedthecameraman
 KillerBean
+KillingEve
 killingfloor
 KillLaHentai
 KillLaKill
@@ -5515,6 +5517,7 @@ Playboy
 PlayItAgainSam
 playrust
 playstation
+PlayStationPlus
 PlayTemtem
 PleX
 plowpose
@@ -5651,6 +5654,7 @@ ProductPorn
 Professors
 progmetal
 ProgrammerAnimemes
+ProgrammerDadJokes
 ProgrammerHumor
 programming
 programminghorror
@@ -6793,6 +6797,7 @@ TakimotoHifumi
 tales
 talesfromcallcenters
 talesfromcavesupport
+TalesFromDF
 talesfromsecurity
 TalesFromTheCustomer
 TalesFromTheFrontDesk
@@ -7141,6 +7146,7 @@ toebeans
 Toefeathers
 ToiletPaperUSA
 tokkiefeesboek
+Tokyo
 TokyoGhoul
 tolkienfans
 TomAndJerryMemes
