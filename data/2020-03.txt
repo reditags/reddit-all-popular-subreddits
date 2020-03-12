@@ -1850,6 +1850,7 @@ czech
 d100
 Dachschaden
 Dachshund
+DadForAMinute
 dadjokes
 DadReflexes
 DadsAndBoys
@@ -2104,6 +2105,7 @@ DivinityOriginalSin
 Division2
 DivorcedBirds
 DiWHY
+DiWHYNOT
 DIY
 diyaudio
 diyelectronics
@@ -6519,6 +6521,7 @@ slaythespire
 Slazo
 Sleepycabin
 slightcellulite
+slightlychubby
 SlimandStacked
 SlimeGirls
 slimerancher
@@ -6867,6 +6870,7 @@ SuperMarioOdyssey
 SuperMegaBaseball
 SuperMegaShow
 SupermodelCats
+SuperMorbidlyObese
 Supernatural
 superpoweralchemists
 supersmashbros
@@ -7698,6 +7702,7 @@ UmbrellaAcademy
 UMD
 UMF
 UNBGBBIIVCHIDCTIICBG
+uncannyvalley
 uncharted
 unclebens
 Unclejokes
