@@ -1605,6 +1605,7 @@ compilat0r
 COMPLETEANARCHY
 ComplexionExcellence
 composting
+compsci
 CompulsiveSkinPicking
 computers
 computerscience
@@ -1990,6 +1991,7 @@ Dees_Nuts
 Defenders
 DefinitelyNOTboogaloo
 DeFranco
+deftones
 degoogle
 DegradingHoles
 Deji
@@ -3098,6 +3100,7 @@ gonkwild
 Good_Cop_Free_Donut
 goodboomerhumor
 GoodDesign
+GoodDudes
 GoodFakeTexts
 GoodGirlsSwallow
 goodmythicalmorning
@@ -4687,6 +4690,7 @@ microbiology
 microbork
 microdosing
 microgrowery
+MicroNatureIsMetal
 MicroPorn
 Mid_Century
 midcenturymodern
@@ -5861,6 +5865,7 @@ PvZHeroes
 pykemains
 pyrocynical
 Python
+QiyanaMains
 qotsa
 QuakeChampions
 QualityPostCrusaders
@@ -6935,6 +6940,7 @@ tacticalgear
 Taihou
 tailplug
 Takagi_san
+takerpov
 TakimotoHifumi
 tales
 talesfromcallcenters
