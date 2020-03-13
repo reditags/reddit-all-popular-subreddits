@@ -643,6 +643,7 @@ Badfaketexts
 badhistory
 badlinguistics
 BadMensAnatomy
+BadMtgCombos
 BadMUAs
 badparents
 badparking
@@ -699,6 +700,7 @@ baseball
 baseballcards
 BasicIncome
 Bass
+basset
 bassfishing
 BassGuitar
 bassnectar
@@ -1621,6 +1623,7 @@ CompanyOfHeroes
 CompetitiveForHonor
 Competitiveoverwatch
 CompetitiveTFT
+CompetitiveWoW
 compilat0r
 COMPLETEANARCHY
 ComplexionExcellence
@@ -1996,6 +1999,7 @@ deathnote
 DeathStranding
 DeathToBuzzfeed
 Debate
+DebbyRyan
 dechonkers
 DecidingToBeBetter
 DeclineIntoCensorship
@@ -2620,6 +2624,7 @@ FestivalSluts
 FFBraveExvius
 fffffffuuuuuuuuuuuu
 Ffionhollyjames
+FFRecordKeeper
 FFVIIRemake
 ffxiv
 FFXIVGlamours
@@ -6055,6 +6060,7 @@ RecipeInspiration
 recipes
 reclaimedbynature
 reclassified
+RecRoom
 recruitinghell
 RectalStickers
 Recursion
@@ -6462,6 +6468,7 @@ Sherlock
 ShermanPosting
 shestillsucking
 shiba
+shibari
 shield
 shieldbro
 shiey
@@ -7934,6 +7941,7 @@ UTAustin
 utdallas
 UTK
 UVA
+uvic
 uwaterloo
 UWMadison
 uwu
