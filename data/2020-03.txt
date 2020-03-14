@@ -1576,6 +1576,7 @@ civ
 civ5
 civ_memes
 civic
+civilengineering
 CivVI
 CK2GameOfthrones
 ClashOfClans
@@ -3089,6 +3090,7 @@ gape
 garfieldminusgarfield
 GarfieldMinusJon
 garfriends
+garfsexual
 GarlicBreadMemes
 Garmin
 Gary_The_Cat
@@ -3251,6 +3253,7 @@ godtiersuperpowers
 GODZILLA
 GoForGold
 gog
+golang
 GoldandBlack
 Goldendoodles
 goldenknights
@@ -4873,6 +4876,7 @@ MelodyMarks
 melts
 meme
 Meme_Battles
+Meme_Family
 Memeconomy
 memeconvention
 MemeEconomy
@@ -5613,6 +5617,7 @@ OneProtectRestAttack
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
+OneTopicAtATime
 OneTrueEmilia
 onetruegod
 OneTrueMiia
@@ -7093,6 +7098,7 @@ stalker
 Stance
 standhurtingjuice
 StandingCarryFuck
+StandUpComedy
 standupshots
 starbound
 starbucks
@@ -7463,6 +7469,7 @@ tf2memes
 tf2shitposterclub
 tf_irl
 Tgifs
+TgirlHUB
 Tgirls
 Thailand
 thalassaphobia
