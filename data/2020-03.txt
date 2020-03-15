@@ -4458,6 +4458,7 @@ learningtocat
 LearnJapanese
 learnjavascript
 learnmachinelearning
+learnmath
 learnprogramming
 learnpython
 learnspanish
@@ -5569,6 +5570,7 @@ OingoBoingoStyle
 okaybuddyfortress
 okaybuddyretard
 okaybuddystonetoss
+okblondedretard
 okboomer
 okboomerretard
 OkBrawlerRetard
