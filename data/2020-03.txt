@@ -1754,6 +1754,7 @@ community
 CompanyBattles
 CompanyOfHeroes
 CompetitiveForHonor
+CompetitiveHS
 Competitiveoverwatch
 CompetitiveTFT
 CompetitiveWoW
@@ -2478,6 +2479,7 @@ dxm
 dyinglight
 Dylann_Vox
 DynastyFF
+E30
 EA_NHL
 eagles
 earlsweatshirt
@@ -4403,6 +4405,7 @@ Keto_Food
 ketodessert
 ketodrunk
 ketorecipes
+kettlebell
 KGATLW
 KGBTR
 khajiithaswares
@@ -4953,6 +4956,7 @@ masterforgiveme
 masterhacker
 MasterOfAnal
 MasterReturns
+MasturbationGoneWild
 MasturbationHentai
 MathJokes
 mathmemes
@@ -6333,6 +6337,7 @@ PSIkiKusuo
 PSO2
 Psoriasis
 PSP
+PSUSTRT
 PSVR
 psx
 psych
@@ -6480,6 +6485,7 @@ reactiongifs
 ReactionMemes
 reactionpics
 reactions
+reactivedogs
 reactjs
 reactnative
 readanotherbook
