@@ -5499,6 +5499,7 @@ NewPatriotism
 NewProductPorn
 news
 newsbloopers
+NewsHub
 NewSkaters
 NewsOfTheStupid
 NewToEMS
@@ -6408,6 +6409,7 @@ QualityPostCrusaders
 Quebec
 queen
 queencirclejerk
+queensuniversity
 QueerEye
 QueerVexillology
 quilting
@@ -7465,6 +7467,7 @@ subaru
 submarines
 submechanophobia
 subnautica
+Subnautica_Below_Zero
 subredditcancer
 SubredditDrama
 SUBREDDITNAME
@@ -8438,6 +8441,7 @@ ukraina
 uktrees
 ultimate
 UltimatePianist
+Ultralight
 ultrawidemasterrace
 umass
 UmbrellaAcademy
