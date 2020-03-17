@@ -717,6 +717,7 @@ BadAssShaggy
 BadChoicesGoodStories
 badcode
 Badcompanies
+BadDesigns
 BadDragon
 badeconomics
 Badfaketexts
@@ -2239,6 +2240,7 @@ Denver
 DenverBroncos
 denvernuggets
 DenzelCurry
+DeogieComics
 depression_memes
 depressionmemes
 depressivejojo
@@ -3811,6 +3813,7 @@ HoneyGold
 HongKong
 HonkaiImpact
 HonkaiImpact3rd
+hopelesssofrantic
 horizon
 horizondesigns
 HorriblyDepressing
@@ -4869,6 +4872,7 @@ LSD
 LTB_iel
 lucia_javorcekova
 LucidDreaming
+luciewilde
 lucifer
 Lucina
 luciomains
@@ -7613,6 +7617,7 @@ suddenlysexoffender
 SuddenlyTrans
 Sufjan
 sugarfreemua
+sugarlifestyleforum
 SugarPine7
 suggestmeabook
 suicidebywords
