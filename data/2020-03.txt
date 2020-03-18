@@ -4825,6 +4825,7 @@ local58
 LockedAway
 lockpicking
 LodedDiper
+LofiGirl
 LofiHipHop
 LogitechG
 logodesign
@@ -5021,6 +5022,7 @@ Mariners
 Mario
 mariokart
 MarioKartTour
+MarioMaker2
 mariorule34
 Market76
 Markiplier
@@ -7227,6 +7229,7 @@ simps
 simpsonsdidit
 SimpsonsFaces
 simpsonsshitposting
+SIMPtopia
 simracing
 Sims3
 Sims4
@@ -7599,6 +7602,7 @@ StrangePlanet
 StrangerThings
 straponlesbians
 Straps
+straykids
 StreamersGoneWild
 streetart
 streeteats
