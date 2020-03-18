@@ -5659,6 +5659,7 @@ newsbloopers
 NewsHub
 NewSkaters
 NewsOfTheStupid
+NewsOfTheWeird
 NewToEMS
 NewVegasMemes
 newyorkcity
@@ -6917,6 +6918,7 @@ sadcringe
 SaddestBackflip
 SadHorseShow
 sadlygokarts
+sadlynormalreddit
 safe_food
 SafelyEndangered
 Saggy
