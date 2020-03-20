@@ -740,6 +740,7 @@ badcode
 Badcompanies
 BadDesigns
 BadDragon
+baddragongonewild
 badeconomics
 Badfaketexts
 badhistory
@@ -1777,6 +1778,7 @@ codyko
 CODZombies
 Coffee
 Coffee_Shop
+CoffeeGoneWild
 coins
 ColdOnes
 Coldplay
@@ -3123,6 +3125,7 @@ foundthehondacivic
 FoundTheJedi
 foundthemobileuser
 foundtheprogrammer
+FoundTheStandUser
 foundwalter
 fountainpens
 foxes
@@ -4776,6 +4779,7 @@ LazarBeam
 LazyCats
 LDR
 lds
+LeaEluiGinet
 leafs
 LeagueofFailures
 leagueoflegends
@@ -4879,6 +4883,7 @@ libertarianmeme
 Libraries
 LifeAfterNarcissism
 LifeAfterSchool
+Lifebrotips
 lifehacks
 lifeisstrange
 LifeofBoris
@@ -8175,6 +8180,7 @@ TheEroticSalon
 TheExpanse
 TheFence
 thefighterandthekid
+TheFirstLaw
 theflash
 TheFloridaMen
 TheForest
@@ -8308,6 +8314,7 @@ tifu
 tight_shorts
 tightdresses
 TIGHTPUSSY
+TightsAndTightClothes
 TightShorts
 tightsqueeze
 TIHI
