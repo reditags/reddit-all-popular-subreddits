@@ -3718,6 +3718,7 @@ GothStyle
 gradadmissions
 GradSchool
 Graffiti
+grammar
 Granblue_en
 GranblueFantasyVersus
 grandayy
@@ -4759,6 +4760,7 @@ KatyaClover
 katyperry
 KatyuskaMoonFox
 Kawaiiikitten
+kayakfishing
 Kayaking
 KaylaErinCosplay
 KaylaJones
@@ -5801,6 +5803,7 @@ mrlovenstein
 mrpresidentthebutton
 MrRobot
 MrsPoindexter
+MrYeasty
 msp
 MSsEcReTPoDcAsT
 MST3K
@@ -6661,6 +6664,7 @@ Piracy
 PiratedGames
 PirateKitties
 PiratePets
+pisceussss
 pitbulls
 pitbulls_in_partyhats
 pitbullsinjammies
@@ -8025,6 +8029,7 @@ Standup
 StandUpComedy
 standupshots
 StanleyKubrick
+Staples
 starbound
 starbucks
 starcitizen
@@ -9004,6 +9009,7 @@ u_EurasianJenna
 u_explicitcherries2
 u_faraway34b
 u_Farbootyy
+u_FeloniousJane
 u_fewtilda
 u_ffaez1267
 u_fifoxy
@@ -9299,6 +9305,7 @@ Unexpectedfriends
 unexpectedfuturama
 UnexpectedGoodPlace
 UnexpectedHamilton
+Unexpectedhermitcraft
 UnexpectedHitler
 unexpectedhogwarts
 unexpectedjihad
