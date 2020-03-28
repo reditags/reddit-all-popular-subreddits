@@ -3337,6 +3337,7 @@ FinalSpace
 finance
 FinancialCareers
 financialindependence
+FinancialPlanning
 findapath
 findareddit
 findfashion
@@ -4542,6 +4543,7 @@ ilikthebred
 IllegalLifeProTips
 illegallifeprotips2
 illegallybigcats
+IllegallySmol
 IllegallySmolCats
 IllegallySmolDogs
 illinois
