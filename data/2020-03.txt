@@ -7920,6 +7920,7 @@ RpVoid
 rs2vietnam
 RTGameCrowd
 rubberducks
+RubeGoldberg
 RubeGoldbergFails
 rugbyunion
 RugsOnly
