@@ -146,6 +146,7 @@ ACT
 acting
 ActionFigures
 ACTownThemes
+ACTrade
 actualconspiracies
 ActualHippies
 ActualPublicFreakouts
@@ -6311,6 +6312,7 @@ momson
 Monash
 Monero
 monkeyspaw
+monkslookingatbeer
 MonstaX
 monsteraday
 Monstercat
@@ -8473,6 +8475,7 @@ shoujoai
 shouldercats
 ShouldIbuythisgame
 ShovelKnight
+ShowerBeerGoneWild
 ShowerOrange
 Showerthoughts
 showthistoaloona
@@ -9466,6 +9469,7 @@ Thetruthishere
 TheUnderboob
 TheUnderbun
 theunforgiven
+TheVampireDiaries
 thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
