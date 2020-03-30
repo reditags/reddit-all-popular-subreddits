@@ -10414,6 +10414,7 @@ UCalgary
 UCDavis
 ucf
 UCI
+uCinci
 ucla
 UCONN
 ucr
