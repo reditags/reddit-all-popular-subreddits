@@ -590,6 +590,7 @@ AppHookup
 appiememes
 apple
 apple2
+AppleMusic
 AppleWatch
 ApplyingToCollege
 April_ONeil
@@ -8489,6 +8490,7 @@ RetroPie
 RetrousseTits
 reverseanimalrescue
 reversegif
+Revolvers
 reylo
 ReZeroHentai
 RheaRipley
