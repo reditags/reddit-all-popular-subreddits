@@ -339,6 +339,7 @@ angryupvotes
 ani_bm
 ANI_COMMUNISM
 Animal_Sanctuary
+AnimalCollective
 AnimalCrossing
 AnimalCrossingFashion
 animalcrossingmeme
@@ -1221,6 +1222,7 @@ BreeBoo
 Breeding
 BreedingMaterial
 brexit
+briandavidgilbert
 bridale22
 bridezillas
 BridgetteB
@@ -1390,6 +1392,7 @@ CapturedWeapons
 capybara
 CaraDelevingne
 carbage
+carcrash
 cardano
 cardfightvanguard
 CardiB
@@ -2871,6 +2874,7 @@ Fighters
 FightingLion
 fightporn
 fightsticks
+filmfashion
 Filmmakers
 FilthyAsians
 FilthyFrank
@@ -2920,6 +2924,7 @@ Fitmoe
 FitNakedGirls
 fitness30plus
 FitWomenGifs
+Fiveheads
 fivenightsatfreddys
 fixedeyebrows
 FixedGearBicycle
@@ -2991,6 +2996,7 @@ forhonorknights
 forhonormemes
 ForHonorSamurai
 ForHonorVikings
+FormerPizzaHuts
 formula1
 Formula1Point5
 FormulaBuddyRetard
@@ -6327,6 +6333,7 @@ productgif
 productivity
 ProductManagement
 ProductPorn
+ProfessorLayton
 ProfessorOak
 Professors
 progmetal
@@ -7089,6 +7096,7 @@ simpleliving
 simplynailogical
 SimplySporty
 simps
+simpsonsdidit
 SimpsonsFaces
 simpsonsshitposting
 simracing
@@ -7286,6 +7294,7 @@ Spanish
 SpecArt
 specializedtools
 SpecialSnowflake
+SpeculativeEvolution
 SpeedOfLobsters
 speedofwagon
 speedrun
