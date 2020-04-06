@@ -2446,6 +2446,7 @@ DrewGooden
 drifties
 Drifting
 Drizzy
+drones
 dross
 DrosteEffect
 DrStone
@@ -3761,6 +3762,7 @@ Hololive
 HolUp
 HolyGrailMemes
 HolyPrequelMemes
+homeassistant
 homeautomation
 Homebrewing
 HomeDecorating
@@ -6838,6 +6840,7 @@ schnauzers
 school_memes
 SchoolGirlSkirts
 SchoolIdolFestival
+SchoolSystemBroke
 science
 ScienceFacts
 sciencefiction
@@ -7205,6 +7208,7 @@ SneakyAnimals
 SneakyBackgroundFeet
 sneakyporn
 SneakySasquatch
+Snek
 Sneks
 snes
 snom
@@ -8928,6 +8932,7 @@ XboxSeriesX
 XChangePill
 Xcom
 Xenoblade_Chronicles
+Xenonion
 Xev_Bellringer
 XFiles
 xfl
