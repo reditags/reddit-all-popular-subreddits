@@ -3662,6 +3662,7 @@ HealSluts
 Health
 HealthyEatingnow
 HealthyFood
+heartbreak
 hearthstone
 hearthstonecirclejerk
 HeartShapedHentai
@@ -5554,6 +5555,7 @@ newhampshire
 NewHorizonsAC
 newjersey
 NewOrleans
+NewParents
 NewPatriotism
 NewProductPorn
 newreddits
@@ -8843,8 +8845,10 @@ Whatcouldgowrong
 whatintarnation
 Whatisthis
 whatisthiscar
+whatisthisfish
 whatisthisthing
 WhatShouldICook
+whatsthatbook
 whatsthisbird
 whatsthisbug
 whatsthisplant
