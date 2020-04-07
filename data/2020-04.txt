@@ -466,6 +466,7 @@ AppHookup
 apple
 AppleMusic
 AppleWatch
+AppleWatchFitness
 ApplyingToCollege
 April_ONeil
 aprilfools
@@ -1828,6 +1829,7 @@ communism101
 Communism_2
 CommunismMemes
 community
+CompanyBattles
 CompanyOfHeroes
 CompetitiveApex
 CompetitiveEDH
@@ -2334,6 +2336,7 @@ DetroitRedWings
 Deusex
 DeuxRAMA
 DevilMayCry
+devils
 Devs
 Dewlap
 DexMemes
@@ -2675,6 +2678,7 @@ Emma_Roberts
 EmmaKotos
 EmmanuelleChriqui
 EmmaStone
+EmmaWatsonBum
 EmmyRossum
 Emo
 emogirls
@@ -4269,6 +4273,7 @@ IreliaMains
 irezumi
 IrinaSabetskaya
 IrineMeier
+IrishHistory
 irishsetter
 IRLEasterEggs
 IRLgirls
@@ -6692,6 +6697,7 @@ rance
 Random_Acts_Of_Amazon
 RandomActsofCards
 RandomActsOfGaming
+RandomActsofMakeup
 randomactsofmusic
 RandomKindness
 randomsexiness
@@ -7788,6 +7794,7 @@ SuperMarioOdyssey
 SuperMegaShow
 SupermodelCats
 SuperModelIndia
+SuperMorbidlyObese
 Supernatural
 superpoweralchemists
 supersentai
