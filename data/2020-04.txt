@@ -864,6 +864,7 @@ battlefront
 BattlefrontMemes
 BattleJackets
 battlemaps
+BattleNetwork
 battlestations
 battletech
 Battletechgame
@@ -1812,6 +1813,7 @@ clutchband
 CoachCorySubmissions
 Coachella
 coaxedintoasnafu
+cobrakai
 cocaine
 cock
 cockatiel
@@ -7256,6 +7258,7 @@ SanJose
 SanJoseSharks
 SannaMeira
 sanpedrocactus
+santacruz
 SantaMuerte
 SAOAlicizationRS
 SaoirseRonan
@@ -9328,6 +9331,7 @@ watercooling
 waterloo
 waterporn
 watersports
+WattsonMains
 Waxpen
 WayOfTheBern
 WC3
