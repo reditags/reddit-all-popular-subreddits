@@ -944,6 +944,7 @@ BattlefieldV
 BattleForDreamIsland
 battlefront
 BattlefrontMemes
+BattlefrontTWO
 BattleJackets
 battlemaps
 BattleNetwork
@@ -1332,6 +1333,7 @@ Borderlands2
 borderlands3
 BorderlinePDisorder
 Borderporn
+BorednIgnored
 borussiadortmund
 Boruto
 Bossfight
@@ -10486,6 +10488,7 @@ youdontsurf
 YouFellForItFool
 YoujoSenki
 youngadults
+YoungGuysGoneWild
 youngjustice
 youngpeoplegoogleplay
 youngpeoplehatespeech
