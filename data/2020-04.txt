@@ -528,6 +528,7 @@ ApexLore
 ApexOutlands
 ApexUncovered
 apexuniversity
+Aphantasia
 aphextwin
 apolloapp
 AppalachianTrail
@@ -567,6 +568,7 @@ ArchitecturePorn
 archlinux
 arcticmonkeys
 arduino
+ArduinoProjects
 Area51memes
 arenaofvalor
 areolas
@@ -4296,6 +4298,7 @@ hempflowers
 Hendoart_
 Hentai4Everyone
 HENTAI_GIF
+hentai_highlights
 Hentai_Interracial
 hentai_irl
 Hentai_memes
@@ -7810,6 +7813,7 @@ RitaOra
 RivalsOfAether
 Rivenmains
 riverdale
+RLCraft
 RLFashionAdvice
 Roadcam
 roadtrip
