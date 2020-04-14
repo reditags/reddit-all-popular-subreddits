@@ -678,6 +678,7 @@ AskMenOver30
 AskNYC
 AskOuija
 askphilosophy
+AskPhotography
 AskPhysics
 askportland
 AskReddit
@@ -4253,6 +4254,7 @@ hardwaregore
 hardwareswap
 Harley
 HarleyDean
+HarleyQuinnTV
 harrypotter
 HarryPotterMemes
 harrypotterporn
@@ -5596,6 +5598,7 @@ livepd
 Liverpool
 LiverpoolFC
 LivestreamFail
+Liya_Silver
 LiyaSilver
 lizgillies
 LizKatz
@@ -5799,6 +5802,7 @@ MandJTV
 MandRproductions
 MandyMuse
 MandyRose
+manelore
 MangaCollectors
 mangadex
 ManHands
@@ -6941,6 +6945,7 @@ otomegames
 Otonokizaka
 ottawa
 OttawaSenators
+Otterable
 Otters
 ottomans
 OuchMyBalls
