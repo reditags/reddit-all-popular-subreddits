@@ -677,6 +677,7 @@ AskGaybrosOver30
 AskGayMen
 AskHistorians
 AskHistory
+AskLosAngeles
 AskMen
 AskMenOver30
 AskNYC
@@ -5737,6 +5738,7 @@ LowSodiumDestiny
 LowStakesConspiracies
 Lowtechbrilliance
 LPOTL
+LSAT
 LSD
 LSDTripLifeHacks
 LTB_iel
