@@ -3216,6 +3216,7 @@ EUnews
 euphonium
 euphoria
 europe
+EuropeanFederalists
 EuropeanSocialists
 eurovision
 EvaElfie
@@ -5540,6 +5541,7 @@ learningtocat
 LearnJapanese
 learnjavascript
 learnmachinelearning
+learnmath
 learnprogramming
 learnpython
 learnspanish
