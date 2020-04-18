@@ -2150,6 +2150,7 @@ comicbookcollecting
 comicbookmovies
 comicbooks
 comics
+comingout
 commandandconquer
 CommentAwardsForum
 commentsyoucanhear
@@ -3579,6 +3580,7 @@ flyfishing
 FlyFishingCircleJerk
 flying
 flytying
+FML
 FMN
 fnatic
 fnki
@@ -5440,6 +5442,7 @@ knives
 knockmeup
 knolling
 Knoxville
+KoboldLegion
 KochWatch
 KoeNoKatachi
 Kombucha
