@@ -1478,6 +1478,7 @@ Brawl_Stars
 Brawlhalla
 Brawlstars
 BrawlStarsCompetitive
+brawlstarsmodding
 bread_irl
 Breadit
 BreadStapledToTrees
