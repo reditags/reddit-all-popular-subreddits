@@ -1427,6 +1427,7 @@ BostonBruins
 bostonceltics
 BostonTerrier
 bostontrees
+BostonU
 BotanicalPorn
 botany
 Botchedsurgeries
@@ -2721,6 +2722,7 @@ DesignerReps
 DesignMyRoom
 DesignPorn
 DesirePath
+DesirePaths
 desmoines
 desmos
 despacito
@@ -9539,6 +9541,7 @@ TheLetterH
 thelongdark
 TheLostWoods
 TheMagnusArchives
+TheMajorityReport
 TheMandalorianTV
 TheMaskedSinger
 ThemeParkitect
@@ -10895,6 +10898,7 @@ WildAndExiled
 wildbeef
 WildernessBackpacking
 wildhearthstone
+wildhockey
 Wildlands
 wildlifephotography
 wildlypenis
