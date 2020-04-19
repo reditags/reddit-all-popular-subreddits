@@ -142,6 +142,7 @@ ACPocketCamp
 ACQR
 ACT
 ActionFigures
+ActiveMeasures
 activism
 ACTrade
 actualconspiracies
@@ -2308,6 +2309,7 @@ countablepixels
 counterstrike
 CountryHumans
 couplesgonewild
+couriersofreddit
 CourtneyMiller
 CourtneyTailor
 Covetfashion
@@ -4230,6 +4232,7 @@ GreenBayPackers
 GreenDawn
 greenday
 GreenEyed
+Greenhouses
 greeninvestor
 GreenParty
 greentext
@@ -6931,6 +6934,7 @@ NuxTakuSubmissions
 nuzlocke
 nvidia
 NWSL
+nycCoronavirus
 nycrail
 NYGiants
 nyjets
@@ -7308,6 +7312,7 @@ pegging_unkinked
 pelfie
 pelletgrills
 peloton
+pelotoncycle
 penguin
 PenguinOfTheMonth
 penguins
