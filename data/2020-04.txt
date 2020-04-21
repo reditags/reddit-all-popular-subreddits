@@ -716,6 +716,7 @@ AskReddit
 AskRedditAfterDark
 askscience
 AskScienceFiction
+AskSF
 askteenboys
 AskTeenGirls
 AskTeens
@@ -7587,6 +7588,7 @@ PlantBasedDiet
 plantclinic
 PlantedTank
 PlantGoths
+PlantIdentification
 plantmemes
 plants
 plantsandpots
@@ -10428,6 +10430,7 @@ u_thiccbarbie420
 u_thicccginger
 u_throwaway-for-nudes
 u_ThunderingSacks
+u_Tiny_Taiga
 u_tinypeachpuff
 u_tobinedam
 u_Tracie2229
@@ -11088,6 +11091,7 @@ womenintrouble
 WomenLookingDown
 WomenOfColor
 womenofcolorXXX
+WomenOfColour
 WomensHealth
 womensstreetwear
 WomenWritingMen
