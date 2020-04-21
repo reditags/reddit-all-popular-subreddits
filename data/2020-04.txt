@@ -1533,6 +1533,7 @@ BringMeTheHorizon
 brisbane
 bristol
 britishcolumbia
+BritishEmpire
 britishmilitary
 britishproblems
 britishshorthair
@@ -4690,6 +4691,7 @@ Hookit
 hopelesssofrantic
 horizon
 horizondesigns
+HorribleHistoryMemes
 HorriblyDepressing
 horror
 horrorlit
@@ -7226,6 +7228,7 @@ OpenChristian
 opendirectories
 opensource
 openttd
+Opeth
 Opossums
 oppai_gif
 OppaiLove
@@ -7746,6 +7749,7 @@ postrock
 postscriptum
 posturepals
 PostureTipsGuide
+PotatoesAreFunny
 potatosalad
 POTCmemes
 pottedcats
