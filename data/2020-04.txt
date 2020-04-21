@@ -145,6 +145,7 @@ ACT
 ActionFigures
 ActiveMeasures
 activism
+ActLikeYouBelong
 ACTrade
 actualconspiracies
 actualdarkhumor
@@ -926,6 +927,7 @@ badroommates
 badscience
 badtaxidermy
 badUIbattles
+baduk
 badwomensanatomy
 Bailey_Brooke
 BaileyJay
@@ -2645,6 +2647,7 @@ dauntless
 daverubin
 DavidBowie
 DavidDobrik
+davidlynch
 Davie504
 Dawko
 DaybreakNetflix
@@ -5613,6 +5616,7 @@ LAClippers
 lacrosse
 lactation
 ladiesinsuits
+LadiesofScience
 LadiesOfWrestling
 lady_in_the_streets
 LadyBoners
@@ -6435,6 +6439,7 @@ minimalist
 miniminter
 minioncels
 MinionHate
+MinionMemes
 minipainting
 Miniworlds
 Minneapolis
