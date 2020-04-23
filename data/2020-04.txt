@@ -3166,6 +3166,7 @@ Eldar
 Eldenring
 ElderKings
 ElderScrolls
+ElderScrollsBlades
 elderscrollsonline
 ElectricalEngineering
 electricdaisycarnival
@@ -11461,6 +11462,7 @@ ZeldaBotW
 ZeldaIsCute
 ZeldaMemes
 ZeLink
+zen
 Zendaya
 ZenHabits
 ZeroContextJoJo
