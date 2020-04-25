@@ -4000,6 +4000,7 @@ gadgets
 gag_spit
 gaggingcats
 GakiNoTsukai
+Galaxy_S20
 galaxynote10
 GalaxyNote9
 galaxys10
@@ -5462,6 +5463,7 @@ just2good
 justa
 JustBBlack
 JustBootThings
+JustBorkMyBorkUp
 JustCause
 justdependathings
 justforsocialmedia
