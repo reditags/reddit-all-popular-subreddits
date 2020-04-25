@@ -1757,6 +1757,7 @@ CapnDesDes
 caps
 CaptainDisillusion
 CaptainSparklez
+CaptchaArt
 CapturedWeapons
 capybara
 CaraDelevingne
@@ -2744,6 +2745,7 @@ DeathStranding
 DeathToBuzzfeed
 Debate
 DebbyRyan
+December2020BabyBumps
 dechonkers
 DecidingToBeBetter
 DeclineIntoCensorship
@@ -5256,6 +5258,7 @@ ItTheMovie
 ITZY
 iWallpaper
 IWantItSoBad
+iwantnicethings
 iwanttoapologize
 iwanttobeher
 IWantToBeHerHentai
@@ -6326,6 +6329,7 @@ McMansionHell
 McMaster
 MCPE
 mcrealmsservers
+mcservers
 MDEnts
 MDMA
 me_irl
