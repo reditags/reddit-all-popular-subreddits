@@ -4991,6 +4991,7 @@ ImaginaryCharacters
 ImaginaryCityscapes
 ImaginaryColorscapes
 imaginarycosmere
+ImaginaryCybernetics
 ImaginaryCyberpunk
 ImaginaryDarkSouls
 ImaginaryDemons
