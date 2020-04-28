@@ -1097,6 +1097,7 @@ BattlePaintings
 battlestations
 battletech
 Battletechgame
+Battletops
 battlewagon
 batty
 Baxov
@@ -2756,6 +2757,7 @@ danganronpa
 dangerousdesign
 DangleAndJingle
 DaniDaniels
+DaniDev
 DanielleBeaulieu
 DanielleSharp
 DanielSea
