@@ -2544,6 +2544,7 @@ CrappyDesign
 crappyoffbrands
 crashbandicoot
 crashteamracing
+crazy_inventions
 crazyexgirlfriend
 CrazyHand
 CrazyIdeas
@@ -5044,6 +5045,7 @@ Honkers
 HoodedEyes
 hookah
 HookedUpHentai
+HookingHentai
 Hookit
 hopelesssofrantic
 horizon
@@ -5312,6 +5314,7 @@ ImaginaryTamriel
 ImaginaryTechnology
 ImaginaryTemples
 ImaginaryTurtleWorlds
+ImaginaryUndead
 ImaginaryVaultHunters
 ImaginaryVehicles
 ImaginaryWarhammer
@@ -9920,6 +9923,7 @@ StopSpeciesism
 StoriesAboutKevin
 StormiMayaAlvarez
 Stormlight_Archive
+Stormworks
 Stoyaxxx
 STPeach
 StPetersburgFL
