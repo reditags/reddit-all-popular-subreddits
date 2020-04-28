@@ -2958,6 +2958,7 @@ DeTrashed
 Detroit
 DetroitBecomeHuman
 detroitlions
+DetroitPistons
 DetroitRedWings
 Deusex
 DeuxRAMA
