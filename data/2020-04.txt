@@ -3061,6 +3061,7 @@ DivorcedBirds
 DiWHY
 DiWHYNOT
 DIY
+DIYAudioCables
 DIYclothes
 diyelectronics
 diynz
@@ -6875,6 +6876,7 @@ misanthropy
 misc
 miscatculations
 misfits
+MisleadingPuddles
 misleadingthumbnails
 misLED
 MisreadSprites
