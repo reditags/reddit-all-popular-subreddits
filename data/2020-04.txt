@@ -152,6 +152,7 @@ acnh
 ACNH_RealTime
 ACNHGardening
 ACNHIslandInspo
+ACNHTurnips
 ACPocketCamp
 ACQR
 ACT
@@ -10921,6 +10922,7 @@ u_alli12g
 u_AlohaKiara
 u_Ambabyx
 u_amyslittlesecret
+u_analisa0313
 u_AndrisElena
 u_Angelina_Valsova
 u_Angry_Asian_Kid
