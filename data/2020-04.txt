@@ -2194,6 +2194,7 @@ ChurchofMaiSakurajima
 churchofmakoto
 ChurchofMarnie
 ChurchOfMinaAshido
+ChurchOfMineta
 ChurchOfNaoto
 ChurchOfPyra
 ChurchofRise
@@ -3739,6 +3740,7 @@ farmingsimulator
 FarmsofStardewValley
 farpeoplehate
 fashion
+Fashion_Design
 fashionhistory
 fashionporn
 FashionReps
@@ -11400,6 +11402,7 @@ u_ThunderingSacks
 u_Tiny_Taiga
 u_tinypeachpuff
 u_tinyred25
+u_TJD985
 u_tobinedam
 u_Tracie2229
 u_TrashBuns
