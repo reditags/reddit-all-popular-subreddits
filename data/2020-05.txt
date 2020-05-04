@@ -795,6 +795,7 @@ BattleJackets
 battlemaps
 BattleNetwork
 battlestations
+battletech
 Battletechgame
 battlewagon
 batty
@@ -838,6 +839,7 @@ BeautyDiagrams
 BeavisAndButthead
 BeckyCrocker
 BedBros
+bee_irl
 beef_flaps
 Beekeeping
 beenagers
@@ -2196,6 +2198,7 @@ Deusex
 DeuxRAMA
 DevilArtemisUniverse
 DevilMayCry
+devils
 DexMemes
 Dexter
 dgrayman
@@ -2204,6 +2207,7 @@ diabetes
 diabetes_t1
 diablo2
 diablo3
+DiamondHoeMasterRace
 DiavoloDeathCount
 dice
 DicePorn
@@ -2849,6 +2853,7 @@ fnv
 fo4
 fo76
 fo76FilthyCasuals
+FolkPunk
 FondantHate
 food
 Foodforthought
@@ -3007,6 +3012,7 @@ fujix
 fullegoism
 FullmetalAlchemist
 fullmetalifrit
+fullmoviesonyoutube
 FullPornSources
 FullScorpion
 FullShrimp
@@ -3603,6 +3609,7 @@ HillaryForPrison
 himikotoga
 HIMYM
 hinduism
+HipHopGoneWild
 HipHopImages
 hiphopvinyl
 HiScoreGirl
@@ -5690,6 +5697,7 @@ OneSecondBeforeDisast
 oneshot
 OneTopicAtATime
 OneTrueEmilia
+onetruegod
 OneTrueMiia
 OneTrueTohsaka
 onewheel
@@ -5879,6 +5887,7 @@ Pegging
 pegging_unkinked
 pelfie
 pelletgrills
+peloton
 pelotoncycle
 Pendulum
 penguin
@@ -6799,6 +6808,7 @@ SharedBPM
 sharks
 Sharktits
 sharpcutting
+sharpening
 SheFucksHim
 SheLikesItRough
 SheMakesHerSuck
@@ -8116,6 +8126,7 @@ u_Malava
 u_mathema-kitten
 u_Merryweatherey
 u_Miss_Zelda
+u_missallie0406
 u_MissMacabrex
 u_MissPrincessKay
 u_Mistress-Dolly
@@ -8437,6 +8448,7 @@ vintageads
 VintageApple
 vintageaudio
 VintageFashion
+VintageFashions
 vintagejapaneseautos
 VintageLadyBoners
 VintageLGBT
@@ -8486,6 +8498,7 @@ vtmb
 Vulfpeck
 Vulpesismywaifu
 vultureculture
+VXJunkies
 VyvanLe
 vzla
 WA_guns
