@@ -558,6 +558,7 @@ AskBalkans
 askcarsales
 AskCulinary
 AskDocs
+AskElectronics
 AskEngineers
 AskEurope
 askgaybros
@@ -667,6 +668,7 @@ aviationmemes
 avicii
 AVoid5
 avoidchineseproducts
+awakened
 AwardSpeechEdits
 awenime
 awesome
@@ -1138,6 +1140,7 @@ BostonU
 BotanicalPorn
 botany
 Botchedsurgeries
+botsrights
 bottlebrush
 botw
 boudoir
@@ -1337,6 +1340,7 @@ CanadianForces
 canadients
 canberra
 candiceswanepoel
+cannabis
 cannabiscultivation
 Canning
 CantBelieveThatsReal
@@ -1875,6 +1879,7 @@ creepyPMs
 CreepyWikipedia
 cremposting
 CrestedGecko
+CrewsCrew
 Cricket
 CricketShitpost
 cricut
@@ -1919,6 +1924,7 @@ CSHFans
 csMajors
 CSULB
 Cthulhu
+Cubbixoxo
 Cubers
 CubeWorld
 cuboulder
@@ -2151,6 +2157,7 @@ delusionalcraigslist
 DemEyesDoe
 DemiLovato
 DemiRoseMawby
+demisexuality
 DemocraticSocialism
 democrats
 demonssouls
@@ -2229,6 +2236,7 @@ DigitalPainting
 diives
 Dildo_Gifs
 dillion_harper
+DillionHarper
 Dimension20
 DinosaurEarth
 Dinosaurs
@@ -2459,6 +2467,7 @@ Eesti
 eezygang
 eFreebies
 egg_irl
+EggsInStrangePlaces
 EgregiousPackaging
 Egypt
 EizaGonzalez
@@ -2561,6 +2570,7 @@ EOOD
 EpicKarma
 EpicSeven
 Epithet_Erased
+Epstein
 equelMemes
 equestriaatwar
 Equestrian
@@ -2995,6 +3005,7 @@ fuckedupmemes2
 fuckepic
 FuckGaming
 fuckgravel
+fuckHOA
 FuckHomescapes
 FuckImOld
 fuckingmanly
@@ -3275,6 +3286,7 @@ goats
 goblincore
 GoblinSlayer
 GoblinSlayerNSFW
+GodDesigns
 goddesses
 godofhighschool
 GodofWar
@@ -4055,6 +4067,7 @@ IreliaMains
 irezumi
 IrinaSabetskaya
 IrineMeier
+IrishHistory
 IRLEasterEggs
 IRLgirls
 IronFrontUSA
@@ -4471,6 +4484,7 @@ ladyladyboners
 Laesterschwestern
 laidbackcamp
 LakeErieBros
+LakeLaogai
 lakers
 LakkoPostaukset
 Lalatina
@@ -5123,6 +5137,7 @@ Minneapolis
 minnesota
 minnesotatwins
 minnesotavikings
+Minoxbeards
 miraculousladybug
 miragemains
 MirandaKerr
@@ -5350,6 +5365,7 @@ natureporn
 Naturewasmetal
 NaughtyWives
 navy
+navyseals
 nayeon
 nba
 NBA2k
@@ -6254,6 +6270,7 @@ Punny
 PunPatrol
 PunResistance
 puns
+PupliftingNews
 puppersheckingdying
 puppies
 PuppyBellies
@@ -8066,6 +8083,7 @@ u_brattysofiax
 u_Bree-Boo
 u_brereedus
 u_brownbutterxo
+u_bunni-xxx
 u_burlesqueboobs
 u_bustybambi
 u_C4770
@@ -8340,6 +8358,7 @@ unpopularopinion
 unrealengine
 UnresolvedMysteries
 UnsentLetters
+UnsolvedMysteries
 unstirredpaint
 untitledgoosegame
 untrustworthypoptarts
@@ -8564,6 +8583,7 @@ watch_dogs
 WatchandLearn
 WatchAnimalsDieInside
 watchcatsdieinside
+WatchDogsDieInside
 WatchDogsWoofInside
 Watches
 WatchesCirclejerk
@@ -8627,6 +8647,7 @@ WetlanderHumor
 WeWantPlates
 wgbeforeafter
 whales
+whaletail
 whatcouldgoright
 Whatcouldgowrong
 whatintarnation
