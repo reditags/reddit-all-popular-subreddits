@@ -2486,6 +2486,7 @@ doordash
 doordash_drivers
 Dorohedoro
 DotA2
+doublepenetration
 doughboys
 DoveCameron
 downblouse
@@ -4278,6 +4279,7 @@ intrusivethoughts
 inuyasha
 invaderzim
 Invisalign
+io_nvr
 ios
 iOSBeta
 iosgaming
@@ -4569,6 +4571,7 @@ katyperry
 KatyuskaMoonFox
 kayakfishing
 Kayaking
+KaylaErinCosplay
 KaylaJones
 Kaylemains
 KaynMains
@@ -5451,6 +5454,7 @@ misc
 misfits
 misleadingthumbnails
 MisreadSprites
+Miss_Impulse
 MissAlice_18
 missbo
 misscutiepie
@@ -7310,6 +7314,7 @@ shittymobilegameads
 shittymoviedetails
 ShittyPhotoshop
 ShittyPickupLines
+shittyprogramming
 shittyrainbow6
 shittyreactiongifs
 shittyrobots
