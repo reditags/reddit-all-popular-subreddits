@@ -612,6 +612,7 @@ AskDocs
 AskElectronics
 AskEngineers
 AskEurope
+AskFeminists
 askgaybros
 AskGaybrosOver30
 AskGayMen
@@ -5141,6 +5142,7 @@ love
 Lovecraft
 LoveDeathAndRobots
 LoveForLandlords
+lovegaymale
 LoveIsBlindOnNetflix
 LoveIslandTV
 LoveLive
@@ -9557,6 +9559,7 @@ wokekids
 Wolfenstein
 wolves
 WolvesAreBigYo
+WolvesWithWatermelons
 women
 WomenBendingOver
 womenintrouble
