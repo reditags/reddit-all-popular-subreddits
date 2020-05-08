@@ -645,6 +645,7 @@ asktransgender
 asktrp
 AskTrumpSupporters
 AskUK
+AskVet
 asl
 asmr
 asoiaf
@@ -1936,6 +1937,7 @@ COMPLETEANARCHY
 ComplexionExcellence
 composting
 compsci
+computers
 computerscience
 computervision
 conan
@@ -2258,6 +2260,7 @@ DanMachi
 DannyDeVito
 DannyGonzalez
 Daredevil
+Darihana_Nova
 DariSmith
 Dariusmains
 DarK
@@ -3149,6 +3152,7 @@ flicks
 flightsim
 Flirtymemes
 Floof
+FloorGang
 FlorenceAndTheMachine
 florida
 FloridaCoronavirus
@@ -5058,6 +5062,7 @@ Lexus
 lexypanterra
 lgballt
 lgbt
+lgbtaww
 lgbtmemes
 LGBTnews
 LiaraRoux
@@ -8358,6 +8363,7 @@ thalassophobia
 Thank_China
 thanksihateit
 thanksimcured
+ThanksManagement
 ThanksWorldGen
 thankyoubarbara
 thanosdidnothingwrong
@@ -9055,6 +9061,7 @@ u_SerAntwon
 u_SexyFlowerWater
 u_SexyGamerDoll
 u_shittymorph
+u_ShyGothExhib
 u_shyphoebe
 u_shyphoebs
 u_Sidney__Prescott
@@ -9509,6 +9516,7 @@ Waterdogs
 waterloo
 waterporn
 WattsonMains
+Waxpen
 WayOfTheBern
 we_irl
 WeaponsMoe
