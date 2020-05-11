@@ -653,6 +653,7 @@ AskMen
 AskMenOver30
 AskNYC
 AskOuija
+askphilosophy
 AskPhotography
 AskReddit
 AskRedditAfterDark
@@ -1025,6 +1026,7 @@ bestof
 BestOfDancingBear
 BestofIndianGirls
 bestoflegaladvice
+bestofnetflix
 BestOfReports
 bestoftwitter
 BestPornInGalaxy
@@ -3055,6 +3057,7 @@ FalloutMemes
 FalloutMods
 falloutnewvegas
 falloutsettlements
+family
 familyguy
 fanart
 FancyFeet
@@ -3507,6 +3510,7 @@ gachagaming
 GachaLifeCringe
 gadgets
 gagged
+gaggingcats
 GakiNoTsukai
 galaxybuds
 galaxynote10
@@ -4446,6 +4450,7 @@ imgoingtohellforthis2
 Impeach_Trump
 Imperator
 ImperiumMemes
+ImpracticalArmour
 ImpracticalJokers
 ImpressiveStuff
 ImprovedHistoryMemes
@@ -5957,6 +5962,7 @@ mtgaltered
 mtgfinance
 MTGLegacy
 mtgporn
+MTU
 MtvChallenge
 mua
 MUAontheCheap
@@ -6118,6 +6124,7 @@ nevillegoddardsp
 newbrunswickcanada
 newcastle
 newfoundland
+Newfoundlander
 NewGirl
 NewGreentexts
 newhampshire
