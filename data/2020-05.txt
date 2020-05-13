@@ -7058,6 +7058,7 @@ PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
 politics
+polls
 Polska
 Polska_wpz
 polymerclay
@@ -7592,6 +7593,7 @@ RPClipsGTA
 RPDR_UK
 RPDRDRAMA
 rpg
+rpg_gamers
 rpghorrorstories
 RPGMaker
 RPI
@@ -9557,6 +9559,7 @@ u_TheFriendliestSloot
 u_TheLazyDucky
 u_themotionoftheocean1
 u_TheRadRabbidRabbit
+u_therealcassie0pia
 u_TheRedHeadedRabbit
 u_Thibson34
 u_thicccginger
