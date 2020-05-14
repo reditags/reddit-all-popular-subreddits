@@ -4931,6 +4931,7 @@ Jreg
 JRPG
 jschlatt
 Judaism
+JuditGuerra
 judo
 juggling
 JuiceWRLD
@@ -5144,6 +5145,7 @@ Klengan
 KneadyCats
 knifeclub
 knifemaking
+knighthood
 KnightsOfPineapple
 KnitHacker
 knives
