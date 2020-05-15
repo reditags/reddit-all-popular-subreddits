@@ -3348,6 +3348,7 @@ FirstTimeHomeBuyer
 firstworldanarchists
 firstworldproblems
 Firtsbornunicorn
+fisforfamily
 Fish
 Fishing
 Fishing_Gear
@@ -5218,6 +5219,7 @@ KoboldLegion
 KoeNoKatachi
 KOFALLSTAR
 Kombucha
+Komekko
 Komi_san
 KomiLewd
 konmari
@@ -5574,6 +5576,7 @@ lossofalovedone
 lost
 Lost_Architecture
 lostgeneration
+lostlostredditors
 lostpause
 lostredditors
 lotr
@@ -5610,6 +5613,7 @@ LSAT
 LSD
 LTB_iel
 Lubbock
+lucia_javorcekova
 LucidDreaming
 luciewilde
 lucifer
@@ -6799,6 +6803,7 @@ opendirectories
 opensource
 openttd
 Opeth
+OpIsFuckingStupid
 Opossums
 OppaiLove
 opposinggallowboob
