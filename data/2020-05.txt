@@ -3562,6 +3562,7 @@ Frugal
 Frugal_Jerk
 FrugalFemaleFashion
 frugalmalefashion
+FrugalMaleFashionCDN
 Fruitbatcats
 FruitsBasket
 FSAE
@@ -4457,6 +4458,7 @@ HumanFleshlight
 HumanForScale
 Humanoidencounters
 HumanPorn
+humanresources
 HumansAreMetal
 HumansBeingBros
 HumanTippyTaps
@@ -9255,6 +9257,7 @@ timetravelercaught
 TimingWasPerfect
 Tinder
 Tinderpickuplines
+tinnitusresearch
 tinyanimalsonfingers
 tinyawoos
 TinyHouses
