@@ -996,6 +996,7 @@ battletech
 Battletechgame
 battlewagon
 batty
+BatwomanTV
 bayarea
 bayeuxtapestry
 Bayonetta
