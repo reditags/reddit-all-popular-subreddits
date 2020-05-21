@@ -7674,6 +7674,7 @@ PSO2
 PSP
 PSUSTRT
 PSVR
+psx
 psych
 psychedelicartwork
 psychedelicrock
