@@ -3239,6 +3239,7 @@ ethtrader
 EtikaRedditNetwork
 Etsy
 etymology
+etymologymaps
 eu4
 eu_nvr
 Eugene
@@ -3378,6 +3379,7 @@ farmingsimulator
 FarmsofStardewValley
 farpeoplehate
 Fashion_Design
+fashionhistory
 fashionporn
 FashionReps
 fashionsouls
@@ -6204,6 +6206,7 @@ MemesOfTheGreatWar
 memeswithoutmods
 MemeTemplatesOfficial
 MemeThatNews
+MemetsuNoYaiba
 Memeulous
 memeuniverse
 MemeWorldWar
