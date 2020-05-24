@@ -1731,6 +1731,7 @@ catbellies
 Catbun
 Catculations
 catdimension
+Catelore
 catfaceplant
 catfruit
 CatGifs
@@ -4407,6 +4408,7 @@ HelloInternet
 HellsCube
 Hellsing
 hellsomememes
+Helltaker
 HelluvaBoss
 Helluvabrothel
 help
@@ -7082,6 +7084,7 @@ OnePiece
 OnePieceTC
 OnePieceVixens
 oneplus
+onepotmeals
 OneProtectRestAttack
 OnePunchMan
 OneSecondBeforeDisast
@@ -9224,6 +9227,7 @@ synthesizercirclejerk
 SyntheticNightmares
 Syracuse
 SyrianCirclejerkWar
+Syrmor
 sysadmin
 systemofadown
 taboofans
@@ -10309,6 +10313,7 @@ u_throwaway9445
 u_throwjuliaaway
 u_TiddiesButAsian
 u_Tiny_Penny
+u_TinyKinkySub
 u_TJD985
 u_tobinedam
 u_TravelsOfFluff
