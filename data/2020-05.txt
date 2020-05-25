@@ -1986,6 +1986,7 @@ ChurchofFroppy
 churchoffutaba
 churchofharu
 ChurchOfHifumi
+ChurchOfIshigami
 ChurchOfJirou
 ChurchOfKasumi
 ChurchofKawakami
@@ -10120,6 +10121,7 @@ u_elizarosew
 u_Ellesclub_official
 u_EnMarcheNoire
 u_envee420
+u_ettaplace
 u_EurasianJenna
 u_evaporshesmile
 u_Exerus16
