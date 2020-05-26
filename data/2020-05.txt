@@ -6970,6 +6970,7 @@ NSFWCostumes
 nsfwcyoa
 NSFWfashion
 NSFWFunny
+NSFWgaming
 NSFWGirl
 nsfwhardcore
 NSFWLingerie
@@ -9324,6 +9325,7 @@ Taihou
 tailplug
 Takagi_san
 TakeaPlantLeaveaPlant
+takerpov
 tales
 talesfromcallcenters
 talesfromcavesupport
