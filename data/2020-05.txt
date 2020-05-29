@@ -5738,6 +5738,7 @@ learndota2
 learnfrench
 learningtocat
 LearnJapanese
+learnjavascript
 learnmachinelearning
 learnmath
 learnprogramming
@@ -6169,6 +6170,7 @@ MarriedAtFirstSight
 MartaGromova
 martialarts
 MartinaFinocchio
+Maruzyrukun
 Marvel
 MarvelAvengersProject
 MarvelCringe
@@ -8141,6 +8143,7 @@ RedditLaqueristas
 redditmobile
 redditmoment
 redditoryt
+redditsecurity
 RedditSessions
 redditsings
 RedditsMuseumofFilth
