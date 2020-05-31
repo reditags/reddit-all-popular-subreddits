@@ -742,6 +742,7 @@ askscience
 AskScienceDiscussion
 AskScienceFiction
 AskSF
+askSingapore
 askteenboys
 AskTeenGirls
 AskThe_Donald
@@ -11082,6 +11083,7 @@ WatchDogsWoofInside
 Watches
 WatchesCirclejerk
 Watchexchange
+watchhorsesdieinside
 watchitforthecat
 WatchItForThePlot
 Watchmen
