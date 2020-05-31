@@ -2933,6 +2933,7 @@ DnDIY
 dndmaps
 dndmemes
 dndnext
+dndstories
 doctorwho
 DoctorWhumour
 Documentaries
@@ -3795,6 +3796,7 @@ FreeGameFindings
 FreeGamesOnSteam
 Freegamestuff
 FreeKarma4You
+freemasonry
 freepatterns
 FreeSpeech
 FreeSpeechWorld
@@ -7611,6 +7613,7 @@ PetiteGoneWild
 PetiteNSFW
 PetMice
 Pets
+PetsareAmazing
 Petscop
 PetTheDamnCat
 petthedamncow
