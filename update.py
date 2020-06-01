@@ -33,7 +33,7 @@ class HotSubs:
                 params={"after": after, "limit": 100},
             )
             if r.status_code != 200:
-                retires += 1
+                retries += 1
                 if retries > 10:
                     print(r.status_code)
                     print(r.text)
@@ -44,6 +44,8 @@ class HotSubs:
                 self.session.headers.update({"User-Agent": "reddit-all-popular-subreddits"})
                 print("retrying with new session")
                 continue
+            else:
+                retries = 0
             data = r.json()["data"]
             after = data["after"]
 
