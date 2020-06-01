@@ -24,6 +24,7 @@ class HotSubs:
         self.session.headers.update({"User-Agent": "reddit-all-popular-subreddits"})
 
         after = None
+        retries = 0
         for i in range(int(self.post_count / 100)):
             print(f"{self}: downloading posts {i * 100:4} to {(i + 1) * 100:4}")
             if i != 0: sleep(1)
@@ -32,9 +33,17 @@ class HotSubs:
                 params={"after": after, "limit": 100},
             )
             if r.status_code != 200:
-                print(r.status_code)
-                print(r.text)
-                exit(1)
+                retires += 1
+                if retries > 10:
+                    print(r.status_code)
+                    print(r.text)
+                    print("too many retries")
+                    exit(1)
+                i -= 1
+                self.session = requests.Session()
+                self.session.headers.update({"User-Agent": "reddit-all-popular-subreddits"})
+                print("retrying with new session")
+                continue
             data = r.json()["data"]
             after = data["after"]
 
