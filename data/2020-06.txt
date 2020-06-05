@@ -663,6 +663,8 @@ Bannerlord
 BanPewDiePie
 BanPitBulls
 BanVideoGames
+BanVideoGamesHate
+Barackobamasankles
 BarbaraPalvin
 BarbaraWalters4Scale
 BarbieWorld
@@ -1389,6 +1391,7 @@ ChurchOfSenko
 ChurchOfTheBBC
 ChurchOfTifa
 ChurchOfTodoroki
+chuunibyou
 CICO
 Cigarettes
 cigars
@@ -1530,6 +1533,7 @@ ComplexionExcellence
 composting
 compsci
 CompulsiveSkinPicking
+computergraphics
 computers
 computerscience
 conan
@@ -2095,6 +2099,7 @@ Dragula
 DrainTheSwamp
 Draven
 drawing
+DrawMeNSFW
 DrDisrespectLive
 Dreams
 Dreamtheater
@@ -2193,6 +2198,7 @@ ElderScrolls
 elderscrollsonline
 ElectricalEngineering
 electricians
+ElectricSkateboarding
 electricvehicles
 ElectroBOOM
 electronicmusic
@@ -2388,6 +2394,7 @@ FanTheories
 FapDungeons
 farcry
 farmingsimulator
+FarmsofStardewValley
 farpeoplehate
 fashionporn
 FashionReps
@@ -3899,6 +3906,7 @@ LandoftheLustrous
 landscaping
 languagelearning
 LaPornoBiblioteca
+laracroftNSFW
 LarkinLoveXXX
 LaserEyedCats
 lastimages
@@ -4274,6 +4282,7 @@ MasturbationHentai
 MathildTantot
 MathJokes
 mathmemes
+Matiimarronii
 MatingPress
 mattcolville
 maturemilf
@@ -4584,6 +4593,7 @@ MTB
 Mtf_irl
 mtgfinance
 MTGLegacy
+mtgporn
 MtvChallenge
 MUAontheCheap
 MuayThai
@@ -6391,6 +6401,7 @@ SuddenlyLesbian
 suddenlysexoffender
 SuddenlyTrans
 Sufjan
+SugarPine7
 suggestmeabook
 suicidebywords
 suicidegirls
@@ -7266,6 +7277,7 @@ Unity3D
 unixporn
 unket
 unlikelyfriends
+unnamedfanbase
 UnnusAnnus
 unOrdinary
 Unorthodog
@@ -7647,6 +7659,7 @@ Workbenches
 workgonewild
 workingmoms
 WorkIt
+WorkOnline
 Workspaces
 Worldbox
 worldbuilding
