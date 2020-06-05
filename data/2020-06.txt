@@ -2743,6 +2743,7 @@ GeschichtsMaimais
 getdisciplined
 Getdownmrpresident
 GetMotivated
+GetStudying
 gettingherselfoff
 GettingShredded
 GettyMuseumChallenge
@@ -3923,6 +3924,7 @@ Liberal
 liberalgunowners
 Libertarian
 libertarianmeme
+librandu
 Lifebrotips
 lifehacks
 lifeisstrange
@@ -4090,6 +4092,7 @@ MadeMeSmile
 madison_ivy
 Madisonbeer
 MadisonCarter
+MadisonKate
 madisonwi
 madlads
 MadokaMagica
@@ -5793,6 +5796,7 @@ sexmemes
 Sexsells
 sexstories
 sextingfriendfinder
+Sexy
 SexyButNotPorn
 Sexydesibabes
 SexyFrex
@@ -6774,6 +6778,7 @@ truecreepy
 TrueCrime
 TrueCrimeDiscussion
 TrueDetective
+TrueDoTA2
 TrueFilm
 TrueFMK
 truegaming
@@ -7078,6 +7083,7 @@ Unexpected
 UnexpectedB99
 unexpectedbrooklyn99
 unexpectedcommunism
+unexpectedfactorial
 Unexpectedfriends
 unexpectedfuturama
 UnexpectedGoodPlace
@@ -7450,6 +7456,7 @@ williamosman
 WillNE
 wimmelbilder
 wincest
+windows
 Windows10
 wine
 WingsOfFire
@@ -7528,6 +7535,7 @@ WWEGames
 WWII
 wwiipics
 WWIIplanes
+WynnCraft
 wyoming
 xbiking
 xbox
