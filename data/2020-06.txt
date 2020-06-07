@@ -360,6 +360,7 @@ anno
 announcements
 Annoyedtobenude
 anonymous
+ANormalDayInJapan
 ANormalDayInRussia
 AnotherEdenGlobal
 anriokita
@@ -2196,6 +2197,7 @@ drifties
 DrillCats
 Drizzy
 drones
+dross
 DrStone
 DrStoneMemes
 druggardening
@@ -2737,6 +2739,7 @@ FromBelowView
 FromKittenToCat
 FromPuppyToDog
 fromsoftware
+Frostpunk
 Frozen
 Frugal
 Frugal_Jerk
@@ -4764,6 +4767,7 @@ Mordhau
 MoreTankieChapo
 Morganeisenberg
 Morgpie
+mormon
 Moronavirus
 Morrowind
 MortalCumbat
@@ -5241,6 +5245,7 @@ OopsDidntMeanTo
 OOTP
 OPDelivers
 OpIsFuckingStupid
+Opossums
 OppaiLove
 Optifine
 options
