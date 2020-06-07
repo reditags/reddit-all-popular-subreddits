@@ -1245,6 +1245,7 @@ canthold
 canucks
 capitalism_in_decay
 CapitalismVSocialism
+caps
 CaptainSparklez
 capybara
 CaraDelevingne
@@ -2317,6 +2318,7 @@ electronics
 Elephants
 EliteDangerous
 eliteexplorers
+Eliza_cs
 ElizabethOlsen
 ElizabethTurner
 ElizabethWarren
@@ -2535,6 +2537,7 @@ FauxBait
 fayetteville
 fcbayern
 fedmyster
+FeedingOnCum
 feedthebeast
 feedthememes
 feemagers
@@ -2786,6 +2789,7 @@ fuckingmanly
 FuckingPerfect
 fuckmanny
 fuckmeat
+FuckMIcah
 FuckMitchMcConnell
 FuckMyShitUp
 FuckNestle
@@ -2927,6 +2931,7 @@ geckos
 geek
 geekygirls
 GeForceNOW
+GemmaArterton
 GenderCritical
 GenderCynical
 genderfluid
@@ -3050,6 +3055,7 @@ GodWeeps
 GODZILLA
 GoForGold
 GoGoJoJo
+golang
 GoldandBlack
 goldenretrievers
 GolemSexy
@@ -3253,6 +3259,7 @@ hardwaregore
 haremgirls
 Harley
 HarleyDean
+HarleyQuinn
 HarleyQuinnTV
 HarpyGirl
 HarryandGinny
@@ -4962,6 +4969,7 @@ Nekomimi
 NEKOPARAGAME
 NelliesNest
 neoliberal
+neoncities
 NeonGenesisEvangelion
 neopets
 Nepal
@@ -4979,6 +4987,7 @@ Neverbrokeabone
 nevertellmetheodds
 NevilleGoddard
 newcastle
+newfoundland
 NewGirl
 NewGreentexts
 newhampshire
@@ -5704,6 +5713,7 @@ ProductBay
 productgif
 productivity
 ProductPorn
+ProfessorLayton
 Professors
 progmetal
 ProgrammerAnimemes
@@ -5879,6 +5889,7 @@ readanotherbook
 RealAhegao
 realasians
 RealBeesFakeTopHats
+realestateinvesting
 RealGirls
 RealHomePorn
 realhousewives
@@ -5925,6 +5936,7 @@ RedheadGifs
 redheads
 RedHotChiliPeppers
 RedLetterMedia
+RedlinedArt
 redneckengineering
 redneckrevolt
 redpandas
@@ -5946,6 +5958,7 @@ Rengarmains
 Reno
 Repaintings
 replications
+RepostSoldiers
 RepressedGoneWild
 Repsneakers
 reptiles
@@ -5988,6 +6001,7 @@ RimWorldTales
 ripcity
 rippedanimelegwear
 risa
+RiseofKingdoms
 riskofrain
 rit
 Rivenmains
@@ -6288,6 +6302,7 @@ ShinyPokemon
 ShinyPorn
 ShionUtsunomiya
 ShitCosmoSays
+shitduolingosays
 shitguncontrollerssay
 ShitLiberalsSay
 ShitMomGroupsSay
@@ -6363,6 +6378,7 @@ SiegeAcademy
 Sierra_Skye
 SighsUnzips
 Sigmarxism
+signal
 SigSauer
 silenthill
 silentmoviegifs
@@ -6595,6 +6611,7 @@ spqrposting
 spreadeagle
 SpreadEm
 spreading
+Sprechstunde
 springfieldMO
 Spyro
 SpyxFamily
@@ -7096,6 +7113,7 @@ TheVampireDiaries
 thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
+TheWeeklyRoll
 TheWeeknd
 thewestwing
 TheWire
@@ -7121,6 +7139,7 @@ ThingsCutInHalfPorn
 thingsforants
 thingsmykidsaid
 thinkpad
+ThinkTankSexy
 ThirdSentenceHappy
 thirdsentenceworse
 thirdworldinginuity
