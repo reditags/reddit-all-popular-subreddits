@@ -1293,6 +1293,7 @@ Catan
 CatastrophicFailure
 catbellies
 Catbun
+catburnouts
 Catculations
 catdimension
 catfaceplant
@@ -2167,6 +2168,7 @@ DolanDark
 Dollywinks
 dolphinconspiracy
 DomesticGirlfriend
+Dominated
 donaldglover
 dontdeadopeninside
 dontflinch
@@ -2730,6 +2732,7 @@ foundtheprogrammer
 fountainpens
 foxes
 FoxFiction
+Foxhidesinfo
 fpv
 fragilecommunism
 FragileMaleRedditor
@@ -2874,6 +2877,7 @@ gadgets
 gagged
 gaggingcats
 galaxys10
+GalaxysEdge
 GalGadot
 GalinaDubenenko
 gallifrey
@@ -3671,6 +3675,7 @@ IncreasinglyVerbose
 IncrediblesMemes
 india
 indiadiscussion
+IndiaInvestments
 IndiaLoveWestbrooks
 Indiana
 IndianaJonesMemes
@@ -5205,6 +5210,7 @@ oddlyterrifying
 oddlyweird
 ofcoursethatsathing
 offbeat
+Offensive_Wallpapers
 offensivememesboi
 OffGridCabins
 officelady
@@ -5717,6 +5723,7 @@ PRINCE
 PrincessesOfPower
 princesspawg
 PrintedMinis
+printmaking
 prisonarchitect
 Prisonwallet
 privacy
@@ -6390,6 +6397,7 @@ shrooms
 Shroud
 shubreddit
 Shuffles_Deck
+shumako
 shutupwesley
 SideLips
 Sidemen
@@ -7480,6 +7488,7 @@ u_cutegiraffe3
 u_CutiePie206
 u_datbootytho954
 u_dcxr
+u_DearCasey88
 u_derevocsid
 u_DicksInTheDidgeridoo
 u_Diives
