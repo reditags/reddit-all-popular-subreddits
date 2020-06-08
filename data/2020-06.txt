@@ -2900,6 +2900,7 @@ funsized
 funsizedasian
 FunWithFriends
 Fureeuse
+furify
 furry
 furry_irl
 FurryArtSchool
@@ -3521,6 +3522,7 @@ HomeImprovement
 homelab
 HomemadeGayPorn
 homestead
+Homesteading
 homestuck
 hometheater
 HomeworkHelp
@@ -4746,6 +4748,7 @@ MemesOfTheGreatWar
 memeswithoutmods
 MemeTemplatesOfficial
 MemeThatNews
+MemetsuNoYaiba
 Memeulous
 memeuniverse
 memphis
@@ -4797,6 +4800,7 @@ microbork
 microdosing
 microgrowery
 MicroPorn
+MicrosoftRewards
 Mid_Century
 midcenturymodern
 MiddleEarthMiniatures
@@ -5448,6 +5452,7 @@ OopsDidntMeanTo
 OOTP
 OPDelivers
 opensource
+Opeth
 OpIsFuckingStupid
 Opossums
 OppaiLove
@@ -8478,6 +8483,7 @@ YogaPants
 Yointerneto
 YoTroublemakers
 Yotsubros
+YouBelongWithMemes
 Youbrokethechain
 youdontmattergiveup
 youdontsurf
