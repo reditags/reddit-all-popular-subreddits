@@ -1763,6 +1763,7 @@ CowChop
 coys
 CozierPlaces
 CozyPlaces
+CPA
 CPUCS
 CPUSA
 Cr1TiKaL
@@ -2418,6 +2419,7 @@ Eminem
 EmKay
 Emma_Roberts
 EmmaKotos
+EmmaLangevin
 EmmaStone
 Emo
 emogirls
@@ -4369,6 +4371,7 @@ lesbianfashionadvice
 LesbianGamers
 lesbianOral
 lesbians
+lesdom
 letmegojuice
 LetsNotMeet
 Letterkenny
@@ -6201,6 +6204,7 @@ RhodeIsland
 RiaeSuicide
 RiCare
 RiceCookerRecipes
+rick_and_morty
 rickandmorty
 rickygervais
 RightwingLGBT
@@ -6910,6 +6914,7 @@ starwarsmemes
 starwarsnsfw
 starwarsrebels
 starwarsspeculation
+StateOfDecay
 statistics
 STAWG
 steak
@@ -7294,6 +7299,7 @@ TheDelrayMisfits
 TheDepthsBelow
 thedivision
 TheDollop
+thedonald
 TheDragonPrince
 TheEricAndreShow
 TheEroticSalon
