@@ -1720,6 +1720,7 @@ conservativecartoons
 ConservativeMemes
 conservatives
 ConservativesOnly
+consoledeals
 conspiracy
 conspiracy_commons
 conspiracytheories
@@ -4280,6 +4281,7 @@ knives
 knockmeup
 knolling
 Knoxville
+KoboldLegion
 KoboldsFuckingKobolds
 KoeNoKatachi
 Kombucha
@@ -6521,6 +6523,7 @@ schkreckl
 schnauzers
 school_memes
 SchoolGirlSkirts
+SchoolIdolFestival
 SchoolSystemBroke
 science
 sciencefiction
@@ -8545,6 +8548,7 @@ Winnipeg
 WinStupidPrizes
 winterporn
 wisconsin
+wismichu
 Witch
 witcher
 Witcher3
