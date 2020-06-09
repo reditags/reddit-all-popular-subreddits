@@ -1673,6 +1673,7 @@ ComradeSShow
 conan
 ConanBeingAwesome
 ConanExiles
+conceptart
 confession
 confidence
 confidentlyincorrect
@@ -2964,6 +2965,7 @@ gamecollecting
 Gamecube
 gamedev
 gamegrumps
+gamemaker
 Gamemeneersubmissies
 gameofthrones
 GameOfThronesMemes
@@ -3943,6 +3945,7 @@ jaidenanimations
 JaidenAnimationsmemes
 jailbreak
 JailyneOjedaOchoa
+jakanddaxter
 jakeandamir
 JakesDoorComics
 JamesBond
@@ -5399,6 +5402,7 @@ OkBuddyCatgirl
 okbuddychicanery
 okbuddycinephile
 okbuddyclanker
+okbuddycommunist
 okbuddyguardian
 OKbuddyHalfLife
 okbuddyheretic
@@ -6742,6 +6746,7 @@ snowrunner
 SnowWhites
 SNSD
 SoakedHentai
+socalhiking
 soccer
 soccercirclejerk
 socialanxiety
@@ -6770,6 +6775,7 @@ somnivexillology
 sonamains
 SonicTheHedgehog
 sonmom
+SonOfAShepherd
 sonos
 SonyAlpha
 sophiedee
@@ -6988,6 +6994,7 @@ subaru
 submarines
 submechanophobia
 subnautica
+Subnautica_Below_Zero
 SubredditDrama
 SUBREDDITNAME
 SubredditSimMeta
@@ -7111,6 +7118,7 @@ TalesFromThePharmacy
 TalesFromThePizzaGuy
 TalesFromTheSquadCar
 TalesFromYourServer
+TaliyahMains
 TalkTherapy
 tall
 TallGirls
