@@ -538,6 +538,7 @@ AskMen
 AskNYC
 AskOuija
 askphilosophy
+AskPhotography
 AskReddit
 AskRedditAfterDark
 askscience
@@ -1716,6 +1717,7 @@ conceptart
 CondomFilling
 confession
 confidence
+ConfidentHentai
 confidentlyincorrect
 ConfusedBoners
 confusing_perspective
@@ -4585,6 +4587,7 @@ LogitechG
 logodesign
 lolcats
 lolgrindr
+Lolification
 Lolita
 Lolitary
 lolomemescom
@@ -6143,6 +6146,7 @@ pugs
 pukicho
 punchableface
 punk
+PunkGirls
 Punny
 PunPatrol
 PunResistance
