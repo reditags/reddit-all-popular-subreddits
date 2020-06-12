@@ -1460,6 +1460,7 @@ CatSmiles
 Catsmirin
 CatsMurderingToddlers
 CatsNamedToothless
+CatsOnCats
 catsonglass
 CatsOnKeyboards
 CatsOnPizza
@@ -1579,6 +1580,7 @@ ChildrenFallingOver
 chile
 China
 China_Flu
+chinchilla
 ChineseLanguage
 Chinesetourists
 Chinesium
@@ -5255,6 +5257,7 @@ misleadingthumbnails
 MisreadSprites
 MissAlice_18
 missbo
+misscutiepie
 Missing411
 mississippi
 MissLexa
@@ -6589,6 +6592,7 @@ RedditLaqueristas
 redditmobile
 redditmoment
 redditoryt
+redditserials
 RedditSessions
 redditsings
 RedditsMuseumofFilth
@@ -7865,6 +7869,7 @@ TheLetterH
 thelongdark
 TheLostWoods
 TheMagnusArchives
+TheMajorityReport
 TheMandalorianTV
 TheMaskedSinger
 TheMemersClub
@@ -8084,6 +8089,7 @@ TrainPorn
 trains
 Trainwreckstv
 TransClones
+Transformemes
 transformers
 transgamers
 transgender
