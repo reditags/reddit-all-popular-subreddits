@@ -868,6 +868,7 @@ beadsprites
 beagle
 BeAmazed
 BeamNG
+BeansInStrangePlaces
 BeansInThings
 BeardedDragons
 beards
@@ -3109,6 +3110,7 @@ FortniteLeaks
 FortniteMemes
 FortNiteMobile
 FortniteSavetheWorld
+FortniteSeasonalHype
 fortwayne
 FortWorth
 fortyfivefiftyfive
@@ -3874,6 +3876,7 @@ HipHopGoneWild
 HipHopImages
 hiphopvinyl
 HiScoreGirl
+HisDarkMaterialsHBO
 HistoricalCostuming
 history
 HistoryAnecdotes
@@ -4611,6 +4614,7 @@ kidsfallingdown
 KiernanShipka
 kilian
 killedthecameraman
+killedthehealthinspec
 KillerBean
 KillingEve
 killingfloor
@@ -4907,6 +4911,7 @@ linux
 linux_gaming
 linuxmasterrace
 linuxmemes
+linuxmint
 Lionessintherain
 LipsThatGrip
 LisaAnn
@@ -5644,6 +5649,7 @@ nathanforyou
 nathanwpyle
 nationalguard
 NationalPark
+Nationals
 NativeAmerican
 nattyorjuice
 naturalbodybuilding
@@ -7933,6 +7939,7 @@ tanlines
 TanmayBhatKeDost
 TantotTwins
 taoism
+tappedout
 Tarantino
 tarantulas
 Target
@@ -8143,6 +8150,7 @@ thenetherlands
 TheNewRight
 TheOA
 theocho
+TheOCS
 theodd1sout
 theofficememes
 TheOfficialPodcast
