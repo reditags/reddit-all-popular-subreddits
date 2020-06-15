@@ -1915,6 +1915,7 @@ Cornell
 CornGuy
 coronabr
 Coronavirus
+CoronavirusAZ
 CoronavirusCA
 CoronavirusDownunder
 CoronavirusIllinois
@@ -6246,6 +6247,7 @@ peanutbutterisoneword
 PeanutWhiskers
 pearljam
 PedoGate
+PedoLogic
 Pee
 peeling
 PeepingPooch
