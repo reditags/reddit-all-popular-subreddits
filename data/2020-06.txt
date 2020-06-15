@@ -6930,6 +6930,7 @@ RPI
 rs2vietnam
 RTGameCrowd
 rubberducks
+RubeGoldbergFails
 rugbyunion
 RugsOnly
 Ruinedholes
@@ -7244,6 +7245,7 @@ shittybattlestations
 shittyfoodporn
 shittygamedetails
 ShittyGifRecipes
+shittylifehacks
 ShittyLifeProTips
 ShittyMapPorn
 shittymcsuggestions
