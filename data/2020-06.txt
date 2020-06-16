@@ -4184,6 +4184,7 @@ ImaginaryTechnology
 ImaginaryVaultHunters
 ImaginaryVehicles
 ImaginaryWarhammer
+ImaginaryWarriors
 ImaginaryWastelands
 ImaginaryWeaponry
 ImaginaryWeather
@@ -6481,6 +6482,7 @@ PokemonLetsGo
 PokemonMasters
 pokemonmemes
 PokemonROMhacks
+pokemonshowdown
 PokemonSwordAndShield
 PokemonSwordShield
 PokemonTCG
@@ -8091,6 +8093,7 @@ TeslaModel3
 teslamotors
 TessaFowler
 TetasGigantes
+Tetris
 Texans
 texas
 TexasPolitics
@@ -8707,6 +8710,7 @@ u_jenn_lyn21
 u_JessFlowers12
 u_jessicastardust
 u_JojosThoughts
+u_joshlp1
 u_JuniperQueen
 u_justsomegirlidk
 u_JustViolet
@@ -8889,6 +8893,7 @@ u_TravelsOfFluff
 u_trigzin
 u_TsPassionz
 u_Twinkslave00
+u_ulabrilakova
 u_Unicornglitteryblood
 u_Vesicool
 u_vicbwolf
@@ -9567,6 +9572,7 @@ YangForPresidentHQ
 YangGang
 yaoi
 Yaoi_IRL
+YarnAddicts
 YarnPunk
 yarntrolls
 YasuoMains
@@ -9635,6 +9641,7 @@ YuYuHakusho
 ZahraElise
 ZanClan
 ZargoryanGalaksisi
+zedmains
 Zeducation
 zelda
 ZeldaIsCute
