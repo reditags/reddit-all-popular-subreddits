@@ -479,6 +479,7 @@ ApexLore
 ApexOutlands
 ApexUncovered
 apexuniversity
+ApheliosMains
 aphextwin
 apolloapp
 AppalachianTrail
@@ -616,6 +617,7 @@ AskScienceFiction
 askteenboys
 AskTeenGirls
 AskThe_Donald
+askTO
 asktransgender
 AskTrumpSupporters
 AskUK
@@ -1340,6 +1342,7 @@ Brooklyn
 brooklynninenine
 bropill
 broslikeus
+brownandbumpy
 brownbeauty
 BrownHotties
 brownman
@@ -2183,6 +2186,7 @@ d100
 DACA
 Dachschaden
 Dachshund
+Daddy
 dadjokes
 DadReflexes
 DadsAndBoys
@@ -4723,6 +4727,7 @@ Keep_Track
 KeepOurNetFree
 KeepWriting
 KeilahKang
+KeiraKnightley
 KellyBrook
 KelseyBerneray
 KelsiMonroe
@@ -6527,6 +6532,7 @@ Philza
 phineasandferb
 phineasandferbmemes
 phish
+phoebebridgers
 phoenix
 PhoenixMarie
 PhoenixSC
@@ -7229,6 +7235,7 @@ rush
 russia
 RussiaLago
 russian
+rustyrails
 rutgers
 rva
 RVLiving
