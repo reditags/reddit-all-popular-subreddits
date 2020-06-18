@@ -5385,6 +5385,7 @@ MechanicalSluts
 mechmarket
 medejongeren
 media_criticism
+medical
 MedicalGore
 medicalschool
 medicalschoolanki
@@ -7087,6 +7088,7 @@ rhettandlink
 rhian_sugden
 RhodeIsland
 RiaeSuicide
+RicardoMilosMemes
 RiCare
 RiceCookerRecipes
 rick_and_morty
@@ -8385,6 +8387,7 @@ thelongdark
 TheLostWoods
 TheMagnusArchives
 TheMajorityReport
+theMalleableDuck
 TheMandalorianTV
 TheMaskedSinger
 TheMemersClub
