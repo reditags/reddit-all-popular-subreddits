@@ -551,6 +551,7 @@ Art
 ArtDeco
 ArtefactPorn
 ArtemisFowl
+ArtFundamentals
 ArtHistory
 Artifact
 artillerymemes
@@ -2652,6 +2653,7 @@ drunk
 DrunkDrunkenPorn
 drunkencookery
 DrunkOrAKid
+DrunkRobots
 dryalcoholics
 dsa
 DSPDiscussion
@@ -9124,6 +9126,7 @@ u_planetmonica
 u_PlzMeDaddy69
 u_PM_ME_UR_PULP
 u_porcelaingoirl
+u_potatochippopotamus
 u_Princess-Catalina
 u_princess_peachbottom
 u_Princess_Starlight
