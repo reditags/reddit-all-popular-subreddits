@@ -1773,6 +1773,7 @@ ChurchOfMinaAshido
 ChurchOfMineta
 ChurchOfPyra
 ChurchOfSenko
+churchoftakemi
 ChurchOfTheBBC
 ChurchOfTifa
 ChurchOfTodoroki
@@ -3103,6 +3104,7 @@ FFBraveExvius
 fffffffuuuuuuuuuuuu
 FFRecordKeeper
 FFVIIRemake
+ffxi
 ffxiv
 FFXIVGlamours
 FFXV
@@ -10008,6 +10010,7 @@ yakuzagames
 YAlit
 yandere
 yandere_simulator
+YandereHentai
 YandhiLeaks
 YanetGarcia
 YangForPresidentHQ
