@@ -715,6 +715,7 @@ ausstocks
 AustinWhite
 australia
 AustralianCattleDog
+AustralianMakeup
 AustralianPolitics
 AustralianShepherd
 Austria
@@ -6021,6 +6022,7 @@ nathanwpyle
 nationalguard
 NationalPark
 Nationals
+NationalServiceSG
 NativeAmerican
 nattyorjuice
 naturalbodybuilding
@@ -8054,6 +8056,7 @@ spaceengineers
 SpaceflightSimulator
 spacefrogs
 spaceporn
+SpaceWolves
 spacex
 SpaceXLounge
 SpaceXMasterrace
