@@ -3444,6 +3444,7 @@ frugalmalefashion
 Fruitbatcats
 FruitsBasket
 FSAE
+fsu
 ft86
 FTC
 ftlgame
@@ -5728,6 +5729,7 @@ metalworking
 Methany
 metro
 Metroid
+metroidvania
 mew_irl
 Mewing
 Mexicana
@@ -9601,6 +9603,7 @@ UGA
 uglyduckling
 uh_oh_spaghettios
 UIUC
+UK_Food
 UKBabes
 ukdrill
 UKPersonalFinance
