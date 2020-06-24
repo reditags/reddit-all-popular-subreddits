@@ -5005,6 +5005,7 @@ KingdomHearts
 KingkillerChronicle
 KingOfTheHill
 kings
+KingstonOntario
 KinseyWolanski
 KipoAndTheAgeOfWB
 KiraKosarin
@@ -9787,6 +9788,7 @@ vegansnacks
 veganuk
 VeganZeroWaste
 vegas
+vegaslocals
 vegetablegardening
 vegetarian
 Vegetarianism
