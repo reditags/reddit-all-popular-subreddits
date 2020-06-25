@@ -921,6 +921,7 @@ BattleNetwork
 BattlePaintings
 battlestations
 battletech
+Battletechgame
 battlewagon
 batty
 BatwomanTV
@@ -3178,6 +3179,7 @@ feetpics
 FeetToesAndSocks
 fegalvao
 Feic
+felching
 FeliciaVox
 FellowKids
 Fellowkidssuccess
@@ -3523,6 +3525,7 @@ FUCKYOUINPARTICULAR
 FuckYouKaren
 Fuhrerreich
 fujifilm
+fujix
 fullegoism
 FullmetalAlchemist
 fullmetalifrit
@@ -7514,6 +7517,7 @@ rick_and_morty
 rickandmorty
 rickroll
 rickygervais
+Rider
 RightwingLGBT
 Rihanna
 Rikka_Takarada
@@ -7613,6 +7617,7 @@ rule34celebs
 rule34disney
 rule34feet
 rule34gay
+Rule34Heaven
 Rule34LoL
 Rule34Overwatch
 Rule34RainbowSix
