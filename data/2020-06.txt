@@ -118,6 +118,7 @@ AccidentalShoeLoss
 AccidentalSlapStick
 accidentalswastika
 AccidentalTerrorism
+accidentaltopgear
 AccidentalWesAnderson
 accidentalwrestling
 ACCompetizione
@@ -4310,6 +4311,7 @@ HomeKit
 homelab
 HomemadeGayPorn
 HomePod
+HomeServer
 HomestarRunner
 homestead
 Homesteading
@@ -4423,6 +4425,7 @@ HydroHomies
 Hydroponics
 Hyiff
 hyouka
+hyperlightdrifter
 hypixel
 HypixelSkyblock
 Hypothyroidism
@@ -6543,6 +6546,7 @@ OfficialSenpaiHeat
 offlineTV
 OfflinetvGirls
 offmychest
+offset
 OFWGKTA
 ohgeelizzyp2
 Ohio
