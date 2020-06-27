@@ -1863,6 +1863,7 @@ ChurchofMarnie
 ChurchOfMinaAshido
 ChurchOfMineta
 ChurchOfPyra
+ChurchofRise
 ChurchOfSenko
 churchoftakemi
 ChurchOfTheBBC
@@ -5191,6 +5192,7 @@ kpop
 kpopfap
 kpophelp
 kpoppers
+kpoprants
 kpopthoughts
 kreishust
 KrissyLynn
@@ -6932,6 +6934,7 @@ Pennsylvania
 pennystocks
 penpals
 pens
+Pensacola
 penspinning
 PeopleAlmostDying
 PeopleBeingJerks
