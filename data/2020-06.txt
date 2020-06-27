@@ -3081,6 +3081,7 @@ exmormon
 exmuslim
 ExNoContact
 exo
+ExosHeroes
 ExpandDIO
 ExpandDong
 ExpectationVsReality
@@ -5195,6 +5196,7 @@ LaCasaDePapel
 LaciKaySomers
 lacrosse
 lactation
+LacyLennon
 ladiesinsuits
 LadiesOfWrestling
 lady_in_the_streets
