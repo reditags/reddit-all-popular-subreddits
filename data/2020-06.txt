@@ -4574,6 +4574,7 @@ ImaginaryLandscapes
 ImaginaryLeviathans
 ImaginaryLovers
 imaginarymaps
+ImaginaryMechs
 ImaginaryMiddleEarth
 ImaginaryMindscapes
 ImaginaryMonsterGirls
@@ -6538,6 +6539,7 @@ NSFWGirl
 nsfwhardcore
 NSFWLW
 nsfwoutfits
+NSFWPublic
 NSFWsmiles
 NSFWSnapchat
 nsfwsports
