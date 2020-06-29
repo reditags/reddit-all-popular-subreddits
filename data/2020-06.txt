@@ -2094,6 +2094,7 @@ conspiratard
 Construction
 consulting
 ConsumeProduct
+ConsumeProducts
 ContagiousLaughter
 ContestOfChampions
 continuityporn
@@ -2948,6 +2949,7 @@ ElderScrolls
 elderscrollsonline
 ElectricalEngineering
 electricdaisycarnival
+ElectricForest
 electricians
 ElectricSkateboarding
 electricvehicles
@@ -3760,6 +3762,7 @@ GaySoundsShitposts
 gaystoriesgonewild
 gaystrugglefuck
 gaywashedmemes
+GCdebatesQT
 GCSE
 GearsOfWar
 geckos
@@ -3772,6 +3775,7 @@ Gemplugs
 GenderCritical
 GenderCriticalGuys
 GenderCynical
+GenderCynicalCritical
 genderfluid
 genderfluid_irl
 Genealogy
@@ -6963,6 +6967,7 @@ Patchuu
 Pathfinder2e
 Pathfinder_RPG
 pathfindermains
+pathofdiablo
 pathofexile
 PathOfExileBuilds
 Patrig
@@ -8129,6 +8134,7 @@ ShinyPokemon
 ShinyPorn
 ShionUtsunomiya
 shioritsukada
+shippingredditors
 ShitCosmoSays
 ShitCrusaderKingsSay
 shitduolingosays
@@ -9119,6 +9125,7 @@ TheOfficialPodcast
 TheOnion
 TheOrville
 TheoryofCatsInSinks
+TheoryOfReddit
 theouterworlds
 TheoVon
 TheOwlHouse
@@ -10535,6 +10542,7 @@ woahdude
 WoahPoon
 Wojak
 WojakCompass
+wojaks
 wokekids
 Wolfenstein
 wolves
