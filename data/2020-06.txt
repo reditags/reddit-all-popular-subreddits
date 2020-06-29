@@ -2684,6 +2684,7 @@ DiWHYNOT
 Dixie
 DIY
 diyaudio
+DIYAudioCables
 diyelectronics
 diypedals
 DIYweddings
@@ -6963,6 +6964,7 @@ PaymoneyWubby
 pcmasterrace
 pcmods
 pcmusic
+PCOS
 peachfuzz
 PeachJars
 PeakyBlinders
