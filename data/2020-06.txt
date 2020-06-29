@@ -5675,6 +5675,7 @@ MakeMeSufferMore
 MakeNewFriendsHere
 Makeup
 MakeupAddiction
+MakeupAddicts
 MakeupLounge
 makeuporganization
 MakeupRehab
@@ -7208,6 +7209,7 @@ politecats
 POLITIC
 Political_Revolution
 PoliticalCompass
+PoliticalCompassMeme2
 PoliticalCompassMemes
 PoliticalHumor
 politics
@@ -10347,6 +10349,7 @@ ween
 weezer
 weightlifting
 WeightLossAdvice
+WeightLossFoods
 weightroom
 weightwatchers
 WeinsteinEffect
