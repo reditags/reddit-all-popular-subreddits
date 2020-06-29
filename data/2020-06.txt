@@ -881,6 +881,7 @@ BalkanPeopleInternet
 BALLET
 ballpython
 Balls
+ballsurfing
 BalticStates
 BananasForScale
 BancaDelMeme
@@ -6393,6 +6394,7 @@ NewsOfTheStupid
 NewToEMS
 NewTubers
 NewVegasMemes
+newyork
 newyorkcity
 NewYorkMets
 newzealand
@@ -8702,6 +8704,7 @@ suggestmeabook
 suicidebywords
 suicidegirls
 suits
+sukka
 SummertimeSaga
 summonerschool
 summonerswar
@@ -10153,6 +10156,7 @@ VictoriaBC
 VictoriaJune
 victoriajustice
 VictoriaMatosa
+vidaguerra
 videogamedunkey
 videogames
 videography
