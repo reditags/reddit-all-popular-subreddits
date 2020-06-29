@@ -1395,6 +1395,7 @@ BravoTopChef
 Brawlhalla
 Brawlstars
 BrawlStarsCompetitive
+brawlstarsmodding
 bread_irl
 Breadit
 BreadStapledToTrees
@@ -7381,6 +7382,7 @@ PsychicDolphinGarage
 PsychologicalTricks
 psychology
 Psychonaut
+ptcgo
 PUBATTLEGROUNDS
 PUBG
 PUBGConsole
