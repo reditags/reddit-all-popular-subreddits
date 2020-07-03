@@ -9,6 +9,7 @@
 13or30
 13ReasonsWhy
 1500isplenty
+15minutefood
 18_19
 18plusGIFs
 1911
@@ -231,6 +232,7 @@ amibeingdetained
 Amigurumi
 amiibo
 Amiibomb
+Amira_Brie
 AmITheAngel
 AmItheButtface
 amiugly
@@ -585,6 +587,7 @@ baldursgate
 balisong
 ballpython
 Balls
+BananaFish
 BancaDelMeme
 Bandmemes
 BanFemaleHateSubs
@@ -695,6 +698,7 @@ bengals
 benzodiazepines
 berkeley
 berlin
+Bernadetta
 bernesemountaindogs
 bernieblindness
 BernieSanders
@@ -958,6 +962,7 @@ BrandNewSentence
 brandonsanderson
 brasil
 brasilivre
+Braves
 BravoRealHousewives
 Brawlhalla
 Brawlstars
@@ -1384,6 +1389,7 @@ Colts
 Columbus
 combinedgifs
 comedyamputation
+ComedyArchaeology
 comedybangbang
 ComedyBuddhism
 ComedyCemetery
@@ -2362,6 +2368,7 @@ FloridaCoronavirus
 FloridaMan
 FlorkofCowsOfficial
 flowers
+fluffycommunity
 FlukeMemes
 Flume
 Flyers
@@ -2717,6 +2724,7 @@ GodWeeps
 GODZILLA
 GoForGold
 GoGoJoJo
+gojira
 golang
 GoldandBlack
 goldenretrievers
@@ -2745,6 +2753,7 @@ goodmythicalmorning
 goodomens
 goodvibes
 google
+googlehome
 googlemapsshenanigans
 GooglePixel
 gordonramsaymemes
@@ -3035,6 +3044,7 @@ homestead
 Homesteading
 homestuck
 hometheater
+HomeworkHelp
 Honda
 honeyfuckers
 HoneyGold
@@ -3115,6 +3125,7 @@ HybridAnimals
 HydroHomies
 Hyiff
 hyouka
+HYPERSCAPE
 hypixel
 HytaleInfo
 IAmA
@@ -3207,6 +3218,7 @@ ImaginarySliceOfLife
 ImaginarySoldiers
 ImaginaryStarscapes
 ImaginaryStarships
+ImaginaryTamriel
 ImaginaryTechnology
 ImaginaryVaultHunters
 ImaginaryWarhammer
@@ -4735,6 +4747,7 @@ Outlander
 outofcontextcomics
 OutOfTheLoop
 outrun
+outwardgame
 overclocking
 overlanding
 overlord
@@ -4989,6 +5002,7 @@ Polcompball
 poledancing
 police
 policeuk
+politecats
 Political_Revolution
 PoliticalCompass
 PoliticalCompassMeme2
@@ -5322,6 +5336,7 @@ riskofrain
 RivalsOfAether
 Rivenmains
 riverdale
+RLCraft
 RLFashionAdvice
 Roadcam
 roadtrip
@@ -5340,6 +5355,7 @@ RocketLeagueEsports
 rockets
 rockhounds
 rockstar
+RogerRabbitEffect
 RoleReversal
 rolex
 Roll20
@@ -5392,6 +5408,7 @@ RWBY
 RWBYNSFW
 Ryumimi
 RyuuLion
+S8N
 sabaton
 SabatonMemes
 Saber
@@ -5868,6 +5885,7 @@ SSSniperWolf_Pics
 Stacked
 Stadia
 stalker
+standhurtingjuice
 Standup
 standupshots
 starbound
@@ -5907,6 +5925,7 @@ steak
 Steam
 steampunk
 SteamVR
+Steelbooks
 steelers
 steinsgate
 Stellaris
@@ -5916,6 +5935,7 @@ StephanieMichelle
 stephenking
 stepparents
 stevenuniverse
+StevenUniverseNSFW
 stfuretard
 sticknpokes
 Stims
@@ -6490,6 +6510,7 @@ truerateme
 TrueReddit
 TrueSTL
 trump
+Trump2020
 TrumpCriticizesTrump
 trumpet
 Trumpgret
@@ -7094,6 +7115,7 @@ WildernessBackpacking
 Wildfire
 wildhearthstone
 wildlifephotography
+wildlypenis
 WillaHolland
 williamosman
 WillNE
@@ -7266,6 +7288,7 @@ ZeldaIsCute
 Zendaya
 Zerkaa
 ZeroContextJoJo
+ZeroFucksWereGiven
 ZeroTwoHentai
 ZeroWaste
 zerowondering
