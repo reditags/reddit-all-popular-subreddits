@@ -1420,6 +1420,7 @@ CommentAwardsForum
 CommunismMemes
 community
 CompanyBattles
+CompetitiveApex
 CompetitiveEDH
 CompetitiveForHonor
 Competitiveoverwatch
@@ -1685,6 +1686,7 @@ DankLeft
 dankmark
 dankmeme
 dankmemes
+DankMemes_Circlejerk
 DankMemesFromSite19
 DankPrecolumbianMemes
 dankrishu
@@ -1702,6 +1704,7 @@ darkestdungeon
 DarkestWomen
 DarkGothicArt
 Darkhumorandmemesv2
+DarkJoke
 darkmodememes
 DarknessKS
 darknet
@@ -1833,6 +1836,7 @@ DetroitRedWings
 DevilMayCry
 DexMemes
 Dexter
+DHMIS
 diabetes
 diabetes_t1
 Diablo
@@ -4866,6 +4870,7 @@ PerfectlyCutBooms
 perfectlycutscreams
 perfectlycutyeets
 PerfectTiming
+Periods
 Permaculture
 PERSoNA
 persona4golden
@@ -5560,6 +5565,7 @@ seventeen
 SewayakiKitsune
 sewing
 sex_comics
+SexiestPetites
 SexInFrontOfOthers
 sexmemes
 Sexsells
@@ -5799,6 +5805,7 @@ socialanxiety
 socialism
 SocialistRA
 SocialJusticeInAction
+SocialMediaSluts
 socialskills
 Socksfor1Submissions
 sodapoppin
@@ -6047,6 +6054,7 @@ Supernatural
 superpoweralchemists
 supersentai
 supersmashbros
+SuperStructures
 Supertf
 Surface
 surrealmemes
@@ -6054,6 +6062,7 @@ Survival
 survivinginfidelity
 survivor
 sushi
+SushiAbomination
 suspiciouslyspecific
 suspiciousquotes
 sustainability
@@ -6092,6 +6101,7 @@ Taihou
 tailplug
 Takagi_san
 TakeaPlantLeaveaPlant
+tales
 talesfromcallcenters
 talesfromsecurity
 TalesFromTheCustomer
@@ -6173,6 +6183,7 @@ TempleOfMythra
 Tendies
 Tenkinoko
 Tennessee
+Tennesseetitans
 tennis
 TenseiSlime
 Tentai
@@ -6687,6 +6698,7 @@ u_NaturallyBraless41
 u_naughtyscorpio
 u_neverkbest
 u_Nextdoornurs3
+u_Nysca
 u_obviousplant
 u_oliveapple42
 u_pasthellkitten
@@ -7267,6 +7279,7 @@ yorickmains
 Yosemite
 YoTroublemakers
 Yotsubros
+YouBelongWithMemes
 youdontmattergiveup
 youdontsurf
 YouFellForItFool
