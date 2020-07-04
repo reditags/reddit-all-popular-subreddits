@@ -539,6 +539,7 @@ AwesomeOffBrands
 awfuleverything
 awfuleyebrows
 aww
+awwakeup
 Awwducational
 awwnimate
 awwnverts
@@ -615,6 +616,7 @@ Barca
 BarebackGayPorn
 Barelylegal
 barelylegalteens
+Barkitecture
 barkour
 barstoolsports
 bartenders
@@ -1749,6 +1751,7 @@ DaughterTraining
 dauntless
 DavidDobrik
 Davie504
+dayton
 Daytrading
 Daytroopin
 dayz
@@ -1985,6 +1988,7 @@ dragonvale
 DragRace_Canada
 Dragula
 DrainTheSwamp
+Draven
 drawing
 DrawMeNSFW
 DrDisrespectLive
@@ -2883,6 +2887,7 @@ h3h3productions
 H3VR
 Habs
 hacking
+Hacking_Tutorials
 hackintosh
 HadesTheGame
 HadToHurt
@@ -7033,6 +7038,7 @@ VirtualYoutubers
 Visiblemending
 VisualMedicine
 visualnovels
+vita
 VivianBlush
 VladimirMains
 Vocaloid
@@ -7158,6 +7164,7 @@ whatintarnation
 Whatisthis
 whatisthiscar
 whatisthisthing
+WhatsInThisThing
 whatsthisbird
 whatsthisbug
 whatsthisplant
@@ -7339,6 +7346,7 @@ YMS
 ynab
 yo_elvr
 YogaPants
+yopierre
 yorickmains
 Yosemite
 YoTroublemakers
