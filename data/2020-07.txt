@@ -2908,6 +2908,7 @@ FutanariPegging
 FUTMobile
 futurama
 future_fight
+futurefunk
 Futuremoe
 futureporn
 Futurology
@@ -3998,6 +3999,7 @@ kaisamains
 Kaiserposting
 kaiserredux
 Kaiserreich
+KaIT
 kakarot
 Kakegurui
 kakyoin
@@ -5180,6 +5182,7 @@ nottheonion
 NotTimAndEric
 nova
 NovaScotia
+noveltranslations
 nrl
 nsfw
 Nsfw_Amateurs
@@ -6075,6 +6078,7 @@ RiCare
 RiceCookerRecipes
 rickandmorty
 rickroll
+rickygervais
 Rihanna
 Rikka_Takarada
 RileyReid
@@ -6415,6 +6419,7 @@ shittybattlestations
 shittyfoodporn
 shittygamedetails
 ShittyGifRecipes
+ShittyGroupMembers
 shittylifehacks
 ShittyLifeProTips
 ShittyMapPorn
@@ -8076,6 +8081,7 @@ web_design
 webcomics
 webdev
 webtoons
+wec
 WeCantStudy
 wedding
 weddingdress
