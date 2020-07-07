@@ -661,6 +661,7 @@ BadMUAs
 badparents
 badparking
 BadRocketLeagueGoals
+badroommates
 badtaxidermy
 badUIbattles
 badwomensanatomy
@@ -821,6 +822,7 @@ bettafish
 betterCallSaul
 BetterEveryLoop
 Beyblade
+beyondskyrim
 beyondwholesome
 BGCCircleJerk
 bi_irl
@@ -1113,6 +1115,7 @@ BreeBoo
 Breeding
 BreedingMaterial
 brexit
+briandavidgilbert
 bridezillas
 BridgetteB
 BrieLarson
@@ -1415,6 +1418,7 @@ Cheese
 Chefit
 chefknives
 chelseafc
+ChemicalEngineering
 chemicalreactiongifs
 chemistry
 chemistrymemes
@@ -1908,6 +1912,7 @@ dankvideos
 DanLeBatardShow
 DanMachi
 DannyGonzalez
+DanyanCatSQ
 Daredevil
 Dariusmains
 DarK
@@ -2178,6 +2183,7 @@ donaldglover
 donaldtrump
 dontdeadopeninside
 dontflinch
+DontForgetTheBalls
 DontFundMe
 donthelpjustfilm
 dontlookdown
@@ -2219,6 +2225,7 @@ DrainTheSwamp
 Draven
 drawing
 DrawMeNSFW
+Drawtism
 DrDisrespectLive
 Dreams
 Dreamtheater
@@ -3012,6 +3019,7 @@ ghostoftsushima
 GhostRecon
 Ghosts
 ghostswithjobs
+giannadior
 GiannaMichaels
 gif
 gifextra
@@ -5102,6 +5110,7 @@ Nootropics
 nope
 Noragami
 Nordichistorymemes
+norfolk
 norge
 NormalDayInArabia
 normaldayinrussia
@@ -5545,6 +5554,7 @@ photocritique
 photographs
 photoshopbattles
 PhotoshopRequest
+physicaltherapy
 physicianassistant
 Physics
 physicsgifs
@@ -6333,6 +6343,7 @@ shestillsucking
 shiba
 shield
 shieldbro
+ShieldHero
 ShingekiNoKyojin
 Shinobu
 ShinyPokemon
@@ -7646,6 +7657,7 @@ u_suckingonmylollipop
 u_SulkaTheDoll
 u_summerminx
 u_sushicutie_
+u_SwanSasha
 u_swedishkaya
 u_sweet_ivory_skin
 u_SweetViki
@@ -7692,6 +7704,7 @@ u_xxjadesolo
 u_yeasure1234
 u_Youngblackandsexy
 u_Your_Little_Angel
+u_yourlittlemia
 u_YummyCoupleCom
 uAlberta
 UBC
