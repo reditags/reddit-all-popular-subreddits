@@ -626,6 +626,7 @@ AustinWhite
 AustinWhiteModel
 australia
 AustralianCattleDog
+AustralianMakeup
 AustralianPolitics
 AustralianShepherd
 Austria
@@ -2076,6 +2077,7 @@ DarshelleCosplay
 DarshelleStevens
 DarthJarJar
 DarthRey
+DarwinAward
 DarwinAwards
 Dashcam
 dashcamgifs
@@ -6201,6 +6203,7 @@ ProCreate
 Product_Hub
 productivity
 ProductPorn
+ProfessorOak
 Professors
 progmetal
 ProgrammerAnimemes
@@ -6743,6 +6746,7 @@ scrubsgonewild
 scrungycats
 scuba
 ScuttleCrabMains
+Sdorica
 SDSGrandCross
 seals
 Seaofthieves
@@ -8605,6 +8609,7 @@ vsauce
 vsaucememes
 vtmb
 Vulfpeck
+W2S
 WA_guns
 WackyTicTacs
 waifubartending
