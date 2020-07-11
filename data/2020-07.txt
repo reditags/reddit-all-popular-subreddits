@@ -804,6 +804,7 @@ BattlefieldCosmetics
 BattlefieldV
 battlefront
 BattlefrontMemes
+BattlefrontTWO
 BattleJackets
 battlemaps
 battlestations
@@ -2192,6 +2193,7 @@ deepdream
 DeepFriedMemes
 DeepIntoYouTube
 DeepRockGalactic
+deepseacreatures
 DeepSpaceNine
 deepthroat
 DeerAreFuckingStupid
@@ -4404,6 +4406,7 @@ KDRAMA
 KeanuBeingAwesome
 Keep_Track
 KeepOurNetFree
+KeepWriting
 KeilahKang
 KeiraKnightley
 KeishaGrey
@@ -4827,6 +4830,7 @@ LowAltitudeJets
 LoweredPantyhose
 Lowes
 LowSodiumDestiny
+LowStakesConspiracies
 LPOTL
 LSAT
 LSD
@@ -5855,6 +5859,7 @@ ontheledgeandshit
 OopsDidntMeanTo
 oopsotherhand
 oots
+OpenChristian
 Opeth
 OpIsFuckingStupid
 Opossums
@@ -6249,6 +6254,7 @@ poopshitters
 PopArtNouveau
 popheads
 popheadscirclejerk
+Popping_
 PoppingPimples
 poppunkers
 PopSmoke
@@ -6387,6 +6393,7 @@ Psychonaut
 ptcgo
 PUBATTLEGROUNDS
 PUBG
+PUBGConsole
 PUBGMobile
 public
 PublicBoys
@@ -6589,6 +6596,7 @@ redneckengineering
 redpandas
 redrising
 Reds
+RedshirtsUnite
 Redskins
 redsox
 redstone
@@ -7399,6 +7407,7 @@ StarshipPorn
 starterpacks
 StartledCats
 startrek
+StarTrekDiscovery
 startrekgifs
 startrekmemes
 startups
@@ -8160,6 +8169,7 @@ TrumpCriticizesTrump
 trumpet
 Trumpgret
 Trumpgrets
+TrumpRoasts
 trumptweets
 Trumpvirus
 truscum
