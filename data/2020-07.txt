@@ -1379,6 +1379,7 @@ canon
 CantBelieveThatsReal
 canthold
 canucks
+canyoneering
 capbarista
 CapHillAutonomousZone
 Capitalism
@@ -6836,6 +6837,7 @@ saltierthancrait
 saltierthankrayt
 SaltLakeCity
 SaltyPhish
+SalvadorDali
 Salvia
 SamandTolki
 Samanta_Lily
@@ -9080,6 +9082,7 @@ WitcherMemes
 WitchesVsPatriarchy
 Wizard101
 WizTheLich
+wls
 wma
 woahdude
 WojakCompass
