@@ -2804,6 +2804,7 @@ Expected
 expectedcommunism
 ExpectedOuija
 expectedsabaton
+ExpectedThanos
 ExpensiveAccidents
 ExplainAFilmPlotBadly
 explainitpeter
@@ -4775,6 +4776,7 @@ leannadecker
 leannecrow
 learn_arabic
 learnart
+learndota2
 learnfrench
 learningtocat
 LearnJapanese
@@ -4802,6 +4804,7 @@ legaladvicecanada
 legaladviceofftopic
 LegalAdviceUK
 LegalTeens
+LegalTeensXXX
 legendarylootz
 legendofkorra
 LegendsMemes
