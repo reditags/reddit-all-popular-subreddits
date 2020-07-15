@@ -876,6 +876,7 @@ BeansInThings
 BeardedDragons
 beards
 Beardsandboners
+bearpuppers
 bearsdoinghumanthings
 Beastars
 beatles
@@ -9086,6 +9087,7 @@ unexpectedpawnee
 unexpectedsabaton
 UnexpectedSCP
 unexpectedskyrim
+UnexpectedSpongeBob
 UnexpectedTF2
 UnexpectedThanos
 UnexpectedThugLife
@@ -9475,6 +9477,7 @@ wholesomeviolence
 WholesomeYiff
 wholesomeyuri
 whooties
+Whoregasm
 whybrows
 WhyCatHowCat
 WhyEvenWearAnything
