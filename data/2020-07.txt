@@ -3530,6 +3530,7 @@ ghibli
 Ghost_in_the_Shell
 GhostAdventures
 Ghostbc
+GHOSTEMANE
 ghostnipples
 ghostoftsushima
 GhostRecon
@@ -7233,6 +7234,7 @@ rule34celebs
 rule34disney
 rule34gay
 Rule34Heaven
+Rule34LifeisStrange
 Rule34LoL
 Rule34Overwatch
 Rule34RainbowSix
