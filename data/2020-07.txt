@@ -472,6 +472,7 @@ ApexLore
 ApexOutlands
 ApexUncovered
 apexuniversity
+Aphantasia
 ApheliosMains
 apolloapp
 AppalachianTrail
@@ -1517,6 +1518,7 @@ casualnintendo
 casualnudity
 CasualUK
 cat
+cat_girls
 cataclysmdda
 CatAdvice
 Catan
@@ -2006,6 +2008,7 @@ coys
 CozierPlaces
 CozyPlaces
 CPA
+cpp
 CPUCS
 Cr1TiKaL
 CrackheadCraigslist
@@ -4145,6 +4148,7 @@ HunterXHunter
 HuntShowdown
 HuntsvilleAlabama
 husky
+HuttsGaming
 HVAC
 HybridAnimals
 hyderabad
