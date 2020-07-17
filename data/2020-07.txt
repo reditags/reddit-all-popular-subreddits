@@ -789,6 +789,7 @@ badMovies
 BadMUAs
 badparents
 badparking
+badphilosophy
 BadRocketLeagueGoals
 badroommates
 badtaxidermy
@@ -3956,6 +3957,7 @@ heraldry
 hermitchat
 HermitCraft
 hermitcraftmemes
+heroes3
 heroesofthestorm
 herpetology
 hertonguesout
@@ -4050,6 +4052,7 @@ homelab
 HomemadeGayPorn
 HomemadeGIFs
 HomeServer
+homesex
 HomestarRunner
 homestead
 Homesteading
@@ -9300,6 +9303,7 @@ unexpectedoffice
 UnexpectedOuija
 unexpectedpawnee
 unexpectedsabaton
+unexpectedsamonella
 UnexpectedSCP
 unexpectedskyrim
 UnexpectedSpongeBob
