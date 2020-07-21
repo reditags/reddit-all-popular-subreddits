@@ -2763,6 +2763,7 @@ EA_NHL
 eagles
 earlsweatshirt
 EARONS
+earrumblersassemble
 earthbound
 Earthchan
 EarthEnthusiasts
@@ -3089,6 +3090,7 @@ farmingsimulator
 FarmsofStardewValley
 farpeoplehate
 Fashion_Design
+fashionhistory
 FashionPlus
 fashionporn
 FashionReps
@@ -5640,6 +5642,7 @@ MelanieMartinez
 Melanime
 melbourne
 MelissaBenoist
+MelissaFumero
 MelissaRauch
 MelodyMarks
 melts
