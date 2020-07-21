@@ -3181,6 +3181,7 @@ FifaCareers
 fifqo
 FiftyFifty
 Fighters
+FightingLion
 fightporn
 fightsticks
 FigureSkating
@@ -6256,6 +6257,7 @@ NOLAPelicans
 nomansland
 NoMansSkyTheGame
 NonBinaryTalk
+NonCredibleDefense
 NoNewNormal
 NonFunctionSlackFill
 nonmurdermysteries
@@ -7389,6 +7391,7 @@ reptiles
 RepTime
 RepublicaArgentina
 Republican
+repurposedbuildings
 rescuedogs
 researchchemicals
 Residency
