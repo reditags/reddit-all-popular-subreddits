@@ -856,6 +856,7 @@ bannedfromclubpenguin
 Bannerlord
 BanPitBulls
 BanVideoGames
+BanVideoGamesHate
 Barackobamasankles
 baramanga
 BarbaraPalvin
@@ -898,6 +899,7 @@ BattlefrontMemes
 BattlefrontTWO
 BattleJackets
 battlemaps
+BattleNetwork
 battlestations
 battletech
 battlewagon
@@ -980,6 +982,7 @@ BelleDelphineLewds
 BelleDelphinePatreon
 Bellingham
 belowdeck
+beltalowda
 Ben10
 Bend
 bending
@@ -3251,6 +3254,7 @@ FixMyPrint
 fixtagram
 Fizintine
 FL_Studio
+Flamewanker
 FlashingAndFlaunting
 FlashingGirls
 flashlight
