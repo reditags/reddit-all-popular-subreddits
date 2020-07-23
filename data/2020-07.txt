@@ -2188,6 +2188,7 @@ Crushes
 CryptidDogs
 CryptoCurrencies
 CryptoCurrency
+CryptoDefiOfficial
 Cryptomains
 CryptoMarkets
 CryptoMoonShots
@@ -7454,6 +7455,7 @@ RegularRevenge
 regularshow
 regularshowmemes
 rejectedpokemon
+Relatable
 relationship_advice
 RelationshipMemes
 ReLIFE
