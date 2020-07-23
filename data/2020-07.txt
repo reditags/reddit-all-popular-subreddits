@@ -569,6 +569,7 @@ arrow
 Arrowverse
 ArsenalFC
 Art
+artcommissions
 ArtDeco
 ArtefactPorn
 ArtHistory
@@ -1942,6 +1943,7 @@ Colombia
 Colorado
 ColoradoAvalanche
 ColoradoSprings
+ColorBlind
 Colorization
 ColorizedHistory
 ColorizedStatues
@@ -2330,6 +2332,7 @@ DaniDaniels
 DaniDev
 DanielleBeaulieu
 DanielleSharp
+DanishEnts
 DankAndrastianMemes
 Dankchristianmemes2
 dankcrusadememes
@@ -4304,6 +4307,7 @@ HotlineMiami
 HotMoms
 hotones
 HotPaper
+hotpast
 HotPeppers
 hotsauce
 HotStuffNSFW
