@@ -2672,6 +2672,7 @@ DnD
 DnDBehindTheScreen
 DnDGreentext
 DnDHomebrew
+dndhorrorstories
 DnDIY
 dndmaps
 dndmemes
@@ -7755,6 +7756,7 @@ RWBYNSFW
 RX7
 RyanConner
 ryancreamer
+ryujin
 Ryumimi
 RyuuLion
 S8N
