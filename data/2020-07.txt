@@ -10199,6 +10199,7 @@ veganfitness
 VeganFoodPorn
 Veganforbeginners
 vegangifrecipes
+Veganism
 veganmealprep
 veganrecipes
 vegansnacks
@@ -10340,6 +10341,7 @@ Warhammer40k
 Warhammer_Smut
 WarhammerCompetitive
 WarhammerFantasy
+WarhammerUnderworlds
 WarplanePorn
 WarriorCats
 warriors
