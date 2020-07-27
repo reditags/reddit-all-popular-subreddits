@@ -10048,6 +10048,7 @@ uktrees
 UlcerativeColitis
 ultimate
 Ultralight
+ultralight_jerk
 ultrarunning
 ultrawidemasterrace
 UmbrellaAcademy
@@ -10400,6 +10401,7 @@ watersports
 WattsonMains
 Waxpen
 WayOfTheBern
+we_irl
 WeaponsMoe
 WeAreTheMusicMakers
 WearOS
