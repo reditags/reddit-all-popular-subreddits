@@ -602,6 +602,7 @@ battlefront
 BattlefrontMemes
 BattleJackets
 battlemaps
+BattlePaintings
 battlestations
 battlewagon
 batty
@@ -641,6 +642,7 @@ beberexha
 BecauseOfObiWan
 BedBros
 bee_irl
+beef_flaps
 Beekeeping
 beer
 beermoney
@@ -870,6 +872,7 @@ BorderCollie
 Borderlands
 Borderlands2
 borderlands3
+BorderlinePDisorder
 boringdystopia
 Boruto
 Bossfight
@@ -1075,6 +1078,7 @@ casualkujo
 casualnintendo
 CasualUK
 cat
+Catan
 CatastrophicFailure
 catbellies
 Catbun
@@ -1123,6 +1127,7 @@ CCW
 CedehsHentai
 CedehTS
 CelebBattles
+CelebGroped
 Celebhub
 celebnsfw
 CelebrityButts
@@ -1333,6 +1338,8 @@ comics
 comingout
 commandandconquer
 CommentAwardsForum
+communism
+communism101
 CommunismMemes
 community
 CompanyOfHeroes
@@ -1385,6 +1392,7 @@ corgibutts
 corinnakopf
 Cornell
 CornGuy
+coronabr
 Coronavirus
 CoronavirusCA
 CoronavirusColorado
@@ -1676,6 +1684,7 @@ Deltarune
 delusionalartists
 delusionalcraigslist
 DemEyesDoe
+DemiLovato
 DemiRoseMawby
 demisexuality
 DemocraticSocialism
@@ -1729,6 +1738,7 @@ diabetes_t1
 Diablo
 DiavoloDeathCount
 DicePorn
+DickAndFace
 DidntKnowIWantedThat
 different_sob_story
 digimon
@@ -1785,6 +1795,7 @@ DoctorMike
 doctorwho
 DoctorWhumour
 Documentaries
+Dodgers
 Dodocodes
 DOG
 Dogberg
@@ -2119,6 +2130,7 @@ fasting
 fatcats
 FateHentai
 fatestaynight
+fatFIRE
 FatPussyLovers
 fatsquirrelhate
 FauxBait
@@ -2178,6 +2190,7 @@ Finanzen
 findareddit
 findfashion
 finlandConspiracy
+Fire
 Fire_Emblem_R34
 Firearms
 FirearmsHallOfShame
@@ -2337,6 +2350,7 @@ FuckableSplits
 FuckCaillou
 fuckdoll
 fuckepic
+FuckGaming
 fuckgravel
 fuckHOA
 FuckHomescapes
@@ -2524,6 +2538,7 @@ GirlswithGlasses
 GirlsWithHugePussies
 GirlswithNeonHair
 gis
+gisellelynette
 glasgow
 glassanimals
 GLCsister
@@ -2589,12 +2604,14 @@ GothBoiClique
 gothsluts
 GothStyle
 GrabHerTitties
+gradadmissions
 GradSchool
 Graffiti
 Granblue_en
 GrandBlue
 grandorder
 grandpajoehate
+grandrapids
 GrandTheftAutoV
 GrandTheftAutoV_PC
 GrandTourTopgearFans
@@ -2984,6 +3001,7 @@ im14andthisisdeep
 im14andthisiswoooosh
 Im15AndThisIsYeet
 Im5andthisismacaroni
+ImageStabilization
 ImaginaryArchitecture
 ImaginaryAww
 ImaginaryBattlefields
@@ -3866,6 +3884,7 @@ Mid_Century
 midcenturymodern
 MiddleEasternHotties
 Midsommar
+MightyCarMods
 MightyHarvest
 migraine
 MikiMakeyCam
@@ -4556,6 +4575,7 @@ Persona5
 PersonalFinanceCanada
 perth
 pesmobile
+Pet_Renaissance
 PetaJensen
 PeterExplainsTheJoke
 petite
@@ -4743,6 +4763,7 @@ powerwashingporn
 PragerUrine
 PraiseTheCameraMan
 PraiseTheEditor
+Predators
 preggohentai
 PreggoPorn
 pregnant
@@ -4836,6 +4857,7 @@ PussyPass
 pussypassdenied
 pussyrating
 PutAnEggOnIt
+putaria
 PutYourDickInThat
 PvZGardenWarfare
 PvZHeroes
@@ -4859,6 +4881,7 @@ Qult_Headquarters
 quotes
 QuotesPorn
 R34danganronpa
+r4r
 R6ProLeague
 R6SiegeFashionAdvice
 Rabbits
@@ -5472,6 +5495,7 @@ SoundsLikeMusic
 Sourdough
 sousvide
 southafrica
+southcarolina
 SovietWomble
 space
 SpaceballsMemes
@@ -5578,6 +5602,7 @@ StefaniaFerrario_
 steinsgate
 SteinsGateMemes
 Stellaris
+step1
 stephenking
 stepparents
 stevenuniverse
@@ -5980,6 +6005,7 @@ tiktokporn
 tiktokthots
 TILI
 Tim
+TimAndEric
 timbers
 timberwolves
 Tinder
@@ -6381,6 +6407,7 @@ unnamedfanbase
 UnnecessaryInventions
 UnnusAnnus
 unOrdinary
+Unorthodog
 UnpopularFacts
 unpopularkpopopinions
 unpopularopinion
@@ -6459,6 +6486,7 @@ veYakinEvren
 vickili
 Vicky_Aisha
 victoria2
+VictoriaBC
 victoriajustice
 videogamedunkey
 videogames
