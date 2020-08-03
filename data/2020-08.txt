@@ -129,6 +129,7 @@ adventuretime
 Advice
 AdviceAnimals
 aerospace
+AerospaceEngineering
 aesthetic
 AEWOfficial
 afkarena
@@ -440,6 +441,7 @@ AskOuija
 AskReddit
 AskRedditAfterDark
 askscience
+AskScienceDiscussion
 AskScienceFiction
 askteenboys
 AskTeenGirls
@@ -587,6 +589,7 @@ BanGDream
 bangmybully
 bangtan
 Bannerlord
+BanPitBulls
 BanVideoGames
 baramanga
 BarbaraPalvin
@@ -837,6 +840,7 @@ BMW
 BNHARule34
 boardgames
 boating
+bobdylan
 BobsBurgers
 BobsTavern
 bodybuilding
@@ -983,6 +987,7 @@ BrutalBeatdowns
 btd6
 BtsMemes
 BubbleButts
+buccaneers
 Buddhism
 BuddyCrossing
 BudgetAudiophile
@@ -1248,6 +1253,7 @@ christinahendricks
 christmas
 ChristmasCake
 ChristyMack
+chromeos
 ChronicIllness
 ChronicPain
 chubby
@@ -1474,6 +1480,7 @@ CozyPlaces
 CPUCS
 Cr1TiKaL
 CrackheadCraigslist
+CrackSupport
 CrackWatch
 CraftBeer
 Crainn
@@ -2394,6 +2401,7 @@ Frenchbulldogs
 freshalbumart
 FreyaAllan
 FridgeDetective
+FriendsGoneWild
 FrogButt
 frogs
 FromBelowView
@@ -2505,6 +2513,7 @@ gangstaswithwaifus
 gangweed
 gank
 gao
+gape
 garfieldminusgarfield
 GarlicBreadMemes
 Garmin
@@ -2669,6 +2678,7 @@ google
 googlemapsshenanigans
 GooglePixel
 GordonRamsay
+gordonramsaymemes
 gorillaz
 Gotham
 GothBoiClique
@@ -3004,6 +3014,7 @@ howyoudoin
 Hozier
 HPHogwartsMystery
 HQDesi
+htgawm
 httyd
 HUEstation
 hugeboobs
@@ -3182,6 +3193,7 @@ insanepeoplefacebook
 InsanePeopleQuora
 InsaneTechnology
 insects
+insertions
 InsiderMemeTrading
 InspectorSeb
 inspirobot
@@ -3236,6 +3248,7 @@ IrinaSabetskaya
 IRLEasterEggs
 IRLgirls
 IronFrontUSA
+irongolemrights
 ironicsigns
 ironscape
 IrrationalMadness
@@ -3350,6 +3363,7 @@ juliafoxsub
 JuliaJAV
 JuliaRose
 JulieKennedy
+Jung
 Jungle_Mains
 junjiito
 JurassicMemes
@@ -3757,6 +3771,7 @@ LushCosmetics
 Luthier
 lux
 LuxloCosplay
+LuxuryLifeHabits
 LV426
 LWIAY
 MAAU
@@ -4132,6 +4147,7 @@ mountainbiking
 mountandblade
 MouseReview
 MovieDetails
+MovieMistakes
 MoviePosterPorn
 movies
 Moviesinthemaking
@@ -4140,6 +4156,7 @@ MrFruit
 MrLove
 mrpresidentthebutton
 MrRobot
+MrsPoindexter
 MST3K
 MTB
 mtg
@@ -4254,6 +4271,8 @@ netflix
 NetflixBestOf
 NetflixSexEducation
 netflixwitcher
+Netherlands
+netsecstudents
 Neverbrokeabone
 NeverPauseAvatar
 nevertellmetheodds
@@ -5254,6 +5273,7 @@ rva
 RWBY
 RWBYNSFW
 Ryumimi
+RyuuLion
 S8N
 sabaton
 SabatonMemes
@@ -5325,6 +5345,7 @@ scalieporn
 Scams
 ScandinavianInterior
 ScarlettJohansson
+scarlxrd
 Scary
 Scarymovies
 ScarySigns
@@ -5361,6 +5382,7 @@ seals
 Seaofthieves
 SeattleWA
 secondsketch
+secretbridgexxx
 secretcompartments
 SecretCrushOfficial
 secretlittle
@@ -5386,6 +5408,7 @@ seniorkitties
 senrankagura
 SequelMemes
 serbia
+serbiancringe
 serialkillers
 seriouseats
 SesameStreetMemes
@@ -5802,6 +5825,7 @@ straponlesbians
 Strava
 straykids
 StreamGirls
+streeteats
 StreetFighter
 StreetFights
 StreetMartialArts
@@ -6019,6 +6043,7 @@ TFABLinePorn
 Tgifs
 TgirlHUB
 Tgirls
+Thailand
 thalassophobia
 thanksihateit
 thanksimcured
@@ -6153,6 +6178,7 @@ thirdsentenceworse
 ThisButUnironically
 Thisismylifemeow
 thisismylifenow
+thomastheplankengine
 ThotClub
 ThoughtsYouCanFeel
 ThousandSons
@@ -6435,6 +6461,7 @@ u_hentaihottie
 u_iambaddie
 u_idea4granted
 u_igot2dogss
+u_imjustawalmartsink
 u_iprobably-dontlikeu
 u_isthatamber
 u_JamieNeedsDick
@@ -6515,6 +6542,7 @@ u_TenaciousDDD33
 u_thatllbe25schmeckles
 u_theoriginalcinn
 u_Tiddytastic
+u_TSgisele
 u_Unicornglitteryblood
 u_VeronicaBlake
 u_Vesicool
@@ -6522,6 +6550,7 @@ u_vicbwolf
 u_vixenofvices
 u_vsnsxs
 u_wantedslut
+u_weeblondie_x
 u_X29771628
 u_xoxokayla
 u_xTaylorJayx
@@ -6709,6 +6738,7 @@ virtualreality
 VirtualYoutubers
 Visiblemending
 visitorgettherocket
+VisualMedicine
 VitaPiracy
 Vocaloid
 Volkswagen
@@ -6996,6 +7026,7 @@ youdontsurf
 YoujoSenki
 YoungGirlsGoneWild
 YoungGuysGoneWild
+youngpeoplegoogleplay
 youngpeoplereddit
 youngpeopleyoutube
 youngporn
