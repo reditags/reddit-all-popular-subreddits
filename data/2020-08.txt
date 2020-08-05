@@ -146,6 +146,7 @@ aeiou
 aerospace
 AerospaceEngineering
 aesthetic
+aestheticrain
 AEWOfficial
 afkarena
 AFL
@@ -1947,6 +1948,7 @@ democrats
 DemonSlayerAnime
 demonssouls
 Demotivational
+demsocialists
 Denmark
 Denton
 Denver
@@ -4620,6 +4622,7 @@ MordekaiserMains
 Mordhau
 MorganaMains
 MoriahMills
+mormon
 Moronavirus
 Morrowind
 MortalKombat
@@ -5676,6 +5679,7 @@ RatchetAndClank
 RateMyAss
 ratemyboobs
 ratemycock
+ratemydessert
 RateMyNudeBody
 Ratemypussy
 RateMyRack
@@ -6827,6 +6831,7 @@ TheLetterH
 thelongdark
 TheLostWoods
 TheMagnusArchives
+TheMajorityReport
 TheMandalorianTV
 TheMarvelousMrsMaisel
 TheMemersClub
@@ -7372,6 +7377,7 @@ ubisoft
 ubius
 Ubuntu
 ucf
+UCI
 ucla
 ucr
 UCSC
@@ -7819,6 +7825,7 @@ worldpolitics
 WorldWar2
 WormMemes
 WOSH
+Wotakoi
 WouldYouRather
 wow
 wowfuckthewhat
