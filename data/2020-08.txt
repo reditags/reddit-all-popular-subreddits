@@ -125,6 +125,7 @@ ActivationSound
 ActLikeYouBelong
 ACTrade
 actualdarkhumor
+ActualHippies
 ActualPublicFreakouts
 acturnips
 Adaland
@@ -467,6 +468,7 @@ archlinux
 arcticmonkeys
 arduino
 Area51memes
+arenaofvalor
 AreolasGW
 AreTheCisOk
 ARG
@@ -513,6 +515,7 @@ asexuality
 Ashe_Maree
 AshesofCreation
 asheville
+ashkashhh
 Ashley_Graham
 AshleyAlban
 AshleyTervort
@@ -1921,6 +1924,7 @@ CryingCatMemes
 Crypto_com
 CryptoCurrencies
 CryptoCurrency
+Cryptomains
 Cryptozoology
 Crystals
 CrystalWestbrooks
@@ -2513,6 +2517,7 @@ Eldar
 Eldenring
 ElderScrolls
 elderscrollsonline
+eldertrees
 ElectricalEngineering
 electricdaisycarnival
 electricians
@@ -3174,6 +3179,7 @@ gank
 gao
 gape
 garfieldminusgarfield
+garfriends
 GarlicBreadMemes
 Garmin
 Gary_The_Cat
@@ -6778,6 +6784,7 @@ SDSGrandCross
 seaglass
 seals
 Seaofthieves
+seashanties
 SeattleKraken
 SeattleWA
 secondsketch
@@ -7294,6 +7301,7 @@ starwarsspeculation
 StarWarsSquadrons
 stateball
 StateOfDecay
+stationery
 STAWG
 steak
 Stealthbombers
