@@ -5098,6 +5098,7 @@ MemePiece
 MemeRestoration
 memes
 Memes_Of_The_Dank
+Memesana
 MemesIRL
 memesITA
 MemesOfTheGreatWar
@@ -6969,6 +6970,7 @@ Shadowrun
 ShaeSummers
 Shaggymemes
 shaidenrogue
+Shamanism
 shameless
 ShamelesslyStolen
 ShaneDawson
@@ -7809,6 +7811,7 @@ thechurchofspeedwagon
 TheCinemassacre
 TheCinemassacreTruth
 TheCloneWars
+TheCrownNetflix
 TheCuddlePuddle
 TheDarkTower
 thedavidpakmanshow
