@@ -787,6 +787,7 @@ basketballcards
 Bass
 bassfishing
 BassGuitar
+Bastille
 batman
 BatmanArkham
 Battlecars
@@ -1840,6 +1841,7 @@ CoronavirusCirclejerk
 CoronavirusColorado
 CoronavirusDownunder
 CoronavirusGA
+CoronavirusIllinois
 CoronavirusMa
 CoronavirusMemes
 CoronavirusRecession
@@ -3995,6 +3997,7 @@ ImaginaryKnights
 ImaginaryLandscapes
 ImaginaryLeviathans
 imaginarymaps
+ImaginaryMechs
 ImaginaryMiddleEarth
 ImaginaryMindscapes
 ImaginaryMonsterGirls
@@ -6873,6 +6876,7 @@ ScottishFootball
 ScottishPeopleTwitter
 ScottPilgrim
 scottthewoz
+scotus
 SCP
 SCPDeclassified
 SCPMemes
@@ -7072,6 +7076,7 @@ Shrek
 Shrekmemes
 Shrimping
 shrimptank
+shroedingerzkat
 shroomers
 ShroomID
 shrooms
@@ -8582,6 +8587,7 @@ ultimate
 Ultralight
 ultrarunning
 ultrawidemasterrace
+umass
 UmbrellaAcademy
 UMD
 UNBGBBIIVCHIDCTIICBG
