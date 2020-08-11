@@ -1658,6 +1658,7 @@ citypop
 CityPorn
 civ
 civ5
+civ_memes
 civilengineering
 CivVI
 CK2GameOfthrones
@@ -5075,6 +5076,7 @@ medievaldoctor
 Meditation
 mediterranea
 medizzy
+medlabprofessionals
 mega64
 megaconstrux
 Megadeth
@@ -8333,6 +8335,7 @@ u_Dmitriy_DG3D
 u_Dollywinks
 u_domrystan
 u_dontslutshame
+u_drooIydog
 u_EddLai
 u_Elizabethhoney44
 u_EnMarcheNoire
