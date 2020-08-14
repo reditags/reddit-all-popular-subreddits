@@ -182,6 +182,7 @@ after_before
 AfterEffects
 aftergifted
 AfterTheEndFanFork
+AfterTheShot
 AgainstDegenerateSubs
 AgainstHateSubreddits
 AgedBeauty
@@ -3003,6 +3004,7 @@ finance
 FinancialCareers
 financialindependence
 Finanzen
+findapath
 findareddit
 findfashion
 FindTheSniper
@@ -9200,6 +9202,7 @@ vikingstv
 VikiOdintcova
 viktormains
 VillagePorn
+VillagersGoneWild
 vim
 VinaSky
 Vindicta
