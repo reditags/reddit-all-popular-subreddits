@@ -2049,6 +2049,7 @@ Crypto_com
 CryptoCurrencies
 CryptoCurrency
 Cryptomains
+CryptoMarkets
 Cryptozoology
 Crystals
 CrystalWestbrooks
@@ -4728,6 +4729,7 @@ KiraKosarin
 Kirby
 kirillwashere
 KissAnime
+KissManga
 Kitboga
 KitchenConfidential
 kitchener
