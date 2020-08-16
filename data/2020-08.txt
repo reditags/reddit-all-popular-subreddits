@@ -3179,6 +3179,7 @@ Ford
 FordBronco
 foreskin
 Forest
+ForeverAloneDating
 foreverbox
 Forex
 forexposure
@@ -5146,6 +5147,7 @@ LoveToWatchYouLeave
 LovingFamily
 low_poly
 LowAltitudeJets
+lowbatterysounds
 Lowes
 LowSodiumDestiny
 LowStakesConspiracies
