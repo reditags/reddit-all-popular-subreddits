@@ -134,6 +134,7 @@ ActLikeYouBelong
 ACTrade
 actualconspiracies
 actualdarkhumor
+ActualFreakouts
 ActualHippies
 ActualPublicFreakouts
 ActualYuri
@@ -1471,6 +1472,7 @@ CantBelieveThatsReal
 canthold
 canucks
 CANZUK
+caomi02
 capbarista
 Capitalism
 capitalism_in_decay
@@ -4226,6 +4228,7 @@ IDontWorkHereLady
 IDOWORKHERELADY
 Idubbbz
 IF_Petites
+ifadeozgurlugu
 IfIDieBeforeISkeet
 IfIFitsISits
 Ifyouhadtopickone
@@ -6526,6 +6529,7 @@ PerfectlyCutBooms
 perfectlycutfucks
 PerfectlyCutMeows
 perfectlycutscreams
+PerfectlyCutScreens
 perfectlycutyeets
 PerfectTiming
 PerilousPlatypus
@@ -8266,6 +8270,7 @@ tea
 teachermemes
 Teachers
 teaching
+Team_Skeet
 TeamfightTactics
 TeamFourStar
 teamliquid
@@ -8782,6 +8787,7 @@ tscumsluts
 TSonFM
 TsundereSharks
 TubbyTummyComics
+TuberSimulator
 TucaAndBertie
 tuckedinkitties
 TuckedInPuppies
