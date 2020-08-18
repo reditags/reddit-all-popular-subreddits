@@ -858,6 +858,7 @@ bassnectar
 Bastille
 batman
 BatmanArkham
+BATProject
 BattleBrothers
 Battlecars
 battlecats
@@ -2701,6 +2702,7 @@ Dynavap
 EA_NHL
 earlsweatshirt
 EARONS
+earrumblersassemble
 earthbound
 Earthchan
 EarthEnthusiasts
@@ -3535,6 +3537,7 @@ Genealogy
 GeneralSam
 GenesisLopezMia1
 genetics
+Genshin_Impact
 gentina
 GentleDungeon
 gentlefemdom
