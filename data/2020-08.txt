@@ -2703,6 +2703,7 @@ Drifting
 DrillCats
 Drizzy
 drones
+dross
 DrPepper
 DrStone
 DrStoneMemes
@@ -8481,6 +8482,7 @@ TattooArt
 TattooDesigns
 tattoos
 Tau40K
+Tautology
 tax
 TaylorAlesia
 TaylorSwift
