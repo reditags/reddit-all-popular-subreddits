@@ -3287,6 +3287,7 @@ FixedGearBicycle
 FixedPoliticalMemes
 FixedTattoos
 fixingmovies
+fixit
 Fizintine
 FL_Studio
 Flamepoints
@@ -5353,6 +5354,7 @@ LMDShow
 lmGoingToHellForThis
 loadingicon
 LoadingIcons
+local58
 LockdownSkepticism
 lockpicking
 LodedDiper
@@ -6385,6 +6387,7 @@ NSFWLW
 nsfwoutfits
 NSFWsmiles
 NSFWSnapchat
+nsfwsports
 NsfwsXXX
 NSFWverifiedamateurs
 NuclearRevenge
@@ -7690,6 +7693,7 @@ school_memes
 SchoolGirlSkirts
 SchoolgirlsXXX
 SchoolIdolFestival
+SchoolSystemBroke
 science
 sciencefiction
 ScienceHumour
@@ -9200,6 +9204,7 @@ u_Aaron3108
 u_abbyellison
 u_AellaGirl
 u_aerwydd
+u_aethelflaed19
 u_AkiraOh_v2
 u_albuquerquepeachy
 u_AlexisAinsley
@@ -10220,6 +10225,7 @@ womensstreetwear
 WomenWritingMen
 wonderdraft
 Woodcarving
+WoodworkConfessions
 woodworking
 woof_irl
 Wooloo
