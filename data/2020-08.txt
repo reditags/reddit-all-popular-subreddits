@@ -2631,6 +2631,7 @@ DnDIY
 dndmaps
 dndmemes
 dndnext
+DoA_Rule34
 DoctorMike
 doctorwho
 DoctorWhumour
@@ -6995,6 +6996,7 @@ PokemonROMhacks
 pokemonshowdown
 PokemonSwordAndShield
 PokemonTCG
+pokemontrades
 PokeMoonSun
 PokePorn
 poker
