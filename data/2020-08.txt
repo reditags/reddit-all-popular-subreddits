@@ -1641,6 +1641,7 @@ catsonglass
 CatsOnKeyboards
 CatsOnPizza
 CatsPlayingDnd
+catsridingroombas
 catssittingdown
 CatsStandingUp
 catsvstechnology
@@ -6890,6 +6891,7 @@ PetsareAmazing
 Petscop
 PetTax
 PetTheDamnCat
+petthedamncow
 PetTheDamnDog
 petthedamnduck
 PetTheDamnKitty
@@ -8883,6 +8885,7 @@ TheOfficialPodcast
 TheOnion
 TheOrville
 TheoryofCatsInSinks
+TheOther14mil
 theouterworlds
 TheoVon
 TheOwlHouse
