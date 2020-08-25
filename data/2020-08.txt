@@ -327,6 +327,7 @@ ambien
 Amd
 AMD_Stock
 americandad
+AmericanFascism2020
 AmericanHorrorStory
 amibeingdetained
 AmIFreeToGo
@@ -3564,6 +3565,7 @@ ft86
 ftlgame
 ftm_irl
 FTMFitness
+FTMMen
 FuckableSplits
 FuckCaillou
 fuckdoll
@@ -6035,6 +6037,7 @@ MirrorForSale
 mirroring
 Mirrorsforsale
 misanthropy
+miscatculations
 misfits
 misleadingthumbnails
 misLED
@@ -8798,6 +8801,7 @@ talesfromcavesupport
 talesfromsecurity
 TalesFromTheCustomer
 TalesFromTheFrontDesk
+TalesFromTheKitchen
 TalesFromThePharmacy
 TalesFromThePizzaGuy
 TalesFromTheSquadCar
@@ -9421,6 +9425,7 @@ TuxedoCats
 TVDetails
 TVGRYpl
 TwennyWunPilots
+TwentyCharacterLimit
 twentyonepilots
 twerking
 TWEWY
@@ -10619,6 +10624,7 @@ XFiles
 xfl
 Xiaomi
 xkcd
+xlightmoonx
 xmen
 xqcow
 xsmallgirls
