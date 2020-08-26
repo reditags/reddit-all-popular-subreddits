@@ -8110,6 +8110,7 @@ shittybattlestations
 ShittyCarMod
 ShittyDaystrom
 shittyfoodporn
+Shittygamecollecting
 shittygamedetails
 ShittyGifRecipes
 ShittyLifeProTips
@@ -9060,6 +9061,7 @@ TheMysteriousSong
 thenetherlands
 TheOA
 theocho
+TheOCS
 theodd1sout
 theofficememes
 theOfficialFNG
