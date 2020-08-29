@@ -5602,6 +5602,7 @@ LMDShow
 lmGoingToHellForThis
 loadingicon
 LoadingIcons
+loafelore
 local58
 LockdownSkepticism
 lockpicking
@@ -8956,6 +8957,7 @@ TakeaPlantLeaveaPlant
 tales
 talesfromcallcenters
 talesfromcavesupport
+TalesFromDF
 talesfromsecurity
 TalesFromTheCustomer
 TalesFromTheFrontDesk
@@ -10375,6 +10377,7 @@ vegetarian
 vegetarianrecipes
 veggieshake
 vekllei
+VelmaNSFW
 velvethippos
 Vent
 venturebros
