@@ -1193,6 +1193,7 @@ blackmirror
 blackops3
 Blackops4
 blackopscoldwar
+blackpanther
 blackpeoplegifs
 BlackPeopleTwitter
 BlackPink
@@ -5268,6 +5269,7 @@ knockmeup
 knolling
 KnowingBetter
 Knoxville
+KoboldLegion
 KoeNoKatachi
 Kombucha
 Komi_san
@@ -9564,6 +9566,7 @@ tucker_carlson
 Tucson
 tulsa
 tumblr
+TumblrAtRest
 TumblrInAction
 TumblrWrites
 Turkey
@@ -9668,6 +9671,7 @@ u_bcflyers2016
 u_BeaYork
 u_bekindandbeamazing
 u_bellaandray
+u_Best_Turnip
 u_betajizz
 u_Biancas_Booty
 u_Bibbitybobbityboobie
