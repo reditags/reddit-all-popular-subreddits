@@ -4875,6 +4875,7 @@ instantkarma
 instantpot
 Instantregret
 InstaSnapsAndMore
+instock
 insurgency
 intel
 IntellectualDarkWeb
@@ -9616,6 +9617,7 @@ TransLater
 translator
 Transmatfiring
 Transmogrification
+Transpirobot
 transporn
 TransSpace
 transvoice
