@@ -203,6 +203,7 @@ AFL
 Afrobull
 AfroDeviant
 Afrodisiac
+AfroQueens
 after_before
 AfterEffects
 aftergifted
@@ -1565,6 +1566,7 @@ CallMeCarson
 callofcthulhu
 CallOfDuty
 CallOfDutyMobile
+Callux
 caloriecount
 CalPoly
 CalPolyPomona
@@ -3979,6 +3981,7 @@ glitch_art
 Glitch_in_the_Matrix
 GlitchInTheMatrix
 glitchtaleofficial
+Globalceleb
 GlobalOffensive
 GlobalTalk
 GlobalTribe
@@ -6060,6 +6063,7 @@ MensRights
 menstrualcups
 mentalhealth
 mentalillness
+Mentecapto
 menwritingwomen
 MenzWeakneZ
 meormyson
