@@ -2786,6 +2786,7 @@ dogpictures
 DogReactions
 dogs
 dogs_getting_dogs
+DogsAndPlants
 dogsenjoyingnature
 DogsEnjoyingPets
 dogshaming
@@ -7222,6 +7223,7 @@ penpals
 pens
 PeopleBeingJerks
 PeopleFuckingDying
+PeopleLiveInCities
 peopleofwalmart
 PeppaPigOffBrands
 peppyRoastedHimGood
@@ -9789,6 +9791,7 @@ u_AmaneKanata
 u_ambientwook
 u_ameliabunny
 u_Angelina_Valsova
+u_Animalsleader
 u_anna_monik
 u_AnnaBgo
 u_annablossom
@@ -10099,6 +10102,7 @@ u_naughtyscorpio
 u_nebraskawut
 u_nekokitty18
 u_Neon_cxxple
+u_Neutral_3vil
 u_neverkbest
 u_neverlandginger
 u_Nextdoornurs3
@@ -10161,6 +10165,7 @@ u_RubysRoses1
 u_Sadgirlastrid
 u_sallymd7
 u_salomesalvi
+u_sandyinlace
 u_Sanguis_Plaga
 u_Sarah0908
 u_sarahsb89
