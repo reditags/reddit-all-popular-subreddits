@@ -637,6 +637,7 @@ balisong
 ballpython
 Balls
 BalticStates
+BananaFish
 BananasForScale
 BancaDelMeme
 Bandmemes
@@ -1807,6 +1808,7 @@ DarknessKS
 darknet
 DarkSouls2
 darksoulsmemes
+darksparks
 DarkViperAU
 DarlingInTheFranxx
 DarshelleCosplay
@@ -1870,6 +1872,7 @@ deathnote
 DeathProTips
 DeathStranding
 Debate
+DebateLikeAEnglishman
 DebbyRyan
 dechonkers
 DecidingToBeBetter
@@ -1935,6 +1938,7 @@ DessertPorn
 Destiny
 destiny2
 destinycomics
+DestinyDadJokes
 DestinyFashion
 DestinyLore
 DestinyMemes
@@ -2129,6 +2133,7 @@ drunkencookery
 drydockporn
 dsa
 dualipa
+Dualsport
 dubai
 Dublin
 duck
@@ -2465,6 +2470,7 @@ FighterJets
 Fighters
 fightporn
 fightsticks
+FigureSkating
 Filmmakers
 FilthyFrank
 FilthyGirls
@@ -2751,6 +2757,7 @@ GameOfThronesMemes
 GameOverGirls
 GamePhysics
 gamernews
+GameStop
 GameTheorists
 gamindustri
 gaming
@@ -5024,6 +5031,7 @@ oklahoma
 okmatewanker
 okoidawappler
 okpolarncp
+OKRABLEACH
 Old_Recipes
 oldbabies
 OlderThanYouThinkIAm
@@ -5039,6 +5047,7 @@ oldschoolcreepy
 OldWorldBlues
 OlgaKatysheva
 olgakobzar
+olivertree
 OliviaMunn
 oliviawilde
 Omaha
@@ -6170,6 +6179,7 @@ singapore
 singing
 singularity
 Sino
+SINoALICE_en
 Sinvicta
 sips
 sirensong
@@ -6402,6 +6412,7 @@ starbound
 starbucks
 starcitizen
 starcraft
+starcraft2
 StardewMemes
 StardewValley
 StardustCrusaders
@@ -7286,6 +7297,7 @@ u_missejh86
 u_mnaughtiness
 u_mochii111
 u_MomMeetsKarma
+u_MonaMinx
 u_Moody_Feet
 u_msbun
 u_nationalgeographic
@@ -7349,6 +7361,7 @@ u_summerminx
 u_swedishkaya
 u_sweetcheeksnnsane
 u_SweetViki
+u_synn4serina
 u_T200608
 u_Takha_Filatova
 u_tallassgirl
@@ -7404,6 +7417,7 @@ ucf
 UCI
 ucla
 UCONN
+UCSC
 UCSD
 udub
 ufc
