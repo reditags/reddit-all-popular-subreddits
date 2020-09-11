@@ -2650,6 +2650,7 @@ ender3
 Endo
 enemystands
 energy
+energy_work
 enf
 ENF_EUF
 ENFP
@@ -5103,6 +5104,7 @@ MayaHawke
 maybemaybemaybe
 mazda
 MB2Bannerlord
+MBA
 MBMBAM
 mbti
 mbtimemes
@@ -5183,6 +5185,7 @@ memphis
 memphisgrizzlies
 MemriTVmemes
 mendrawingwomen
+menkampf
 MensHighJinx
 MensLib
 Mensmittenwithkittens
@@ -6520,6 +6523,7 @@ PuertoRico
 Puffies
 pugs
 pukicho
+punchableface
 pune
 punk
 PunkGirls
@@ -7510,6 +7514,8 @@ Stacked
 Stadia
 stalker
 Stance
+standhurtingjuice
+StandingCarryFuck
 StandUpComedy
 standupshots
 starbound
@@ -8894,6 +8900,7 @@ Utah
 UtahJazz
 UTAustin
 utdallas
+UTK
 UVA
 uwaterloo
 UWMadison
@@ -8938,6 +8945,7 @@ veganuk
 vegas
 vegetablegardening
 vegetarian
+vegetarianfoodporn
 veggieshake
 VelmaNSFW
 velvethippos
