@@ -116,6 +116,7 @@ Acid
 ACMilan
 acne
 ACNHGardening
+acotar
 ACPocketCamp
 ACQR
 ACT
@@ -1848,6 +1849,7 @@ CookieClicker
 cookiedecorating
 Cookierun
 Cooking
+cookingforbeginners
 CoolAmericaFacts
 CoolBugFacts
 CoolCollections
@@ -6098,6 +6100,7 @@ PalaceClothing
 Paladins
 palegirls
 PaleMUA
+Paleo
 Paleontology
 palest
 Palestine
@@ -9025,6 +9028,7 @@ vintagecgi
 VintageFashion
 VintageFashions
 vintagejapaneseautos
+VintageLadyBoners
 VintageSmut
 vinyl
 vinyljerk
