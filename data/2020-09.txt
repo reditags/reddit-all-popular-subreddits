@@ -573,6 +573,7 @@ AskMenOver30
 AskNYC
 AskOuija
 AskPhotography
+askportland
 AskReddit
 AskRedditAfterDark
 askscience
@@ -2008,6 +2009,7 @@ CryptidDogs
 Crypto_com
 CryptoCurrency
 Cryptomains
+CryptoMoonShots
 Cryptozoology
 Crystals
 CrystalWestbrooks
