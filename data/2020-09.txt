@@ -7038,6 +7038,7 @@ RetroPie
 RetrousseTits
 RevenantMain
 reverseanimalrescue
+reversebunnysuit
 reversegif
 Revolvers
 ReyaSunshine
@@ -7469,6 +7470,7 @@ shittyfoodporn
 Shittygamecollecting
 shittygamedetails
 ShittyGifRecipes
+shittyhairypotdetails
 shittyhalolore
 ShittyLifeProTips
 ShittyMapPorn
