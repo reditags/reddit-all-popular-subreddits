@@ -1890,6 +1890,7 @@ COMPLETEANARCHY
 ComplexionExcellence
 composting
 compsci
+CompTIA
 CompulsiveSkinPicking
 computers
 computerscience
@@ -2783,6 +2784,7 @@ EmperorsNewMemes
 EmpireDidNothingWrong
 ems
 emulation
+EmulationOnAndroid
 Emuwarflashbacks
 EnaiRim
 enamorandonos
