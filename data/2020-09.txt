@@ -310,6 +310,7 @@ amiugly
 Amoledbackgrounds
 AmongUs
 AmongUsCompetitive
+AmongUsFriendFinder
 Amouranth
 amphibia
 Amsterdam
@@ -3148,6 +3149,7 @@ flatchests
 flatearth
 FLCL
 Fleabag
+fleshlighters
 FlexiGirls
 FlexinLesbians
 flightsim
@@ -9428,6 +9430,7 @@ vagabond
 vaguelythreatening
 ValentinaCastro
 valentinanappi
+ValerieKay
 valkyrae
 VALORANT
 ValorantCompetitive
