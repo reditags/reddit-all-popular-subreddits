@@ -3000,6 +3000,7 @@ facepalm
 Faces
 FacesGW
 facesitting
+facial
 facial_animation
 FacialFun
 facingtheirparenting
@@ -3241,6 +3242,7 @@ FondantHate
 food
 Foodforthought
 foodhacks
+FoodLosAngeles
 FoodPorn
 Foofighters
 football
@@ -3520,6 +3522,7 @@ gangweed
 gank
 gao
 gape
+GarenMains
 garfieldminusgarfield
 GarlicBreadMemes
 garlicoin
@@ -8807,6 +8810,7 @@ TopChef
 TopGear
 TopMemesUsers
 TopMindsOfReddit
+TopsAndBottoms
 toptalent
 TOR
 toradora
@@ -9839,6 +9843,7 @@ watersports
 WattsonMains
 Wavyhair
 WayOfTheBern
+WC3
 WeaponsMoe
 WeAreTheMusicMakers
 WearOS
