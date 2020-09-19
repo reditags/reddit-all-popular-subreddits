@@ -5243,6 +5243,7 @@ linuslore
 LinusTechTips
 linux
 linux_gaming
+linuxhardware
 linuxmasterrace
 linuxmemes
 LipsThatGrip
@@ -5316,6 +5317,7 @@ lostgeneration
 lostpause
 lostredditors
 lotr
+LOTR_on_Prime
 LOTRbookmemes
 LOTRholygrailmemes
 lotrmemes
@@ -8938,6 +8940,7 @@ transgamers
 transgender
 Transgender_Surgeries
 transgendercirclejerk
+TransGoneWild
 transit
 TransLater
 translator
