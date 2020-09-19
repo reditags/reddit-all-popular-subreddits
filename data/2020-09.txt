@@ -1894,6 +1894,7 @@ codyko
 codyslab
 CODZombies
 Coffee
+Coffee_Shop
 CoffeeGoneWild
 CoffeShop
 coins
@@ -4319,6 +4320,7 @@ husky
 HVAC
 HybridAnimals
 HydroHomies
+Hydroponics
 Hyiff
 hyouka
 hyperlightdrifter
@@ -5489,6 +5491,7 @@ MandalorianMemes
 MandJTV
 MandRproductions
 MandyMuse
+manelore
 MangaCollectors
 mangadex
 manhwa
@@ -5962,6 +5965,7 @@ Multicopter
 mumbai
 MumboJumboYouTube
 Munich
+murakami
 MurderedByAOC
 MurderedByWords
 murdermittens
