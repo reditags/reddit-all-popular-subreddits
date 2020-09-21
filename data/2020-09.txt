@@ -498,6 +498,7 @@ apolloapp
 AppalachianTrail
 AppHookup
 apple
+applehelp
 AppleMusic
 appletv
 AppleWatch
@@ -2208,6 +2209,7 @@ csMajors
 CSRRacing2
 css_irl
 csuf
+Cthulhu
 Cubbixoxo
 Cubers
 cuboulder
