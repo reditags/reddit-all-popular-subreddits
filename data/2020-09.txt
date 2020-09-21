@@ -644,6 +644,7 @@ askTO
 asktransgender
 AskTrumpSupporters
 AskUK
+asl
 Asmongold
 asmr
 asoiaf
@@ -4036,6 +4037,7 @@ Happydogs
 HappyEmbarrassedGirls
 HappyTrees
 HappyWoofGifs
+harborfreight
 hardbodies
 Hardcore
 hardcoreaww
