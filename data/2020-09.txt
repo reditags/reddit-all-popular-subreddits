@@ -391,6 +391,7 @@ AnimalCrossingNewHor
 AnimalCrossingNewLeaf
 animalcrossingr34
 AnimalCrossingTours
+AnimalGifsWithText
 AnimalPorn
 AnimalsBeingBros
 AnimalsBeingConfused
@@ -1706,6 +1707,7 @@ Celiac
 cellbits
 CellsAtWork
 cellular_automata
+CelticFC
 cemu
 Census
 CentaurGirls
@@ -2668,6 +2670,7 @@ DnDIY
 dndmaps
 dndmemes
 dndnext
+DnDPlotHooks
 dndstories
 DoA_Rule34
 DoctorMike
