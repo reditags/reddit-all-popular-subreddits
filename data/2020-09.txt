@@ -646,6 +646,7 @@ askgaybros
 AskGaybrosOver30
 AskGayMen
 AskHistorians
+AskHR
 asklatinamerica
 AskMen
 AskMenOver30
@@ -5618,6 +5619,7 @@ MadokaMagica
 mady_gio
 Mafia
 MafiaTheGame
+MagesVsMatriarchy
 maggiesmoczynski
 Magic
 MagicArena
@@ -6167,6 +6169,7 @@ Music
 musicals
 MusicBattlestations
 musicmemes
+musicproduction
 musictheory
 muslimculture
 muslimgirls
@@ -7272,6 +7275,7 @@ PrettyOlderWomen
 PreWarSwastikas
 prey
 preyingmantis
+Priconne
 PrimeiraLiga
 PrimitiveTechnology
 PrinceOfPersia
@@ -10156,6 +10160,7 @@ Vicky_Aisha
 victoria2
 VictoriaBC
 victoriajustice
+vidaguerra
 videogamedunkey
 videogames
 videography
@@ -10238,6 +10243,7 @@ VyvanLe
 vzla
 W2S
 WackyTicTacs
+wadzee
 waifubartending
 WaifuHentai
 WaifusOnCouch
