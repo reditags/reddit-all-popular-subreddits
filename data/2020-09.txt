@@ -7404,6 +7404,7 @@ PSP
 PSUSTRT
 PSVR
 psych
+psychedelicrock
 Psychedelics
 Psychic
 psychology
@@ -8833,6 +8834,7 @@ systemofadown
 tabletopgamedesign
 taboofans
 tacobell
+tacos
 tacticalgear
 Taihou
 tailplug
