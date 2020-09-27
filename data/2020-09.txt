@@ -2134,6 +2134,7 @@ ConvenientCop
 CookieClicker
 cookiedecorating
 Cookierun
+Cookies
 Cooking
 cookingforbeginners
 CoolAmericaFacts
@@ -6638,6 +6639,7 @@ notliketheothergirls
 notmycat
 NotMyJob
 notopbutok
+NoTraps
 notrealsubreddit
 notredame
 NotSafeForNature
@@ -10832,6 +10834,7 @@ WoWs_Legends
 wowservers
 wowthanksimcured
 wowthissubexists
+WPI
 WraithMainsAL
 Wrangler
 Wrasslin
