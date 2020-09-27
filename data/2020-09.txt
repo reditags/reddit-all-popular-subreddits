@@ -120,6 +120,7 @@ AccidentalRenaissance
 accidentalrockwell
 AccidentalShoeLoss
 AccidentalSlapStick
+accidentalsurrealism
 accidentalswastika
 AccidentalWesAnderson
 accidentalwrestling
@@ -1651,6 +1652,7 @@ casualiama
 CasualJiggles
 casualknitting
 casualkujo
+CasuallyExplained
 casualnintendo
 casualnudity
 CasualPH
