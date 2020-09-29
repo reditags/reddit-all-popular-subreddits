@@ -659,6 +659,7 @@ AskAcademia
 AskALiberal
 AskAnAmerican
 AskARussian
+AskAstrologers
 AskBaking
 AskBalkans
 askcarsales
@@ -963,6 +964,7 @@ battlefront
 BattlefrontMemes
 BattleJackets
 battlemaps
+BattleNetwork
 battlestations
 battletech
 Battletops
@@ -2688,6 +2690,7 @@ DetroitRedWings
 Deusex
 DevilmanCrybaby
 DevilMayCry
+devils
 DexMemes
 Dexter
 DFWcasualencounters
@@ -9213,6 +9216,7 @@ theabigalemandler
 TheAdventureZone
 TheArcana
 TheAstraMilitarum
+Theatre
 TheBackrooms
 thebeautyoflust
 TheBestGifsNSFW
