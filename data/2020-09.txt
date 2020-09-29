@@ -147,6 +147,7 @@ ACQR
 ACT
 ActionFigures
 ActivationSound
+ActiveDeals
 ActLikeYouBelong
 ACTrade
 actualconspiracies
@@ -887,6 +888,7 @@ BadMtgCombos
 BadMUAs
 badparents
 badparking
+BadRocketLeagueGoals
 badroommates
 badscificovers
 badtaxidermy
@@ -5077,6 +5079,7 @@ JiggleFuck
 Jigsawpuzzles
 jilling
 JimSterling
+jiujitsu
 JLullaby
 jmu
 jobs
@@ -8227,6 +8230,7 @@ senrankagura
 Sense8
 SensualJane
 Senzawa
+Sephora
 SequelMemes
 serbia
 serbiancringe
