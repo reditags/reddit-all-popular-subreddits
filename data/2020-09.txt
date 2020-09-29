@@ -1774,6 +1774,7 @@ celestememes
 CelestialBodies
 Celiac
 CelinaSmith
+CelineFarach
 cellbits
 CellsAtWork
 cellular_automata
@@ -5516,6 +5517,7 @@ lekkerspelen
 Lela_Star
 lele_pons
 LEMMiNO
+lemondemon
 Lena_The_Plug
 LenaPaul
 leopardgeckos
@@ -7992,6 +7994,7 @@ RVLiving
 RWBY
 RWBYNSFW
 RX7
+RyanConner
 ryancreamer
 RyanSmiles
 Ryumimi
@@ -10260,6 +10263,7 @@ UBC
 UberEATS
 ubisoft
 ubius
+uBlockOrigin
 UBreddit
 Ubuntu
 UCalgary
