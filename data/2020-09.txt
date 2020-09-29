@@ -7127,6 +7127,7 @@ Pathfinder_Kingmaker
 Pathfinder_RPG
 pathfindermains
 pathofexile
+PathOfExileBuilds
 pathologic
 patriciacaprice
 Patrig
@@ -8816,6 +8817,7 @@ stimuluscheck
 StLouis
 stlouisblues
 sto
+stockholm
 stockings
 StockMarket
 stocks
@@ -10893,6 +10895,7 @@ worldpolitics
 WorldWar2
 worldwarzthegame
 WormMemes
+worriedcats
 WorseEveryLoop
 wortwitzkasse
 WOSH
@@ -11042,6 +11045,7 @@ YuB
 yugioh
 YuGiOhMemes
 YukariAkiyama
+Yukinoshitayukino
 yungfreckzunmoderated
 yunyun
 yunyunsyunyuns
