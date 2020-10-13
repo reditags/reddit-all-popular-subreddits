@@ -2693,6 +2693,7 @@ electrical
 ElectricalEngineering
 ElectricForest
 electricians
+ElectricSkateboarding
 electricvehicles
 ElectroBOOM
 electronic_cigarette
@@ -2856,6 +2857,7 @@ ExpansionHentai
 ExpectationVsReality
 expectedcommunism
 expectedsabaton
+ExpensiveAccidents
 ExplainAFilmPlotBadly
 explainitpeter
 explainlikeimfive
@@ -5151,6 +5153,7 @@ MagicArena
 magicbuilding
 MagicEye
 magicthecirclejerking
+magicuz
 magnetfishing
 Mahouka
 MaidHentai
@@ -6840,6 +6843,7 @@ Rammstein
 rance
 Random_Acts_Of_Amazon
 RandomActsOfGaming
+randomactsofmusic
 randomsexiness
 randonauts
 rangers
@@ -6902,6 +6906,7 @@ ReasonableFantasy
 RebornDollCringe
 recipes
 reclaimedbynature
+reclassified
 RecRoom
 recruitinghell
 RectalStickers
@@ -7977,6 +7982,7 @@ suspiciousquotes
 sustainability
 Svenska
 svenskpolitik
+SverigesNSFW
 svihs
 SwainMains
 SWARJE
@@ -8205,6 +8211,7 @@ TheCinemassacre
 TheCinemassacreTruth
 TheClickOwO
 TheCloneWars
+TheCommunityOfMem
 thecorporation
 TheCrownNetflix
 TheCuddlePuddle
