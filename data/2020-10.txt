@@ -1422,6 +1422,7 @@ byebyejob
 Byleth
 ByzantineMemes
 C25K
+C_AT
 C_Programming
 CabinPorn
 cablegore
@@ -4423,6 +4424,7 @@ insanelyhairymen
 insaneparents
 insanepeoplefacebook
 InsanePeopleQuora
+insanepeoplereddit
 insanepeopleretail
 InsaneProtestors
 InsaneTechnology
@@ -6727,6 +6729,7 @@ pokemonmemes
 PokemonROMhacks
 pokemonshowdown
 PokemonSwordAndShield
+PokemonSwordShield
 PokemonTCG
 pokemontrades
 PokeMoonSun
@@ -8682,6 +8685,7 @@ TopMemesUsers
 TopMindsOfReddit
 TopSecretRecipes
 toptalent
+TOR
 toradora
 Tori_Black
 Torontobluejays
@@ -8712,6 +8716,7 @@ traadustCrusaders
 TraceAnObject
 traderjoes
 traditionaltattoos
+Traeger
 trailerparkboys
 TrailGuides
 trailrunning
@@ -9596,6 +9601,7 @@ VladimirMains
 VlogSquadGirls
 Vocaloid
 void_memes
+VoidCake
 Volkswagen
 volleyball
 VolleyballGirls
