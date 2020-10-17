@@ -895,6 +895,8 @@ BattleJackets
 battlemaps
 BattlePaintings
 battlestations
+battletech
+Battletechgame
 battlewagon
 batty
 Bayonetta
@@ -2385,6 +2387,7 @@ deathgrips
 deathguard40k
 deathnote
 DeathNoteMemes
+DeathProTips
 DeathStranding
 DeathToBuzzfeed
 Debate
@@ -4812,6 +4815,7 @@ KatDennings
 katebeckinsale
 KateeOwen
 KaterinaKozlova
+KaterinaSoria
 kateupton
 KatherineMcNamara
 KatherynWinnick
@@ -4914,6 +4918,7 @@ kirillwashere
 KissAnime
 Kitboga
 KitchenConfidential
+kitchener
 Kitler
 kitsunemimi
 kittengifs
@@ -5458,6 +5463,7 @@ marioandluigi
 mariokart
 MarioKartTour
 MarioKartWii
+MarioMaker2
 mariorule34
 Market76
 Markiplier
@@ -6120,6 +6126,7 @@ Ninjago
 NinjagoMemes
 Ninjartist
 NinjaSexParty
+ninjawarrior
 NinoNakano
 nintendo
 NintendoMemes
@@ -6751,6 +6758,7 @@ pickuplines
 picrequests
 pics
 PicsOfUnusualBirds
+picturesofiansleeping
 piercednipples
 PiercedNSFW
 piercing
