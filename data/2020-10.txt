@@ -632,6 +632,7 @@ AskRedditAfterDark
 askscience
 AskScienceDiscussion
 AskScienceFiction
+AskSF
 askSingapore
 askteenboys
 AskTeenGirls
@@ -5093,6 +5094,7 @@ leafs
 leagueoflegends
 LeagueOfMemes
 leahgotti
+LeaksDBD
 lean
 leanfire
 leannadecker
