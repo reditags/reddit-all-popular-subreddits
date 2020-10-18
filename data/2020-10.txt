@@ -806,6 +806,7 @@ badfacebookmemes
 Badfaketexts
 badfoodporn
 badhistory
+badlegaladvice
 badlinguistics
 badmathematics
 BadMensAnatomy
@@ -2594,6 +2595,7 @@ DOG
 Dogberg
 dogecoin
 dogelore
+Doggles
 doggohate
 doggos
 Doggystyle_NSFW
