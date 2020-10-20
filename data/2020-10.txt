@@ -559,6 +559,7 @@ ARKone
 arma
 armenia
 armoredwomen
+armsupsex
 army
 aromantic
 aromanticasexual
@@ -1847,6 +1848,7 @@ cirkeltrek
 CISDidNothingWrong
 CitiesSkylines
 CitrusManga
+Cityofheroes
 citypop
 CityPorn
 civ
@@ -6206,6 +6208,7 @@ Nezuko
 NFA
 NFCEastMemeWar
 NFCNorthMemeWar
+NFCWestMemeWar
 nffc
 nflmemes
 nfrealmusic
