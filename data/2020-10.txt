@@ -2091,6 +2091,7 @@ ContestOfChampions
 ContraPoints
 controlgame
 ConvenientCop
+CookieClicker
 cookiedecorating
 Cookierun
 Cooking
@@ -3063,6 +3064,7 @@ equestriaatwar
 Equestrian
 Eragon
 EraserNipples
+ERB
 Ereh
 EricaFett
 ericandre
@@ -4767,6 +4769,7 @@ intermittentfasting
 internationalpolitics
 internet_funeral
 InternetCommentEtiq
+InternetHistorian
 InternetIsBeautiful
 InternetMysteries
 internetparents
@@ -7215,6 +7218,7 @@ pokemongo
 pokemongobrag
 PokemonGoFriends
 PokemonGoMystic
+PokemonGoRaids
 PokemonLetsGo
 PokemonMasters
 pokemonmemes
@@ -8569,6 +8573,7 @@ Stadia
 stalker
 StallmanWasRight
 Stance
+standhurtingjuice
 StandingCarryFuck
 StandUpComedy
 standupshots
