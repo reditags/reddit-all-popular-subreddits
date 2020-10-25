@@ -2892,6 +2892,7 @@ dutch
 DVaNSFW
 dvdcollection
 dwarffortress
+dwarfism
 DWASBPEIF
 dxm
 dyinglight
@@ -10381,6 +10382,7 @@ victoria2
 VictoriaBC
 VictoriaJune
 victoriajustice
+VideoGame_Hentai
 VideoGameDealsCanada
 videogamedunkey
 videogames
