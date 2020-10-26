@@ -4605,6 +4605,7 @@ IdiotsInCars
 IdiotsNearlyDying
 IdiotsOnBikes
 Idiotswithguns
+idkhowbuttheyfoundme
 IdleHeroes
 Idles
 IDontWorkHereLady
@@ -6664,6 +6665,7 @@ nsfw_wtf
 nsfw_zhentai
 nsfwanimegifs
 NSFWarframe
+nsfwasmr
 NSFWBarista
 nsfwcelebs
 nsfwcosplay
@@ -7369,6 +7371,7 @@ popping
 poppunkers
 PoppyMemes
 PopSmoke
+popularopinion
 porn
 porn_gifs
 Porn_now
