@@ -859,6 +859,7 @@ badlinguistics
 badmathematics
 BadMensAnatomy
 badMovies
+BadMtgCombos
 BadMUAs
 badparents
 badparking
@@ -3987,6 +3988,7 @@ GoForGold
 gog
 GoGoJoJo
 gojira
+Gokushufudou
 GoldandBlack
 Goldendoodles
 goldenknights
@@ -5745,6 +5747,7 @@ MadeMeSmile
 MADFUT
 madison_ivy
 Madisonbeer
+MadisonCarter
 MadisonDeck
 MadisonGinley
 MadisonKate
@@ -6174,6 +6177,7 @@ mmababes
 mmamemes
 mmgirls
 MMORPG
+MNFgifs
 MNGoneWild
 moai
 MoaiGreddit
