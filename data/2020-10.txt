@@ -1674,6 +1674,7 @@ CasualPH
 CasualUK
 cat
 cataclysmdda
+Catan
 CatastrophicFailure
 catastrophicsuccess
 catbellies
@@ -2823,6 +2824,7 @@ DoomerGvng
 doommetal
 doordash
 doordash_drivers
+DoorMonster
 DOPEorNOPEsubmissions
 Dorohedoro
 DotA2
@@ -7661,6 +7663,7 @@ radiohead
 radioheadcirclejerk
 Radiology
 RaeLilBlack
+RaftTheGame
 rage
 raiders
 raidsecrets
