@@ -610,6 +610,7 @@ ArsenalFC
 Art
 ArtDeco
 ArtefactPorn
+ArtExplorer
 ArtHistory
 ArtisanVideos
 ArtOfRolling
@@ -2848,6 +2849,7 @@ doordash
 doordash_drivers
 DoorMonster
 DOPEorNOPEsubmissions
+doppelBangers
 Dorohedoro
 DotA2
 doublepenetration
@@ -5230,6 +5232,7 @@ KaynMains
 Kazuma
 Kazumin
 KCRoyals
+KDA
 kde
 KDRAMA
 KeanuBeingAwesome
@@ -6658,6 +6661,7 @@ NolanBatmanMemes
 NolanMemes
 NOLAPelicans
 NoMansSkyTheGame
+nomoreheroes
 NonCredibleDefense
 NoneHumanMoe
 NoNewNormal
@@ -6992,6 +6996,7 @@ OpenChristian
 OpeningPussy
 openoffice
 opensource
+openttd
 Opeth
 OpIsFuckingStupid
 Opossums
@@ -8117,6 +8122,7 @@ SandersForPresident
 SandersSides
 SanDiegan
 sandiego
+SandyCheeksCockVore
 sanfrancisco
 SanJose
 SanJoseSharks
@@ -8620,6 +8626,7 @@ Snek
 Sneks
 snes
 snom
+snoovatars
 snowboarding
 snowrunner
 SnowWhites
@@ -9446,6 +9453,7 @@ Thisismylifemeow
 thisismylifenow
 thisisntwhoweare
 thisisus
+thiswasreallygood
 ThisYouComebacks
 thomastheplankengine
 thongs
@@ -10073,6 +10081,7 @@ u_lilly_vanilli
 u_lilprincess11
 u_lilsunny423
 u_lilxbabyy
+u_lisazayana
 u_lissetstar
 u_Little_Sophie_OSRS
 u_little_sun_boy
