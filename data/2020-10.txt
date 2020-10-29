@@ -2197,6 +2197,7 @@ CoronavirusUT
 CoronavirusWA
 CoronavirusWI
 CorporateFacepalm
+CorpseHusband
 Corridor
 CorrinConclave
 Corsair
@@ -10689,6 +10690,7 @@ VintageLadyBoners
 VintageLGBT
 VintagePixelArt
 vinyl
+VinylCollectors
 vinyljerk
 VinylMePlease
 VinylReleases
