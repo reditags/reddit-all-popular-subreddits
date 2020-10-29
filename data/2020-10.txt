@@ -1340,6 +1340,7 @@ BonerMaterial
 BonersInPublic
 boneworks
 boniver
+BONKpatrol
 BonnieRotten
 Bonsai
 boobbounce
@@ -2105,6 +2106,7 @@ community
 CompanyBattles
 CompanyOfHeroes
 CompetitiveApex
+CompetitiveEDH
 CompetitiveForHonor
 CompetitiveMinecraft
 Competitiveoverwatch
@@ -2168,6 +2170,7 @@ CoolCommunismFacts
 CoolGadgetsTube
 coolguides
 coolkidalert
+copaganda
 copenhagen
 copypasta
 coral_sharon
@@ -9014,6 +9017,7 @@ subsithoughtifellfor
 SubsTakenLiterally
 SubsYouFellFor
 subtleasiantraits
+Suburbanhell
 SubwayCreatures
 SubwayHentai
 SuccessionTV
@@ -10795,6 +10799,7 @@ WatchandLearn
 WatchAnimalsDieInside
 watchcatsdieinside
 WatchCatsMeowInside
+WatchDogs_Legion
 WatchDogsDieInside
 WatchDogsWoofInside
 Watches
@@ -10852,6 +10857,7 @@ weightwatchers
 Weird
 weird_porn
 WeirdEggs
+WeirdFlexButOK
 WeirdWheels
 WeirdWings
 Welding
