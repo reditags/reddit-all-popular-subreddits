@@ -5199,6 +5199,7 @@ KalinkaFox
 kaliroses
 KamenRider
 KamikazeByWords
+KaMikoto
 kancolle
 KanojoOkarishimasu
 kansas
@@ -11021,6 +11022,7 @@ worldnews
 worldofpvp
 WorldofTanks
 WorldOfTanksBlitz
+WorldofTanksConsole
 WorldOfWarships
 WorldPacks
 worldpolitics
