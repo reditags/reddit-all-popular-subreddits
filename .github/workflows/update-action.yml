@@ -27,7 +27,8 @@ jobs:
     - name: Commit and push generated data files
       run: |
         git config user.email "reditags@users.noreply.github.com"
-        git config user.name "reditags"
+        git config user.name  "reditags"
         git add .
+        [[ -z $(git status -uno --porcelain) ]] && echo "no changes" && exit 0
         git commit -m "$(date -u)"
         git push -u origin master
