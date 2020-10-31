@@ -2871,6 +2871,7 @@ doofenshmirtzdialogue
 Doom
 DoomerGvng
 doommetal
+DoomPatrol
 doordash
 doordash_drivers
 DoorMonster
