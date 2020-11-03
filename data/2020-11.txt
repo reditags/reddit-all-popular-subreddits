@@ -430,6 +430,7 @@ ArsenalFC
 Art
 ArtefactPorn
 ArtExplorer
+ArtFundamentals
 ArtisanVideos
 ArtOfRolling
 ArtPorn
@@ -1245,6 +1246,7 @@ CaughtPublic
 causticmains
 Caylee_Cowan
 CayleeCowan
+Cazzu
 CCW
 cedarrapids
 CedehsGifs
@@ -1342,6 +1344,7 @@ chomsky
 Chonkers
 ChoosingBeggars
 chrissimpsonsartist
+ChristenHarper
 Christianity
 christianmemes
 christinahendricks
@@ -1484,6 +1487,7 @@ community
 CompanyBattles
 CompetitiveEDH
 CompetitiveForHonor
+CompetitiveMinecraft
 Competitiveoverwatch
 COMPLETEANARCHY
 composting
@@ -3630,11 +3634,13 @@ KaylaErinCosplay
 kaylee4keeps
 KaynMains
 Kazumin
+kde
 KDRAMA
 KeanuBeingAwesome
 Keep_Track
 KeilahKang
 KelsiMonroe
+keming
 kendalljenner
 Kendra_Sunderland
 KendraLust
@@ -3815,6 +3821,7 @@ leaves
 lebanon
 lebowski
 ledzeppelin
+Leeds
 LeedsUnited
 left_urbanism
 LeftieZ
@@ -3961,6 +3968,7 @@ lotr
 LOTRbookmemes
 lotrmemes
 LouderWithCrowder
+Louisiana
 Louisville
 love
 loveafterlockup
@@ -4536,6 +4544,7 @@ NetflixBestOf
 NetflixSexEducation
 netflixwitcher
 Netherlands
+networkingmemes
 Neverbrokeabone
 NeverPauseAvatar
 nevertellmetheodds
@@ -4667,6 +4676,7 @@ nova
 noveltranslations
 nrl
 nsfw
+nsfw2
 NSFW411
 Nsfw_Amateurs
 NSFW_GIF
@@ -5033,6 +5043,7 @@ Philza
 phineasandferb
 phineasandferbmemes
 phish
+phoebebridgers
 phoenix
 PhoenixSC
 PhonesAreBad
@@ -5315,6 +5326,7 @@ Qult_Headquarters
 quotes
 QuotesPorn
 R34danganronpa
+r4r
 R6ProLeague
 R6SiegeFashionAdvice
 Rabbits
@@ -5535,6 +5547,7 @@ RTGameCrowd
 rubberducks
 rubirose
 rugbyunion
+RuinedMyDay
 RuinedOrgasms
 rule34
 rule34_ass
@@ -5651,6 +5664,7 @@ SchoolGirlSkirts
 science
 ScienceHumour
 sciencememes
+sciences
 scifi
 SCJerk
 Scoobydoo
@@ -6358,6 +6372,7 @@ TempleofMarianne
 TempleOfMythra
 Tendies
 tenet
+Tenleid
 Tennessee
 Tennesseetitans
 tennis
@@ -6484,6 +6499,7 @@ thequartering
 theratio
 Therealbrittfit1
 TheRealJoke
+thereifixedit
 TheReportOfTheWeek
 therewasanattempt
 TheRightCantMeme
@@ -6556,6 +6572,7 @@ Tiki
 TikThots
 TikTokCringe
 TikTokCringeAnarchy
+TikTokHot
 tiktoknsfw
 TikTokNude
 tiktokporn
@@ -6752,6 +6769,7 @@ TwoXChromosomes
 twrmod
 TWRP
 twunks
+tyingherhairup
 tylerthecreator
 Tyranids
 TyranitarTube
@@ -6771,6 +6789,7 @@ u_Angelina_Valsova
 u_anna_monik
 u_annablossom
 u_AnnaDelosShow
+u_annamelodyx
 u_anyana
 u_avaclairexx
 u_AzalyaStar
@@ -6785,6 +6804,7 @@ u_bekindandbeamazing
 u_bella_winters
 u_BellaYourDaddy
 u_bigbuttbambii23
+u_bitchh1997xxx
 u_bitchinbubba
 u_BlissfulAria
 u_BlondeAdobo
@@ -7195,6 +7215,7 @@ VRGaming
 VRtoER
 vscosluts
 Vulfpeck
+vulgarpicture
 vultureculture
 VyvanLe
 WackyTicTacs
@@ -7247,6 +7268,7 @@ watchthingsfly
 Watercolor
 watercooling
 Waterdogs
+waterporn
 WattsonMains
 Wavyhair
 WayOfTheBern
@@ -7315,6 +7337,7 @@ WhiteHouseDinners
 whiteknighting
 whitepeoplegifs
 WhitePeopleTwitter
+WhiteRooms
 whitesox
 wholesome
 wholesome40k
