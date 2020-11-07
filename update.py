@@ -32,7 +32,11 @@ class HotSubs:
                 f"https://reddit.com/r/{self.subreddit_name}.json",
                 params={"after": after, "limit": 100},
             )
-            if r.status_code != 200:
+            if r.status_code == 503:
+                    import time
+                    time.sleep(60)
+                    continue
+            elif r.status_code != 200:
                 retries += 1
                 if retries > 10:
                     print(r.status_code)
