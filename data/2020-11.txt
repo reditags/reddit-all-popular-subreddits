@@ -446,6 +446,7 @@ aphextwin
 apolloapp
 AppalachianTrail
 apple
+AppleMusic
 AppleWatch
 ApplyingToCollege
 April_ONeil
@@ -742,6 +743,7 @@ BadMtgCombos
 BadMUAs
 badparents
 badparking
+badroommates
 badscificovers
 badtaxidermy
 badUIbattles
@@ -2714,6 +2716,7 @@ FaceofPain
 facepalm
 facesitting
 facial
+facial_animation
 FacialFun
 facingtheirparenting
 factorio
@@ -5282,6 +5285,7 @@ musclegirlart
 Muse
 MuseDash
 MushroomGrowers
+MushroomPorn
 Mushrooms
 Music
 musicals
@@ -5868,6 +5872,7 @@ PaleMUA
 Paleontology
 Palestine
 PaMedicalMarijuana
+PamelaAlexandraa
 PampamilyangPaoLUL
 pan
 PandR
@@ -5962,6 +5967,7 @@ Periods
 Permaculture
 Persephaniifans
 PERSoNA
+Persona34
 persona4golden
 Persona5
 PersonalFinanceCanada
@@ -6225,6 +6231,7 @@ preyingmantis
 PrideAndPinion
 PrimeiraLiga
 PRINCE
+princessbridememes
 PrincessesOfPower
 princesspawg
 PrintedMinis
@@ -7232,6 +7239,7 @@ spook_irl
 spooktober
 Spore
 sporetraders
+SportingKC
 sports
 sportsarefun
 sportsbetting
@@ -8294,6 +8302,7 @@ u_LoverLaci
 u_lovetinkerbell
 u_luciamaya
 u_Lydiagh0st
+u_macdemarcogf
 u_maepeachx
 u_MaryJaneonlyfan
 u_mathema-kitten
@@ -8465,6 +8474,7 @@ UberEATS
 ubisoft
 ubius
 uBlockOrigin
+UBreddit
 Ubuntu
 UCalgary
 UCDavis
