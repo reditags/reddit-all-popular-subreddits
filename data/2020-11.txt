@@ -794,6 +794,7 @@ Bannerlord
 BanPitBulls
 BanVideoGames
 BanVideoGamesHate
+bapccanada
 bapcsalesaustralia
 bapcsalescanada
 baramanga
@@ -6342,6 +6343,7 @@ popheadscirclejerk
 popping
 poppunkers
 PopSmoke
+popularopinion
 porn
 porn_gifs
 Porn_now
@@ -7538,6 +7540,7 @@ Stealthbombers
 Steam
 steamdeals
 steampunk
+Steelbooks
 steelers
 SteelyDan
 StefaniaFerrario_
@@ -7597,6 +7600,7 @@ StreamGirls
 streetart
 streeteats
 StreetFighter
+StreetFights
 StreetMartialArts
 streetphotography
 StreetsIsWatchin
@@ -8985,6 +8989,7 @@ vita
 VitaCelestine
 VivianBlush
 vixim
+VladimirMains
 Vocaloid
 void_memes
 VoidCake
