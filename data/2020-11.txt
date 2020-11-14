@@ -511,6 +511,7 @@ araragi
 Archaeology
 archeologyworld
 ArcherFX
+Archero
 Archery
 ArchitecturalRevival
 architecture
@@ -4710,6 +4711,7 @@ KarenPorn
 KarmaConspiracy
 KarmaRoulette
 KarmaRx
+KassadinMains
 KatanaZero
 KatarinaMains
 KatDennings
