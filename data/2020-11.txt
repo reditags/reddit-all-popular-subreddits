@@ -3467,6 +3467,7 @@ Gambiarra
 gambling
 gameassets
 Gameboy
+Gamecocks
 gamecollecting
 Gamecube
 gamedev
@@ -3835,6 +3836,7 @@ gumiho
 GunAccessoriesForSale
 Gundam
 gundeals
+GunFights
 Gunime
 GunJesus
 GunMemes
@@ -8700,6 +8702,7 @@ tinyorangekittens
 TinyTits
 TinyTrumps
 TinyUnits
+TipOfMyFork
 tipofmypenis
 tipofmytongue
 tippytaps
