@@ -4734,6 +4734,7 @@ Jigsawpuzzles
 jilling
 jiujitsu
 jjdandfamily
+JLullaby
 jobs
 JoCat
 JodieCalussi
@@ -8466,6 +8467,7 @@ talesfromcavesupport
 talesfromsecurity
 TalesFromTheCustomer
 TalesFromTheFrontDesk
+TalesFromTheKitchen
 TalesFromThePharmacy
 TalesFromThePizzaGuy
 TalesFromYourServer
@@ -9775,6 +9777,7 @@ ValorantCompetitive
 valorantrule34
 valve
 ValveIndex
+Vampireweekend
 Vanced
 vancouver
 vancouverwa
