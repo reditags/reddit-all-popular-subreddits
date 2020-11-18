@@ -2398,6 +2398,7 @@ DDLCRule34
 ddlg
 DDLG_Porn
 de
+de_EDV
 de_IAmA
 DeadBedrooms
 deadbydaylight
@@ -2968,6 +2969,7 @@ ethoslab
 ethtrader
 EtikaRedditNetwork
 Etsy
+EtsySellers
 etymology
 eu4
 eu_nvr
@@ -8303,6 +8305,7 @@ StellaCox
 Stellaris
 step1
 Stepdadreflexes
+StephanieMichelle
 stephenking
 stepparents
 stevenuniverse
