@@ -4439,6 +4439,7 @@ IF_Petites
 IfIFitsISits
 Ifyouhadtopickone
 IggyAzalea
+IgnorantImgur
 ihadastroke
 ihavereddit
 ihavesex
@@ -5466,6 +5467,7 @@ LovingFamily
 low_poly
 LowAltitudeJets
 lowbatterysounds
+LowerDecks
 Lowes
 lowlegsheaven
 LowSodiumDestiny
@@ -8509,6 +8511,7 @@ SUBREDDITNAME
 Subrina_Lucia
 SubsIFellFor
 SubSimulatorGPT2
+SubSimulatorGPT2Meta
 subsithoughtifellfor
 SubsTakenLiterally
 SubsYouFellFor
