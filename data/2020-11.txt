@@ -3860,6 +3860,7 @@ goldenretrievers
 GoldenSun
 Goldfish
 golf
+Golf_R
 GolfGTI
 Golfwang
 Gonciarz
@@ -5821,6 +5822,7 @@ memeuniverse
 MemeVideos
 memexico
 memphis
+memphisgrizzlies
 mendrawingwomen
 menkampf
 MensHighJinx
