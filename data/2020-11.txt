@@ -925,6 +925,7 @@ BasketballGM
 Bass
 bassfishing
 BassGuitar
+BatFacts
 bathandbodyworks
 batman
 BatmanArkham
@@ -1795,6 +1796,7 @@ chesthairporn
 ChevyTrucks
 CHIBears
 chicagobulls
+chicagofood
 ChicagoSuburbs
 chicas
 Chicken_Thoughts
@@ -9647,6 +9649,7 @@ u_irainature
 u_Irish_hiccup
 u_Isabellalee84
 u_itsBree-Boo
+u_itsellalopez
 u_itsmemario--
 u_JackieVenson
 u_JadeBabii
