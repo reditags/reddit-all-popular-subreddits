@@ -196,6 +196,7 @@ AFL
 Afrobull
 Afrodisiac
 AfroQueens
+after_the_shot
 AfterEffects
 aftergifted
 AfterTheEndFanFork
@@ -2492,6 +2493,7 @@ deathguard40k
 deathnote
 DeathStranding
 DeathToBuzzfeed
+deathwatch40k
 Debate
 DebbyRyan
 dechonkers
@@ -4155,6 +4157,7 @@ hawks
 hawwkey
 Hayasaka
 Hayato
+haydenpanettiere
 HayleyAtwell
 HazbinBrothel
 HazbinHotel
@@ -9048,6 +9051,7 @@ TheoVon
 TheOwlHouse
 ThePalaceOfMiruko
 TheParkourCommunity
+theperfectpokemongame
 ThePose
 thepromisedneverland
 thequartering
@@ -9702,6 +9706,7 @@ u_lemon__cakes
 u_lexxxiwilde
 u_LexxxyLoo
 u_lianabanks
+u_Liegnacious
 u_lil-aphrodite
 u_lil-braids
 u_LilahAnne_
