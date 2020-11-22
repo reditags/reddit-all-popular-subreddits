@@ -3419,6 +3419,7 @@ FondantHate
 food
 Foodforthought
 foodhacks
+FoodLosAngeles
 FoodPorn
 foodscam
 Foofighters
@@ -6360,6 +6361,7 @@ newcastle
 NewcastleUponTyne
 NewDealAmerica
 newfoundland
+Newfoundlander
 NewGirl
 NewGreentexts
 newhampshire
