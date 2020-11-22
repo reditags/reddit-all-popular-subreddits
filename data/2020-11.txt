@@ -602,6 +602,7 @@ ArtDeco
 ArtefactPorn
 ArtExplorer
 ArtFundamentals
+ArtGW
 ArtHistory
 ArtisanVideos
 ArtOfRolling
@@ -1520,6 +1521,7 @@ byebyejob
 Byleth
 ByzantineMemes
 C25K
+C_Programming
 CabinPorn
 cablegore
 CableManagement
@@ -4607,6 +4609,7 @@ ImaginaryMonsterGirls
 ImaginaryMonsters
 ImaginaryMythology
 ImaginaryNecronomicon
+ImaginaryNobles
 ImaginaryPathways
 ImaginaryRobotics
 ImaginarySkyscapes
@@ -5375,6 +5378,7 @@ legostarwars
 legostarwarsmemes
 LegoStarWarsVideoGame
 legs
+legsup
 leilalowfire
 Lela_Star
 lele_pons
@@ -6101,6 +6105,7 @@ MoeMorphism
 Moescape
 moesmoking
 moi_dlvv
+MoireEffect
 Moissanite
 MoldyMemes
 MollyBennett
@@ -7757,6 +7762,7 @@ RoomPorn
 roosterteeth
 ropes
 ror2
+rorikroll
 RosaFucks
 RoseMonroe
 rosin
@@ -9096,6 +9102,7 @@ TheParkourCommunity
 theperfectpokemongame
 ThePose
 thepromisedneverland
+thepunisher
 thequartering
 therapy
 TheRareOnes
@@ -9901,6 +9908,7 @@ u_sarah-xxx
 u_sarahshaye
 u_sassyC23
 u_SAU-SIEGE
+u_savannabarajas
 u_savannahjonly
 u_scented20
 u_Schneewittchen666
