@@ -1898,6 +1898,7 @@ civilengineering
 CivPolitics
 CivVI
 CK2GameOfthrones
+CK3AGOT
 Clannad
 ClashOfClans
 ClashRoyale
@@ -5663,6 +5664,7 @@ makeupartists
 MakeupLounge
 makeuporganization
 MakeupRehab
+makeuptips
 makeyourchoice
 MaladaptiveDreaming
 MalaysGoneWild
@@ -8871,6 +8873,7 @@ technology
 TechNope
 techsupportgore
 techsupportmacgyver
+techtheatre
 techwearclothing
 TeddyMoutinho
 TedNivison
