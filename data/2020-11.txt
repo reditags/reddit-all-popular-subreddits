@@ -2491,6 +2491,7 @@ DataHoarder
 dataisbeautiful
 dataisugly
 datascience
+datbuttfromthefront
 datealive
 datgap
 dating
@@ -3458,6 +3459,7 @@ flowers
 FlubTrash
 fluffycommunity
 FlukeMemes
+Flume
 Flyers
 flyfishing
 flying
@@ -5654,6 +5656,7 @@ LoveIslandTV
 LoveIslandUSA
 Lovelink
 LoveLive
+LovelyLetters
 lovememes
 LoveNikki
 LoverLaci
@@ -8534,6 +8537,7 @@ SoGoodtoBeBad
 solar
 solarpunk
 solesandholes
+SolidWorks
 sololeveling
 solotravel
 SomeOrdinaryGmrs
@@ -8928,6 +8932,7 @@ swordartonline
 SwordOrSheath
 SWORDS
 SwordsComic
+swrpg
 swtor
 SWTOR_memes
 sydney
@@ -10670,6 +10675,7 @@ Whatcouldgowrong
 whatintarnation
 Whatisthis
 whatisthiscar
+WhatsInThisThing
 whatsthisbird
 whatsthisbug
 whatsthisplant
@@ -10697,6 +10703,7 @@ whole30
 wholesome
 wholesome40k
 Wholesome4chan
+wholesome_furry
 WholesomeAnime
 wholesomeanimemes
 WholesomeBertstrips
