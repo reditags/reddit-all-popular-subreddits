@@ -3108,6 +3108,7 @@ estoration
 ethereum
 ethfinance
 ethoslab
+ethstaker
 ethtrader
 EtikaRedditNetwork
 Etsy
@@ -10189,6 +10190,7 @@ UKBabes
 ukdrill
 UKPersonalFinance
 ukraina
+ukthots
 uktrees
 ultimate
 Ultralight
