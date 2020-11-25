@@ -968,6 +968,7 @@ battlefront
 BattlefrontMemes
 BattleJackets
 battlemaps
+BattleNetwork
 BattlePaintings
 battlestations
 battletech
@@ -7256,6 +7257,7 @@ Pialoof
 piano
 pic
 pickuplines
+picrequests
 pics
 PicsOfUnusualBirds
 pie
@@ -11020,6 +11022,7 @@ youdontmattergiveup
 youdontsurf
 YouFellForItFool
 YoujoSenki
+youngadults
 YoungGirlsGoneWild
 YoungGuysGoneWild
 youngjustice
