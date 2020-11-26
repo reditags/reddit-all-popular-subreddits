@@ -1624,6 +1624,7 @@ CANZUK
 caomi02
 capbarista
 Capitalism
+capitalism_in_decay
 CapitalismVSocialism
 caps
 capsulewardrobe
@@ -5359,6 +5360,7 @@ KSPMemes
 kubernetes
 KumoDesu
 Kurisutina
+kurtisconner
 Kurumi
 kurzgesagt
 Kuwait
