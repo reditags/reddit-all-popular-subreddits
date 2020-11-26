@@ -1574,6 +1574,7 @@ cade
 CadeyMercury
 cadum
 CaesarsWorld
+Cafe_Infinito
 CafeRacers
 CAguns
 cakeday
@@ -2087,6 +2088,7 @@ CompanyOfHeroes
 CompetitiveApex
 CompetitiveEDH
 CompetitiveForHonor
+CompetitiveHS
 CompetitiveMinecraft
 Competitiveoverwatch
 CompetitiveTFT
@@ -7288,6 +7290,7 @@ photocritique
 photographs
 photoshopbattles
 PhotoshopRequest
+PHP
 phr4r
 physicaltherapy
 physicianassistant
@@ -9713,6 +9716,7 @@ Tucson
 tulsa
 tumblr
 TumblrAtRest
+TumblrDraws
 TumblrInAction
 TumblrWrites
 TurboNSFW
