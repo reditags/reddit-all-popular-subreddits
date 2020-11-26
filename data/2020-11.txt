@@ -6727,6 +6727,7 @@ NSFW_5seconds
 Nsfw_Amateurs
 NSFW_ANALQUEENS
 NSFW_China
+NSFW_GAY
 NSFW_GIF
 nsfw_gifs
 NSFW_Hardbodies
@@ -8641,6 +8642,7 @@ sonamains
 sonarears
 SonicTheHedgehog
 sonmom
+SonnyLoops
 SonOfAShepherd
 sonos
 SonyAlpha
@@ -9303,6 +9305,7 @@ TheGrittyPast
 TheHandmaidsTale
 TheHeroOfTwinks
 theHunter
+theinternetofshit
 theisle
 theJoeBuddenPodcast
 TheKillers
