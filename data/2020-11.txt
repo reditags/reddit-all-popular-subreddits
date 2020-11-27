@@ -2698,6 +2698,7 @@ diabetes
 diabetes_t1
 Diablo
 diablo2
+diablo3
 DiamondJackson
 DianaMains
 DianeGuerrero
@@ -3072,6 +3073,7 @@ ElsaJean
 Elsas
 ElsieHewitt
 ElvenInspiration
+emacs
 EmbarrassedHentai
 Embroidery
 emergencymedicine
@@ -6169,6 +6171,7 @@ mildlyinfuriating
 mildlyinteresting
 Mildlynomil
 mildlypenis
+mildlysatisfying
 MildlyStartledCats
 mildlyterrifying
 mildlyvagina
