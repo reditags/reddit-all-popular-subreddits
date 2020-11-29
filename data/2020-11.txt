@@ -2089,6 +2089,7 @@ Colorado
 ColoradoAvalanche
 ColoradoSprings
 ColorBlind
+ColoredParts
 Colorization
 ColorizedHistory
 coltish
