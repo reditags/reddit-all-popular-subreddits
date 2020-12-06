@@ -174,6 +174,7 @@ AgainstHateSubreddits
 AgedBeauty
 agedlikemilk
 agedlikewine
+AgeGapRelationship
 AgeofCalamity
 ageofsigmar
 aggies
@@ -1547,6 +1548,7 @@ ChurchOfTodoroki
 chutyapa
 chuunibyou
 CICO
+Cigarettes
 cigars
 cincinnati
 Cinderblock
@@ -2048,6 +2050,7 @@ DeadBedrooms
 deadbydaylight
 deadcells
 deadmalls
+deadmau5
 deadmeatjames
 DeadSpace
 Death_By_SnuSnu
@@ -2808,6 +2811,7 @@ fo4
 fo76
 fo76FilthyCasuals
 FoggyPics
+FolkPunk
 FondantHate
 food
 Foodforthought
@@ -2997,6 +3001,7 @@ futebol
 FUTMobile
 futurama
 future_fight
+Futuremoe
 futureporn
 Futurology
 G0ularte
@@ -4067,6 +4072,7 @@ Jigsawpuzzles
 jilling
 jjdandfamily
 jobs
+jocks
 JodieCalussi
 JodieCalussiOF
 JoeBiden
@@ -5199,6 +5205,7 @@ NatalieRoush
 NatashaNice
 nathanforyou
 nathanwpyle
+nationalguard
 NationalPark
 NativeAmerican
 nattyorjuice
@@ -5885,6 +5892,7 @@ PlagueDoctorMemes
 PlanetCoaster
 Planetside
 PlanetZoo
+Plant_Progress
 PlantBasedDiet
 plantclinic
 PlantedTank
@@ -7303,6 +7311,7 @@ TaylorSwiftsLegs
 TBJZL
 tbulges
 tea
+teachermemes
 Teachers
 teaching
 TeamfightTactics
@@ -8023,6 +8032,7 @@ u_lovetinkerbell
 u_lunabaylee
 u_luthemoonbaby
 u_Lydiagh0st
+u_MakeUsGold
 u_malantli
 u_marigoldrosie
 u_MaryJaneonlyfan
