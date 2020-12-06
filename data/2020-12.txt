@@ -818,6 +818,7 @@ BedBros
 bee_irl
 beef_flaps
 Beekeeping
+beer
 beerporn
 beetlejuicing
 BeforeNAfterAdoption
@@ -2214,6 +2215,7 @@ DivorcedBirds
 DiWHY
 dixiedamelio
 DIY
+diypedals
 DJs
 DMAcademy
 DMDadJokes
@@ -2559,6 +2561,7 @@ EvgeniaTalanina
 evilbuildings
 EvilMoe
 excatholic
+Exercise
 Existentialism
 exjw
 exmormon
@@ -3340,6 +3343,7 @@ GunFights
 Gunime
 GunJesus
 GunMemes
+Gunna
 Gunpla
 gunpolitics
 GunPorn
@@ -6779,6 +6783,7 @@ simpleliving
 SimplySporty
 simps
 simpsonsdidit
+SimpsonsFaces
 simpsonsshitposting
 simracing
 sims2
@@ -7211,6 +7216,7 @@ SupportForTheAccused
 supportlol
 Supreme
 surecakes
+Surface
 surrealmemes
 Survival
 survivinginfidelity
@@ -7465,6 +7471,7 @@ theHunter
 theisle
 TheJenkins
 theJoeBuddenPodcast
+TheKillers
 TheLastAirbender
 TheLastKingdom
 thelastofus
@@ -7475,6 +7482,7 @@ thelongdark
 TheLostWoods
 TheMagnusArchives
 TheMandalorianTV
+TheMassive
 TheMemersClub
 TheMomNextDoor
 TheMonkeysPaw
@@ -8748,6 +8756,7 @@ WTFaucet
 wtfstockphotos
 WTFwish
 WtSSTaDaMiT
+WtWFotMJaJtRAtCaB
 WW1TrenchPosting
 ww2
 ww2memes
