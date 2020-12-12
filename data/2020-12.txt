@@ -2961,6 +2961,7 @@ farming
 farmingsimulator
 FarmsofStardewValley
 FASCAmazon
+fashionhistory
 fashionporn
 FashionReps
 fashionsouls
@@ -6726,6 +6727,7 @@ programming
 programminghorror
 ProgressiveGrowth
 progun
+Project_Wingman
 projectcar
 projecteternity
 projectmanagement
@@ -7494,6 +7496,7 @@ ShroomID
 shrooms
 shroomstocks
 shubreddit
+shumako
 ShutMouthAndSuckDick
 ShutTheFuckUpAmedican
 shutupandtakemymoney
@@ -9548,6 +9551,7 @@ WeAreAllTurks
 WeAreTheMusicMakers
 WeatherGifs
 web_design
+webarebears
 webcomics
 webdev
 webtoons
