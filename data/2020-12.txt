@@ -5186,6 +5186,7 @@ LowSodiumDestiny
 LPOTL
 LSAT
 LSD
+LSDTripLifeHacks
 LTB_iel
 lucia_javorcekova
 LucidDreaming
@@ -6138,6 +6139,7 @@ NYYankees
 nzgonewild
 NZXT
 O_Faces
+OakIsland
 oasis
 obeyme
 Objects
