@@ -139,6 +139,7 @@ acting
 ActionFigures
 ActivationSound
 ActLikeYouBelong
+ActualFreakouts
 ActualPublicFreakouts
 ActualYuri
 actuary
@@ -3658,6 +3659,7 @@ gmu
 goats
 goblincore
 GoblinSlayer
+GoblinSlayerNSFW
 gocommitdiev2
 GodDesigns
 goddesses
@@ -4269,6 +4271,7 @@ IDOWORKHERELADY
 Idubbbz
 IfIFitsISits
 Ifyouhadtopickone
+IggyAzalea
 ihadastroke
 ihavereddit
 ihavesex
@@ -7902,6 +7905,7 @@ Sourdough
 sousvide
 southafrica
 southcarolina
+SouthJersey
 SovietWomble
 sovietyunyun
 Sp00kytitties
@@ -10060,6 +10064,7 @@ YagateKiminiNaru
 Yahaha_IRL
 yahooanswers
 yakuzagames
+YAlit
 yandere
 yandere_simulator_2
 YandereHentai
