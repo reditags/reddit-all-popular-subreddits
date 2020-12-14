@@ -873,6 +873,7 @@ baseball
 baseballcards
 based
 BasedJustice
+BasicBulletJournals
 BasicIncome
 Bass
 bassfishing
@@ -1228,6 +1229,7 @@ BollywoodRealism
 BoltedOnBooty
 BoltedOnMaxed
 boltedontits
+Bombing
 bon_appetit
 Bondage
 Bondedpairs
@@ -1930,6 +1932,7 @@ CompanyOfHeroes
 CompetitiveApex
 CompetitiveEDH
 CompetitiveForHonor
+CompetitiveHS
 CompetitiveMinecraft
 Competitiveoverwatch
 CompetitiveTFT
@@ -1991,6 +1994,7 @@ corgi
 corgibutts
 corgis
 corinnakopf
+cork
 Cornell
 CornGuy
 coronabr
@@ -6727,6 +6731,7 @@ physicsmemes
 PhysicsStudents
 Pialoof
 piano
+pic
 PickOne
 pickuplines
 pics
@@ -6833,6 +6838,7 @@ pokies
 poland
 polandball
 Polandballart
+PolandballCommunity
 Polcompball
 Poldersocialisme
 poledancing
@@ -7305,6 +7311,7 @@ risa
 riseagainst
 riskofrain
 RiskyPorn
+rit
 RitaOra
 RivalsOfAether
 Rivenmains
@@ -9818,6 +9825,7 @@ Vocaloid
 VoiceActing
 void_memes
 VoidCake
+voidpunk
 Volkswagen
 volleyball
 VolleyballGirls
