@@ -567,6 +567,7 @@ Arrowheads
 ArsenalFC
 Art
 artcommissions
+ArtCrit
 ArtDeco
 ArtefactPorn
 ArtHistory
@@ -2126,6 +2127,7 @@ csMajors
 CSRRacing2
 css_irl
 csuf
+Cubbixoxo
 Cubers
 cuboulder
 Cuckold
@@ -5145,6 +5147,7 @@ LifeofBoris
 LifeProTips
 LigaMX
 lightsabers
+LightsCameraPodcast
 lightskinbeauties
 likeus
 LilahAnne
@@ -7825,6 +7828,7 @@ SlaughteredByScience
 Slavorum
 slavs_squatting
 slaythespire
+Slazo
 sleeptrain
 Sleepycabin
 slightcellulite
@@ -8604,6 +8608,7 @@ TheRealJoke
 therewasanattempt
 TheRightCantMeme
 TheRussell
+TheSequels
 TheSimpsons
 thesims
 TheSimsBuilding
