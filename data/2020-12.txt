@@ -1938,6 +1938,7 @@ climbing
 ClimbingCircleJerk
 CloneHero
 clonehigh
+CloneSoldierMemes
 clonewars
 CloneWarsMemes
 CloneWhoPunchedADroid
@@ -2610,6 +2611,7 @@ DevilmanCrybaby
 DevilMayCry
 devils
 devops
+DexMemes
 Dexter
 DGDAG
 diabetes
@@ -5660,6 +5662,7 @@ MakeMeSuffer
 MakeMeSufferMore
 MakeMyCoffin
 MakeNewFriendsHere
+Makesmybloodboil
 Makeup
 MakeupAddiction
 MakeupLounge
@@ -9637,6 +9640,7 @@ u_igot2dogss
 u_Illimora
 u_Im_Cherry_Blossom
 u_imawful69
+u_Immemephilosopher
 u_imrosebeck
 u_infatuatedkitty
 u_iprobably-dontlikeu
