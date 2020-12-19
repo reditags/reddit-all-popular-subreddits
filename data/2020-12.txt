@@ -6554,6 +6554,7 @@ nsfwcyoa
 NSFWfashion
 NSFWFunny
 NSFWgaming
+nsfwgif
 NSFWGirl
 nsfwhardcore
 NSFWLW
@@ -8394,6 +8395,7 @@ Sourdough
 sousvide
 southafrica
 southcarolina
+Southerncharm
 SouthJersey
 SovietWomble
 sovietyunyun
