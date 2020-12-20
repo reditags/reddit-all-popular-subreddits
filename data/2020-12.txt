@@ -2719,6 +2719,7 @@ doener
 DOG
 Dogberg
 doge
+dogecoin
 dogelore
 Doggles
 doggohate
@@ -3155,6 +3156,7 @@ Exxxtras
 Eyebleach
 eyebombing
 eyehurtingflags
+EyeRollOrgasm
 eyes
 ezrealmains
 f150
@@ -7832,6 +7834,7 @@ SaimanSays
 SaintsFC
 SaintsRow
 saiyanpeopletwitter
+Sakartvelo
 sakimichan
 sales
 SaliceRose
@@ -8750,6 +8753,7 @@ SushiAbomination
 suspiciouslyspecific
 suspiciousquotes
 sustainability
+Svenska
 svenskpolitik
 svihs
 SwainMains
@@ -10585,6 +10589,7 @@ wifeshare
 wifesharing
 WiggleButts
 wii
+WiiFitTrainer
 WiiHacks
 wiiu
 wikiHowQA
