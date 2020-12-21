@@ -951,6 +951,7 @@ battlefield_one
 BattlefieldCosmetics
 BattlefieldV
 BattleForDreamIsland
+battlefront
 BattlefrontMemes
 BattleJackets
 battlemaps
@@ -7870,6 +7871,7 @@ sadcringe
 SaddestBackflip
 SadHorseShow
 sadlygokarts
+Saekano
 safe_food
 SafeArea
 Saggy
