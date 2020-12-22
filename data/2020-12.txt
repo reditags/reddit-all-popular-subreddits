@@ -4084,6 +4084,7 @@ GTAorRussia
 GTAV
 gtavcustoms
 GTBAE
+GTTOD
 GuardianTales
 Guildwars2
 GuiltyDogs
@@ -5409,6 +5410,7 @@ learnart
 learndota2
 learningtocat
 LearnJapanese
+learnjavascript
 learnmachinelearning
 learnmath
 learnprogramming
@@ -5913,6 +5915,7 @@ mechanical_gifs
 MechanicalKeyboards
 MechanicalSluts
 mechmarket
+medical
 MedicalGore
 medicalschool
 medicalschoolanki
@@ -7789,6 +7792,7 @@ RoadTrafficAccidents
 roadtrip
 RoastMe
 RoastMyCar
+RoastMyCat
 RobinHood
 RobinHoodPennyStocks
 roblox
@@ -10848,6 +10852,7 @@ xboxone
 XboxSeriesX
 Xcom
 Xenoblade_Chronicles
+XenobladeChronicles2
 Xenonion
 Xev_Bellringer
 XFiles
