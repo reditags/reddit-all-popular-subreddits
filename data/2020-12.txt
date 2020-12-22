@@ -2812,6 +2812,7 @@ DonutOperator
 doodles
 doodoofard
 Doofenshmirtz
+doofenshmirtzdialogue
 Doom
 DoomerGvng
 doommetal
@@ -4437,6 +4438,7 @@ HomeDepot
 homegrowntits
 homegym
 HomeImprovement
+homeimprovementideas
 HomeKit
 homelab
 homeless
@@ -8663,6 +8665,7 @@ StardewHomeDesign
 StardewMemes
 StardewValley
 StardewValleyExpanded
+StardewValleyMemes
 StardustCrusaders
 Starfield
 Stargate
@@ -9666,6 +9669,7 @@ u_BeaYork
 u_beebuzzzzzz
 u_bella_winters
 u_bellaandray
+u_BellaYourDaddy
 u_Best_Turnip
 u_Bibbitybobbityboobie
 u_bigbumbun
