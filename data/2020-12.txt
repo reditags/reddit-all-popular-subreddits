@@ -2795,6 +2795,7 @@ DnDIY
 dndmaps
 dndmemes
 dndnext
+dndstories
 DobermanPinscher
 DoctorMike
 doctorwho
@@ -8879,6 +8880,7 @@ SteamVR
 Steelbooks
 steelers
 SteelyDan
+StefaniaFerrario
 StefaniaFerrario_
 steinsgate
 SteinsGateMemes
