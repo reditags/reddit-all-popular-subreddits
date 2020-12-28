@@ -1644,6 +1644,7 @@ CafeRacers
 CAguns
 cakeday
 cakedecorating
+CAKEWIN
 CalamariRaceTeam
 CalamityMod
 calculus
@@ -9099,6 +9100,7 @@ STAWG
 steadycraftin
 steak
 Stealthbombers
+StealthVibes
 Steam
 steam_giveaway
 steamdeals
