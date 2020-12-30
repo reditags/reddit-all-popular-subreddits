@@ -3298,6 +3298,7 @@ EraserNipples
 ERB
 Eredivisie
 Ereh
+Erenischverse
 EricaFett
 ericandre
 ErinAshford
@@ -8209,6 +8210,7 @@ reloading
 remnantgame
 RemyLaCroix
 ReneeMurden
+RenewableEnergy
 Rengarmains
 Reno
 rentAgirfriend
@@ -9198,6 +9200,7 @@ starwarscanon
 StarWarsCantina
 starwarscollecting
 starwarscomics
+StarWarsEmpireAtWar
 StarWarsEU
 starwarsgifs
 StarWarsleftymemes
