@@ -2295,6 +2295,7 @@ CorpseHusband
 Corridor
 CorrinConclave
 Corsair
+corsets
 Corvette
 corychase
 Cosmere
@@ -7751,6 +7752,7 @@ polandball
 Polandballart
 PolandballCommunity
 Polcompball
+Polcompballanarchy
 Poldersocialisme
 poledancing
 police
@@ -9695,6 +9697,7 @@ TheCapeRevolution
 thecatdimension
 TheCatTrapIsWorking
 thechurchofpeanut
+TheChurchOfRogers
 TheChurchOfShaggy
 TheCinemassacre
 TheCinemassacreTruth
