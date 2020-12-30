@@ -42,6 +42,7 @@
 30ROCK
 32dollars
 34Honor
+350z
 3amjokes
 3Blue1Brown
 3d6
@@ -1791,6 +1792,7 @@ CatMechanics
 Catmemes
 catpics
 catpictures
+catplops
 catpranks
 Catra
 catradora
@@ -1807,6 +1809,7 @@ CatsBeingCats
 CatsBitingThings
 CatsCalledFood
 CatsEnjoyingPets
+catshuggingcats
 CatsInBusinessAttire
 catsinpants
 CatsInSinks
@@ -9043,6 +9046,7 @@ speedrun
 Spellbreak
 spelunky
 sphynx
+SphynxCats
 SpiceandWolf
 spicy
 spiderbro
