@@ -49,6 +49,7 @@
 600euro
 6thForm
 7daystodie
+80s
 80sdesign
 80sfastfood
 90DayFiance
@@ -694,6 +695,7 @@ badhistory
 badlinguistics
 badmathematics
 BadMensAnatomy
+BadMtgCombos
 BadMUAs
 badparents
 badroommates
@@ -1622,6 +1624,7 @@ CoffeeGoneWild
 coins
 Coldmirror
 ColdOnes
+Coldplay
 collared
 college
 CollegeAmateurs
@@ -3802,6 +3805,7 @@ Imperator
 ImpracticalJokers
 ImpresssedByCum
 imsorryeveryone
+imsorrygarfield
 imsorryjon
 imveryedgy
 Incase
@@ -5149,7 +5153,9 @@ NCAAgirls
 NCT
 ndp
 NeckbeardNests
+neckbeardRPG
 Necrontyr
+Needafriend
 needforspeed
 Needlefelting
 needysluts
@@ -6110,6 +6116,7 @@ rance
 RandomActsOfGaming
 randomsexiness
 randonauts
+rangers
 rangersfc
 rant
 rap
@@ -6642,6 +6649,7 @@ Shrekmemes
 Shrimping
 shrimptank
 shrooms
+shubreddit
 ShutMouthAndSuckDick
 shutupandtakemymoney
 ShutupBelugaWhaleMan9
@@ -7150,6 +7158,7 @@ TalesFromTheFrontDesk
 TalesFromTheKitchen
 TalesFromThePharmacy
 TalesFromThePizzaGuy
+TalesFromTheSquadCar
 TalesFromYourServer
 TaliaMar
 TaliyahMains
@@ -7521,6 +7530,7 @@ torontoraptors
 torpedotits
 torties
 TotalBabes
+Totaldrama
 totallynotrobots
 totalwar
 totalwarhammer
@@ -7678,6 +7688,7 @@ u_Aaron3108
 u_abbyellison
 u_ADAMWARLOCK707
 u_adbrad3636
+u_Aegagropila
 u_AlexisAinsley
 u_AlexMaestro
 u_alibaby019
@@ -7774,6 +7785,7 @@ u_EnMarcheNoire
 u_explicitcherries2
 u_FabulousHorror
 u_fantasykittenxoxo
+u_feistylilkitty
 u_ffflora_
 u_firaenil
 u_fitnsmall
@@ -7908,6 +7920,7 @@ u_NSFWparents
 u_nude-eva
 u_NummyNomNoms
 u_obviousplant
+u_OfficialAuralescent
 u_oheytherehellohi
 u_olivebeauty69
 u_ourgwacct
@@ -7934,6 +7947,7 @@ u_r2345xxoo
 u_ramenslurper-
 u_ray_gonewild
 u_readyorcock
+u_renaeblasier
 u_rennyjuicess
 u_rockstarkristin
 u_rosalynmagic
@@ -7995,6 +8009,7 @@ u_themotionoftheocean1
 u_TheNaomi99
 u_theoriginalcinn
 u_TheRedHeadedRabbit
+u_thicccginger
 u_thr0wfarfaraway14
 u_Tiddytastic
 u_Tifaany
@@ -8456,6 +8471,7 @@ WikiLeaks
 wikipedia
 WikipediaVandalism
 Wilbur
+Wild_Fashion
 wildbeef
 WildernessBackpacking
 wildhearthstone
@@ -8489,6 +8505,7 @@ woahvicky
 woesenpai69
 WojakCompass
 wokekids
+wolves
 WolvesAreBigYo
 wombtattoos
 women
@@ -8593,6 +8610,7 @@ YanetGarcia
 YangForPresidentHQ
 yaoi
 Yaoi_IRL
+YarnAddicts
 YarnPunk
 yarntrolls
 YasuoMains
@@ -8672,3 +8690,4 @@ ZombielandSaga
 Zoomies
 zootopia
 ZootopiaPorn
+Zwift
