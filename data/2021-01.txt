@@ -705,6 +705,7 @@ BadMUAs
 badparents
 badroommates
 badtaxidermy
+BadTurtleNoLettuce
 badUIbattles
 badwomensanatomy
 baeirene
@@ -4430,6 +4431,7 @@ lesbianasslick
 lesbianfashionadvice
 LesbianGamers
 lesbianmemes
+LesbianPlot
 lesbians
 Lesbiaww
 LetsTalkMusic
@@ -6159,6 +6161,7 @@ Rammstein
 Ranboo
 rance
 RandomActsOfGaming
+randomactsofmusic
 randomsexiness
 randonauts
 rangers
@@ -6462,6 +6465,7 @@ saskatoon
 SASSWitches
 Sat
 Satan
+SatanicTemple_Reddit
 satanism
 satantiersuperpowers
 SatisfactoryGame
@@ -6727,6 +6731,7 @@ Sims3
 Sims4
 Simulated
 singapore
+singing
 Sino
 Sinvicta
 sips
@@ -7985,6 +7990,7 @@ u_NummyNomNoms
 u_obviousplant
 u_OfficialAuralescent
 u_oheytherehellohi
+u_okaywellthatsfine
 u_olivebeauty69
 u_onlyrox
 u_ourgwacct
@@ -8295,6 +8301,7 @@ vexillology
 vexillologycirclejerk
 veYakinEvren
 vgb
+vickili
 Vicky_Aisha
 victoria2
 VictoriaBC
