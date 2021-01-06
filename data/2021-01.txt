@@ -2835,6 +2835,7 @@ fivethirtyeight
 FixedGearBicycle
 FixedPoliticalMemes
 fixit
+FixMyPrint
 FL_Studio
 FlashingAndFlaunting
 FlashingGirls
@@ -4853,6 +4854,7 @@ mbti
 mbtimemes
 Mcat
 MCFC
+mcgill
 McKaylaMaroney
 McLounge
 McMansionHell
@@ -5941,6 +5943,7 @@ pinkfloyd
 PinkFloydCircleJerk
 PinkFox
 PinkOmega
+PinkWug
 Pinup
 PiperPerri
 Piracy
@@ -6394,6 +6397,7 @@ retrobattlestations
 RetroBowl
 RetroFuturism
 retrogaming
+RetroPie
 RetrousseTits
 reverseanimalrescue
 reversegif
@@ -6665,6 +6669,7 @@ SellingSunset
 Semenretention
 sendinthetanks
 seniorkitties
+sennamains
 senrankagura
 SequelMemes
 SeraphineMains
@@ -8110,6 +8115,7 @@ u_lunabaylee
 u_luthemoonbaby
 u_Luxexox
 u_Lydiagh0st
+u_maddybae5
 u_MakeUsGold
 u_mathema-kitten
 u_mayagonewild
