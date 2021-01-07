@@ -2080,6 +2080,7 @@ datgap
 dating
 dating_advice
 datingoverthirty
+daughtersharing
 DaughterTraining
 dauntless
 DaveRamsey
@@ -3798,6 +3799,7 @@ IAmA
 Iamactuallyverybadass
 iamapieceofshit
 iamatotalpieceofshit
+IAmDoingAThing
 iamverybadass
 iamveryculinary
 iamveryedgy
