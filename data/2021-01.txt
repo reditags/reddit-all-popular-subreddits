@@ -2986,6 +2986,7 @@ French
 Frenchbulldogs
 freshalbumart
 FridayNightFunkin
+FridgeDetective
 FriendsGoneWild
 FriendsofthePod
 Frisson
@@ -6069,6 +6070,7 @@ Political_Revolution
 PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
+Politically_NSFW
 politics
 PoliticsPeopleTwitter
 polls
@@ -7566,6 +7568,7 @@ TheCapeRevolution
 thecatdimension
 TheCatTrapIsWorking
 thechurchofpeanut
+TheChurchOfRogers
 TheCinemassacreTruth
 TheClickOwO
 TheCloneWars
@@ -8122,6 +8125,7 @@ u_itsellalopez
 u_jade_skyee21
 u_jadevowofficial
 u_JaneLane999
+u_jannahho
 u_jasminxof
 u_Jebamus
 u_jenn_lyn21
