@@ -808,6 +808,7 @@ bakchodi
 bakeoff
 BakharNabieva
 Baking
+bald
 baldursgate
 BaldursGate3
 balisong
@@ -1902,6 +1903,7 @@ COMPLETEANARCHY
 ComplexionExcellence
 composting
 compsci
+CompulsiveSkinPicking
 conan
 ConanBeingAwesome
 ConanExiles
@@ -2358,6 +2360,7 @@ DemocraticSocialism
 democrats
 DemonSlayerAnime
 demonssouls
+demsocialists
 Denmark
 DenverBroncos
 DenverCirclejerk
@@ -3492,6 +3495,7 @@ GenZHumor
 GenZommunist
 geocaching
 geography
+geoguessr
 geology
 Geologymemes
 geologyporn
@@ -7456,6 +7460,7 @@ shittyaquariums
 Shittyaskflying
 shittyaskscience
 shittybattlestations
+shittycoolguides
 ShittyDaystrom
 shittyfoodporn
 Shittygamecollecting
@@ -7819,6 +7824,7 @@ Stance
 standingout
 StandUpComedy
 standupshots
+StanleyKubrick
 starbound
 starbucks
 starcitizen
@@ -8153,6 +8159,7 @@ tech
 technews
 TechNewsToday
 technicallythetruth
+technicalminecraft
 Techno
 Technoblade
 technology
