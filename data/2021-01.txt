@@ -3035,6 +3035,7 @@ ElectricForest
 electricians
 electricvehicles
 ElectroBOOM
+electroforming
 electronicmusic
 electronics
 ElenaKamperi
@@ -3736,6 +3737,7 @@ furrymemes
 FurryOnHuman
 furryporn
 FurryPornSubreddit
+FurryVisualNovels
 fursedimages
 fut
 futacaptions
@@ -10976,6 +10978,7 @@ Wolfenstein
 wolves
 WolvesAreBigYo
 WolvesWithWatermelons
+WomanOrGod
 wombtattoos
 women
 WomenBendingOver
