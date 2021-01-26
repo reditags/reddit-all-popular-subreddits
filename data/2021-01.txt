@@ -2017,6 +2017,7 @@ CivPolitics
 CivVI
 CJ_Miles
 CK2GameOfthrones
+CK3AGOT
 Clannad
 ClashOfClans
 ClashRoyale
@@ -2500,6 +2501,7 @@ DaisyRidley
 DaisyStone
 DaisyTaylor
 dajinism
+Dakini
 dakotajohnson
 Dallas
 DallasStars
