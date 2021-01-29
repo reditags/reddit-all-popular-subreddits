@@ -7856,6 +7856,7 @@ PSP
 PSVR
 psych
 psychedelicartwork
+psychedelicrock
 Psychedelics
 Psychic
 psycho_alpaca
@@ -10098,6 +10099,7 @@ u__creature_feature
 u__Ginger4Play_
 u__mymindbreaks
 u__sexyscorpio
+u__The_Singularity_
 u_Aaron3108
 u_abbyellison
 u_acacialust
