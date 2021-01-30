@@ -4185,6 +4185,7 @@ glutenfree
 glutenfreerecipes
 GME
 gmod
+gnome
 Gnomies
 GNV
 Goatparkour
@@ -9666,6 +9667,7 @@ thedonald
 TheDragonPrince
 TheEminenceInShadow
 TheeOhSees
+TheERAOfGold
 TheEricAndreShow
 TheEroticSalon
 TheeStallion
