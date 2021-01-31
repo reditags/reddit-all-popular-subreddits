@@ -625,6 +625,7 @@ ARG
 Argaming
 argentina
 ArgentinaBenderStyle
+AriaAlexander
 AriadnaM
 ArianaGrande
 ArianaGrandeAss
@@ -7685,6 +7686,7 @@ PiratedGames
 PirateHole
 PirateKitties
 PiratePets
+piratesofthecaribbean
 pisceussss
 pitbulls
 pitbulls_in_partyhats
@@ -11675,6 +11677,7 @@ writingcirclejerk
 WritingPrompts
 WrongAnswersOnly
 WRX
+WSBDeepFuckingValue
 WSBGivesBack
 WSBrecords
 WTF
