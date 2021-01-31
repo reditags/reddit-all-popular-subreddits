@@ -1914,6 +1914,7 @@ ChainsawMan
 chairsunderwater
 Chameleons
 Championship
+ChanceTheRapper
 ChanelPreston
 ChanelUzi
 ChanelWestCoast
@@ -4991,6 +4992,7 @@ ImaginaryMythology
 ImaginaryNecronomicon
 ImaginaryOrcs
 ImaginaryPathways
+ImaginaryPirates
 ImaginarySkyscapes
 ImaginarySliceOfLife
 ImaginarySoldiers
@@ -11349,6 +11351,7 @@ WallStreetbetsELITE
 wallstreetbetsHIGH
 Wallstreetbetsnew
 wallstreetbetsoptions
+Wallstreetsilver
 walmart
 WalmartCelebrities
 WaltDisneyWorld
