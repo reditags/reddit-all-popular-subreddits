@@ -569,6 +569,7 @@ AskBalkans
 askcarsales
 AskCulinary
 AskDocs
+AskFeminists
 askgaybros
 AskGayMen
 AskHistorians
@@ -723,6 +724,7 @@ BABYMETAL
 BabyYoda
 BachelorNation
 Backcountry
+BackgroundArt
 backpacking
 BackpackingDogs
 backrooms
@@ -1266,6 +1268,7 @@ buffalobills
 buffy
 buildapc
 buildapcsales
+BuildTheEarth
 bujo
 Bukkake
 bulbasaurmasterrace
@@ -1426,6 +1429,7 @@ catsaysmao
 catsbeingbanks
 CatsBeingCats
 CatsBitingThings
+catscarryingstuffies
 CatsEnjoyingPets
 catshuggingcats
 CatsInBusinessAttire
@@ -1538,6 +1542,7 @@ chemistry
 chemistrymemes
 Chennai
 chernobyl
+Cheryl_Blossom
 chess
 chessbeginners
 chessmemes
@@ -1755,6 +1760,7 @@ COMPLETEANARCHY
 ComplexionExcellence
 composting
 compsci
+computers
 computerscience
 ConanBeingAwesome
 ConanExiles
@@ -2200,6 +2206,7 @@ denvernuggets
 DenzelCurry
 depression_memes
 derpixon
+DerryGirls
 DerScheisser
 desabafos
 DesiBoners_2
@@ -2570,6 +2577,7 @@ ender3
 EndlessSpace
 Endo
 energy
+energydrinks
 enf
 ENF_EUF
 ENFP
@@ -4168,6 +4176,7 @@ JailyneOjedaOchoa
 JakesDoorComics
 JamesBond
 JamesFrid
+janeausten
 janicegriffith
 January6
 japan
@@ -4590,6 +4599,7 @@ legaladviceofftopic
 LegalAdviceUK
 LegalAgeTeenagers
 LegalTeens
+LegalTeensGW
 legendarylootz
 legendofkorra
 legendofzelda
@@ -4999,6 +5009,7 @@ medicalschoolanki
 MedievalArtMemes
 MedievalCats
 medievaldoctor
+MedievalHistoryMemes
 Meditation
 medizzy
 Megadeth
@@ -6786,6 +6797,7 @@ satisfying
 Satisfyingasfuck
 SatoshiStreetBets
 SavageGarden
+SavannahBond
 SavaSchultz
 SAVEBRENDAN
 savedyouaclick
@@ -6811,6 +6823,7 @@ school_memes
 SchoolGirlSkirts
 science
 sciencefiction
+ScienceHumour
 sciencememes
 sciences
 scifi
@@ -7310,6 +7323,7 @@ SrGrafo
 SRGroup
 srilanka
 SS13
+SSBBW_FANS
 SSBM
 SSSniperWolf_Pics
 ssunbiki
@@ -7818,6 +7832,7 @@ TheSquadOnPoint
 TheStrokes
 thetagang
 TheTempleOfOchako
+TheThiccness
 Thetruthishere
 theunforgiven
 TheVampireDiaries
@@ -7892,6 +7907,7 @@ TILI
 tiltshift
 timberwolves
 TimDillon
+TimPool
 Tinder
 tinyanimalsonfingers
 tinyhouse
@@ -7985,6 +8001,7 @@ TraceAnObject
 traderjoes
 trading212
 traditionaltattoos
+Traeger
 trailerparkboys
 trailrunning
 TrainerFucks
@@ -9021,6 +9038,7 @@ wholesomereddit
 wholesomeromance
 wholesomevandalism
 wholesomeviolence
+WholesomeYiff
 whooties
 whothefuckup
 WhyEvenWearAnything
