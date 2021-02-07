@@ -2557,6 +2557,7 @@ EndlessSpace
 Endo
 energy
 enf
+ENF_EUF
 ENFP
 EngagementRings
 engineering
@@ -3286,6 +3287,7 @@ glitch_art
 Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
+GlobalTribe
 Glocks
 Gloomhaven
 GloriousTomBombadil
@@ -4231,6 +4233,7 @@ JuJutsuKaisen
 JujutsuKaisen_Hentai
 juliafoxsub
 JuliaJAV
+juliakelly
 juliannee
 JuliaRose
 juliensolomita
@@ -8536,6 +8539,7 @@ Udyrmains
 ufc
 ufl
 UFOs
+ufyh
 uglyduckling
 UHDnsfw
 UHQcelebs
