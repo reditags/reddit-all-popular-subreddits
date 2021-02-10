@@ -618,6 +618,7 @@ AskHistorians
 AskMen
 AskNYC
 AskOuija
+AskPhotography
 AskReddit
 AskRedditAfterDark
 askscience
@@ -1956,6 +1957,7 @@ CosplayBoobs
 cosplaybutts
 cosplaygirls
 CosplayLewd
+CosplayNation
 CosplayNsfw
 cosplayonoff
 CosplayPornVideos
