@@ -539,6 +539,7 @@ araragi
 Archaeology
 archeologyworld
 ArcherFX
+Archero
 Archery
 ArchitecturalRevival
 architecture
@@ -972,6 +973,7 @@ Behzinga
 BeidouMains
 BELGICA
 belgium
+Belgium2
 Bellabrookz
 Bellapoarch
 BelleDelphineArchiveX
@@ -2496,6 +2498,7 @@ DetroitPistons
 DetroitRedWings
 Deusex
 deutschememes
+DevilmanCrybaby
 DevilMayCry
 devils
 devinbrugman
@@ -5641,6 +5644,7 @@ Memes_Of_The_Dank
 memesITA
 MemesOfTheGreatWar
 memeswithoutmods
+MemetsuNoYaiba
 Memeulous
 memeuniverse
 MemeVideos
