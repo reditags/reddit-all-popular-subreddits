@@ -3239,6 +3239,7 @@ firstworldproblems
 Fischl
 fishcumdumpster
 Fishing
+Fishing_Gear
 Fishingmemes
 fishnets
 Fisting
@@ -6953,6 +6954,7 @@ Pokemonart
 pokemongo
 pokemongobrag
 PokemonGoFriends
+PokemonGoMystic
 PokemonHentai_
 PokemonLetsGo
 PokemonMasters
@@ -7245,6 +7247,7 @@ RaidShadowLegends
 raimimemes
 raimiprequelmemes
 Rainbow6
+Rainbow_Waifus
 RainbowEverything
 raining
 Rainmeter
@@ -8160,6 +8163,7 @@ specializedtools
 SpecialSnowflake
 SpeculativeEvolution
 SpeedOfLobsters
+speedofwagon
 speedrun
 Spellbreak
 spelunky
@@ -9935,6 +9939,7 @@ veganmealprep
 veganrecipes
 veganuk
 vegas
+vegaslocals
 vegetablegardening
 vegetarian
 veggieshake
