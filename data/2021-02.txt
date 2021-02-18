@@ -560,6 +560,7 @@ arabscrashingcars
 Aranzasinteof
 araragi
 Archaeology
+Archeology
 archeologyworld
 ArcherFX
 Archero
@@ -7549,6 +7550,7 @@ R6SiegeFashionAdvice
 Rabbits
 rabm
 Raccoons
+RaceTrackDesigns
 Rachelbushfans
 RachelCook
 RachelCook_
@@ -10989,6 +10991,7 @@ Yukinoshitayukino
 yungfreckzunmoderated
 yunyun
 yuri
+yurigif
 YUROP
 yurucamp
 YuShinoda
