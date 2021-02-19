@@ -2818,6 +2818,7 @@ Doofenshmirtz
 doofenshmirtzdialogue
 Doom
 doommetal
+DoomPatrol
 doordash
 doordash_drivers
 DoorMonster
@@ -8093,6 +8094,7 @@ Scrubs
 scrubsgonewild
 scrungycats
 scuba
+scubadiving
 ScuttleCrabMains
 SDSGrandCross
 seals
