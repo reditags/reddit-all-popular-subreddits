@@ -1232,6 +1232,7 @@ BlackWorldOrder
 BladeAndSorcery
 bladerunner
 Bladesmith
+BLAHAJ
 BlakeBlossom
 blakelively
 blankies
@@ -2107,6 +2108,7 @@ ConanExiles
 conceptart
 confession
 confessions
+ConfidentHentai
 confidentlyincorrect
 ConfusedBoners
 confusing_perspective
@@ -2813,6 +2815,7 @@ Dogtraining
 dogue
 DojaCatWorship
 DokkanBattleCommunity
+DokkanBattleReddit
 DolanDark
 DollyLittle
 Dollywinks
@@ -4154,6 +4157,7 @@ gtavcustoms
 GTBAE
 GTTOD
 GuardianTales
+guesswhattheybroke
 GuildWars
 Guildwars2
 GuiltyDogs
