@@ -4868,6 +4868,7 @@ instantbarbarians
 instantkarma
 instantpot
 Instantregret
+Instapot
 InstaSnapsAndMore
 InStockAmmo
 insurgency
@@ -5096,6 +5097,7 @@ joker
 Jokes
 Jon_Bois
 Jon_Drinks_Water
+JonDrinksWater
 JonTron
 jordan
 Jordan_Peterson_Memes
@@ -7347,6 +7349,7 @@ plantclinic
 PlantedTank
 PlantGoths
 PlantIdentification
+plantmemes
 plants
 plantsandpots
 PlantsVSZombies
