@@ -3884,6 +3884,7 @@ GenZommunist
 geography
 geoguessr
 geology
+geologycareers
 geologyporn
 geometrydash
 GeometryIsNeat
@@ -5127,6 +5128,7 @@ JulieCash
 juliensolomita
 JuljasBasement
 jumalattaret2
+jumprope
 Jung
 Jungle_Mains
 JuniorDoctorsUK
