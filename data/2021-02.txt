@@ -678,6 +678,7 @@ askcarsales
 AskCulinary
 AskDocs
 AskEasternEurope
+AskElectronics
 AskEngineers
 AskFeminists
 askgaybros
@@ -935,6 +936,7 @@ barelylegalteens
 Barkitecture
 barkour
 Barotrauma
+barstoolboners
 barstoolsports
 bartenders
 baseball
@@ -6463,6 +6465,7 @@ myog
 MyouiMina
 MyPeopleNeedMe
 mysteriesoftheworld
+mystery
 MysteryDungeon
 mysticmessenger
 MySummerCar
@@ -9394,6 +9397,7 @@ TheoryofCatsInSinks
 TheOther14
 theouterworlds
 TheOutlawsAssociation
+TheoVon
 TheOwlHouse
 ThePalaceOfMiruko
 ThePose
