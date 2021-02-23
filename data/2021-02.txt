@@ -894,6 +894,7 @@ BadMUAs
 badparents
 badphilosophy
 badphotoshop
+BadRocketLeagueGoals
 badroommates
 badscificovers
 badtaxidermy
@@ -8764,6 +8765,7 @@ SmashRage
 SMG4
 smilers
 Smite
+smitepro
 SmithAndWesson
 smoking
 SmolTiddyGothGF
@@ -11201,6 +11203,7 @@ WhiteRooms
 WhiteScars40K
 whitesox
 WhiteWolfRPG
+whole30
 wholesome
 wholesome40k
 Wholesome4chan
