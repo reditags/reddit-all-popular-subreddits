@@ -1543,6 +1543,7 @@ buccos
 Buddhism
 BuddyCrossing
 BudgetAudiophile
+BudgetBlades
 budgetcooking
 budgetfood
 budgies
@@ -7636,6 +7637,7 @@ Poetry
 pointlesslygendered
 PointlessStories
 PointyTailedKittens
+pokelawls
 pokemon
 Pokemonart
 pokemongo
@@ -9171,6 +9173,7 @@ StonerEngineering
 stonerfood
 StonerPhilosophy
 StonerProTips
+StonerThoughts
 Stonetossingjuice
 stonks
 stonksworks
@@ -11219,6 +11222,7 @@ Wavyhair
 WaxSealers
 WayOfTheBern
 WayV_For_Life
+Wealthsimple_Trade
 WeaponsMoe
 WeAreAllTurks
 WeAreTheMusicMakers
