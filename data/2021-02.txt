@@ -1632,6 +1632,7 @@ ButtSharpies
 buttsthatgrip
 BuyCanadian
 BuyItForLife
+BuyMyContent
 BuzzFeedUnsolved
 byebyejob
 Byleth
@@ -5933,6 +5934,7 @@ linux
 linux_gaming
 linuxmasterrace
 linuxmemes
+linuxmint
 LipsThatGrip
 LisaAnn
 listeningspaces
@@ -7086,6 +7088,7 @@ Nsfw_Amateurs
 NSFW_China
 NSFW_GAY
 nsfw_gifs
+nsfw_handpicked
 NSFW_Hardbodies
 NSFW_HTML5
 NSFW_Japan
