@@ -1857,6 +1857,7 @@ celestegame
 celestememes
 CelestialBodies
 Celiac
+Celialora
 CelineFarach
 cellbits
 CellsAtWork
@@ -7584,6 +7585,7 @@ Petscop
 PetTheDamnCat
 petthedamncow
 PetTheDamnDog
+petthedamnduck
 PetTheDamnKitty
 pettyrevenge
 pewdiepie
@@ -9851,6 +9853,7 @@ thingsforants
 thinkpad
 ThirdSentenceHappy
 thirdsentenceworse
+thirdworldinginuity
 ThisButUnironically
 Thisismylifemeow
 thisismylifenow
@@ -10079,6 +10082,7 @@ TrollCoping
 trollface
 TrollFaceIncident
 TrollMUA
+TrollXWeddings
 TrollYChromosome
 tron
 Trophies
