@@ -876,6 +876,7 @@ BattleJackets
 battlemaps
 BattleNetwork
 battlestations
+battletech
 battlewagon
 batty
 bayarea
@@ -911,6 +912,7 @@ bearsdoinghumanthings
 Beastars
 beatles
 beatlescirclejerk
+beatMeatToIt
 BeatMeToIt
 beatsaber
 BeautifulFemales
@@ -1782,6 +1784,7 @@ CK2GameOfthrones
 Clannad
 ClashOfClans
 ClashRoyale
+ClassActionRobinHood
 ClassicalLibertarians
 classicalmusic
 ClassicalNudes
@@ -2090,6 +2093,7 @@ CrystalWestbrooks
 CrystinaRossi
 cscareerquestions
 csgo
+Csgohacks
 csharp
 CSHFans
 csMajors
@@ -3592,6 +3596,7 @@ glassheads
 glee
 glitch_art
 Glitch_in_the_Matrix
+glitchart
 GlitchInTheMatrix
 glitchtaleofficial
 GlobalOffensive
@@ -5030,6 +5035,7 @@ legostarwars
 legostarwarsmemes
 LegoStarWarsVideoGame
 legs
+legsup
 leilalowfire
 Lela_Star
 lele_pons
@@ -6369,6 +6375,7 @@ orlando
 ornnmains
 Orochisegundo
 orphanblack
+OrthodoxChristianity
 Osana
 osp
 OSU
@@ -8482,6 +8489,7 @@ TheThiccness
 Thetruthishere
 TheTryGuys
 theumbrellaacademy
+TheUnderbun
 theunforgiven
 TheVampireDiaries
 thewalkingdead
