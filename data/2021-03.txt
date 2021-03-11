@@ -551,6 +551,8 @@ ArtDeco
 ArtefactPorn
 ArtHistory
 Artifact
+artificial
+ArtificialInteligence
 ArtisanVideos
 ArtOfRolling
 ArtPorn
@@ -2319,6 +2321,7 @@ Deathbysnusnu
 deathgrips
 deathguard40k
 deathnote
+DeathNoteMemes
 DeathrattlePorn
 DeathStranding
 DebbyRyan
@@ -2880,6 +2883,7 @@ excatholic
 excgarated
 excusemewhatthefuck
 Exercise
+Exhibitionistfun
 Existentialism
 exjw
 exmormon
@@ -3724,6 +3728,7 @@ GroupOfNudeGirls
 groupsex
 GrowingMarijuana
 grunge
+gso
 GTA
 Gta5Modding
 GTA6
@@ -3980,6 +3985,7 @@ hiphopvinyl
 hisdarkmaterials
 HistoricalCostuming
 history
+HistoryAnecdotes
 HistoryAnimemes
 HistoryPorn
 hitanimals
@@ -5182,6 +5188,7 @@ Lovelink
 LoveLive
 lovememes
 LoveNikki
+LovingFamily
 low_poly
 LowAltitudeJets
 lowlegsheaven
@@ -5273,6 +5280,7 @@ majonotabitabi
 MakeMeSuffer
 MakeMeSufferMore
 MakeNewFriendsHere
+MakerDAO
 Makesmybloodboil
 MakeupAddiction
 MakeupLounge
@@ -5723,6 +5731,7 @@ motorboat
 motorcycle
 MotorcyclePorn
 motorcycles
+MotoUK
 MoundofVenus
 mountainbiking
 Mountaineering
@@ -6744,6 +6753,7 @@ poshmark
 Positive_News
 Possums
 postal
+PostHardcore
 PostMalone
 postprocessing
 postscriptum
@@ -7892,6 +7902,7 @@ SSundeeReddit
 Stacked
 Stadia
 StainedGlass
+staking
 stalker
 StallmanWasRight
 Stance
@@ -8619,6 +8630,7 @@ traadustCrusaders
 TraceAnObject
 TracerNSFW
 traderjoes
+Trading
 trading212
 traditionaltattoos
 Traeger
@@ -9824,6 +9836,7 @@ witcher
 Witcher3
 WitcherMemes
 WitchesVsPatriarchy
+WithoutThePunchline
 Wizard101
 WizTheLich
 woahdude
@@ -9958,6 +9971,7 @@ Yesjulz
 yesyesyesno
 yesyesyesyesno
 yhivi
+Yield_Farming
 yiff
 yiffcaptions
 yiffgif
