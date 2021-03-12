@@ -2008,6 +2008,7 @@ CoronavirusColorado
 CoronavirusDownunder
 CoronavirusMa
 CoronavirusMemes
+CoronavirusMichigan
 CoronaVirusTX
 CoronavirusUK
 CoronavirusUS
@@ -3477,6 +3478,7 @@ Gameboy
 gamecollecting
 Gamecube
 gamedev
+gameDevClassifieds
 gamegrumps
 gamemaker
 Gamemeneersubmissies
@@ -4368,6 +4370,7 @@ ImaginaryKnights
 ImaginaryLandscapes
 ImaginaryLesbians
 ImaginaryLeviathans
+ImaginaryLovers
 ImaginaryMaids
 imaginarymaps
 imaginarymapscj
@@ -8527,6 +8530,7 @@ The_Dedede
 The_Dennis
 The_Leftorium
 The_Mueller
+theabigalemandler
 TheAdventureZone
 TheArcana
 TheAstraMilitarum
