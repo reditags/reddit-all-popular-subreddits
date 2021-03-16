@@ -932,6 +932,7 @@ BattlefrontMemes
 BattleJackets
 battlemaps
 BattleNetwork
+BattlePaintings
 battlestations
 battletech
 battlewagon
@@ -3178,6 +3179,7 @@ fantasybaseball
 fantasybball
 fantasyfootball
 FantasyGirls
+fantasyhockey
 FantasyPL
 fantasywriters
 FanTheories
@@ -3475,6 +3477,7 @@ FrankOcean
 Frasier
 Frat
 FRC
+FreakyHoesForever
 FreckledGirls
 FREE
 freebies
@@ -3844,6 +3847,7 @@ GoblinSlayer
 GoblinSlayerNSFW
 gocommitdiev2
 GodBooty
+GodDesigns
 goddesses
 GodofWar
 godot
@@ -6299,6 +6303,7 @@ Neiva_Mara
 NekoIRL
 Nekomimi
 NEKOPARAGAME
+NelkFilmz
 NelliesNest
 NEO
 neoliberal
@@ -9654,6 +9659,7 @@ u_krystaltopaz
 u_KublaiKhunt
 u_kw1738
 u_kyleherefortheboys
+u_kylekaiser15
 u_kyubunx
 u_Lacylubabyy
 u_LadaLyumos
