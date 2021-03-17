@@ -3082,6 +3082,7 @@ eu4
 eu_nvr
 Eugene
 EUGENIACOONEY
+EulaMains
 eupersonalfinance
 euphoria
 EUR_irl
@@ -7920,6 +7921,7 @@ saudiarabia
 sauteedmemes
 SavageGarden
 SavannahBond
+SavaSchultz
 SAVEBRENDAN
 savedyouaclick
 SaveThePostalService
