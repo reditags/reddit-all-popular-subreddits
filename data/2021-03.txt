@@ -6806,6 +6806,7 @@ OkBuddyPoliceOfficer
 okbuddyprofligate
 okbuddyredacted
 okbuddyreiner
+okbuddysheogorath
 okbuddyvowsh
 Okbuddyzionism
 okc
@@ -9984,6 +9985,7 @@ u_MakeUsGold
 u_mangobeep
 u_MarinaMui
 u_MaryJaneonlyfan
+u_marylandjennainva
 u_marzipan6666
 u_mathema-kitten
 u_mayagonewild
