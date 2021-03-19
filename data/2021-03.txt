@@ -5636,6 +5636,7 @@ LitterboxComics
 Little_Jasmine_Grey
 LittleCaprice
 LittleNightmares
+LittleNuns
 LittleReislin
 LittleWitchAcademia
 LiveFromNewYork
@@ -5864,6 +5865,7 @@ MandJTV
 MandyMuse
 MangaCollectors
 mangadex
+mangago
 ManHands
 manhwa
 maninthehighcastle
@@ -6770,6 +6772,7 @@ NuxTakuSubmissions
 nuzlocke
 nvidia
 nyanners
+NYCbike
 nycrail
 NYGiants
 NYKnicks
@@ -10273,6 +10276,7 @@ u_theraelarue
 u_TheRealSaxsquatch
 u_TheRedHeadedRabbit
 u_thesquatingdog
+u_thisisbillgates
 u_tiffanynho
 u_tigressjess
 u_Timothis1213
