@@ -4734,6 +4734,7 @@ ich_iel
 ichbin40undlustig
 IchikaFanclub
 ICleanedMyRoom
+ideasfortheadmins
 IdentityV
 ididnthaveeggs
 iDiedLookingAtThis
@@ -5965,6 +5966,7 @@ MagicArena
 magicbuilding
 MagicEye
 magick
+MagicLegends
 MagicMouth
 MagicNsfw
 magicthecirclejerking
