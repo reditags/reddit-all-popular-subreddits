@@ -6065,6 +6065,7 @@ Marvel
 MarvelCringe
 MarvelLegends
 marvelmemes
+MarvelPrequelMemes
 MarvelPuzzleQuest
 MarvelStrikeForce
 marvelstudios
@@ -7924,6 +7925,7 @@ razer
 razorbacks
 RBI
 rccars
+rct
 RDR2
 Re_Zero
 reactiongifs
@@ -10189,6 +10191,7 @@ u_hellowokitty
 u_HeyAlexxa
 u_heyhey9999
 u_HeyItsPixeL
+u_highlandbunny
 u_Holiamxx
 u_holidayinngirl1
 u_Holofan4life
