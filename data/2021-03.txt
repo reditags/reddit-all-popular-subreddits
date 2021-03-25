@@ -5885,6 +5885,7 @@ LobaMains
 LockdownSkepticism
 lockpicking
 LodedDiper
+LofiGirl
 LofiHipHop
 logh
 LogitechG
@@ -8951,6 +8952,7 @@ SoulKnight
 Soulnexus
 SoulSnacks
 SoulsSliders
+SoundersFC
 SoundsLikeMusic
 Sourdough
 sousvide
