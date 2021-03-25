@@ -697,6 +697,7 @@ askcarsales
 AskCulinary
 AskDocs
 AskEconomics
+AskElectronics
 AskEngineers
 AskFeminists
 askgaybros
@@ -1560,6 +1561,7 @@ BryceDallasHoward
 BSG
 btc
 btd6
+BTThrowingYouAtShit
 BubbleButts
 Buddhism
 BuddyCrossing
@@ -2113,6 +2115,7 @@ CODWarzone
 codyko
 CODZombies
 Coffee
+Coffee_Shop
 CoffeeGoneWild
 coins
 Coldmirror
@@ -4487,6 +4490,7 @@ Helluvabrothel
 hellyvalentine
 HelplessHentai
 HelpMeFind
+HemdomBlog
 hempflowers
 HenryStickmin
 hentai
@@ -6024,6 +6028,7 @@ MacroMastiaCam
 MacroPorn
 macsetups
 Madden
+MaddenMobileForums
 MaddenUltimateTeam
 MadeInAbyss
 MadelainePetsch
