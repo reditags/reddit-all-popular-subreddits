@@ -1252,6 +1252,7 @@ Bitcoin
 BitcoinBeginners
 Bitcoincash
 BitcoinGoldHQ
+BitcoinMining
 BitcoinPrivate
 bitcointrading
 BitedSizeSexy
@@ -3380,6 +3381,7 @@ F1Game
 F1NN5TER
 F1Porn
 F1Technical
+F1TV
 Fable
 faceandcock
 FacebookScience
