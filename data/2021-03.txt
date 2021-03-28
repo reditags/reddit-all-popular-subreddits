@@ -2153,6 +2153,7 @@ college
 CollegeAmateurs
 collegebaseball
 CollegeBasketball
+collegehockey
 CollegeMemes
 collegensfw
 CollegeRant
@@ -11356,6 +11357,7 @@ watchpeoplesurvive
 watchplantsgrow
 WatchRedditDie
 watchthingsfly
+waterbros
 Watercolor
 watercooling
 Waterdogs
@@ -11759,6 +11761,7 @@ YouTubersGoneWild
 youtubetitties
 YuB
 yugioh
+yugioh_nsfw
 YuGiOhMemes
 Yukinoshitayukino
 yummypawgs
