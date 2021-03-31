@@ -576,6 +576,7 @@ AO3
 AOC
 AOCIsSexy
 aoe2
+aoe3
 Apandah
 ape
 aPeoplesCalendar
@@ -5191,6 +5192,7 @@ InspectorSeb
 inspirobot
 InstacartShoppers
 Instagram
+InstagramHotAccounts
 Instagrammodels
 Instagramreality
 instant_loss
@@ -5928,6 +5930,7 @@ LegoGameMemes
 legostarwars
 legostarwarsmemes
 LegoStarWarsVideoGame
+legotechnic
 legs
 legsup
 legwrap
