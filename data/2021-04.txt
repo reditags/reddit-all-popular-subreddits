@@ -675,6 +675,7 @@ barstoolsports
 bartenders
 baseball
 baseballcards
+BasedJustice
 basketballcards
 Bass
 bassfishing
@@ -1319,6 +1320,7 @@ Cheese
 Chefit
 chefknives
 chelseafc
+chemhelp
 ChemicalEngineering
 chemicalreactiongifs
 chemistry
@@ -1422,6 +1424,7 @@ ClevelandIndians
 clevercomebacks
 climate
 ClimateActionPlan
+ClimateOffensive
 climbergirls
 climbing
 ClimbingCircleJerk
@@ -1528,6 +1531,7 @@ conservatives
 ConservativesOnly
 Consoom
 conspiracy
+conspiracyNOPOL
 conspiracytheories
 Construction
 consulting
@@ -1562,6 +1566,7 @@ Corridor
 Corsair
 corychase
 Cosmere
+cosmoandwanda
 cosplaybabes
 CosplayBoobs
 cosplaybutts
@@ -2003,6 +2008,7 @@ DonutMedia
 DonutOperator
 doodles
 Doom
+doommetal
 doordash
 doordash_drivers
 DotA2
@@ -2060,6 +2066,7 @@ dumbasseswithlighters
 DumpsterDiving
 DunderMifflin
 dune
+DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
 duolingomemes
@@ -2563,6 +2570,7 @@ Frontend
 Frostpunk
 Frotting
 Frugal
+frugalmalefashion
 FruitsBasket
 ft86
 ftlgame
@@ -3024,6 +3032,7 @@ Helicopters
 HellenicMemes
 HellLetLoose
 HelloInternet
+HellsCube
 hellsomememes
 Helltaker
 HelltakerHentai
@@ -3295,6 +3304,7 @@ ImaginaryCharacters
 ImaginaryCityscapes
 ImaginaryColorscapes
 imaginarycosmere
+ImaginaryDarkSouls
 ImaginaryDragons
 ImaginaryElves
 ImaginaryFeels
@@ -3751,6 +3761,7 @@ kurzgesagt
 KUWTK
 KylieJenner
 KylieJennerPics
+Kyusha
 l4d2
 LaBeauteFeminine
 LabiaGW
@@ -4079,6 +4090,7 @@ Malu__Trevejo
 malutrevejo_18
 MaluTrevejo_NSFW
 mamamoo
+manchester
 ManchesterUnited
 Mandalorian
 MandalorianMemes
@@ -4224,6 +4236,7 @@ meormyson
 MEOW_IRL
 meowsertrousers
 MephHeads
+Mercari
 mercedes_benz
 MeruNSFW
 Metal
@@ -4394,6 +4407,7 @@ morbidquestions
 MorbidReality
 MordekaiserMains
 Mordhau
+Morganeisenberg
 Morgpie
 MoriahMills
 MoriCalliope
@@ -4880,6 +4894,7 @@ orlando
 OrthodoxChristianity
 Osana
 osp
+OSU
 osubuddyretard
 osugame
 OsuSkins
@@ -5121,6 +5136,7 @@ PleX
 PlipPlip
 PLTR
 Plumbing
+PlusSize
 podcasts
 Poetry
 pointlesslygendered
@@ -5170,6 +5186,7 @@ poppunkers
 porn
 porn_gifs
 Porndio
+Pornevoir
 Pornheat
 PornhubComments
 pornID
@@ -5505,6 +5522,7 @@ rocketbeans
 RocketLeague
 RocketLeagueEsports
 RocketLeagueExchange
+rocketry
 rockets
 rockhounds
 RogueCompany
@@ -5591,6 +5609,7 @@ saltierthancrait
 saltierthankrayt
 SaltLakeCity
 salty
+SaltyPhish
 samespecies
 SamONellaAcademy
 samoyeds
@@ -5734,6 +5753,7 @@ shaidenrogue
 Shamanism
 shameless
 ShamelesslyStolen
+ShaneDawson
 ShaqHoldingThings
 SharedBPM
 Shark_Park
@@ -5823,6 +5843,7 @@ Shrekmemes
 shrimptank
 shrooms
 ShutMouthAndSuckDick
+shutupwesley
 ShuumatsuNoValkyrie
 Siamesecats
 Sidemen
@@ -6646,6 +6667,7 @@ TransGoneWild
 TransLater
 Transmogrification
 transporn
+transvoice
 TransyTalk
 trap
 traphentai
@@ -7157,6 +7179,7 @@ uwaterloo
 UWMadison
 UzakiChan
 uzakichanhentai
+VACsucks
 vagabond
 vagina
 VaginaHentai
@@ -7232,6 +7255,7 @@ VintageApple
 vintageaudio
 vintagecgi
 VintageFashion
+VintageFashions
 vintagejapaneseautos
 vinyl
 vinyljerk
@@ -7337,6 +7361,7 @@ WeatherGifs
 webcomics
 webdev
 webtoons
+WeCantStudy
 wedding
 weddingdress
 WeddingRingsShowing
@@ -7487,6 +7512,7 @@ WorldOfTanksBlitz
 WorldOfWarships
 WorldPacks
 worldpolitics
+WormMemes
 Wotakoi
 WouldYouRather
 wow
@@ -7575,6 +7601,7 @@ yopierre
 yorickmains
 Yotsubros
 YouBelongWithMemes
+youdontmattergiveup
 youdontsurf
 YouFellForItFool
 YoujoSenki
