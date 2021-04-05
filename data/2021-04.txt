@@ -2070,6 +2070,7 @@ Deusex
 DevilMayCry
 Dexter
 diabetes
+diabetes_t1
 Diablo
 diablo2
 diablo3
@@ -6532,6 +6533,7 @@ softies
 softwaregore
 SoGoodtoBeBad
 solaropposites
+solarpunk
 soles
 SolidWorks
 sololeveling
@@ -6546,6 +6548,7 @@ SonOfAShepherd
 SonyAlpha
 SophiaDiamondLegal
 sophiedee
+SophieRoseUK
 sophieturner
 SophiiaDiamond
 SorayorimoTooiBasho
@@ -7087,6 +7090,7 @@ TheOwlHouse
 ThePalaceOfMiruko
 ThePose
 thepromisedneverland
+TheRareOnes
 theratio
 TheRealJoke
 thereifixedit
@@ -7639,6 +7643,7 @@ u_pen_and_inc
 u_Perky-and-Pink
 u_PerkyLifter
 u_pierbi
+u_Pinkyluvubb
 u_planetmonica
 u_poly_triad
 u_poppylebeaux
