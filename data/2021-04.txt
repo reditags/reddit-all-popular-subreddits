@@ -796,6 +796,7 @@ batman
 BatmanArkham
 batonrouge
 BATProject
+BattleBrothers
 Battlecars
 battlecats
 Battlefield
@@ -3774,6 +3775,7 @@ HomestarRunner
 homestead
 homestuck
 hometheater
+Homyatol
 Honda
 HoneyGold
 HongKong
@@ -6902,6 +6904,7 @@ Shadowrun
 ShadyShainarae
 ShaeSummers
 shaidenrogue
+Sham_Sharma_Show
 Shamanism
 shameless
 ShamelesslyStolen
@@ -7883,6 +7886,7 @@ ThunderThots
 thurstonwaffles
 Tierzoo
 tifu
+TIFUnt
 TigerKing
 tightdresses
 TIGHTPUSSY
