@@ -2878,6 +2878,7 @@ euphoria
 EUR_irl
 europe
 EuropeanFederalists
+EuropeanSocialists
 EuroTruck2
 eurovision
 EvaAndressa
@@ -2929,6 +2930,7 @@ Exurb1a
 Exxxtras
 Eyebleach
 eyebombing
+eyehurtingflags
 eyMaxo
 ezrealmains
 f150
@@ -3839,6 +3841,7 @@ halifax
 halloween
 halo
 HaloMemes
+HaloOnline
 HaloStory
 HaloWars
 Hamilton
@@ -4653,6 +4656,7 @@ jurassicworldevo
 Just18
 just2good
 justa
+JustBBlack
 JustCause
 justdependathings
 justforsocialmedia
@@ -5255,6 +5259,7 @@ madlad
 madlads
 MadokaMagica
 Mafia
+MAGAs
 MagicArena
 magicbuilding
 MagicEye
@@ -6453,6 +6458,7 @@ papertowns
 papgrappen
 ParadoxExtra
 paradoxplaza
+paradoxpolitics
 Parahumans
 Paralives
 Paramore
@@ -7004,6 +7010,7 @@ RateMyRack
 RationalPsychonaut
 Ratorix
 RATS
+RAVEN
 Ravenfield
 RavenLoso
 ravens
