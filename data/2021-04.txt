@@ -4409,6 +4409,7 @@ imaginarycosmere
 ImaginaryCybernetics
 ImaginaryCyberpunk
 ImaginaryDarkSouls
+ImaginaryDemons
 ImaginaryDragons
 ImaginaryDwellings
 ImaginaryElves
@@ -5285,6 +5286,7 @@ LofiHipHop
 Logic_Studio
 LogitechG
 logodesign
+loicense
 lolcats
 lolgrindr
 Lolirefugees
@@ -9985,6 +9987,7 @@ Vintage_NSFW_GIFS
 vintageads
 VintageApple
 vintageaudio
+VintageBabes
 vintagecgi
 VintageFashion
 VintageFashions
@@ -10223,6 +10226,7 @@ wholesomemonstergirls
 wholesomeouija
 WholesomePorn
 wholesomeromance
+wholesomevandalism
 wholesomeviolence
 WholesomeYiff
 whoosh
