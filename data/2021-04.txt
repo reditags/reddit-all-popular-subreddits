@@ -637,6 +637,7 @@ AskCulinary
 AskDocs
 AskElectronics
 AskEngineers
+AskFeminists
 askgaybros
 AskGayMen
 AskHistorians
@@ -3578,6 +3579,7 @@ galaxys10
 GalaxysEdge
 GalGadot
 Gambiarra
+gameassets
 Gameboy
 gamecollecting
 Gamecube
@@ -6917,6 +6919,7 @@ Physics
 physicsgifs
 physicsmemes
 PhysicsStudents
+PiaBunnyOF
 piano
 PickOne
 Pickonepornstar
