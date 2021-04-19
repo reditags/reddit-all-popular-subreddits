@@ -853,6 +853,7 @@ badMovies
 BadMtgCombos
 BadMUAs
 badparents
+badphilosophy
 BadReads
 badtaxidermy
 badUIbattles
@@ -3257,6 +3258,7 @@ FemaleDatingStrategy
 femalehairadvice
 FemaleLevelUpStrategy
 femalelivingspace
+Femaleorgasmdenial
 femalepov
 FemaleWerewolves
 femboy_irl
