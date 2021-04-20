@@ -565,6 +565,7 @@ ArchitecturalRevival
 architecture
 ArchitecturePorn
 archlinux
+arcteryx
 arcticmonkeys
 arduino
 ArduinoProjects
@@ -1511,6 +1512,7 @@ bullybackfire
 Bumble
 Bumbleby
 buncomfortable
+Bundesliga
 bundeswehr
 BunniesStandingUp
 burdUrban
@@ -1839,6 +1841,7 @@ chile
 China
 China_irl
 chinchilla
+chinesekitty
 ChineseLanguage
 Chinesium
 Chipotle
@@ -5242,6 +5245,7 @@ kpoppers
 kpoprants
 kpopthoughts
 krasnacht
+kreiswichs
 KRGmod
 KrissyLynn
 kristenbell
@@ -7910,6 +7914,7 @@ salty
 SaltyPhish
 Samanta_Lily
 Samantha_Saint
+SamayRaina
 samespecies
 samharris
 SamONellaAcademy
