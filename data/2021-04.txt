@@ -1330,6 +1330,7 @@ BonerAlert
 BonerMaterial
 BonersInPublic
 boneworks
+BonfireToken
 boniver
 BONKpatrol
 bonnaroo
