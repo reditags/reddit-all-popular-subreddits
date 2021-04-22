@@ -9077,6 +9077,7 @@ tech
 technews
 TechNewsToday
 technicallythetruth
+technicalminecraft
 Techno
 Technoblade
 technology
