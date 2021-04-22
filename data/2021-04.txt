@@ -8649,6 +8649,7 @@ SpitRoasted
 splatoon
 Splatoon_2
 Splintercell
+SplitDepthGIFS
 Splitview
 sploot
 Spokane
@@ -9587,6 +9588,7 @@ TrueChristian
 TrueCrime
 TrueCrimeDiscussion
 TrueCrimePodcasts
+TrueDetective
 TrueFilm
 TrueFMK
 truegaming
@@ -10449,6 +10451,7 @@ UKPersonalFinance
 ukraina
 ukraine
 uktrees
+ultimate
 Ultralight
 Ultraman
 ultrawidemasterrace
@@ -10556,6 +10559,7 @@ USC
 usefulredcircle
 uselessnobody
 uselessredcircle
+userexperience
 UsernameChecksOut
 usernamefamily
 USPS
@@ -11157,6 +11161,7 @@ Yointerneto
 yopierre
 yorickmains
 yorku
+Yosemite
 Yotsubros
 YouBelongWithMemes
 youdontmattergiveup
