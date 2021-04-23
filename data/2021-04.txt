@@ -594,6 +594,7 @@ AreTheStraightsOkay
 ARG
 Argaming
 argentina
+ArgentinaBenderStyle
 AriaAlexander
 AriaLee
 ArianaGrande
@@ -700,6 +701,7 @@ AskRedditAfterDark
 askscience
 AskScienceFiction
 AskSF
+askSingapore
 askteenboys
 AskTeenGirls
 AskThe_Donald
@@ -3002,6 +3004,7 @@ EdibleButtholes
 Edinburgh
 EDM
 Edmonton
+edmprodcirclejerk
 edmproduction
 EDP445
 educationalgifs
@@ -4708,6 +4711,7 @@ Im15AndThisIsYeet
 Im5andthisismacaroni
 Images
 ImageStabilization
+ImaginaryAngels
 ImaginaryArchitecture
 ImaginaryArmor
 ImaginaryAssassins
@@ -4763,6 +4767,7 @@ ImaginaryOrcs
 ImaginaryOverwatch
 ImaginaryPathways
 imaginarypets
+ImaginarySeascapes
 ImaginarySkyscapes
 ImaginarySliceOfLife
 ImaginarySoldiers
@@ -5254,6 +5259,7 @@ KendrickLamar
 Kengan_Ashura
 KenM
 KennedyCymone_
+kenopsia
 Kenshi
 Kentucky
 Kenya
@@ -5821,6 +5827,7 @@ madlads
 madnesscombat
 MadokaMagica
 Mafia
+MafiaTheGame
 MAGAs
 MagesVsMatriarchy
 MagicArena
@@ -6923,6 +6930,7 @@ okprietenretardat
 Old_Recipes
 OldAndYoungLesbians
 oldbabies
+OlderThanYouThinkIAm
 oldfreefolk
 oldhagfashion
 OldManDog
@@ -9627,6 +9635,7 @@ Transmatfiring
 Transmogrification
 Transpirobot
 transporn
+transprogrammer
 transvoice
 TransyTalk
 trap
