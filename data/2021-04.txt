@@ -697,6 +697,7 @@ AskReddit
 AskRedditAfterDark
 askscience
 AskScienceFiction
+AskSF
 askteenboys
 AskTeenGirls
 AskThe_Donald
@@ -3870,6 +3871,7 @@ geekboners
 geekygirls
 GeForceNOW
 genderfluid_irl
+Genealogy
 GeneralSam
 generative
 genestealercult
@@ -8316,6 +8318,7 @@ SHIBArmy
 shid_and_camed
 shield
 shieldbro
+ShieldHero
 shiey
 shiftingrealities
 Shihtzu
@@ -9371,6 +9374,7 @@ TheTempleOfOchako
 TheThiccness
 Thetruthishere
 theumbrellaacademy
+TheUnderbun
 TheVampireDiaries
 thewalkingdead
 TheWalkingDeadGame
@@ -10995,6 +10999,7 @@ whitesox
 WhiteWolfRPG
 wholesome
 wholesome40k
+wholesomeanimemes
 WholesomeAsHeck
 wholesomebpt
 WholesomeComics
@@ -11174,6 +11179,7 @@ Xenonion
 Xev_Bellringer
 XFiles
 xfl
+XGirlsPorn
 XiaoMains
 Xiaomi
 xkcd
