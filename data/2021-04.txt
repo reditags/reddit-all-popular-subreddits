@@ -727,6 +727,7 @@ askTO
 asktransgender
 AskUK
 AskVet
+asl
 Asmongold
 asoiaf
 AsOneAfterInfidelity
@@ -2180,6 +2181,7 @@ conceptart
 confession
 confessions
 confidentlyincorrect
+ConfusedAnimeGirls
 ConfusedBoners
 confusing_perspective
 confusingperspective
@@ -5208,6 +5210,7 @@ Jordan_Peterson_Memes
 JordanPeterson
 Jordyn_Jones
 JordynJonesNSFW
+JordynWoods
 joshfight
 joshswainbattle
 JoshuaWeissman
@@ -8443,6 +8446,7 @@ shakira
 shallyzsaa
 Sham_Sharma_Show
 Shamanism
+ShamayneG
 shameless
 ShamelesslyStolen
 ShaneDawson
