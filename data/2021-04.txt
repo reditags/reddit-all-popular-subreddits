@@ -1241,6 +1241,7 @@ BitchImATrain
 Bitcoin
 BitcoinAUS
 BitcoinBeginners
+Bitcoincash
 BitcoinMining
 BitedSizeSexy
 BitLifeApp
@@ -1951,6 +1952,7 @@ Chinesium
 Chipotle
 ChippyGaming
 Chiraqology
+Chivalry2
 ChiveUnderground
 chloe
 chloe34
@@ -2383,6 +2385,7 @@ CryptoBoom
 CryptoCurrencies
 CryptoCurrency
 CryptoCurrencyClassic
+CryptocurrencyICO
 cryptocurrencymemes
 CryptoCurrencyPump
 CryptoCurrencyTrading
@@ -3322,6 +3325,7 @@ Expected
 expectedcommunism
 expectedlyunexpected
 expectedsabaton
+ExpensiveAccidents
 explainitpeter
 explainlikeimfive
 exposedinpublic
@@ -3893,6 +3897,7 @@ galaxybuds
 galaxys10
 GalaxysEdge
 GalGadot
+GalinaDubenenko
 gallifrey
 Gambiarra
 gameassets
@@ -6714,6 +6719,7 @@ NekoIRL
 Nekomimi
 NEKOPARAGAME
 NelliesNest
+nem
 NEO
 neoliberal
 NeonGenesisEvangelion
@@ -8659,6 +8665,7 @@ ShuumatsuNoValkyrie
 siacoin
 Siamesecats
 Sidemen
+SideStripeShorts
 SiegeAcademy
 Sigmarxism
 signal
