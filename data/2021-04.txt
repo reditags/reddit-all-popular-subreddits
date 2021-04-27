@@ -5861,6 +5861,7 @@ lostpause
 lostredditors
 lotr
 LOTR_on_Prime
+LOTRbookmemes
 LOTRholygrailmemes
 lotrmemes
 lotro
@@ -9116,6 +9117,7 @@ StreetsIsWatchin
 StreetslsWatchin
 streetwear
 streetwearstartup
+strength_training
 StressFreeSeason
 Stretched
 strikeaposegw
