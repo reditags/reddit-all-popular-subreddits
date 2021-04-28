@@ -2261,6 +2261,7 @@ CoronaBumpers
 Coronavirus
 CoronavirusAZ
 CoronavirusCA
+CoronavirusColorado
 CoronavirusDownunder
 CoronavirusMa
 CoronavirusMemes
@@ -6829,6 +6830,7 @@ nflmemes
 nfrealmusic
 NFT
 NFTArt_Finance
+NFTCollect
 NFTExchange
 NFTmarket
 NFTstocks
