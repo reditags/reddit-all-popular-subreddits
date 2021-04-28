@@ -713,6 +713,7 @@ AskElectronics
 AskEngineers
 AskFeminists
 askgaybros
+AskGaybrosOver30
 AskGayMen
 AskHistorians
 asklatinamerica
@@ -9039,6 +9040,7 @@ SpongebobMeBoy
 SpongebobMemes
 spook_irl
 spooktober
+spookymonth
 Spore
 sporetraders
 SportingCP
@@ -9403,6 +9405,7 @@ talesfromcallcenters
 talesfromcavesupport
 TalesFromDF
 TalesFromRetail
+talesfromsecurity
 talesfromtechsupport
 TalesFromTheCustomer
 TalesFromTheFrontDesk
