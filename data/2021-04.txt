@@ -1318,6 +1318,7 @@ Blazblue
 bleach
 Bleach_Hentai
 BleachBraveSouls
+bleachedir
 blender
 blenderhelp
 Blep
@@ -7871,6 +7872,7 @@ ProfessorLayton
 Professors
 progmetal
 ProgrammerAnimemes
+ProgrammerDadJokes
 ProgrammerHumor
 programming
 programminghorror
@@ -8692,6 +8694,7 @@ ShitLibSafari
 ShitMomGroupsSay
 ShitPoliticalMemes
 ShitPoliticsSays
+ShitPoppinKreamSays
 shitpostbound
 ShitPostCrusaders
 shitpostemblem
