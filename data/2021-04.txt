@@ -988,6 +988,7 @@ bartenders
 baseball
 baseballcards
 BasedJustice
+BasicBulletJournals
 BasicIncome
 basketballcards
 Bass
@@ -2620,6 +2621,7 @@ DarkAcademia
 DarkAngels
 DarkCrystal
 darkestdungeon
+DarkestWomen
 DarkFuturology
 DarkGothicArt
 darkmemers
@@ -10330,6 +10332,7 @@ u_DicksInTheDidgeridoo
 u_Diives
 u_dirtylittledolly
 u_DisposeOfTheBanana
+u_djdrake89
 u_Dmitriy_DG3D
 u_Dollywinks
 u_domrystan
