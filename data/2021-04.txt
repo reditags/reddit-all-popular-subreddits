@@ -2111,6 +2111,7 @@ climbing
 ClimbingCircleJerk
 ClimbingPorn
 CloneHero
+clonehigh
 CloneSoldierMemes
 CloneWarsMemes
 CloneWhoPunchedADroid
@@ -9684,6 +9685,7 @@ The_Crew
 the_darnold
 The_Dedede
 The_Dennis
+The_Hand
 The_Leftorium
 The_Mueller
 TheAdventureZone
