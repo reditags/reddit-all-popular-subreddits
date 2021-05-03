@@ -254,6 +254,7 @@ AnalGW
 analinsertions
 analog
 AnalogCommunity
+analsquirt
 Anarchism
 AnarchismZ
 Anarcho_Capitalism
@@ -1089,6 +1090,7 @@ CanadaPolitics
 CanadianForces
 CanadianInvestor
 canberra
+canconfirmiamindian
 canes
 cannabiscultivation
 Canning
@@ -1227,6 +1229,7 @@ Chargers
 chargetheyphone
 ChargeYourPhone
 Charlotte
+CharlotteAnime
 CharlotteHornets
 CharlyJordan
 Charmx
@@ -1527,6 +1530,7 @@ Crypto_com
 Crypto_Currency_News
 Crypto_General
 CryptoCurrency
+CryptoCurrencyClassic
 CryptocurrencyICO
 CryptoCurrencyPump
 CryptoCurrencyTrading
@@ -3661,6 +3665,7 @@ legodeal
 LegoGameMemes
 legostarwars
 legs
+legwrap
 Lela_Star
 lemondemon
 Lena_The_Plug
@@ -5238,6 +5243,7 @@ RobinHoodPennyStocks
 roblox
 ROBLOXmemes
 robotics
+rocketbeans
 RocketLeague
 RocketLeagueEsports
 rockets
@@ -5615,6 +5621,7 @@ SkyPorn
 skyrim
 SkyrimMemes
 skyrimmods
+SlackWyrm
 slammywhammies
 slavs_squatting
 slaythespire
@@ -6037,6 +6044,7 @@ TechNope
 techsupportgore
 techsupportmacgyver
 TectEGG
+TeddyMoutinho
 teefies
 Teenager_Polls
 teenagers
@@ -6252,6 +6260,7 @@ TinyUnits
 tipofmytongue
 tippytaps
 Tiresaretheenemy
+tit
 titanfall
 titantiersuperpowers
 titfuck
@@ -6783,6 +6792,7 @@ UnexpectedSCP
 UnexpectedTF2
 UnexpectedThanos
 Unextexted
+unfortunateplacement
 Uniform_Hentai
 unintentionallydirty
 union
@@ -7063,6 +7073,7 @@ wholesomejojo
 wholesomememes
 wholesomeouija
 wholesomeviolence
+whoosh
 whooties
 whoselineisitanyway
 whothefuckup
