@@ -123,6 +123,7 @@ ActionFigures
 ActivationSound
 ActLikeYouBelong
 ActualFreakouts
+ActualHippies
 ActualPublicFreakouts
 actuary
 AddamsFamily
@@ -160,6 +161,7 @@ AdviceAnimals
 aeiou
 aerospace
 AerospaceEngineering
+Aespa
 aesthetic
 aestheticrain
 AEWOfficial
@@ -802,6 +804,7 @@ bee_irl
 beebutts
 beef_flaps
 Beekeeping
+beer
 beetlejuicing
 BeforeNAfterAdoption
 BeginnerWoodWorking
@@ -1071,6 +1074,7 @@ Boobies
 boobs
 BoobsAndTities
 BoobsBetweenArms
+BoobsInAction
 booknooks
 bookporn
 books
@@ -1827,6 +1831,7 @@ CrossStitch
 crowbro
 crows
 crtgaming
+CruelSummer
 Crunchyroll
 CrusadeMemes
 CrusaderKings
@@ -1978,6 +1983,7 @@ dangerousdesign
 DangleAndJingle
 DaniDaniels
 DaniDev
+Daniellarson
 DanielleBregoli_OF
 DankAndrastianMemes
 Dankchristianmemes2
@@ -2157,6 +2163,7 @@ diabetes
 diabetes_t1
 Diablo
 diablo2
+diablo3
 DiamondJackson
 DiavoloDeathCount
 DicePorn
@@ -4355,6 +4362,7 @@ Lamia
 laminarflow
 lanadelrey
 lanarhoades
+LancerRPG
 LandlordLove
 LandoftheLustrous
 landscaping
@@ -5352,6 +5360,7 @@ Nonbinaryteens
 NonCredibleDefense
 NoneHumanMoe
 NoNewNormal
+NonFunctionSlackFill
 nononono
 nonononoyes
 nononoyesno
@@ -5902,6 +5911,7 @@ pixiedustcrusaders
 Pizza
 PizzaCrimes
 pizzadare
+PizzaThot
 PKA
 Planetside
 PlanetZoo
