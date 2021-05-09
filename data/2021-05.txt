@@ -3095,6 +3095,7 @@ FromPuppyToDog
 fromsoftware
 FromTheDepths
 Frostpunk
+Frotting
 Frugal
 frugalmalefashion
 Fruitbatcats
@@ -5401,6 +5402,7 @@ MST3K
 MTB
 Mtf_irl
 mtg
+mtgaltered
 mtgfinance
 mtgporn
 MtvChallenge
@@ -5571,6 +5573,7 @@ news
 newsbloopers
 NewSkaters
 NewsOfTheStupid
+NewToEMS
 NewVegasMemes
 newyorkcity
 NewYorkIslanders
@@ -5670,6 +5673,7 @@ nononoyesno
 NonPoliticalTwitter
 noodlebones
 Noom
+Nootropics
 nope
 Noragami
 Nordichistorymemes
@@ -7816,6 +7820,7 @@ TerrainBuilding
 Terraria
 TerrariaDesign
 TerrariaMemes
+terrariashitposting
 terrariums
 terriblefacebookmemes
 terriblefandommemes
@@ -9317,6 +9322,7 @@ WeaponsMoe
 WearOS
 WeatherGifs
 WeatherPorn
+weaving
 web_design
 webcomics
 webdev
@@ -9543,6 +9549,7 @@ xbox
 xbox360
 XboxAhoy
 XboxGamePass
+xboxinsiders
 xboxone
 XboxSeriesX
 Xcom
