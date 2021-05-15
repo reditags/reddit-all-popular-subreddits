@@ -1796,6 +1796,7 @@ cinematography
 CineShots
 circlejerk
 CirclejerkSopranos
+circojeca
 cirkeltrek
 CISDidNothingWrong
 CitiesSkylines
@@ -1978,6 +1979,7 @@ controlgame
 ConvenientCop
 CookieClicker
 cookiedecorating
+Cookierun
 Cooking
 cookingforbeginners
 CoolAmericaFacts
@@ -5257,6 +5259,7 @@ LoopHero
 LoosePussyLand
 lorde
 lordoftherings
+Lordosis
 Lore_Olympus
 LorenGrayLewd
 loreofleague
@@ -6355,6 +6358,7 @@ OkBuddyPoliceOfficer
 okbuddyredacted
 okbuddyreiner
 okbuddyrintard
+okbuddysheogorath
 okbuddytankie
 okbuddyvowsh
 okc
@@ -7281,6 +7285,7 @@ repurposedbuildings
 researchchemicals
 Residency
 residentevil
+ResidentEvilVillage
 ResinCasting
 resonantfrequency
 restofthefuckingowl
@@ -7611,6 +7616,7 @@ sennamains
 senrankagura
 Sephora
 SequelMemes
+SeraphineMains
 serbia
 serbiancringe
 serialkillers
@@ -9188,6 +9194,7 @@ u_chloenoa
 u_Chloviticus
 u_chocog0ld
 u_chouereb
+u_ChrisNicoolas
 u_Christinalustxxx
 u_christinetang14
 u_chrstnrose
@@ -9260,6 +9267,7 @@ u_EddLai
 u_Edson360
 u_EJTheNonbinaryHuman
 u_electriclindsey
+u_elektira
 u_elizabethlop
 u_Ella_Kaye
 u_EllisArepoint
@@ -9490,6 +9498,7 @@ u_krystaltopaz
 u_KublaiKhunt
 u_kurytx
 u_kyaldigital
+u_kyleherefortheboys
 u_kylekaiser15
 u_kyubunx
 u_l3onerma
@@ -9644,6 +9653,7 @@ u_nani_s_music
 u_nashithepear
 u_Natjane96
 u_natural_red
+u_navywild
 u_ndiverox
 u_NealB4m3
 u_nebraskawut
