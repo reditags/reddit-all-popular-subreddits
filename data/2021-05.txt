@@ -1149,6 +1149,7 @@ Bitcoin
 BitcoinAUS
 BitcoinBeginners
 BitcoinCA
+Bitcoincash
 BitcoinRealestate
 BitcoinUK
 BitedSizeSexy
@@ -5165,6 +5166,7 @@ ksi
 KSPMemes
 KsyushaEgorova
 kubernetes
+kucoin
 KumoDesu
 Kurisutina
 kurtisconner
@@ -5956,6 +5958,7 @@ minnesota
 minnesotatwins
 minnesotaunited
 minnesotavikings
+Minoxbeards
 minus8
 MioFanClub
 miraculousladybug
@@ -6680,6 +6683,7 @@ OnePieceTC
 OnePieceVixens
 oneplus
 onepotmeals
+OneProtectRestAttack
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
@@ -7447,6 +7451,7 @@ rareinsults
 rarepuppers
 Rarethreats
 raspberry_pi
+RASPBERRY_PI_PROJECTS
 RatchetAndClank
 Rateme
 RateMyAss
