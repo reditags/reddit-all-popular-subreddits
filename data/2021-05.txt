@@ -2243,6 +2243,8 @@ CryptoMoonshots2
 CryptoMoonShotsDaily
 cryptonasa
 CryptoNewsandTalk
+Cryptopia
+CRYPTOPUMPCLUB
 CryptoSmallCaps
 cryptostreetbets
 Cryptozoology
@@ -6084,6 +6086,7 @@ montreal
 montypython
 MontyPythonMemes
 MoonBets
+MoonBoysFinance
 Moonmoon
 MoonPirate
 MoonShotCoin
@@ -7039,6 +7042,7 @@ phineasandferb
 phineasandferbmemes
 phish
 phoebebridgers
+PhoeniciaHistoryFacts
 phoenix
 PhoenixMarie
 PhoenixSC
