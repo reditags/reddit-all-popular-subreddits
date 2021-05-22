@@ -925,6 +925,7 @@ basketballcards
 Bass
 bassfishing
 BassGuitar
+basspedals
 batman
 BatmanArkham
 BATProject
@@ -5341,6 +5342,7 @@ latvia
 LaughJokes
 LauraEarnesty
 LaurenCohan
+LaurenHammelton
 LaurenPhillips
 laurenpisciotta
 LaurenSearle
