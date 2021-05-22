@@ -935,6 +935,7 @@ Bass
 bassfishing
 BassGuitar
 basspedals
+BatFacts
 batman
 BatmanArkham
 BATProject
