@@ -664,6 +664,7 @@ AskBalkans
 askcarsales
 AskCulinary
 AskDocs
+AskElectronics
 AskEngineers
 AskFeminists
 askgaybros
@@ -6100,6 +6101,7 @@ minecraftsuggestions
 MineralPorn
 MINI
 miniatures
+MiniJello
 minimalcatart
 minimalism
 miniminter
@@ -10458,6 +10460,7 @@ u_RawBeef81
 u_Rayz4n
 u_razobettya
 u_read_wilma
+u_realgamerstoken
 u_ReallyOrdinary
 u_realprettyangel
 u_realsummerlilies
