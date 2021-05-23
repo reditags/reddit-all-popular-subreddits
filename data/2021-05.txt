@@ -3977,6 +3977,7 @@ goats
 goatvalleycampgrounds
 goblincore
 GoblinGirls
+goblinhogmoment
 GoblinSlayer
 gocommitdiev2
 goddesses
@@ -4696,6 +4697,7 @@ ImaginaryLeviathans
 ImaginaryLovers
 ImaginaryMaids
 imaginarymaps
+imaginarymapscj
 ImaginaryMechs
 ImaginaryMiddleEarth
 ImaginaryMindscapes
