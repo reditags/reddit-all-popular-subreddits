@@ -945,6 +945,7 @@ bassfishing
 BassGuitar
 basspedals
 BatFacts
+bathandbodyworks
 batman
 BatmanArkham
 BATProject
@@ -2765,6 +2766,7 @@ diyelectronics
 diypedals
 DIYUK
 DIYweddings
+DJHannahB
 dji
 DJs
 DMAcademy
@@ -5137,6 +5139,7 @@ KaeyaMains
 Kafes
 KagneyLinnKarter
 kaguya_memes
+kaguya_sama_nsfw
 KaguyaShinomiya
 KahoShibuya
 KaijuNo8
@@ -6541,6 +6544,7 @@ NewSkaters
 NewsOfTheStupid
 NewToEMS
 NewToken
+NewTubers
 NewVegasMemes
 newworldgame
 newyorkcity
@@ -8397,6 +8401,7 @@ simracing
 sims2
 Sims3
 Sims4
+SimsIRL
 SimsMobile
 Simulated
 singapore
@@ -9135,6 +9140,7 @@ Tetris
 Texans
 texas
 TexasPolitics
+TexasRangers
 TexasSwingers
 tezos
 tf2
