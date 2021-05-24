@@ -2312,6 +2312,7 @@ CryptoGemDiscovery
 CryptoHorde
 Cryptomains
 CryptoMarkets
+CryptoMarketsshot
 CryptoMars
 CryptoMarsShots
 CryptoMoon
@@ -7172,6 +7173,7 @@ pathofexile
 PathOfExileBuilds
 Patrig
 Patriots
+Pauper
 pawg
 PAWGtastic
 paydaytheheist
@@ -7406,6 +7408,7 @@ Pokemonart
 pokemongo
 pokemongobrag
 PokemonGoFriends
+PokemonGoMystic
 PokemonGoRaids
 PokemonHentai_
 PokemonLetsGo
@@ -8784,6 +8787,7 @@ starcraft2
 StardewHomeDesign
 StardewMemes
 StardewValley
+StardewValleyExpanded
 StardewValleyMemes
 StardustCrusaders
 Starfield
@@ -10207,6 +10211,7 @@ u_Jade_am
 u_JadeBabii
 u_JadeRabbit_
 u_jadevowofficial
+u_jakoobie6
 u_jamespetersonlive
 u_jamesvagina
 u_JaneLane999
