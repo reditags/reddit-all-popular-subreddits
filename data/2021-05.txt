@@ -2107,6 +2107,7 @@ community
 CompanyBattles
 CompanyOfHeroes
 CompetitiveApex
+CompetitiveEDH
 CompetitiveForHonor
 CompetitiveHS
 CompetitiveMinecraft
@@ -4840,6 +4841,7 @@ IndieGaming
 indieheadscirclejerk
 indonesia
 IndoorGarden
+IndyaMarieOF2
 INDYCAR
 INEEEEDIT
 InfinityTrain
@@ -11109,6 +11111,7 @@ uselessnobody
 uselessredcircle
 UsernameChecksOut
 usernamefamily
+USNEWS
 USPS
 ussoccer
 Utah
@@ -11245,6 +11248,7 @@ VirginGalactic
 Virginia
 VirginiaGoneWild
 virginvschad
+VirtualCosplay
 virtualgeisha
 virtualreality
 Visiblemending
@@ -11748,6 +11752,7 @@ YUROP
 yurucamp
 yuruyuri
 YuShinoda
+yuumimains
 YUUSAKURA
 YuYuHakusho
 ZanClan
