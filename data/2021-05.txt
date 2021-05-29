@@ -2703,6 +2703,7 @@ deftones
 Defunctland
 degoogle
 DegradingHoles
+Degrassi
 Deji
 Delaware
 delhi
@@ -4220,6 +4221,7 @@ GrandBlue
 grandorder
 grandpajoehate
 grandrapids
+GrandTetonNatlPark
 GrandTheftAutoV
 GrandTheftAutoV_PC
 GrandTourTopgearFans
@@ -8016,6 +8018,7 @@ Ravenfield
 RavenPorn
 ravens
 RawAndReal
+rawdenim
 Rayga
 razer
 RazorMains
