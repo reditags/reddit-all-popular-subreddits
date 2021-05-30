@@ -2126,6 +2126,7 @@ ColdWarZombies
 collared
 college
 CollegeAmateurs
+collegebaseball
 CollegeBasketball
 CollegeMemes
 CollegeRant
@@ -2739,6 +2740,7 @@ deMiko
 DemiLovato
 DemiRose
 DemiRoseMawby
+DemiRoseMawbyOF
 demisexuality
 DemocraticSocialism
 democrats
@@ -3939,6 +3941,7 @@ gangweed
 gank
 Ganyu
 GanyuNSFW
+gao
 gape
 GardeningUK
 GarenMains
@@ -4467,6 +4470,7 @@ HeckThisIsWholesome
 Hedgehog
 heels
 heep
+Hegre
 HeheMoment
 helayna
 helgalovekaty
