@@ -1402,6 +1402,7 @@ CaughtPublic
 causticmains
 Cawwsplay
 Caylee_Cowan
+CayleeCowan
 CBSE
 CCIV
 CCW
@@ -5060,6 +5061,7 @@ movies
 Moviesinthemaking
 MrBeast
 MrFruit
+MrJoeNobody
 MrLove
 MrRobot
 MrsPoindexter
@@ -6868,6 +6870,7 @@ SoulCalibur
 soulcrushingjuice
 SoulKnight
 Soulnexus
+SoundersFC
 SoundsLikeMusic
 Sourdough
 sousvide
@@ -6970,6 +6973,7 @@ starcitizen
 starcraft
 StardewMemes
 StardewValley
+StardewValleyMemes
 StardustCrusaders
 Starfield
 Stargate
@@ -7003,6 +7007,7 @@ Stealthbombers
 Steam
 steam_giveaway
 steelers
+SteelyDan
 steinsgate
 SteinsGateMemes
 StellaCox
@@ -8555,6 +8560,7 @@ Wavyhair
 Waxpen
 WayOfTheBern
 WeaponsMoe
+WeAreTheMusicMakers
 WeatherGifs
 web_design
 webcomics
