@@ -1427,6 +1427,7 @@ CanadianForces
 CanadianInvestor
 canberra
 canconfirmiamindian
+CandyAsmus
 canes
 cannabis
 cannabiscultivation
@@ -6359,6 +6360,7 @@ physicsgifs
 physicsmemes
 PhysicsStudents
 piano
+pic
 PickOne
 pickuplines
 picrequests
@@ -7672,6 +7674,7 @@ StarWars
 StarWarsArmada
 StarWarsBattlefront
 starwarsblackseries
+starwarscanon
 StarWarsCantina
 starwarscollecting
 StarWarsEU
