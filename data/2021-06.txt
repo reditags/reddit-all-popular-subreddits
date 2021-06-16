@@ -3864,6 +3864,7 @@ GreenAndPleasant
 GreenBayPackers
 greenday
 greentext
+GregDoucette
 Greyhounds
 greysanatomy
 grian
@@ -5144,6 +5145,7 @@ learnart
 learndota2
 learningtocat
 LearnJapanese
+learnjavascript
 learnmachinelearning
 learnprogramming
 learnpython
