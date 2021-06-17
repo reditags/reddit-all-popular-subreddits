@@ -2036,6 +2036,7 @@ cookiedecorating
 Cookierun
 Cooking
 cookingforbeginners
+CoolAmericaFacts
 CoolBugFacts
 coolguides
 copypasta
@@ -3428,6 +3429,7 @@ FridgeDetective
 friendlyarchitecture
 friendlyjordies
 FriendsGoneWild
+FriendsOver40
 Frisson
 FrogButt
 FrogLoaf
@@ -6360,6 +6362,7 @@ NSFW_HTML5
 NSFW_Japan
 NSFW_Plowcam
 NSFW_Snapchat
+NSFW_Social
 NSFW_Tributes
 nsfw_wtf
 nsfw_zhentai
@@ -9645,6 +9648,7 @@ u_Queen_Ballerina
 u_QueenisAthena
 u_Queenlivia00
 u_queentaylorr12
+u_quinn444
 u_Quinn_Harper
 u_QuinnFinite
 u_Rachel_Green69
