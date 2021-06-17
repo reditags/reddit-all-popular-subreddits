@@ -1618,6 +1618,7 @@ CatMechanics
 Catmemes
 catpics
 catpictures
+catplops
 catpranks
 catradora
 cats
@@ -3606,6 +3607,7 @@ GateioExchange
 gatekeeping
 GatekeepingYuri
 gatesopencomeonin
+gatsbyjs
 GawrGura
 gay
 gay_irl
