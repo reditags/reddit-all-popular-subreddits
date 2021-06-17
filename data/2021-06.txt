@@ -547,6 +547,7 @@ archlinux
 arcticmonkeys
 arduino
 AreolasGW
+Areology
 areTheAllosOK
 Argaming
 argentina
@@ -2977,6 +2978,7 @@ EscapefromTarkov
 esist
 esports
 espresso
+EssendonFC
 EstateofMomo
 esterexposito
 estoration
