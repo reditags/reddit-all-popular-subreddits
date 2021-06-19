@@ -946,6 +946,7 @@ battletech
 Battletechgame
 battlewagon
 batty
+bavaria
 bayarea
 Bayonetta
 Baystreetbets
@@ -5659,6 +5660,7 @@ MandyMuse
 MangaCollectors
 mangadex
 manhwa
+ManiacTips
 ManifestNBC
 ManjaroLinux
 ManufacturingPorn
@@ -6363,6 +6365,7 @@ nhentai
 nhl
 NHLStreams
 Ni_Bondha
+nice
 Nicegirls
 niceguys
 NiceHash
@@ -7388,6 +7391,7 @@ RaidenMains
 raiders
 raidsecrets
 RaidShadowLegends
+railgun
 raimimemes
 raimiprequelmemes
 Rainbow6
