@@ -2413,6 +2413,7 @@ DACA
 Dachschaden
 Dachshund
 dadbod
+DadForAMinute
 dadjokes
 DadReflexes
 DadsAndBoys
@@ -5863,6 +5864,7 @@ MemeEconomy
 memeframe
 MemeHunter
 memeilliterate
+memeingthroughtime
 MemeMan
 MementoUnusAnnus
 MemePiece
@@ -6417,6 +6419,7 @@ nfrealmusic
 NFT
 NFTblocks
 NFTShiba_Finance
+NFTsMarketplace
 nhaa
 nhentai
 nhl
@@ -7105,6 +7108,7 @@ pitbulls
 pitbulls_in_partyhats
 pitbullsinjammies
 Pitta
+PittieSmiles
 pittsburgh
 PixelArt
 PixelArtNSFW
