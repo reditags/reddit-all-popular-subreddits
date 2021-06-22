@@ -1938,6 +1938,7 @@ chutyapa
 chuunibyou
 CICO
 CieloSaldivarMIPriv
+Cigarettes
 cigars
 cincinnati
 Cinderblock
@@ -2587,6 +2588,7 @@ deadmalls
 deadmau5
 deadmeatjames
 DeadSpace
+deaf
 Death_By_SnuSnu
 deathbattle
 Deathcore
@@ -10510,6 +10512,7 @@ unexpectedskyrim
 UnexpectedTF2
 UnexpectedThanos
 UnexpectedThugLife
+UnexplainedPhotos
 Unextexted
 unfortunateplacement
 Uniform_Hentai
