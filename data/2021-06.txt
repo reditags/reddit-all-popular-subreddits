@@ -3223,6 +3223,7 @@ euphoria
 EUR_irl
 Euro2020
 europe
+EuropeanFederalists
 eurovision
 EvaElfie
 EvaGreen
@@ -5546,6 +5547,7 @@ learningtocat
 LearnJapanese
 learnjavascript
 learnmachinelearning
+learnmath
 learnprogramming
 learnpython
 learnspanish
@@ -9254,6 +9256,7 @@ texas
 TexasGW
 TexasPolitics
 TexasSwingers
+tezos
 tf2
 TF2fashionadvice
 tf2memes
