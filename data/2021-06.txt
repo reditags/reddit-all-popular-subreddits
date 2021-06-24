@@ -697,6 +697,7 @@ AskElectronics
 AskEngineers
 AskFeminists
 askgaybros
+AskGaybrosOver30
 AskGayMen
 AskHistorians
 asklatinamerica
@@ -6471,6 +6472,7 @@ Music
 musicals
 MusicBattlestations
 musicmemes
+musicproduction
 musictheory
 muslimgirls
 MuslimLounge
