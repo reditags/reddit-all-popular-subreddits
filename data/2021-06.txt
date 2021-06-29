@@ -353,6 +353,7 @@ ambien
 amcstock
 AMCSTOCKS
 Amd
+AMD_Stock
 AMELAOMORxo
 AmeliaWatson
 americandad
@@ -1877,6 +1878,7 @@ CFL
 Chadposting
 chadsriseup
 Chadtopia
+chaeyoung
 Chainsawfolk
 ChainsawMan
 ChainsawMan34
@@ -7954,6 +7956,7 @@ radiohead
 radioheadcirclejerk
 Radiology
 RaeLilBlack
+ragdolls
 rage
 RaidenMains
 raiders
@@ -8109,6 +8112,7 @@ ReiAyanami
 ReinhardtMains
 relationship_advice
 RelationshipMemes
+religion
 religiousfruitcake
 reloading
 remnantgame
