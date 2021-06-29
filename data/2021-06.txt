@@ -2982,6 +2982,7 @@ dragonball
 dragonballfighterz
 DragonballLegends
 Dragonballsuper
+DragonFruit
 DragonMaid
 dragonquest
 DragonsDogma
@@ -4461,6 +4462,7 @@ hearthstone
 hearthstonecirclejerk
 heartsofiron
 heat
+HeatSignature
 HeavyFuckingWind
 Heavymind
 HeavySeas
