@@ -517,6 +517,7 @@ AskHistorians
 AskMen
 AskNYC
 AskOuija
+AskPhotography
 AskReddit
 AskRedditAfterDark
 askscience
@@ -1168,6 +1169,7 @@ bullybackfire
 Bumble
 buncomfortable
 bundeswehr
+BunniesStandingUp
 burdurland
 burgers
 burlington
@@ -1721,6 +1723,7 @@ criticalblunder
 criticalrole
 Crittersoncapybaras
 croatia
+CrohnsDisease
 cromch
 CroppedNorrisJokes
 croppingishard
@@ -2091,6 +2094,7 @@ dixiedamelio
 DIY
 DIYUK
 dji
+DJs
 DMAcademy
 DMDadJokes
 DnD
@@ -2129,6 +2133,7 @@ dogswithjobs
 Dogtraining
 DojaCatWorship
 DokkanBattleCommunity
+DokkanBattleReddit
 DollyLittle
 Dollywinks
 DomesticGirlfriend
@@ -3353,6 +3358,7 @@ HIMYM
 HinataHyugaHentai
 hinduism
 HipHopGoneWild
+hiphopvinyl
 HistoricalCostuming
 history
 HistoryAnimemes
@@ -6000,6 +6006,7 @@ RoastMyCar
 robac
 RobinHoodPennyStocks
 roblox
+ROBLOXmemes
 robotics
 Rochester
 rock
@@ -6769,6 +6776,7 @@ subnautica
 Subnautica_Below_Zero
 SubredditDrama
 SUBREDDITNAME
+Subrina_Lucia
 SubsIFellFor
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
@@ -7023,6 +7031,7 @@ TheBullWins
 thecatdimension
 TheCatTrapIsWorking
 thechurchofpeanut
+TheCinemassacreTruth
 TheClickOwO
 TheCloneWars
 TheCrownNetflix
@@ -7700,6 +7709,7 @@ u_my_little_secret_9
 u_myclassywife
 u_mylittlechar
 u_Natjane96
+u_naughtynina20
 u_navywild
 u_nebraskawut
 u_NerdKittyOF
