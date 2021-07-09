@@ -12,6 +12,7 @@
 1819club
 18_19
 18nsfw
+18plusGIFs
 1911
 197
 198
@@ -1783,6 +1784,7 @@ Corvette
 corychase
 CoryxKenshin
 Cosmere
+cosmoandwanda
 cosplaybabes
 CosplayBoobs
 cosplaybutts
@@ -1879,6 +1881,7 @@ CrusaderKings
 Crushes
 Crypto_com
 CryptoBoom
+CryptoCurrencies
 CryptoCurrency
 CryptocurrencyICO
 cryptocurrencymemes
@@ -2565,6 +2568,7 @@ es
 EscapefromTarkov
 eshoptokenERC
 esist
+esp8266
 esports
 espresso
 EstateofMomo
@@ -3338,6 +3342,7 @@ gorillaz
 GossipGirl
 goth
 Gotham
+GothamChess
 gothegg
 Gothenburg
 GothGirls
@@ -4268,6 +4273,7 @@ KansasCityChiefs
 Kanye
 Kappa
 KarelyRuiz_OnlyFans
+karen
 karengillan
 Karipapauuu
 KarmaRoulette
@@ -4293,6 +4299,7 @@ KaylaErinCosplay
 KaynMains
 KazuhaMains
 Kazumin
+KDA
 kde
 KDRAMA
 KeanuBeingAwesome
@@ -5072,6 +5079,7 @@ milwaukee
 mina_irl
 Mindfulness
 MindMedInvestorsClub
+Mindustry
 Minecraft
 Minecraftbuilds
 MinecraftChampionship
@@ -5424,6 +5432,7 @@ nhl
 Ni_Bondha
 Nicegirls
 niceguys
+NiceHash
 Nichijou
 Nicki_Minaj
 NicolaCavanis
@@ -5497,6 +5506,7 @@ nope
 NoPixel
 Noragami
 Nordichistorymemes
+NordicMemes
 NorfFc
 norge
 NormalDayInArabia
@@ -5876,6 +5886,7 @@ pelfie
 pelletgrills
 peloton
 pelotonmemes
+penguin
 PenguinOfTheMonth
 penguins
 penis
@@ -6848,6 +6859,7 @@ shitposting
 shitposting_inc
 ShitpostTC
 ShitpostXIV
+ShitRimworldSays
 Shitstatistssay
 Shitty_Car_Mods
 ShittyAnimalFacts
@@ -8414,6 +8426,7 @@ u_olya_bumblebee
 u_onlyrox
 u_Opheliax420
 u_Oscar24686
+u_Own_Intern_8400
 u_Pandaspicexoxo
 u_PandoraNyxie
 u_PantyNectar
@@ -8751,6 +8764,7 @@ VanessaHudgens
 VanLife
 Vaping
 vaporents
+Vaporwave
 VaporwaveAesthetics
 VaushV
 vaxxhappened
@@ -8823,6 +8837,7 @@ VIP142
 VirginGalactic
 Virginia
 virginvschad
+VirtualCosplay
 virtualgeisha
 virtualreality
 Visiblemending
