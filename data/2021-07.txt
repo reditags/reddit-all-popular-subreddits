@@ -8226,6 +8226,7 @@ tailplug
 Taimanin
 taiwan
 Takagi_san
+TakaMori
 TakeaPlantLeaveaPlant
 takerpov
 tales
@@ -8335,6 +8336,7 @@ TeosGame
 TerminallyStupid
 TerrainBuilding
 Terraria
+TerrariaDesign
 TerrariaMemes
 terrariums
 terriblefacebookmemes
