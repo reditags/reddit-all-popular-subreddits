@@ -8119,6 +8119,7 @@ StealthVibes
 Steam
 steam_giveaway
 SteamController
+SteamDeck
 steampunk
 SteamVR
 Steelbooks
