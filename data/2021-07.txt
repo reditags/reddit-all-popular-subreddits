@@ -634,6 +634,7 @@ AskHistorians
 asklatinamerica
 AskMen
 AskNYC
+AskOldPeople
 AskOuija
 AskPhotography
 AskReddit
@@ -3076,6 +3077,7 @@ fashionhistory
 fashionporn
 FashionReps
 fashionsouls
+fastandfurious
 fasting
 FastWorkers
 fatcats
