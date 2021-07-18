@@ -3735,6 +3735,7 @@ gme_capitalists
 gme_meltdown
 GMEJungle
 gmod
+GMR_Finance
 gnome
 Goatparkour
 goats
@@ -5487,6 +5488,7 @@ mangadex
 ManHands
 manhwa
 ManifestNBC
+ManjaroLinux
 ManorLords
 ManufacturingPorn
 ManyATrueNerd
@@ -9851,6 +9853,7 @@ u_TrashBuns
 u_tsaliyahh
 u_TsGisellyAngel
 u_TSJennazz
+u_TsPassionz
 u_TSsally
 u_Tulpina
 u_Turtleramem
