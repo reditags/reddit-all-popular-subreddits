@@ -3509,6 +3509,7 @@ GalaxyWatch
 GalGadot
 Gambiarra
 Gameboy
+GameBuilderGarage
 gamecollecting
 Gamecube
 gamedev
