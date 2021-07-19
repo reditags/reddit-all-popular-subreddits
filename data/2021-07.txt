@@ -124,6 +124,7 @@ ACNHIslandInspo
 acotar
 ACPocketCamp
 ACQR
+ACT
 acting
 ActionFigures
 ActivationSound
@@ -4978,6 +4979,7 @@ KGBTR
 khajiithaswares
 KhaZixMains
 khiphop
+Kibbe
 KidCudi
 KidsAreFuckingEvil
 KidsAreFuckingSmart
