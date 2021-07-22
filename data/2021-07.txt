@@ -2956,6 +2956,7 @@ EmulationOnAndroid
 Emuwarflashbacks
 enamorandonos
 ender3
+endermanbeingjerks
 Endo
 energy
 energydrinks
@@ -4261,6 +4262,7 @@ hockeyplayers
 hoggit
 hoi4
 hoi4modding
+HOKK_Coin
 holdmybeaker
 holdmybraincells
 holdmycatnip
@@ -5035,6 +5037,7 @@ keming
 kendalljenner
 Kendra_Sunderland
 KendraLust
+KendraSpade
 KendrickLamar
 Kengan_Ashura
 KenM
@@ -10468,6 +10471,7 @@ VictoriaBC
 VictoriaJune
 victoriajustice
 victoriamatosaa
+videoessay
 videogamedunkey
 videogames
 videography
