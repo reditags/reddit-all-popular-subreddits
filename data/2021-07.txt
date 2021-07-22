@@ -5642,6 +5642,7 @@ MandyRose
 MangaCollectors
 mangadeals
 mangadex
+MangaMemes
 ManHands
 manhwa
 ManifestNBC
@@ -7253,6 +7254,7 @@ ProgressiveGrowth
 progun
 Project_Wingman
 projectcar
+projecteternity
 projectmanagement
 ProjectMarsFtm
 projectzomboid
@@ -8992,6 +8994,7 @@ TheSimsBuilding
 thesmiths
 thesopranos
 TheSquadOnPoint
+TheStopGirl
 TheStrokes
 theta_network
 thetagang
@@ -10500,6 +10503,7 @@ vintageads
 VintageApple
 vintageaudio
 VintageBabes
+vintagecomputing
 VintageFashion
 VintageFashions
 vintagejapaneseautos
