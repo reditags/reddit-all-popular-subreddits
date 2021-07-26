@@ -2289,6 +2289,7 @@ Cryptocurrency_Daily
 CryptoCurrencyClassic
 CryptocurrencyDEFI
 CryptocurrencyGems
+CryptocurrencyHunt
 CryptocurrencyICO
 cryptocurrencymemes
 CryptoCurrencyTrading
@@ -10400,6 +10401,7 @@ u_Sonia_Sparrow
 u_soogsx
 u_SophiaConstantini
 u_SophiaFlowers85
+u_sophiarosemarie
 u_sophiawebxo
 u_sototally99
 u_SoulCandi
