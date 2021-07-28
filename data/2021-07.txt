@@ -2135,6 +2135,7 @@ ContraPoints
 controlgame
 Conures
 ConvenientCop
+CookieClicker
 cookiedecorating
 Cookierun
 Cooking
@@ -6951,6 +6952,7 @@ oompasubs
 OooBigStretch
 OopsDidntMeanTo
 oopsotherhand
+OOTP
 oots
 openttd
 opossum_irl
@@ -8679,6 +8681,7 @@ sporetraders
 SportingCP
 sports
 sportsarefun
+sportsbetting
 SportsHentai
 spotify
 spotted
@@ -10034,6 +10037,7 @@ u_imawful69
 u_imeneimanou
 u_immiraira
 u_indigoHxney
+u_ineffablejenna2
 u_infatuatedkitty
 u_IngravSrk
 u_inpossibleoreo
