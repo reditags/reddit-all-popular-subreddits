@@ -2209,6 +2209,7 @@ destinyusernames
 DestroyedTanks
 DestructionPorn
 DetailCraft
+detrans
 DeTrashed
 Detroit
 DetroitBecomeHuman
@@ -6944,6 +6945,7 @@ SkirtRiding
 Skookum
 skoolies
 Skullgirls
+SkweezyJibbs
 skyblivion
 SkyChildrenOfLight
 SkyeBlue
@@ -8280,6 +8282,7 @@ u_KloverKay90
 u_kokirifairy_
 u_koosika
 u_korakane
+u_krystaltopaz
 u_KublaiKhunt
 u_laceyisanerd
 u_Lacylubabyy
@@ -8619,6 +8622,7 @@ u_TJD985
 u_TLNGT25
 u_tobinedam
 u_Trappybae
+u_TrashBuns
 u_TravelsOfFluff
 u_Trinityonlyfans
 u_TrueGspot
