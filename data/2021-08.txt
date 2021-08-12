@@ -1419,6 +1419,7 @@ cat
 cataclysmdda
 CatastrophicFailure
 catbellies
+catbongos
 Catbun
 Catculations
 catdimension
@@ -3568,6 +3569,7 @@ HelltakerRule34
 HelluvaBoss
 Helluvabrothel
 hellyvalentine
+help
 HelplessHentai
 HelpMeFind
 Hen_Tai
@@ -4380,6 +4382,7 @@ KitchenConfidential
 Kitler
 kitsunemimi
 KittenMittens
+Kitting
 kittyhasaquestion
 kittykankles
 KittyKlaw
