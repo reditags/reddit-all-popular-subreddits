@@ -7710,6 +7710,7 @@ tea
 Teachers
 teachersgonewild
 TeamfightTactics
+TeamFourStar
 teamliquid
 TeamQuadrant
 TeamSESH
