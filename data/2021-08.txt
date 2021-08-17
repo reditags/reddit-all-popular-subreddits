@@ -130,6 +130,7 @@ ACQR
 ActionFigures
 ActivationSound
 ActLikeYouBelong
+ActualFreakouts
 ActualHippies
 ActualPublicFreakouts
 actuary
@@ -1874,6 +1875,7 @@ CommentAwardsForum
 communism
 CommunismMemes
 community
+CompanyBattles
 CompanyOfHeroes
 CompetitiveApex
 CompetitiveForHonor
@@ -3173,6 +3175,7 @@ france
 FrankOcean
 Frasier
 Frat
+FreakaBritt
 FreckledGirls
 free_market_anarchism
 freebies
@@ -4967,6 +4970,7 @@ LittleNuns
 littlespace
 LittleWitchAcademia
 LiveFromNewYork
+LiveLifeBetter
 Liverpool
 LiverpoolFC
 LivestreamFail
@@ -6116,6 +6120,7 @@ oldschoolhot
 OldSchoolRidiculous
 OldWorldBlues
 OleOut
+OlgaKatysheva
 olgakobzar
 OliviaMunn
 OliviaTaylorDudley
@@ -9945,6 +9950,7 @@ WiggleButts
 wii
 wiiu
 wikipedia
+WikipediaVandalism
 Wilbur
 wildbeef
 WildernessBackpacking
