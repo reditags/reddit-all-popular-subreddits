@@ -1932,6 +1932,7 @@ Cornell
 cornishrex
 coronabr
 Coronavirus
+CoronavirusAustralia
 CoronavirusCA
 CoronavirusColorado
 CoronavirusDownunder
@@ -2267,6 +2268,7 @@ datingoverforty
 datingoverthirty
 DaughterTraining
 dauntless
+David
 davidgoggins
 Davie504
 DaysGone
@@ -5928,6 +5930,7 @@ NovelAi
 noveltranslations
 nowmycat
 nrl
+NSFL_
 NSFL__
 nsfw
 NSFW411
