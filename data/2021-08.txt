@@ -823,6 +823,7 @@ BadMUAs
 badroommates
 badtaxidermy
 badUIbattles
+badvibes
 badwomensanatomy
 BaileyBase
 BaileyJay
@@ -5509,6 +5510,7 @@ MichaelJackson
 MichaelReeves
 Michigan
 MicroBikini
+microbiology
 microbork
 microdosing
 microgrowery
@@ -7655,6 +7657,7 @@ SimsMobile
 Simulated
 singapore
 SingaporeRaw
+singing
 Sino
 Sinvicta
 sips
