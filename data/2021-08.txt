@@ -586,6 +586,7 @@ Art
 artcommissions
 ArtDeco
 ArtefactPorn
+ArtFundamentals
 ArtGW
 ArtHistory
 ArtisanVideos
@@ -3812,6 +3813,7 @@ GroupOfNudeGirls
 GrowingMarijuana
 grumpycats
 grunge
+gso
 GSP_Photos
 GTA
 Gta5Modding
@@ -9266,6 +9268,7 @@ u_Forest_Green91
 u_forestfayee
 u_FoxyRouxie
 u_fraggle_monster
+u_frankiebunnie
 u_freckledspirit
 u_friendlyfrenchie
 u_FuckForeverEver
