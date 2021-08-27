@@ -10487,6 +10487,7 @@ Ubuntu
 ucf
 ucla
 UCONN
+UCSC
 UCSD
 ufc
 ufl
