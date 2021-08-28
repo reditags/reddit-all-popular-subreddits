@@ -2272,6 +2272,7 @@ Crypto_General
 CryptoCurrencies
 CryptoCurrency
 Cryptocurrency_Daily
+CryptoCurrencyClassic
 CryptocurrencyDEFI
 CryptocurrencyGems
 CryptocurrencyHunt
@@ -2903,6 +2904,7 @@ dyinglight
 DylanteroYT
 DynastyFF
 Dyson_Sphere_Program
+E30
 EA_NHL
 earlsweatshirt
 earrumblersassemble
@@ -10312,6 +10314,7 @@ u_skinny_mochi
 u_skinnyebony
 u_skyelikesitrough
 u_skyesoprettyy
+u_slavebc
 u_slaysheslays
 u_SleepyKateSith
 u_slim_ebony_babe
