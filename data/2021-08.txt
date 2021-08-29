@@ -7160,6 +7160,7 @@ plantclinic
 PlantedTank
 PlantGoths
 PlantIdentification
+plantpathology
 plants
 plantsandpots
 PlantsVSZombies
