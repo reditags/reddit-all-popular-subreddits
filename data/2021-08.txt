@@ -3484,6 +3484,7 @@ Forest
 foreverbox
 Forex
 ForFashion
+Forging
 forgottenfilm
 ForgottenWeapons
 ForgotToPullOut
@@ -9315,6 +9316,7 @@ Totaldrama
 totallylookslike
 totallynotrobots
 TOTALLYREALTWEETS
+TotallySpiesNSFW
 totalwar
 totalwarhammer
 touchfluffytail
