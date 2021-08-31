@@ -7462,6 +7462,7 @@ PS5
 PSA
 psg
 PSO2
+PSO2NGS
 PSP
 PSTH
 PSVR
@@ -8968,6 +8969,7 @@ TechNewsToday
 technicallythetruth
 technicallytrue
 technicalminecraft
+Techno
 Technoblade
 technology
 TechNope
@@ -9856,6 +9858,7 @@ u_explicitcherries2
 u_FabulousHorror
 u_fantasykittenxoxo
 u_farysht
+u_fatindianmilkerss
 u_feedmegrapes1
 u_feistylilkitty
 u_festivalfashionista
