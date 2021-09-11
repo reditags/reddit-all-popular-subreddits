@@ -4747,6 +4747,7 @@ memeconvention
 MemeEconomy
 memeframe
 MemeHunter
+memeilliterate
 MemeMan
 MemePiece
 memes
@@ -5486,6 +5487,7 @@ onewheel
 OneyPlays
 onguardforthee
 OnHerKnees
+OnionLovers
 onions
 OnlyFans
 OnlyFans101
@@ -5782,6 +5784,7 @@ Pizza
 PizzaCrimes
 pizzadare
 PKA
+PKMNTCGDeals
 PlanetCoaster
 Planetside
 PlanetZoo
@@ -5947,6 +5950,7 @@ ProCreate
 produce
 productgif
 productivity
+ProductPorn
 Professors
 progmetal
 ProgrammerAnimemes
@@ -8424,6 +8428,7 @@ UBC
 UberEATS
 Ubiquiti
 ubius
+UCalgary
 ucf
 UCI
 ucla
