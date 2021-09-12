@@ -1624,6 +1624,7 @@ civ
 civ5
 CivVI
 CK2GameOfthrones
+clankamemes
 ClashOfClans
 ClashRoyale
 ClassicalLibertarians
@@ -6305,6 +6306,7 @@ Ratorix
 RATS
 RavenLoso
 ravens
+rawdenim
 razer
 razorbacks
 RazorMains
@@ -7341,6 +7343,7 @@ synthesizers
 sysadmin
 Sysadminhumor
 systemofadown
+SystemsCringe
 taboofans
 tacobell
 tacticalgear
@@ -7462,6 +7465,7 @@ terriblefandommemes
 teslainvestorsclub
 TeslaLounge
 TeslaModel3
+TeslaModelY
 teslamotors
 TessaFowler
 Texans
@@ -8783,6 +8787,7 @@ unket
 unlikelyfriends
 UnnecessaryInventions
 unOrdinary
+UnpopularFacts
 unpopularopinion
 unrealengine
 UnresolvedMysteries
