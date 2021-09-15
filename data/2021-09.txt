@@ -1672,6 +1672,7 @@ ChurchOfTifa
 chutyapa
 chuunibyou
 CICO
+CieloSaldivarMIPriv
 cigars
 cincinnati
 CindyKimberly
@@ -3954,6 +3955,7 @@ Images
 ImaginaryAnimals
 ImaginaryArchitecture
 ImaginaryArmor
+ImaginaryAstronauts
 ImaginaryAww
 ImaginaryBehemoths
 ImaginaryBending
@@ -7359,6 +7361,7 @@ SpongebobMemes
 spook_irl
 spooktober
 Spore
+SportingCP
 sports
 sportsarefun
 sportsbook
