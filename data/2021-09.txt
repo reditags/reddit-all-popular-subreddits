@@ -1165,6 +1165,7 @@ BonerAlert
 BonerMaterial
 BonersInPublic
 boneworks
+BonfireToken
 boniver
 BONKpatrol
 bonnaroo
@@ -3521,6 +3522,7 @@ grilledcheese
 grilling
 Grimdank
 Grimes
+GriseldaxFR
 Grishaverse
 grool
 GropingGifs
@@ -4877,6 +4879,7 @@ lostpause
 lostredditors
 lotr
 LOTR_on_Prime
+LOTRholygrailmemes
 lotrmemes
 LouderWithCrowder
 Louisiana
