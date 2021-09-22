@@ -2308,6 +2308,7 @@ Daytrading
 dayz
 dbdgonewild
 dbfz
+dbxv
 dbz
 DBZDokkanBattle
 DC_Cinematic
@@ -3012,6 +3013,7 @@ FemaleDatingStrategy
 femalehairadvice
 FemaleLevelUpStrategy
 femalelivingspace
+femalepov
 femboy_irl
 FemboyHentai
 femboyhooters
@@ -7547,6 +7549,7 @@ shittyaquariums
 Shittyaskflying
 shittyaskscience
 shittybattlestations
+shittycoolguides
 ShittyDaystrom
 shittyfoodporn
 Shittygamecollecting
