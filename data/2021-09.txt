@@ -6040,6 +6040,7 @@ NieceWaidhofer
 nier
 NieRAutomataGame
 NieRReincarnation
+nietdespeld
 NightInTheWoods
 NightLords
 nightmarefuel
@@ -10020,6 +10021,7 @@ unexpectedpawnee
 unexpectedsabaton
 UnexpectedSCP
 unexpectedskyrim
+unexpectedsongs
 UnexpectedTF2
 UnexpectedThanos
 UnexpectedThugLife
