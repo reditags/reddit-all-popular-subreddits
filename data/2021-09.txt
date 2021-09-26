@@ -2397,6 +2397,7 @@ DBZDokkanBattle
 DC_Cinematic
 DCAU
 DCcomics
+DCDoomPatrol
 DCEUleaks
 DDintoGME
 DDLC
@@ -5402,6 +5403,7 @@ malaysia
 Malazan
 malcolminthemiddle
 MaleArmpits
+malehairadvice
 malelivingspace
 MalenaMorgan
 malepubes
