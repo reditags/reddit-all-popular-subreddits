@@ -1454,6 +1454,7 @@ BUENZLI
 Buffalo
 buffalobills
 buffy
+BugFables
 bugout
 buildapc
 buildapcsales
@@ -3109,6 +3110,7 @@ FantasticDays
 Fantasy
 Fantasy_Football
 Fantasy_NSFW
+fantasybball
 fantasyfootball
 FantasyGirls
 FantasyPL
@@ -8915,6 +8917,7 @@ ThrobbingCIM
 ThroughTheFly
 thumbcats
 Thunder
+ThunderThots
 thurstonwaffles
 TibiaMMO
 Tierzoo
@@ -11056,6 +11059,7 @@ ZanClan
 Zannyvids
 ZargoryanGalaksisi
 ZBrush
+ZeducationSubmissions
 zelda
 ZeldaIsCute
 Zeldass
