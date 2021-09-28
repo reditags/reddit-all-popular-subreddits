@@ -4981,6 +4981,7 @@ kittykankles
 KittyKlaw
 KittyPupperLove
 KittyTailWrap
+KKVSHPLUG
 KleeMains
 Klengan
 KneadyCats
@@ -9193,6 +9194,7 @@ TwoXChromosomes
 TwoXIndia
 twrmod
 twunks
+TXoutdoors
 tyingherhairup
 tylerthecreator
 typemoon
@@ -10363,6 +10365,7 @@ Unexpectedhermitcraft
 unexpectedhogwarts
 unexpecteditcrowd
 UnexpectedJoJo
+UnexpectedLetterkenny
 UnexpectedlyWholesome
 unexpectedMontyPython
 UnexpectedMulaney
@@ -10950,6 +10953,7 @@ Xev_Bellringer
 XFiles
 XiaoMains
 xkcd
+xlightmoon
 xlightmoonx
 xmen
 xqcow
