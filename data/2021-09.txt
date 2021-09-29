@@ -1522,6 +1522,7 @@ cactus
 CadeyMercury
 cadum
 CaesarsWorld
+CaesarsWorld2
 CafeRacers
 CAguns
 cakeday
@@ -3757,6 +3758,7 @@ glitchtaleofficial
 GlobalOffensive
 Glocks
 Gloomhaven
+GloriousSunRays
 GloriousTomBombadil
 Gloryhammer
 GloryHo
