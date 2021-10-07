@@ -465,6 +465,7 @@ ask
 AskAnAmerican
 AskBalkans
 AskCulinary
+AskDocs
 AskEngineers
 askgaybros
 AskHistorians
@@ -612,6 +613,7 @@ bakhar
 Baking
 bakingfail
 BaldursGate3
+balisong
 ballpython
 Balls
 ballsucking
@@ -2259,6 +2261,7 @@ FallenOrder
 FallGuysGame
 Fallout
 fallout76settlements
+falloutlore
 FalloutMemes
 FalloutMods
 falloutnewvegas
@@ -4073,6 +4076,7 @@ MandJTV
 MandyMuse
 MandyRose
 MangaCollectors
+MangaMemes
 manhwa
 ManyATrueNerd
 Maplestory
@@ -5278,6 +5282,7 @@ PrimeiraLiga
 PrincessesOfPower
 PrintedMinis
 Prinz_Eugen
+Prismatika
 privacy
 privacytoolsIO
 prochoice
@@ -7975,6 +7980,7 @@ xqcow
 xsmallgirls
 Xsome
 xxCaptions
+xxfitness
 xxxcaptions
 XXXTENTACION
 YaeMiko
@@ -7984,6 +7990,7 @@ yakuzagames
 YAlit
 yandere
 YandereHentai
+YanfeiMains
 YangForPresidentHQ
 yaoi
 Yaoi_IRL
