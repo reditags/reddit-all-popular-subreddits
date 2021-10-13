@@ -1092,6 +1092,7 @@ bottomgear
 Bottomless
 botw
 BOTW2
+boulder
 bouldering
 bourbon
 bowhunting
@@ -1605,6 +1606,7 @@ CodeGeass
 codevein
 coding
 CodiVore
+CODVanguard
 CODWarzone
 codyko
 CODZombies
@@ -3622,6 +3624,7 @@ howtonotgiveafuck
 howyoudoin
 HPHogwartsMystery
 httyd
+Hue
 Huebi
 HUEstation
 hugeasses
@@ -6162,6 +6165,7 @@ Re_Zero
 reactiongifs
 ReactionMemes
 reactionpics
+reactivedogs
 reactjs
 readanotherbook
 RealAhegao
