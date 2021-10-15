@@ -2354,6 +2354,7 @@ DragonballLegends
 Dragonballsuper
 DragonMaid
 dragonquest
+dragons
 dragonutopia
 Dragula
 DrakeTheType
@@ -7460,6 +7461,7 @@ SyndiesUnited
 synthesizercirclejerk
 synthesizers
 sysadmin
+Sysadminhumor
 systemofadown
 tacobell
 tacticalgear
