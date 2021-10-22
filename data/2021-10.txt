@@ -1523,6 +1523,7 @@ CatsCalledFood
 catscarryingstuffies
 CatsEnjoyingPets
 catshuggingcats
+catsinboxes
 CatsInBusinessAttire
 catsinpants
 CatsInSinks
@@ -6048,6 +6049,7 @@ NSFWarframe
 NSFWBarista
 nsfwcelebs
 nsfwcosplay
+NSFWCostumes
 NsfwCrave
 nsfwcyoa
 NSFWfashion
@@ -7102,6 +7104,7 @@ RoomPorn
 roosterteeth
 RosaFucks
 RosariaNSFW
+rose
 RoseMonroe
 rosesarered
 RotMG
@@ -9948,6 +9951,7 @@ videogamedunkey
 videography
 videomemes
 videos
+ViegoMains
 VietNam
 ViewPorn
 vikingstv
@@ -10394,6 +10398,7 @@ yinyleon
 YMS
 ynab
 yo_ctm
+yo_elvr
 YogaPants
 Yoimiya_Mains
 Yointerneto
