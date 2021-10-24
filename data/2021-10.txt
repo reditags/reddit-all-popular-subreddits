@@ -810,6 +810,7 @@ bakeoff
 bakhar
 Baking
 bakingfail
+bald
 baldursgate
 BaldursGate3
 balisong
