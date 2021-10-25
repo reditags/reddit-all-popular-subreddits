@@ -4089,6 +4089,7 @@ HoleWreckers
 HollowKnight
 HollowKnightArt
 HollowKnightMemes
+HOLO
 Hololewd
 Hololive
 HololiveHentai
@@ -4307,6 +4308,7 @@ ImaginaryCyberpunk
 ImaginaryDarkSouls
 ImaginaryDemons
 ImaginaryDragons
+ImaginaryDwellings
 imaginaryelections
 ImaginaryElementals
 ImaginaryElves
@@ -7945,6 +7947,7 @@ sophieturner
 SophiiaDiamond
 SorakaMains
 soulcrushingjuice
+souleater
 SoulKnight
 Soulnexus
 SoulSnacks
@@ -9499,6 +9502,7 @@ u_luliloove
 u_LullabyClub
 u_lunabaylee
 u_lunafourth
+u_LunaX_GW
 u_Lydiagh0st
 u_lyellgirl
 u_Lynnzertart1
