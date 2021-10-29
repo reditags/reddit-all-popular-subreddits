@@ -2134,6 +2134,7 @@ CreateMod
 CreditCards
 CreedThoughts
 creepy
+creepyanimalcrossing
 CreepyArt
 creepyasterisks
 creepydesign
@@ -6283,6 +6284,7 @@ niceguys
 NiceHash
 Nichijou
 Nicki_Minaj
+NickiiTheBossLLC
 NicolaCavanis
 nicoleaniston
 nicolebun
@@ -6690,6 +6692,7 @@ Osana
 OshiNoKo
 oslo
 osp
+OstrichPlug
 OSU
 osubuddyretard
 osugame
@@ -7024,6 +7027,7 @@ pokemon
 Pokemonart
 pokemongo
 pokemongobrag
+PokemonGoFriends
 PokemonHentai_
 PokemonLetsGo
 PokemonMasters
