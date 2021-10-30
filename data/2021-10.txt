@@ -6978,6 +6978,7 @@ PhoenixSC
 PhonesAreBad
 photocritique
 photographs
+Photojournalist
 photoshop
 photoshopbattles
 PhotoshopRequest
