@@ -6478,6 +6478,7 @@ NovaWinters
 noveltranslations
 nowaytoday
 nowmycat
+NPC_irl
 NPR
 nrl
 NSFL__
@@ -6780,6 +6781,7 @@ outofcontextcomics
 OutOfTheLoop
 outrun
 outside
+OutsideLands
 overclocking
 overlanding
 overlord
@@ -9869,6 +9871,7 @@ u_lildaisymayy
 u_lilgigibelle
 u_lilglitterbitch
 u_Lillieinlove
+u_lillith-lethya
 u_lilly_vanilli
 u_LillySpunk
 u_lillyvig
