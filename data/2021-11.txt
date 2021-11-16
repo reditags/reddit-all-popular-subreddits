@@ -473,6 +473,7 @@ AppalachianTrail
 AppHookup
 apple
 AppleMusic
+appletv
 AppleWatch
 ApplyingToCollege
 AquaLewds
@@ -1624,6 +1625,7 @@ chile
 China
 China_irl
 chinchilla
+ChineseLanguage
 Chinesium
 Chiraqology
 Chivalry2
@@ -3615,6 +3617,7 @@ Halloween_Costumes
 HalloweenHardcore
 Halloweenmovies
 halo
+haloinfinite
 HaloMemes
 HaloStory
 hamiltonmemes
@@ -7126,6 +7129,7 @@ ShitCrusaderKingsSay
 ShitJamesSays
 ShitKonfaSays
 ShitLiberalsSay
+ShitLibSafari
 ShitMomGroupsSay
 ShitPoliticsSays
 shitpostbound
@@ -8613,6 +8617,7 @@ u_gigii517
 u_GigiLaurelle
 u_ginger_knickers
 u_Ginger_Spinner
+u_girlgoldenface
 u_girlstory
 u_glamzmel
 u_GodddessLuna
@@ -8716,6 +8721,7 @@ u_jjade_23
 u_Jocelynbaker
 u_joshlikesmoney
 u_JSU23
+u_Jugsbunny1
 u_JuicyPinaypple
 u_Julia_zuzu
 u_julianaferrara
@@ -9344,6 +9350,7 @@ u_Zoe_bb11
 u_zoey_bambi
 u_zuki3
 UBC
+UberEATS
 Ubiquiti
 ubius
 Ubuntu
