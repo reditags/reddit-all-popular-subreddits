@@ -608,6 +608,7 @@ askcarsales
 AskCulinary
 AskDocs
 AskElectronics
+AskEngineers
 askgaybros
 AskGayMen
 AskHistorians
@@ -866,6 +867,7 @@ battlemaps
 BattleNetwork
 battlestations
 battletech
+battlewagon
 batty
 bayarea
 Bayonetta
@@ -941,6 +943,7 @@ belowdeck
 beltalowda
 BeMesmerized
 Ben10
+Ben10r34
 bending
 BendyAndTheInkMachine
 bengalcats
@@ -2771,6 +2774,7 @@ emiru
 EmKay
 EmmaStone
 EmmaWatsonBum
+EmmaWatsonHot
 EmmyRossum
 Emo
 emogirls
@@ -5112,6 +5116,7 @@ lovejoyband
 LoveLive
 LovelyMimi2
 LoveNikki
+low_poly
 LowAltitudeJets
 LowKarmaNSFW
 LowkeyThickness
@@ -5241,6 +5246,7 @@ mapmaking
 MapPorn
 mapporncirclejerk
 Maps
+mapswithoutnewzealand
 MapsWithoutNZ
 MapsWithoutTasmania
 marcela_amq
@@ -5490,6 +5496,7 @@ Milking
 milkingtable
 MillieBobbyBrown2
 MillionaireGrindset
+millionairemakers
 milwaukee
 mina_irl
 MinaAshidoHentai
@@ -7343,6 +7350,7 @@ serbiancringe
 serialkillers
 seriouseats
 Serverlife
+SesameStreetMemes
 settmains
 seventeen
 SewayakiKitsune
@@ -7825,6 +7833,7 @@ SrGrafo
 SRGroup
 srilanka
 SS13
+SSBBWadmirer
 SSBM
 SsethTzeentach
 sskfjkhwerjkghwerijh
@@ -10028,12 +10037,14 @@ VictorianEra
 vidaguerra
 videogamedunkey
 videogames
+videography
 videomemes
 videos
 VietNam
 ViewPorn
 VikiOdintcova
 Vikkstar123
+viktormains
 VillagePorn
 vim
 VinaSky
@@ -10489,6 +10500,7 @@ YouTubersGoneWild
 YuB
 yugioh
 YuGiOhMemes
+YukariAkiyama
 Yukinoshitayukino
 yuna
 yunyun
