@@ -364,6 +364,7 @@ AnAttemptWasMade
 Anbennar
 anchorage
 AnchovyAtAnzio
+ancientgreece
 Ancientknowledge
 ancientpics
 ancientrome
@@ -2483,6 +2484,7 @@ Deusex
 Deuxmoi
 DevilMayCry
 devils
+devinbrugman
 Dewlap
 Dexter
 DGDAG
@@ -10158,6 +10160,7 @@ USC
 UselessCrypto
 uselessnobody
 uselessredcircle
+usernamechecksou
 UsernameChecksOut
 USMC
 usmnt
@@ -10742,6 +10745,7 @@ yurucamp
 YuShinoda
 yuumimains
 YuYuHakusho
+YuzuPyon
 yvonnestrahovski
 ZackStreetBets
 ZanClan
