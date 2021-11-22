@@ -140,6 +140,7 @@ ACQR
 acting
 ActionFigures
 ActivationSound
+ActiveMeasures
 ActLikeYouBelong
 ActualFreakouts
 ActualHippies
@@ -6229,6 +6230,7 @@ nsfwcyoa
 NSFWfashion
 NSFWFunny
 NSFWgaming
+NSFWGirl
 nsfwhardcore
 nsfwoutfits
 nsfwpage
@@ -6425,6 +6427,7 @@ oompasubs
 OooBigStretch
 oops
 oopsotherhand
+Open_Holes
 opensea
 opensource
 openttd
@@ -10314,6 +10317,7 @@ vexillologycirclejerk
 vexmains
 veYakinEvren
 vgb
+VGC
 VHS
 Vicky_Aisha
 victoria2
