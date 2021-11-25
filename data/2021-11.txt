@@ -8308,6 +8308,7 @@ stateofMN
 steak
 Stealthbombers
 Steam
+steamdeals
 SteamDeck
 steampunk
 Steelbooks
@@ -8496,6 +8497,7 @@ swrpg
 swtor
 SWTOR_memes
 Syanne
+SybilA
 sydney
 SydneySweeney
 SympatheticMonsters
