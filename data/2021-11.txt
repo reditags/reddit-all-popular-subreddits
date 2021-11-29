@@ -905,6 +905,7 @@ baseballcards
 BasicIncome
 basketballcards
 Bass
+basset
 bassethounds
 bassfishing
 BassGuitar
@@ -925,6 +926,7 @@ BattlefrontMemes
 BattleJackets
 battlemaps
 BattleNetwork
+battles2
 battlestations
 battletech
 battlewagon
@@ -1102,6 +1104,7 @@ bih
 bikecommuting
 bikepacking
 Bikeporn
+bikesgonewild
 BikiniBodies
 BikiniBottomTwitter
 BillBurr
@@ -5812,6 +5815,7 @@ meltyblood
 MelvorIdle
 meme
 Meme_Battles
+MemeAlleyway
 memecoinmoonshots
 MemeEconomy
 memeframe
@@ -7829,6 +7833,7 @@ samespecies
 samharris
 SamONellaAcademy
 samoyeds
+samsung
 SamsungGirlr34
 samuraijack
 sanandreas
