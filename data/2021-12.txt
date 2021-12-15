@@ -296,6 +296,7 @@ AMCsAList
 amcstock
 AMCSTOCKS
 Amd
+AMD_Stock
 AmeliaWatson
 AmerExit
 americandad
@@ -2253,6 +2254,7 @@ denisemski
 Denmark
 DenseGifs
 DenverBroncos
+DenverCirclejerk
 denvernuggets
 Depop
 depression_memes
@@ -4287,6 +4289,7 @@ JazlynRay
 Jazz
 jazzcirclejerk
 Jcole
+JCSCriminalPsychology
 JDM
 JeanMains
 jedifallenorder
@@ -8457,6 +8460,7 @@ u_chunkynymph
 u_chyl_music
 u_citcalagretni
 u_Cjay72915
+u_ClaireClermont
 u_Clarayours
 u_cleoheart
 u_Cocobaby_11
@@ -8695,6 +8699,7 @@ u_jadescorner8086
 u_jadevowofficial
 u_JaneLane999
 u_jannahho
+u_JannetIncosplay
 u_JannetKat99
 u_Jasmine_Erotica
 u_jasminxof
