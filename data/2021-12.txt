@@ -863,6 +863,7 @@ bdsm
 BDSMAdvice
 BDSMcommunity
 BDSMGW
+bdsmmemes
 BeachCity
 beadsprites
 beagle
@@ -3681,6 +3682,7 @@ halo
 HaloCirclejerk
 haloinfinite
 HaloMemes
+HaloOnline
 HaloStory
 Hamilton
 hamiltonmemes
@@ -4513,6 +4515,7 @@ Kaiserreich
 KaIT
 kaleycuoco
 KalinkaFox
+kaliroses
 KamenRider
 KamikazeByWords
 KanojoMoKanojo
@@ -7339,6 +7342,7 @@ shubreddit
 Shunbun
 shutthefuckupelon
 ShutUp_and_FUCK
+shutuphapydog
 ShuumatsuNoValkyrie
 Siamesecats
 Sidemen
@@ -9896,6 +9900,7 @@ watcherentertainment
 Watches
 Watchexchange
 WatchItForThePlot
+WatchJazzy
 Watchmen
 WatchPeopleDieInside
 watchpeoplesurvive
