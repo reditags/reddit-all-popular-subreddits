@@ -599,6 +599,7 @@ AskMen
 AskNYC
 AskOldPeople
 AskOuija
+AskPhotography
 AskReddit
 AskRedditAfterDark
 askscience
@@ -6962,6 +6963,7 @@ russian
 rutgers
 rva
 RVLiving
+rvnxmango
 RWBY
 RWBYNSFW
 RX7
