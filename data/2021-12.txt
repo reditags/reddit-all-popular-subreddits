@@ -2474,6 +2474,7 @@ DNFDuel
 DoA_Rule34
 Doberman
 DobermanPinscher
+DoctorMike
 doctorwho
 DoctorWhumour
 Documentaries
@@ -8610,6 +8611,7 @@ tspee
 tsperfection
 Tsukihime
 TsundereSharks
+TsundereShips
 Tubbo_
 TubbyTuxes
 tuckedinfishies
