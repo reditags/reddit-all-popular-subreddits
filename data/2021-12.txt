@@ -536,6 +536,7 @@ areTheAllosOK
 aretheNTsokay
 Argaming
 argentina
+ArgentinaBenderStyle
 ArianaGrande
 ArianaGrandeAss
 arianamarie
@@ -2753,6 +2754,7 @@ ElvenInspiration
 emacs
 EmbarrassedHentai
 Embroidery
+emergencymedicine
 EmiliaClarke
 Emily_Lynne
 EmilyBloom
@@ -4290,6 +4292,7 @@ ImaginaryMindscapes
 ImaginaryMonsterGirls
 ImaginaryMonsters
 ImaginaryMythology
+ImaginaryNecronomicon
 ImaginaryNobles
 ImaginaryPathways
 ImaginaryScholars
@@ -7543,6 +7546,7 @@ shioritsukada
 ShirinDavid
 shitcoinmoonshots
 ShitcoinStreet
+ShitCosmoSays
 ShitCrusaderKingsSay
 shitduolingosays
 ShitHaloSays
@@ -8741,6 +8745,7 @@ turkishchicks
 turtle
 turtleswithjobs
 TuxedoCats
+TV_Remix
 TVDetails
 TVGRYpl
 TVTooHigh
@@ -10472,6 +10477,7 @@ Wiseposting
 Witch
 witcher
 Witcher3
+WitcherMemes
 WitchesVsPatriarchy
 WithoutThePunchline
 Wizard101
