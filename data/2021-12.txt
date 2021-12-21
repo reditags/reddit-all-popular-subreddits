@@ -847,6 +847,7 @@ bartenders
 baseball
 baseballcards
 BasicBulletJournals
+BasicIncome
 basketballcards
 Bass
 bassethounds
@@ -1303,6 +1304,7 @@ breathinginformation
 BreeCandaceWestbrooks
 Breeding
 BreedingMaterial
+BrendaVanessa
 bridezillas
 BridgetteB
 BrieLarson
@@ -2127,6 +2129,7 @@ Cursed_Images
 cursed_videomemes
 CursedAds
 cursedcomments
+CursedCommentsComment
 cursedcursedcomments
 cursedfoods
 Cursedgunimages
@@ -8823,6 +8826,7 @@ u_audreylovessadie
 u_auroraangel20
 u_Aussieava1
 u_AutumnGoddess81
+u_avaclairexx
 u_avanicks
 u_AvaShade
 u_AzalyaStar
