@@ -2968,6 +2968,7 @@ FallenOrder
 FallGuysGame
 Fallout
 fallout76settlements
+FallOutBoy
 falloutlore
 FalloutMemes
 FalloutMods
