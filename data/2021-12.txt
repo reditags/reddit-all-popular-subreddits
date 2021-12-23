@@ -1995,6 +1995,7 @@ CorporateFacepalm
 Corridor
 Corsair
 Corvette
+corvids
 corychase
 CoryxKenshin
 Cosmere
@@ -6612,6 +6613,7 @@ PenisAwe
 PenmanshipPorn
 Pennsylvania
 pennystocks
+penspinning
 PeopleAreFckinStupid
 PeopleBeingJerks
 PeopleFuckingDying
