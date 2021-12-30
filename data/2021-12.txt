@@ -936,6 +936,7 @@ battlefield2042
 battlefield_4
 battlefield_one
 BattlefieldV
+BattlefrontMemes
 BattleJackets
 battlemaps
 battles2
@@ -7022,6 +7023,7 @@ Persona5
 PersonalFinanceCanada
 PersonalFinanceNZ
 perth
+perth_get_naughty
 Perthgirls
 pesmobile
 pessimismmemes
