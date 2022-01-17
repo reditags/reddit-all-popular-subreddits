@@ -600,6 +600,7 @@ AskOuija
 AskReddit
 askscience
 AskScienceFiction
+AskSF
 askSingapore
 askteenboys
 AskThe_Donald
@@ -3521,6 +3522,7 @@ Goldendoodles
 goldenretriever
 goldenretrievers
 GoldenSun
+GoldenTime
 golf
 Golf_R
 GolfGTI
@@ -4283,6 +4285,7 @@ intermittentfasting
 International
 internet_funeral
 InternetCommentEtiq
+InternetHistorian
 InternetIsBeautiful
 internetparents
 inthenews
@@ -8058,6 +8061,7 @@ TheDarkTower
 thedavidpakmanshow
 TheDepthsBelow
 thedivision
+TheDollop
 TheDonaldTrump2024
 thedoorscirclejerk
 TheDragonPrince
