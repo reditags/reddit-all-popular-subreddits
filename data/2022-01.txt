@@ -2107,6 +2107,7 @@ cuddleroll
 CuddlyKitties
 CulinaryPlating
 CultOfEchidna
+CultofMorganLeFay
 CultureImpact
 cum
 cumarmy
@@ -5621,6 +5622,7 @@ modeltrains
 moderatepolitics
 Modern_Family
 ModernAncientWarriors
+ModernMagic
 modernwarfare
 ModestMouse
 moedred
@@ -5801,6 +5803,7 @@ NamFlashbacks
 NamiMains
 NanatsunoTaizai
 Nancy_A
+NANIKPosting
 Nanny
 nanocurrency
 NapoleonicWarMemes
@@ -10057,6 +10060,7 @@ vtmb
 vultureculture
 VyvanLe
 W2S
+WA_guns
 WackyTicTacs
 waifubartending
 WaifusOnCouch
@@ -10155,6 +10159,7 @@ WeirdFlexButOK
 weirdvideosfor3am
 WeirdWheels
 WeirdWings
+WelcomeToPlathville
 Welding
 Wellington
 Wellthatsucks
