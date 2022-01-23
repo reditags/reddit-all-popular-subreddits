@@ -866,6 +866,7 @@ battlefield2042
 battlefield_4
 battlefield_one
 BattlefieldV
+BattleForDreamIsland
 BattlefrontMemes
 BattleJackets
 battlemaps
