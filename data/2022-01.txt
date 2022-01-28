@@ -1547,6 +1547,7 @@ canadaguns
 canadahousing
 canadaleft
 CanadaPolitics
+CanadaSoccer
 CanadianForces
 CanadianInvestor
 canberra
@@ -8218,6 +8219,7 @@ SoGoodtoBeDrawn
 solana
 solar
 solarpunk
+Solo_Girls
 sololeveling
 solotravel
 SomeOrdinaryGmrs
@@ -8831,6 +8833,7 @@ TheMandalorianTV
 TheMandemNP
 TheMemersClub
 TheMonkeysPaw
+THEMONUMENTMYTHOS
 themummymemes
 thenetherlands
 TheNightFeeling
