@@ -6343,6 +6343,7 @@ NewPatriotism
 NewRoryNMalPodcast
 news
 newsbloopers
+newsentences
 NewSkaters
 NewsOfTheStupid
 newtothenavy
@@ -10948,6 +10949,7 @@ Weird
 weird_porn
 weirdal
 weirdcore
+WeirdEggs
 WeirdFlexButOK
 weirdvideosfor3am
 WeirdWheels
