@@ -266,6 +266,7 @@ AnimalsBeingLoveable
 AnimalsBeingMoms
 AnimalsBeingSleepy
 animalsdoingstuff
+AnimalsMonching
 Animalsthatlovemagic
 AnimalTextGifs
 animation
@@ -2782,6 +2783,7 @@ illegallybigcats
 IllegallySmol
 illegallysmolanimals
 illegallysmolbirbs
+IllegallySmolBunnies
 IllegallySmolCats
 IllegallySmolDogs
 illnessfakers
@@ -4512,6 +4514,7 @@ pune
 PunishingGrayRaven
 punk
 PunkGirls
+PunkMacarroniXXX
 PunkMemes
 Punny
 PunPatrol
