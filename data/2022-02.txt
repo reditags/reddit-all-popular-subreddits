@@ -1617,6 +1617,7 @@ CommentAwardsForum
 CommunismMemes
 community
 CompanyBattles
+CompanyOfHeroes
 CompetitiveApex
 CompetitiveForHonor
 CompetitiveHalo
@@ -2746,6 +2747,7 @@ fresno
 FreyaAllan
 FridayNightFunkin
 fridaynightfunkinporn
+FridayNightHighJinks
 friendlyarchitecture
 friendlyjordies
 FriendsGoneWild
@@ -4203,6 +4205,7 @@ legsup
 lekkerspelen
 Lela_Star
 LEMMiNO
+lemondemon
 Lena_The_Plug
 LenaPaul
 leopardgeckos
@@ -4585,6 +4588,7 @@ Memes_Of_The_Dank
 memesdecentralises
 memesITA
 MemeSmiet
+MemesOfPower
 memesopdidntlike
 memeuniverse
 MemeVideos
@@ -7058,6 +7062,7 @@ The_Leftorium
 The_Mueller
 THE_PACK
 TheAdventureZone
+TheArcana
 TheAstraMilitarum
 thebadbatch
 TheBatmanFilm
@@ -8270,6 +8275,7 @@ Unexpected
 UnexpectedAvatar
 unexpectedbillwurtz
 unexpectedcommunism
+unexpectedfuturama
 unexpectedhogwarts
 UnexpectedJoJo
 UnexpectedLetterkenny
