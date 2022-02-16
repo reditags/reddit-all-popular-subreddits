@@ -3197,6 +3197,7 @@ gis
 GisellelynetteBackup
 givemeinteligens
 glasgow
+glitch_art
 Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
@@ -6902,6 +6903,7 @@ skyrimvr
 slammywhammies
 SlapHerFace
 slaythespire
+SleepingCats
 Sleepycabin
 slightcellulite
 SlimandStacked
