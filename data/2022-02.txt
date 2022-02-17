@@ -310,6 +310,7 @@ AMG
 amibeingdetained
 Amigurumi
 amihot
+amiibo
 AmITheAngel
 AmItheButtface
 AmITheDevil
@@ -1892,6 +1893,7 @@ CryptidDogs
 Crypto_com
 CryptoCurrency
 CryptocurrencyGems
+CryptocurrencyICO
 cryptocurrencymemes
 CryptoGemDiscovery
 Cryptomains
@@ -3634,6 +3636,7 @@ HollowKnight
 HollowKnightArt
 HollowKnightMemes
 HollyMichaels
+HOLO
 Hololewd
 Hololive
 HololiveLewds
@@ -4888,6 +4891,7 @@ meatcrayon
 MechanicAdvice
 mechanical_gifs
 Mechwarrior5
+mediamanipulation
 MedicalGore
 Medievalart
 MedievalCats
@@ -6697,6 +6701,7 @@ ScottishPeopleTwitter
 ScottPilgrim
 scottthewoz
 SCP
+SCPMemes
 SCPSecretLab
 ScrapMechanic
 Scream
@@ -6786,6 +6791,7 @@ SFWRedheads
 sfx
 SGExams
 SgGoneWild
+shadowofmordor
 Shadowrun
 ShaeSummers
 Sham_Sharma_Show
