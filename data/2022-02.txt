@@ -1639,6 +1639,7 @@ civilengineering
 CivVI
 CK3AGOT
 ckm_official
+ClashMini
 ClashOfClans
 ClashRoyale
 classicalmusic
