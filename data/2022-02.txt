@@ -1920,6 +1920,7 @@ CryptoMarkets
 CryptoMars
 CryptoMarsShots
 CryptoMoon
+CryptoMoonCoins
 CryptoMoonShots
 cryptostreetbets
 Crystals
@@ -2327,6 +2328,7 @@ dogpictures
 dogs
 dogs_getting_dogs
 DogsAndPlants
+Dogsbeingderps
 dogslookingdown
 DogsLoversCommunity
 DogsMirin
@@ -4444,6 +4446,7 @@ KrissyLynn
 kristenbell
 kristenstewart
 KristyBlack
+krita
 ksi
 KSPMemes
 KSU
@@ -5025,6 +5028,7 @@ metalworking
 metro
 Metroid
 Metroid34
+metroidvania
 mew_irl
 Mexicana
 Mexicancocks
@@ -5521,6 +5525,7 @@ Nio
 Nioh
 Nipples
 Nirvana
+njpw
 NLSSCircleJerk
 NMSCoordinateExchange
 NMSGalacticHub
