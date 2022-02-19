@@ -7303,6 +7303,7 @@ steak
 Stealthbombers
 StealthVibes
 Steam
+steam_giveaway
 SteamDeck
 SteamedHams
 SteamReviews
