@@ -1453,6 +1453,7 @@ Catswhoyell
 CatsWithDogs
 Catswithjobs
 CatTaps
+cattax
 CaughtPublic
 causticmains
 Cawwsplay
@@ -3913,6 +3914,7 @@ ImaginaryTamriel
 ImaginaryTechnology
 ImaginaryUndead
 ImaginaryWarhammer
+ImaginaryWeather
 ImaginaryWesteros
 ImaginaryWitcher
 ImaginaryWitches
@@ -7312,6 +7314,7 @@ Steam
 steam_giveaway
 SteamDeck
 SteamedHams
+steampunk
 SteamReviews
 SteamVR
 Steelbooks
@@ -7961,6 +7964,7 @@ treesgonewild
 TreesSuckingOnThings
 Treknobabble
 tretinoin
+triathlon
 TributeMe
 trippinthroughtime
 trippy
