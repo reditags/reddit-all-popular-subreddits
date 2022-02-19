@@ -2591,6 +2591,7 @@ ethereum
 ethfinance
 ethoslab
 ethtrader
+EtikaRedditNetwork
 etymology
 eu4
 eu_nvr
@@ -4755,6 +4756,7 @@ lux
 Luxembourg
 LuxloCosplay
 LuxuryGirl
+LuxuryLifeHabits
 LV426
 LWIAY
 MAAU
