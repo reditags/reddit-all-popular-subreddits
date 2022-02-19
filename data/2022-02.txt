@@ -2791,6 +2791,7 @@ fffffffuuuuuuuuuuuu
 FFVIIRemake
 ffxiv
 FFXIVGlamours
+FFXV
 Fibromyalgia
 FierceFlow
 FIFA
@@ -4960,6 +4961,7 @@ mechanical_gifs
 Mechwarrior5
 mediamanipulation
 MedicalGore
+medicalschoolanki
 Medievalart
 MedievalCats
 medievaldoctor
@@ -7655,6 +7657,7 @@ thaps
 That70sshow
 thatHappened
 ThatLookedExpensive
+ThatPeelingFeeling
 Thatsabooklight
 Thatsactuallyverycool
 ThatsInsane
