@@ -2294,6 +2294,7 @@ Dinosaurs
 dioramas
 Dipcifica
 DiretoDoZapZap
+Dirtbikes
 dirtgame
 DirtyConfession
 DirtyMemes
@@ -7555,6 +7556,7 @@ Superstonk
 superstore
 SuperStructures
 suplar
+supplychain
 supportlol
 surrealism
 surrealmemes
