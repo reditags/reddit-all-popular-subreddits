@@ -1315,6 +1315,7 @@ BundleOfBrittany
 BungouStrayDogs
 Bunnies
 BunniesStandingUp
+bunnyshaming
 burdurland
 burgers
 burlington
@@ -5318,6 +5319,7 @@ ModernAncientWarriors
 ModernMagic
 modernquilts
 modernwarfare
+modular
 moedred
 MoeMorphism
 Moescape
@@ -5812,6 +5814,7 @@ ObviousPlant
 ockytop
 Octokuro_official
 octopathtraveler
+octopus
 oculus
 OculusQuest
 OculusQuest2
@@ -6984,6 +6987,7 @@ ScuttleCrabMains
 SDSGrandCross
 seals
 Seaofthieves
+seashanties
 Seattle
 SeattleKraken
 SeattleWA
@@ -7872,6 +7876,7 @@ TheBullWins
 TheCapeRevolution
 thecatdimension
 TheCatTrapIsWorking
+TheChurchOfRogers
 TheCinemassacreTruth
 TheClickOwO
 TheCloneWars
