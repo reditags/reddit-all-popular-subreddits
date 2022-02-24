@@ -1299,6 +1299,7 @@ budgies
 Buffalo
 buffalobills
 buffy
+bugout
 buildapc
 buildapcsales
 bujo
@@ -1967,6 +1968,7 @@ CrucibleGuidebook
 CrusadeMemes
 CrusaderKings
 crusaderkings3
+Crushes
 CryptidDogs
 Crypto_com
 CryptoCurrencies
@@ -5843,6 +5845,7 @@ obeyme
 Objects
 oblivion
 obsf
+Obviouslyterrifying
 ObviousPlant
 ockytop
 Octokuro_official
@@ -6465,6 +6468,7 @@ ProCreate
 productivity
 ProductManagement
 ProductPorn
+progmetal
 ProgrammerAnimemes
 ProgrammerHumor
 programming
