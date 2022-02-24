@@ -1689,6 +1689,7 @@ civ
 civ5
 civic
 civilengineering
+CivPolitics
 CivVI
 CK3AGOT
 ckm_official
@@ -7895,6 +7896,7 @@ TheBullWins
 TheCapeRevolution
 thecatdimension
 TheCatTrapIsWorking
+thechurchofpeanut
 TheChurchOfRogers
 TheCinemassacreTruth
 TheClickOwO
