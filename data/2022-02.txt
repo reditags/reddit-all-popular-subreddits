@@ -7772,6 +7772,7 @@ synthesizers
 SyrenDeMer
 sysadmin
 systemofadown
+TabbyCats
 tacobell
 Tacoma
 tacticalgear
@@ -9686,6 +9687,7 @@ WiggleButts
 wii
 wiiu
 wikipedia
+WikipediaVandalism
 Wilbur
 wildbeef
 WildernessBackpacking
