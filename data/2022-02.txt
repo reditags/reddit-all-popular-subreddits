@@ -3867,6 +3867,7 @@ HomeNetworking
 homesex
 HomestarRunner
 homestead
+Homesteading
 homestuck
 hometheater
 homeworkhelper
@@ -6669,6 +6670,7 @@ Rainbow
 Rainbow6
 RainbowEverything
 raining
+Rainmeter
 rainworld
 raleigh
 rally
@@ -9459,6 +9461,7 @@ vegas
 vegaslocals
 vegetablegardening
 vegetarian
+Velo
 velvethippos
 VeniceSwap
 Vent
