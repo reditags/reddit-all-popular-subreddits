@@ -2371,6 +2371,7 @@ DiscoElysium
 discord_irl
 discordapp
 DiscoverEarth
+DiscoveryDAO_Official
 discworld
 disenchantment
 dishonored
