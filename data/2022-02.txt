@@ -1714,6 +1714,7 @@ civ
 civ5
 civic
 civilengineering
+Civilization6
 CivPolitics
 CivVI
 CK3AGOT
