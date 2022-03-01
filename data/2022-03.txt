@@ -8,6 +8,7 @@
 21stCenturyHumour
 2american4you
 2Asia4u
+2bulgar4you
 2meirl42meirl4meirl
 2meirl4meirl
 2MiddleEast4you
@@ -66,7 +67,9 @@ AdviceAnimals
 aesthetic
 AEWOfficial
 AFL
+AfterEffects
 AgainstHateSubreddits
+AgainstHinduphobia
 agedlikemilk
 ageofsigmar
 airplaneears
@@ -155,6 +158,7 @@ araragi
 arcane
 Archaeology
 ArcherFX
+ArchitecturalRevival
 architecture
 ArchitecturePorn
 arduino
@@ -233,6 +237,7 @@ BadChoicesGoodStories
 Badfaketexts
 Baking
 BaldursGate3
+BancaDelMeme
 bangalore
 banned4life
 BanPitBulls
@@ -324,6 +329,7 @@ boardgames
 BobsBurgers
 bodybuilding
 BoJackHorseman
+Bokoen1
 BokuNoHeroAcademia
 BokuNoMetaAcademia
 Bolehland
@@ -392,6 +398,7 @@ burdurland
 burlington
 BuyItForLife
 byebyejob
+ByzantineMemes
 CabinPorn
 cableporn
 cakedecorating
@@ -455,6 +462,7 @@ Catswithjobs
 CatTaps
 CCW
 CelebsBR
+CelebsWithPetiteTits
 CentralChurch
 centrist
 centuryhomes
@@ -463,6 +471,7 @@ CFB
 Chadposting
 Chadtopia
 Chainsawfolk
+ChainsawMan
 Chang_Gang
 characterarcs
 characterdrawing
@@ -525,6 +534,7 @@ combinedgifs
 comedyamputation
 ComedyCemetery
 comedyhomicide
+comedynecromancy
 ComedyNecrophilia
 comfypasta
 comicbooks
@@ -638,6 +648,7 @@ DarceyAndStaceyTLC
 Daredevil
 DarkCircledWaifu
 darkestdungeon
+DarkGothicArt
 DarkSouls2
 darksoulsmemes
 DarkViperAU
@@ -661,6 +672,7 @@ deadbydaylight
 deadcells
 deadmeatjames
 deathgrips
+deathguard40k
 deathnote
 DeathsofDisinfo
 DebtStrike
@@ -674,6 +686,7 @@ deliciouscompliance
 Deltarune
 delusionalcraigslist
 DemEyesDoe
+deMiko
 DemocraticSocialism
 democrats
 DemonSlayer
@@ -733,6 +746,7 @@ DoctorWhumour
 Documentaries
 DocumentedFights
 DOG
+Dogberg
 dogecoin
 dogelore
 Doggles
@@ -762,6 +776,7 @@ drums
 drunkencookery
 duck
 DuggarsSnark
+Duklock
 DumpsterDiving
 DunderMifflin
 dune
@@ -769,6 +784,7 @@ dunememes
 DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
+dutch
 EarthPorn
 EatCheapAndHealthy
 eatsandwiches
@@ -819,6 +835,7 @@ eu_nvr
 EulaMains
 euphoria
 europe
+EuroTruck2
 eurovision
 evangelionmemes
 EverythingScience
@@ -851,6 +868,7 @@ fantasyfootball
 FantasyPL
 farcry
 farialimabets
+fashionhistory
 fashionporn
 FashionReps
 FatimaMunozOficialOF
@@ -882,6 +900,7 @@ FireEmblemThreeHouses
 Firefighting
 FirstTimeHomeBuyer
 Fitmoe
+fixedbytheduet
 FL_Studio
 FleshPitNationalPark
 flightsim
@@ -1004,12 +1023,15 @@ GettingShredded
 ghibli
 ghostoftsushima
 Ghosts
+GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
 Gintama
 Giraffesdontexist
 GirlsMirin
+GirlsUndShitposts
+gis
 GlobalOffensive
 Glocks
 Gloomhaven
@@ -1054,6 +1076,7 @@ Guildwars2
 Guiltygear
 guineapigs
 guitarcirclejerk
+guitarporn
 Gundam
 Gunners
 Gunpla
@@ -1201,6 +1224,7 @@ ImaginaryMindscapes
 ImaginaryMonsters
 ImaginarySliceOfLife
 ImaginarySoldiers
+ImaginaryStarships
 ImaginaryTechnology
 ImaginaryWarhammer
 ImFinnaGoToHell
@@ -1253,8 +1277,10 @@ ireland
 IRLEasterEggs
 IronFrontUSA
 islam
+italy
 ITCareerQuestions
 ItemShop
+ItHadToBeBrazil
 IThinkYouShouldLeave
 itookapicture
 IttoMains
@@ -1271,6 +1297,7 @@ jellybeantoes
 JenniferLawrence
 jerma985
 Jewdank
+JhinMains
 Jigsawpuzzles
 jobs
 JoeBiden
@@ -1570,6 +1597,7 @@ MMA
 mmababes
 mmamemes
 MobileLegendsGame
+modelmakers
 Models
 modernwarfare
 moedred
@@ -1585,6 +1613,7 @@ MoonKnight
 Moonmoon
 morbidlybeautiful
 MordekaiserMains
+Mordhau
 moreplatesmoredates
 Morrowind
 MostBeautiful
@@ -1638,6 +1667,7 @@ Necrontyr
 NelliesNest
 nervysquervies
 netflix
+Netherlands
 Neverbrokeabone
 nevertellmetheodds
 NewDealAmerica
@@ -1670,6 +1700,7 @@ NoahGetTheDeathStar
 NobodyAsked
 nocontextpics
 NoFap
+noisygifs
 noita
 NolanBatmanMemes
 NoMansSkyTheGame
@@ -1702,6 +1733,7 @@ nukedmemes
 nursing
 NuxTakuSubmissions
 nuzlocke
+nvidia
 nyjets
 NYStateOfMind
 oblivion
@@ -1914,6 +1946,7 @@ psychology
 PUBATTLEGROUNDS
 PublicFreakout
 pugs
+pune
 PunishingGrayRaven
 punk
 PunPatrol
@@ -2004,6 +2037,7 @@ RoomPorn
 Rottweiler
 RoughRomanMemes
 RPClipsGTA
+RPDRDRAMA
 rpghorrorstories
 RTGameCrowd
 rugbyunion
@@ -2023,6 +2057,7 @@ sailormoon
 SaimanSays
 salmahayek
 saltierthancrait
+saltierthankrayt
 SaltLakeCity
 SamayRaina
 SamONellaAcademy
@@ -2103,6 +2138,7 @@ shouldercats
 ShovelKnight
 Showerthoughts
 shrooms
+ShuumatsuNoValkyrie
 Sidemen
 SigmaGrindset
 Sigmarxism
@@ -2131,6 +2167,7 @@ Slipknot
 Slovakia
 Slovenia
 slowcooking
+SmallAnimeTiddies
 smashbros
 SmashBrosUltimate
 SMG4
@@ -2163,6 +2200,7 @@ spaceporn
 spacex
 SpaceXLounge
 SpaceXMasterrace
+spain
 specializedtools
 SpecialSnowflake
 SpeculativeEvolution
@@ -2279,6 +2317,7 @@ taiwan
 talesfromtechsupport
 TalesFromTheFrontDesk
 TalesFromThePharmacy
+TalesFromTheSquadCar
 TalesFromYourServer
 tankiejerk
 TankPorn
@@ -2498,6 +2537,7 @@ Unity3D
 unixporn
 unket
 unpopularopinion
+unrealengine
 UnresolvedMysteries
 untrustworthypoptarts
 UnusualVideos
@@ -2527,6 +2567,7 @@ vegancirclejerk
 VeganFoodPorn
 vegetablegardening
 velvethippos
+Vent
 venturebros
 vermont
 vexillology
@@ -2641,6 +2682,7 @@ WRX
 WTF
 wtfstockphotos
 ww2
+ww2memes
 WWE
 WWEGames
 wwiipics
