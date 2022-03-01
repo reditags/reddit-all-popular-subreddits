@@ -118,6 +118,7 @@ AnimeART
 animecirclejerk
 AnimeFunny
 animegifs
+animehotbeverages
 animememes
 Animemes
 animenocontext
@@ -182,6 +183,7 @@ asktransgender
 AskUK
 Asmongold
 assassinscreed
+assettocorsa
 assholedesign
 astrologymemes
 Astronomy
@@ -214,6 +216,7 @@ awwnverts
 Awww
 awwwtf
 Ayato_Mains
+AZCardinals
 BabyBumps
 backpacking
 backrooms
@@ -260,6 +263,7 @@ Ben10
 bengalcats
 bengals
 benshapiro
+berkeley
 Berserk
 berserklejerk
 bestof
@@ -304,6 +308,7 @@ BlueArchive
 blunderyears
 blurrypicturesofcats
 blursed_videos
+Blursedcomments
 blursedimages
 BMW
 boardgames
@@ -346,6 +351,7 @@ brasil
 brasilivre
 Braves
 BravoRealHousewives
+Brawlhalla
 Brawlstars
 BrawlStarsCompetitive
 Breadit
@@ -396,6 +402,7 @@ Carpentry
 carporn
 castiron
 castles
+castlevania
 CasualConversation
 casualknitting
 casualnintendo
@@ -448,11 +455,14 @@ characterarcs
 characterdrawing
 Chefit
 chelseafc
+chemistrymemes
 chess
 chessbeginners
+CHIBears
 chicagobulls
 ChildrenFallingOver
 chile
+China_irl
 Chiraqology
 ChloeBennet
 Chodi
@@ -529,6 +539,7 @@ coolguides
 copypasta
 corgi
 Coronavirus
+CoronavirusDownunder
 Cosmere
 cosplayers
 Costco
@@ -549,6 +560,7 @@ creepyasterisks
 creepyPMs
 cremposting
 Cricket
+CricketShitpost
 cringepics
 Cringetopia
 criterion
@@ -567,6 +579,7 @@ csgo
 csMajors
 Cubers
 cuddleroll
+CultureImpact
 CuratedTumblr
 curledfeetsies
 Cursed_Images
@@ -632,6 +645,7 @@ dedreviil
 DeepIntoYouTube
 DeepRockGalactic
 DeepSpaceNine
+delhi
 deliciouscompliance
 Deltarune
 delusionalcraigslist
@@ -671,6 +685,7 @@ discworld
 disenchantment
 dishonored
 disney
+DisneyEyes
 Disneyland
 DisneyPlus
 disneyvacation
@@ -686,6 +701,7 @@ DnDHomebrew
 dndmemes
 dndnext
 doctorwho
+DoctorWhumour
 Documentaries
 DocumentedFights
 DOG
@@ -710,6 +726,8 @@ DragonsDogma
 Draven
 drawing
 drawthisagain
+dreamsmp
+drones
 DrStone
 drums
 duck
@@ -879,6 +897,7 @@ FreckledGirls
 freddiegibbs
 FreeCompliments
 freefolk
+FreeSpeech
 FridayNightFunkin
 friendlyjordies
 frogs
@@ -918,6 +937,7 @@ gamecollecting
 gamedev
 gamegrumps
 gameofthrones
+GamePhysics
 gamernews
 GameTheorists
 gaming
@@ -1082,6 +1102,7 @@ homestead
 homestuck
 hometheater
 Honda
+honkaiimpact3
 Horimiya
 horizon
 Hornyjail
@@ -1151,6 +1172,7 @@ indianapolis
 IndianDankMemes
 IndianGaming
 IndiaNostalgia
+indiasocial
 IndiaSpeaks
 IndieGaming
 IndoorGarden
@@ -1164,6 +1186,7 @@ inscryption
 insects
 Instagramreality
 instant_regret
+instantbarbarians
 instantkarma
 instantpot
 Instantregret
@@ -1256,22 +1279,26 @@ KneadyCats
 knifeclub
 Knoxville
 kof
+Kokomi_Mains
 Komi_san
 Konosuba
 korea
 kotor
 KOTORmemes
 kpop
+kpopthoughts
 ksi
 KumoDesu
 labrador
 labrats
 laidbackcamp
 lakers
+LandlordLove
 LandoftheLustrous
 landscaping
 lastimages
 LateStageCapitalism
+LateStageImperialism
 latexcosplay
 LatinoPeopleTwitter
 LawSchool
@@ -1289,6 +1316,7 @@ legostarwars
 LeopardsAteMyFace
 LesbianActually
 LesbianInsectBrothel
+lesbianmemes
 Lesbiaww
 Letterkenny
 lgballt
@@ -1377,6 +1405,7 @@ Maps
 MarchAgainstNazis
 marchingband
 MargotRobbie
+marinebiology
 Markiplier
 Marriage
 martialarts
@@ -1389,6 +1418,7 @@ masterduel
 mathmemes
 maybemaybemaybe
 MayDayStrike
+mbti
 mbtimemes
 MCFC
 McMansionHell
@@ -1461,6 +1491,7 @@ mitski
 mlb
 MLS
 MMA
+mmababes
 mmamemes
 MobileLegendsGame
 Models
@@ -1490,6 +1521,7 @@ MTB
 MTFSelfieTrain
 MuayThai
 Mujico
+mumbai
 MurderedByAOC
 MurderedByWords
 murdermittens
@@ -1633,6 +1665,7 @@ ontario
 ontheledgeandshit
 oompasubs
 OooBigStretch
+orangecounty
 orangetheory
 oregon
 OrganizationPorn
@@ -1706,10 +1739,12 @@ PhotoshopRequest
 physicsmemes
 pics
 piercing
+Pikabu
 PiltoversFinest
 pinkfloyd
 Piracy
 PiratedGames
+pisscommenting
 pitbulls
 pittsburgh
 PixelArt
@@ -1790,6 +1825,7 @@ Purrito
 pussypassdenied
 pyrocynical
 QAnonCasualties
+QanonKaren
 Quebec
 queensofleague
 quilting
@@ -1953,6 +1989,7 @@ shittyrobots
 shittysimulated
 shittyskylines
 shittytattoos
+shockwaveporn
 shouldercats
 ShovelKnight
 Showerthoughts
@@ -1980,6 +2017,7 @@ SkyrimMemes
 slaythespire
 Slipknot
 Slovakia
+Slovenia
 slowcooking
 smashbros
 SmashBrosUltimate
@@ -2023,11 +2061,13 @@ Spiderman
 SpidermanPS4
 splatoon
 sploot
+spongebob
 sports
 spotted
 Spunchbob
 SpyxFamily
 SquaredCircle
+squidgame
 squishmallow
 stalker
 standardissuecat
@@ -2037,6 +2077,7 @@ starbound
 starbucks
 starcitizen
 starcraft
+StardewMemes
 StardewValley
 StardustCrusaders
 Stargate
@@ -2183,9 +2224,11 @@ TheDragonPrince
 TheExpanse
 thefighterandthekid
 TheForgottenDepths
+TheGirlSurvivalGuide
 TheGoodPlace
 thegrandtour
 TheGrittyPast
+theJoeBuddenPodcast
 TheLastAirbender
 thelastofus
 TheMagnusArchives
@@ -2230,6 +2273,7 @@ tippytaps
 titanfall
 tja
 TLCsisterwives
+TMNT
 todayilearned
 toddlers
 ToiletPaperUSA
@@ -2257,6 +2301,7 @@ traderjoes
 traditionaltattoos
 trailerparkboys
 trans
+TransClones
 Transformemes
 transformers
 trashpandas
@@ -2376,6 +2421,7 @@ Wales
 walkaway
 wallpaper
 wallstreetbets
+WallStreetbetsELITE
 Wallstreetsilver
 walmart
 WaltDisneyWorld
