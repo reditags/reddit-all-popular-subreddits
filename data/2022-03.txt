@@ -231,6 +231,7 @@ AskThe_Donald
 asktransgender
 AskUK
 Asmongold
+asoiaf
 aspergers
 assassinscreed
 assettocorsa
@@ -336,6 +337,8 @@ bengalcats
 bengals
 benshapiro
 berkeley
+berlin
+bernesemountaindogs
 Berserk
 berserklejerk
 bestof
@@ -558,6 +561,7 @@ Chang_Gang
 characterarcs
 characterdrawing
 Charlotte
+CharlotteHornets
 Chefit
 chelseafc
 chemistry
@@ -612,6 +616,7 @@ CloneWarsMemes
 Cloud9
 cobrakai
 cockatiel
+cocktails
 CodeGeass
 CODVanguard
 CODWarzone
@@ -720,6 +725,7 @@ Cubers
 cuddleroll
 CultureImpact
 CuratedTumblr
+curb
 curledfeetsies
 Cursed_Images
 cursed_videomemes
@@ -750,6 +756,7 @@ dancemoms
 danganronpa
 DaniDev
 dank_meme
+DankAndrastianMemes
 dankchristianmemes
 DankExchange
 dankgentina
@@ -785,9 +792,11 @@ dbz
 DBZDokkanBattle
 DC_Cinematic
 DCcomics
+DCEUleaks
 DDintoGME
 DDLC
 de
+de_EDV
 deadbydaylight
 deadcells
 deadmeatjames
@@ -831,6 +840,7 @@ DestinyFashion
 DestinyLore
 DestinyMemes
 DestinyTheGame
+DestroyedTanks
 DetailCraft
 Detroit
 DetroitBecomeHuman
@@ -940,6 +950,8 @@ Eesti
 egg_irl
 eggs
 Egypt
+Eldar
+EldenBling
 Eldenring
 ElderScrolls
 elderscrollsonline
@@ -1002,6 +1014,7 @@ Eyebleach
 F1Game
 F1Porn
 F1Technical
+facebookwins
 facepalm
 Faces
 factorio
@@ -1079,6 +1092,7 @@ food
 Foodforthought
 foodhacks
 FoodPorn
+football
 footballcards
 footballmanagergames
 foraging
@@ -1154,6 +1168,7 @@ fuslie
 fut
 futebol
 futurama
+futureporn
 Futurology
 FWFBThinkTank
 G59
@@ -1245,6 +1260,7 @@ Gothenburg
 gradadmissions
 GradualChaos
 Graffiti
+grandpajoehate
 granturismo
 Grapplerbaki
 gratefuldead
@@ -1383,6 +1399,7 @@ howtonotgiveafuck
 howyoudoin
 HUEstation
 HumanForScale
+HumanPorn
 HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
@@ -1442,6 +1459,7 @@ ImaginaryWarhammer
 ImaginaryWesteros
 ImFinnaGoToHell
 Impeach_Trump
+ImpracticalJokers
 imsorryjon
 ImTheMainCharacter
 IncelTear
@@ -1507,6 +1525,7 @@ itookapicture
 IttoMains
 ITZY
 Izlam
+jackrussellterrier
 jacksepticeye
 jaidenanimations
 jailbreak
@@ -1524,6 +1543,7 @@ jerma985
 Jewdank
 JhinMains
 Jigsawpuzzles
+jisoo
 jobs
 JoeBiden
 JoeRogan
@@ -1619,6 +1639,7 @@ ladiesofthemcu
 LadiesOfWrestling
 laidbackcamp
 lakers
+Lalisa
 lanadelrey
 LandlordLove
 LandoftheLustrous
@@ -1734,6 +1755,7 @@ MacMiller
 MacOS
 MadeMeCry
 MadeMeSmile
+madisonwi
 MadokaMagica
 MagicArena
 magicthecirclejerking
@@ -1752,6 +1774,7 @@ mamamoo
 manchester
 MandJTV
 MangaCollectors
+manganews
 manhwa
 ManufacturingPorn
 mapmaking
@@ -1829,6 +1852,7 @@ mexico
 Miata
 MichaelReeves
 Michigan
+MicrosoftRewards
 Mid_Century
 MikuNakano
 mildlyinfuriating
@@ -1953,6 +1977,7 @@ nba
 nbacirclejerk
 nbadiscussion
 ndp
+nebelung
 Necrontyr
 NelliesNest
 nervysquervies
@@ -1990,6 +2015,7 @@ nintendo
 NintendoMemes
 NintendoStitch
 NintendoSwitch
+NintendoSwitchDeals
 NMSCoordinateExchange
 NoahGetTheDeathStar
 NobodyAsked
@@ -2064,6 +2090,7 @@ okbuddyreiner
 okbuddyrintard
 okbuddyvowsh
 okkolegauposledzony
+oklahoma
 okmatewanker
 okoidawappler
 Old_Recipes
@@ -2300,6 +2327,7 @@ QuotesPorn
 R6ProLeague
 Rabbits
 radiohead
+ragdolls
 RaidenMains
 raidsecrets
 raimimemes
@@ -2491,6 +2519,7 @@ ShittyAnimalFacts
 shittyaquariums
 shittyaskscience
 shittyfoodporn
+ShittyGifRecipes
 ShittyLifeProTips
 shittymobilegameads
 shittymoviedetails
@@ -2529,6 +2558,7 @@ sixers
 sixfacedworld
 skamtebord
 skiing
+Skookum
 SkyGame
 SkyPorn
 skyrim
@@ -2722,6 +2752,7 @@ tattoos
 Tau40K
 TaylorSwift
 tbatenovel
+tea
 Teachers
 teaching
 TeamfightTactics
@@ -2752,12 +2783,14 @@ TerrariaMemes
 terriblefacebookmemes
 terriblefandommemes
 teslainvestorsclub
+TeslaLounge
 TeslaModel3
 teslamotors
 texas
 tf2
 TF2fashionadvice
 tf2shitposterclub
+tf_irl
 Thailand
 thalassophobia
 thanksihateit
@@ -2900,6 +2933,7 @@ Trishyland
 TrollCoping
 Trucks
 trucksim
+TrueAnon
 TrueCrime
 TrueCrimeDiscussion
 TrueOffMyChest
@@ -3021,6 +3055,7 @@ VietNam
 Vinesauce
 VintageFashion
 vinyl
+vinyljerk
 VioletEvergarden
 Virginia
 virginvschad
@@ -3085,6 +3120,7 @@ WeWantPlates
 wgbeforeafter
 whatcouldgoright
 Whatcouldgowrong
+whatintarnation
 whatisthiscar
 whatsthisbird
 whatsthisbug
