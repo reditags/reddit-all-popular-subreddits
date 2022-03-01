@@ -162,6 +162,7 @@ argentina
 arizona
 ARK
 arknights
+arma
 army
 aromantic
 arresteddevelopment
@@ -201,6 +202,7 @@ Augenbleiche
 Augenschmaus
 AusFinance
 australia
+AustralianPolitics
 AustralianShepherd
 Austria
 autism
@@ -576,6 +578,7 @@ Cringetopia
 criterion
 criticalblunder
 criticalrole
+croatia
 cromch
 crossdressing
 CrossStitch
@@ -606,9 +609,11 @@ Cyberpunk
 cyberpunkgame
 cybertruck
 czech
+Dachschaden
 Dachshund
 dadjokes
 dadswhodidnotwantpets
+DaftPunk
 Damnthatsinteresting
 dancemoms
 danganronpa
@@ -632,6 +637,7 @@ DarkViperAU
 DarlingInTheFranxx
 dashcamgifs
 data_irl
+DataHoarder
 dataisbeautiful
 datascience
 dating
@@ -914,7 +920,9 @@ FreckledGirls
 freddiegibbs
 FreeCompliments
 freefolk
+freefromwork
 FreeSpeech
+FrenchMemes
 FridayNightFunkin
 friendlyjordies
 frogs
@@ -1030,6 +1038,7 @@ GTAGE
 gtaonline
 GTAV
 Guacamole_penis
+GuardianTales
 Guildwars2
 Guiltygear
 guineapigs
@@ -1153,6 +1162,7 @@ iamatotalpieceofshit
 IASIP
 ibs
 ich_iel
+IdiotsFightingThings
 IdiotsInCars
 IdiotsNearlyDying
 Idiotswithguns
@@ -1160,6 +1170,7 @@ IDontWorkHereLady
 ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
+IllegallySmol
 illegallysmolbirbs
 IllegallySmolCats
 IllegallySmolDogs
@@ -1167,6 +1178,7 @@ Illustration
 im14andthisisdeep
 Im15AndThisIsYeet
 ImaginaryBehemoths
+ImaginaryCastles
 ImaginaryCharacters
 ImaginaryCityscapes
 ImaginaryElves
@@ -1197,6 +1209,7 @@ IndianTeenagers
 indiasocial
 IndiaSpeaks
 IndieGaming
+indonesia
 IndoorGarden
 INDYCAR
 InfowarriorRides
@@ -1221,6 +1234,7 @@ InternetIsBeautiful
 inthenews
 introvert
 Invincible
+ipad
 iRacing
 ireland
 IRLEasterEggs
@@ -1235,6 +1249,7 @@ Izlam
 jacksepticeye
 JailyneOjedaOchoaFans
 jakertown
+japan
 japanpics
 JDM
 JEENEETards
@@ -1281,6 +1296,7 @@ KendrickLamar
 Kengan_Ashura
 KenM
 Kenshi
+keoXer
 KeqingMains
 Kerala
 KerbalSpaceProgram
@@ -1313,6 +1329,7 @@ kotor
 KOTORmemes
 kpop
 kpopthoughts
+KrakenAlert
 ksi
 KumoDesu
 labrador
@@ -1332,6 +1349,7 @@ lawschooladmissions
 leafs
 leagueoflegends
 LeagueOfMemes
+learnprogramming
 learntodraw
 LearnUselessTalents
 LeedsUnited
@@ -1403,7 +1421,9 @@ LPOTL
 LSD
 LTB_iel
 lucifer
+LudwigAhgren
 lululemon
+Lustig
 LV426
 MAAU
 macbookpro
@@ -1514,6 +1534,7 @@ MinecraftChampionship
 MinecraftCommands
 MinecraftMemes
 minecraftseeds
+MineralPorn
 miniminter
 minipainting
 Miniworlds
@@ -1549,6 +1570,7 @@ moreplatesmoredates
 Morrowind
 MostBeautiful
 motorcycles
+Mountaineering
 mountandblade
 MovieDetails
 movies
@@ -1614,6 +1636,7 @@ nflmemes
 niceguys
 NicolaCavanis
 nier
+nietdespeld
 NightInTheWoods
 nightvale
 Nijisanji
@@ -1718,6 +1741,7 @@ outerwilds
 OUTFITS
 outofcontextcomics
 OutOfTheLoop
+outrun
 overclocking
 overlord
 OverSimplified
@@ -1726,6 +1750,7 @@ Overwatch_Memes
 Owls
 OyasumiPunpun
 painting
+pakistan
 Paleontology
 Palestine
 PandR
@@ -1847,6 +1872,7 @@ ProCreate
 productivity
 ProgrammerAnimemes
 ProgrammerHumor
+programminghorror
 progun
 projectcar
 projectzomboid
@@ -1856,6 +1882,7 @@ PS4
 PS5
 psych
 psychology
+PUBATTLEGROUNDS
 PublicFreakout
 pugs
 PunishingGrayRaven
@@ -1983,6 +2010,7 @@ savedyouaclick
 Scams
 ScarySigns
 science
+ScienceNcoolThings
 scifi
 SCJerk
 Scotland
@@ -2022,9 +2050,11 @@ ShitMomGroupsSay
 ShitPostCrusaders
 shitpostemblem
 shitposting
+shitposts
 ShitpostXIV
 Shitty_Car_Mods
 ShittyAnimalFacts
+shittyaquariums
 shittyaskscience
 shittyfoodporn
 ShittyLifeProTips
@@ -2070,6 +2100,7 @@ Slovenia
 slowcooking
 smashbros
 SmashBrosUltimate
+SMG4
 SmilingFriends
 Smite
 smoking
@@ -2216,6 +2247,7 @@ TalesFromThePharmacy
 TalesFromYourServer
 tankiejerk
 TankPorn
+TanmayBhatKeDost
 Target
 TarkovMemes
 tattoo
@@ -2421,6 +2453,7 @@ unexpectedcommunism
 UnexpectedlyWholesome
 unexpectedoffice
 unitedkingdom
+unitedstatesofindia
 Unity3D
 unixporn
 unket
@@ -2442,6 +2475,7 @@ valkyrae
 VALORANT
 ValorantCompetitive
 ValorantMemes
+valve
 vancouver
 vandwellers
 VaporwaveAesthetics
