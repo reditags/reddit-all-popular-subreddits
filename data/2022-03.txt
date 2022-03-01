@@ -77,6 +77,7 @@ adultswim
 adventuretime
 Advice
 AdviceAnimals
+aeiou
 Aespa
 aesthetic
 AEWOfficial
@@ -87,6 +88,7 @@ AgainstHinduphobia
 agedlikemilk
 agedlikewine
 ageofsigmar
+Agraelus
 airplaneears
 airsoft
 aiyu
@@ -244,6 +246,7 @@ assholedesign
 astrologymemes
 Astronomy
 astrophotography
+ATAAE
 ATBGE
 AteTheOnion
 atheism
@@ -337,6 +340,7 @@ BeginnerWoodWorking
 behindthebastards
 BelgianMalinois
 belgium
+Belgium2
 belowdeck
 Ben10
 bengalcats
@@ -680,6 +684,7 @@ ContagiousLaughter
 Conures
 ConvenientCop
 cookiedecorating
+Cookierun
 CookieRunKingdoms
 Cooking
 coolguides
@@ -728,6 +733,7 @@ Crunchyroll
 CrusaderKings
 Crypto_com
 CryptoCurrency
+Cryptomains
 CryptoMarkets
 CryptoMoonShots
 Crystals
@@ -923,6 +929,7 @@ donthelpjustfilm
 dontputyourdickinthat
 dontyouknowwhoiam
 DonutMedia
+doordash
 doordash_drivers
 DotA2
 DragonballLegends
@@ -975,6 +982,7 @@ ElderScrolls
 elderscrollsonline
 electricians
 electricvehicles
+electronics
 EliteDangerous
 elonmusk
 Embroidery
@@ -1159,11 +1167,13 @@ friendlyjordies
 frogs
 FromKittenToCat
 FromPuppyToDog
+fromsoftware
 Frugal
 Frugal_Jerk
 Fruitbatcats
 FruitsBasket
 fuckepic
+FuckGregAbbott
 fuckHOA
 FuckNestle
 fuckpongkrell
@@ -1289,6 +1299,7 @@ Grapplerbaki
 gratefuldead
 gravityfalls
 greatdanes
+greatpyrenees
 greebles
 greece
 GreenAndPleasant
@@ -1413,6 +1424,7 @@ horizon
 Hornyjail
 HorriblyDepressing
 horror
+HostileArchitecture
 HotWheels
 houkai3rd
 houseplants
@@ -1497,6 +1509,7 @@ indianews
 IndianGaming
 Indiangirlsontinder
 IndiaNostalgia
+IndianSauce
 IndianTeenagers
 indiasocial
 IndiaSpeaks
@@ -1520,6 +1533,7 @@ instantbarbarians
 instantkarma
 instantpot
 Instantregret
+insurgency
 interesting
 interestingasfuck
 intermittentfasting
@@ -1550,6 +1564,7 @@ itookapicture
 IttoMains
 ITZY
 Izlam
+IzuOcha
 jackrussellterrier
 jacksepticeye
 jaidenanimations
@@ -1813,6 +1828,7 @@ MarchAgainstNazis
 marchingband
 MargotRobbie
 marinebiology
+Mario
 mariokart
 Markiplier
 Marriage
@@ -1961,6 +1977,7 @@ MrRobot
 MST3K
 MTB
 MTFSelfieTrain
+mtgfinance
 MuayThai
 Mujico
 mumbai
@@ -1988,6 +2005,7 @@ Nails
 namenerds
 namethatcar
 NanatsunoTaizai
+NarcoFootage
 Naruto
 narutomemes
 nasa
@@ -2004,6 +2022,7 @@ natureporn
 Naturewasmetal
 navy
 nba
+NBA2k
 nbacirclejerk
 nbadiscussion
 ndp
@@ -2032,6 +2051,7 @@ NFA
 NFCNorthMemeWar
 NFCWestMemeWar
 nflmemes
+nhl
 Nicegirls
 niceguys
 NicolaCavanis
@@ -2068,6 +2088,7 @@ NonPoliticalTwitter
 nope
 Nordichistorymemes
 norge
+NormMacdonald
 NorthCarolina
 northernireland
 northernlion
@@ -2109,6 +2130,7 @@ OfficialSenpaiHeat
 Ohio
 oilpainting
 oilpen
+Okami
 OkBrudiMongo
 OkBubbyRetard
 okbuddybaka
@@ -2128,6 +2150,7 @@ okkolegauposledzony
 oklahoma
 okmatewanker
 okoidawappler
+okpolarncp
 Old_Recipes
 oldbabies
 oldhagfashion
@@ -2164,6 +2187,7 @@ OTMemes
 OtomeIsekai
 ottawa
 Otters
+OurPresident
 Outdoors
 outerwilds
 OUTFITS
@@ -2289,6 +2313,7 @@ polandball
 Polandballart
 politecats
 Political_Revolution
+PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
 politics
@@ -2453,6 +2478,7 @@ RPClipsGTA
 RPDRDRAMA
 rpg
 rpghorrorstories
+rsloshredit
 RTGameCrowd
 rugbyunion
 runefactory
@@ -2571,6 +2597,7 @@ shittyskylines
 shittysuperpowers
 shittytattoos
 shittytechnicals
+ShittyVeganFoodPorn
 shockwaveporn
 shoegaze
 shouldercats
@@ -2750,7 +2777,9 @@ SuperMegaShow
 SupermodelCats
 Supernatural
 superpoweralchemists
+supersmashbros
 Superstonk
+superstore
 SuperStructures
 surrealmemes
 Survival
@@ -2871,6 +2900,7 @@ theJoeBuddenPodcast
 TheLastAirbender
 thelastofus
 TheLeftCantMeme
+thelongdark
 TheMagnusArchives
 TheMandalorianTV
 TheMandemNP
@@ -3082,6 +3112,7 @@ vdm
 vegan
 vegancirclejerk
 VeganFoodPorn
+VeganForCircleJerkers
 veganrecipes
 vegetablegardening
 vegetarian
@@ -3151,6 +3182,7 @@ watchthingsfly
 Watercolor
 waterloo
 WattsonMains
+WeaponsMoe
 WeatherGifs
 webcomics
 weddingshaming
@@ -3160,11 +3192,13 @@ weed
 Weird
 WeirdFlexButOK
 WeirdWheels
+weldedasfuck
 Welding
 Wellthatsucks
 Wellworn
 WestSubEver
 WetlanderHumor
+wewantcups
 WeWantPlates
 wgbeforeafter
 whatcouldgoright
@@ -3205,8 +3239,10 @@ Wiseposting
 witcher
 Witcher3
 WitchesVsPatriarchy
+Wizard101
 woahdude
 wokekids
+wolves
 womensstreetwear
 woodworking
 woof_irl
