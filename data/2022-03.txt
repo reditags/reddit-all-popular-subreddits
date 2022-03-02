@@ -84,6 +84,7 @@ aeiou
 Aespa
 aesthetic
 AEWOfficial
+afkarena
 AFL
 AfterEffects
 AgainstHateSubreddits
@@ -186,6 +187,7 @@ Anya_TaylorJoy
 AO3
 AOC
 aoe2
+aoe4
 Apandah
 ape
 ApexConsole
@@ -289,6 +291,7 @@ awwnimate
 awwnverts
 Awww
 awwwtf
+AyakaMains
 Ayato_Mains
 AZCardinals
 BabyBumps
@@ -316,6 +319,7 @@ bartenders
 baseball
 batman
 BatmanArkham
+Battlecars
 battlecats
 Battlefield
 battlefield2042
@@ -385,6 +389,7 @@ Birates
 Birbs
 birding
 BirdsArentReal
+birdstakingthetrain
 birdswitharms
 bisexual
 BisexualTeens
@@ -396,6 +401,7 @@ blackcats
 BlackClover
 BlackHair
 blackmagicfuckery
+blackopscoldwar
 BlackPeopleTwitter
 BlackPink
 BLAHAJ
@@ -483,6 +489,7 @@ brooklynninenine
 Browns
 Brrrrrrrrrrrrrrrrt
 btd6
+Buddhism
 budgies
 buffalobills
 buffy
@@ -560,6 +567,7 @@ Catsmirin
 CatsOnCats
 catsonglass
 CatsOnKeyboards
+CatsOnPizza
 CatsStandingUp
 catsvstechnology
 CatsWhoChirp
@@ -606,6 +614,7 @@ chile
 China_irl
 Chiraqology
 ChloeBennet
+Chloedits
 Chodi
 Chonkers
 ChoosingBeggars
@@ -703,6 +712,7 @@ coolguides
 copypasta
 cordcutters
 corgi
+Cornell
 Coronavirus
 CoronavirusDownunder
 Corsair
@@ -777,6 +787,7 @@ custommagic
 cute
 Cyberpunk
 cyberpunkgame
+cybersecurity
 cybertruck
 czech
 Dachschaden
@@ -821,6 +832,7 @@ dataisbeautiful
 datascience
 dating
 dating_advice
+Davie504
 dayz
 dbfz
 dbz
@@ -851,6 +863,7 @@ deficryptos
 delhi
 deliciouscompliance
 Deltarune
+delusionalartists
 delusionalcraigslist
 DemEyesDoe
 deMiko
@@ -950,6 +963,7 @@ doodles
 doordash
 doordash_drivers
 DotA2
+dragonball
 DragonballLegends
 Dragonballsuper
 DragonsDogma
@@ -957,6 +971,7 @@ dragrace
 Draven
 drawing
 drawthisagain
+Dreams
 dreamsmp
 DreamWasTaken
 drones
@@ -1336,6 +1351,7 @@ Grimdank
 GTA
 GTAGE
 gtaonline
+GTAorRussia
 GTAV
 Guacamole_penis
 GuardianTales
@@ -1359,6 +1375,7 @@ H3VR
 Habs
 hacking
 HadesTheGame
+HadToHurt
 Hair
 HalfLife
 halifax
@@ -1420,6 +1437,7 @@ HobbyDrama
 hockey
 hockeyjerseys
 hockeymemes
+hoggit
 hoi4
 holdmycatnip
 holdmycosmo
@@ -1464,7 +1482,9 @@ HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
 humblebundles
+humor
 hungary
+hunterxdank
 HunterXHunter
 HuntShowdown
 husky
@@ -1496,6 +1516,7 @@ IllegallySmol
 illegallysmolbirbs
 IllegallySmolCats
 IllegallySmolDogs
+illnessfakers
 Illustration
 im14andthisisdeep
 Im15AndThisIsYeet
@@ -1562,6 +1583,7 @@ Instantregret
 insurgency
 interesting
 interestingasfuck
+InteriorDesign
 intermittentfasting
 internet_funeral
 InternetHistorian
@@ -1578,6 +1600,7 @@ iRacing
 ireland
 IRLEasterEggs
 IronFrontUSA
+ironscape
 IrrationalMadness
 islam
 Israel
@@ -1604,6 +1627,7 @@ JDM
 JEENEETards
 Jeep
 jellybeantoes
+JennaOrtega_
 jennie
 JenniferLawrence
 jerma985
@@ -1614,6 +1638,8 @@ jisoo
 jobs
 JoeBiden
 JoeRogan
+JohnMulaney
+joinsquad
 Jokes
 JordanPeterson
 jpegmafia
@@ -1728,6 +1754,7 @@ leafs
 leagueofjinx
 leagueoflegends
 LeagueOfMemes
+leanbeefpatty
 learnprogramming
 learntodraw
 LearnUselessTalents
@@ -1817,6 +1844,7 @@ lucifer
 LudwigAhgren
 lululemon
 Lustig
+lux
 LV426
 MAAU
 mac
@@ -1876,6 +1904,7 @@ masterduel
 masterhacker
 mathmemes
 matureplants
+Mavericks
 maybemaybemaybe
 MayDayStrike
 MBMBAM
@@ -1961,12 +1990,14 @@ Minneapolis
 minnesota
 minnesotavikings
 miraculousladybug
+miragemains
 Mirrorsforsale
 misleadingthumbnails
 missbricosplay
 Mistborn
 mitski
 Mizkif
+MkeBucks
 mlb
 mlem
 MLS
@@ -2082,11 +2113,14 @@ news
 newsentences
 NewVegasMemes
 newyorkcity
+NewYorkMets
 newzealand
 nextfuckinglevel
 NFA
+NFCEastMemeWar
 NFCNorthMemeWar
 NFCWestMemeWar
+NFL_Draft
 nflmemes
 nhl
 Nicegirls
@@ -2158,7 +2192,9 @@ nuzlocke
 nvidia
 nyjets
 NYStateOfMind
+NYYankees
 oblivion
+ObviousPlant
 oculus
 OculusQuest
 oddlysatisfying
@@ -2179,11 +2215,13 @@ okbuddygenshin
 okbuddyguardian
 okbuddyhetero
 okbuddyhololive
+okbuddyimperialist
 okbuddyjotard
 OkBuddyPersona
 OkBuddyPoliceOfficer
 okbuddyreiner
 okbuddyrintard
+okbuddytankie
 okbuddyvowsh
 okkolegauposledzony
 oklahoma
@@ -2278,6 +2316,7 @@ PerfectlyCutBooms
 PerfectlyCutMeows
 perfectlycutscreams
 perfectlycutyeets
+PerfectTiming
 Persecutionfetish
 PERSoNA
 Persona5
@@ -2359,6 +2398,7 @@ PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
 politics
+PoliticsPeopleTwitter
 polls
 Polska
 Polska_wpz
@@ -2521,6 +2561,7 @@ Rottweiler
 RoughRomanMemes
 RoyaleHigh_Roblox
 RPClipsGTA
+RPDR_UK
 RPDRDRAMA
 rpg
 rpghorrorstories
@@ -2533,12 +2574,14 @@ running
 runningman
 rupaulsdragrace
 RussiaUkraineWar2022
+rutgers
 RWBY
 sabaton
 SabatonMemes
 Saber
 Sacramento
 sadboys
+sadcats
 sadcringe
 sadlygokarts
 SafeMoon
@@ -2558,13 +2601,16 @@ SandersForPresident
 sandiego
 sanfrancisco
 SapphoAndHerFriend
+Satan
 satanism
 SatisfactoryGame
 SatisfIcing
 satisfying
 Satisfyingasfuck
 SatoshiStreetBets
+saudiarabia
 SavageGarden
+SAVEBRENDAN
 savedyouaclick
 sbeve
 Scams
@@ -2581,6 +2627,7 @@ ScottishPeopleTwitter
 scottthewoz
 SCP
 SCREENPRINTING
+screenshots
 scriptedasiangifs
 scrungycats
 Seaofthieves
@@ -2719,6 +2766,7 @@ Sourdough
 southafrica
 SovietWomble
 space
+SpaceCannibalism
 spaceengineers
 spacefrogs
 spaceporn
@@ -2736,6 +2784,7 @@ spiderbro
 Spiderman
 SpidermanPS4
 spiders
+spiderversedailymemes
 Spielstopp
 splatoon
 sploot
@@ -2815,6 +2864,7 @@ SuddenlyIncest
 SuddenlyLesbian
 suddenlysexoffender
 suicidebywords
+summerhousebravo
 summonerswar
 sunraybee
 suns
@@ -2878,6 +2928,7 @@ tea
 Teachers
 teaching
 TeamfightTactics
+teamliquid
 TeamSolomid
 tech
 tech1e
@@ -2897,12 +2948,14 @@ teenagersnew
 TeenMomOGandTeenMom2
 Tekken
 telescopes
+TempleofMarianne
 tennis
 TenseiSlime
 TerminallyStupid
 TerrainBuilding
 Terraria
 TerrariaMemes
+terrariums
 terriblefacebookmemes
 terriblefandommemes
 teslainvestorsclub
@@ -2928,6 +2981,7 @@ ThatsInsane
 The10thDentist
 The8BitRyanReddit
 The_Dennis
+The_Leftorium
 The_Mueller
 TheAdventureZone
 TheAstraMilitarum
@@ -2944,6 +2998,7 @@ TheExpanse
 thefighterandthekid
 TheForgottenDepths
 TheGirlSurvivalGuide
+theGoldenGirls
 TheGoodPlace
 thegrandtour
 TheGriffonsSaddlebag
@@ -2985,6 +3040,7 @@ thisismylifenow
 ThisYouComebacks
 thomastheplankengine
 ThotBeatdowns
+ThousandSons
 thumbcats
 Thunder
 tifu
@@ -3005,6 +3061,7 @@ tja
 TLCsisterwives
 TMNT
 TNOmod
+toarumajutsunoindex
 toastme
 todayilearned
 toddlers
@@ -3054,6 +3111,7 @@ trashy
 travel
 travisscott
 trebuchetmemes
+treedibles
 trees
 trippinthroughtime
 Trishyland
@@ -3087,6 +3145,7 @@ twicemedia
 twilight
 twinpeaks
 TwistedWonderland
+Twitch
 twittermoment
 TwoSentenceHorror
 TwoSentenceSadness
@@ -3120,6 +3179,7 @@ UnearthedArcana
 UnethicalLifeProTips
 Unexpected
 unexpectedcommunism
+unexpectedfuturama
 UnexpectedlyWholesome
 unexpectedMontyPython
 UnexpectedMulaney
@@ -3240,10 +3300,12 @@ WattsonMains
 WeaponsMoe
 WeatherGifs
 webcomics
+webdev
 weddingshaming
 Weddingsunder10k
 weeaboo
 weed
+weeviltime
 Weird
 WeirdFlexButOK
 WeirdWheels
@@ -3355,6 +3417,7 @@ yesyesyesno
 yesyesyesyesno
 Yoimiya_Mains
 YouBelongWithMemes
+youdontmattergiveup
 youdontsurf
 YoujoSenki
 youngpeopleyoutube
