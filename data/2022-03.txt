@@ -331,6 +331,7 @@ barstoolsports
 bartenders
 baseball
 basketballcards
+bassfishing
 batman
 BatmanArkham
 Battlecars
@@ -427,6 +428,7 @@ BlatantMisogyny
 bleach
 blender
 Blep
+blessedcomments
 blessedimages
 Blink182
 blop
@@ -470,6 +472,7 @@ Bossfight
 boston
 BostonBruins
 bostonceltics
+BostonTerrier
 Botchedsurgeries
 bottlebrush
 bottomgear
@@ -533,6 +536,7 @@ cableporn
 CAguns
 cakedecorating
 CalamityMod
+CalgaryFlames
 Calligraphy
 CallMeCarson
 CallOfDuty
@@ -554,6 +558,7 @@ capybara
 carmemes
 Carpentry
 carporn
+Cartalk
 castiron
 castles
 castlevania
@@ -667,6 +672,7 @@ classiccars
 classicwow
 ClassPoliticsTwitter
 ClassroomOfTheElite
+CleaningTips
 clevercomebacks
 climate
 ClimateActionPlan
@@ -764,6 +770,7 @@ CrappyDesign
 crappyoffbrands
 crashbandicoot
 CrazyFuckingVideos
+CrazyIdeas
 crazystairs
 CredibleDefense
 creepy
@@ -965,6 +972,7 @@ DMAcademy
 DMT
 DnD
 DnDHomebrew
+DnDIY
 dndmaps
 dndmemes
 dndnext
@@ -1059,6 +1067,7 @@ EmKay
 Emoney
 Empaths
 EmpireDidNothingWrong
+ems
 Encanto
 ender3
 energy
@@ -1202,6 +1211,7 @@ footballmanagergames
 foraging
 forbiddenboops
 forbiddensnacks
+Ford
 ForgottenWeapons
 forhonor
 forhonorknights
@@ -1377,6 +1387,7 @@ gradadmissions
 GradualChaos
 Graffiti
 grandpajoehate
+GrandTheftAutoV
 granturismo
 Grapplerbaki
 gratefuldead
@@ -1455,6 +1466,7 @@ Heavymind
 HeavySeas
 Hedgehog
 HeidiLavon
+Helicopters
 HellLetLoose
 hellsomememes
 Helltaker
@@ -1463,6 +1475,7 @@ HelpMeFind
 HermanCainAward
 HermitCraft
 hermitcraftmemes
+herpetology
 HFY
 HighQualityGifs
 HighStrangeness
@@ -1625,6 +1638,7 @@ InsaneParler
 InsanePeopleQuora
 inscryption
 insects
+InsideJob
 instaboldreels
 Instagramreality
 instant_regret
@@ -2026,6 +2040,7 @@ Miata
 MichaelReeves
 Michigan
 MichiganWolverines
+MicroNatureIsMetal
 MicrosoftRewards
 Mid_Century
 MikuNakano
@@ -2146,6 +2161,7 @@ mythologymemes
 n64
 N_N_N
 Nails
+NameNerdCirclejerk
 namenerds
 namethatcar
 NanatsunoTaizai
@@ -2301,6 +2317,7 @@ okbuddyhololive
 okbuddyimperialist
 okbuddyjotard
 OkBuddyPersona
+okbuddyphd
 OkBuddyPoliceOfficer
 okbuddyreiner
 okbuddyrintard
@@ -2402,6 +2419,7 @@ perfectlycutyeets
 PerfectTiming
 Persecutionfetish
 PERSoNA
+persona4golden
 Persona5
 PersonalFinanceCanada
 perth
@@ -2603,6 +2621,7 @@ reddeadredemption2
 reddevils
 RedditForGrownups
 RedditLaqueristas
+redditsings
 RedHotChiliPeppers
 RedLetterMedia
 redneckengineering
@@ -2707,6 +2726,7 @@ Scams
 ScarySigns
 scathach
 schkreckl
+schoolfight
 science
 sciencememes
 ScienceNcoolThings
@@ -3000,11 +3020,13 @@ SWTOR_memes
 sydney
 SydneySweeney
 SympatheticMonsters
+synthesizers
 sysadmin
 tacobell
 Tacoma
 tacticalgear
 taiwan
+Takagi_san
 TalesFromRetail
 talesfromtechsupport
 TalesFromTheFrontDesk
@@ -3089,6 +3111,7 @@ TheAstraMilitarum
 thebadbatch
 TheBatmanFilm
 TheBidenshitshow
+TheBoys
 TheCatTrapIsWorking
 TheCinemassacreTruth
 TheClickOwO
@@ -3137,6 +3160,7 @@ theyknew
 ThickFit
 thingsforants
 thinkpad
+thirdsentenceworse
 ThisDayInHistory
 Thisismylifemeow
 thisismylifenow
@@ -3260,6 +3284,7 @@ TwoXChromosomes
 TwoXPreppers
 tylerthecreator
 UBC
+UberEATS
 ucla
 UCSC
 UCSD
@@ -3464,6 +3489,7 @@ WhyWomenLiveLonger
 WiggleButts
 wikipedia
 WildernessBackpacking
+Wildfire
 wildhockey
 wildlifephotography
 Windows11
