@@ -114,6 +114,7 @@ AlchemyStarsEN
 alexandradaddario
 AliceEve
 aliens
+AllCryptoBets
 AlternateAngles
 AlternateHistory
 AlzheimersGroup
@@ -471,6 +472,7 @@ books
 bookscirclejerk
 boottoobig
 BorderCollie
+Borderlands2
 borderlands3
 boringdystopia
 Boruto
@@ -630,6 +632,7 @@ Chadposting
 Chadtopia
 Chainsawfolk
 ChainsawMan
+Championship
 Chang_Gang
 characterarcs
 characterdrawing
@@ -643,6 +646,7 @@ chemistrymemes
 Chennai
 chess
 chessbeginners
+chessmemes
 CHIBears
 chicagobulls
 chickens
@@ -811,6 +815,7 @@ CryptoCurrency
 Cryptomains
 CryptoMarkets
 CryptoMoonShots
+cryptostreetbets
 Crystals
 cscareerquestions
 csgo
@@ -855,6 +860,7 @@ DaniDev
 dank_meme
 DankAndrastianMemes
 dankchristianmemes
+Dankchristianmemes2
 DankExchange
 dankgentina
 dankinindia
@@ -1070,6 +1076,7 @@ Eesti
 egg_irl
 eggs
 Egypt
+EightySix
 Eldar
 EldenBling
 Eldenring
@@ -1110,6 +1117,7 @@ EntitledPeople
 Entomology
 entwives
 environment
+EpicMounts
 EpicSeven
 Equestrian
 Eragon
@@ -1152,6 +1160,7 @@ FairytaleasFuck
 fakedisordercringe
 fakehistoryporn
 fakemon
+Falcom
 FallenOrder
 FallGuysGame
 Fallout
@@ -1286,6 +1295,7 @@ frogs
 FromKittenToCat
 FromPuppyToDog
 fromsoftware
+Frostpunk
 Frugal
 Frugal_Jerk
 Fruitbatcats
@@ -1316,6 +1326,7 @@ funnyvideos
 fuslie
 fut
 futebol
+FUTMobile
 futurama
 futureporn
 Futurology
@@ -1382,6 +1393,7 @@ ghostbusters
 ghostoftsushima
 GhostRecon
 Ghosts
+gif
 GifRecipes
 gifs
 gifsthatendtoosoon
@@ -1613,6 +1625,7 @@ IfIFitsISits
 ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
+IKEA
 IllegalLifeProTips
 IllegallySmol
 illegallysmolbirbs
@@ -1632,6 +1645,7 @@ ImaginaryHorrors
 ImaginaryJedi
 ImaginaryLandscapes
 ImaginaryLeviathans
+ImaginaryMaids
 imaginarymaps
 ImaginaryMindscapes
 ImaginaryMonsters
@@ -2110,8 +2124,10 @@ MildlyVandalised
 mildyinfuriating
 Military
 MilitaryGfys
+MilitaryHistory
 MilitaryPorn
 MilitaryVStheUnknown
+MillieBobbyBrown2
 milwaukee
 MilwaukeeTool
 mina_irl
@@ -2120,6 +2136,7 @@ Minecraft
 Minecraftbuilds
 MinecraftChampionship
 MinecraftCommands
+MinecraftDungeons
 Minecrafthmmm
 MinecraftMemes
 minecraftseeds
@@ -2150,6 +2167,7 @@ mmababes
 mmamemes
 MobileLegendsGame
 MobKitchen
+Mobpsycho100
 modelmakers
 Models
 moderatepolitics
@@ -2455,6 +2473,7 @@ Paleontology
 Palestine
 PandR
 pansexual
+papertowns
 ParadoxExtra
 paradoxplaza
 parasnailing
@@ -2499,6 +2518,7 @@ PetTheDamnCat
 PetTheDamnDog
 pettyrevenge
 PewdiepieSubmissions
+peyups
 PhantomForces
 PhasmophobiaGame
 philadelphia
@@ -2507,6 +2527,7 @@ phillies
 philosophy
 PhilosophyMemes
 Philza
+phineasandferb
 phoenix
 PhoenixSC
 PhonesAreBad
@@ -2544,6 +2565,7 @@ playboicarti
 playrust
 playstation
 PlayStationPlus
+PleX
 PlipPlip
 PLTR
 Poetry
@@ -2844,6 +2866,8 @@ sffpc
 SFM
 SFWNextDoorGirls
 SFWRedheads
+SGExams
+shadowofmordor
 Sham_Sharma_Show
 SharedBPM
 sharks
@@ -3023,6 +3047,7 @@ StarWarsCantina
 StarWarsEU
 StarWarsleftymemes
 starwarsmemes
+starwarsrebels
 steak
 Steam
 SteamDeck
@@ -3343,6 +3368,7 @@ trucksim
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
+truegaming
 TrueOffMyChest
 TrueReddit
 TrueSTL
@@ -3573,6 +3599,7 @@ whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
 whenthe
+whiteknighting
 whitepeoplegifs
 WhitePeopleTwitter
 whitesox
@@ -3658,6 +3685,7 @@ XXXTENTACION
 YaeMiko
 Yahaha_IRL
 yakuzagames
+YarnAddicts
 yeagerbomb
 yeat_
 Yeen_irl
