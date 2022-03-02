@@ -77,6 +77,7 @@ adhdmeme
 ADHDmemes
 adhdwomen
 adorableoldpeople
+Adulting
 adultswim
 adventuretime
 Advice
@@ -619,6 +620,7 @@ characterarcs
 characterdrawing
 Charlotte
 CharlotteHornets
+CheetoTheCat
 Chefit
 chelseafc
 chemistry
@@ -675,6 +677,7 @@ clonewars
 CloneWarsMemes
 Cloud9
 cobrakai
+cocaine
 cockatiel
 cocktails
 CodeGeass
@@ -1054,6 +1057,7 @@ Embroidery
 Eminem
 EmKay
 Emoney
+Empaths
 EmpireDidNothingWrong
 Encanto
 ender3
@@ -1093,6 +1097,7 @@ EuroTruck2
 eurovision
 evangelionmemes
 EvelynnMains
+EverythingFoxes
 EverythingScience
 evilbuildings
 exjw
@@ -1159,6 +1164,7 @@ FigureSkating
 Filmmakers
 FinalFantasy
 finance
+financialindependence
 Finanzen
 FingMemes
 Finland
@@ -1180,6 +1186,7 @@ Floof
 florida
 FloridaMan
 FlorkofCowsOfficial
+flying
 fnki
 fnv
 fo4
@@ -1380,6 +1387,7 @@ greebles
 greece
 GreenAndPleasant
 GreenBayPackers
+greenday
 greentext
 greenville
 Greyhounds
@@ -1482,6 +1490,7 @@ holdmycatnip
 holdmycosmo
 holdmyfeedingtube
 holdmyfries
+holdmyjuicebox
 holdmyredbull
 holdup
 holesome
@@ -1637,6 +1646,7 @@ introvert
 investimentos
 Invincible
 Invisalign
+Iowa
 ipad
 iphone
 iRacing
@@ -1780,8 +1790,10 @@ KumoDesu
 kurzgesagt
 labrador
 labrats
+LAClippers
 ladiesofthemcu
 LadiesOfWrestling
+Ladybonersgonecuddly
 laidbackcamp
 lakers
 Lalisa
@@ -1894,6 +1906,7 @@ LTB_iel
 lucifer
 LudwigAhgren
 lululemon
+Lumity
 Lustig
 lux
 LV426
@@ -1975,6 +1988,7 @@ Meditation
 medizzy
 megalophobia
 MeganFox
+megantheestallionnsfw
 Megaten
 Megumin
 meirl
@@ -2011,6 +2025,7 @@ mexico
 Miata
 MichaelReeves
 Michigan
+MichiganWolverines
 MicrosoftRewards
 Mid_Century
 MikuNakano
@@ -2094,6 +2109,7 @@ motorcycles
 Mountaineering
 mountandblade
 MovieDetails
+MovieMistakes
 movies
 Moviesinthemaking
 MrRobot
@@ -2112,6 +2128,7 @@ MurderedByWords
 murdermittens
 MURICA
 Muse
+MushroomGrowers
 Music
 musicaljenga
 musicmemes
@@ -2138,6 +2155,7 @@ narutomemes
 nasa
 NASCAR
 nashville
+NataliaDyer
 natalieportman
 nathanforyou
 NationalPark
@@ -2429,6 +2447,7 @@ Pizza
 PizzaCrimes
 Planetside
 PlanetZoo
+PlantBasedDiet
 plantclinic
 PlantedTank
 plants
@@ -3381,6 +3400,7 @@ warriors
 WarshipPorn
 warthundermemes
 Warzone
+washingtonwizards
 wasletztepreis
 Watches
 Watchexchange
@@ -3408,6 +3428,7 @@ WeirdWheels
 WeirdWings
 weldedasfuck
 Welding
+Wellington
 Wellthatsucks
 Wellworn
 WestSubEver
@@ -3443,6 +3464,7 @@ WhyWomenLiveLonger
 WiggleButts
 wikipedia
 WildernessBackpacking
+wildhockey
 wildlifephotography
 Windows11
 wine
