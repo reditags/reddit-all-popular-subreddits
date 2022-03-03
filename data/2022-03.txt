@@ -299,6 +299,7 @@ AskOuija
 AskReddit
 askscience
 AskScienceFiction
+askSingapore
 AskThe_Donald
 asktransgender
 AskUK
@@ -377,9 +378,11 @@ BackYardChickens
 Bad_Cop_No_Donut
 badassanimals
 BadChoicesGoodStories
+BadDesigns
 baddiemuseum
 Badfaketexts
 Baking
+baldursgate
 BaldursGate3
 BancaDelMeme
 bangalore
@@ -759,6 +762,7 @@ chelseafc
 chemistry
 chemistrymemes
 Chennai
+chernobyl
 chess
 chessbeginners
 chessmemes
@@ -985,6 +989,7 @@ cyberpunkgame
 cybersecurity
 cybertruck
 czech
+czechmemes
 Dachschaden
 Dachshund
 dachshunds
@@ -1346,6 +1351,7 @@ Factoriohno
 FairytaleasFuck
 fakealbumcovers
 fakedisordercringe
+fakegeorgelucasquotes
 fakehistoryporn
 fakemon
 Falcom
@@ -1473,6 +1479,7 @@ FoundPaper
 foundsatan
 FoundTheInaAlt
 fountainpens
+fourthwavewomen
 foxes
 FoxFiction
 foxholegame
@@ -1746,6 +1753,7 @@ Hawaii
 HazbinHotel
 headpats
 headphones
+Healthyhooha
 hearthstone
 hearthstonecirclejerk
 heat
@@ -1986,6 +1994,7 @@ InternetIsBeautiful
 inthenews
 intotheshadowrealm
 INTP
+intresseklubben
 introvert
 investimentos
 Invincible
@@ -2212,6 +2221,7 @@ LeedsUnited
 LeftistGamersUnion
 LeftTheBurnerOn
 LegalAdviceUK
+legalcatadvice
 legendofkorra
 LegendsOfRuneterra
 lego
@@ -2470,6 +2480,7 @@ mildlyinteresting
 mildlypenis
 mildlysatisfying
 MildlyStartledCats
+mildlyvagina
 MildlyVandalised
 mildyinfuriating
 Military
@@ -3133,6 +3144,7 @@ Rarethreats
 raspberry_pi
 RATS
 ravens
+RazorMains
 RBI
 RDR2
 Re_Zero
@@ -3175,6 +3187,7 @@ rescuedogs
 Residency
 residentevil
 retarb
+retrobattlestations
 RetroBowl
 RetroFuturism
 retrogaming
@@ -3185,6 +3198,7 @@ rickygervais
 RidiculousRealEstate
 RighteousGemstones
 RightJerk
+rimesegate
 rimjob_steve
 RimWorld
 ripcity
@@ -3276,6 +3290,7 @@ SAVEBRENDAN
 savedyouaclick
 sbeve
 Scams
+ScandinavianInterior
 ScarySigns
 scathach
 SchittsCreek
@@ -3395,6 +3410,7 @@ Sidemen
 SifuGame
 SigmaGrindset
 Sigmarxism
+signal
 SigSauer
 silenthill
 Silmarillionmemes
@@ -3780,6 +3796,7 @@ thenetherlands
 TheOA
 theocho
 TheOnion
+TheOrville
 theouterworlds
 TheRatEmpire
 TheRealJoke
@@ -3816,6 +3833,7 @@ thumbcats
 Thunder
 thurstonwaffles
 tiedye
+Tierzoo
 tifu
 TIGHTPUSSY
 TIHI
@@ -4221,6 +4239,7 @@ Workbenches
 workchronicles
 WorkersStrikeBack
 WorkReform
+Workspaces
 Worldbox
 worldbuilding
 worldnews
@@ -4255,6 +4274,7 @@ xboxone
 XboxSeriesX
 Xcom
 Xenoblade_Chronicles
+xenogendercringe
 XFiles
 XiaoMains
 xkcd
@@ -4265,6 +4285,7 @@ YaeMiko
 Yahaha_IRL
 yakuzagames
 YAlit
+YanfeiMains
 YarnAddicts
 yeagerbomb
 yeat_
