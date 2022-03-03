@@ -80,6 +80,7 @@ acecombat
 Achievement_Hunter
 AchillesAndHisPal
 ACMilan
+acotar
 ACPocketCamp
 ActionFigures
 ActivationSound
@@ -88,6 +89,7 @@ ActualPublicFreakouts
 AddisonRae
 Adelaide
 AdeptusMechanicus
+ADHDinos
 adhdmeme
 ADHDmemes
 adhdwomen
@@ -228,6 +230,7 @@ antiMLM
 antinatalism
 Antiques
 antitheistcheesecake
+antitrampo
 antiwork
 Anya_TaylorJoy
 AO3
@@ -473,6 +476,7 @@ BigChungusReligion
 bigfloppa
 bih
 bikecommuting
+bikepacking
 Bikeporn
 BikiniBottomTwitter
 billieeilish
@@ -747,6 +751,7 @@ centrist
 centuryhomes
 Ceramics
 CFB
+cfbmemes
 Chadposting
 Chadtopia
 Chainsawfolk
@@ -825,6 +830,7 @@ climbing
 ClimbingCircleJerk
 clonewars
 CloneWarsMemes
+ClothedPreggo
 Cloud9
 cobrakai
 cocaine
@@ -908,6 +914,8 @@ Cornell
 Coronavirus
 Coronavirus_NZ
 CoronavirusDownunder
+CorporateFacepalm
+Corridor
 Corsair
 Cosmere
 cosplayers
@@ -1074,6 +1082,7 @@ declutter
 dedreviil
 DeepIntoYouTube
 DeepRockGalactic
+deepseacreatures
 DeepSpaceNine
 defi
 deficryptos
@@ -1205,6 +1214,7 @@ DotA2
 DownvotedToOblivion
 DragaliaLost
 dragonball
+dragonballfighterz
 DragonballLegends
 Dragonballsuper
 DragonsDogma
@@ -1547,6 +1557,7 @@ FunnyAnimals
 Funnymemes
 funnysigns
 funnyvideos
+fursedimages
 fursuit
 fuseboxgames
 fuslie
@@ -1606,6 +1617,7 @@ GenUsa
 GenX
 GenZ
 GenZedong
+GenZommunist
 geography
 geoguessr
 geology
@@ -1972,6 +1984,7 @@ IndianTeenagers
 indiantiktok
 indiasocial
 IndiaSpeaks
+indiegames
 IndieGaming
 indieheadscirclejerk
 indonesia
@@ -2020,6 +2033,7 @@ iRacing
 ireland
 IRLEasterEggs
 IronFrontUSA
+ironicsigns
 ironmaiden
 ironscape
 IrrationalMadness
@@ -2291,6 +2305,7 @@ LiverpoolFC
 LivestreamFail
 lmao
 LMDShow
+loadingicon
 LockdownSkepticism
 LodedDiper
 logodesign
@@ -2522,6 +2537,7 @@ minecraftseeds
 minecraftsuggestions
 MineralPorn
 miniatures
+minimalcatart
 minimalism
 miniminter
 minipainting
@@ -2539,6 +2555,7 @@ missbricosplay
 Mistborn
 mitski
 Mizkif
+mkbhd
 MkeBucks
 mlb
 MLBTheShow
@@ -2608,6 +2625,7 @@ Mujico
 mumbai
 Munich
 MurderBuns
+MurderDrones
 MurderedByAOC
 MurderedByWords
 murdermittens
@@ -2737,6 +2755,7 @@ NolanBatmanMemes
 NolanMemes
 NOLAPelicans
 NoMansSkyTheGame
+nonbinarymemes
 NonCredibleDefense
 NonCredibleDiplomacy
 NoneHumanMoe
@@ -3297,6 +3316,7 @@ SandersForPresident
 sandiego
 sanfrancisco
 SapphoAndHerFriend
+Sardonicast
 saskatchewan
 SASSWitches
 Satan
@@ -3428,6 +3448,7 @@ shrimptank
 shrooms
 ShuumatsuNoValkyrie
 Siamesecats
+SiberianCats
 Sidemen
 SifuGame
 SigmaGrindset
@@ -3453,6 +3474,7 @@ skamtebord
 sketches
 skiing
 Skookum
+Skullgirls
 SkyGame
 SkyPorn
 skyrim
@@ -3581,6 +3603,7 @@ steak
 Stealthbombers
 Steam
 SteamDeck
+Steelbooks
 steelers
 steinsgate
 Stellaris
@@ -3941,6 +3964,7 @@ travisscott
 trebuchetmemes
 treedibles
 trees
+TreesSuckingOnThings
 TripodCats
 trippinthroughtime
 Trishyland
@@ -4178,6 +4202,7 @@ WeAreTheMusicMakers
 WeatherGifs
 webcomics
 webdev
+wec
 weddingdress
 weddingshaming
 Weddingsunder10k
@@ -4230,6 +4255,7 @@ wholesomegifs
 wholesomegreentext
 wholesomejojo
 wholesomememes
+wholesomeouija
 wholesomeviolence
 whothefuckup
 WhyWereTheyFilming
@@ -4261,6 +4287,7 @@ Wizard101
 woahdude
 wokekids
 wolves
+WolvesAreBigYo
 womensstreetwear
 woodworking
 woof_irl
@@ -4356,3 +4383,4 @@ ZeroWaste
 ZhongliMains
 zoloft
 Zoomies
+zootopia
