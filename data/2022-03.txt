@@ -30,6 +30,7 @@
 30ROCK
 3amjokes
 3Blue1Brown
+3d6
 3Dmodeling
 3Dprinting
 3DS
@@ -77,6 +78,7 @@ Accounting
 AceAttorney
 acecombat
 Achievement_Hunter
+AchillesAndHisPal
 ACMilan
 ACPocketCamp
 ActionFigures
@@ -550,6 +552,7 @@ Bonsai
 BookOfBobaFett
 books
 bookscirclejerk
+bookshelf
 Boomerhumour
 boottoobig
 BorderCollie
@@ -747,6 +750,7 @@ Charlotte
 CharlotteHornets
 CheetoTheCat
 Chefit
+chefknives
 chelseafc
 chemistry
 chemistrymemes
@@ -944,6 +948,7 @@ Crypto_com
 CryptoCurrency
 Cryptomains
 CryptoMarkets
+CryptoMars
 CryptoMoonShots
 cryptostreetbets
 Crystals
@@ -1617,6 +1622,7 @@ Gloomhaven
 GME
 GMEJungle
 gmod
+Goatparkour
 goblincore
 GodofWar
 godot
@@ -1671,6 +1677,7 @@ gtaonline
 GTAorRussia
 GTAV
 gtavcustoms
+GTFO
 Guacamole_penis
 GuardianTales
 Guildwars2
@@ -1749,6 +1756,7 @@ HelpMeFind
 HermanCainAward
 HermitCraft
 hermitcraftmemes
+heroesofthestorm
 HeroForgeMinis
 herpetology
 HFY
@@ -1840,6 +1848,7 @@ HVAC
 HybridAnimals
 hyderabad
 HydroHomies
+hyimbe
 hyouka
 HypixelSkyblock
 IAmA
@@ -1851,6 +1860,7 @@ iamveryculinary
 iamveryrandom
 iamverysmart
 IASIP
+IBO
 ibs
 icecoast
 Iceland
@@ -2320,6 +2330,7 @@ magnetfishing
 Maine
 mainecoons
 MakeMeSuffer
+MakeNewFriendsHere
 MakeupAddiction
 MaladaptiveDreaming
 MalayalamMovies
@@ -2485,6 +2496,7 @@ miragemains
 Mirrorsforsale
 miscatculations
 misleadingthumbnails
+misLED
 missbricosplay
 Mistborn
 mitski
@@ -2595,6 +2607,7 @@ natalieportman
 nathanforyou
 NationalPark
 nattyorjuice
+nature
 Natureisbrutal
 NatureIsFuckingLit
 natureismetal
@@ -2649,6 +2662,7 @@ NFCNorthMemeWar
 NFCWestMemeWar
 NFL_Draft
 nflmemes
+nftarenas
 NFTsMarketplace
 nhl
 Nicegirls
@@ -2876,6 +2890,7 @@ pennystocks
 PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
+PercyJacksonMemes
 Perfectfit
 perfectloops
 PerfectlyCutBooms
@@ -3158,6 +3173,7 @@ RighteousGemstones
 RightJerk
 rimjob_steve
 RimWorld
+ripcity
 riskofrain
 Rivenmains
 Rivian
@@ -3248,6 +3264,7 @@ sbeve
 Scams
 ScarySigns
 scathach
+SchittsCreek
 schkreckl
 schoolfight
 science
@@ -3453,6 +3470,7 @@ SpecialSnowflake
 SpeculativeEvolution
 SpeedOfLobsters
 speedrun
+sphynx
 SpiceandWolf
 spiderbro
 Spiderman
@@ -3602,6 +3620,7 @@ SydneySweeney
 SympatheticMonsters
 synthesizers
 sysadmin
+systemofadown
 TabbyCats
 tacobell
 Tacoma
@@ -3869,6 +3888,7 @@ trucksim
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
+TrueFilm
 truegaming
 TrueOffMyChest
 TrueReddit
