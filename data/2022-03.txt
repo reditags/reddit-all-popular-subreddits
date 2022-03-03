@@ -400,6 +400,7 @@ badcode
 BadDesigns
 baddiemuseum
 Badfaketexts
+BadMUAs
 Baking
 baldursgate
 BaldursGate3
@@ -579,6 +580,7 @@ BoneAppleTea
 bonecollecting
 bonehurtingjuice
 Bonsai
+booknooks
 BookOfBobaFett
 books
 bookscirclejerk
@@ -1201,6 +1203,7 @@ DIY
 DMAcademy
 DMT
 DnD
+DnDGreentext
 DnDHomebrew
 DnDIY
 dndmaps
@@ -1384,6 +1387,7 @@ exjw
 exmormon
 exmuslim
 exocomics
+ExpectationVsReality
 ExperiencedDevs
 explainlikeimfive
 ExposurePorn
@@ -1506,6 +1510,7 @@ food
 Foodforthought
 foodhacks
 FoodPorn
+Foofighters
 football
 footballcards
 footballmanagergames
@@ -2090,6 +2095,7 @@ ironscape
 IrrationalMadness
 IsItBullshit
 islam
+isopods
 Israel
 Issavegasonly
 italy
@@ -2144,6 +2150,7 @@ joinsquad
 Jokes
 JonTron
 JordanPeterson
+jordynjoness
 Journaling
 jovemnerd
 jpegmafia
@@ -2229,6 +2236,7 @@ KingOfTheHill
 kings
 Kirby
 KitchenConfidential
+Kitting
 KittyPupperLove
 Klengan
 KneadyCats
@@ -2897,6 +2905,7 @@ OkBubbyRetard
 okbuddybaka
 okbuddycapitalist
 okbuddychicanery
+okbuddydaylight
 okbuddygenshin
 okbuddyguardian
 okbuddyhasan
@@ -3343,6 +3352,7 @@ RoomPorn
 roosterteeth
 Rottweiler
 RoughRomanMemes
+RoundAnimals
 RoyaleHigh_Roblox
 RPClipsGTA
 RPDR_UK
@@ -4007,6 +4017,7 @@ tomorrow
 tonightsdinner
 TonikakuCawaii
 TooAfraidToAsk
+toofers
 tookjustenough
 tooktoomuch
 ToolBand
@@ -4131,6 +4142,7 @@ uktrees
 Ultrakill
 ultrawidemasterrace
 UmbrellaAcademy
+UMD
 uncharted
 unclebens
 Unclejokes
@@ -4193,6 +4205,7 @@ ValorantMemes
 valve
 vancouver
 vandwellers
+VanLife
 Vans
 vaporents
 VaporwaveAesthetics
@@ -4225,6 +4238,7 @@ videogamedunkey
 videomemes
 videos
 VietNam
+ViewPorn
 Vinesauce
 VinlandSaga
 VintageApple
@@ -4286,6 +4300,7 @@ WatchPeopleDieInside
 watchpeoplesurvive
 watchthingsfly
 Watercolor
+watercooling
 Waterdogs
 waterloo
 WattsonMains
@@ -4353,6 +4368,7 @@ wholesomeviolence
 whothefuckup
 WhyWereTheyFilming
 WhyWomenLiveLonger
+wien
 WiggleButts
 wii
 wikipedia
