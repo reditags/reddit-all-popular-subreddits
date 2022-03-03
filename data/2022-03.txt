@@ -814,6 +814,7 @@ chomsky
 Chonkers
 ChoosingBeggars
 Christianity
+ChronicIllness
 chronotrigger
 ChurchofBelly
 ChurchofKawakami
@@ -898,6 +899,7 @@ CompanyOfHeroes
 CompetitiveApex
 Competitiveoverwatch
 COMPLETEANARCHY
+conan
 ConanBeingAwesome
 confession
 confessions
@@ -1100,6 +1102,7 @@ deathgrips
 deathguard40k
 deathnote
 DeathsofDisinfo
+DeathStranding
 DebateVaccines
 DebtStrike
 DecidingToBeBetter
@@ -1238,6 +1241,7 @@ doodles
 doordash
 doordash_drivers
 DotA2
+DowntonAbbey
 DownvotedToOblivion
 DragaliaLost
 dragonball
@@ -1251,6 +1255,7 @@ DramaticText
 Draven
 drawing
 drawthisagain
+DrDisrespectLive
 Dreadlocks
 Dreams
 dreamsmp
@@ -2010,6 +2015,7 @@ ImpracticalJokers
 imsorryjon
 ImTheMainCharacter
 IncelTear
+InclusiveOr
 IncreasinglyVerbose
 IncrediblesMemes
 india
@@ -2035,6 +2041,7 @@ indonesia
 IndoorGarden
 INDYCAR
 InfinityTrain
+InfluencergossipDK
 Infographics
 InfowarriorRides
 infp
@@ -2288,6 +2295,7 @@ leagueofjinx
 leagueoflegends
 LeagueOfMemes
 leanbeefpatty
+learningtocat
 LearnJapanese
 learnprogramming
 learntodraw
@@ -3940,6 +3948,7 @@ TheWayWeWereOnVideo
 TheWeeknd
 TheWire
 thewitcher3
+TheYardPodcast
 theydidthemath
 theyknew
 ThickFit
@@ -4107,6 +4116,7 @@ UFOs
 UGA
 uglyduckling
 UIUC
+ukdrill
 UKPersonalFinance
 ukraina
 ukraine
