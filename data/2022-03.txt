@@ -144,6 +144,7 @@ AlbedosCreations
 alberta
 Albuquerque
 AlchemyStarsEN
+AlejandraQuiroz
 Alejandraquirozf
 alexandradaddario
 algotrading
@@ -752,6 +753,7 @@ castiron
 castles
 castlevania
 CasualConversation
+CasualIreland
 casualknitting
 casualnintendo
 CasualUK
@@ -1298,6 +1300,7 @@ doggrooming
 Dogloaf
 dogpictures
 dogs
+dogs_getting_dogs
 DogsAndPlants
 DogsMirin
 dogsonroofs
@@ -2220,6 +2223,7 @@ iRacing
 ireland
 IRLEasterEggs
 IronFrontUSA
+IronHarvest
 ironicsigns
 ironmaiden
 ironscape
@@ -2821,6 +2825,7 @@ MobKitchen
 Mobpsycho100
 modelmakers
 Models
+ModelsGoneMild
 moderatepolitics
 Modern_Family
 ModernistArchitecture
@@ -4390,6 +4395,7 @@ twinpeaks
 TwistedWonderland
 Twitch
 twittermoment
+TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
 TwoXChromosomes
