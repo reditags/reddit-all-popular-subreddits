@@ -218,6 +218,7 @@ AnimalsBeingGeniuses
 AnimalsBeingJerks
 AnimalsBeingLoveable
 AnimalsBeingMoms
+AnimalsBeingStrange
 animalsdoingstuff
 AnimalTextGifs
 animation
@@ -361,6 +362,7 @@ assettocorsa
 assholedesign
 assholetax
 astrologymemes
+Astroneer
 Astronomy
 astrophotography
 Asuka
@@ -419,6 +421,7 @@ Ayato_Mains
 AyyMD
 AZCardinals
 aznidentity
+azunyan
 babushkadogs
 Babushkats
 babybigcatgifs
@@ -851,12 +854,14 @@ Ceramics
 CFB
 cfbmemes
 Chadposting
+chadsriseup
 Chadtopia
 Chainsawfolk
 ChainsawMan
 chainsawmancirclejerk
 Championship
 Chang_Gang
+Chaos40k
 chaoticgood
 characterarcs
 characterdrawing
@@ -1046,6 +1051,7 @@ COVIDAteMyFace
 CovIdiots
 cowboybebop
 cowboys
+Cows
 coys
 cozy
 CozyPlaces
@@ -1242,6 +1248,7 @@ deMiko
 DemocraticSocialism
 democrats
 DEMONDICE
+DemonSchoolIrumakun
 DemonSlayer
 DemonSlayerAnime
 demonssouls
@@ -1285,6 +1292,7 @@ diabetes
 diabetes_t1
 Diablo
 diablo2
+DiabolicalMoments
 DicePorn
 DidntKnowIWantedThat
 DidYouKn
@@ -1679,6 +1687,7 @@ forhonor
 forhonorknights
 forhonormemes
 ForHonorRants
+formalwaifus
 formula1
 formuladank
 forsen
@@ -2046,6 +2055,7 @@ HildaTheSeries
 HIMYM
 hinduism
 HistoricalCostuming
+history
 HistoryAnecdotes
 HistoryAnimemes
 HistoryPorn
@@ -2170,6 +2180,7 @@ ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
 IKEA
+IkeaFreshBalls
 IllegalLifeProTips
 illegallybigcats
 IllegallySmol
@@ -2199,6 +2210,7 @@ ImaginaryHorrors
 ImaginaryHybrids
 ImaginaryInteriors
 ImaginaryJedi
+ImaginaryKnights
 ImaginaryLandscapes
 ImaginaryLeviathans
 ImaginaryMaids
@@ -2943,6 +2955,7 @@ MonsterHigh
 MonsterHunter
 MonsterHunterWorld
 Monsterverse
+montreal
 montypython
 MoonKnight
 Moonmoon
@@ -2955,6 +2968,7 @@ Morocco
 Morrowind
 MortalKombat
 MostBeautiful
+MostInterestingCats
 motivation
 motogp
 motorboat
@@ -3289,6 +3303,7 @@ orangetheory
 orchids
 oregon
 OrganizationPorn
+OriAndTheBlindForest
 orks
 OrthodoxChristianity
 OshiNoKo
@@ -3891,6 +3906,7 @@ ShittyAnimalFacts
 shittyaquariums
 Shittyaskflying
 shittyaskscience
+ShittyDaystrom
 shittyfoodporn
 shittygamedetails
 ShittyGifRecipes
@@ -4024,6 +4040,7 @@ SpaceXMasterrace
 SPACs
 spain
 Spanish
+SpecArt
 specializedtools
 SpecialSnowflake
 SpeculativeEvolution
@@ -4067,6 +4084,7 @@ stalker
 standardissuecat
 StandUpComedy
 standupshots
+stanpegasus
 starbound
 starbucks
 starcitizen
@@ -4118,6 +4136,7 @@ Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
 StoppedWorking
+StoriesAboutKevin
 Stormlight_Archive
 straightenedfeetsies
 StraightsBeingOK
@@ -4139,6 +4158,7 @@ submarines
 submechanophobia
 subnautica
 SubsIFellFor
+SubSimGPT2Interactive
 SubSimulatorGPT2
 Suburbanhell
 SubwayCreatures
@@ -4162,6 +4182,7 @@ Superbowl
 superman
 SuperMegaShow
 SupermodelCats
+SupermodelDogs
 Supernatural
 superpoweralchemists
 supersentai
@@ -4610,6 +4631,7 @@ UniUK
 unixporn
 unket
 unlikelyfriends
+UnnecessaryInventions
 unOrdinary
 unpopularopinion
 Unravelers
