@@ -94,6 +94,7 @@ ACMilan
 acne
 acotar
 ACPocketCamp
+ACQR
 ActionFigures
 ActivationSound
 ActLikeYouBelong
@@ -990,6 +991,7 @@ cockatiel
 cocktails
 CoDCompetitive
 CodeGeass
+codevein
 CODVanguard
 CODWarzone
 codyko
@@ -1115,6 +1117,7 @@ creepydesign
 creepyencounters
 creepypasta
 creepyPMs
+CreepyWikipedia
 cremposting
 Cricket
 CricketShitpost
@@ -1194,6 +1197,7 @@ dahyun
 dakotajohnson
 Dallas
 DallasStars
+DamnNatureYouScary
 Damnthatsinteresting
 dancemoms
 danganronpa
@@ -1220,6 +1224,7 @@ DannyGonzalez
 DanTDM
 DarceyAndStaceyTLC
 Daredevil
+DarioMocciaTwitch
 DarK
 DarkAcademia
 DarkCircledWaifu
@@ -1278,6 +1283,7 @@ DecidingToBeBetter
 DeclineIntoCensorship
 declutter
 dedreviil
+deepdream
 DeepIntoYouTube
 DeepRockGalactic
 deepseacreatures
@@ -1610,6 +1616,7 @@ extremelyinfuriating
 Eyebleach
 f150
 F1Game
+F1NN5TER
 F1Porn
 F1Technical
 facebookwins
@@ -2057,6 +2064,7 @@ HadesTheGame
 HadToHurt
 haikyuu
 Hair
+hajimenoippo
 HalfLife
 halifax
 halloween
@@ -3215,6 +3223,7 @@ NewParents
 NewPatriotism
 news
 newsentences
+NewSkaters
 NewVegasMemes
 newworldgame
 newyorkcity
@@ -3464,6 +3473,7 @@ OWConsole
 Owls
 OyasumiPunpun
 pablofanclub
+pagan
 painting
 pakistan
 Paladins
@@ -4086,6 +4096,7 @@ Shotguns
 shouldercats
 ShovelKnight
 Showerthoughts
+Shrek
 shrimptank
 shrooms
 ShuumatsuNoValkyrie
@@ -4545,6 +4556,7 @@ thelongdark
 TheMagnusArchives
 TheMandalorianTV
 TheMandemNP
+TheMemersClub
 TheMonkeysPaw
 thenetherlands
 TheNightFeeling
@@ -4829,6 +4841,7 @@ UnresolvedMysteries
 UnsentLetters
 unstirredpaint
 untrustworthypoptarts
+UnusualArt
 UnusualVideos
 unwholesomememes
 uofm
@@ -4883,6 +4896,7 @@ Vent
 venti
 venting
 venturebros
+verfluchteKommentare
 Vermintide
 vermont
 Veterans
