@@ -286,6 +286,7 @@ ApexLore
 ApexOutlands
 ApexUncovered
 apexuniversity
+aphextwin
 apolloapp
 AppalachianTrail
 apple
@@ -3096,6 +3097,7 @@ natalieportman
 nathanforyou
 nathanwpyle
 NationalPark
+nativeamericanflutes
 nattyorjuice
 nature
 Natureisbrutal
@@ -3530,6 +3532,7 @@ playboicarti
 playrust
 playstation
 PlayStationPlus
+pleistocene
 PleX
 PlipPlip
 PLTR
@@ -4313,6 +4316,7 @@ tales
 talesfromcallcenters
 TalesFromRetail
 talesfromtechsupport
+TalesFromTheCustomer
 TalesFromTheFrontDesk
 TalesFromThePharmacy
 TalesFromTheSquadCar
