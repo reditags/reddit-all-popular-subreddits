@@ -1350,6 +1350,7 @@ DiscoElysium
 discord_irl
 discordapp
 discordVideos
+DiscoverEarth
 discworld
 disenchantment
 dishonored
@@ -1524,6 +1525,7 @@ Encanto
 ender3
 EndlessSpace
 energy
+ENFP
 EngagementRings
 engineering
 engineeringmemes
@@ -1906,6 +1908,7 @@ geology
 geometrydash
 geopolitics
 Georgia
+German
 GermanMemes
 germanshepherds
 germany
@@ -1994,6 +1997,7 @@ greentext
 greenville
 Greyhounds
 greysanatomy
+grian
 GriefSupport
 grilledcheese
 grilling
@@ -2318,6 +2322,7 @@ indianews
 IndianGaming
 Indiangirlsontinder
 IndiaNostalgia
+indianpeoplefacebook
 IndianSauce
 IndianStreetBets
 IndianTeenagers
@@ -2339,6 +2344,7 @@ InfowarriorRides
 infp
 InfrastructurePorn
 initiald
+iNoobChannel
 insaneparents
 InsaneParler
 InsanePeopleQuora
@@ -2513,6 +2519,7 @@ kayascodelario
 KaynMains
 Kazakhstan
 KazuhaMains
+kde
 KDRAMA
 KeanuBeingAwesome
 Keep_Track
@@ -2791,6 +2798,7 @@ MadisonPettis
 madisonwi
 madnesscombat
 MadokaMagica
+MAFS_AU
 MagicArena
 MagicEye
 magicthecirclejerking
@@ -4404,6 +4412,7 @@ technicallythetruth
 technicallytrue
 Technoblade
 technology
+TechNope
 techsupportgore
 techsupportmacgyver
 techwearclothing
@@ -4743,6 +4752,7 @@ ultrawidemasterrace
 UmaMusume
 UmbrellaAcademy
 UMD
+UnchainedMelancholy
 uncharted
 unclebens
 Unclejokes
