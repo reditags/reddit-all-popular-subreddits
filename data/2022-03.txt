@@ -150,6 +150,7 @@ AlbedosCreations
 alberta
 Albuquerque
 AlchemyStarsEN
+aldi
 AlejandraQuiroz
 Alejandraquirozf
 alexandradaddario
@@ -222,6 +223,7 @@ AnimalsBeingLoveable
 AnimalsBeingMoms
 AnimalsBeingStrange
 animalsdoingstuff
+AnimalsMonching
 AnimalTextGifs
 animation
 anime_irl
@@ -487,6 +489,7 @@ battles2
 battlestations
 battletech
 bayarea
+Bayonetta
 BBB21Flagras
 BBQ
 BeachCity
@@ -1359,6 +1362,7 @@ DocumentedFights
 Dodgers
 DOG
 Dogberg
+dogbridges
 dogecoin
 dogelore
 Doggles
@@ -1677,7 +1681,9 @@ FloridaCoronavirus
 FloridaMan
 FlorkofCowsOfficial
 flowers
+Flyers
 flying
+fnafcringe
 fnatic
 fnki
 fnv
@@ -2726,6 +2732,7 @@ lululemon
 Lumity
 Lustig
 lux
+LuxloCosplay
 LV426
 MAAU
 mac
@@ -2868,6 +2875,7 @@ MemeVideos
 memexico
 memphis
 memphisgrizzlies
+MenAndFemales
 MensLib
 Mensmittenwithkittens
 MensRights
@@ -3732,6 +3740,7 @@ rescuedogs
 Residency
 residentevil
 restofthefuckingowl
+retailhell
 retarb
 retrobattlestations
 RetroBowl
@@ -4185,6 +4194,7 @@ stockholm
 StockMarket
 stocks
 Stoicism
+StoicMemes
 stolendogbeds
 StonerEngineering
 Stonetossingjuice
@@ -4249,6 +4259,7 @@ SuperStructures
 supportlol
 surrealmemes
 Surtr
+Surveying
 Survival
 SurvivalGrid
 survivinginfidelity
