@@ -81,6 +81,7 @@ AccidentalRacism
 AccidentalRenaissance
 accidentalrockwell
 AccidentalSlapStick
+accidentalswastika
 AccidentalTerrorism
 AccidentalWesAnderson
 ACCompetizione
@@ -242,6 +243,7 @@ AnimeFunny
 animegifs
 AnimeHoodies
 animehotbeverages
+AnimeInOurWorld
 AnimeMeme
 animememes
 Animemes
@@ -2556,6 +2558,7 @@ Knoxville
 kof
 KokkoroNatsume
 Kokomi_Mains
+kolkata
 Komi_san
 Konosuba
 korea
