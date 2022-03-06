@@ -484,6 +484,7 @@ baseball
 baseballcards
 basketballcards
 bassfishing
+BassGuitar
 bathandbodyworks
 batman
 BatmanArkham
@@ -1848,6 +1849,7 @@ G59
 GabyGardezOF
 gachagaming
 gadgets
+galatasaray
 GalGadot
 Gameboy
 gamecollecting
@@ -2114,6 +2116,7 @@ HeyImBee_SFW
 HFY
 HighQualityGifs
 HighStrangeness
+Higurashinonakakoroni
 HikaruNakamura
 HilariaBaldwin
 HildaTheSeries
@@ -2560,6 +2563,7 @@ kings
 Kirby
 KitchenConfidential
 Kitting
+kittyhasaquestion
 KittyPupperLove
 KittyTailWrap
 kkb
@@ -2805,6 +2809,7 @@ magicthecirclejerking
 magnetfishing
 Maine
 mainecoons
+majonotabitabi
 MakeMeSuffer
 MakeNewFriendsHere
 MakeupAddiction
@@ -3469,6 +3474,7 @@ Pathfinder_Kingmaker
 pathofexile
 Patriots
 paulina_serranooo
+PaulinaGaitan
 Pauper
 PAW_digital
 paydaytheheist
@@ -3924,6 +3930,7 @@ saw
 sbeve
 Scams
 ScandinavianInterior
+ScaramoucheMains
 ScarySigns
 scathach
 scheispfostierungen
@@ -4611,6 +4618,7 @@ tookjustenough
 tooktoomuch
 ToolBand
 Tools
+TooMeIrlForMeIrl
 ToothpasteBoys
 TopGear
 TopMemesUsers
@@ -4652,6 +4660,7 @@ transgendercirclejerk
 TransLater
 transmasc_irl
 Transmatfiring
+transvoice
 trashpandas
 TrashTaste
 trashy
@@ -4959,6 +4968,7 @@ weezer
 WeightLossAdvice
 Weird
 weirdcore
+WeirdEggs
 WeirdFlexButOK
 weirdvideosfor3am
 WeirdWheels
