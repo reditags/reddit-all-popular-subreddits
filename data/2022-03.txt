@@ -1920,6 +1920,7 @@ gadgets
 galatasaray
 GalaxysEdge
 GalGadot
+gallifrey
 Gameboy
 gamecollecting
 gamedev
@@ -2098,6 +2099,7 @@ Guitar
 GuitarAmps
 guitarcirclejerk
 guitarporn
+guitars
 Gundam
 gundeals
 Gunners
@@ -3793,6 +3795,7 @@ pregnant
 PrehistoricMemes
 Prematurecelebration
 premed
+premedcanada
 PremierLeague
 premiuminternet
 PrepperIntel
@@ -3931,6 +3934,7 @@ REBubble
 recipes
 reclaimedbynature
 recruitinghell
+red_velvet
 reddeadfashion
 reddeadmysteries
 RedDeadOnline
@@ -4763,6 +4767,7 @@ TikTokCringe
 tiktokcringemoment
 TiktokCringeTime
 TikTokFeet
+TikTokLive
 TILI
 tiltshift
 timberwolves
@@ -4809,6 +4814,7 @@ tookjustenough
 tooktoomuch
 ToolBand
 Tools
+toolsinaction
 TooMeIrlForMeIrl
 ToothpasteBoys
 TopGear
