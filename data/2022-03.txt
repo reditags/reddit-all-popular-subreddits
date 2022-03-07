@@ -208,6 +208,7 @@ analog
 AnalogCommunity
 Anarchism
 Anarcho_Capitalism
+Anarchy101
 AnarchyChess
 Anbennar
 Ancientknowledge
@@ -3891,6 +3892,7 @@ redneckengineering
 RedoOfHealer
 redpandas
 redsox
+redstone
 RedvsBlue
 regularcarreviews
 regularshow
@@ -3955,6 +3957,7 @@ RoomPorn
 roosterteeth
 ror2
 rosin
+RotMG
 Rottweiler
 RoughRomanMemes
 RoundAnimals
