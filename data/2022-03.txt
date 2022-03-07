@@ -806,6 +806,7 @@ CapitolConsequences
 caps
 CaptainSparrowmemes
 capybara
+carcrash
 cardano
 Cardinals
 carmemes
@@ -1321,6 +1322,7 @@ DemonSchoolIrumakun
 DemonSlayer
 DemonSlayerAnime
 demonssouls
+Demotivational
 Denmark
 DenseGifs
 Denton
@@ -2607,6 +2609,7 @@ killteam
 killthecameraman
 KimetsuNoYaiba
 kindafunny
+kindle
 Kindred
 kingdomcome
 KingdomHearts
@@ -3735,12 +3738,14 @@ preppers
 PrequelMemes
 PresidentialRaceMemes
 prettyasiangirls
+PrettyGirlsUglyFaces
 prey
 preyingmantis
 Priconne
 PrimitiveTechnology
 PrincessesOfPower
 PrintedMinis
+Prisonwallet
 privacy
 ProCreate
 productivity
@@ -4006,6 +4011,7 @@ SanJoseSharks
 SapphoAndHerFriend
 Sardonicast
 saskatchewan
+saskatoon
 SASSWitches
 Satan
 satanism
@@ -4070,6 +4076,7 @@ SelfAwarewolves
 selfhosted
 selfie
 selfimprovement
+SellingSunset
 sendinthetanks
 seniorkitties
 SequelMemes
@@ -4839,6 +4846,7 @@ UBC
 UberEATS
 Ubiquiti
 UBreddit
+UCalgary
 UCI
 ucla
 UCSC
