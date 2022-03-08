@@ -1018,6 +1018,7 @@ classicwow
 ClassPoliticsTwitter
 ClassroomOfTheElite
 CleaningTips
+Cleveland
 clevercomebacks
 climate
 ClimateActionPlan
@@ -1664,6 +1665,7 @@ estoration
 ethereum
 ethoslab
 ethtrader
+etymology
 eu4
 eu_nvr
 Eugene
@@ -2430,6 +2432,7 @@ ImaginaryBestOf
 ImaginaryCastles
 ImaginaryCharacters
 ImaginaryCityscapes
+ImaginaryColorscapes
 ImaginaryCybernetics
 ImaginaryCyberpunk
 ImaginaryDemons
@@ -2621,6 +2624,7 @@ JenniferLawrence
 Jeopardy
 jerma985
 jerseycity
+jesuschristouija
 Jewdank
 jewelrymaking
 Jewish
@@ -5045,6 +5049,7 @@ tumblr
 TumblrInAction
 Turkey
 TurkeyJerky
+turkish
 TurkishCats
 TuxedoCats
 TVDetails
@@ -5237,6 +5242,7 @@ virginvschad
 virtualreality
 Visiblemending
 visualnovels
+ViviWinkler
 vizsla
 VocabWordOfTheDay
 Vocaloid
@@ -5475,6 +5481,7 @@ xkcd
 xmen
 xqcow
 XXXTENTACION
+yaelcohenof
 YaeMiko
 YagateKiminiNaru
 Yahaha_IRL
