@@ -832,6 +832,7 @@ capybara
 carcrash
 cardano
 Cardinals
+cardsagainsthumanity
 carmemes
 Carpentry
 carporn
@@ -963,6 +964,7 @@ ChildrenFallingOver
 chile
 China_irl
 chinchilla
+ChineseLanguage
 Chinesium
 Chiraqology
 chloe
@@ -1306,6 +1308,7 @@ dbfz
 dbz
 DBZDokkanBattle
 DC_Cinematic
+DCAU
 DCcomics
 dccomicscirclejerk
 DCEUleaks
@@ -1886,6 +1889,7 @@ FridayNightFunkin
 FridayNightHighJinks
 friendlyjordies
 FriendsOver40
+FrogLoaf
 frogs
 FromKittenToCat
 FromPuppyToDog
@@ -4115,6 +4119,7 @@ ryujin
 sabaton
 SabatonMemes
 Saber
+SabrinaCarpenter
 Sacramento
 sadboys
 sadcats
