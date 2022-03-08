@@ -620,6 +620,7 @@ BirdsForScale
 birdstakingthetrain
 birdswitharms
 bisexual
+BisexualFrogs
 BisexualTeens
 bitchimabus
 BitchImATrain
@@ -1330,6 +1331,7 @@ deadcells
 deadlockpw
 deadmalls
 deadmeatjames
+DeathByMillennial
 Deathcore
 deathgrips
 deathguard40k
@@ -1808,6 +1810,7 @@ fitness30plus
 fixedbytheduet
 FixedGearBicycle
 FL_Studio
+Flamepoints
 flashlight
 FlashTV
 FleshPitNationalPark
@@ -2100,6 +2103,7 @@ googlemapsshenanigans
 GooglePixel
 gorillaz
 GossipGirl
+goth
 Gothenburg
 GothGirls
 gradadmissions
@@ -3629,6 +3633,7 @@ OneSecondBeforeDisast
 oneshot
 OneTopicAtATime
 onetruegod
+onewheel
 OneyPlays
 onguardforthee
 OnionLovers
@@ -4077,6 +4082,7 @@ ReiAyanami
 relationship_advice
 RelationshipMemes
 religiousfruitcake
+RenewableEnergy
 Reno
 Repaintings
 repbudgetsneakers
@@ -5226,6 +5232,7 @@ vinyl
 vinyljerk
 VioletEvergarden
 Virginia
+VirginiaRamirez
 virginvschad
 virtualreality
 Visiblemending
