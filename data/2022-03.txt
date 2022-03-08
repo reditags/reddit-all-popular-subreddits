@@ -22,6 +22,7 @@
 2b2t
 2bharat4you
 2bulgar4you
+2greek4you
 2hujerk
 2meirl42meirl4meirl
 2meirl4meirl
@@ -1585,6 +1586,7 @@ EldenBling
 Eldenring
 ElderScrolls
 elderscrollsonline
+ElectricalEngineering
 electricians
 electricvehicles
 ElectroBOOM
@@ -1780,6 +1782,7 @@ fireemblem
 FireEmblemHeroes
 FireEmblemThreeHouses
 Firefighting
+firefly
 firefox
 FIREUK
 FirstTimeHomeBuyer
@@ -2435,6 +2438,7 @@ ImaginaryWesteros
 ImaginaryWitcher
 ImaginaryWitches
 ImaginaryWizards
+ImaginAsian
 ImagineThisView
 ImFinnaGoToHell
 ImmutableX
@@ -3640,6 +3644,7 @@ outofcontextcomics
 OutOfTheLoop
 outrun
 outside
+ovalwichs
 overclocking
 overlord
 OverSimplified
@@ -3892,6 +3897,7 @@ Prisonwallet
 privacy
 ProCreate
 productivity
+ProfessorLayton
 ProgrammerAnimemes
 ProgrammerHumor
 programming
@@ -4569,6 +4575,7 @@ subaru
 submarines
 submechanophobia
 subnautica
+SUBREDDITNAME
 SubsIFellFor
 SubSimGPT2Interactive
 SubSimulatorGPT2
