@@ -1972,6 +1972,7 @@ ftlgame
 FTMFitness
 fuckcars
 fuckepic
+FUCKFACEPOD
 fuckgravel
 FuckGregAbbott
 fuckHOA
@@ -2055,6 +2056,7 @@ GawrGura
 gay
 gaybros
 GaylorSwift
+gaymemes
 GaySoundsShitposts
 gayspiderbrothel
 GearsOfWar
@@ -3476,6 +3478,7 @@ NCT
 ndp
 nebelung
 NeckbeardNests
+neckbeardRPG
 Necrontyr
 nederlands
 NedWayHome
@@ -5450,6 +5453,7 @@ WeightLossAdvice
 Weird
 weirdcore
 WeirdEggs
+weirdfacefunny
 WeirdFlexButOK
 weirdvideosfor3am
 WeirdWheels
@@ -5535,6 +5539,7 @@ witcher
 Witcher3
 WitcherMemes
 WitchesVsPatriarchy
+WithoutThePunchline
 Wizard101
 wnba
 woahdude
@@ -5565,6 +5570,7 @@ wortwitzkasse
 WoT
 wow
 wowthanksimcured
+Wrangler
 Wrasslin
 wrestling
 writers
