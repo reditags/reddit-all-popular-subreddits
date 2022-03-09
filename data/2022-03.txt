@@ -485,6 +485,7 @@ badcode
 BadDesigns
 baddiemuseum
 Badfaketexts
+badfriendspod
 badhistory
 BadMUAs
 badUIbattles
@@ -991,6 +992,7 @@ Chonkers
 ChoosingBeggars
 Christianity
 christianmemes
+Chromita
 ChronicIllness
 chronotrigger
 ChuckleSandwich
@@ -2729,6 +2731,7 @@ KatDennings
 katebeckinsale
 KathyDrayton
 kayakfishing
+Kayaking
 kayascodelario
 KaynMains
 Kazakhstan
@@ -4044,6 +4047,7 @@ qimmahonlyfans
 qimmahrusso
 Quebec
 queensofleague
+QueerEye
 quilting
 quityourbullshit
 Qult_Headquarters
@@ -4585,6 +4589,7 @@ squishmallow
 SRAWeekend
 SrGrafo
 srilanka
+SS13
 SSBM
 sskfjkhwerjkghwerijh
 Stadia
@@ -5354,6 +5359,7 @@ warthundermemes
 Warzone
 washingtonwizards
 wasletztepreis
+WatchAnimalsDieInside
 watchcatsdieinside
 WatchDogsWoofInside
 Watches
