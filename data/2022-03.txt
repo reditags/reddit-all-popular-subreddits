@@ -98,6 +98,7 @@ Achievement_Hunter
 AchillesAndHisPal
 ACMilan
 acne
+acnh
 acotar
 ACPocketCamp
 ACQR
@@ -3715,6 +3716,7 @@ OldSchoolCool
 oldschoolhot
 Oldtimer
 oliviadunne
+OliviaHolt
 OliviaRodrigo_
 olympics
 Omaha
@@ -4208,6 +4210,7 @@ retrobattlestations
 RetroBowl
 RetroFuturism
 retrogaming
+Returnal
 reverseanimalrescue
 RHOBH
 RhodeIsland
