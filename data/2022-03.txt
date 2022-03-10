@@ -975,6 +975,7 @@ Chargers
 chargetheyphone
 Charlotte
 CharlotteHornets
+chch
 CheetoTheCat
 Chefit
 chefknives
@@ -1629,6 +1630,7 @@ DynastyFF
 Dyson_Sphere_Program
 earthbound
 EarthPorn
+Earwolf
 EatCheapAndHealthy
 eatsandwiches
 Eberron
@@ -2436,6 +2438,7 @@ HumansForScale
 HumanTippyTaps
 humblebundles
 humor
+humour
 hungary
 hunterxdank
 HunterXHunter
