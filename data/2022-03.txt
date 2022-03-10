@@ -3964,6 +3964,7 @@ plantsandpots
 PlantsVSZombies
 PlayAvengers
 playboicarti
+PlayItAgainSam
 playrust
 playstation
 PlayStationPlus
@@ -4183,6 +4184,7 @@ REBubble
 recipes
 reclaimedbynature
 recruitinghell
+Recursion
 red_velvet
 reddeadfashion
 reddeadmysteries
@@ -5394,6 +5396,7 @@ vintageads
 VintageApple
 vintagecomputing
 VintageFashion
+vintagejapaneseautos
 vinyl
 vinyljerk
 VioletEvergarden
@@ -5655,6 +5658,7 @@ yakuzagames
 YAlit
 YanfeiMains
 YarnAddicts
+yarntrolls
 YasuoMains
 yeagerbomb
 yeat_
