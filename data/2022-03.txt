@@ -1157,6 +1157,7 @@ ConanBeingAwesome
 confession
 confessions
 confidentlyincorrect
+confusing
 confusing_perspective
 confusingperspective
 CongratsLikeImFive
@@ -2201,6 +2202,7 @@ GME
 gme_meltdown
 GMEJungle
 gmod
+gnome
 Goatparkour
 GoatsOnTopOfHorses
 goblincore
@@ -4164,6 +4166,7 @@ PrincessesOfPower
 PrintedMinis
 Prisonwallet
 privacy
+PrivacyGuides
 ProCreate
 productivity
 ProfessorLayton
@@ -4263,6 +4266,7 @@ rance
 rance_iel
 randomactsofmusic
 randomsexygifs
+RandomThoughts
 rangers
 rangersfc
 rant
@@ -5779,6 +5783,7 @@ XboxSeriesX
 Xcom
 Xenoblade_Chronicles
 xenogendercringe
+Xenonion
 XFiles
 XiaoMains
 xkcd
