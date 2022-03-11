@@ -758,6 +758,7 @@ Borderlands2
 borderlands3
 BorderlinePDisorder
 boringdystopia
+borussiadortmund
 Boruto
 Bossfight
 BossFights
@@ -766,6 +767,7 @@ boston
 BostonBruins
 bostonceltics
 BostonTerrier
+BotanicalIllustration
 BotanicalPorn
 Botchedsurgeries
 botecodoreddit
@@ -2262,6 +2264,7 @@ granturismo
 graphic_design
 Grapplerbaki
 gratefuldead
+gratefuldoe
 gravelcycling
 gravityfalls
 greatdanes
@@ -2308,6 +2311,7 @@ guitarlessons
 guitarporn
 guitars
 gummies15
+GunAccessoriesForSale
 Gundam
 gundeals
 Gunners
@@ -2373,6 +2377,7 @@ harrypotter
 Hasan_Piker
 hatemyjob
 hatsune
+HauntedMound
 HauntingOfHillHouse
 Hawaii
 HazbinHotel
@@ -3223,6 +3228,7 @@ MalayalamMovies
 malaysia
 malaysians
 Malazan
+malcolminthemiddle
 malegrooming
 malehairadvice
 malelivingspace
@@ -4179,6 +4185,7 @@ Priconne
 PrimitiveTechnology
 PrincessesOfPower
 PrintedMinis
+PrintedWarhammer
 Prisonwallet
 privacy
 PrivacyGuides
@@ -5610,6 +5617,7 @@ wargame
 Warhammer
 Warhammer30k
 Warhammer40k
+WarhammerCompetitive
 WarhammerFantasy
 WarplanePorn
 WarriorCats
