@@ -1072,6 +1072,7 @@ CirclejerkSopranos
 cirkeltrek
 CISDidNothingWrong
 CitiesSkylines
+citypop
 CityPorn
 civ
 civilengineering
@@ -4181,6 +4182,7 @@ PrintedMinis
 Prisonwallet
 privacy
 PrivacyGuides
+proceduralgeneration
 ProCreate
 productivity
 ProfessorLayton
@@ -4254,6 +4256,7 @@ quityourbullshit
 Qult_Headquarters
 quotes
 QuotesPorn
+R6Extraction
 R6ProLeague
 Rabbits
 radiohead
@@ -4781,6 +4784,7 @@ Spanish
 SpecArt
 specializedtools
 SpecialSnowflake
+spectacularmemes
 SpeculativeEvolution
 SpeedOfLobsters
 speedrun
@@ -5445,6 +5449,7 @@ unexpectedoffice
 UnexpectedSCP
 unexpectedskyrim
 UnexpectedTF2
+UnexpectedThanos
 UnexplainedPhenomena7
 Unextexted
 UnfunnyHellhole
