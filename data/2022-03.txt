@@ -1776,6 +1776,7 @@ ErgoMechKeyboards
 EricaFett
 ErinMoriarty
 ErMannMaimais
+es
 EscapefromTarkov
 esist
 esports
@@ -2451,6 +2452,7 @@ hockeymemes
 hoggit
 hoi4
 hoi4modding
+holdmybraincells
 holdmycatnip
 holdmycosmo
 holdmyfeedingtube
@@ -3178,6 +3180,7 @@ lovejoyband
 LoveLive
 lovelybabes2
 LoveNikki
+low_poly
 LowerCaseScreams
 LowSodiumDestiny
 LowSodiumHalo
@@ -4670,6 +4673,7 @@ Showerthoughts
 Shrek
 shrimptank
 shrooms
+shubreddit
 ShuumatsuNoValkyrie
 Siamesecats
 SiberianCats
@@ -5714,6 +5718,7 @@ WhiteHouseDinners
 whiteknighting
 whitepeoplegifs
 WhitePeopleTwitter
+WhiteRooms
 whitesox
 wholesome
 WholesomeAsHeck
