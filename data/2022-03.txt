@@ -465,6 +465,7 @@ AutoDetailing
 Autoflowers
 Autos
 AvatarMemes
+avatarprequelmemes
 Avengers
 aves
 avfc
@@ -540,6 +541,7 @@ barstoolsports
 bartenders
 baseball
 baseballcards
+baseballcirclejerk
 basketballcards
 Bass
 bassfishing
@@ -774,6 +776,7 @@ boulder
 bouldering
 bourbon
 bowhunting
+Bowling
 Boxer
 Boxing
 boxoffice
@@ -1291,6 +1294,7 @@ csgo
 csharp
 csMajors
 Cubers
+CuddlePuddle
 cuddleroll
 CultureImpact
 CumtownChats
@@ -1564,6 +1568,7 @@ DMAcademy
 DMDadJokes
 DMT
 DnD
+DnDart
 DnDGreentext
 DnDHomebrew
 DnDIY
@@ -1745,6 +1750,7 @@ enlistedgame
 Enough_Sanders_Spam
 Enough_Vaush_Spam
 EnoughCommieSpam
+EnoughLibertarianSpam
 EnoughMuskSpam
 EnoughPCMSpam
 enoughpetersonspam
