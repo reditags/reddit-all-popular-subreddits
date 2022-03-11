@@ -250,6 +250,7 @@ AnimalCrossing
 animalcrossingmeme
 AnimalCrossingNewHor
 animalid
+AnimalsBeingAnimals
 AnimalsBeingBros
 AnimalsBeingConfused
 AnimalsBeingDerps
@@ -1059,6 +1060,7 @@ ChurchofKawakami
 ChurchofMaiSakurajima
 ChurchOfMarin
 ChurchofMarnie
+ChurchOfMinaAshido
 ChurchOfSenko
 chutyapa
 chuunibyou
@@ -2617,6 +2619,7 @@ ImaginaryLeviathans
 ImaginaryLovers
 ImaginaryMaids
 imaginarymaps
+ImaginaryMiddleEarth
 ImaginaryMindscapes
 ImaginaryMonsters
 ImaginaryMythology
@@ -2787,6 +2790,7 @@ japan
 JapaneseFood
 japanlife
 japanpics
+java
 Jazz
 jazzcirclejerk
 JDM
@@ -3631,6 +3635,7 @@ NedWayHome
 needforspeed
 Needlefelting
 neekolul
+neekomains
 NelliesNest
 NeonGenesisEvangelion
 neopets
