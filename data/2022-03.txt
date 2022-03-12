@@ -404,6 +404,7 @@ AskGaybrosOver30
 AskGayMen
 AskHistorians
 AskMen
+AskMiddleEast
 AskNYC
 AskOuija
 AskReddit
@@ -4060,6 +4061,7 @@ PhantomForces
 pharmacy
 PhasmophobiaGame
 phclassifieds
+PHGamers
 philadelphia
 Philippines
 phillies
@@ -4438,6 +4440,7 @@ RoastMe
 robbersgettingfucked
 robotics
 Rochester
+rocketbeans
 RocketLeague
 RocketLeagueEsports
 rockets
@@ -5190,6 +5193,7 @@ thedivision
 TheDragonPrince
 TheExpanse
 thefighterandthekid
+TheForest
 TheForgottenDepths
 TheGirlSurvivalGuide
 TheGlassCannonPodcast
@@ -5768,6 +5772,7 @@ wholesomegreentext
 wholesomejojo
 wholesomememes
 wholesomeouija
+wholesomevandalism
 wholesomeviolence
 whothefuckup
 WhyWereTheyFilming
