@@ -5427,6 +5427,7 @@ UberEATS
 Ubiquiti
 UBreddit
 UCalgary
+UCDavis
 UCI
 ucla
 UCONN
