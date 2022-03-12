@@ -4215,6 +4215,7 @@ PrettyGirlsUglyFaces
 prey
 preyingmantis
 Priconne
+PrimeiraLiga
 PrimitiveTechnology
 PrincessesOfPower
 PrintedMinis
@@ -4531,6 +4532,7 @@ Sardonicast
 saskatchewan
 saskatoon
 SASSWitches
+Sat
 Satan
 satanism
 satire_de_en
@@ -5064,6 +5066,7 @@ TalesFromTheFrontDesk
 TalesFromThePharmacy
 TalesFromTheSquadCar
 TalesFromYourServer
+TaliyahMains
 tall
 tallyhall
 TameImpala
