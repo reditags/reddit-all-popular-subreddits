@@ -1562,6 +1562,7 @@ Dimension20
 DINgore
 Dinosaurs
 dioramas
+Dipcifica
 DiretoDoZapZap
 dirtgame
 DirtySionMains
@@ -3627,6 +3628,7 @@ MysteryDungeon
 mysticmessenger
 MyTeam
 mythbusters
+mythology
 mythologymemes
 n64
 N_N_N
@@ -4245,6 +4247,7 @@ PrimitiveTechnology
 PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
+printmaking
 Prisonwallet
 privacy
 PrivacyGuides
