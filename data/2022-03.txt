@@ -3180,6 +3180,7 @@ lostpause
 lostredditors
 lotr
 LOTR_on_Prime
+LOTRholygrailmemes
 lotrmemes
 lotro
 Louisville
@@ -4336,6 +4337,7 @@ rct
 RDR2
 Re_Zero
 reactiongifs
+reactionpics
 reactjs
 readanotherbook
 ReadyOrNotGame
