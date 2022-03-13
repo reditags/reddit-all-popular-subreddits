@@ -2142,6 +2142,7 @@ GalaxysEdge
 GalGadot
 gallifrey
 Gameboy
+GameChangerTV
 gamecollecting
 Gamecube
 gamedev
@@ -4436,6 +4437,7 @@ reisende
 relationship_advice
 RelationshipMemes
 religiousfruitcake
+reloading
 RenewableEnergy
 Reno
 Repaintings
@@ -5059,6 +5061,7 @@ supersmashbros
 Superstonk
 superstore
 SuperStructures
+Supertf
 supportlol
 surrealmemes
 Surtr
@@ -5990,6 +5993,7 @@ ZeroWaste
 ZhongliMains
 zillakami
 zillowgonewild
+zoemains
 zoloft
 ZombielandSaga
 Zoomies
