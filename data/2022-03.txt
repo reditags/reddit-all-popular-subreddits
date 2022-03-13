@@ -3222,6 +3222,7 @@ longcats
 LongDistance
 LongFurbies
 longhair
+LonghornNation
 longisland
 longmeow
 longrange
@@ -5612,6 +5613,7 @@ unexpectedbillwurtz
 unexpectedbrooklyn99
 unexpectedcommunism
 unexpectedfuturama
+Unexpectedhermitcraft
 unexpectedhogwarts
 unexpectedjihad
 UnexpectedlyWholesome
