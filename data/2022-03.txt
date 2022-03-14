@@ -272,6 +272,7 @@ AnimalsBeingSleepy
 AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
+Animalsthatlovemagic
 AnimalTextGifs
 animation
 anime_irl
