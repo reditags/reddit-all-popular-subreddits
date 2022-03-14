@@ -2448,6 +2448,7 @@ hardstyle
 hardware
 hardwaregore
 Harley
+HarleyQuinn
 Harpo
 harrypotter
 Hasan_Piker
@@ -3066,6 +3067,7 @@ kpopthoughts
 KrakenAlert
 kreishust
 kristenstewart
+krita
 krusie_gang
 ksi
 KSPMemes
@@ -3869,6 +3871,7 @@ nope
 Noragami
 Nordichistorymemes
 norge
+NormalDayInArabia
 normaldayinrussia
 NormMacdonald
 Norse
@@ -4186,6 +4189,7 @@ PhoenixSC
 PhonesAreBad
 photocritique
 photographs
+photoshop
 photoshopbattles
 PhotoshopRequest
 Physics
