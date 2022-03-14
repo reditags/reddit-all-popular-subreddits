@@ -358,6 +358,7 @@ ar15
 arabfunny
 araragi
 arbeitsleben
+arcadefire
 arcane
 Archaeology
 archeologyworld
@@ -2310,6 +2311,7 @@ goodomens
 google
 googlemapsshenanigans
 GooglePixel
+googleReviews
 gorgc
 gorillaz
 GossipGirl
@@ -3600,6 +3602,7 @@ mona
 monarchism
 Monero
 Monke
+Monkeycoolvidsonly
 monkslookingatbeer
 Monstera
 MonsterHigh
