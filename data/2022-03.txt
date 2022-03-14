@@ -840,6 +840,7 @@ breathinginformation
 Brewers
 bridezillas
 BridgertonNetflix
+BrighterThanCoruscant
 brisbane
 bristol
 britishcolumbia
@@ -1217,6 +1218,7 @@ COMPLETEANARCHY
 compsci
 conan
 ConanBeingAwesome
+ConanExiles
 confession
 confessions
 confidentlyincorrect
