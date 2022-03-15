@@ -1674,6 +1674,7 @@ DogsMirin
 dogsonroofs
 dogswitheyebrows
 dogswithjobs
+dogswithsocks
 Dogtraining
 dogvideos
 DokkanBattleCommunity
@@ -2303,6 +2304,7 @@ GloriousTomBombadil
 glutenfree
 GME
 gme_meltdown
+GMECanada
 GMEJungle
 gmod
 gnome
