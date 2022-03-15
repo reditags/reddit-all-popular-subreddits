@@ -2602,6 +2602,7 @@ HowToBeAMindReaver
 HowToHack
 howtokeepanidiotbusy
 howtonotgiveafuck
+howwasyourdelivery
 howyoudoin
 HPHogwartsMystery
 httyd
@@ -3242,6 +3243,7 @@ litrpg
 LitterboxComics
 LittleNightmares
 LittleNuns
+LittleRock
 LittleWitchAcademia
 LiveFromNewYork
 Liverpool
