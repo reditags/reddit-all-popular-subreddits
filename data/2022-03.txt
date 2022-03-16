@@ -265,6 +265,7 @@ AnimalCollective
 AnimalCrossing
 animalcrossingmeme
 AnimalCrossingNewHor
+AnimalCrossingNewLeaf
 animalid
 AnimalsBeingAnimals
 AnimalsBeingBros
@@ -741,6 +742,7 @@ Blazblue
 bleach
 blender
 Blep
+bleps
 Blessed_Images
 blessedcomments
 blessedimages
@@ -2474,6 +2476,7 @@ hamiltonmusical
 hamishandandy
 Hammers
 hamstercare
+hamsterlove
 hamsters
 hanakokun
 handholding
@@ -3223,6 +3226,7 @@ legomeme
 legostarwars
 legostarwarsmemes
 LegoStarWarsVideoGame
+LeniKlum_
 leopardgeckos
 LeopardsAteMyFace
 LesbianActually
@@ -3610,6 +3614,7 @@ mildyinfuriating
 Military
 MilitaryGfys
 MilitaryHistory
+militarymemes
 MilitaryPorn
 MilitaryStories
 MilitaryVStheUnknown
@@ -3775,6 +3780,7 @@ Mustang
 MWWives
 MxRMods
 My600lbLife
+MyBigFatFabulousLife
 MyChemicalRomance
 mycology
 MyDressUpDarlingAnime
@@ -4007,6 +4013,7 @@ nus
 NuxTakuSubmissions
 nuzlocke
 nvidia
+nwordington
 nyanners
 NYCbike
 nycrail
