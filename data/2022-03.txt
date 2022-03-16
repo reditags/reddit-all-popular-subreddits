@@ -2552,6 +2552,7 @@ HistoricalCostuming
 history
 HistoryAnecdotes
 HistoryAnimemes
+historyblogs
 HistoryPorn
 HitBoxPorn
 HiTMAN
@@ -3496,6 +3497,7 @@ MedievalCats
 medievaldoctor
 MedievalHistoryMemes
 Meditation
+Mediums
 medizzy
 megaconstrux
 Megadeth
@@ -3861,6 +3863,7 @@ NewPatriotism
 news
 newsentences
 NewSkaters
+newsnerdsneed
 NewVegasMemes
 newworldgame
 newyorkcity
@@ -5782,6 +5785,7 @@ Unravelers
 unrealengine
 UnresolvedMysteries
 UnsentLetters
+UnsolvedMysteries
 unstirredpaint
 untrustworthypoptarts
 UnusualArt
@@ -6165,6 +6169,7 @@ yesyesyesno
 yesyesyesyesno
 yimby
 ymfah
+YMS
 ynab
 yo_elvr
 Yoimiya_Mains
@@ -6186,6 +6191,7 @@ YourRAGE
 YouSeeComrade
 youseeingthisshit
 YouShouldKnow
+Youtooz
 youtube
 youtubehaiku
 yugioh
