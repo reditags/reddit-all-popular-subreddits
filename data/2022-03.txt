@@ -577,6 +577,7 @@ bardmains
 barelegs
 barkour
 Barotrauma
+Barry
 barstoolsports
 bartenders
 baseball
@@ -1813,6 +1814,7 @@ ElectricalEngineering
 electricians
 electricvehicles
 ElectroBOOM
+electronicmusic
 electronics
 EliteDangerous
 eliteexplorers
@@ -1906,6 +1908,7 @@ EverythingScience
 evilbuildings
 EvilMoe
 excatholic
+excel
 Existentialism
 exjw
 exmormon
@@ -3058,6 +3061,7 @@ kayascodelario
 KaynMains
 Kazakhstan
 KazuhaMains
+KCRoyals
 kde
 KDRAMA
 KeanuBeingAwesome
@@ -4027,6 +4031,7 @@ nyjets
 NYKnicks
 NYStateOfMind
 NYYankees
+OaklandAthletics
 obeyme
 oblivion
 ObviousPlant
@@ -4775,6 +4780,7 @@ SamONellaAcademy
 samoyeds
 sanantonio
 SandersForPresident
+Sanderson
 sandiego
 sanfrancisco
 SanJose
@@ -5149,6 +5155,7 @@ squidgame
 squishmallow
 SRAWeekend
 SrGrafo
+SRGroup
 srilanka
 SS13
 SSBM
