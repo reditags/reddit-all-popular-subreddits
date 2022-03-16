@@ -745,6 +745,8 @@ Blessed_Images
 blessedcomments
 blessedimages
 Blink182
+BloodAngels
+Bloomer
 blop
 BlueArchive
 BlueJackets
@@ -802,6 +804,7 @@ BoomersBeingFools
 boottoobig
 borbs
 BorderCollie
+Borderlands
 Borderlands2
 borderlands3
 BorderlinePDisorder
@@ -4632,6 +4635,7 @@ reptiles
 RepTime
 RepublicaArgentina
 Republican
+repurposedbuildings
 rescuecats
 rescuedogs
 Residency
@@ -5065,6 +5069,7 @@ Sourdough
 sousvide
 southafrica
 southcarolina
+SouthJersey
 SovietWomble
 space
 SpaceballsMemes
@@ -5890,6 +5895,7 @@ videomemes
 videos
 VietNam
 ViewPorn
+VillagePorn
 Vindicta
 Vinesauce
 VinlandSaga
