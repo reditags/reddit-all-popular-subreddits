@@ -3530,6 +3530,7 @@ melts
 meltyblood
 meme
 memecoinmoonshots
+Memeconomy
 memeculturetechnology
 MemeEconomy
 memeframe
@@ -4473,6 +4474,7 @@ Psychonaut
 PUBATTLEGROUNDS
 PublicFreakout
 PublicFreakouts
+PublicFreakoutsReborn
 publix
 pugs
 pukicho
@@ -5646,6 +5648,7 @@ TransLater
 transmasc_irl
 Transmatfiring
 Transmogrification
+transprogrammer
 transvoice
 trashpandas
 TrashTaste
