@@ -5253,6 +5253,7 @@ StarWars
 StarWarsBattlefront
 starwarsblackseries
 StarWarsCantina
+starwarscollecting
 StarWarsEU
 StarWarsKenobi
 StarWarsleftymemes
