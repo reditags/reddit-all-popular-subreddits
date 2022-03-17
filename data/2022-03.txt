@@ -815,6 +815,7 @@ bookporn
 books
 bookscirclejerk
 bookshelf
+BoomerangSquad
 Boomerhumour
 BoomersBeingFools
 boomershumor
@@ -927,6 +928,7 @@ burgers
 burlington
 Buttcoin
 BuyItForLife
+BuzzFeedUnsolved
 byebyejob
 ByzantineMemes
 CabinPorn
@@ -2651,6 +2653,7 @@ HomeDepot
 homegym
 HomeImprovement
 homelab
+HomeNetworking
 HomestarRunner
 homestead
 Homesteading
@@ -3070,6 +3073,7 @@ justgamedevthings
 JustGuysBeingDudes
 JusticePorn
 JusticeServed
+justlegbeardthings
 JustMonika
 justneckbeardthings
 Justrolledintotheshop
