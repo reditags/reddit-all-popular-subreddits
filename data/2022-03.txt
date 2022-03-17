@@ -102,6 +102,7 @@ AccidentalWesAnderson
 ACCompetizione
 Accounting
 AceAttorney
+AceAttorneyCirclejerk
 acecombat
 Achievement_Hunter
 AchillesAndHisPal
@@ -449,6 +450,7 @@ AssassinsCreedValhala
 assettocorsa
 assholedesign
 assholetax
+astoria
 astrologymemes
 Astroneer
 Astronomy
@@ -1714,6 +1716,7 @@ dontdeadopeninside
 dontflinch
 DontFundMe
 donthelpjustfilm
+dontopendeadinside
 dontputyourdickinthat
 DontSubscribeDumbAss
 dontyouknowwhoiam
@@ -1741,6 +1744,7 @@ dragrace
 DragRaceThailand
 DramaticText
 Draven
+Drawfee
 drawing
 drawthisagain
 DrDisrespectLive
@@ -1789,6 +1793,7 @@ Dyson_Sphere_Program
 earthbound
 Earthchan
 EarthPorn
+Earthquakes
 Earwolf
 EatCheapAndHealthy
 eatsandwiches
@@ -3199,6 +3204,7 @@ law
 lawofattraction
 LawSchool
 lawschooladmissions
+LazyCats
 lcfc
 leafs
 leagueofjinx
@@ -3239,6 +3245,7 @@ legomeme
 legostarwars
 legostarwarsmemes
 LegoStarWarsVideoGame
+lemondemon
 LeniKlum_
 leopardgeckos
 LeopardsAteMyFace
@@ -3302,6 +3309,7 @@ literature
 lithuania
 litrpg
 LitterboxComics
+Little_Kazuha_Archive
 LittleNightmares
 LittleNuns
 LittleRock
@@ -3774,6 +3782,7 @@ MuayThai
 muglife
 Mujico
 MulattoRap
+Multicopter
 MultiVersusTheGame
 mumbai
 Munich
@@ -5528,6 +5537,7 @@ thenetherlands
 TheNightFeeling
 TheOA
 theocho
+TheOfficialPodcast
 TheOnion
 TheOrville
 theouterworlds
