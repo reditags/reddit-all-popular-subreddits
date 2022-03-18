@@ -612,6 +612,7 @@ BattlefieldV
 BattlefrontMemes
 BattleJackets
 battlemaps
+BattlePaintings
 battles2
 battlestations
 battletech
@@ -2185,6 +2186,7 @@ FreeEBOOKS
 freefolk
 freefromwork
 FreeGameFindings
+freepatterns
 FreeSpeech
 FreeTheRodlets
 FreezingFuckingCold
@@ -2630,6 +2632,7 @@ HobbyDrama
 hockey
 hockeyjerseys
 hockeymemes
+hockeyplayers
 hoggit
 hoi4
 hoi4modding
@@ -3337,6 +3340,7 @@ LilyJames
 lilypichu
 LiminalSpace
 lincoln
+LindnerWichsvorlagen
 lingling40hrs
 linguistics
 linguisticshumor
@@ -6319,6 +6323,7 @@ Yellowjackets
 Yellz0
 yesyesyesno
 yesyesyesyesno
+yieldly
 yimby
 ymfah
 YMS
