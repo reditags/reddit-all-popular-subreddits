@@ -2811,6 +2811,7 @@ ImaginaryDemons
 ImaginaryDragons
 ImaginaryElves
 ImaginaryFallout
+ImaginaryFashion
 ImaginaryFuturism
 imaginarygatekeeping
 ImaginaryHorrors
@@ -3382,6 +3383,7 @@ LobaMains
 LockdownSkepticism
 lockpicking
 LodedDiper
+LofiHipHop
 logodesign
 loicense
 LokiTV
@@ -3952,6 +3954,7 @@ Nepal
 nerdfighters
 Nerf
 nervysquervies
+nes
 nespresso
 netflix
 NetflixBestOf
@@ -4897,6 +4900,7 @@ sbubby_NL
 Scams
 ScandinavianInterior
 ScaramoucheMains
+Scarymovies
 ScarySigns
 scathach
 scheispfostierungen
