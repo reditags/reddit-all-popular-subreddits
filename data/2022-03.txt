@@ -428,6 +428,7 @@ asianpeoplegifs
 ask
 AskARussian
 AskBalkans
+askcarsales
 AskCulinary
 AskDocs
 AskEngineers
@@ -515,6 +516,7 @@ Avengers
 aves
 avfc
 aviation
+aviationmaintenance
 aviationmemes
 AwardSpeechEdits
 awesome
@@ -1813,6 +1815,7 @@ DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
 dutch
+dvdcollection
 DWAC_Stock
 dwarffortress
 dxm
@@ -4501,6 +4504,7 @@ polydactyl
 Polytopia
 Pomeranians
 PoofCats
+PoorHammer
 pop_os
 popheadscirclejerk
 popping
@@ -5573,6 +5577,7 @@ The_Mueller
 THE_PACK
 TheAdventureZone
 TheAmazingRace
+TheAngelsNP
 TheAstraMilitarum
 thebadbatch
 TheBatmanFilm
