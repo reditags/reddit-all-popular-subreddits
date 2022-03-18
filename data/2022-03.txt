@@ -1913,6 +1913,7 @@ entwives
 environment
 EpicMounts
 EpicSeven
+equelMemes
 Equestrian
 Eragon
 ErgoMechKeyboards
@@ -4506,6 +4507,7 @@ Polska
 Polska_wpz
 polydactyl
 Polytopia
+PolyYuri
 Pomeranians
 PoofCats
 PoorHammer
@@ -5632,6 +5634,7 @@ thelongdark
 TheMagnusArchives
 TheMandalorianTV
 TheMandemNP
+TheMcDojoLife
 TheMemersClub
 TheMonkeysPaw
 themummymemes
@@ -5765,6 +5768,7 @@ toradora
 Torontobluejays
 torontoraptors
 torties
+tortoise
 Totaldrama
 totallynotrobots
 TOTALLYREALTWEETS
@@ -5872,6 +5876,7 @@ TwistedWonderland
 Twitch
 TwitterCringe
 twittermoment
+Twokinds
 twomad
 TwoRedditorsOneCup
 TwoSentenceHorror
