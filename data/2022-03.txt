@@ -14,6 +14,7 @@
 194
 19684
 197
+198
 2007scape
 2137
 21stCenturyHumour
@@ -2156,6 +2157,7 @@ football
 footballcards
 footballmanagergames
 footballmemes
+footballstrategy
 foraging
 forbiddenboops
 forbiddensnacks
@@ -5939,6 +5941,7 @@ Tyranids
 UBC
 UberEATS
 Ubiquiti
+ubius
 UBreddit
 Ubuntu
 UCalgary
