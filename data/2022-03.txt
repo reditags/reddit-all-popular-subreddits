@@ -1785,6 +1785,7 @@ DragonsDogma
 dragonutopia
 dragrace
 DragRaceThailand
+Dragula
 DramaticText
 Draven
 Drawfee
@@ -2837,6 +2838,7 @@ ImaginaryDragons
 ImaginaryElves
 ImaginaryFallout
 ImaginaryFashion
+ImaginaryFutureWar
 ImaginaryFuturism
 imaginarygatekeeping
 ImaginaryHorrors
@@ -4759,6 +4761,7 @@ redditmobile
 redditruinedpie
 redditsings
 redditsync
+RedditWritesSeinfeld
 RedDwarf
 RedHotChiliPeppers
 RedLetterMedia
@@ -4796,6 +4799,7 @@ rescuecats
 rescuedogs
 Residency
 residentevil
+RespectTheHyphen
 restofthefuckingowl
 retailhell
 retarb
@@ -4820,6 +4824,7 @@ ripcity
 Ripple
 risa
 riskofrain
+RivalsOfAether
 Rivenmains
 Rivian
 RLCraft
