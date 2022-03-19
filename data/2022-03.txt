@@ -569,6 +569,7 @@ baddiemuseum
 Badfaketexts
 badfriendspod
 badhistory
+badmathematics
 BadMUAs
 badUIbattles
 Bailssoflove
@@ -1983,6 +1984,7 @@ F1Game
 F1NN5TER
 F1Porn
 F1Technical
+F1TV
 Fable
 FacebookScience
 facebookwins
@@ -3503,6 +3505,7 @@ madnesscombat
 MadokaMagica
 MAFS_AU
 MagicArena
+magicbuilding
 MagicEye
 magicthecirclejerking
 magnetfishing
@@ -4237,6 +4240,7 @@ OnePunchMan
 OneSecondBeforeDisast
 oneshot
 OneTopicAtATime
+OneTrueEmilia
 onetruegod
 onewheel
 OneyPlays
@@ -5946,6 +5950,7 @@ UkrainianConflict
 UkrainianFreedomFight
 uktrees
 Ultrakill
+Ultraman
 ultrawidemasterrace
 UmaMusume
 UmbrellaAcademy
@@ -5986,6 +5991,7 @@ unitedstatesofindia
 Unity2D
 Unity3D
 UniUK
+UniversalOrlando
 unixporn
 unket
 unlikelyfriends
