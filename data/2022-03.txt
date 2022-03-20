@@ -3709,6 +3709,7 @@ memeframe
 MemeFrancais
 MemeHunter
 MemeItaliani
+MementoUnusAnnus
 MemePiece
 memes
 Memes_Of_The_Dank
@@ -5778,6 +5779,7 @@ TheTrumpZone
 theumbrellaacademy
 thewalkingdead
 TheWalkingDeadGame
+Thewaltenfiles
 TheWayWeWere
 TheWayWeWereOnVideo
 TheWeeklyRoll
