@@ -1365,6 +1365,7 @@ COVIDAteMyFace
 CovIdiots
 cowboybebop
 cowboys
+CowChop
 Cows
 coybig
 coyote
@@ -4217,6 +4218,7 @@ OddlyCreative
 oddlymesmerizing
 oddlysatisfying
 oddlyspecific
+oddlyterrifying
 Odesza
 ofcoursethatsathing
 offbeat
