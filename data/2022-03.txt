@@ -283,6 +283,7 @@ AnimalCrossingNewHor
 AnimalCrossingNewLeaf
 animalid
 AnimalMemes
+AnimalsAreStupid
 AnimalsBeingAnimals
 AnimalsBeingBros
 AnimalsBeingConfused
@@ -3866,6 +3867,7 @@ MortalKombat
 Mosses
 MostBeautiful
 MostInterestingCats
+moths
 motivation
 motogp
 motorboat
@@ -4645,6 +4647,7 @@ PS3
 PS4
 PS4Dreams
 PS5
+PS5restock
 psg
 PSP
 psych
