@@ -460,6 +460,7 @@ AskReddit
 askscience
 AskScienceFiction
 askSingapore
+askspain
 AskThe_Donald
 askTO
 asktransgender
@@ -1969,6 +1970,7 @@ EpicSeven
 equelMemes
 Equestrian
 Eragon
+Eredivisie
 ErgoMechKeyboards
 EricaFett
 ErinMoriarty
@@ -2719,6 +2721,7 @@ hockeymemes
 hockeyplayers
 hoggit
 hoi4
+HOI4memes
 hoi4modding
 holdmybeaker
 holdmybraincells
@@ -3580,6 +3583,7 @@ MadisonPettis
 madisonwi
 madnesscombat
 MadokaMagica
+Madrid
 MAFS_AU
 MagicArena
 magicbuilding
