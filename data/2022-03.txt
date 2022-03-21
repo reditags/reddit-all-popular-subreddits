@@ -3386,6 +3386,7 @@ LeaksDBD
 LeaMartinez
 lean
 leanbeefpatty
+LearmannTwins
 learningtocat
 LearnJapanese
 learnjavascript
@@ -5205,6 +5206,7 @@ Shittyaskflying
 shittyaskscience
 ShittyDaystrom
 shittyeldenring
+shittyfood
 shittyfoodporn
 shittygamedetails
 ShittyGifRecipes
