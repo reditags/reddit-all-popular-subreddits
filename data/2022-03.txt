@@ -151,6 +151,7 @@ aestheticrain
 AestheticWallpapers
 Aether_Mains
 AEWOfficial
+AfDkritisiertAfD
 afkarena
 AFL
 AfterEffects
@@ -642,6 +643,7 @@ batty
 bayarea
 Bayonetta
 BBB21Flagras
+BBIG
 BBQ
 BeachCity
 BeachHouse
@@ -1400,6 +1402,7 @@ CrazyIdeas
 crazystairs
 CreateMod
 CredibleDefense
+CreedThoughts
 creepy
 creepyasterisks
 creepydesign
@@ -5594,6 +5597,7 @@ Sysadminhumor
 systemofadown
 SystemsCringe
 TabbyCats
+tabletopgamedesign
 tacobell
 Tacoma
 tacticalgear
@@ -5648,6 +5652,7 @@ TeamfightTactics
 TeamFourStar
 teamliquid
 TeamSolomid
+TeardownGame
 TearsOfThemis
 tech
 tech1e
