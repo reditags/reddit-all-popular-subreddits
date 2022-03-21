@@ -1221,6 +1221,7 @@ civ
 civ5
 civ_memes
 civilengineering
+CivPolitics
 CivVI
 ClashMini
 ClashOfClans
@@ -3664,6 +3665,7 @@ Marvel
 MarvelCringe
 MarvelLegends
 marvelmemes
+MarvelPrequelMemes
 MarvelStrikeForce
 marvelstudios
 MarvelTheories
