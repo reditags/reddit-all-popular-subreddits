@@ -2035,6 +2035,7 @@ exjw
 exmormon
 exmuslim
 ExNoContact
+exo
 exocomics
 ExpectationVsReality
 ExperiencedDevs
@@ -2176,6 +2177,7 @@ Fitmoe
 fitness30plus
 fixedbytheduet
 FixedGearBicycle
+FixMyPhotoJaffa
 FixMyPrint
 FL_Studio
 Flamepoints
@@ -2700,6 +2702,7 @@ HellsCube
 hellsomememes
 Helltaker
 HelluvaBoss
+Helluvabossmemes
 HelpMeFind
 heraldry
 HermanCainAward
