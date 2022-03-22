@@ -1718,6 +1718,7 @@ diablo2
 Diablo_2_Resurrected
 DiabolicalMoments
 diamondpainting
+DiavoloDeathCount
 DicePorn
 DidntKnowIWantedThat
 DidYouKn
@@ -2000,6 +2001,7 @@ esterexposito
 estoration
 ethereum
 EtherMining
+ethfinance
 ethoslab
 ethtrader
 EtikaRedditNetwork
@@ -6513,6 +6515,7 @@ WormMemes
 wortwitzkasse
 WoT
 wow
+wowfuckthewhat
 wowthanksimcured
 Wrangler
 Wrasslin
