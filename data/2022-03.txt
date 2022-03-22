@@ -4244,6 +4244,7 @@ nosurf
 Notakeonlythrow
 NotAnotherDnDPodcast
 notdisneyvacation
+notebooks
 nothingeverhappens
 NotHowDrugsWork
 NotHowGirlsWork
@@ -4292,6 +4293,7 @@ octopathtraveler
 octopus
 oculus
 OculusQuest
+OculusQuest2
 OddlyCreative
 oddlymesmerizing
 oddlysatisfying
