@@ -3560,6 +3560,7 @@ lookatmydog
 LookatMyHalo
 LOONA
 LooneyTunesLogic
+loopring
 loopringorg
 lorde
 lordoftherings
@@ -4296,6 +4297,7 @@ nycrail
 NYGiants
 nyjets
 NYKnicks
+Nylalueeth
 NYStateOfMind
 NYYankees
 OaklandAthletics
@@ -4539,6 +4541,7 @@ penguins
 PenmanshipPorn
 Pennsylvania
 pennystocks
+PeopleAreFckinStupid
 PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
