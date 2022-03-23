@@ -5832,6 +5832,7 @@ THE_PACK
 TheAdventureZone
 TheAmazingRace
 TheAngelsNP
+TheArcana
 TheAstraMilitarum
 thebadbatch
 TheBatmanFilm
@@ -6381,6 +6382,7 @@ wallpaper
 wallpaperengine
 wallstreetbets
 WallStreetbetsELITE
+Wallstreetbetsnew
 Wallstreetsilver
 walmart
 WalmartCelebrities
