@@ -674,6 +674,7 @@ beebutts
 Beekeeping
 BeelcitosMemes
 beer
+BeeSwarmSimulator
 beetlejuicing
 BeforeNAfterAdoption
 BeginnerWoodWorking
@@ -1241,6 +1242,7 @@ classicalmusic
 classiccars
 classicsoccer
 classicwow
+classicwowtbc
 ClassPoliticsTwitter
 ClassroomOfTheElite
 CleaningTips
