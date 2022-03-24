@@ -1940,6 +1940,7 @@ Eldenring
 ElderScrolls
 elderscrollsonline
 ElectricalEngineering
+electricdaisycarnival
 electricians
 electricvehicles
 ElectroBOOM
@@ -5485,6 +5486,7 @@ spicy
 spicypillows
 spiderbro
 Spiderman
+SpidermanNoWayHome
 SpidermanPS4
 spiders
 spiderversedailymemes
