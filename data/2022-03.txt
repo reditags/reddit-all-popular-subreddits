@@ -708,6 +708,7 @@ bestoflegaladvice
 BestofRedditorUpdates
 BestOfReports
 bestoftheinternet
+BethesdaSoftworks
 bettafish
 betterCallSaul
 BetterEveryLoop
@@ -4785,6 +4786,7 @@ printmaking
 Prisonwallet
 privacy
 PrivacyGuides
+privacymemes
 proceduralgeneration
 ProCreate
 productivity
@@ -4815,6 +4817,7 @@ PS5
 PS5restock
 psg
 PSP
+PSVR
 psych
 Psychedelics
 psychology
