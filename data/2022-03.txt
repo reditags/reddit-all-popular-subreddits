@@ -769,6 +769,7 @@ BitLifeApp
 bizarrebuildings
 bizarrelife
 blackcats
+Blackcelebrity
 blackcelebrityGW
 BlackClover
 BlackCountryNewRoad
@@ -788,6 +789,7 @@ Blacksmith
 BlackTemplars
 BladeAndSorcery
 bladerunner
+Bladesmith
 BLAHAJ
 blankies
 Blasphemous
@@ -2820,6 +2822,7 @@ hotas
 hotdudeswithplants
 HotlineMiami
 hotones
+HotPeppers
 hottoys
 HotWheels
 houkai3rd
@@ -5305,6 +5308,7 @@ ShittyLifeProTips
 ShittyMapPorn
 shittymobilegameads
 shittymoviedetails
+shittyprogramming
 shittyrainbow6
 shittyreactiongifs
 shittyrobots
@@ -5952,6 +5956,7 @@ thirdsentenceworse
 ThisDayInHistory
 Thisismylifemeow
 thisismylifenow
+thisisus
 ThisYouComebacks
 ThomaMains
 ThomasinMcKenzie
@@ -6429,6 +6434,7 @@ warthundermemes
 Warzone
 washingtonwizards
 wasletztepreis
+watamote
 Watashi_ni_Tenshi
 watch_dogs
 WatchandLearn
