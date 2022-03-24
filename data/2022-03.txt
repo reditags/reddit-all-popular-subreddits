@@ -2308,6 +2308,7 @@ france
 FranceDetendue
 FrankOcean
 Frasier
+Frat
 FreckledGirls
 freddiegibbs
 freebies
@@ -2486,6 +2487,7 @@ GermanMemes
 GermanRap
 germanshepherds
 germany
+GermanyPics
 GeschichtsMaimais
 getdisciplined
 Getdownmrpresident
@@ -3398,6 +3400,7 @@ kurzgesagt
 Kuwait
 Kyusha
 l4d2
+Labour
 LabourUK
 labrador
 labradors
@@ -3756,6 +3759,7 @@ masterhacker
 MasterReturns
 mathmemes
 matrix
+matt
 mattcolville
 MatthiasSubmissions
 matureplants
@@ -4530,6 +4534,7 @@ papertowns
 papgrappen
 ParadoxExtra
 paradoxplaza
+paradoxpolitics
 Parahumans
 Paramore
 Paranormal
@@ -5094,6 +5099,7 @@ RuinedMyDay
 runefactory
 runescape
 running
+RunningCirclejerk
 runningman
 rupaulsdragrace
 rush
@@ -5474,6 +5480,7 @@ Sourdough
 sousvide
 southafrica
 southcarolina
+Southerncharm
 SouthJersey
 SovietWomble
 space
@@ -5865,6 +5872,7 @@ ThatsInsane
 The10thDentist
 the1975
 The8BitRyanReddit
+The_Anti_LGTBQ_Sub
 the_darnold
 The_Dennis
 The_Leftorium
@@ -6286,6 +6294,7 @@ UnresolvedMysteries
 UnsentLetters
 UnsolvedMysteries
 unstirredpaint
+untitledgoosegame
 untrustworthypoptarts
 unusual_whales
 UnusualArt
@@ -6709,6 +6718,7 @@ YouBelongWithMemes
 YouCoin
 youdontmattergiveup
 youdontsurf
+YouFellForItFool
 YoujoSenki
 youngjustice
 youngpeopleyoutube
