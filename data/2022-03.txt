@@ -1355,6 +1355,7 @@ CompetitiveWoW
 COMPLETEANARCHY
 composting
 compsci
+computers
 conan
 ConanBeingAwesome
 ConanExiles
@@ -4929,6 +4930,7 @@ ProgressionFantasy
 progun
 Project_Wingman
 projectcar
+projecteternity
 ProjectSekai
 projectzomboid
 prolife
@@ -4945,6 +4947,7 @@ PS4Dreams
 PS5
 PS5restock
 psg
+PSO2
 PSP
 PSVR
 psych
