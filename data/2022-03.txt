@@ -5428,6 +5428,7 @@ seashanties
 Seattle
 SeattleKraken
 SeattleWA
+SecondsBeforeDisaster
 secondsketch
 secretcompartments
 seculartalk
@@ -6480,6 +6481,7 @@ UnchainedMelancholy
 uncharted
 unclebens
 Unclejokes
+UncleRoger
 Undertale
 UnearthedArcana
 UnethicalLifeProTips
