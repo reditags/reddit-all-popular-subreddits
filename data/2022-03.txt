@@ -306,6 +306,7 @@ AnimalsBeingAnimals
 AnimalsBeingBros
 AnimalsBeingConfused
 AnimalsBeingDerps
+AnimalsBeingFunny
 AnimalsBeingGeniuses
 AnimalsBeingJerks
 AnimalsBeingLoveable
@@ -1558,6 +1559,7 @@ cursedimages
 cursedjojo
 cursedmemes
 CursedMinecraft
+CursedTanks
 cursedvideos
 CurseofStrahd
 customhearthstone
@@ -4608,6 +4610,7 @@ onewheel
 OneyPlays
 onguardforthee
 OnionLovers
+onions
 OnlyFans
 onlyfansadvice
 OnlyFansBrasil4Free
