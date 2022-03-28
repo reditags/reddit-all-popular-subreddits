@@ -448,6 +448,7 @@ ArtDeco
 ArtefactPorn
 ArtHistory
 ArtisanVideos
+artmemes
 ArtNouveau
 ArtOfRolling
 ArtPorn
@@ -1633,6 +1634,7 @@ DarkAcademia
 DarkCircledWaifu
 darkestdungeon
 DarkGothicArt
+Darkhumorandjokes
 DarkPicturesAnthology
 DarkSouls2
 darksoulsmemes
@@ -5244,6 +5246,7 @@ roadtrip
 Roasted
 RoastMe
 RoastMyCar
+robac
 robbersgettingfucked
 robotics
 Rochester
