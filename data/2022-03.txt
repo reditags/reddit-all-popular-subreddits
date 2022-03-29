@@ -2649,6 +2649,7 @@ GMEJungle
 gmod
 gnome
 Goatparkour
+goats
 GoatsOnTopOfHorses
 goblincore
 GodofWar
