@@ -621,6 +621,7 @@ Badfaketexts
 badfriendspod
 badhistory
 badlegaladvice
+badlinguistics
 badmathematics
 badmemes
 BadMUAs
