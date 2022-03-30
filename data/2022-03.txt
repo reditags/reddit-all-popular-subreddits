@@ -619,6 +619,7 @@ baddiemuseum
 Badfaketexts
 badfriendspod
 badhistory
+badlegaladvice
 badmathematics
 badmemes
 BadMUAs
@@ -2882,6 +2883,7 @@ herpetology
 HeyImBee_SFW
 HFY
 hiddenrooms
+highdeas
 HighQualityGifs
 HighQualityReloads
 HighStrangeness
