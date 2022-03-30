@@ -3115,6 +3115,7 @@ ImaginaryHybrids
 ImaginaryImmortals
 ImaginaryInteriors
 ImaginaryJedi
+ImaginaryKanto
 ImaginaryKnights
 ImaginaryLandscapes
 ImaginaryLesbians
