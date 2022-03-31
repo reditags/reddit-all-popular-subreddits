@@ -1728,6 +1728,7 @@ DDintoGME
 DDLC
 de
 de_EDV
+deadandcompany
 deadbydaylight
 deadcells
 deadlockpw
@@ -2867,6 +2868,7 @@ hatsune
 HauntedMound
 HauntingOfHillHouse
 Hawaii
+hawwkey
 Hayleeboo16Priv
 HazbinHotel
 headpats
@@ -5316,6 +5318,7 @@ regularcarreviews
 RegularRevenge
 regularshow
 ReiAyanami
+ReinhardtMains
 reisende
 relationship_advice
 RelationshipMemes
@@ -6459,6 +6462,7 @@ ToothpasteBoys
 TopGear
 TopMemesUsers
 TopMindsOfReddit
+TopSecretRecipes
 TopSurgery
 toptalent
 toradora
