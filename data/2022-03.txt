@@ -4642,6 +4642,7 @@ OkBuddyPersona
 okbuddyphd
 OkBuddyPilot
 OkBuddyPoliceOfficer
+okbuddyrathalos
 okbuddyredacted
 okbuddyreiner
 okbuddyrintard
