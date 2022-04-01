@@ -161,6 +161,7 @@ AnimeSketch
 anna_shumate
 Annabananaxdddd
 ANormalDayInRussia
+AntiAmazon
 antiassholedesign
 Anticonsumption
 antifastonetoss
@@ -573,6 +574,7 @@ Catsmirin
 CatsOnCats
 catsonglass
 CatsOnKeyboards
+CatsOnPizza
 CatsStandingUp
 CatsWhoSqueak
 catswhotrill
@@ -650,9 +652,11 @@ CoDCompetitive
 CodeGeass
 CODWarzone
 CODZombies
+Coffee
 coins
 college
 CollegeBasketball
+Colombia
 Colorado
 ColoradoAvalanche
 Colorization
@@ -687,6 +691,7 @@ Connecticut
 Conservative
 ConservativeMemes
 conspiracy
+Construction
 consulting
 ContagiousLaughter
 ContraPoints
@@ -924,11 +929,13 @@ dontputyourdickinthat
 dontyouknowwhoiam
 DonutMedia
 doodles
+doommetal
 doordash
 doordash_drivers
 dopehumor
 DotA2
 DoubanGoosegroup
+DoveCameron
 DragaliaLost
 dragonballfighterz
 DragonballLegends
@@ -992,6 +999,7 @@ Emoney
 EmpireDidNothingWrong
 ems
 Encanto
+energy
 engineeringmemes
 EngineeringPorn
 EngineeringStudents
@@ -1068,6 +1076,7 @@ FashionReps
 fcbayern
 FCInterMilan
 feedthebeast
+feedthememes
 feemagers
 FellowKids
 FeltGoodComingOut
@@ -1146,6 +1155,7 @@ FragReddit
 france
 FranceDetendue
 FrankOcean
+Frasier
 FreckledGirls
 FreeCompliments
 FreedomConvoy2022
@@ -1164,6 +1174,7 @@ Fruitbatcats
 ft86
 fuckcars
 fuckepic
+FuckGregAbbott
 FuckNestle
 fucknftsplace
 FuckPierre
@@ -1273,6 +1284,7 @@ golf
 GoNets
 goodboomerhumor
 goodmythicalmorning
+GooglePixel
 gorillaz
 Gothenburg
 gradadmissions
@@ -1356,6 +1368,7 @@ HeavySeas
 HeckThisIsWholesome
 Helicopters
 HellLetLoose
+HelloInternet
 hellsomememes
 Helltaker
 HelluvaBoss
@@ -1555,6 +1568,7 @@ IrrationalMadness
 IsItBullshit
 islam
 isopods
+Israel
 israelexposed
 italy
 ItemShop
@@ -1568,6 +1582,7 @@ jacksepticeye
 JackSucksAtLife
 jaidenanimations
 jakertown
+JapaneseFood
 japanpics
 JDM
 JeanMains
@@ -1599,6 +1614,7 @@ JustCause
 Justfuckmyshitup
 JustGuysBeingDudes
 JusticeServed
+JustMonika
 justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
@@ -1631,6 +1647,7 @@ KGBTR
 khajiithaswares
 Kickboxing
 KidsAreFuckingStupid
+KiernanShipka
 killedthecameraman
 KillLaKill
 killteam
@@ -1644,6 +1661,7 @@ Kirby
 KitchenConfidential
 KittyPupperLove
 KneadyCats
+knifeclub
 knives
 KokkoroNatsume
 Kokomi_Mains
@@ -1773,6 +1791,7 @@ LoveIsBlindOnNetflix
 LoveLive
 lovelybabes2
 LoveNikki
+LowSodiumHalo
 LPOTL
 LSD
 LTB_iel
@@ -1841,6 +1860,7 @@ Mavericks
 maybemaybemaybe
 MayDayStrike
 mazda
+mbti
 mbtimemes
 MCFC
 McMansionHell
@@ -1913,6 +1933,7 @@ Minecrafthmmm
 MinecraftMemes
 minecraftseeds
 MineralPorn
+miniatures
 miniminter
 minipainting
 Miniworlds
@@ -1995,6 +2016,7 @@ Nails
 NameNerdCirclejerk
 namenerds
 namethatcar
+nanocurrency
 NarcoFootage
 Naruto
 narutomemes
@@ -2020,6 +2042,7 @@ neekolul
 NelliesNest
 neopets
 Nepal
+nerdfighters
 Nerf
 nervysquervies
 netflix
@@ -2040,6 +2063,7 @@ NewParents
 NewPatriotism
 news
 NewVegasMemes
+newworldgame
 newyorkcity
 NewYorkMets
 newzealand
@@ -2054,6 +2078,7 @@ Nicegirls
 niceguys
 Nichijou
 NicolaCavanis
+NicoleMarieJeanNMJ
 nier
 nietdespeld
 NightInTheWoods
@@ -2456,6 +2481,7 @@ redpandas
 redsox
 RedvsBlue
 regularcarreviews
+regularshow
 ReiAyanami
 ReinhardtMains
 relationship_advice
@@ -2552,6 +2578,7 @@ scottthewoz
 SCP
 SCPSecretLab
 scrungycats
+scuba
 seals
 Seaofthieves
 Seattle
@@ -2581,6 +2608,7 @@ shid_and_camed
 shield
 shieldbro
 ShingekiNoKyojin
+Shining_Nikki
 ShinyPokemon
 ShitCrusaderKingsSay
 ShitKonfaSays
@@ -2611,6 +2639,7 @@ shouldercats
 Showerthoughts
 shrooms
 ShuumatsuNoValkyrie
+Siamesecats
 SiberianCats
 Sidemen
 SigmaGrindset
@@ -2769,6 +2798,7 @@ subnautica
 SubSimulatorGPT2
 SubwayCreatures
 SuccessionTV
+suddenlybi
 SuddenlyIncest
 SuddenlyLesbian
 suddenlysexoffender
@@ -2797,12 +2827,14 @@ SweetHomeAlabama
 SWGalaxyOfHeroes
 Switzerland
 swordartonline
+SWORDS
 SwordsComic
 swtor
 SWTOR_memes
 sydney
 SydneySweeney
 SympatheticMonsters
+synology
 synthesizers
 sysadmin
 systemofadown
@@ -2816,6 +2848,7 @@ talesfromtechsupport
 TalesFromTheFrontDesk
 TalesFromThePharmacy
 TalesFromYourServer
+tallyhall
 tankiejerk
 TankPorn
 Target
@@ -2990,6 +3023,7 @@ trailerparkboys
 trailrunning
 trains
 trans
+TransClones
 Transformemes
 transformers
 transgender
@@ -3083,6 +3117,7 @@ UpliftingNews
 UpvotedBecauseBoobs
 urbanexploration
 UrbanHell
+uruguay
 UrvinFinance
 uselessnobody
 uselessredcircle
@@ -3119,6 +3154,7 @@ victoria3
 VictoriaBC
 videogamedunkey
 videos
+Vinesauce
 VintageFashion
 vinyl
 VioletEvergarden
