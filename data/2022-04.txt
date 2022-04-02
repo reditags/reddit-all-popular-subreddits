@@ -69,6 +69,7 @@ Achievement_Hunter
 ACMilan
 acotar
 ACPocketCamp
+ActionFigures
 ActivationSound
 ActLikeYouBelong
 ActualPublicFreakouts
@@ -322,6 +323,7 @@ BadChoicesGoodStories
 badcode
 Badfaketexts
 badhistory
+BadMUAs
 badUIbattles
 Baking
 BaldursGate3
@@ -915,6 +917,7 @@ delhi
 deliciouscompliance
 Deltarune
 delusionalartists
+delusionalcraigslist
 DemEyesDoe
 deMiko
 demisexuality
@@ -966,6 +969,7 @@ discordapp
 discordVideos
 discworld
 dishonored
+disney
 DisneyEyes
 Disneyland
 disneyvacation
@@ -1109,6 +1113,7 @@ EricaFett
 EscapefromTarkov
 esist
 espresso
+ethereum
 ethtrader
 etymology
 eu4
@@ -1197,6 +1202,7 @@ FireEmblemThreeHouses
 firefly
 firefox
 FirstTimeHomeBuyer
+firstworldanarchists
 Fischl
 Fitmoe
 fitness30plus
@@ -1470,6 +1476,7 @@ HarryPotterGame
 Hasan_Piker
 hatsune
 HauntedMound
+Hawaii
 HazbinHotel
 headpats
 headphones
@@ -1744,6 +1751,7 @@ JustCause
 justforsocialmedia
 Justfuckmyshitup
 JustGuysBeingDudes
+JusticePorn
 JusticeServed
 JustMonika
 justneckbeardthings
@@ -1775,6 +1783,7 @@ keoXer
 KeqingMains
 Kerala
 KerbalSpaceProgram
+keto
 ketorecipes
 KGATLW
 KGBTR
@@ -1812,6 +1821,7 @@ kristenstewart
 kryxivia
 ksi
 KujouSaraMains
+KukiShinobuMains
 kurzgesagt
 l4d2
 LabourUK
@@ -2072,6 +2082,7 @@ MichiganWolverines
 microbork
 microgrowery
 Mid_Century
+Mieruko
 MightyHarvest
 migraine
 MikuNakano
@@ -2081,6 +2092,7 @@ mildlyinteresting
 mildlypenis
 mildlysatisfying
 MildlyVandalised
+MileyCyrusForeverNude
 MilitaryHistory
 MilitaryPorn
 MilitaryStories
@@ -2137,6 +2149,7 @@ MomForAMinute
 Mommit
 monarchism
 Monke
+Monstera
 MonsterHunter
 MonsterHunterWorld
 montreal
@@ -2283,6 +2296,7 @@ NoFuckingComment
 NoisyCats
 noita
 NolanBatmanMemes
+NOLAPelicans
 NoLawns
 NoMansSkyTheGame
 NonCredibleDiplomacy
@@ -2453,6 +2467,7 @@ pcgaming
 pcmasterrace
 PeacemakerShow
 PeakyBlinders
+PeanutWhiskers
 PeepingPooch
 peloton
 pelotoncycle
@@ -2493,6 +2508,7 @@ philosophy
 PhilosophyMemes
 PhilosophyTube
 phineasandferb
+phoebebridgers
 phoenix
 PhoenixSC
 PhonesAreBad
@@ -2629,6 +2645,7 @@ PunishingGrayRaven
 punk
 PunPatrol
 puns
+PupliftingNews
 puppy101
 PuppySmiles
 Purdue
@@ -2763,6 +2780,7 @@ sailormoon
 SaimanSays
 saiyanpeopletwitter
 salmahayek
+SalsaSnobs
 saltierthancrait
 saltierthankrayt
 SaltLakeCity
@@ -2890,6 +2908,7 @@ Sims3
 Sims4
 Simulated
 singapore
+SingaporeRaw
 SipsTea
 sixers
 sixfacedworld
@@ -3280,6 +3299,7 @@ Torontobluejays
 torontoraptors
 torties
 TortoiseShellCats
+totallynotrobots
 TOTALLYREALTWEETS
 totalwar
 totalwarhammer
@@ -3520,6 +3540,7 @@ weirdvideosfor3am
 WeirdWheels
 WeirdWings
 Welding
+Wellington
 Wellthatsucks
 Wellworn
 WestSubEver
