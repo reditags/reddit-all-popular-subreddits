@@ -227,6 +227,7 @@ ApexOutlands
 Apexrollouts
 ApexUncovered
 apexuniversity
+aphextwin
 apolloapp
 AppalachianTrail
 apple
@@ -828,6 +829,7 @@ comedynecromancy
 ComedyNecrophilia
 comicbooks
 comics
+comingout
 commandandconquer
 Commanders
 CommunismMemes
@@ -1060,6 +1062,7 @@ DestinyTheGame
 DestroyedTanks
 DetailCraft
 Detroit
+DetroitBecomeHuman
 detroitlions
 DetroitPistons
 DetroitRedWings
@@ -1942,6 +1945,7 @@ isopods
 Israel
 israelexposed
 IsTodayFridayThe13th
+Italia
 italy
 ITcrowd
 ItemShop
@@ -2020,6 +2024,7 @@ KarmaRoulette
 KatDennings
 Katemara
 KaterinaSoria
+Kayaking
 KaynMains
 KazuhaMains
 kde
@@ -2267,6 +2272,7 @@ MaliciousCompliance
 mallninjashit
 Maltese
 manchester
+ManchesterUnited
 Mandalorian
 MandJTV
 MangaCollectors
@@ -2482,6 +2488,7 @@ Mtf_irl
 MTFSelfieTrain
 mtg
 Mujico
+MulattoRap
 mumbai
 Munich
 MurderBuns
@@ -3293,6 +3300,7 @@ SigmaGrindset
 Sigmarxism
 SigSauer
 silenthill
+silhouWHAT
 Silksong
 Silmarillionmemes
 Silverbugs
@@ -3397,6 +3405,7 @@ spotted
 spqrposting
 spreadytoes
 Spunchbob
+Spyro
 SpyxFamily
 SquaredCircle
 squishmallow
@@ -3615,6 +3624,7 @@ The10thDentist
 The8BitRyanReddit
 The_Dennis
 The_Mueller
+THE_PACK
 TheAdventureZone
 TheAstraMilitarum
 TheBatmanFilm
@@ -3682,6 +3692,7 @@ ThisYouComebacks
 thomastheplankengine
 ThotBeatdowns
 thumbcats
+thurstonwaffles
 Ticos
 tiedye
 tifu
