@@ -84,6 +84,7 @@ AdultHood
 adventuretime
 Advice
 AdviceAnimals
+aestheticrain
 AEWOfficial
 afkarena
 AFL
@@ -340,6 +341,7 @@ barstoolsports
 baseball
 baseballcards
 BassGuitar
+bathandbodyworks
 batman
 BatmanArkham
 Battlecars
@@ -438,6 +440,7 @@ blackpeoplegifs
 BlackPeopleTwitter
 BlackPink
 Blacksmith
+BladeAndSorcery
 bladerunner
 BLAHAJ
 blankies
@@ -699,6 +702,7 @@ classiccars
 classicwow
 ClassPoliticsTwitter
 ClassroomOfTheElite
+CleaningTips
 clevercomebacks
 climate
 climbing
@@ -862,6 +866,7 @@ dankinindia
 dankmark
 dankmemes
 DankMemesFromSite19
+DankPods
 dankrishu
 dankruto
 danktintinmemes
@@ -913,6 +918,7 @@ DeepRockGalactic
 deepseacreatures
 DeepSpaceNine
 defiantpanda
+deftones
 delhi
 deliciouscompliance
 Deltarune
@@ -1074,6 +1080,7 @@ electricdaisycarnival
 electricians
 electricvehicles
 ElectroBOOM
+electronicmusic
 electronics
 EliteDangerous
 ElleFanning
@@ -1201,6 +1208,7 @@ FireEmblemHeroes
 FireEmblemThreeHouses
 firefly
 firefox
+FIREIndia
 FirstTimeHomeBuyer
 firstworldanarchists
 Fischl
@@ -1654,6 +1662,7 @@ Indiangirlsontinder
 IndiaNostalgia
 IndianStreetBets
 IndianTeenagers
+IndiaPlace
 indiasocial
 IndiaSpeaks
 IndieGaming
@@ -1677,6 +1686,7 @@ Instantregret
 insurgency
 interesting
 interestingasfuck
+Interestingbutcreepy
 interiordecorating
 InteriorDesign
 intermittentfasting
@@ -2062,6 +2072,7 @@ MenAndFemales
 MensLib
 Mensmittenwithkittens
 MensRights
+mentalhealth
 MEOW_IRL
 mercedes_benz
 Metalcore
@@ -2436,6 +2447,7 @@ overthegardenwall
 Overwatch
 Overwatch_Memes
 OWConsole
+Padres
 pagan
 painting
 pakistan
@@ -2443,6 +2455,7 @@ Paladins
 Paleontology
 Palestine
 Pamibaby
+Panda_Gifs
 PandR
 panelshow
 pansexual
@@ -2659,6 +2672,7 @@ queensofleague
 quilting
 quityourbullshit
 Qult_Headquarters
+quotes
 QuotesPorn
 Rabbits
 radiohead
@@ -2926,6 +2940,7 @@ slaythespire
 slimerancher
 Slovakia
 Slovenia
+slowcooking
 SlyGifs
 SmallAnimeTiddies
 smashbros
@@ -2978,6 +2993,7 @@ spain
 specializedtools
 SpecialSnowflake
 SpeedOfLobsters
+spelunky
 sphynx
 spicy
 spiderbro
@@ -3022,12 +3038,14 @@ StarVStheForcesofEvil
 StarWars
 starwars_place
 StarWarsBattlefront
+starwarsblackseries
 StarWarsCantina
 StarWarsEU
 StarWarsleftymemes
 StarWarsMagic
 starwarsmemes
 starwarsrebels
+staryuuki
 steak
 Steam
 SteamDeck
@@ -3163,6 +3181,7 @@ TenseiSlime
 TerrainBuilding
 Terraria
 TerrariaMemes
+terrariums
 terriblefacebookmemes
 terriblefandommemes
 tesdcares
@@ -3366,6 +3385,7 @@ twicemedia
 twicememes
 TWICExNice
 twinpeaks
+TwistedWonderland
 TwoSentenceHorror
 TwoSentenceSadness
 TwoXChromosomes
@@ -3590,6 +3610,7 @@ witcher
 Witcher3
 WitchesVsPatriarchy
 Wizard101
+WKUK
 woahdude
 wokekids
 Wonderlands
