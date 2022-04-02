@@ -7,6 +7,7 @@
 19684
 197
 2007scape
+21stCenturyHumour
 2american4you
 2Asia4u
 2b2t
@@ -49,6 +50,7 @@ absolutelynotme_irl
 absolutelynotmeirl
 absoluteunit
 AbsoluteUnits
+AbstractArt
 ac_newhorizons
 ACAB
 AccidentalAlly
@@ -57,6 +59,7 @@ AccidentalComedy
 accidentallycommunist
 AccidentalRacism
 AccidentalRenaissance
+accidentalrockwell
 AccidentalSlapStick
 AccidentalWesAnderson
 Accounting
@@ -69,6 +72,7 @@ ACPocketCamp
 ActivationSound
 ActLikeYouBelong
 ActualPublicFreakouts
+Acura
 AddisonRae
 AdeptusMechanicus
 adhdmeme
@@ -549,6 +553,8 @@ Buttcoin
 BuyItForLife
 byebyejob
 ByzantineMemes
+cableporn
+cactus
 cakedecorating
 CalamityMod
 CalgaryFlames
@@ -860,6 +866,7 @@ danktintinmemes
 dankvideos
 DanMachi
 DannyGonzalez
+DanTDM
 Daredevil
 darkestdungeon
 DarkSouls2
@@ -1215,6 +1222,7 @@ FoodLosAngeles
 FoodPorn
 Foofighters
 footballmanagergames
+foraging
 forbiddensnacks
 ForgottenWeapons
 forhonor
@@ -1351,6 +1359,7 @@ GetMotivated
 GettingShredded
 ghibli
 Ghostbc
+ghostbusters
 ghostoftsushima
 Ghosts
 GifRecipes
@@ -1363,6 +1372,7 @@ GirlsMirin
 girlswithbigmuscles
 GlobalOffensive
 Glocks
+glutenfree
 GME
 gme_meltdown
 GMECanada
@@ -1383,6 +1393,7 @@ goodmythicalmorning
 GooglePixel
 gorillaz
 Gothenburg
+gracecharis
 gradadmissions
 Graffiti
 Granblue_en
@@ -1468,6 +1479,7 @@ hearthstonecirclejerk
 heat
 HeavySeas
 HeckThisIsWholesome
+Hedgehog
 Helicopters
 HellLetLoose
 HelloInternet
@@ -1520,11 +1532,13 @@ HomeDepot
 homegym
 HomeImprovement
 homelab
+HomeNetworking
 homestead
 homestuck
 hometheater
 Honda
 HongKong
+honkaiimpact3
 horizon
 Hornyjail
 horror
@@ -1580,6 +1594,7 @@ IllegallySmolDogs
 Illustration
 im14andthisisdeep
 Im15AndThisIsYeet
+ImaginaryArchitecture
 ImaginaryBehemoths
 ImaginaryCastles
 ImaginaryCharacters
@@ -1995,6 +2010,7 @@ Mavericks
 maybemaybemaybe
 MayDayStrike
 mazda
+MBMBAM
 mbti
 mbtimemes
 MCFC
@@ -2013,6 +2029,7 @@ MedievalCats
 Meditation
 medizzy
 megalophobia
+Megaman
 MeganFox
 Megaten
 Megumin
@@ -2066,6 +2083,7 @@ mildlysatisfying
 MildlyVandalised
 MilitaryHistory
 MilitaryPorn
+MilitaryStories
 Milking
 MillionaireGrindset
 milwaukee
@@ -2092,6 +2110,7 @@ miragemains
 Mirrorsforsale
 miscatculations
 misleadingthumbnails
+missbricosplay
 Mistborn
 MitchellAndWebb
 mitski
@@ -2709,6 +2728,7 @@ RocketLeague
 RocketLeagueEsports
 rockhounds
 rolex
+Rollerskating
 Romania
 romemes
 ronperlmancats
@@ -2944,6 +2964,7 @@ spicy
 spiderbro
 Spiderman
 SpidermanPS4
+spiders
 Spielstopp
 splatoon
 sploot
@@ -3013,6 +3034,7 @@ StraightsBeingOK
 StrangerThings
 straykids
 streeto
+streetphotography
 streetwear
 StuffOnCats
 stunfisk
@@ -3266,6 +3288,7 @@ touhou
 TowerofGod
 TownofSalemgame
 Toyota
+traadustCrusaders
 TrackMania
 traderjoes
 traditionaltattoos
@@ -3327,6 +3350,7 @@ TwoSentenceHorror
 TwoSentenceSadness
 TwoXChromosomes
 TwoXPreppers
+twrmod
 tylerthecreator
 Tyranids
 UBC
@@ -3502,6 +3526,7 @@ WestSubEver
 WetlanderHumor
 WeWantPlates
 wgbeforeafter
+WhatAWeeb
 whatcouldgoright
 Whatcouldgowrong
 whatintarnation
