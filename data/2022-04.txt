@@ -670,6 +670,7 @@ Choices
 Chonkers
 ChoosingBeggars
 ChristenHarper
+Christianity
 ChurchofKawakami
 ChurchOfPyra
 ChurchOfSenko
@@ -708,6 +709,7 @@ CODZombies
 Coffee
 coins
 college
+collegebaseball
 CollegeBasketball
 Colombia
 Colorado
@@ -781,9 +783,11 @@ crappyanimalcrossing
 CrappyDesign
 crappyoffbrands
 CrazyFuckingVideos
+CrazyIdeas
 CredibleDefense
 creepy
 creepyasterisks
+creepydesign
 creepyencounters
 creepypasta
 creepyPMs
@@ -1288,6 +1292,7 @@ futurama
 Futuremoe
 futureporn
 Futurology
+FWFBThinkTank
 G2eSports
 G59
 gachagaming
@@ -1820,6 +1825,7 @@ leafs
 leagueoflegends
 LeagueOfMemes
 leanbeefpatty
+LearmannTwins
 learnprogramming
 learntodraw
 LearnUselessTalents
@@ -2024,6 +2030,7 @@ memesdecentralises
 memesITA
 MemeVideos
 memexico
+memphisgrizzlies
 MenAndFemales
 MensLib
 Mensmittenwithkittens
@@ -2458,6 +2465,7 @@ pettyrevenge
 PewdiepieSubmissions
 peyups
 PhantomForces
+pharmacy
 PhasmophobiaGame
 philadelphia
 Philippines
@@ -3209,6 +3217,7 @@ tiltshift
 timberwolves
 TimDillon
 TimelapsesofPlace
+TimPool
 Tinder
 tinyanimalsonfingers
 TinyHouses
@@ -3364,6 +3373,7 @@ unpopularopinion
 unrealengine
 UnresolvedMysteries
 UnsolvedMysteries
+unstirredpaint
 UnusualVideos
 uofm
 UpliftingNews
@@ -3475,6 +3485,7 @@ wec
 wedding
 weddingshaming
 Weddingsunder10k
+weeaboo
 weed
 weedstocks
 weeviltime
