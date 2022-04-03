@@ -469,6 +469,7 @@ belgium
 Belgium2
 belowdeck
 Ben10
+BendyAndTheInkMachine
 benfica
 bengalcats
 bengals
@@ -1047,6 +1048,7 @@ cyberpunkgame
 cybersecurity
 cybertruck
 cycling
+Cynicalbrit
 czech
 czechmemes
 Dachschaden
@@ -1295,7 +1297,9 @@ duolingo
 dustkitties
 dvdcollection
 dwarffortress
+dxm
 DylanteroYT
+earlsweatshirt
 earthbound
 Earthchan
 EarthPorn
@@ -1334,6 +1338,7 @@ ElvenGirls
 Embroidery
 Eminem
 EmKay
+EmmaBrooks
 Emoney
 EmpireDidNothingWrong
 ems
@@ -1573,6 +1578,7 @@ FridayNightFunkin
 friendlyjordies
 frogs
 FromKittenToCat
+FromPuppyToDog
 fromsoftware
 Frostpunk
 Frugal
@@ -1710,6 +1716,7 @@ givemeinteligens
 glasgow
 GlobalOffensive
 Glocks
+Gloomhaven
 glutenfree
 GME
 gme_meltdown
@@ -1718,6 +1725,7 @@ GMEJungle
 gmod
 gnome
 goblincore
+GodDesigns
 GodofWar
 godot
 godtiersuperpowers
@@ -2987,6 +2995,7 @@ onguardforthee
 OnionLovers
 OnlyFans
 ontario
+OntarioCanada
 ontheledgeandshit
 oompasubs
 OooBigStretch
@@ -3411,6 +3420,7 @@ RocketLeagueEsports
 rockets
 rockhounds
 rolex
+Roll20
 rollercoasters
 Rollerskating
 Romania
@@ -3442,6 +3452,7 @@ RWBY
 RX7
 S2000
 sabaton
+SabatonMemes
 Saber
 Sacramento
 sadboys
@@ -3706,6 +3717,7 @@ SpaceXLounge
 SpaceXMasterrace
 spain
 Spanish
+SpecArt
 specializedtools
 SpecialSnowflake
 SpeculativeEvolution
@@ -4012,6 +4024,7 @@ TheNightFeeling
 theocho
 TheOfficialPodcast
 TheOnion
+TheOrville
 TheRatEmpire
 TheRealJoke
 therewasanattempt
@@ -4457,6 +4470,7 @@ wholesomegreentext
 wholesomejojo
 wholesomememes
 wholesomeviolence
+whothefuckup
 WhyWereTheyFilming
 WhyWomenLiveLonger
 wien
