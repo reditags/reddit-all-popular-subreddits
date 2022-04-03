@@ -126,6 +126,7 @@ akagas
 AkameGaKILL
 Alabama
 Albany
+Albedomains
 AlbedosCreations
 alberta
 Albuquerque
@@ -258,6 +259,7 @@ apple
 AppleWatch
 ApplyingToCollege
 aprilfools
+AquariumMemes
 Aquariums
 Aquascape
 AquaticAsFuck
@@ -711,6 +713,7 @@ carporn
 CarryMinati
 carscirclejerk
 Cartalk
+cassettefuturism
 castiron
 castles
 castlevania
@@ -1267,6 +1270,7 @@ dubai
 Dublin
 dubstep
 duck
+DuelLinks
 DuggarsSnark
 Duklock
 dumbasseswithlighters
@@ -1491,6 +1495,7 @@ FloridaMan
 FlorkofCowsOfficial
 FluentInFinance
 flying
+fnatic
 fnki
 fnv
 fo4
@@ -1675,11 +1680,13 @@ ghostbusters
 ghostoftsushima
 GhostRecon
 Ghosts
+ghostswithjobs
 gif
 GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
+GinaSavageOnlyFans
 gingercats
 Gintama
 Giraffesdontexist
@@ -1715,6 +1722,7 @@ goodmythicalmorning
 google
 GooglePixel
 gorillaz
+GossipGirl
 Gotham
 Gothenburg
 gracecharis
@@ -2117,6 +2125,7 @@ japanpics
 Jcole
 JDM
 JeanMains
+jedifallenorder
 JEENEETards
 Jeep
 jellybeantoes
@@ -2153,6 +2162,7 @@ Jujutsushi
 Jungle_Mains
 junjiito
 JurassicMemes
+JurassicPark
 jurassicworldevo
 justa
 JustaMinxnsfw
@@ -2536,6 +2546,7 @@ memes
 Memes_Of_The_Dank
 memesdecentralises
 memesITA
+memesopdidntlike
 MemeVideos
 memexico
 memphisgrizzlies
@@ -2653,6 +2664,7 @@ morbidquestions
 MordekaiserMains
 Mordhau
 moreplatesmoredates
+Morocco
 Morrowind
 MortalKombat
 MostBeautiful
@@ -2740,6 +2752,7 @@ NBASpurs
 NCAAFBseries
 NCSU
 NCT
+ndp
 nebelung
 Necrontyr
 needforspeed
@@ -2751,6 +2764,7 @@ Nepal
 nerdfighters
 Nerf
 nervysquervies
+nes
 netflix
 NetflixBestOf
 netflixwitcher
@@ -3269,6 +3283,7 @@ R6ProLeague
 Rabbits
 radiohead
 radioheadcirclejerk
+ragdolls
 RaidenMains
 raiders
 raidsecrets
@@ -3473,6 +3488,7 @@ seduction
 seinfeld
 seinfeldgifs
 Sekiro
+self
 SelfAwarewolves
 selfhosted
 selfie
@@ -3639,6 +3655,7 @@ SonyAlpha
 soulcrushingjuice
 SoulKnight
 SoulsSliders
+Sourdough
 sousvide
 southafrica
 southcarolina
@@ -3791,6 +3808,7 @@ superstore
 SuperStructures
 supportlol
 surrealmemes
+Survival
 SurvivalGrid
 survivor
 sushi
@@ -3943,6 +3961,7 @@ TheGrittyPast
 theitalyplace
 TheJenkins
 TheLastAirbender
+TheLastKingdom
 thelastofus
 TheLeftCantMeme
 TheLetterH
@@ -4050,6 +4069,7 @@ TopMindsOfReddit
 TopSecretRecipes
 toptalent
 toradora
+tornado
 Torontobluejays
 torontoraptors
 torties
@@ -4116,6 +4136,7 @@ TuckedInPuppies
 Tucson
 tumblr
 TumblrInAction
+TumblrWrites
 Tunisia
 Turkey
 TurkeyJerky
@@ -4313,6 +4334,7 @@ WarAndPeas
 Warframe
 WarframeRunway
 Warhammer
+Warhammer30k
 Warhammer40k
 WarhammerFantasy
 WarplanePorn
@@ -4383,6 +4405,7 @@ whitepeoplegifs
 WhitePeopleTwitter
 WhiteRooms
 whitesox
+WhiteWolfRPG
 wholesome
 wholesomebpt
 WholesomeComics
@@ -4468,6 +4491,7 @@ xboxone
 XboxSeriesX
 Xcom
 Xenoblade_Chronicles
+XFiles
 XiaoMains
 xkcd
 xmen
@@ -4476,6 +4500,7 @@ XXXTENTACION
 YaeMiko
 yakuzagames
 YanfeiMains
+YarnAddicts
 yeagerbomb
 yeat_
 Yeen_irl
@@ -4488,6 +4513,7 @@ Yoimiya_Mains
 Yointerneto
 Yotsubros
 YouBelongWithMemes
+youdontmattergiveup
 youdontsurf
 YoujoSenki
 youngjustice
