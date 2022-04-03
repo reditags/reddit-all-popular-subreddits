@@ -870,6 +870,7 @@ clonewars
 CloneWarsMemes
 ClothedCurves
 Cloud9
+ClubPenguin
 Coachella
 cobrakai
 cocaine
@@ -1125,6 +1126,7 @@ DeclineIntoCensorship
 declutter
 dedreviil
 DeepFuckingValue
+DeepIntoYouTube
 DeepRockGalactic
 deepseacreatures
 DeepSpaceNine
@@ -1269,6 +1271,7 @@ DrewDurnil
 Drizzy
 DrStone
 drugmemes
+Drugs
 drugstoreMUA
 drums
 drunkencookery
@@ -2319,6 +2322,7 @@ lebowski
 ledzeppelin
 LeedsUnited
 LeftistGamersUnion
+LeftTheBurnerOn
 LegalAdviceUK
 legalcatadvice
 legendofkorra
@@ -2359,12 +2363,14 @@ LifeProTips
 LigaMX
 likeus
 LilGrabbies
+lilireinhart
 LilPeep
 liluzivert
 LilyBowman
 LilyJames
 LiminalSpace
 lingling40hrs
+linguistics
 linguisticshumor
 Link_Dies
 LinkedInLunatics
@@ -2392,6 +2398,7 @@ longboarding
 longboyes
 longcats
 LongDistance
+longhair
 longisland
 longrange
 lookatmydog
@@ -2527,6 +2534,7 @@ me_irlgbt
 mead
 MealPrepSunday
 mealtimevideos
+meat
 MeatCanyon
 meatcrayon
 MechanicAdvice
@@ -3007,6 +3015,7 @@ OutOfTheLoop
 outrun
 outside
 ovalwichs
+overemployed
 overlanding
 overlord
 OverSimplified
@@ -3324,6 +3333,7 @@ RDR2
 Re_Zero
 reactiongifs
 readanotherbook
+ReadyOrNotGame
 RealBeesFakeTopHats
 realestateinvesting
 reallifedoodles
@@ -3411,6 +3421,7 @@ rpg
 rpghorrorstories
 rsloshredit
 RTGameCrowd
+rubius
 rugbyunion
 runefactory
 runescape
@@ -3539,6 +3550,7 @@ shiey
 ShingekiNoKyojin
 Shining_Nikki
 ShinyPokemon
+Shinypreciousgems
 ShitCrusaderKingsSay
 shitduolingosays
 ShitHaloSays
@@ -3560,6 +3572,7 @@ Shittyaskflying
 shittyaskscience
 ShittyDaystrom
 shittyfoodporn
+shittygamedetails
 ShittyGifRecipes
 ShittyLifeProTips
 ShittyMapPorn
@@ -3646,6 +3659,7 @@ snowboarding
 snowrunner
 socalhiking
 soccercirclejerk
+soccermemes
 socialanxiety
 socialism
 SocialismIsCapitalism
@@ -3820,6 +3834,7 @@ supportlol
 surrealmemes
 Survival
 SurvivalGrid
+survivinginfidelity
 survivor
 sushi
 suspiciouslyspecific
@@ -3940,6 +3955,7 @@ Thatsactuallyverycool
 ThatsInsane
 The10thDentist
 The8BitRyanReddit
+the_darnold
 The_Dennis
 The_Mueller
 THE_PACK
@@ -4001,6 +4017,7 @@ thetron
 TheTrumpZone
 thewalkingdead
 TheWayWeWere
+TheWeeklyRoll
 TheWeeknd
 TheWire
 thewitcher3
@@ -4045,6 +4062,7 @@ tippytaps
 Tiresaretheenemy
 titanfall
 titanfolk
+titantiersuperpowers
 tja
 TLCsisterwives
 TNOmod
@@ -4109,6 +4127,7 @@ transformers
 transgender
 transgendercirclejerk
 TransLater
+Transmogrification
 transplace
 trashpandas
 TrashTaste
@@ -4302,6 +4321,7 @@ ViewPorn
 Vindicta
 Vinesauce
 VinlandSaga
+VintageApple
 VintageFashion
 vinyl
 vinyljerk
@@ -4321,6 +4341,7 @@ VOMS
 VoteBlue
 VoteDEM
 VRchat
+VRGaming
 VRtoER
 VShojo
 vultureculture
@@ -4543,6 +4564,7 @@ YuGiOhMemes
 YunjinMains
 yunyun
 YUROP
+YuYuHakusho
 ZanClan
 zelda
 Zendaya
