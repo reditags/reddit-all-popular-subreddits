@@ -14,6 +14,7 @@
 2anatolia4you
 2Asia4u
 2b2t
+2hujerk
 2meirl42meirl4meirl
 2meirl4meirl
 2nordic4you
@@ -68,6 +69,7 @@ AccidentalRacism
 AccidentalRenaissance
 accidentalrockwell
 AccidentalSlapStick
+accidentalswastika
 AccidentalWesAnderson
 Accounting
 AceAttorney
@@ -898,6 +900,7 @@ ContestOfChampions
 ContraPoints
 Conures
 ConvenientCop
+CookieClicker
 cookiedecorating
 Cookierun
 CookieRunKingdoms
@@ -1886,6 +1889,7 @@ iiiiiiitttttttttttt
 ik_ihe
 IkeaFreshBalls
 IllegalLifeProTips
+illegallybigcats
 IllegallySmol
 illegallysmolanimals
 illegallysmolbirbs
@@ -2138,6 +2142,7 @@ KingkillerChronicle
 KingOfTheHill
 Kirby
 KitchenConfidential
+KittenMittens
 Kitting
 kittyhasaquestion
 KittyPupperLove
@@ -2203,6 +2208,7 @@ leafs
 leagueoflegends
 LeagueOfMemes
 LeaksDBD
+LeaMartinez
 leanbeefpatty
 LearmannTwins
 learnprogramming
@@ -2457,6 +2463,7 @@ metro
 Metroid
 mew_irl
 mexico
+Mexicowave
 mfdoom
 MHRise
 Miami
@@ -2759,6 +2766,7 @@ NuxTakuSubmissions
 nuzlocke
 nvidia
 NYCbike
+NYGiants
 nyjets
 NYKnicks
 NYStateOfMind
@@ -3166,6 +3174,8 @@ razer
 RDR2
 Re_Zero
 reactiongifs
+readanotherbook
+RealBeesFakeTopHats
 realestateinvesting
 reallifedoodles
 RealLifeShinies
@@ -3294,6 +3304,7 @@ SAVEBRENDAN
 savedyouaclick
 sbeve
 Scams
+ScandinavianInterior
 ScaramoucheMains
 ScarySigns
 scathach
@@ -3456,6 +3467,7 @@ SlyGifs
 SmallAnimeTiddies
 smashbros
 SmashBrosUltimate
+smashmemes
 SMG4
 SmilingFriends
 Smite
@@ -3734,6 +3746,7 @@ TeslaLounge
 TeslaModel3
 teslamotors
 TESOfashion
+Tetris
 Texans
 texas
 tf2
@@ -4045,6 +4058,7 @@ UrbanHell
 uruguay
 UrvinFinance
 usa
+USC
 uselessnobody
 uselessredcircle
 UsernameChecksOut
@@ -4259,6 +4273,7 @@ worldnewsvideo
 WorldofTanks
 WorldOfTanksBlitz
 WorldOfWarships
+WorldOfWrestlingWomen
 WorldWar2
 WormMemes
 wortwitzkasse
