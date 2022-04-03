@@ -147,6 +147,7 @@ AmericanFlaginPlace
 AmericanHorrorStory
 Amigurumi
 amihot
+amiibo
 AmITheAngel
 AmITheDevil
 amogus
@@ -438,6 +439,7 @@ benshapiro
 berkeley
 berlin
 bernesemountaindogs
+BernieSanders
 Berserk
 berserklejerk
 bestof
@@ -497,6 +499,7 @@ BlackPink
 Blacksmith
 BladeAndSorcery
 bladerunner
+Bladesmith
 BLAHAJ
 blankies
 BlatantMisogyny
@@ -976,6 +979,7 @@ DaftPunk
 Dallas
 Damnthatsinteresting
 dancarlin
+dancemoms
 danganronpa
 DaniDev
 dank_meme
@@ -1411,6 +1415,7 @@ footballmanagergames
 foraging
 forbiddenboops
 forbiddensnacks
+Ford
 ForgottenWeapons
 forhonor
 forhonorknights
@@ -1422,6 +1427,7 @@ ForShub
 FortNiteBR
 FortniteCompetitive
 FortniteLeaks
+FortniteMemes
 forwardsfromgrandma
 ForwardsFromKlandma
 forza
@@ -2000,6 +2006,7 @@ jewelrymaking
 Jigsawpuzzles
 jisoo
 jobs
+JoeBiden
 JoeRogan
 joinsquad
 jojokes
@@ -2207,6 +2214,7 @@ linux
 linux_gaming
 linuxmasterrace
 linuxmemes
+lisathepainfulrpg
 lithuania
 LitterboxComics
 LittleNuns
@@ -2408,6 +2416,7 @@ Mid_Century
 Mieruko
 MightyHarvest
 migraine
+MikaLafuente
 MikuNakano
 milanavayntrub
 mildlyevangelion
@@ -2565,6 +2574,7 @@ NBA2k
 nbacirclejerk
 nbadiscussion
 NBASpurs
+NCSU
 NCT
 nebelung
 Necrontyr
@@ -2581,6 +2591,7 @@ netflix
 NetflixBestOf
 netflixwitcher
 Netherlands
+NettHier
 NeutralPolitics
 Neverbrokeabone
 nevertellmetheodds
@@ -2920,6 +2931,7 @@ PizzaCrimes
 place
 place_nordicunion
 placecanada
+placeCosmere
 placeDE
 placefrance
 PlaceNL
@@ -3075,6 +3087,7 @@ Rammstein
 Rampartmains
 Ranboo
 rance
+rance_iel
 rangers
 rap
 rareinsults
@@ -3164,6 +3177,7 @@ RoughRomanMemes
 RPClipsGTA
 RPDRDRAMA
 rpghorrorstories
+rsloshredit
 RTGameCrowd
 rugbyunion
 runefactory
@@ -3239,7 +3253,9 @@ seals
 Seaofthieves
 seaporn
 Seattle
+SeattleKraken
 SeattleWA
+secondsketch
 secretcompartments
 seduction
 seinfeld
@@ -3255,6 +3271,7 @@ Sephora
 SequelMemes
 serbia
 serialkillers
+seriouseats
 Serverlife
 SeveranceAppleTVPlus
 SewayakiKitsune
@@ -3344,6 +3361,7 @@ sixfacedworld
 skamtebord
 sketches
 skiing
+Skincare_Addiction
 Skookum
 SkyPorn
 skyrim
@@ -3548,6 +3566,7 @@ swedishproblems
 SweetHomeAlabama
 SWGalaxyOfHeroes
 Switzerland
+SWlegion
 swordartonline
 SWORDS
 SwordsComic
@@ -3569,6 +3588,7 @@ Takagi_san
 TalesFromDF
 TalesFromRetail
 talesfromtechsupport
+TalesFromTheCustomer
 TalesFromTheFrontDesk
 TalesFromThePharmacy
 TalesFromYourServer
@@ -3854,6 +3874,7 @@ twentyonepilots
 twicemedia
 twicememes
 TWICExNice
+twilight
 twinpeaks
 TwistedWonderland
 twittermoment
