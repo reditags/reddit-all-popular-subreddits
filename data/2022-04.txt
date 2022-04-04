@@ -640,6 +640,7 @@ bottlebrush
 bottomgear
 botw
 boulder
+bouldering
 Bowling
 Boxer
 Boxing
@@ -915,6 +916,7 @@ CleaningTips
 Cleveland
 clevercomebacks
 climate
+ClimateActionPlan
 climbing
 ClimbingCircleJerk
 CloneHero
@@ -1100,6 +1102,7 @@ cute
 Cutedogsreddit
 cutegayshit
 CyanideandHappiness
+cyberDeck
 Cyberpunk
 cyberpunkgame
 cybersecurity
@@ -2004,6 +2007,7 @@ hoi4
 HOI4memes
 hoi4modding
 holdmybeaker
+holdmybraincells
 holdmycatnip
 holdmycosmo
 holdmyfeedingtube
@@ -2756,6 +2760,7 @@ MichiganWolverines
 microbork
 microdosing
 microgrowery
+MicroPorn
 MicrosoftRewards
 Mid_Century
 Mieruko
@@ -2902,6 +2907,7 @@ Mushrooms
 Music
 musicaljenga
 musictheory
+Muslim
 Mustang
 MuzisyenveBandosu
 MVIS
@@ -3410,6 +3416,7 @@ polls
 Polska
 Polska_wpz
 polydactyl
+PolyYuri
 pop_os
 popculturechat
 popheadscirclejerk
@@ -3520,6 +3527,7 @@ raimimemes
 Rainbow6
 RainbowEverything
 raining
+raisedbywolves
 raleigh
 rally
 ralsei
@@ -4378,6 +4386,7 @@ trans
 TransClones
 Transformemes
 transformers
+transgamers
 transgender
 transgendercirclejerk
 TransLater
@@ -4733,6 +4742,7 @@ wildlifephotography
 wildrift
 wimmelbilder
 windows
+Windows11
 Windscribe
 WingsOfFire
 WinStupidPrizes
