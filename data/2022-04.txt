@@ -1415,6 +1415,7 @@ Economics
 economy
 EDC
 EDH
+Edinburgh
 EDM
 Edmonton
 educationalgifs
@@ -2111,6 +2112,7 @@ HybridAnimals
 hyderabad
 HydroHomies
 hyouka
+hypixel
 HypixelSkyblock
 IAmA
 Iamactuallyverybadass
@@ -2249,6 +2251,7 @@ instantkarma
 instantpot
 Instantregret
 insurgency
+intel
 interesting
 interestingasfuck
 Interestingbutcreepy
@@ -2376,6 +2379,7 @@ Justrolledintotheshop
 JustUnsubbed
 k_on
 kaisamains
+kaiserredux
 Kaiserreich
 KaIT
 KalinkaFox
@@ -2567,6 +2571,7 @@ liluzivert
 LilyBowman
 LilyJames
 LiminalSpace
+LimonTayfaBurada
 lingling40hrs
 linguistics
 linguisticshumor
@@ -2915,6 +2920,7 @@ morbidquestions
 MordekaiserMains
 Mordhau
 moreplatesmoredates
+MoriCalliope
 Morocco
 Morrowind
 MortalKombat
@@ -4573,6 +4579,7 @@ UKPersonalFinance
 ukplace
 ukraina
 ukraine
+Ukraine_UA
 UkraineInvasionVideos
 UkraineRussiaReport
 UkraineWarReports
@@ -4647,6 +4654,7 @@ valkyrae
 VALORANT
 ValorantCompetitive
 ValorantMemes
+valve
 ValveIndex
 VampireSurvivors
 Vanced
