@@ -212,6 +212,7 @@ Animal_Sanctuary
 AnimalCrossing
 AnimalCrossingNewHor
 animalid
+AnimalsBeingAnimals
 AnimalsBeingBros
 AnimalsBeingConfused
 AnimalsBeingDerps
@@ -2458,6 +2459,7 @@ KatDennings
 katebeckinsale
 Katemara
 KaterinaSoria
+kayakfishing
 Kayaking
 KaynMains
 KazuhaMains
@@ -3058,6 +3060,7 @@ MyouiMina
 MyPeopleNeedMe
 MySingingMonsters
 MysteryDungeon
+mythology
 mythologymemes
 n64
 NailArt
@@ -3731,6 +3734,7 @@ RedDeadOnline
 reddeadredemption
 reddeadredemption2
 reddevils
+RedditDACH
 RedditLaqueristas
 RedditWritesSeinfeld
 RedDwarf
@@ -3797,6 +3801,7 @@ romemes
 ronperlmancats
 RoomPorn
 roosterteeth
+ror2
 rose
 rosin
 RotMG
@@ -4094,6 +4099,7 @@ SonicTheHedgehog
 SonoBisqueDoll
 SonyAlpha
 soulcrushingjuice
+souleater
 SoulKnight
 SoulsSliders
 Sourdough
