@@ -2751,6 +2751,7 @@ MechanicAdvice
 mechanical_gifs
 mechmarket
 MedievalCats
+MedievalHistoryMemes
 Meditation
 medizzy
 medlabprofessionals
@@ -4787,6 +4788,7 @@ WestSubEver
 WetlanderHumor
 WeWantPlates
 wgbeforeafter
+whales
 WhatAWeeb
 whatcouldgoright
 Whatcouldgowrong
