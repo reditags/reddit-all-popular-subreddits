@@ -118,6 +118,7 @@ AEWOfficial
 afkarena
 AFL
 AfterEffects
+AgainstHateSubreddits
 AgainstHinduphobia
 agedlikemilk
 agedlikewine
@@ -195,6 +196,7 @@ Amsterdam
 Amtrak
 Amywinos
 analog
+AnalogCircleJerk
 AnalogCommunity
 Anarchism
 AnarchismZ
@@ -528,6 +530,7 @@ bernesemountaindogs
 BernieSanders
 Berserk
 berserklejerk
+Best_tattoos
 bestof
 bestoflegaladvice
 BestofRedditorUpdates
@@ -1525,9 +1528,11 @@ esist
 esPlace
 esports
 espresso
+esterexposito
 ethereum
 ethoslab
 ethtrader
+Etsy
 etymology
 eu4
 eu_nvr
@@ -2178,6 +2183,7 @@ iamverysmart
 IASIP
 IBEW
 ibs
+IcebergCharts
 ich_iel
 ichbin14unddasisttief
 ichbin40undlustig
@@ -2315,6 +2321,7 @@ intel
 interesting
 interestingasfuck
 Interestingbutcreepy
+Interior
 interiordecorating
 InteriorDesign
 intermittentfasting
@@ -2328,6 +2335,7 @@ introvert
 introvertmemes
 inuyasha
 Invincible
+iOSBeta
 Iowa
 ipad
 iphone
@@ -2357,6 +2365,7 @@ ItHadToBeBrazil
 IThinkYouShouldLeave
 itookapicture
 itrunsdoom
+itsaunixsystem
 IttoMains
 ITZY
 iwoulddiefornoodle
@@ -2396,6 +2405,7 @@ Jeopardy
 jerma985
 jerseyshore
 jesuschristouija
+jeuxvideo
 Jewdank
 jewelrymaking
 Jigsawpuzzles
@@ -3533,6 +3543,7 @@ plants
 PlantsVSZombies
 PlayAvengers
 playboicarti
+PlayItAgainSam
 playrust
 playstation
 PlayStationPlus
@@ -3711,6 +3722,7 @@ RASPBERRY_PI_PROJECTS
 RATS
 ravens
 razer
+RCB
 RDR2
 Re_Zero
 reactiongifs
@@ -4430,6 +4442,7 @@ thefinalclean
 TheForest
 TheForgottenDepths
 TheGirlSurvivalGuide
+TheGlassCannonPodcast
 theGoldenGirls
 TheGoodPlace
 thegrandtour
@@ -4543,6 +4556,7 @@ tomorrow
 TongueOutHounds
 tonightsdinner
 TonikakuCawaii
+TonyHawkitecture
 TonyZaretOfficial
 TooAfraidToAsk
 toofers
@@ -4742,6 +4756,7 @@ uofm
 UofT
 upcycling
 UpliftingNews
+upvotebecauseboobs
 UpvotedBecauseBoobs
 upvoteexeggutor
 urbanexploration
