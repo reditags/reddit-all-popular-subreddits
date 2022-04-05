@@ -123,6 +123,7 @@ ageofsigmar
 aggies
 Agraelus
 AHatInTime
+AIDKE
 Aikuros
 ainbow
 ainbowroad
@@ -146,6 +147,7 @@ aldi
 alexandradaddario
 aliandjohnjamesagain
 aliceandfernsnark
+AliceEve
 aliens
 AllaBruletova
 AllCryptoBets
@@ -851,6 +853,7 @@ Channel5ive
 characterarcs
 characterdrawing
 CharacterRant
+Chargers
 Charlotte
 CharlotteHornets
 cheemsburbgerlore
@@ -1685,6 +1688,7 @@ FrenchMemes
 FreshBeans
 FridayNightFunkin
 friendlyjordies
+Frisson
 frogs
 FromKittenToCat
 FromPuppyToDog
@@ -1742,6 +1746,7 @@ G59
 gachagaming
 gachimuchi
 gadgets
+GalaxysEdge
 GalaxyWatch
 GalGadot
 gallifrey
@@ -1931,6 +1936,7 @@ HadToHurt
 haikyuu
 hailhortler
 Hair
+hajimenoippo
 HalfLife
 halifax
 halloween
@@ -2288,6 +2294,7 @@ jaidenanimations
 jailbreak
 jakertown
 JamesBond
+jameswebb
 Janiameshelll
 japan
 JapaneseFood
@@ -2938,6 +2945,7 @@ MuzisyenveBandosu
 MVIS
 MxRMods
 My600lbLife
+MyBigFatFabulousLife
 MyChemicalRomance
 mycology
 MyDressUpDarlingAnime
@@ -3306,6 +3314,7 @@ Pen_Swap
 penguins
 PenmanshipPorn
 Pennsylvania
+pennystocks
 PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
@@ -3471,6 +3480,7 @@ PragerUrine
 PraiseTheCameraMan
 pregnant
 PrehistoricMemes
+Prematurecelebration
 premed
 PremierLeague
 premiuminternet
@@ -3930,6 +3940,7 @@ snakes
 SnakesWithHats
 SNDL
 Sneks
+snes
 snowboarding
 snowrunner
 socalhiking
@@ -4057,6 +4068,7 @@ StevenHe
 stevenuniverse
 sticknpokes
 StLouis
+stlouisblues
 StockMarket
 stocks
 Stoicism
@@ -4076,6 +4088,7 @@ StreetFighter
 streeto
 streetphotography
 streetwear
+strength_training
 StudentLoans
 StuffOnCats
 stunfisk
@@ -4113,6 +4126,7 @@ Supernatural
 Superstonk
 superstore
 SuperStructures
+Supertf
 supportlol
 surrealmemes
 Survival
@@ -4267,6 +4281,7 @@ TheDepthsBelow
 TheDragonPrince
 TheExpanse
 thefighterandthekid
+thefinalclean
 TheForgottenDepths
 TheGirlSurvivalGuide
 theGoldenGirls
@@ -4360,6 +4375,8 @@ titanfolk
 titantiersuperpowers
 tja
 TLCsisterwives
+TLCUnexpected
+TMNT
 TNOmod
 toarumajutsunoindex
 toastme
@@ -4510,6 +4527,7 @@ UCSC
 UCSD
 udub
 ufc
+ufl
 UFOs
 uglyduckling
 UIUC
@@ -4660,6 +4678,7 @@ VRGaming
 VRtoER
 VShojo
 vultureculture
+vzla
 WackyTicTacs
 Wales
 walkablecities
@@ -4894,6 +4913,7 @@ youtubehaiku
 YuB
 yugioh
 YuGiOhMemes
+yumenikki
 YunjinMains
 yunyun
 YUROP
