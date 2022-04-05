@@ -465,6 +465,7 @@ BassGuitar
 bathandbodyworks
 batman
 BatmanArkham
+BattleBrothers
 Battlecars
 battlecats
 Battlefield
@@ -1486,6 +1487,7 @@ enlistedgame
 Enough_Sanders_Spam
 Enough_Vaush_Spam
 EnoughCommieSpam
+EnoughLibertarianSpam
 EnoughMuskSpam
 EnoughPCMSpam
 enoughpetersonspam
@@ -2202,6 +2204,7 @@ ImaginaryImmortals
 ImaginaryInteriors
 ImaginaryJedi
 ImaginaryKanto
+ImaginaryKnights
 ImaginaryLandscapes
 ImaginaryLeviathans
 ImaginaryMaids
@@ -2856,6 +2859,7 @@ microbork
 microdosing
 microgrowery
 MicroPorn
+MicrosoftFlightSim
 MicrosoftRewards
 Mid_Century
 Mieruko
@@ -3393,6 +3397,7 @@ PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
 peppyRoastedHimGood
+PercyJacksonMemes
 Perfectfit
 perfectloops
 PerfectlyCutBooms
@@ -4556,6 +4561,7 @@ TrollYChromosome
 Trophies
 Truckers
 Trucks
+trucksim
 TrueAnon
 TrueBlood
 TrueCrime
@@ -4638,6 +4644,7 @@ UkrainianConflict
 uktrees
 Ultrakill
 ultrawidemasterrace
+UmaMusume
 UmbrellaAcademy
 UMD
 UNC
@@ -4676,6 +4683,7 @@ UnsolvedMysteries
 unstirredpaint
 untrustworthypoptarts
 UnusualVideos
+unwholesomememes
 uofm
 UofT
 upcycling
@@ -5018,6 +5026,7 @@ yurucamp
 YuYuHakusho
 ZanClan
 zelda
+ZeldaIsCute
 Zendaya
 ZeroWaste
 zfam
