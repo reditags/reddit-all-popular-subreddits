@@ -120,6 +120,7 @@ AEWOfficial
 afkarena
 AFL
 AfterEffects
+AfterTheEndFanFork
 AgainstHateSubreddits
 AgainstHinduphobia
 agedlikemilk
@@ -626,6 +627,7 @@ Bladesmith
 BLAHAJ
 blankies
 BlatantMisogyny
+Blazblue
 bleach
 blender
 Blep
@@ -1444,6 +1446,7 @@ Dorohedoro
 DotA2
 DoubanGoosegroup
 DoveCameron
+DownvotedToOblivion
 DragaliaLost
 dragonballfighterz
 DragonballLegends
@@ -1649,6 +1652,7 @@ falloutnewvegas
 falloutsettlements
 familyguy
 FamousLatinas
+FanF1ction
 FanFiction
 fangies
 fantanoforever
@@ -3913,6 +3917,7 @@ RedLetterMedia
 redneckengineering
 RedoOfHealer
 redpandas
+redrising
 redsox
 redstone
 RedvsBlue
@@ -4440,6 +4445,7 @@ SubwayCreatures
 SuccessionTV
 suddenlybi
 suddenlycaralho
+SuddenlyCommunist
 SuddenlyIncest
 SuddenlyLesbian
 suddenlysexoffender
@@ -4514,6 +4520,7 @@ TalesFromYourServer
 talk_hunfluencers
 tall
 tallyhall
+tamagotchi
 tamamahbapengelli
 TameImpala
 tampa
