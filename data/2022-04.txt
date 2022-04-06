@@ -591,6 +591,7 @@ BitLifeApp
 bizarrebuildings
 bizarrelife
 blackcats
+Blackcelebrity
 BlackClover
 blackdesertonline
 BlackHair
@@ -1860,6 +1861,7 @@ garfieldminusgarfield
 GarlicBreadMemes
 Garmin
 Gary_The_Cat
+gastricsleeve
 gatekeeping
 GatekeepingYuri
 gatesopencomeonin
@@ -4260,6 +4262,7 @@ steak
 Stealthbombers
 Steam
 SteamDeck
+Steelbooks
 steelers
 steinsgate
 Stellaris
@@ -4792,6 +4795,7 @@ unexpectedskyrim
 Unextexted
 UnfunnyHellhole
 union
+unionsolidarity
 unitedkingdom
 unitedstatesofindia
 Unity3D
@@ -4898,6 +4902,7 @@ void_memes
 voidpunk
 Volksverpetzer
 Volkswagen
+volleyball
 Volumeeating
 Volvo
 VOMS
