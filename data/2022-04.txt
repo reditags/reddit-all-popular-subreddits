@@ -982,6 +982,7 @@ ClassPoliticsTwitter
 ClassroomOfTheElite
 CleaningTips
 Cleveland
+ClevelandGuardians
 clevercomebacks
 climate
 ClimateActionPlan
@@ -2179,6 +2180,7 @@ homegym
 HomeImprovement
 homelab
 HomeNetworking
+HomePod
 homestead
 homestuck
 hometheater
@@ -2300,6 +2302,7 @@ ImaginaryMaids
 imaginarymaps
 ImaginaryMindscapes
 ImaginaryMonsters
+ImaginaryNobles
 ImaginaryPathways
 ImaginarySliceOfLife
 ImaginarySoldiers
@@ -2544,6 +2547,7 @@ KaynMains
 KazuhaMains
 kde
 KDRAMA
+KeanuBeingAwesome
 Keep_Track
 KeiraKnightley
 KendrickLamar
@@ -2652,6 +2656,7 @@ LateStageImperialism
 LatinoPeopleTwitter
 latterdaysaints
 latvia
+LaughJokes
 LaurenCohan
 law
 lawofattraction
@@ -2664,6 +2669,7 @@ LeagueOfMemes
 LeaksDBD
 LeaMartinez
 leanbeefpatty
+leanfire
 LearmannTwins
 learnprogramming
 learntodraw
@@ -2947,6 +2953,7 @@ memesITA
 memesopdidntlike
 MemeVideos
 memexico
+memphis
 memphisgrizzlies
 MenAndFemales
 MensLib
@@ -2999,6 +3006,7 @@ MildlyVandalised
 mildyinfuriating
 MileyCyrusForeverNude
 MilitaryHistory
+militarymemes
 MilitaryPorn
 MilitaryStories
 MilitaryVStheUnknown
@@ -3178,6 +3186,7 @@ NationalPark
 NATOWave
 nattyorjuice
 Natureisbrutal
+NatureIsFuckingCute
 NatureIsFuckingLit
 natureismetal
 natureporn
@@ -3727,6 +3736,7 @@ PrintedWarhammer
 PriscillaHuggins
 privacy
 privacymemes
+proceduralgeneration
 ProCreate
 productivity
 progmetal
@@ -4166,6 +4176,7 @@ Skincare_Addiction
 SkincareAddicts
 skinwalkers
 Skookum
+SkyChildrenOfLight
 SkyGame
 skylanders
 SkyPorn
@@ -4228,6 +4239,7 @@ soulcrushingjuice
 souleater
 SoulKnight
 SoulsSliders
+SoundsLikeMusic
 Sourdough
 sousvide
 southafrica
@@ -4780,6 +4792,7 @@ tumblr
 TumblrDraws
 TumblrInAction
 TumblrWrites
+TumblrWritesAvatar
 Tunisia
 Turkey
 TurkeyJerky
