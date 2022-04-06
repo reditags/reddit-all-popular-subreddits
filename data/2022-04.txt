@@ -2405,6 +2405,7 @@ ISRO
 IsTodayFridayThe13th
 Italia
 italy
+italygames
 Itasha
 ITcrowd
 ItemShop
@@ -4552,6 +4553,7 @@ thelongdark
 TheMagnusArchives
 TheMandalorianTV
 TheMandemNP
+TheMemersClub
 TheMonkeysPaw
 thenetherlands
 TheNightFeeling
