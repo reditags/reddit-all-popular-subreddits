@@ -152,6 +152,7 @@ alberta
 Albuquerque
 AlchemyStarsEN
 aldi
+Aleague
 alexandradaddario
 aliandjohnjamesagain
 aliceandfernsnark
@@ -290,6 +291,7 @@ Apandah
 ApartheidIsrael
 ape
 apexcirclejerk
+ApexConsole
 apexlegends
 ApexLore
 ApexOutlands
@@ -394,6 +396,7 @@ auckland
 Audi
 audiophile
 Augenbleiche
+augsburg
 auntydonna
 AusFinance
 auslaw
@@ -457,6 +460,7 @@ BadMtgCombos
 BadMUAs
 BadRocketLeagueGoals
 badUIbattles
+Bailssoflove
 bakeoff
 Baking
 BaldursGate3
@@ -595,6 +599,7 @@ Bitcoin
 BitLifeApp
 bizarrebuildings
 bizarrelife
+BlackBrownFEET
 blackcats
 Blackcelebrity
 BlackClover
@@ -1249,6 +1254,7 @@ dccomicscirclejerk
 DCEUleaks
 DDintoGME
 DDLC
+DDLCMods
 de
 de_EDV
 de_IAmA
@@ -1992,6 +1998,7 @@ gratefuldead
 gratefuldoe
 gravelcycling
 gravityfalls
+graz
 GreatBritishBakeOff
 greatdanes
 greatpyrenees
@@ -2043,6 +2050,7 @@ gymsnark
 h3h3productions
 H3VR
 Habs
+hacking
 HadesTheGame
 HadToHurt
 haikyuu
@@ -2406,6 +2414,7 @@ israelexposed
 ISRO
 IsTodayFridayThe13th
 Italia
+ItalianFap
 italy
 italygames
 Itasha
@@ -2501,6 +2510,8 @@ JustMonika
 justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
+justwriterthings
+JuttaLeerdam
 k_on
 KaguyaShinomiya
 kaisamains
@@ -2873,6 +2884,7 @@ masterhacker
 MasterReturns
 Mastiff
 mathmemes
+MatoSeiheiNoSlave
 matrix
 mattcolville
 matureplants
@@ -3312,6 +3324,7 @@ nus
 NuxTakuSubmissions
 nuzlocke
 nvidia
+nwordington
 nyanners
 NYCbike
 NYGiants
@@ -3841,6 +3854,7 @@ regularcarreviews
 regularshow
 ReiAyanami
 ReinhardtMains
+reisende
 Reitsport
 relationship_advice
 RelationshipMemes
@@ -4267,6 +4281,7 @@ standardissuecat
 Standup
 StandUpComedy
 standupshots
+stanpegasus
 starbound
 starbucks
 starcitizen
@@ -4516,6 +4531,7 @@ The10thDentist
 The8BitRyanReddit
 the_darnold
 The_Dennis
+The_Leftorium
 The_Mueller
 THE_PACK
 TheAdventureZone
@@ -5056,6 +5072,7 @@ whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
 whenthe
+wherethe
 whiskey
 whitepeoplegifs
 WhitePeopleTwitter
