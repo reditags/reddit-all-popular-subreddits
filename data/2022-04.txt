@@ -702,6 +702,7 @@ BostonBruins
 bostonceltics
 BostonTerrier
 BotanicalPorn
+botany
 Botchedsurgeries
 botecodoreddit
 bottlebrush
@@ -3587,6 +3588,7 @@ ParadoxExtra
 paradoxplaza
 Parahumans
 Paramore
+Paranormal
 parasnailing
 PardonMyTake
 Pareidolia
@@ -4985,6 +4987,7 @@ Unexpected
 UnexpectedAvatar
 unexpectedbillwurtz
 unexpectedcommunism
+unexpectedfuturama
 unexpectedhogwarts
 UnexpectedLetterkenny
 UnexpectedlyWholesome
