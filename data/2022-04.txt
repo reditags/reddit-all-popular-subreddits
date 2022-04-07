@@ -145,6 +145,7 @@ ainbow
 ainbowroad
 aircrashinvestigation
 airplaneears
+airplanes
 airpods
 airsoft
 airsoftcirclejerk
@@ -2979,6 +2980,7 @@ madnesscombat
 MadokaMagica
 MAFS_AU
 MagicArena
+MagicEye
 magicthecirclejerking
 magnetfishing
 Mahouka
@@ -3172,6 +3174,7 @@ Minecraft
 Minecraftbuilds
 MinecraftChampionship
 MinecraftCommands
+MinecraftDaily
 Minecrafthmmm
 MinecraftMemes
 minecraftseeds
@@ -3342,6 +3345,7 @@ NataliaDyer
 NatalieDormer
 natalieportman
 nathanforyou
+nathanwpyle
 NationalPark
 Nationals
 NATOWave
@@ -3866,6 +3870,7 @@ Polandballart
 PolandballCommunity
 Polcompball
 Poldersocialisme
+PoliceBrotality
 policeuk
 Political_Revolution
 PoliticalCompass
@@ -4101,6 +4106,7 @@ retrobattlestations
 RetroBowl
 RetroFuturism
 retrogaming
+Returnal
 reverseanimalrescue
 RheaRipley
 RhodeIsland
@@ -4315,6 +4321,7 @@ ShingekiNoKyojin
 Shining_Nikki
 ShinyPokemon
 Shinypreciousgems
+shiroganesama
 ShitCrusaderKingsSay
 shitduolingosays
 ShitHaloSays
@@ -4813,6 +4820,7 @@ TheClickOwO
 TheCuddlePuddle
 TheDarkTower
 TheDepthsBelow
+TheDollop
 TheDragonPrince
 TheExpanse
 thefighterandthekid
@@ -4845,6 +4853,7 @@ theocho
 TheOfficialPodcast
 TheOnion
 TheOrville
+theouterworlds
 therapists
 TheRatEmpire
 TheRealJoke
