@@ -571,6 +571,7 @@ BetterEveryLoop
 beziehungen
 BhadBhabieOF222
 bi_irl
+bicycletouring
 bicycling
 BicyclingCirclejerk
 BigAndMuscular
@@ -738,6 +739,7 @@ breakingbad
 Breath_of_the_Wild
 BreathingBuddies
 breathinginformation
+Brewers
 bridezillas
 BridgertonNetflix
 brisbane
@@ -1416,6 +1418,7 @@ DivorcedBirds
 DiWHY
 DiWHYNOT
 DIY
+DJs
 DMAcademy
 DMDadJokes
 DMT
@@ -1654,6 +1657,7 @@ F1NN5TER
 F1Porn
 F1Technical
 FacebookScience
+facebookwins
 facepalm
 Faces
 factorio
@@ -2100,6 +2104,7 @@ Guns_Guns_Guns
 gurrenlagann
 GusAndEddy
 gusjohnson
+GwenMains
 gwent
 GYM
 GymMemes
@@ -2744,6 +2749,7 @@ LeaMartinez
 leanbeefpatty
 leanfire
 LearmannTwins
+LearnFinnish
 learnprogramming
 learntodraw
 LearnUselessTalents
@@ -3069,6 +3075,7 @@ MicrosoftFlightSim
 MicrosoftRewards
 Mid_Century
 Mieruko
+MietteDiaries
 MightyHarvest
 migraine
 MikaLafuente
@@ -3935,6 +3942,7 @@ rarepuppers
 Rarethreats
 raspberry_pi
 RASPBERRY_PI_PROJECTS
+Ratorix
 RATS
 ravens
 razer
@@ -4197,6 +4205,7 @@ shadowofmordor
 Sham_Sharma_Show
 ShamelesslyStolen
 SharedBPM
+Shark_Park
 sharks
 sharpcutting
 ShenheMains
@@ -4403,6 +4412,7 @@ splatoon
 Splitgate
 sploot
 spongebob
+spooktober
 Spore
 sports
 sportsarefun
@@ -4989,6 +4999,7 @@ ukplace
 ukraina
 ukraine
 Ukraine_UA
+UkraineConflict
 UkraineInvasionVideos
 UkraineIsVeryBadass
 UkraineRussiaReport
@@ -5374,6 +5385,7 @@ yesyesyesyesno
 yimby
 Yoimiya_Mains
 Yointerneto
+yorickmains
 yorumains
 Yotsubros
 YouBelongWithMemes
@@ -5401,6 +5413,7 @@ YunjinMains
 yunyun
 YUROP
 yurucamp
+yuumimains
 YuYuHakusho
 ZanClan
 zelda
