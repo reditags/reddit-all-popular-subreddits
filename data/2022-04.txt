@@ -143,6 +143,7 @@ AIDKE
 Aikuros
 ainbow
 ainbowroad
+aircrashinvestigation
 airplaneears
 airpods
 airsoft
@@ -1017,6 +1018,7 @@ CitiesSkylines
 citypop
 CityPorn
 civ
+civ5
 civic
 civilengineering
 CivVI
@@ -1252,6 +1254,7 @@ cycling
 Cynicalbrit
 czech
 czechmemes
+CZFirearms
 Dachschaden
 Dachshund
 dadjokes
@@ -1489,6 +1492,7 @@ dontflinch
 donthelpjustfilm
 dontlookdown
 dontputyourdickinthat
+dontyouknowimtonyhawk
 dontyouknowwhoiam
 DonutMedia
 doodles
@@ -4393,6 +4397,7 @@ SkyPorn
 skyrim
 SkyrimMemes
 skyrimmods
+SkyrimPorn
 skywind
 slammywhammies
 SlavaUkrayini
