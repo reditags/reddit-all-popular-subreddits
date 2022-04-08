@@ -2996,6 +2996,7 @@ lossofalovedone
 lost
 Lost_Architecture
 lostarkgame
+lostmedia
 lostpause
 lostredditors
 lotr
@@ -3224,6 +3225,7 @@ MildlyStartledCats
 MildlyVandalised
 mildyinfuriating
 MileyCyrusForeverNude
+Military
 MilitaryHistory
 militarymemes
 MilitaryPorn
