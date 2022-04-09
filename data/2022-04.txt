@@ -499,6 +499,7 @@ badUIbattles
 Bailssoflove
 bakeoff
 Baking
+bald
 BaldursGate3
 balisong
 BalticStates
@@ -826,6 +827,7 @@ Buttcoin
 BuyItForLife
 byebyejob
 ByzantineMemes
+C25K
 CabinPorn
 cableporn
 cactus
@@ -1376,6 +1378,7 @@ deathguard40k
 deathnote
 DeathNoteMemes
 DeathrattlePorn
+DeathsofDisinfo
 DeathStranding
 DebateVaccines
 DebtStrike
@@ -1648,6 +1651,7 @@ EmmaBrooks
 EmmyRossum
 Emoney
 EmpireDidNothingWrong
+EmpressEvolution
 ems
 EmulationOnAndroid
 Encanto
@@ -2353,6 +2357,7 @@ HongKong
 honkaiimpact3
 Horimiya
 horizon
+HorizonForbiddenWest
 Hornyjail
 horror
 Horses
@@ -2378,6 +2383,7 @@ HPHogwartsMystery
 httyd
 HUEstation
 HughBeingAwesome
+HumanBeingBros
 HumanForScale
 Humanoidencounters
 HumanPorn
@@ -2506,6 +2512,7 @@ ImmutableX
 Impeach_Trump
 ImpracticalJokers
 IMSARacing
+imsorryeveryone
 imsorryjon
 ImSorryYagoo
 ImTheMainCharacter
@@ -2805,6 +2812,7 @@ KneadyCats
 knifeclub
 KnightsOfPineapple
 knives
+KoboldLegion
 kof
 KokkoroNatsume
 Kokomi_Mains
@@ -3556,6 +3564,7 @@ nononono
 nonononoyes
 NonPoliticalTwitter
 noodlebones
+Nootropics
 nope
 Noragami
 Nordichistorymemes
@@ -5267,6 +5276,7 @@ UnexpectedlyWholesome
 unexpectedMontyPython
 UnexpectedMulaney
 unexpectedoffice
+unexpectedpawnee
 UnexpectedSCP
 unexpectedskyrim
 Unextexted
@@ -5366,6 +5376,7 @@ ViewPorn
 vikingstv
 VillagePorn
 Vindicta
+VindictaRateme
 Vinesauce
 VinlandSaga
 vintage
