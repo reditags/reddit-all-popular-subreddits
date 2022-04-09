@@ -1430,6 +1430,7 @@ DesignMyRoom
 DesignPorn
 DesiMeta
 DesirePath
+DesirePaths
 desmoines
 DessertPorn
 Destiny
@@ -2738,6 +2739,7 @@ Justrolledintotheshop
 JustUnsubbed
 justwriterthings
 JuttaLeerdam
+Juve
 k_on
 kaamelott
 KaeyaMains
@@ -3526,6 +3528,7 @@ NFCNorthMemeWar
 NFCWestMemeWar
 NFL_Draft
 nflmemes
+NFT
 NFTCollect
 NFTExchange
 NFTmarket
@@ -3995,6 +3998,7 @@ Polcompball
 Poldersocialisme
 PoliceBrotality
 policeuk
+politecats
 Political_Revolution
 PoliticalCompass
 PoliticalCompassMemes
@@ -4294,6 +4298,7 @@ RPDR_UK
 RPDRDRAMA
 rpg
 rpghorrorstories
+RSA
 rsloshredit
 RTGameCrowd
 RubeGoldbergFails
