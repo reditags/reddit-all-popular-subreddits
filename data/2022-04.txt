@@ -96,6 +96,7 @@ AchillesAndHisPal
 ACMilan
 acotar
 ACPocketCamp
+ACQR
 acrophobia
 ActionFigures
 ActivationSound
@@ -1656,6 +1657,7 @@ Eizouken
 Eldar
 EldenBling
 Eldenring
+eldenringdiscussion
 ElderScrolls
 elderscrollsonline
 ElectricalEngineering
@@ -3213,6 +3215,7 @@ MCPE
 me_irl
 me_irlgbt
 mead
+mealprep
 MealPrepSunday
 mealtimevideos
 meat
