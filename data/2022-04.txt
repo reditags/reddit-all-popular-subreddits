@@ -3687,6 +3687,7 @@ okoidawappler
 okpolarncp
 okprietenretardat
 Old_Recipes
+oldfreefolk
 oldhagfashion
 OldManDog
 oldpeoplefacebook
@@ -4144,6 +4145,7 @@ rance_iel
 rangers
 rangersfc
 rap
+rapedwarflore
 rareinsults
 rarepuppers
 Rarethreats
@@ -4412,6 +4414,7 @@ seinfeldgifs
 Sekiro
 self
 SelfAwarewolves
+SelfDrivingCars
 selfhosted
 selfie
 selfimprovement
@@ -4761,6 +4764,7 @@ streeto
 streetphotography
 streetwear
 strength_training
+Stuck10YearsBehind
 StudentLoans
 StuffOnCats
 stunfisk
