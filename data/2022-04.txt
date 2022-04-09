@@ -2007,6 +2007,7 @@ G59
 gachagaming
 gachimuchi
 gadgets
+GakiNoTsukai
 GalaxysEdge
 GalaxyWatch
 GalGadot
@@ -2495,6 +2496,7 @@ ImaginaryMonsters
 ImaginaryNecronomicon
 ImaginaryNobles
 ImaginaryPathways
+ImaginaryPortals
 ImaginaryScholars
 ImaginarySliceOfLife
 ImaginarySoldiers
@@ -4402,6 +4404,7 @@ scriptedasiangifs
 Scrubs
 scrungycats
 scuba
+scuderiaferrari
 ScuttleCrabMains
 seals
 Seaofthieves
