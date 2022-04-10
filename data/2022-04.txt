@@ -839,6 +839,7 @@ Bumbleby
 buncomfortable
 bundeswehr
 BungouStrayDogs
+bunniemmie
 Bunnies
 bunnyshaming
 burdurland
@@ -2528,6 +2529,7 @@ ImaginaryCyberpunk
 ImaginaryDarkSouls
 ImaginaryDragons
 ImaginaryElves
+ImaginaryForests
 ImaginaryFutureWar
 ImaginaryFuturism
 imaginarygatekeeping
@@ -5566,6 +5568,7 @@ VoteDEM
 VRchat
 VRGaming
 VRtoER
+vsauce
 VShojo
 vtmb
 vultureculture
