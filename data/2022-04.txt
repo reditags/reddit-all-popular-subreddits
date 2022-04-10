@@ -975,6 +975,7 @@ CatsWithDogs
 Catswithjobs
 catsyawning
 CatTaps
+CatTraining
 cavestory
 Cawwsplay
 CBSE
@@ -2549,6 +2550,7 @@ ImaginaryCityscapes
 ImaginaryCyberpunk
 ImaginaryDarkSouls
 ImaginaryDragons
+ImaginaryElementals
 ImaginaryElves
 ImaginaryForests
 ImaginaryFutureWar
@@ -3156,6 +3158,7 @@ lux
 LuxloCosplay
 LV426
 LWIAY
+Lyon
 MAAU
 mac
 macarons
@@ -3458,6 +3461,7 @@ MonsterHigh
 MonsterHunter
 MonsterHunterWorld
 Montana
+Monterrey
 montreal
 MontyPythonMemes
 MoonKnight
