@@ -336,6 +336,7 @@ aphextwin
 apolloapp
 AppalachianTrail
 apple
+applehelp
 AppleWatch
 ApplyingToCollege
 aprilfools
@@ -761,6 +762,7 @@ BorderCollie
 Borderlands
 Borderlands2
 borderlands3
+BorderlinePDisorder
 boringdystopia
 Boruto
 Bossfight
@@ -1482,6 +1484,7 @@ desmoines
 DessertPorn
 Destiny
 destiny2
+DestinyCreations
 DestinyFashion
 DestinyLore
 DestinyMemes
@@ -1710,6 +1713,7 @@ Eminem
 EmKay
 EmmaBrooks
 EmmyRossum
+Emo
 Emoney
 EmpireDidNothingWrong
 EmpressEvolution
@@ -2932,6 +2936,7 @@ kotor
 KOTORmemes
 kpics
 kpop
+kpophelp
 kpopthoughts
 kristenstewart
 krita
@@ -4801,6 +4806,7 @@ SonicTheHedgehog
 SonoBisqueDoll
 SonyAlpha
 sophievanmeter9
+SOSStock
 soulcrushingjuice
 souleater
 SoulKnight
@@ -4891,6 +4897,7 @@ Starfield
 Stargate
 Starlink
 starsector
+StarshipPorn
 starterpacks
 StartledCats
 startrekgifs
@@ -5235,6 +5242,7 @@ TheYardPodcast
 theydidthemath
 theyknew
 ThickFit
+ThingsCutInHalfPorn
 thingsforants
 thinkpad
 ThirdLifeSMP
@@ -5743,6 +5751,7 @@ whatsthisrock
 whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
+wheeloftime
 whenthe
 wheredidthesodago
 wherethe
