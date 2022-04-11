@@ -390,6 +390,7 @@ ask
 AskARussian
 AskBalkans
 AskCulinary
+AskDocs
 AskEngineers
 AskFrance
 askgaybros
@@ -651,6 +652,7 @@ bingbongtheorem
 BingeEatingDisorder
 bingingwithbabish
 BinIchDasArschloch
+Biochemistry
 biology
 biologymemes
 bioniclelego
@@ -2350,6 +2352,7 @@ hatsune
 HauntedMound
 Hawaii
 hawks
+Hayleeboo16Priv
 HazbinHotel
 hdtgm
 headpats
@@ -4382,6 +4385,7 @@ Reitsport
 relationship_advice
 RelationshipMemes
 religiousfruitcake
+reloading
 remoteplaces
 Reno
 Repaintings
