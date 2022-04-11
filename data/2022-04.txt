@@ -1294,6 +1294,7 @@ Cryptomains
 CryptoMarkets
 CryptoMars
 CryptoMarsShots
+CryptoMoon
 CryptoMoonCoins
 CryptoMoonShots
 cryptostreetbets
@@ -1956,6 +1957,7 @@ FoodPorn
 Foofighters
 football
 footballmanagergames
+footballmemes
 foraging
 forbiddenboops
 forbiddensnacks
@@ -2769,6 +2771,7 @@ japan
 JapaneseFood
 japanlife
 japanpics
+JARMEDIA
 Jarrariums
 Jaxmains
 jayhawks
@@ -3244,6 +3247,7 @@ manhwa
 Manitoba
 ManufacturingPorn
 Maplestory
+mapmaking
 MapPorn
 mapporncirclejerk
 Maps
@@ -4081,6 +4085,7 @@ Pikabu
 Pikmin
 PikminBloomApp
 PiltoversFinest
+PinayTikTok
 pinkfloyd
 PinkFloydCircleJerk
 PinkOmega
@@ -5964,6 +5969,7 @@ YuYuHakusho
 ZanClan
 zelda
 ZeldaIsCute
+ZeLink
 Zendaya
 ZeroWaste
 zfam
