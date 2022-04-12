@@ -449,6 +449,7 @@ AttackOnRetards
 attackontitan
 auckland
 Audi
+audioengineering
 audiophile
 Augenbleiche
 Augenschmaus
@@ -1162,6 +1163,7 @@ CollegeBasketball
 Colombia
 Colorado
 ColoradoAvalanche
+ColoradoRockies
 ColoradoSprings
 Colorization
 ColorizedHistory
@@ -2695,6 +2697,7 @@ IndieDev
 indiefoxxreddit
 indiegames
 IndieGaming
+indieheadscirclejerk
 indonesia
 IndoorGarden
 INDYCAR
@@ -3303,6 +3306,7 @@ Mariners
 Mario
 mariokart
 MarioKartTour
+Markham
 Markiplier
 Marriage
 MarriedAtFirstSight
@@ -5438,6 +5442,7 @@ TopSecretRecipes
 toptalent
 toradora
 tornado
+TornadoEncounters
 Torontobluejays
 torontoraptors
 torties
@@ -5949,6 +5954,7 @@ WOSH
 WoT
 wow
 wowthanksimcured
+wowthissubexists
 Wrangler
 Wrasslin
 WRC
