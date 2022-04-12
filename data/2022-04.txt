@@ -146,6 +146,7 @@ AgainstHinduphobia
 agedlikemilk
 agedlikewine
 agedtattoos
+AgeOfCivilizations
 AgeofMythology
 ageofsigmar
 aggies
@@ -2156,6 +2157,7 @@ Gamingcirclejerk
 GamingDetails
 GamingLeaksAndRumours
 gamingpc
+gangplankmains
 gangstaswithwaifus
 gangweed
 gank
@@ -2458,6 +2460,7 @@ HilariaBaldwin
 HildaTheSeries
 HIMYM
 hinduism
+hingeapp
 HistoricalCostuming
 history
 History_Mysteries
@@ -2623,6 +2626,7 @@ ImaginaryArmor
 ImaginaryAssassins
 ImaginaryAstronauts
 ImaginaryAww
+ImaginaryAzeroth
 ImaginaryBattlefields
 ImaginaryBehemoths
 ImaginaryBestOf
@@ -3391,6 +3395,7 @@ medlabprofessionals
 Megadeth
 megalophobia
 Megaman
+megamindmemes
 MeganFox
 Megaten
 Megumin
@@ -4306,6 +4311,7 @@ PrequelMemes
 PresidentialRaceMemes
 prettyasiangirls
 PrettyGirlsUglyFaces
+PrettyLittleLiars
 preyingmantis
 Priconne
 PrimeiraLiga
@@ -4534,6 +4540,7 @@ ripcity
 risa
 riskofrain
 Rivian
+RLSideSwipe
 Roadcam
 RoadTo56
 roadtrip
@@ -5490,6 +5497,7 @@ toradora
 tornado
 TornadoEncounters
 Torontobluejays
+TorontoDriving
 torontoraptors
 torties
 TortoiseShellCats
@@ -5567,6 +5575,7 @@ Tubbo_
 tuckedinkitties
 TuckedInPuppies
 Tucson
+tulsa
 tumblr
 TumblrDraws
 TumblrInAction
@@ -6048,6 +6057,7 @@ yakuzagames
 YanfeiMains
 YarnAddicts
 yarntrolls
+YasuoMains
 yeagerbomb
 yeat_
 Yeen_irl
