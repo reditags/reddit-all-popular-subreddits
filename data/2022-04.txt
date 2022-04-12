@@ -151,6 +151,7 @@ ageofsigmar
 aggies
 Agraelus
 AHatInTime
+AhriMains
 AIDKE
 Aikuros
 ainbow
@@ -2476,6 +2477,7 @@ holdmycosmo
 holdmyfeedingtube
 holdmyfries
 holdmyjuicebox
+HoldMyKibble
 holdmyredbull
 holdup
 holesome
@@ -3848,6 +3850,7 @@ nukedmemes
 nursing
 nus
 Nuuk
+NuxTaku
 NuxTakuSubmissions
 nuzlocke
 nvidia
@@ -3873,6 +3876,7 @@ oddlysatisfying
 oddlyspecific
 oddlyspecificshirts
 oddlyterrifying
+OddlyWholesome
 ofcoursethatsathing
 offbeat
 OffGridCabins
@@ -3988,6 +3992,7 @@ OSU
 osubuddyretard
 osugame
 osuplace
+OSWReview
 othepelican
 OTMemes
 OtomeIsekai
@@ -4644,6 +4649,7 @@ SavageGarden
 SAVEBRENDAN
 savedyouaclick
 SaveThePostalService
+saw
 SBCGaming
 sbeve
 sbubby_NL
@@ -5713,6 +5719,7 @@ VanLife
 VaporwaveAesthetics
 VaushV
 vaxxhappened
+vaynemains
 vdm
 Vechain
 vegan
@@ -5825,6 +5832,7 @@ wasletztepreis
 watamote
 Watashi_ni_Tenshi
 WatchandLearn
+WatchAnimalsDieInside
 watchcatsdieinside
 WatchDogsWoofInside
 watcherentertainment
