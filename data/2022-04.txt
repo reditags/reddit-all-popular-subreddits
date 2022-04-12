@@ -354,6 +354,8 @@ arabfunny
 araragi
 arcane
 Archaeology
+ArchaeologyMemes
+archeologyworld
 ArcherFX
 Archery
 ArchitecturalRevival
@@ -517,6 +519,7 @@ BadChoicesGoodStories
 badcode
 BadDesigns
 Badfaketexts
+badfriendspod
 badhistory
 BadMtgCombos
 BadMUAs
@@ -530,6 +533,7 @@ bald
 baldursgate
 BaldursGate3
 balisong
+ballpython
 BalticStates
 BananasForScale
 banano
@@ -598,6 +602,7 @@ Beekeeping
 BeelcitosMemes
 beetlejuicing
 BeforeNAfterAdoption
+BeggingChoosers
 BeginnerWoodWorking
 behindthebastards
 beholdthemasterrace
@@ -2695,6 +2700,7 @@ InfinityTrain
 InfluencergossipDK
 influencersgostosas
 Infographics
+InformedWarriorRides
 InfowarriorRides
 infp
 InfrastructurePorn
@@ -3947,6 +3953,7 @@ orchids
 oregon
 OrganizationPorn
 OriAndTheBlindForest
+orioles
 orks
 orlando
 Orochisegundo
@@ -4777,6 +4784,7 @@ showerbirb
 Showerthoughts
 Shrek
 Shrekmemes
+Shrimping
 shrimptank
 shrooms
 shubreddit
@@ -4961,6 +4969,7 @@ Stadia
 StainedGlass
 stalker
 StallmanWasRight
+Stance
 standardissuecat
 Standup
 StandUpComedy
@@ -5388,6 +5397,7 @@ toastme
 todayilearned
 toddlers
 toebeans
+Toefeathers
 ToiletPaperUSA
 tokkiefeesboek
 tokkiemarktplaats
@@ -5789,6 +5799,7 @@ watchpeoplesurvive
 WatchRedditDie
 watchthingsfly
 Watercolor
+watercolorpractice
 watercooling
 Waterdogs
 waterloo
@@ -5799,6 +5810,7 @@ wde
 WeaponsMoe
 WeAreTheMusicMakers
 WeatherGifs
+web_design
 webcomics
 webdev
 wec
