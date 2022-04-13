@@ -2454,6 +2454,7 @@ Hardcore
 hardcoreaww
 HardcoreNature
 hardware
+Harley
 Harpo
 harrypotter
 HarryPotterGame
@@ -2670,6 +2671,7 @@ illegallybigcats
 IllegallySmol
 illegallysmolanimals
 illegallysmolbirbs
+IllegallySmolBunnies
 IllegallySmolCats
 IllegallySmolDogs
 illnessfakers
@@ -3634,6 +3636,7 @@ moderatepolitics
 Modern_Family
 ModernistArchitecture
 ModernMagic
+modernquilts
 modernwarfare
 moedred
 Moescape
@@ -5923,6 +5926,7 @@ voidpunk
 Volksverpetzer
 Volkswagen
 volleyball
+VoltEuropa
 Volumeeating
 Volvo
 VOMS
