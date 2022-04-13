@@ -949,6 +949,7 @@ caps
 CaptainSparklez
 CaptainSparrowmemes
 capybara
+carcrash
 cardano
 Cardinals
 cardsagainsthumanity
@@ -1690,6 +1691,7 @@ DragonsDogma
 Dragula
 DramaticText
 Draven
+Drawfee
 drawing
 DrDisrespectLive
 Dreadlocks
@@ -2839,6 +2841,7 @@ ironmaiden
 ironmouse
 ironscape
 IrrationalMadness
+IsekaiQuartet
 IsItBullshit
 islam
 IslamicHistoryMeme
@@ -5530,6 +5533,7 @@ TikToks
 TILI
 tiltshift
 TimAndEric
+timbers
 timberwolves
 TimDillon
 timelapse
