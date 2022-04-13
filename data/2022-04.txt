@@ -2604,6 +2604,7 @@ HYMCStock
 hyouka
 hypixel
 HypixelSkyblock
+HytaleInfo
 IAmA
 Iamactuallyverybadass
 iamatotalpieceofshit
@@ -5246,6 +5247,7 @@ synthesizers
 sysadmin
 Sysadminhumor
 systemofadown
+SystemsCringe
 SzarFurik
 TabbyCats
 tacobell
