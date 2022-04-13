@@ -273,6 +273,7 @@ AnimalsBeingLoveable
 AnimalsBeingMoms
 AnimalsBeingSleepy
 AnimalsBeingStrange
+animalsbeingstupid
 animalsdoingstuff
 AnimalsMonching
 Animalsthatlovemagic
@@ -982,6 +983,7 @@ catdimension
 catfaceplant
 catfruit
 CatGifs
+CatgirlSFW
 Catholicism
 CatholicMemes
 cathostage
@@ -1448,6 +1450,7 @@ DarwinAwards
 Dashcam
 dashcamgifs
 data_irl
+DataArt
 DataHoarder
 dataisbeautiful
 dataisugly
@@ -3176,6 +3179,7 @@ lesbianmemes
 lesserafim
 Letterboxd
 Letterkenny
+LeverGuns
 lewishamilton
 lewronggeneration
 lexapro
@@ -4728,6 +4732,7 @@ SatisfIcing
 satisfying
 Satisfyingasfuck
 SatoshiBets
+SatoshiStreetBets
 saudiarabia
 SavageGarden
 SAVEBRENDAN
