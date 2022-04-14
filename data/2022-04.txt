@@ -1047,6 +1047,7 @@ Catswithjobs
 catsyawning
 CatTaps
 CatTraining
+CatTrap
 cavestory
 Cawwsplay
 CBSE
@@ -1373,6 +1374,7 @@ Cryptozoology
 Crystals
 cscareerquestions
 csgo
+csharp
 CSHFans
 csMajors
 CSULB
@@ -1691,6 +1693,7 @@ dontflinch
 DontFundMe
 donthelpjustfilm
 dontlookdown
+dontopendeadinside
 dontputyourdickinthat
 dontyouknowimtonyhawk
 dontyouknowwhoiam
@@ -2077,6 +2080,7 @@ forbiddenboops
 forbiddensnacks
 Ford
 foreverbox
+Forex
 ForFashion
 ForgottenWeapons
 forhonor
@@ -3143,6 +3147,7 @@ Kurumi
 kurzgesagt
 Kuwait
 Kyaru
+Kyousaya
 Kyusha
 l4d2
 LabourUK
@@ -3381,6 +3386,7 @@ m4ti
 MAAU
 mac
 macarons
+macbookpro
 MachikadoMazoku
 MachineLearning
 MachinePorn
@@ -5290,6 +5296,7 @@ streetphotography
 streetwear
 strength_training
 Stretched
+stuartlittlefacts
 Stuck10YearsBehind
 StudentLoans
 StuffOnCats
@@ -6324,6 +6331,7 @@ zelda
 ZeldaIsCute
 ZeLink
 Zendaya
+ZeroEscape
 ZeroWaste
 zfam
 ZhongliMains
