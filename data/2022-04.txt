@@ -108,6 +108,7 @@ ActionFigures
 ActivationSound
 ActLikeYouBelong
 actu_memes
+actualite
 ActualPublicFreakouts
 Acura
 AdamDriverCats
@@ -458,6 +459,7 @@ AteistTurk
 ATERstock
 AteTheOnion
 atheism
+atheismindia
 ATLA
 Atlanta
 AtlantaHawks
@@ -1291,6 +1293,7 @@ countryballs_comics
 CoupleMemes
 COVIDAteMyFace
 CovIdiots
+covidlonghaulers
 cowboybebop
 cowboys
 Cows
@@ -2869,6 +2872,7 @@ ironscape
 IrrationalMadness
 IsekaiQuartet
 IsItBullshit
+ISKbets
 islam
 IslamicHistoryMeme
 isopods
@@ -3863,6 +3867,7 @@ newworldgame
 newyorkcity
 NewYorkMets
 newzealand
+NewZealandWildlife
 nextfuckinglevel
 NFA
 NFCEastMemeWar
@@ -4239,8 +4244,10 @@ PERSoNA
 persona4golden
 Persona5
 PersonalFinanceCanada
+PersonalFinanceNZ
 perth
 PERU
+pesmobile
 pessimismmemes
 PetAfterVet
 Pete_Buttigieg
