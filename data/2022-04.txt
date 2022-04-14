@@ -157,6 +157,7 @@ ageofsigmar
 aggies
 Agraelus
 AHatInTime
+AHomeForPlagueRats
 AhriMains
 AIDKE
 Aikuros
@@ -1496,6 +1497,7 @@ deadandcompany
 deadbydaylight
 deadcells
 deadmalls
+deadmeatjames
 DeadSpace
 deadwood
 deathbattle
@@ -4940,6 +4942,7 @@ shittyaskscience
 shittycoolguides
 ShittyDaystrom
 ShittyDesign
+shittyeldenring
 shittyfoodporn
 shittygamedetails
 ShittyGifRecipes
