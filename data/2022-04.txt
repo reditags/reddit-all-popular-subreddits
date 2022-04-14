@@ -262,6 +262,7 @@ Angryupvote
 ani_bm
 Animal_Sanctuary
 AnimalCrossing
+animalcrossingdesign
 animalcrossingmeme
 AnimalCrossingNewHor
 animalid
@@ -1717,6 +1718,7 @@ DrewGooden
 Drifting
 dril
 Drizzy
+drones
 DrosteEffect
 DrStone
 drugmemes
@@ -2543,6 +2545,7 @@ HobbyDrama
 hockey
 HockeyFights
 hockeymemes
+hockeyplayers
 hoggit
 hoi4
 HOI4memes
@@ -3750,6 +3753,7 @@ MyBigFatFabulousLife
 MyChemicalRomance
 mycology
 MyDressUpDarlingAnime
+myfavoritemurder
 mylittlepony
 MyNameIsBat
 myog
@@ -3957,6 +3961,7 @@ nottheonion
 nova
 NovaScotia
 noveltranslations
+November2022BumpGroup
 nowmycat
 noworking
 nrl
@@ -4233,6 +4238,7 @@ perth
 PERU
 pessimismmemes
 PetAfterVet
+Pete_Buttigieg
 PetiteFashionAdvice
 PetiteFitness
 PetsareAmazing
@@ -4447,6 +4453,7 @@ ProgrammerAnimemes
 ProgrammerHumor
 programming
 programminghorror
+programminghumor
 programmingmemes
 progun
 Project_Wingman
@@ -4525,6 +4532,7 @@ raiders
 raidsecrets
 raimimemes
 Rainbow6
+Rainbow_Waifus
 RainbowEverything
 raining
 rainworld
@@ -5084,6 +5092,7 @@ SoulKnight
 Soulnexus
 SoulSnacks
 SoulsSliders
+SoundersFC
 SoundsLikeMusic
 Sourdough
 sousvide
@@ -5544,6 +5553,7 @@ ThingsCutInHalfPorn
 thingsforants
 thinkpad
 ThirdLifeSMP
+ThirdSentenceHappy
 thirdsentenceworse
 ThisDayInHistory
 Thisismylifemeow
@@ -5896,6 +5906,7 @@ vaynemains
 vdm
 Vechain
 vegan
+vegan1200isplenty
 vegancirclejerk
 VeganDE
 veganfitness
