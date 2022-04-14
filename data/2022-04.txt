@@ -224,6 +224,7 @@ ambien
 amcstock
 AMCSTOCKS
 Amd
+AmerExit
 americandad
 AmericanFascism2020
 AmericanFlaginPlace
@@ -1878,6 +1879,7 @@ esterexposito
 ethereum
 ethoslab
 ethtrader
+EtikaRedditNetwork
 Etsy
 etymology
 eu4
@@ -2400,6 +2402,7 @@ greatdanes
 greatpyrenees
 greebles
 greece
+GreekMythology
 GreenAndEXTREME
 GreenAndPleasant
 GreenBayPackers
@@ -5239,6 +5242,7 @@ starfinder_rpg
 Stargate
 Starlink
 starsector
+StarshipDevelopment
 StarshipPorn
 starterpacks
 StartledCats
@@ -6022,6 +6026,7 @@ virginvschad
 virtualreality
 Visiblemending
 visualnovels
+Vivy
 Vocaloid
 void_memes
 VoidCake
