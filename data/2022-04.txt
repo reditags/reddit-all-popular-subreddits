@@ -3509,6 +3509,7 @@ MelissaBenoist
 meltyblood
 MelvorIdle
 meme
+MemeAlleyway
 memeculturetechnology
 MemeEconomy
 memeframe
@@ -5324,6 +5325,7 @@ survivor
 sushi
 suspiciouslyspecific
 suspiciousquotes
+svenskpolitik
 SwainMains
 SWARJE
 SweatyPalms
@@ -5412,6 +5414,7 @@ tech
 tech1e
 technews
 technicallythetruth
+technicalminecraft
 Techno
 Technoblade
 technology
@@ -6174,6 +6177,7 @@ Woodcarving
 woodworking
 woof_irl
 woooosh
+woosh
 wordington
 wordle
 Workbenches
