@@ -981,6 +981,7 @@ caps
 CaptainSparklez
 CaptainSparrowmemes
 capybara
+CarAV
 carcrash
 cardano
 Cardinals
@@ -1240,6 +1241,7 @@ CombatReality
 combinedgifs
 comedy
 comedyamputation
+comedybangbang
 ComedyCemetery
 comedydamnation
 comedyepilepsy
@@ -2167,6 +2169,7 @@ FreeEBOOKS
 freefolk
 freefromwork
 FreeGameFindings
+FreeKarma4You
 FreeSpeech
 FreezingFuckingCold
 FremantleFC
@@ -3912,6 +3915,7 @@ neekolul
 NelliesNest
 NeonGenesisEvangelion
 neopets
+neovim
 Nepal
 nerdfighters
 Nerf
@@ -4754,6 +4758,7 @@ retrobattlestations
 RetroBowl
 RetroFuturism
 retrogaming
+RetroPie
 Returnal
 reverseanimalrescue
 ReversePinterest
@@ -5109,6 +5114,7 @@ Sims4
 Simulated
 singapore
 SingaporeRaw
+singularity
 Sinvicta
 SipsTea
 sistersofbattle
