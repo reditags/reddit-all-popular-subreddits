@@ -161,6 +161,7 @@ agedlikewine
 agedtattoos
 agender
 AgeOfCivilizations
+ageofempires
 AgeofMythology
 ageofsigmar
 aggies
@@ -735,6 +736,7 @@ Bitcoin
 BitLifeApp
 bizarrebuildings
 bizarrelife
+bjork
 BlackBrownFEET
 blackcats
 Blackcelebrity
@@ -1355,6 +1357,7 @@ creepydesign
 creepyencounters
 creepypasta
 creepyPMs
+creepyvideos
 CreepyWikipedia
 cremposting
 crescentcitysjm
@@ -1540,6 +1543,7 @@ DeadSpace
 deadwood
 deathbattle
 DeathByMillennial
+Deathcore
 deathgrips
 deathguard40k
 Deathkorpsofkrieg
@@ -1564,6 +1568,7 @@ DeepRockGalactic
 deepseacreatures
 DeepSpaceNine
 DeerAreFuckingStupid
+defi
 defiantpanda
 deficryptos
 deftones
@@ -1588,6 +1593,7 @@ Demotivational
 Denmark
 DenseGifs
 DenverBroncos
+DenverCirclejerk
 denvernuggets
 DenzelCurry
 depression_memes
@@ -2210,6 +2216,7 @@ FuckImOld
 FuckNestle
 fucknftsplace
 FuckPierre
+fuckpongkrell
 Fuckthealtright
 fucktheccp
 fuckwasps
@@ -2302,6 +2309,7 @@ gaymemes
 GaySoundsShitposts
 gayspiderbrothel
 GearsOfWar
+geckos
 geek
 GeekyCrochet
 gekte
@@ -2968,6 +2976,7 @@ iZone
 IzuOcha
 jackrussellterrier
 jacksepticeye
+JacksFilms
 jacksonville
 JackSucksAtLife
 jackwhite
@@ -3085,6 +3094,7 @@ KalinkaFox
 KamenRider
 Kameto
 KamikazeByWords
+KanojoMoKanojo
 KanojoOkarishimasu
 kansascity
 KansasCityChiefs
@@ -3199,6 +3209,7 @@ kurtisconner
 Kurumi
 kurzgesagt
 Kuwait
+KUWTKsnark
 Kyaru
 Kyousaya
 Kyusha
@@ -3376,6 +3387,7 @@ longboarding
 longboyes
 longcats
 LongDistance
+longevity
 longhair
 LonghornNation
 longisland
@@ -4973,6 +4985,7 @@ SeeYaLaterLosers
 Seiko
 seinfeld
 seinfeldgifs
+seiyuu
 Sekiro
 self
 SelfAwarewolves
@@ -5254,6 +5267,7 @@ SpidermanPS4
 spiders
 spiderversedailymemes
 Spielstopp
+spikes
 Spiritfarer
 splatoon
 Splitgate
@@ -5731,6 +5745,7 @@ tippytaps
 Tiresaretheenemy
 titanfall
 titanfolk
+titanic
 titantiersuperpowers
 titleporn
 tja
