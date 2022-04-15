@@ -1033,6 +1033,7 @@ catpictures
 catradora
 cats
 CatsAndDogsBFF
+CatsAndPlants
 catsarealiens
 CatsAreAssholes
 catsarefuckingstupid
@@ -1429,6 +1430,7 @@ cursedimages
 cursedjojo
 cursedmemes
 CursedMinecraft
+cursedtoilets
 cursedvideos
 CurseofStrahd
 customhearthstone
@@ -4340,6 +4342,7 @@ penguins
 PenmanshipPorn
 Pennsylvania
 pennystocks
+penpals
 PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
@@ -4366,6 +4369,7 @@ pesmobile
 pessimismmemes
 PetAfterVet
 Pete_Buttigieg
+Petioles
 PetiteFashionAdvice
 PetiteFitness
 PetsareAmazing
@@ -5215,6 +5219,7 @@ socalhiking
 soccercirclejerk
 soccermemes
 socialanxiety
+SocialDemocracy
 socialism
 SocialismIsCapitalism
 SocialistRA
@@ -6466,4 +6471,5 @@ ZombielandSaga
 Zoomies
 zootopia
 zsebibaba
+zurich
 zyzz
