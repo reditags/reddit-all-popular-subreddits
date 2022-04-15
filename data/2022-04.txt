@@ -404,6 +404,7 @@ ArgentinaBenderStyle
 ArianaGrande
 arizona
 ARK
+arkisuomi
 arknights
 arma
 armenia
@@ -2397,6 +2398,7 @@ GMECanada
 GMEJungle
 gmod
 gnome
+goats
 GoatsOnTopOfHorses
 goblincore
 GodDesigns
@@ -3046,6 +3048,7 @@ joinsquad
 Jojo
 jojokes
 JoJoMemes
+jokercringe
 Jokes
 JonTron
 Jord627_
@@ -3793,6 +3796,7 @@ Monsterverse
 Montana
 Monterrey
 montreal
+montypython
 MontyPythonMemes
 MoonKnight
 Moonmoon
@@ -5675,6 +5679,7 @@ thelongdark
 TheMagnusArchives
 TheMandalorianTV
 TheMandemNP
+TheMarvelousMrsMaisel
 TheMemersClub
 TheMonkeysPaw
 themummymemes
