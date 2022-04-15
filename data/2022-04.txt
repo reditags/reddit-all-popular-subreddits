@@ -2371,6 +2371,7 @@ gojira
 Gold
 Goldendoodles
 GoldenKamuy
+goldenknights
 goldenretriever
 goldenretrievers
 GoldenSun
@@ -3506,6 +3507,7 @@ maryland
 mash
 massachusetts
 masseffect
+MassEffectAndromeda
 MassEffectMemes
 masterduel
 masterhacker
@@ -3920,6 +3922,7 @@ newjersey
 NewOrleans
 NewParents
 NewPatriotism
+NewPipe
 news
 NewSkaters
 NewVegasMemes
@@ -4049,6 +4052,7 @@ nvidia
 nwordington
 nyanners
 NYCbike
+nycHistory
 NYGiants
 nyjets
 NYKnicks
@@ -4110,6 +4114,7 @@ OkBuddyPoliceOfficer
 okbuddyredacted
 okbuddyreiner
 okbuddyrintard
+okbuddytankie
 okbuddyvowsh
 okcopainattard
 okemakkermaloot
@@ -4589,6 +4594,7 @@ Python
 QanonKaren
 Qdpay
 qimmahrusso
+QualityTacticalGear
 Quebec
 queen
 queensland
