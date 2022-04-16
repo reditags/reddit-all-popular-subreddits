@@ -210,6 +210,7 @@ AliceInChains
 aliens
 AllaBruletova
 AllCryptoBets
+alpaca
 altdogelore
 AlternateAngles
 AlternateHistory
@@ -377,6 +378,7 @@ applehelp
 AppleWatch
 ApplyingToCollege
 aprilfools
+AquaJail
 AquariumMemes
 Aquariums
 Aquascape
@@ -460,6 +462,7 @@ AssassinsCreedOdyssey
 AssassinsCreedValhala
 assettocorsa
 assholedesign
+assholetax
 astrologymemes
 Astroneer
 Astronomy
@@ -912,6 +915,7 @@ bts7
 BTThrowingYouAtShit
 buccos
 Buddhism
+budgetfood
 budgies
 BuenosAires
 Buffalo
@@ -2461,6 +2465,7 @@ greatdanes
 greatpyrenees
 greebles
 greece
+GreedIncorporated
 GreekMythology
 GreenAndEXTREME
 GreenAndPleasant
@@ -2558,6 +2563,7 @@ Hardcore
 hardcoreaww
 HardcoreNature
 hardware
+hardwaregore
 Harley
 Harpo
 harrypotter
@@ -2587,6 +2593,7 @@ HeckThisIsWholesome
 Hedgehog
 HeidiLavon
 Helicopters
+HellenicMemes
 HellLetLoose
 hellofresh
 HelloInternet
@@ -3713,6 +3720,7 @@ Milking
 Millennials
 MillieBobbyBrown2
 MillionaireGrindset
+millionairemakers
 milwaukee
 mina_irl
 Mindfulness
@@ -3830,6 +3838,7 @@ MotorcyclePorn
 motorcycles
 MotoUK
 mountainbiking
+mountaindew
 Mountaineering
 mountandblade
 MouseReview
@@ -5105,6 +5114,7 @@ ShittyAnimalFacts
 shittyaquariums
 Shittyaskflying
 shittyaskscience
+shittybattlestations
 shittycoolguides
 ShittyDaystrom
 ShittyDesign
@@ -5537,6 +5547,7 @@ TalesFromThePizzaGuy
 TalesFromYourServer
 talk_hunfluencers
 tall
+Tallships
 tallyhall
 tamagotchi
 tamamahbapengelli
