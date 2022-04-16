@@ -425,6 +425,7 @@ Art
 ArtDeco
 ArtefactPorn
 ArtisanVideos
+artmemes
 ArtOfRolling
 ArtPorn
 asaprocky
@@ -574,6 +575,7 @@ badhistory
 BadMtgCombos
 BadMUAs
 BadRocketLeagueGoals
+badtaxidermy
 badtransanatomy
 badUIbattles
 Bailssoflove
@@ -5677,6 +5679,7 @@ TechNope
 techsupportgore
 techsupportmacgyver
 techwearclothing
+TectEGG
 TeddyFresh
 TedLasso
 teefies
