@@ -85,6 +85,7 @@ AbstractArt
 ac_newhorizons
 ACAB
 AccidentalAlly
+AccidentalArtGallery
 AccidentalCamouflage
 AccidentalComedy
 accidentallycommunist
@@ -2208,6 +2209,7 @@ fourthwavewomen
 foxes
 FoxFiction
 foxholegame
+fpv
 fragilecommunism
 FragileMaleRedditor
 FragileWhiteRedditor
@@ -4694,6 +4696,7 @@ providence
 ps2
 PS3
 PS4
+PS4Deals
 PS5
 psx
 psych
@@ -5217,6 +5220,7 @@ shoujoai
 shouldercats
 ShouldIbuythisgame
 showerbirb
+ShowerOrange
 Showerthoughts
 Shrek
 Shrekmemes
@@ -5601,6 +5605,7 @@ systemofadown
 SystemsCringe
 SzarFurik
 TabbyCats
+tabletopgamedesign
 tacobell
 Tacoma
 tacos
@@ -5640,6 +5645,7 @@ TargetedShirts
 tarheels
 tarik
 TarkovMemes
+tarot
 tartarianarchitecture
 taskmaster
 TastingHistory
@@ -5984,6 +5990,7 @@ tretinoin
 TrevorHenderson
 triangle
 TriangleStrategy
+triathlon
 TripodCats
 trippinthroughtime
 trippy
@@ -6346,6 +6353,7 @@ web_design
 webcomics
 webdev
 wec
+WECcirclejerk
 wedding
 weddingdress
 weddingshaming
