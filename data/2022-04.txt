@@ -115,6 +115,7 @@ ActivationSound
 ActLikeYouBelong
 actu_memes
 actualconspiracies
+ActualFreakouts
 actualite
 ActualPublicFreakouts
 Acura
@@ -2374,6 +2375,7 @@ GermanRap
 germanshepherds
 GermanWW2photos
 germany
+GermanyPics
 GeschichtsMaimais
 getdisciplined
 GetMotivated
@@ -3245,6 +3247,7 @@ krita
 kryxivia
 ksi
 KSPMemes
+KtLordahl
 kubernetes
 KujouSaraMains
 KukiShinobuMains
@@ -5697,6 +5700,7 @@ theblackvoid
 TheBlueCorner
 TheBoys
 TheBoysChannel
+TheBullWins
 TheCapeRevolution
 thecatdimension
 TheCatTrapIsWorking
