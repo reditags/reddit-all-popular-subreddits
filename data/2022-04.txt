@@ -2417,6 +2417,7 @@ GMECanada
 GMEJungle
 gmod
 gnome
+Goatparkour
 goats
 GoatsOnTopOfHorses
 goblincore
@@ -2786,6 +2787,7 @@ IDontWorkHereLady
 IDOWORKHERELADY
 Idubbbz
 IfIFitsISits
+iforgorthesubname
 ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
@@ -6048,6 +6050,7 @@ unexpectedbillwurtz
 unexpectedcommunism
 unexpectedfuturama
 unexpectedhogwarts
+unexpectedjihad
 UnexpectedLetterkenny
 UnexpectedlyWholesome
 unexpectedMontyPython
@@ -6063,6 +6066,7 @@ unintentionallydirty
 union
 Unions
 unionsolidarity
+Unique_Sora
 unitedkingdom
 unitedstatesofindia
 Unity2D
