@@ -602,6 +602,7 @@ bartenders
 baseball
 baseballcards
 baseballcirclejerk
+basketballcards
 bassfishing
 BassGuitar
 bathandbodyworks
@@ -2143,6 +2144,7 @@ Ford
 foreverbox
 Forex
 ForFashion
+forgottenfilm
 ForgottenWeapons
 forhonor
 forhonorknights
