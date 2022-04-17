@@ -1830,6 +1830,7 @@ drunk
 drunkencookery
 DrunkRussian
 DrWillPowers
+Dualsport
 dubai
 Dublin
 dubstep
@@ -4909,6 +4910,7 @@ retrogaming
 RetroPie
 Returnal
 reverseanimalrescue
+reversegif
 ReversePinterest
 RheaRipley
 RhodeIsland
