@@ -384,6 +384,7 @@ AppalachianTrail
 Appalachistan
 apple
 applehelp
+AppleMusic
 AppleWatch
 ApplyingToCollege
 aprilfools
@@ -801,6 +802,7 @@ BloodAngels
 bloomington
 blop
 BlueJackets
+BlueLock
 BlueMidterm2018
 bluey
 blunderyears
@@ -1777,6 +1779,7 @@ dogslookingdown
 DogsMirin
 dogsonroofs
 dogswearinghats
+dogswitheyebrows
 dogswithjobs
 Dogtraining
 dogvideos
@@ -2911,6 +2914,7 @@ ImaginaryLeviathans
 ImaginaryLovers
 ImaginaryMaids
 imaginarymaps
+ImaginaryMiddleEarth
 ImaginaryMindscapes
 ImaginaryMonsters
 ImaginaryMythology
@@ -5944,6 +5948,7 @@ tiktokcringemoment
 TiktokCringeTime
 TikTokFeet
 TikTokLive
+TikTokmemes
 tiktokorchestra
 TikToks
 TILI
