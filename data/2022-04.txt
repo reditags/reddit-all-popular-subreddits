@@ -274,6 +274,7 @@ AnarchismZ
 Anarcho_Capitalism
 AnarchyChess
 Anbennar
+AncientCivilizations
 ancientegypt
 Ancientknowledge
 ancientrome
@@ -2092,6 +2093,7 @@ FastWorkers
 fatherjohnmisty
 fcbayern
 FCInterMilan
+fcporto
 Fedora
 feedthebeast
 feedthememes
@@ -4624,6 +4626,7 @@ PlantedTank
 PlantGoths
 plants
 PlantsVSZombies
+PlasticFreeLiving
 PlayAvengers
 playboicarti
 PlayItAgainSam
@@ -5147,6 +5150,7 @@ sciencefiction
 sciencememes
 ScienceNcoolThings
 sciences
+ScientificArt
 scifi
 SCJerk
 Scoobydoo
