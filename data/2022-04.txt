@@ -422,6 +422,7 @@ Argaming
 argentina
 ArgentinaBenderStyle
 ArianaGrande
+Arilaviee
 arizona
 ARK
 arkisuomi
@@ -865,6 +866,7 @@ bookshelf
 BoomerangSquad
 Boomerhumour
 boomershumor
+boop
 boopthesnoot
 boottoobig
 borbs
@@ -1091,6 +1093,7 @@ catsbeingbanks
 CatsBeingCats
 CatsBeingDerps
 CatsBitingThings
+CatsCalledFood
 catscarryingstuffies
 CatsEnjoyingPets
 catshuggingcats
@@ -2175,6 +2178,7 @@ FireEmblemThreeHouses
 Firefighting
 firefly
 firefox
+FireFriends
 FIREIndia
 FIREUK
 Firewatch
@@ -3684,6 +3688,7 @@ MangaCollectors
 mangacoloring
 mangadex
 manganews
+manholeporn
 manhwa
 Manitoba
 ManufacturingPorn
@@ -3797,6 +3802,7 @@ MemesESP
 memesITA
 memesopdidntlike
 Memeulous
+memeuniverse
 MemeVideos
 memexico
 memphis
@@ -6439,6 +6445,7 @@ VOMS
 vosfinances
 VoteBlue
 VoteDEM
+voyager
 VRchat
 VRGaming
 VRtoER
@@ -6612,6 +6619,7 @@ windows
 Windows10
 Windows11
 Windscribe
+wine
 WingsOfFire
 WinStupidPrizes
 winterporn
