@@ -1322,6 +1322,7 @@ comedynecromancy
 ComedyNecrophilia
 comfypasta
 comicbookcollecting
+comicbookmovies
 comicbooks
 comics
 comingout
@@ -3751,6 +3752,7 @@ MBMBAM
 mbti
 mbtimemes
 Mcat
+McFarlaneFigures
 MCFC
 mcgill
 McMansionHell
@@ -4128,6 +4130,7 @@ ndp
 nebelung
 Nebraska
 NeckbeardNests
+necromunda
 Necrontyr
 NedWayHome
 needforspeed
@@ -5503,6 +5506,7 @@ Sourdough
 sousvide
 southafrica
 southcarolina
+SovietMemes
 SovietWomble
 space
 SpaceballsMemes
