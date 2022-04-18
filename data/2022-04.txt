@@ -654,6 +654,7 @@ beadsprites
 beagle
 BeAmazed
 BeamNG
+Beans
 BeansInThings
 BeardedDragons
 beards
@@ -6339,6 +6340,7 @@ Utah
 UtahJazz
 UTAustin
 uwaterloo
+UWMadison
 UzakiChan
 vagabond
 vagabondmanga
