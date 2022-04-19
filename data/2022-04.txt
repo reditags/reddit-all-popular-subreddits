@@ -43,6 +43,7 @@
 30ROCK
 3amjokes
 3Blue1Brown
+3d6
 3Dmodeling
 3Dprinting
 3DS
@@ -1387,6 +1388,7 @@ coolguides
 Coolsointeresting
 copenhagen
 copypasta
+cordcutters
 corgi
 corgibutts
 Cornell
@@ -5070,6 +5072,7 @@ ResinCasting
 restofthefuckingowl
 retailhell
 retarb
+RetroArch
 retrobattlestations
 RetroBowl
 RetroFuturism
@@ -6680,6 +6683,7 @@ wildhockey
 wildlifephotography
 wildrift
 WildWestPics
+williamosman
 wimmelbilder
 windows
 Windows10
