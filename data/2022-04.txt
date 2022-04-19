@@ -465,6 +465,7 @@ AskGayMen
 AskHistorians
 AskLosAngeles
 AskMen
+AskMiddleEast
 AskNYC
 AskOuija
 AskReddit
@@ -2810,6 +2811,7 @@ homedefense
 HomeDepot
 homegym
 HomeImprovement
+HomeKit
 homelab
 HomeNetworking
 HomePod
@@ -4319,6 +4321,7 @@ notmycat
 NotMyJob
 notopbutok
 nottheonion
+nottingham
 nova
 NovaScotia
 noveltranslations
@@ -6774,6 +6777,7 @@ XXXTENTACION
 YaeMiko
 YagateKiminiNaru
 yakuzagames
+YAlit
 Yamaha
 YanfeiMains
 YarnAddicts
