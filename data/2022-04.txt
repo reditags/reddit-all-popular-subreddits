@@ -2985,6 +2985,7 @@ ImaginaryDragons
 ImaginaryDwellings
 ImaginaryElementals
 ImaginaryElves
+ImaginaryFood
 ImaginaryForests
 ImaginaryFutureWar
 ImaginaryFuturism
@@ -5270,6 +5271,7 @@ saskatoon
 Sat
 Satan
 satanism
+satisfactory
 SatisfactoryGame
 SatisfIcing
 satisfying
@@ -6554,6 +6556,7 @@ virginvschad
 virtualreality
 Visiblemending
 visualnovels
+Vitards
 Vivy
 vizsla
 Vocaloid
