@@ -651,6 +651,7 @@ BattlePaintings
 battles2
 battlestations
 battletech
+Battletechgame
 batty
 bayarea
 Bayonetta
@@ -1199,6 +1200,7 @@ chessbeginners
 chessmemes
 CHIBears
 chicagobulls
+chicagofood
 Chicken_Thoughts
 chickengifs
 chickens
@@ -1231,6 +1233,7 @@ chronotrigger
 ChtorrrPlace
 ChuckleSandwich
 ChurchofBelly
+ChurchofChie
 churchoffutaba
 churchofharu
 ChurchofKawakami
@@ -2534,6 +2537,7 @@ GlitchInTheMatrix
 GlobalOffensive
 Glocks
 Gloomhaven
+glossier
 glutenfree
 GME
 gme_meltdown
@@ -2568,6 +2572,7 @@ GoodGoodMemes
 goodmythicalmorning
 goodyearwelt
 google
+googlehome
 googlemapsshenanigans
 GooglePixel
 gorgc
@@ -3537,6 +3542,7 @@ liberalgunretards
 liberta
 Libertarian
 libertarianmeme
+LibHumor
 librandu
 libsofreddit
 lies
@@ -5274,6 +5280,7 @@ school_memes
 schoolfight
 schweiz
 science
+ScienceBasedParenting
 sciencefiction
 sciencememes
 ScienceNcoolThings
@@ -6719,6 +6726,7 @@ WinStupidPrizes
 winterporn
 wirklichgutefrage
 wisconsin
+wisdom
 Wiseposting
 wismichu
 witcher
