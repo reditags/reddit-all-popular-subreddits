@@ -1504,6 +1504,7 @@ CryptoMoonCoins
 CryptoMoonShots
 cryptostreetbets
 Cryptozoology
+crystalgrowing
 Crystals
 cscareerquestions
 csgo
@@ -3836,6 +3837,7 @@ meatcrayon
 MechanicAdvice
 mechanical_gifs
 mechmarket
+Medievalart
 MedievalCats
 MedievalHistoryMemes
 Meditation
