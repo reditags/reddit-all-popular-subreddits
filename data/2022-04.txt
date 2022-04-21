@@ -1379,6 +1379,7 @@ commandandconquer
 Commanders
 CommunismMemes
 community
+CompanyBattles
 CompanyOfHeroes
 CompetitiveApex
 CompetitiveHalo
@@ -2460,6 +2461,7 @@ GalaxysEdge
 GalaxyWatch
 GalGadot
 gallifrey
+galway
 Gameboy
 Gamecocks
 gamecollecting
@@ -3177,6 +3179,7 @@ iphone
 iPhoneography
 iRacing
 ireland
+IreliaMains
 IrishHistory
 irishwolfhound
 IRLEasterEggs
@@ -3996,6 +3999,7 @@ mildlysatisfying
 MildlyStartledCats
 MildlyVandalised
 mildyinfuriating
+mildyinteresting
 milesprower
 MileyCyrusForeverNude
 Militariacollecting
