@@ -165,6 +165,7 @@ afkarena
 AFL
 AfricanHistory
 AfterEffects
+aftergifted
 AfterTheEndFanFork
 AgainstHateSubreddits
 AgainstHinduphobia
@@ -4933,6 +4934,7 @@ printmaking
 printSF
 PriscillaHuggins
 Prismatika
+Prisonwallet
 privacy
 PrivacyGuides
 privacymemes
