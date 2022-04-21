@@ -1799,6 +1799,7 @@ Dimension20
 DINgore
 Dinosaurs
 dioramas
+Dipcifica
 DiretoDoZapZap
 Dirtbikes
 dirtgame
@@ -4614,6 +4615,7 @@ outerwilds
 OUTFITS
 outofcontextcomics
 OutOfTheLoop
+outriders
 outrun
 outside
 OutsideLands
@@ -4659,6 +4661,7 @@ ParadoxExtra
 paradoxplaza
 paragon
 Parahumans
+paralegal
 Paralives
 Paramore
 Paranormal
@@ -5302,6 +5305,7 @@ sadcats
 sadcringe
 SadHorseShow
 sadlygokarts
+SafelyEndangered
 SafeMoon
 sailing
 sailormoon
