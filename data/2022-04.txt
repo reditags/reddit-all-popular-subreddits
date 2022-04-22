@@ -2059,6 +2059,7 @@ EnterTheGungeon
 EntitledBitch
 EntitledKarens
 entitledparents
+entitledparentsmemes
 EntitledPeople
 Entomology
 Entrepreneur
@@ -2317,6 +2318,7 @@ Ford
 foreverbox
 Forex
 ForFashion
+ForgottenBookmarks
 forgottenfilm
 ForgottenWeapons
 forhonor
@@ -3247,6 +3249,7 @@ Jaharia
 jaidenanimations
 jailbreak
 jakanddaxter
+jakeandamir
 jakertown
 JakesDoorComics
 jambands
@@ -3690,6 +3693,7 @@ longboyes
 longcats
 LongDistance
 longevity
+LongFurbies
 longhair
 LonghornNation
 longisland
@@ -4485,6 +4489,7 @@ oddlyterrifying
 OddlyWholesome
 ofcoursethatsathing
 offbeat
+offcanny
 OffGridCabins
 OfficialSenpaiHeat
 OffMyChestPH
@@ -6804,6 +6809,7 @@ wewantcups
 WeWantPlates
 wewontcallyou
 wgbeforeafter
+WGU
 whales
 WhatAWeeb
 whatcarshouldIbuy
