@@ -3086,6 +3086,7 @@ ImaginaryUndead
 ImaginaryVillages
 ImaginaryWarhammer
 ImaginaryWarriors
+ImaginaryWastelands
 ImaginaryWeather
 ImaginaryWesteros
 ImaginaryWitcher
