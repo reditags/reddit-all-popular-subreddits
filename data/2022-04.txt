@@ -39,6 +39,7 @@
 2panelgarfield
 2Russophobic4you
 2visegrad4you
+2westerneurope4u
 300BLK
 30PlusSkinCare
 30ROCK
@@ -2795,6 +2796,7 @@ HardcoreNature
 hardware
 hardwaregore
 Harley
+HarleyQuinn
 Harpo
 harrypotter
 HarryPotterGame
@@ -2953,6 +2955,7 @@ houston
 howardstern
 howto
 HowToBeAMindReaver
+HowToHack
 howtokeepanidiotbusy
 howtonotgiveafuck
 howyoudoin
@@ -3606,6 +3609,7 @@ learningtocat
 LearnJapanese
 learnmachinelearning
 learnprogramming
+learnpython
 learntodraw
 LearnUselessTalents
 Leathercraft
