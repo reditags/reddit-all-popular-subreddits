@@ -665,6 +665,7 @@ battlefield_one
 BattlefieldV
 BattleJackets
 battlemaps
+BattleNetwork
 BattlePaintings
 battles2
 battlestations
