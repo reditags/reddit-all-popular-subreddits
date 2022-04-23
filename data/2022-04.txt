@@ -285,6 +285,7 @@ AnalogCommunity
 Anarchism
 AnarchismZ
 Anarcho_Capitalism
+AnarchoComics
 AnarchyChess
 Anbennar
 AncientCivilizations
@@ -5745,6 +5746,7 @@ SnakesWithHats
 SNDL
 Sneks
 snes
+snooker
 snowboarding
 snowpiercer
 snowrunner
@@ -6316,6 +6318,7 @@ thomastheplankengine
 ThotBeatdowns
 ThousandSons
 ThriftStoreCats
+thugeshh
 thumbcats
 Thunder
 ThunderThots
