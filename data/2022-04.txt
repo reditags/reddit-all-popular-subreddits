@@ -1380,6 +1380,7 @@ CombatReality
 combinedgifs
 comedy
 comedyamputation
+ComedyArchaeology
 comedybangbang
 ComedyCemetery
 comedydamnation
@@ -4938,6 +4939,7 @@ plantclinic
 PlantedTank
 PlantGoths
 plants
+plantsandpots
 PlantsVSZombies
 PlasticFreeLiving
 PlayAvengers
@@ -6726,6 +6728,7 @@ VancouverIsland
 vancouverwa
 vandwellers
 VanLife
+Vans
 vaporents
 Vaporglow
 VaporwaveAesthetics
@@ -6937,6 +6940,7 @@ Whatcouldgowrong
 whatintarnation
 Whatisthis
 whatisthiscar
+WhatShouldICook
 whatsthisbird
 whatsthisbug
 whatsthisplant
