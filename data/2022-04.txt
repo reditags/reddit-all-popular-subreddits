@@ -2021,6 +2021,7 @@ Economics
 economy
 EDC
 EDDisBack2
+eddit10yearsago
 Eddsworld
 eddyburback
 EDH
@@ -3973,6 +3974,7 @@ Mcat
 McFarlaneFigures
 MCFC
 mcgill
+McLarenFormula1
 McMansionHell
 McMaster
 MCPE
@@ -5191,6 +5193,7 @@ RaidenMei
 raiders
 raidsecrets
 raimimemes
+Rainbow
 Rainbow6
 Rainbow_Waifus
 RainbowEverything
@@ -6705,6 +6708,7 @@ unsw
 untrustworthypoptarts
 UnusualVideos
 unwholesomememes
+UnwokeThoughts
 uofm
 UofT
 upcycling
@@ -7202,3 +7206,4 @@ zootopia
 zsebibaba
 zurich
 zyzz
+ZzzThaPlug
