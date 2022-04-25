@@ -2978,6 +2978,7 @@ HonkaiStarRail
 Horimiya
 horizon
 HorizonForbiddenWest
+HorizonMains
 Hornyjail
 horror
 Horses
@@ -6838,6 +6839,7 @@ vintageaudio
 vintagecomputing
 VintageFashion
 vintagejapaneseautos
+VintageLadyBoners
 vinyl
 vinyljerk
 VinylReleases
