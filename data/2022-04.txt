@@ -1446,6 +1446,7 @@ conspiracy_commons
 conspiracytheories
 constantchaos
 Construction
+ConstructionFails
 consulting
 ContagiousLaughter
 ContestOfChampions
@@ -3620,6 +3621,7 @@ Lalisa
 laminarflow
 lanadelrey
 LancerRPG
+LandCruisers
 LandlordLove
 LandoftheLustrous
 LandscapeAstro
@@ -5482,6 +5484,7 @@ sadcringe
 SadHorseShow
 sadlygokarts
 sadmemes
+SadMemesForHipTeens
 SafelyEndangered
 SafeMoon
 sailing
