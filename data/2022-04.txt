@@ -2232,6 +2232,7 @@ Fantasy
 fantasybaseball
 fantasybball
 fantasyfootball
+fantasyhockey
 FantasyPL
 FanTheories
 faptodesiactress
@@ -3895,6 +3896,7 @@ Maine
 mainecoons
 majonotabitabi
 MakeMeSuffer
+MakeMeSufferMore
 MakeNewFriendsHere
 MakeupAddiction
 MakeupLounge
@@ -6387,6 +6389,7 @@ thinkpad
 ThirdLifeSMP
 ThirdSentenceHappy
 thirdsentenceworse
+thirtyyearsago
 ThisDayInHistory
 Thisismylifemeow
 thisismylifenow
@@ -6532,6 +6535,7 @@ transgender
 transgendercirclejerk
 transitiongoals
 TransLater
+transmasc_irl
 Transmatfiring
 Transmogrification
 transplace
