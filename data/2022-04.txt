@@ -187,6 +187,7 @@ AHatInTime
 AHomeForPlagueRats
 AhriMains
 AIDKE
+aigeneratedmemes
 Aikuros
 ainbow
 ainbowroad
@@ -270,6 +271,7 @@ amihot
 amiibo
 AmITheAngel
 AmItheButtface
+AmItheCloaca
 AmITheDevil
 amogus
 Amoledbackgrounds
@@ -3176,6 +3178,7 @@ ImaginaryStarships
 ImaginarySteampunk
 ImaginaryTamriel
 ImaginaryTechnology
+ImaginaryTurtleWorlds
 ImaginaryUndead
 ImaginaryVillages
 ImaginaryWarhammer
@@ -3720,6 +3723,7 @@ legostarwarsmemes
 LegoStarWarsVideoGame
 LEMMiNO
 lemondemon
+LeonaMains
 leopardgeckos
 LeopardsAteMyFace
 LesbianActually
@@ -5258,6 +5262,7 @@ Rabbits
 RachelMcAdams
 radiohead
 radioheadcirclejerk
+Radiology
 ragdolls
 rage
 RaidenMains
@@ -5296,6 +5301,7 @@ rarepuppers
 Rarethreats
 raspberry_pi
 RASPBERRY_PI_PROJECTS
+RationalPsychonaut
 Ratorix
 RATS
 Ravenfield
@@ -5794,6 +5800,7 @@ Siamesecats
 SiberianCats
 Sidemen
 SiegeAcademy
+SifuGame
 SigmaGrindset
 Sigmarxism
 SigSauer
@@ -6141,6 +6148,7 @@ SuperAthleteGifs
 superautopets
 Superbowl
 superman
+SupermanAndLois
 SuperMegaShow
 SupermodelCats
 SupermodelDogs
