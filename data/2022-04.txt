@@ -653,6 +653,7 @@ Bannerlord
 BanPitBulls
 BanVideoGames
 BarbaraWalters4Scale
+barbiegamers
 barelegs
 barkour
 Barotrauma
@@ -2766,6 +2767,7 @@ grilling
 Grimdank
 grime
 Grimes
+GroundedGame
 grumpycats
 grunge
 GTA
