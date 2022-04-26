@@ -2944,6 +2944,7 @@ HOI4memes
 hoi4modding
 holdmybeaker
 holdmybraincells
+HoldMyBreedingTube
 holdmycatnip
 holdmycosmo
 holdmyfeedingtube
@@ -2992,6 +2993,7 @@ Hornyjail
 horror
 Horses
 HostileArchitecture
+hotdudeswithplants
 HotlineMiami
 HotPaper
 HotPeppers
@@ -3560,6 +3562,7 @@ KnightsOfPineapple
 KnitHacker
 knives
 KnockoutCenter
+knolling
 Knoxville
 KoboldLegion
 kof
@@ -5715,6 +5718,7 @@ shittyaquariums
 Shittyaskflying
 shittyaskscience
 shittybattlestations
+shittybloodborne
 shittycoolguides
 ShittyDaystrom
 ShittyDesign
