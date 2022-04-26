@@ -5205,6 +5205,7 @@ PS5
 psg
 PSO2
 PSP
+PSUSTRT
 PSVR
 psx
 psych
@@ -5515,6 +5516,7 @@ rvnxmango
 RWBY
 RWTH_memes
 RX7
+ryerson
 ryujin
 S2000
 sabaton
@@ -6217,6 +6219,7 @@ tacobell
 Tacoma
 tacos
 tacticalgear
+Tahmkenchmains
 taiwan
 Takagi_san
 TakaMori
@@ -7099,6 +7102,7 @@ wherethe
 Whippets
 WhiskerFireworks
 whiskey
+WhiteHouseDinners
 whiteknighting
 whitepeoplegifs
 WhitePeopleTwitter
