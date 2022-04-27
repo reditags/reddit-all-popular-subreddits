@@ -430,6 +430,7 @@ ar15
 arabfunny
 araragi
 arbeitsleben
+arcadefire
 arcane
 Archaeology
 ArchaeologyMemes
@@ -1745,6 +1746,7 @@ de_IAmA
 deadandcompany
 deadbydaylight
 deadcells
+deadlockpw
 deadmalls
 deadmeatjames
 DeadSpace
@@ -2883,6 +2885,7 @@ harborfreight
 Hardcore
 hardcoreaww
 HardcoreNature
+hardstyle
 hardware
 hardwaregore
 Harley
@@ -5173,6 +5176,7 @@ Pottery
 PouchCatatoes
 PourPainting
 povertyfinance
+powerlifting
 powerrangers
 powerwashingporn
 pozilei
@@ -5507,6 +5511,7 @@ rockstar
 rodentintercourse
 rolex
 Roll20
+rollerblading
 rollercoasterjerk
 rollercoasters
 Rollerskating
@@ -5944,6 +5949,7 @@ Sneks
 snes
 snooker
 snowboarding
+snowing
 snowpiercer
 snowrunner
 SNSD
