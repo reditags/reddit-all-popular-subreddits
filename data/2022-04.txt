@@ -710,6 +710,7 @@ beagle
 BeAmazed
 BeamNG
 Beans
+BeansInStrangePlaces
 BeansInThings
 BeardedDragons
 beards
@@ -2827,6 +2828,7 @@ GTAorRussia
 GTAV
 gtavcustoms
 GTBAE
+GTFO
 Guacamole_penis
 GuardianTales
 GuerrillaGardening
@@ -4899,6 +4901,7 @@ PackADayKitties
 Padres
 pagan
 painting
+Paintings
 pakistan
 Paladins
 Paleontology
