@@ -296,6 +296,7 @@ AnarchismZ
 Anarcho_Capitalism
 AnarchoComics
 AnarchyChess
+AnarchyMemeCollective
 Anbennar
 AncientCivilizations
 ancientegypt
@@ -4310,6 +4311,7 @@ ModelsGoneMild
 modeltrains
 moderatepolitics
 Modern_Family
+ModernAncientWarriors
 ModernistArchitecture
 ModernMagic
 modernquilts
@@ -5561,6 +5563,7 @@ ror2
 RosaliaNSFW
 RosariaMains
 rose
+rosesarered
 rosin
 RotMG
 Rottweiler
@@ -6512,6 +6515,7 @@ TheLeftCantMeme
 TheLetterH
 thelongdark
 TheMagnusArchives
+TheMajorityReport
 TheMandalorianTV
 TheMandemNP
 TheMarvelousMrsMaisel
