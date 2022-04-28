@@ -450,6 +450,7 @@ arcticmonkeys
 ArdsPOTD
 arduino
 aretheNTsokay
+AreTheStraightsOkay
 Argaming
 argentina
 ArgentinaBenderStyle
@@ -4269,6 +4270,7 @@ minnesotavikings
 miraculousladybug
 miragemains
 MirrorForSale
+mirroring
 mirrorsedge
 Mirrorsforsale
 misanthropy
