@@ -1970,6 +1970,7 @@ DoctorWhumour
 Documentaries
 DocumentedFights
 Dodgers
+doener
 DOG
 DogAdvice
 Dogberg
@@ -3660,6 +3661,7 @@ KingdomHearts
 KingkillerChronicle
 KingOfTheHill
 kings
+KingstonOntario
 Kirby
 Kitboga
 KitchenConfidential
@@ -6783,6 +6785,7 @@ trackandfield
 TrackMania
 traderjoes
 traditionaltattoos
+Traeger
 trailerparkboys
 trailrunning
 TrainPorn
