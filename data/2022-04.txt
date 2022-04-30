@@ -94,6 +94,7 @@ AbstractArt
 Absurdism
 ac_newhorizons
 ACAB
+academia
 Acceleracers
 AccidentalAlly
 AccidentalArtGallery
@@ -2177,6 +2178,7 @@ EmpireDidNothingWrong
 EmpressEvolution
 ems
 EmulationOnAndroid
+Emuwarflashbacks
 Encanto
 ender3
 energy
@@ -4206,6 +4208,7 @@ MemeEconomy
 memeframe
 MemeFrancais
 MemeHunter
+memeingthroughtime
 MemeItaliani
 MemeMan
 MemePiece
