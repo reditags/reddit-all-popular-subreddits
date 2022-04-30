@@ -1161,6 +1161,7 @@ carshitposting
 Cartalk
 CartNarcs
 CartoonMoment
+cassetteculture
 cassettefuturism
 castiron
 castles
@@ -5417,6 +5418,7 @@ PuppyBellies
 PuppySmiles
 Purdue
 pureasoiaf
+PurpleCoco
 PurplePillDebate
 Purrito
 purrkour
@@ -6238,6 +6240,7 @@ starcraft
 StardewHomeDesign
 StardewMemes
 StardewValley
+StardewValleyExpanded
 StardustCrusaders
 Starfield
 starfinder_rpg
