@@ -1911,6 +1911,7 @@ DigitalArt
 DigitalCryptoWorld
 digitalnomad
 DigitalPainting
+Dildont
 DilucMains
 Dimension20
 DINgore
@@ -6129,6 +6130,7 @@ space
 SpaceballsMemes
 SpaceCannibalism
 spaceengineers
+SpaceflightSimulator
 spacefrogs
 spaceporn
 spacex
