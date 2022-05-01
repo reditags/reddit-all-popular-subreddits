@@ -4,6 +4,7 @@
 10yearsatleast
 11foot8
 13or30
+1500isplenty
 15minutefood
 19684
 197
@@ -38,6 +39,7 @@
 691
 6thForm
 7daystodie
+80s
 80sfastfood
 90DayFiance
 90dayfianceuncensored
@@ -287,6 +289,7 @@ AustralianShepherd
 Austria
 autism
 AutismInWomen
+AutisticPride
 AutomatiCautionDoor
 Autos
 AutumnPorn
@@ -554,6 +557,7 @@ canada
 canadahousing
 CanadaPolitics
 CanadianForces
+CanadianInvestor
 canucks
 CapitalismSux
 CapitolConsequences
@@ -656,10 +660,12 @@ ChoujinX
 Christianity
 chronotrigger
 ChurchofBelly
+churchofharu
 ChurchofMarnie
 chuunibyou
 CICO
 cincinnati
+Cinemagraphs
 cinematography
 circlejerk
 CirclejerkSopranos
@@ -731,6 +737,7 @@ confusing_perspective
 confusingperspective
 CongratsLikeImFive
 Connecticut
+ConnorEatsPants
 Conservative
 ConservativeMemes
 ConservativesOnly
@@ -879,6 +886,7 @@ de_IAmA
 deadbydaylight
 deadcells
 deadmalls
+deadmeatjames
 deathgrips
 DeathStranding
 DebtStrike
@@ -1321,6 +1329,7 @@ gangstaswithwaifus
 gangweed
 gank
 Ganyu
+garfieldminusgarfield
 GarlicBreadMemes
 Garmin
 Gary_The_Cat
@@ -1380,6 +1389,7 @@ GoatsOnTopOfHorses
 goblincore
 GodofWar
 godot
+godtiersuperpowers
 GODZILLA
 goldenretrievers
 golf
@@ -1427,11 +1437,13 @@ Guitar
 guitarcirclejerk
 guitarporn
 Gundam
+gundeals
 Gunners
 Gunpla
 gunpolitics
 GunPorn
 guns
+GusAndEddy
 gwent
 GYM
 GymMemes
@@ -1588,12 +1600,14 @@ ididthejobboss
 IdiotsFightingThings
 IdiotsInCars
 IdiotsNearlyDying
+IdiotsOnBikes
 Idiotswithguns
 iforgorthesubname
 ihadastroke
 ihavereddit
 iiiiiiitttttttttttt
 ik_ihe
+IkeaFreshBalls
 ikeahacks
 IllegalLifeProTips
 IllegallySmol
@@ -1673,6 +1687,7 @@ insaneparents
 InsaneParler
 InsanePeopleQuora
 inscryption
+InsideJob
 Instagramreality
 instant_regret
 instantbarbarians
@@ -1734,6 +1749,7 @@ jerma985
 Jewdank
 Jigsawpuzzles
 jisoo
+jobs
 JoeBiden
 JoeRogan
 John_Frusciante
@@ -1817,6 +1833,7 @@ kittyhasaquestion
 KittyTailWrap
 KleeMains
 KneadyCats
+knifeclub
 knives
 Kokomi_Mains
 kolkata
@@ -2494,6 +2511,7 @@ PerfectlyCutBooms
 perfectlycutfucks
 perfectlycutscreams
 perfectlycutyeets
+Permaculture
 Persecutionfetish
 PERSoNA
 persona4golden
@@ -2759,6 +2777,7 @@ ronperlmancats
 RoomPorn
 Rottweiler
 RoughRomanMemes
+RoundAnimals
 RPClipsGTA
 RPDRDRAMA
 rpghorrorstories
@@ -2776,6 +2795,7 @@ RX7
 ryujin
 sabaton
 Saber
+SabrinaCarpenter
 Sacramento
 sadboys
 sadcats
@@ -2851,6 +2871,7 @@ serialkillers
 seriouseats
 Serverlife
 SeveranceAppleTVPlus
+SewayakiKitsune
 sewing
 sffpc
 SFGiants
@@ -2937,6 +2958,7 @@ Slipknot
 Slovakia
 Slovenia
 slowcooking
+SlyGifs
 smalllebowsky
 smashbros
 SmashBrosUltimate
@@ -2968,6 +2990,7 @@ sonarears
 SonicTheHedgehog
 SonoBisqueDoll
 SonyAlpha
+SOSStock
 souleater
 SoulKnight
 soup
@@ -3073,6 +3096,7 @@ straightenedfeetsies
 StraightsBeingOK
 StrangerThings
 straykids
+streeto
 streetwear
 streetwearstartup
 StuffOnCats
@@ -3105,6 +3129,7 @@ superstore
 SuperStructures
 surrealmemes
 Survival
+survivinginfidelity
 survivor
 sushi
 suspiciouslyspecific
@@ -3177,6 +3202,7 @@ teefies
 teenagers
 TeenMomOGandTeenMom2
 Tekken
+TempleofMarianne
 Tennesseetitans
 tennis
 TenseiSlime
@@ -3218,6 +3244,7 @@ TheAngelsNP
 TheAstraMilitarum
 TheBatmanFilm
 TheBidenshitshow
+thebindingofisaac
 TheBoys
 TheBullWins
 thecatdimension
@@ -3410,6 +3437,7 @@ Unexpected
 unexpectedcommunism
 unexpectedfuturama
 unexpectedjihad
+UnexpectedlyWholesome
 unexpectedMontyPython
 unexpectedoffice
 UnfunnyHellhole
@@ -3421,6 +3449,7 @@ unOrdinary
 unpopularopinion
 unrealengine
 UnresolvedMysteries
+untrustworthypoptarts
 UnusualVideos
 upcycling
 UpliftingNews
@@ -3545,6 +3574,7 @@ weightwatchers
 Weird
 weirdcore
 WeirdEggs
+weirdfacefunny
 WeirdToilets
 weirdvideosfor3am
 WeirdWheels
@@ -3566,6 +3596,7 @@ whatsthisbird
 whatsthisbug
 whatsthisplant
 whatsthisrock
+whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
 whenthe
