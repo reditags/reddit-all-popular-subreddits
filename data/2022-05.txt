@@ -275,6 +275,7 @@ attackeyes
 attackontitan
 auckland
 Audi
+audiophile
 Augenbleiche
 auntydonna
 AusFinance
@@ -620,6 +621,7 @@ Ceramics
 CFB
 Chadposting
 Chadtopia
+Chainsawfolk
 ChainsawMan
 Championship
 Chang_Gang
@@ -629,6 +631,7 @@ characterdrawing
 CharacterRant
 Chargers
 charlidamelio18a
+CharlidAmelio18tele
 Charlotte
 chefknives
 chelseafc
@@ -673,6 +676,7 @@ classiccars
 classicsoccer
 classicwow
 ClassroomOfTheElite
+Cleveland
 clevercomebacks
 climate
 climbing
@@ -737,6 +741,7 @@ conspiracytheories
 ContagiousLaughter
 ContraPoints
 controlgame
+Conures
 ConvenientCop
 cookiedecorating
 Cookierun
@@ -972,6 +977,7 @@ dogs
 dogs_getting_dogs
 DogsAndPlants
 DogsMirin
+dogsonroofs
 dogswithjobs
 Dogtraining
 DokkanBattleCommunity
@@ -1050,6 +1056,7 @@ ElvenInspiration
 Embroidery
 Eminem
 EmKay
+Emoney
 EmpireDidNothingWrong
 ems
 ender3
@@ -1067,6 +1074,7 @@ enoughpetersonspam
 EnterTheGungeon
 EntitledBitch
 entitledparents
+entitledparentsmemes
 EntitledPeople
 Entomology
 entwives
@@ -1095,6 +1103,7 @@ Everton
 EverythingFoxes
 EverythingScience
 evilbuildings
+exjw
 exmormon
 exmuslim
 ExpectationVsReality
@@ -1163,6 +1172,7 @@ fightporn
 fightsticks
 FigureSkating
 Filmmakers
+FilthyFrank
 FinalFantasy
 finance
 FinancialCareers
@@ -1381,6 +1391,7 @@ GooglePixel
 gorillaz
 GossipGirl
 Gothenburg
+Gouache
 Graffiti
 grandpajoehate
 GrandTheftAutoV
@@ -1461,6 +1472,7 @@ hatsune
 HazbinHotel
 headpats
 headphones
+Healthygamergg
 hearthstone
 hearthstonecirclejerk
 HeartstopperAO
@@ -1671,6 +1683,7 @@ interestingasfuck
 interiordecorating
 InteriorDesign
 intermittentfasting
+internet_funeral
 InternetIsBeautiful
 inthenews
 intotheshadowrealm
@@ -1740,6 +1753,7 @@ JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
+junjiito
 JurassicMemes
 jurassicworldevo
 JustBootThings
@@ -1850,6 +1864,7 @@ LeagueOfMemes
 leanbeefpatty
 LearmannTwins
 learnprogramming
+Leathercraft
 lebowski
 LegalAdviceUK
 legendofkorra
@@ -2066,6 +2081,7 @@ mfdoom
 Miami
 miamidolphins
 Miata
+MichaelReeves
 Michigan
 microbork
 microgrowery
@@ -2080,6 +2096,7 @@ mildlysatisfying
 MildlyVandalised
 mildyinfuriating
 Military
+MilitaryHistory
 MilitaryPorn
 MilitaryVStheUnknown
 MillionaireGrindset
@@ -2158,6 +2175,7 @@ MovieDetails
 MoviePosterPorn
 movies
 Moviesinthemaking
+MrBeast
 MrRobot
 MSsEcReTPoDcAsT
 Mtf_irl
@@ -2427,6 +2445,7 @@ outrun
 outside
 overemployed
 overlord
+OverSimplified
 overthegardenwall
 Overwatch
 Overwatch_Memes
@@ -2503,6 +2522,7 @@ PhilosophyMemes
 Philza
 phish
 phoebebridgers
+phoenix
 PhoenixSC
 PhonesAreBad
 photoshop
@@ -2643,6 +2663,7 @@ queensofleague
 quilting
 quityourbullshit
 Qult_Headquarters
+quotes
 QuotesPorn
 R6ProLeague
 Rabbits
@@ -2663,6 +2684,7 @@ Rammstein
 rance
 rareinsults
 rarepuppers
+raspberry_pi
 RATS
 ravens
 razer
@@ -2924,6 +2946,7 @@ Smite
 smoking
 SmugIdeologyMan
 snakes
+SnakesWithHats
 SneakyAnimals
 Sneks
 snes
@@ -2958,6 +2981,7 @@ SpaceCannibalism
 spaceengineers
 spacefrogs
 spaceporn
+spacex
 SpaceXMasterrace
 spain
 SpecArt
@@ -3152,6 +3176,7 @@ TedLasso
 teefies
 teenagers
 TeenMomOGandTeenMom2
+Tekken
 Tennesseetitans
 tennis
 TenseiSlime
@@ -3466,6 +3491,7 @@ void_memes
 voidpunk
 Volkswagen
 Volumeeating
+Volvo
 VoteBlue
 VRchat
 VRGaming
@@ -3595,6 +3621,7 @@ worldnewsvideo
 WorldofTanks
 WorldOfWarships
 WorldWar2
+wortwitzkasse
 WoT
 wow
 wowthanksimcured
@@ -3643,6 +3670,7 @@ youdontsurf
 YoujoSenki
 youngpeopleyoutube
 YoungThug
+yourmomshousepodcast
 youseeingthisshit
 YouShouldKnow
 youtube
