@@ -184,6 +184,7 @@ AnimalsBeingGeniuses
 AnimalsBeingJerks
 animalsdoingstuff
 AnimalsMonching
+AnimalsOnReddit
 AnimalTextGifs
 animation
 anime_irl
@@ -586,6 +587,7 @@ BravoRealHousewives
 BravoTopChef
 Brawlhalla
 Brawlstars
+BrawlStarsCompetitive
 BRDproperty
 Breadit
 BreadStapledToTrees
@@ -654,6 +656,7 @@ camphalfblood
 CampingGear
 canada
 canadahousing
+canadaleft
 CanadaPolitics
 CanadianForces
 CanadianInvestor
@@ -833,11 +836,13 @@ collegebaseball
 CollegeBasketball
 Colombia
 Colorado
+ColoradoAvalanche
 Colorization
 ColorizedHistory
 Colts
 Columbus
 combinedgifs
+comedyamputation
 ComedyArchaeology
 ComedyCemetery
 comedyepilepsy
@@ -966,6 +971,7 @@ cursed_videomemes
 cursedcomments
 Cursedgunimages
 CursedGuns
+cursedjojo
 cursedmemes
 cursedvideos
 CurseofStrahd
@@ -1021,6 +1027,7 @@ DarlingInTheFranxx
 Dashcam
 dashcamgifs
 data_irl
+DataHoarder
 dataisbeautiful
 dataisugly
 datealive
@@ -1128,6 +1135,7 @@ discworld
 disenchantment
 dishonored
 disney
+DisneyEyes
 Disneyland
 DisneyPlus
 disneyvacation
@@ -1489,6 +1497,7 @@ freefolk
 freefromwork
 FreeGameFindings
 FreeSpeech
+FreezingFuckingCold
 Frenchbulldogs
 FrenchMemes
 FridayNightFunkin
@@ -1659,6 +1668,7 @@ GrandTheftAutoV
 granturismo
 graphic_design
 Grapplerbaki
+gratefuldead
 gravityfalls
 greatdanes
 greatpyrenees
@@ -1857,6 +1867,7 @@ HVAC
 HybridAnimals
 hyderabad
 HydroHomies
+hypixel
 HypixelSkyblock
 IAmA
 Iamactuallyverybadass
@@ -1887,6 +1898,7 @@ iiiiiiitttttttttttt
 ik_ihe
 IkeaFreshBalls
 ikeahacks
+ilikthebred
 IllegalLifeProTips
 IllegallySmol
 illegallysmolanimals
@@ -2085,6 +2097,7 @@ JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
+Jungle_Mains
 junjiito
 JurassicMemes
 jurassicworldevo
@@ -2151,6 +2164,7 @@ kingdomcome
 KingdomHearts
 KingkillerChronicle
 KingOfTheHill
+kings
 Kirby
 KitchenConfidential
 Kitler
@@ -2837,6 +2851,7 @@ oldschoolhot
 oliviadunne
 olympics
 OmadDiet
+Omaha
 OmegaWatches
 OmniscientReader
 OMORI
@@ -2872,6 +2887,7 @@ orlando
 Orochisegundo
 OshiNoKo
 osp
+OSU
 osubuddyretard
 osugame
 othepelican
@@ -2932,6 +2948,7 @@ paydaytheheist
 PaymoneyWubby
 pcgaming
 pcmasterrace
+pcmods
 PeacemakerShow
 PeakyBlinders
 PeanutWhiskers
@@ -3025,6 +3042,7 @@ PlaydateConsole
 playrust
 playstation
 PleX
+Plumbing
 PlusSize
 PlusSizeFashion
 pocketpussy
@@ -3216,6 +3234,7 @@ redstone
 RedvsBlue
 RedWingShoes
 ReevesBatmanmemes
+regularcarreviews
 regularshow
 relationship_advice
 RelationshipMemes
@@ -3538,6 +3557,7 @@ spain
 SpecArt
 specializedtools
 SpecialSnowflake
+SpeculativeEvolution
 SpeedOfLobsters
 speedrun
 sphynx
@@ -3655,6 +3675,7 @@ SuddenlyLesbian
 suddenlysexoffender
 suggestmeabook
 suicidebywords
+summerhousebravo
 summonerschool
 summonerswar
 sunraybee
@@ -3940,6 +3961,7 @@ Torontobluejays
 torontoraptors
 torties
 totallynotrobots
+TOTALLYREALTWEETS
 totalwar
 totalwarhammer
 TouchThaFishy
@@ -3970,6 +3992,7 @@ TrashTaste
 trashy
 travel
 travisscott
+trebuchetmemes
 treedibles
 trees
 TreesSuckingOnThings
@@ -4075,6 +4098,7 @@ USFL
 USMC
 ussoccer
 Utah
+UtahJazz
 UTAustin
 uwaterloo
 UzakiChan
@@ -4358,6 +4382,7 @@ YuB
 yugioh
 YuGiOhMasterDuel
 YuGiOhMemes
+yunyun
 YUROP
 yuumimains
 ZanClan
