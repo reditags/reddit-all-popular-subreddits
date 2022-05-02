@@ -82,6 +82,7 @@ ACQR
 ActionFigures
 ActivationSound
 ActLikeYouBelong
+actualite
 ActualPublicFreakouts
 AddisonRae
 AdeptusMechanicus
@@ -545,6 +546,7 @@ BritishSuccess
 brittanydawnsnark
 Brochet
 brockhampton
+Brooklyn
 brooklynninenine
 Browns
 brushybrushy
@@ -711,6 +713,7 @@ ChurchOfPyra
 chuunibyou
 CICO
 cincinnati
+Cinema4D
 Cinemagraphs
 cinematography
 circlejerk
@@ -724,6 +727,7 @@ civilengineering
 ClashOfClans
 ClashRoyale
 ClassConscienceMemes
+classicalmusic
 classiccars
 classicsoccer
 classicwow
@@ -888,6 +892,7 @@ Cyberpunk
 cyberpunkgame
 czech
 czechmemes
+Dachschaden
 Dachshund
 dadjokes
 DadReflexes
@@ -969,6 +974,7 @@ Delightfullychubby
 Deltarune
 delusionalcraigslist
 DemEyesDoe
+deMiko
 demisexuality
 DemocraticSocialism
 democrats
@@ -1300,6 +1306,7 @@ FloridaMan
 FlorkofCowsOfficial
 FluentInFinance
 flying
+fnatic
 fnki
 fnv
 fo4
@@ -1367,6 +1374,7 @@ frogs
 FromKittenToCat
 FromPuppyToDog
 fromsoftware
+frontfootporn
 Frugal
 frugalmalefashion
 Fruitbatcats
@@ -1421,6 +1429,7 @@ gaming
 Gamingcirclejerk
 GamingDetails
 GamingLeaksAndRumours
+gangplankmains
 gangstaswithwaifus
 gangweed
 gank
@@ -1477,6 +1486,7 @@ Giraffesdontexist
 GirlsMirin
 givemeinteligens
 glitch_art
+Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
 Glocks
@@ -1716,6 +1726,7 @@ iastate
 IBO
 IceCreamWaifu
 ich_iel
+ichbin14unddasisttief
 ichbin40undlustig
 ididthejobboss
 IdiotsFightingThings
@@ -1783,6 +1794,7 @@ IncelTear
 InclusiveOr
 Incorgnito
 IncreasinglyVerbose
+incremental_games
 india
 indiadiscussion
 indiameme
@@ -1813,6 +1825,7 @@ InsaneParler
 InsanePeopleQuora
 inscryption
 InsideJob
+InstaCelebsGossip
 Instagramreality
 instant_regret
 instantbarbarians
@@ -1838,6 +1851,7 @@ iRacing
 ireland
 IreliaMains
 IronFrontUSA
+ironmaiden
 ironscape
 IrrationalMadness
 islam
@@ -1852,6 +1866,7 @@ IttoMains
 ITZY
 iwoulddiefornoodle
 Izlam
+iZone
 jackrussellterrier
 jacksepticeye
 JackSucksAtLife
@@ -1930,6 +1945,7 @@ karengillan
 KarmaRoulette
 katebeckinsale
 Katemara
+KaterinaSoria
 Kayaking
 Kaylemains
 KaynMains
@@ -1977,6 +1993,7 @@ kolkata
 Komi_san
 Konosuba
 korea
+Kosmiczna_Flota
 KotakuInAction
 KOTORmemes
 kpop
@@ -2024,6 +2041,7 @@ leagueoflegends
 LeagueOfMemes
 leanbeefpatty
 LearmannTwins
+learningtocat
 learnprogramming
 learntodraw
 Leathercraft
@@ -2556,6 +2574,7 @@ offbeat
 OfficialSenpaiHeat
 Ohio
 oilpainting
+Okami
 okaybuddyretard
 okbhaibudbak
 OkBrudiMongo
@@ -2792,6 +2811,7 @@ poland
 polandball
 Polandballart
 PoliceBrotality
+policeuk
 politecats
 Political_Revolution
 PoliticalCompass
@@ -2918,6 +2938,7 @@ reactiongifs
 ReadyOrNotGame
 RealCuba
 RealLifeShinies
+ReallyAmerican
 realmadrid
 ReasonableFantasy
 recipes
@@ -3117,6 +3138,7 @@ ShitPoliticsSays
 ShitPostCrusaders
 shitpostemblem
 shitposting
+shitposting_inc
 shitposts
 ShitpostTC
 ShitpostXIV
@@ -3162,6 +3184,7 @@ sims2
 Sims3
 Simulated
 singapore
+Sino
 SipsTea
 sixers
 SixtySecondsInAfrica
@@ -3428,6 +3451,7 @@ Teachers
 TeamfightTactics
 TeamFourStar
 TeamSolomid
+TeardownGame
 TearsOfThemis
 tech
 tech1e
@@ -3505,6 +3529,7 @@ TheLastAirbender
 thelastofus
 TheLeftCantMeme
 TheLetterH
+thelongdark
 TheMagnusArchives
 TheMandalorianTV
 TheMandemNP
@@ -3556,6 +3581,7 @@ tiktokcringemoment
 TikTokFeet
 TikTokLive
 TILI
+TimAndEric
 timberwolves
 TimDillon
 Tinder
@@ -3682,6 +3708,7 @@ UCSD
 ufc
 UFOs
 UIUC
+ukdrill
 ukraina
 ukraine
 UkraineInvasionVideos
