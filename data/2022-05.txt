@@ -375,6 +375,7 @@ Bad_Cop_No_Donut
 BadChoicesGoodStories
 badcode
 Badfaketexts
+BadMUAs
 badredman
 badtaxidermy
 badUIbattles
@@ -700,6 +701,7 @@ catpics
 catpictures
 cats
 CatsAndPlants
+catsarealiens
 CatsAreAssholes
 CatsAreMuslim
 CatsBeingCats
@@ -720,6 +722,7 @@ CatsPlayingDnd
 CatsStandingUp
 catsvstechnology
 CatsWhoChirp
+CatsWhoSmoke
 CatsWhoSqueak
 catswhotrill
 Catswhoyell
@@ -765,6 +768,7 @@ chessmemes
 CHIBears
 chicagobulls
 chickens
+CHICubs
 Chihuahua
 childemains
 ChildrenFallingOver
@@ -910,6 +914,7 @@ Costco
 cottagecore
 counterstrike
 CountOnceADay
+CovIdiots
 cowboybebop
 cowboys
 coys
@@ -1039,9 +1044,11 @@ dave
 Davie504
 DaysGone
 Daytrading
+dbfz
 dbz
 DBZDokkanBattle
 DC_Cinematic
+DCAU
 DCcomics
 dccomicscirclejerk
 DCEUleaks
@@ -1081,6 +1088,7 @@ demonssouls
 Denmark
 DenseGifs
 DenverBroncos
+DenverCirclejerk
 denvernuggets
 depression_memes
 DepthHub
@@ -1402,6 +1410,7 @@ finance
 FinancialCareers
 financialindependence
 Finanzen
+findfashion
 FindTheSniper
 FingMemes
 Finland
@@ -1613,6 +1622,7 @@ getdisciplined
 GetMotivated
 GetStudying
 GettingShredded
+GhettoStreetFights
 ghibli
 Ghostbc
 ghostoftsushima
@@ -1710,6 +1720,7 @@ GusAndEddy
 gwent
 GYM
 GymMemes
+gymsnark
 h3h3productions
 H3VR
 Habs
@@ -2183,6 +2194,7 @@ Konosuba
 korea
 Kosmiczna_Flota
 KotakuInAction
+kotor
 KOTORmemes
 kpop
 kpopthoughts
@@ -2201,6 +2213,7 @@ labrats
 LAClippers
 ladiesofthemcu
 LadiesOfWrestling
+Ladybonersgonecuddly
 laidbackcamp
 lakers
 Lalisa
@@ -2310,10 +2323,12 @@ london
 longboyes
 longcats
 LongDistance
+longevity
 longrange
 lookatmydog
 LOONA
 LooneyTunesLogic
+loopdaddy
 loopringartists
 loopringorg
 lordoftherings
@@ -2384,6 +2399,8 @@ MaliciousCompliance
 mallninjashit
 MamaLane
 manchester
+ManchesterUnited
+MandelaCatalogue
 MandJTV
 MangaCollectors
 MangaMemes
@@ -2396,6 +2413,7 @@ mapporncirclejerk
 Maps
 MarchAgainstNazis
 MargotRobbie
+MariaJulissa13
 Marijuana
 marijuanaenthusiasts
 marinebiology
@@ -2534,6 +2552,7 @@ miraculousladybug
 miragemains
 MirrorForSale
 miscatculations
+MisleadingPuddles
 misleadingthumbnails
 misLED
 missbricosplay
@@ -2944,6 +2963,7 @@ Pathfinder2e
 Pathfinder_Kingmaker
 pathofexile
 Patriots
+PaulinaGaitan
 paydaytheheist
 PaymoneyWubby
 pcgaming
@@ -3291,6 +3311,7 @@ RoundAnimals
 RPClipsGTA
 RPDR_UK
 RPDRDRAMA
+rpg
 rpghorrorstories
 rsloshredit
 RTGameCrowd
@@ -3418,6 +3439,7 @@ Shihtzu
 SHINee
 ShingekiNoKyojin
 ShinyPokemon
+ShitCrusaderKingsSay
 shitduolingosays
 ShitLiberalsSay
 ShitMomGroupsSay
@@ -3512,6 +3534,7 @@ Smite
 smoking
 smoobypost
 SmugIdeologyMan
+smurfdomuca
 snakes
 SnakesWithHats
 SneakyAnimals
@@ -3960,6 +3983,7 @@ tornado
 Torontobluejays
 torontoraptors
 torties
+tortoise
 totallynotrobots
 TOTALLYREALTWEETS
 totalwar
@@ -4128,6 +4152,7 @@ vegetablegardening
 vegetarian
 velvethippos
 venti
+venturebros
 Vermintide
 vexillology
 vexillologycirclejerk
@@ -4258,6 +4283,7 @@ WhiskerFireworks
 whiteknighting
 whitepeoplegifs
 WhitePeopleTwitter
+whitesox
 wholesome
 WholesomeFantasyArt
 wholesomegifs
@@ -4336,6 +4362,7 @@ ww2memes
 WWE
 WWEGames
 wwiipics
+WWIIplanes
 xbiking
 xbox
 XboxGamePass
