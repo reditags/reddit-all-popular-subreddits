@@ -117,6 +117,7 @@ akagas
 AlbedosCreations
 alberta
 Albuquerque
+AlchemyStarsEN
 alexandradaddario
 aliceandfernsnark
 AliceEve
@@ -416,6 +417,7 @@ bikecommuting
 BikiniBottomTwitter
 billsimmons
 bindingofisaac
+bingbongtheorem
 bingingwithbabish
 BinIchDasArschloch
 biology
@@ -572,10 +574,12 @@ CalamityMod
 CalgaryFlames
 CalicoKittys
 California
+CallMeCarson
 CallOfDuty
 CallOfDutyMobile
 calvinandhobbes
 CamCordova
+camphalfblood
 CampingGear
 canada
 canadahousing
@@ -940,6 +944,7 @@ DeepIntoYouTube
 DeepRockGalactic
 deepseacreatures
 DeepSpaceNine
+DeerAreFuckingStupid
 Degrassi
 delhi
 deliciouscompliance
@@ -1046,6 +1051,7 @@ donthelpjustfilm
 dontputyourdickinthat
 DonutMedia
 doodles
+doodoofard
 doommetal
 doordash
 doordash_drivers
@@ -1455,6 +1461,7 @@ GodofWar
 godot
 godtiersuperpowers
 GODZILLA
+GoldenKamuy
 goldenretrievers
 golf
 GolfGTI
@@ -2249,6 +2256,7 @@ minnesota
 minnesotatwins
 minnesotavikings
 miraculousladybug
+MirrorForSale
 miscatculations
 misleadingthumbnails
 misLED
@@ -2266,6 +2274,7 @@ mmababes
 mmamemes
 MobileLegendsGame
 Mobpsycho100
+MoDaoZuShi
 modelmakers
 Models
 modeltrains
@@ -2781,6 +2790,7 @@ ProgrammerHumor
 programming
 programminghorror
 progun
+Project_Wingman
 projectcar
 ProjectSekai
 projectzomboid
@@ -2878,6 +2888,7 @@ regularshow
 relationship_advice
 RelationshipMemes
 religiousfruitcake
+reloading
 Reno
 Repaintings
 Repsneakers
@@ -3280,6 +3291,7 @@ summonerschool
 sunraybee
 suns
 Suomi
+superautopets
 Superbowl
 superman
 SuperMegaShow
@@ -3298,6 +3310,7 @@ sushi
 suspiciouslyspecific
 sustainability
 Sverige
+SwainMains
 SWARJE
 SweatyPalms
 sweden
@@ -3689,6 +3702,7 @@ Vinesauce
 VinlandSaga
 vintageads
 vintageaudio
+vintagecomputing
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
@@ -3711,6 +3725,7 @@ VRchat
 VRGaming
 VShojo
 vuejs
+vultureculture
 W2S
 Wales
 WalkableStreets
@@ -3785,8 +3800,10 @@ whatsthisrock
 whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
+wheeloftime
 whenthe
 wheredidthesodago
+WhiskerFireworks
 whiteknighting
 whitepeoplegifs
 WhitePeopleTwitter
