@@ -173,6 +173,7 @@ ambien
 amcstock
 AMCSTOCKS
 Amd
+AMD_Stock
 AmerExit
 americandad
 AmericanFascism2020
@@ -592,6 +593,7 @@ blursedimages
 BMW
 boardgames
 BobsBurgers
+BobsTavern
 boburnham
 bodegacats
 bodybuilding
@@ -841,6 +843,7 @@ CharliDamelioPicx
 CharliiDamelioo
 Charlotte
 Cheese
+CheetoTheCat
 chefknives
 chelseafc
 chemicalreactiongifs
@@ -2151,6 +2154,7 @@ ImaginarySliceOfLife
 ImaginarySoldiers
 ImaginaryTechnology
 ImaginaryUndead
+ImaginaryVillages
 ImaginaryWarhammer
 ImaginaryWarriors
 ImaginaryWastelands
@@ -2574,6 +2578,7 @@ loopringorg
 lorde
 lordoftherings
 Lore_Olympus
+LorenGrayLewd
 loreofleague
 LoriVallow
 losangeleskings
@@ -3313,6 +3318,7 @@ PhantomForces
 pharmacy
 PhasmophobiaGame
 phclassifieds
+PhD
 PHGamers
 philadelphia
 Philippines
@@ -3499,6 +3505,7 @@ PvZGardenWarfare
 PvZHeroes
 pykemains
 pyrocynical
+Python
 QanonKaren
 Qdpay
 QiqiMains
@@ -3807,6 +3814,7 @@ shittyaskscience
 shittybattlestations
 ShittyDaystrom
 shittyfoodporn
+shittygamedetails
 ShittyGifRecipes
 shittylifehacks
 ShittyLifeProTips
@@ -4065,6 +4073,7 @@ subnautica
 Subnautica_Below_Zero
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
+subsithoughtifellfor
 Suburbanhell
 SubwayCreatures
 SuccessionTV
@@ -4565,6 +4574,7 @@ vegancirclejerk
 VeganDE
 veganfitness
 VeganFoodPorn
+VeganForCircleJerkers
 veganrecipes
 vegetablegardening
 vegetarian
