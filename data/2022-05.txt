@@ -274,11 +274,13 @@ ApexOutlands
 Apexrollouts
 ApexUncovered
 apexuniversity
+ApheliosMains
 apolloapp
 Appalachistan
 apple
 AppleWatch
 ApplyingToCollege
+APStudents
 Aquariums
 Aquascape
 AquaticAsFuck
@@ -601,6 +603,7 @@ bollywood
 BollywoodRealism
 BollywoodUHQonly
 Bondedpairs
+boneachingjuice
 BoneAppleTea
 bonehealingjuice
 bonehurtingjuice
@@ -623,6 +626,7 @@ Bossfight
 boston
 BostonBruins
 bostonceltics
+BostonTerrier
 Botchedsurgeries
 bottlebrush
 bottomgear
@@ -897,6 +901,7 @@ Cleveland
 clevercomebacks
 climate
 ClimateActionPlan
+climbergirls
 climbing
 ClimbingCircleJerk
 clonewars
@@ -915,6 +920,7 @@ CODZombies
 Coffee
 coilerayy
 coins
+Coldmirror
 ColdOnes
 college
 collegebaseball
@@ -1147,6 +1153,7 @@ dave
 Davie504
 DaysGone
 Daytrading
+dayz
 dbfz
 dbz
 DBZDokkanBattle
@@ -1227,6 +1234,7 @@ Deuxmoi
 DevilMayCry
 devils
 Dexter
+dezwo
 diabetes
 Diablo
 diablo2
@@ -1284,6 +1292,7 @@ DocumentedFights
 Dodgers
 DOG
 Dogberg
+dogbridges
 dogecoin
 dogelore
 Doggles
@@ -1294,6 +1303,7 @@ DogsAndPlants
 dogslookingdown
 DogsMirin
 dogsonroofs
+dogswearinghats
 dogswithjobs
 Dogtraining
 DokkanBattleCommunity
@@ -1336,6 +1346,7 @@ drugmemes
 Drugs
 drums
 drumstick
+drunk
 drunkencookery
 DrunkRussian
 Dualsport
@@ -1354,6 +1365,7 @@ DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
 dutch
+dxm
 DylanteroYT
 DynastyFF
 earthbound
@@ -1561,6 +1573,7 @@ fitness30plus
 FitToFat
 fixedbytheduet
 FixedGearBicycle
+fixit
 FL_Studio
 Flamepoints
 flashlight
@@ -1735,6 +1748,7 @@ gay
 gaybros
 GaylorSwift
 GaySoundsShitposts
+GCSE
 geek
 GemmaArterton
 genderfluid_irl
@@ -1826,6 +1840,7 @@ Gouache
 GradSchool
 Graffiti
 Granblue_en
+GrandBlue
 grandpajoehate
 grandrapids
 GrandTheftAutoV
@@ -2013,6 +2028,7 @@ houseplants
 houseplantscirclejerk
 Houseporn
 houston
+howardstern
 howto
 HowToBeAMindReaver
 howtonotgiveafuck
@@ -2027,6 +2043,7 @@ HumanPorn
 HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
+humor
 humour
 hungary
 hunterxdank
@@ -2097,6 +2114,7 @@ ImaginaryBehemoths
 ImaginaryBestOf
 ImaginaryCharacters
 ImaginaryCityscapes
+ImaginaryCyberpunk
 ImaginaryDarkSouls
 ImaginaryDragons
 imaginaryelections
@@ -2298,6 +2316,7 @@ jurassicworldevo
 justa
 JustBootThings
 Justfuckmyshitup
+justgamedevthings
 JustGuysBeingDudes
 JusticeForJohnnyDepp
 JusticeServed
@@ -2526,11 +2545,13 @@ LockdownSkepticism
 LodedDiper
 logodesign
 london
+lonely
 longboyes
 longcats
 LongDistance
 longevity
 LonghornNation
+longisland
 longrange
 lookatmydog
 LOONA
@@ -3063,6 +3084,7 @@ nyjets
 NYKnicks
 NYStateOfMind
 NYYankees
+OaklandAthletics
 obeyme
 oblivion
 ObviousPlant
@@ -3240,6 +3262,7 @@ PeakyBlinders
 PeanutWhiskers
 PeepingPooch
 peloton
+penguins
 PenmanshipPorn
 Pennsylvania
 PeopleBeingJerks
@@ -3386,6 +3409,7 @@ Portal
 portlandme
 portugal
 PORTUGALCARALHO
+Positive_News
 Possums
 postprocessing
 postrock
@@ -3480,6 +3504,7 @@ ragdolls
 RaidenMains
 raiders
 raidsecrets
+RaidShadowLegends
 raimimemes
 Rainbow6
 RainbowEverything
@@ -3504,6 +3529,7 @@ raspberry_pi
 RATS
 ravens
 razer
+rccars
 RDR2
 Re_Zero
 reactiongifs
@@ -3558,6 +3584,7 @@ Residency
 residentevil
 restofthefuckingowl
 retarb
+retouching
 retrobattlestations
 RetroBowl
 RetroFuturism
@@ -3702,6 +3729,7 @@ seinfeld
 Sekiro
 self
 SelfAwarewolves
+selfhosted
 selfie
 selfimprovement
 SellingSunset
@@ -3791,6 +3819,7 @@ Siamesecats
 SiberianCats
 Sidemen
 SifuGame
+sighthounds
 SigmaGrindset
 Sigmarxism
 SigSauer
@@ -4331,6 +4360,7 @@ Torontobluejays
 torontoraptors
 torties
 tortoise
+Totaldrama
 totallynotrobots
 TOTALLYREALTWEETS
 totalwar
@@ -4384,6 +4414,7 @@ TrueFilm
 truegaming
 TrueReddit
 TrueSTL
+TrueUnpopularOpinion
 trump
 Trumpgret
 Trumpvirus
@@ -4396,6 +4427,7 @@ tulsa
 tumblr
 Turkey
 TurkeyJerky
+turkish
 TurkishCats
 TuxedoCats
 TVDetails
@@ -4416,10 +4448,12 @@ TwoSentenceSadness
 TwoXChromosomes
 TwoXIndia
 TwoXPreppers
+twrmod
 tylerthecreator
 Tyranids
 tzuyu
 UBC
+ucf
 UCI
 ucla
 UCSD
@@ -4519,6 +4553,7 @@ velvethippos
 Vent
 venti
 venturebros
+verfluchteKommentare
 Vermintide
 vexillology
 vexillologycirclejerk
