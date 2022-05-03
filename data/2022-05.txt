@@ -64,6 +64,7 @@ absolutelynotmeirl
 AbsoluteUnits
 AbstractArt
 Absurdism
+abusiverelationships
 ac_newhorizons
 ACAB
 AccidentalAlly
@@ -83,6 +84,7 @@ acecombat
 Achievement_Hunter
 AchillesAndHisPal
 ACMilan
+acne
 ACNHIslandInspo
 ACPocketCamp
 ACQR
@@ -238,6 +240,7 @@ ANormalDayInRussia
 anthologymemes
 antiassholedesign
 Anticonsumption
+Antidigitalisten
 antifastonetoss
 antifeminists
 antimeme
@@ -417,6 +420,7 @@ baldursgate
 BaldursGate3
 balisong
 BalticStates
+BancaDelMeme
 bangalore
 bangtan
 banned4life
@@ -431,6 +435,7 @@ bartenders
 baseball
 baseballcards
 bassfishing
+BassGuitar
 batman
 BatmanArkham
 Battlecars
@@ -727,6 +732,7 @@ castles
 castlevania
 CasualConversation
 CasualIreland
+casualknitting
 casualnintendo
 CasualUK
 cat
@@ -825,6 +831,7 @@ childemains
 ChildrenFallingOver
 chile
 China_irl
+ChineseLanguage
 Chiraqology
 Chivalry2
 chloe
@@ -929,6 +936,7 @@ CompetitiveWoW
 COMPLETEANARCHY
 computers
 conan
+ConanBeingAwesome
 confession
 confessions
 confidentlyincorrect
@@ -938,6 +946,7 @@ CongratsLikeImFive
 Connecticut
 ConnorEatsPants
 Conservative
+conservativecartoons
 ConservativeMemes
 ConservativesOnly
 Consoom
@@ -959,6 +968,7 @@ CoolGadgetsTube
 coolguides
 copenhagen
 copypasta
+cordcutters
 corgi
 cork
 Cornell
@@ -975,6 +985,7 @@ cottagecore
 counterstrike
 CountOnceADay
 countryballs_comics
+COVIDAteMyFace
 CovIdiots
 cowboybebop
 cowboys
@@ -1417,6 +1428,7 @@ everymanshouldknow
 EverythingFoxes
 EverythingScience
 evilbuildings
+exIglesiaNiCristo
 exjw
 exmormon
 exmuslim
@@ -1555,6 +1567,7 @@ footballmemes
 foraging
 forbiddenboops
 forbiddensnacks
+Ford
 FordMaverickTruck
 ForFashion
 ForgottenBookmarks
@@ -2001,6 +2014,7 @@ IAmA
 Iamactuallyverybadass
 iamatotalpieceofshit
 IAmTheMainCharacter
+iamverybadass
 iamveryrandom
 iamverysmart
 IASIP
@@ -2132,6 +2146,7 @@ insaneparents
 InsaneParler
 InsanePeopleQuora
 inscryption
+insects
 InsideJob
 InstaCelebsGossip
 Instagramreality
@@ -2157,6 +2172,7 @@ introvert
 introvertmemes
 Invincible
 Iowa
+ipad
 iphone
 iPhoneography
 iRacing
@@ -2180,6 +2196,7 @@ iwoulddiefornoodle
 Izlam
 iZone
 IzuOcha
+jackass
 jackrussellterrier
 jacksepticeye
 JackSucksAtLife
@@ -2475,6 +2492,7 @@ LooneyTunesLogic
 loopdaddy
 loopringartists
 loopringorg
+lorde
 lordoftherings
 Lore_Olympus
 loreofleague
@@ -2533,6 +2551,7 @@ magicthecirclejerking
 maidsonskates
 Maine
 mainecoons
+majonotabitabi
 MakeMeSuffer
 Makeup
 MakeupAddiction
@@ -2751,6 +2770,7 @@ Monstera
 MonsterHigh
 MonsterHunter
 MonsterHunterWorld
+Monsterverse
 montreal
 MontyPythonMemes
 MoonKnight
@@ -2837,6 +2857,7 @@ natalieportman
 NationalPark
 NATOWave
 nattyorjuice
+nature
 Natureisbrutal
 NatureIsFuckingLit
 natureismetal
@@ -3022,6 +3043,7 @@ okbuddyhasan
 okbuddyhetero
 okbuddyhololive
 okbuddyHRetard
+okbuddyjotard
 OkBuddyPersona
 okbuddyphd
 OkBuddyPoliceOfficer
@@ -3372,6 +3394,7 @@ PuppyBellies
 PuppySmiles
 Purdue
 PurpleCoco
+Purrito
 pussypassdenied
 PutAnEggOnIt
 PvZGardenWarfare
@@ -3657,6 +3680,7 @@ ShinyPokemon
 Shinypreciousgems
 ShitCrusaderKingsSay
 shitduolingosays
+ShitHaloSays
 ShitLiberalsSay
 ShitMomGroupsSay
 ShitPoliticsSays
@@ -3836,6 +3860,7 @@ SquaredCircle
 SquarePosting
 squidgame
 squishmallow
+squishypuppers
 SrGrafo
 SS13
 SSBM
@@ -4431,6 +4456,7 @@ vinyl
 vinyljerk
 VioletEvergarden
 ViralFun
+Virginia
 virginvschad
 virtualreality
 Visiblemending
@@ -4482,10 +4508,12 @@ wasletztepreis
 WatchandLearn
 watchcatsdieinside
 Watches
+Watchexchange
 WatchPeopleDieInside
 watchpeoplesurvive
 watchthingsfly
 Watercolor
+watercooling
 Waterdogs
 WattsonMains
 WayOfTheBern
@@ -4550,6 +4578,7 @@ wholesomegreentext
 wholesomejojo
 wholesomememes
 wholesomeouija
+wholesomevangelion
 wholesomeviolence
 whoosh
 whothefuckup
