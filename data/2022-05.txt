@@ -666,6 +666,7 @@ bugout
 buildapc
 buildapcsales
 bujo
+bulbasaurmasterrace
 bulgaria
 Bulldogs
 bulletjournal
@@ -1167,6 +1168,7 @@ depression_memes
 DepthHub
 DerryGirls
 DerScheisser
+desabafos
 Design
 DesignPorn
 DesiMeta
@@ -1247,6 +1249,7 @@ DoctorWhumour
 Documentaries
 DocumentedFights
 Dodgers
+DOG
 Dogberg
 dogecoin
 dogelore
@@ -1301,6 +1304,7 @@ Drugs
 drums
 drumstick
 drunkencookery
+DrunkRussian
 Dualsport
 dubai
 Dublin
@@ -1361,6 +1365,7 @@ EmpireDidNothingWrong
 ems
 ender3
 energy
+EngagementRings
 engineeringmemes
 EngineeringPorn
 EngineeringStudents
@@ -1420,6 +1425,7 @@ explainlikeimfive
 ExposurePorn
 ExtinctionRebellion
 extomatoes
+ExtraFabulousComics
 ExtremeCarCrashes
 extremelyinfuriating
 Eyebleach
@@ -1566,6 +1572,7 @@ ForShub
 FortCollins
 FORTnITE
 FortNiteBR
+FortniteCompetitive
 FortniteLeaks
 FortniteMemes
 forwardsfromgrandma
@@ -1734,6 +1741,7 @@ Gintama
 Giraffesdontexist
 girlfriendreviews
 GirlsMirin
+gis
 givemeinteligens
 glitch_art
 Glitch_in_the_Matrix
@@ -3006,6 +3014,7 @@ okbuddybaka
 okbuddycapitalist
 okbuddychicanery
 okbuddycinephile
+okbuddydaylight
 okbuddygenshin
 okbuddyguardian
 OKbuddyHalfLife
@@ -3102,6 +3111,7 @@ overlord
 OverSimplified
 overthegardenwall
 Overwatch
+overwatch2
 Overwatch_Memes
 OverwatchLeague
 OWConsole
@@ -3125,6 +3135,7 @@ panthers
 papertowns
 ParadoxExtra
 paradoxplaza
+Paralives
 Paranormal
 PardonMyTake
 Pareidolia
@@ -3206,6 +3217,7 @@ physicsgifs
 physicsmemes
 PickleFinancial
 pics
+PicsOfUnusualBirds
 piercing
 Pikabu
 Pikmin
@@ -3623,6 +3635,7 @@ sffpc
 SFGiants
 SFM
 SFWRedheads
+shadowofmordor
 Sham_Sharma_Show
 ShamelesslyStolen
 Shark_Park
@@ -3675,6 +3688,7 @@ shittytattoos
 shittytechnicals
 ShitWehraboosSay
 shockwaveporn
+shoegaze
 shortscarystories
 Shotguns
 shouldercats
@@ -4346,6 +4360,7 @@ upcycling
 UpliftingNews
 upvotebecauseboobs
 UpvotedBecauseBoobs
+upvoteexeggutor
 urbanexploration
 UrbanHell
 uruguay
@@ -4452,6 +4467,7 @@ war
 WarAndPeas
 Warframe
 WarframeRunway
+wargame
 Warhammer
 Warhammer30k
 Warhammer40k
@@ -4624,6 +4640,7 @@ xmen
 xqcow
 XXXTENTACION
 YaeMiko
+YagateKiminiNaru
 Yahaha_IRL
 yakuzagames
 YanfeiMains
