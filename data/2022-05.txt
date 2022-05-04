@@ -11,6 +11,7 @@
 15minutefood
 19684
 197
+198
 2007scape
 2020PoliceBrutality
 2137
@@ -583,6 +584,7 @@ Birates
 Birbs
 birding
 BirdsArentReal
+birdstakingthetrain
 birdswitharms
 bisexual
 BisexualTeens
@@ -796,6 +798,8 @@ capybara
 carbonsteel
 carcrash
 cardano
+Cardinals
+cardsagainsthumanity
 careerguidance
 carmemes
 Carpentry
@@ -1663,6 +1667,7 @@ FigureSkating
 Filmmakers
 FilthyFrank
 FinalFantasy
+FinalFantasyVII
 finance
 FinancialCareers
 financialindependence
@@ -1698,6 +1703,7 @@ Floof
 florida
 FloridaMan
 FlorkofCowsOfficial
+flowers
 FluentInFinance
 Flyers
 flyfishing
@@ -1730,6 +1736,7 @@ ForgottenWeapons
 forhonor
 forhonorknights
 forhonormemes
+ForHonorRants
 formalwaifus
 formula1
 FormulaBuddyRetard
@@ -1844,6 +1851,7 @@ GalaxysEdge
 GalGadot
 Gameboy
 gamecollecting
+Gamecube
 gamedev
 gamegrumps
 gameofthrones
@@ -1997,7 +2005,9 @@ Greyhounds
 greysanatomy
 grian
 grilledcheese
+grilling
 Grimdank
+grime
 Grimes
 GTA
 GTA6
@@ -2047,6 +2057,7 @@ HaloMemes
 HaloStory
 Hamilton
 hamiltonmemes
+hamiltonmusical
 Hammers
 hammy_tv
 hamsters
@@ -3507,6 +3518,7 @@ perfectlycutfucks
 PerfectlyCutMeows
 perfectlycutscreams
 perfectlycutyeets
+Periods
 Permaculture
 Persecutionfetish
 PERSoNA
@@ -5105,6 +5117,7 @@ WorldofTanks
 WorldOfTanksBlitz
 WorldOfWarships
 WorldWar2
+WormMemes
 wortwitzkasse
 WoT
 wotv_ffbe
