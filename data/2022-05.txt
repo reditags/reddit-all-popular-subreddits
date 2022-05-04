@@ -235,6 +235,7 @@ Animedubs
 AnimeFunny
 animegifs
 animehotbeverages
+AnimeInOurWorld
 AnimeMeme
 animememes
 Animemes
@@ -776,6 +777,7 @@ careerguidance
 carmemes
 Carpentry
 carporn
+CarryMinati
 carscirclejerk
 Cartalk
 cassettefuturism
@@ -1065,6 +1067,7 @@ crappyoffbrands
 crashbandicoot
 CrawlerSightings
 CrazyFuckingVideos
+CrazyHuman
 CrazyIdeas
 Crazyppl
 creepy
@@ -1807,6 +1810,7 @@ gatesopencomeonin
 GawrGura
 gay
 gaybros
+GayBroTeens
 GaylorSwift
 GaySoundsShitposts
 GCSE
@@ -2102,6 +2106,7 @@ houston
 howardstern
 howto
 HowToBeAMindReaver
+HowToHack
 howtonotgiveafuck
 howyoudoin
 hoyas
@@ -3921,6 +3926,7 @@ Shittyaskflying
 shittyaskscience
 shittybattlestations
 ShittyDaystrom
+shittyeldenring
 shittyfoodporn
 shittygamedetails
 ShittyGifRecipes
@@ -4067,6 +4073,7 @@ SpeculativeEvolution
 SpeedOfLobsters
 speedrun
 sphynx
+SpiceandWolf
 spicy
 spicypillows
 spiderbro
@@ -4402,8 +4409,10 @@ themummymemes
 thenetherlands
 TheNightFeeling
 TheNinthHouse
+TheOA
 theocho
 TheOnion
+theouterworlds
 TheQuarteringIsANazi
 TheRatEmpire
 TheRealJoke
