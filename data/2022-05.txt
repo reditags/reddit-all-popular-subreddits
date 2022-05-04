@@ -365,6 +365,7 @@ ATLA
 Atlanta
 AtlantaHawks
 AtlantaTV
+ATLAverse
 atrioc
 attackeyes
 attackontitan
@@ -497,6 +498,7 @@ belgium
 Bellingham
 belowdeck
 Ben10
+Bend
 bengalcats
 bengals
 benshapiro
@@ -557,6 +559,7 @@ blackcats
 Blackcelebrity
 BlackClover
 blackdesertonline
+blacklagoon
 BlackLivesMatter
 blackmagicfuckery
 blackmirror
@@ -745,6 +748,7 @@ canucks
 CapitalismSux
 CapitolConsequences
 caps
+CaptainSparklez
 CaptainSparrowmemes
 capybara
 carbonsteel
@@ -799,6 +803,7 @@ catsinpants
 CatsInSinks
 CatsISUOTTATFO
 CatSlaps
+CatSmiles
 Catsmirin
 CatsNamedToothless
 CatsOnCats
@@ -813,6 +818,7 @@ CatsWhoSmoke
 CatsWhoSqueak
 catswhotrill
 Catswhoyell
+CatsWithDogs
 Catswithjobs
 CatTaps
 Cawwsplay
@@ -1039,6 +1045,7 @@ crashbandicoot
 CrawlerSightings
 CrazyFuckingVideos
 CrazyIdeas
+Crazyppl
 creepy
 creepyasterisks
 creepydesign
@@ -1113,6 +1120,7 @@ DaftPunk
 Daggerfall
 dahyun
 Dallas
+DallasStars
 DamnNatureYouScary
 Damnthatsinteresting
 dancegavindance
@@ -1162,6 +1170,7 @@ datingoverforty
 datingoverthirty
 dauntless
 dave
+davidlynch
 Davie504
 DaysGone
 Daytrading
@@ -1197,6 +1206,7 @@ DeepRockGalactic
 deepseacreatures
 DeepSpaceNine
 DeerAreFuckingStupid
+deftones
 Degrassi
 delhi
 deliciouscompliance
@@ -1410,6 +1420,7 @@ ElectroBOOM
 electronics
 EliteDangerous
 EliteWeebs
+ElizabethWarren
 ElleFanning
 elonmusk
 ElvenGirls
@@ -1492,6 +1503,7 @@ Eyebleach
 F1Game
 F1NN5TER
 F1Porn
+FacebookScience
 facepalm
 Faces
 facingtheirparenting
@@ -1765,6 +1777,7 @@ GCSE
 geek
 GemmaArterton
 genderfluid_irl
+GeneralSam
 generative
 GenEU
 Genshin_Impact
@@ -1794,6 +1807,7 @@ Getdownmrpresident
 GetMotivated
 GetStudying
 GettingShredded
+GettyMuseumChallenge
 GhettoStreetFights
 ghibli
 Ghostbc
@@ -1842,6 +1856,7 @@ GoNets
 goodboomerhumor
 GoodFakeTexts
 goodmythicalmorning
+google
 googlemapsshenanigans
 GooglePixel
 gorillaz
@@ -1953,6 +1968,7 @@ Hawaii
 HazbinHotel
 headpats
 headphones
+Health
 HealthyFood
 Healthygamergg
 hearthstone
@@ -2831,6 +2847,7 @@ misleadingthumbnails
 misLED
 missbricosplay
 missbricosplays2
+missouri
 Mistborn
 mitski
 Mizkif
@@ -2869,6 +2886,7 @@ MonsterHigh
 MonsterHunter
 MonsterHunterWorld
 Monsterverse
+Montana
 montreal
 MontyPythonMemes
 MoonKnight
@@ -2917,6 +2935,7 @@ MurderedByWords
 murdermittens
 MURICA
 Muse
+MushroomGrowers
 MushroomPorn
 Mushrooms
 Music
@@ -2935,6 +2954,7 @@ MyouiMina
 MyPeopleNeedMe
 MysteryDungeon
 mysticmessenger
+mythbusters
 mythology
 mythologymemes
 n64
@@ -2944,6 +2964,7 @@ Nails
 NameNerdCirclejerk
 namenerds
 namethatcar
+NanatsunoTaizai
 NANIKPosting
 Nanny
 NarcoFootage
@@ -2955,6 +2976,7 @@ nashville
 NatalieDormer
 natalieportman
 NationalPark
+Nationals
 NATOWave
 nattyorjuice
 nature
@@ -3559,6 +3581,7 @@ raspberry_pi
 RATS
 ravens
 razer
+RBI
 rccars
 RDR2
 Re_Zero
@@ -3757,6 +3780,7 @@ secretcompartments
 seduction
 SeeYaLaterLosers
 seinfeld
+seinfeldgifs
 Sekiro
 self
 SelfAwarewolves
@@ -3853,6 +3877,7 @@ ShuumatsuNoValkyrie
 Siamesecats
 SiberianCats
 Sidemen
+Sierra
 SifuGame
 sighthounds
 SigmaGrindset
@@ -4033,6 +4058,7 @@ starwarsmemes
 starwarsrebels
 starwarsspeculation
 staryuuki
+stateofMN
 steak
 Stealthbombers
 Steam
@@ -4148,6 +4174,7 @@ systemofadown
 SystemsCringe
 TabbyCats
 tacobell
+Tacoma
 tacticalgear
 taiwan
 Takagi_san
@@ -4210,6 +4237,7 @@ teenagersnew
 TeenMomOGandTeenMom2
 teentitans
 Tekken
+Temple
 TempleofMarianne
 TempleOfMythra
 Tendies
@@ -4426,6 +4454,7 @@ transgendercirclejerk
 transit
 TransLater
 transmasc_irl
+Transmatfiring
 Transmogrification
 trashpandas
 TrashTaste
@@ -4457,6 +4486,7 @@ Trumpgret
 Trumpvirus
 truscum
 TsundereSharks
+TTSverse
 Tubbo_
 tuckedinkitties
 TuckedInPuppies
@@ -4594,6 +4624,8 @@ venti
 venturebros
 verfluchteKommentare
 Vermintide
+vermont
+VetTech
 vexillology
 vexillologycirclejerk
 veYakinEvren
@@ -4609,6 +4641,7 @@ vim
 Vindicta
 Vinesauce
 VinlandSaga
+vintage
 vintageads
 VintageApple
 vintageaudio
@@ -4672,6 +4705,7 @@ Warzone
 wasletztepreis
 WatchandLearn
 watchcatsdieinside
+WatchDogsWoofInside
 Watches
 Watchexchange
 WatchPeopleDieInside
@@ -4846,6 +4880,7 @@ yakuzagames
 YanfeiMains
 YarnAddicts
 yarntrolls
+yeagerbomb
 yeat_
 yeezys
 YelanMains
