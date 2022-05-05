@@ -1748,6 +1748,7 @@ Ford
 FordMaverickTruck
 ForFashion
 ForgottenBookmarks
+forgottenfilm
 ForgottenWeapons
 forhonor
 forhonorknights
@@ -2269,6 +2270,7 @@ IdiotsNearlyDying
 IdiotsOnBikes
 Idiotswithguns
 IDontWorkHereLady
+IfIFitsISits
 iforgorthesubname
 ihadastroke
 ihavereddit
@@ -2459,6 +2461,7 @@ jameswebb
 janeausten
 Janiameshelll
 January6
+japan
 JapaneseFood
 japanpics
 JARMEDIA
@@ -3543,6 +3546,7 @@ pelotoncycle
 penguins
 PenmanshipPorn
 Pennsylvania
+pennystocks
 PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
@@ -4181,6 +4185,7 @@ Skincare_Addiction
 SkincareAddicts
 Skookum
 Skullgirls
+SkweezyJibbs
 SkyGame
 skylanders
 SkyPorn
@@ -4242,8 +4247,10 @@ souleater
 SoulKnight
 SoulSnacks
 SoulsSliders
+SoundersFC
 soup
 Sourdough
+sousvide
 southafrica
 southcarolina
 SovietWomble
@@ -5048,6 +5055,7 @@ webcomics
 webdev
 wec
 wedding
+weddingdress
 weddingshaming
 Weddingsunder10k
 weeaboo
@@ -5091,6 +5099,7 @@ WhatsWrongWithYourDog
 wheeloftime
 whenthe
 wheredidthesodago
+Whippets
 WhiskerFireworks
 whiskey
 whiteknighting
