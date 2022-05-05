@@ -447,6 +447,7 @@ AyyMD
 AZCardinals
 aznidentity
 BABESINC0MICSANDGAMES
+babushkadogs
 Babushkats
 babyanimals
 BabyBumps
@@ -925,6 +926,7 @@ chemistry
 chemistrymemes
 Chennai
 chess
+chessbeginners
 chessmemes
 CHIBears
 chicagobulls
@@ -1183,6 +1185,7 @@ CursedGuns
 cursedimages
 cursedjojo
 cursedmemes
+CursedMinecraft
 cursedvideos
 CurseofStrahd
 customhearthstone
@@ -1349,6 +1352,7 @@ DetroitRedWings
 Deusex
 deutschememes
 Deuxmoi
+developersIndia
 DevilMayCry
 devils
 Dexter
@@ -1546,6 +1550,7 @@ ems
 emulation
 ender3
 energy
+ENFP
 EngagementRings
 engineeringmemes
 EngineeringPorn
@@ -1976,6 +1981,7 @@ Giraffesdontexist
 girlfriendreviews
 GirlsMirin
 GirlsUndShitposts
+girlswithbigmuscles
 gis
 givemeinteligens
 glitch_art
@@ -2349,6 +2355,7 @@ ImaginaryMindscapes
 ImaginaryMonsters
 ImaginaryNobles
 ImaginaryPathways
+imaginarypets
 ImaginarySeascapes
 ImaginarySliceOfLife
 ImaginarySoldiers
@@ -2445,6 +2452,7 @@ Invincible
 Invisalign
 Iowa
 ipad
+iPadPro
 iphone
 iPhoneography
 ipl
@@ -2649,6 +2657,7 @@ KSPMemes
 KujouSaraMains
 KukiShinobuMains
 KumoDesu
+Kurumi
 kurzgesagt
 KUWTKsnark
 l4d2
@@ -2787,6 +2796,7 @@ LivestreamFail
 LizbethRodriguez1
 LMDShow
 loadingicon
+LobotomyCorp
 LockdownSkepticism
 lockpicking
 LodedDiper
@@ -3018,6 +3028,7 @@ miamidolphins
 Miata
 MichaelReeves
 Michigan
+microbiology
 microbork
 microgrowery
 MicrosoftFlightSim
@@ -3046,6 +3057,7 @@ MillieBobbyBrown2
 MillionaireGrindset
 milwaukee
 mina_irl
+Mindfulness
 Mindustry
 Minecraft
 Minecraftbuilds
@@ -3112,6 +3124,7 @@ MoldyMemes
 MomForAMinute
 Mommit
 monarchism
+Monero
 Monke
 Monstera
 MonsterHigh
@@ -3423,6 +3436,7 @@ okbuddyphd
 OkBuddyPoliceOfficer
 okbuddyreiner
 okbuddyrintard
+okbuddytankie
 okbuddyvowsh
 okc
 okcopainattard
@@ -3554,6 +3568,7 @@ ParkJihyo
 ParlerWatch
 parrots
 PartyParrot
+PastAndPresentPics
 Patchuu
 Pathfinder2e
 Pathfinder_Kingmaker
@@ -3720,6 +3735,7 @@ PoliticsPeopleTwitter
 polls
 Polska
 Polska_wpz
+Polytopia
 Pomeranians
 ponds
 pop_os
@@ -3873,6 +3889,7 @@ reactiongifs
 reactionpics
 readanotherbook
 ReadyOrNotGame
+real_China_irl
 RealCuba
 realestateinvesting
 reallifedoodles
@@ -3910,6 +3927,7 @@ ReevesBatmanmemes
 regretfulparents
 regularcarreviews
 regularshow
+reisende
 relationship_advice
 RelationshipMemes
 religiousfruitcake
