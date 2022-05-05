@@ -834,6 +834,7 @@ castlevania
 CasualConversation
 CasualIreland
 casualknitting
+casualkujo
 casualnintendo
 CasualUK
 cat
@@ -925,6 +926,7 @@ CharliDamelio_HQ
 CharliDamelioPicx
 CharliiDamelioo
 Charlotte
+ChasersRiseUp
 Cheese
 CheetoTheCat
 chefknives
@@ -1605,6 +1607,7 @@ ethereum
 ethfinance
 ethoslab
 ethtrader
+etymology
 eu4
 eu_nvr
 Eugene
@@ -1639,6 +1642,7 @@ extomatoes
 ExtraFabulousComics
 ExtremeCarCrashes
 extremelyinfuriating
+Exvangelical
 Eyebleach
 f150
 F1Game
@@ -2548,6 +2552,7 @@ jewelrymaking
 JhinMains
 Jigsawpuzzles
 jisoo
+jjdandfamily
 jobs
 JoeBiden
 JoeRogan
@@ -2744,6 +2749,7 @@ learnprogramming
 learnpython
 learnspanish
 learntodraw
+LearnUselessTalents
 Leathercraft
 leaves
 lebowski
@@ -4122,6 +4128,7 @@ scheissepfostieren
 SchittsCreek
 schizopostingmemes
 schkreckl
+schnauzers
 school_memes
 schoolfight
 science
@@ -5129,6 +5136,7 @@ VRchat
 VRGaming
 VShojo
 vuejs
+Vulfpeck
 vultureculture
 VuvuzelaIPhone
 W2S
