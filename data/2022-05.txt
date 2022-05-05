@@ -134,6 +134,7 @@ afkarena
 AFL
 AfterEffects
 AfterTheEndFanFork
+AfterVanced
 AgainstHateSubreddits
 AgainstHinduphobia
 agedlikemilk
@@ -174,6 +175,7 @@ aliandjohnjamesagain
 aliceandfernsnark
 AliceEve
 aliens
+alpaca
 AlternateAngles
 AlternateHistory
 alternativeart
@@ -647,6 +649,7 @@ blursed_memes
 blursed_videos
 Blursedcomments
 blursedimages
+bmbmbm
 BMW
 boardgames
 boating
@@ -1408,6 +1411,7 @@ DMAcademy
 DMDadJokes
 DMT
 DnD
+DnDart
 DnDGreentext
 DnDHomebrew
 DnDIY
@@ -1741,6 +1745,7 @@ FlashTV
 FleshPitNationalPark
 flightsim
 Floof
+floofyboop
 florida
 FloridaMan
 FlorkofCowsOfficial
@@ -2055,6 +2060,7 @@ GreenAndPleasant
 GreenBayPackers
 greenday
 greentext
+greenville
 Greyhounds
 greysanatomy
 grian
@@ -2668,6 +2674,7 @@ KumoDesu
 Kurumi
 kurzgesagt
 KUWTKsnark
+Kyousaya
 l4d2
 LabourUK
 labrador
@@ -2737,6 +2744,7 @@ LegendsOfRuneterra
 LegendsOfTomorrow
 lego
 legogaming
+Legoleak
 legostarwars
 legostarwarsmemes
 LegoStarWarsVideoGame
@@ -2985,6 +2993,7 @@ MedievalCats
 MedievalHistoryMemes
 Meditation
 medizzy
+MegalithPorn
 megalophobia
 Megaman
 MeganFox
@@ -3830,6 +3839,7 @@ punk
 Punny
 PunPatrol
 puns
+PupliftingNews
 puppies
 PuppyBellies
 PuppySmiles
@@ -3952,6 +3962,7 @@ RepTime
 Republica_Argentina
 RepublicadeChile
 Republican
+RepublicanValues
 rescuedogs
 Residency
 residentevil
@@ -3991,6 +4002,7 @@ rockhounds
 rodentintercourse
 rolex
 Roll20
+rollercoasters
 Rollerskating
 Romania
 RomaniaPorn
@@ -4053,6 +4065,7 @@ sanantonio
 SandersForPresident
 SanDiegan
 sandiego
+sanepolitics
 sanfrancisco
 SanJose
 sanpedrocactus
@@ -4533,6 +4546,7 @@ swtor
 SWTOR_memes
 sydney
 SydneySweeney
+sylt51
 SympatheticMonsters
 synthesizers
 sysadmin
@@ -4724,6 +4738,7 @@ TheTempleOfOchako
 thetron
 TheTrumpZone
 TheUltimatumNetflix
+theunforgiven
 thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
