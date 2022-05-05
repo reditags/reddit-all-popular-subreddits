@@ -272,6 +272,7 @@ AnneHathaway
 anno
 ANormalDayInRussia
 anthologymemes
+antiarbeit
 antiassholedesign
 Anticonsumption
 Antidigitalisten
@@ -589,6 +590,7 @@ Birates
 Birbs
 birding
 BirdsArentReal
+BirdsForScale
 birdstakingthetrain
 birdswitharms
 bisexual
@@ -622,6 +624,7 @@ BlatantMisogyny
 bleach
 blender
 blenderhelp
+BlenderSecrets
 Blep
 bleps
 Blessed_Images
@@ -700,6 +703,7 @@ boxoffice
 Bozeman
 BPD
 BPDmemes
+BrandNewAnimal
 BrandNewSentence
 brandonherrara
 brandonsanderson
@@ -3356,6 +3360,7 @@ NUFC
 nukedmemes
 nursing
 nus
+nutrition
 NuxTakuSubmissions
 nuzlocke
 nvidia
@@ -3918,6 +3923,7 @@ retrobattlestations
 RetroBowl
 RetroFuturism
 retrogaming
+reverseanimalrescue
 RheaRipley
 RhodeIsland
 riasgremory
@@ -4288,6 +4294,7 @@ spain
 SpecArt
 specializedtools
 SpecialSnowflake
+SpecOpsArchive
 SpeculativeEvolution
 SpeedOfLobsters
 speedrun
@@ -5119,6 +5126,7 @@ whatsthisbug
 whatsthisplant
 whatsthisrock
 whatsthissnake
+WhatsUpDoc
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
 wheeloftime
