@@ -3037,6 +3037,7 @@ MinecraftMemes
 minecraftseeds
 minecraftsuggestions
 MineralPorn
+miniatures
 minimalcatart
 miniminter
 minipainting
@@ -4407,6 +4408,7 @@ submarines
 submechanophobia
 subnautica
 Subnautica_Below_Zero
+SUBREDDITNAME
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
 subsithoughtifellfor
@@ -4975,6 +4977,7 @@ VictoriaBC
 videogamedunkey
 videomemes
 videos
+VietNam
 vikingstv
 VillagePorn
 vim
