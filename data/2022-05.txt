@@ -382,6 +382,7 @@ AskUK
 Asmongold
 asoiaf
 aspergers
+ASRoma
 assassinscreed
 AssassinsCreedMemes
 AssassinsCreedOdyssey
@@ -519,6 +520,7 @@ battletech
 batty
 bayarea
 Bayonetta
+BBIG
 BBQ
 Beachporn
 beagle
@@ -1608,6 +1610,7 @@ EpicSeven
 equelMemes
 Equestrian
 Eragon
+Eredivisie
 EscapefromTarkov
 esist
 esports
@@ -1983,6 +1986,7 @@ GenUsa
 GenX
 GenZHumor
 geography
+geoguessr
 geology
 geometrydash
 geopolitics
@@ -2710,6 +2714,7 @@ KSPMemes
 KujouSaraMains
 KukiShinobuMains
 KumoDesu
+kurtisconner
 Kurumi
 kurzgesagt
 KUWTKsnark
@@ -3724,6 +3729,7 @@ PhonesAreBad
 photocritique
 photoshop
 photoshopbattles
+PhotoshopRequest
 Physics
 physicsgifs
 physicsmemes
@@ -4022,6 +4028,7 @@ Republica_Argentina
 RepublicadeChile
 Republican
 RepublicanValues
+repurposedbuildings
 rescuedogs
 Residency
 residentevil
@@ -4501,6 +4508,7 @@ starwarsmemes
 starwarsrebels
 starwarsspeculation
 staryuuki
+stateball
 stateofMN
 steak
 Stealthbombers
@@ -4585,6 +4593,7 @@ SupermodelCats
 SupermodelDogs
 Supernatural
 supersentai
+supersmashbros
 Superstonk
 superstore
 SuperStructures
@@ -5173,6 +5182,7 @@ VoteDEM
 VRchat
 VRGaming
 VShojo
+vtmb
 vuejs
 Vulfpeck
 vultureculture
@@ -5350,6 +5360,7 @@ WorldEaters40k
 worldjerking
 worldnews
 worldnewsvideo
+worldofpvp
 WorldofTanks
 WorldOfTanksBlitz
 WorldOfWarships
