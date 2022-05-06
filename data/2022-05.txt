@@ -256,6 +256,7 @@ Anime_Romance
 anime_titties
 animearmor
 AnimeART
+AnimeBlush
 AnimeBurgers
 animecirclejerk
 Animedubs
@@ -2187,6 +2188,7 @@ hamsters
 HandfulOfKitten
 handholding
 Handwriting
+HannibalTV
 happy
 happycowgifs
 happycrowds
@@ -5007,6 +5009,7 @@ TransLater
 transmasc_irl
 Transmatfiring
 Transmogrification
+trap
 trashpandas
 TrashTaste
 trashy
@@ -5307,6 +5310,7 @@ WeatherGifs
 WeatherPorn
 webcomics
 webdev
+webtoons
 wec
 wedding
 weddingdress
@@ -5344,6 +5348,7 @@ whatcouldgoright
 Whatcouldgowrong
 whatintarnation
 whatisthiscar
+WhatsInThisThing
 whatsthisbird
 whatsthisbug
 whatsthisplant
