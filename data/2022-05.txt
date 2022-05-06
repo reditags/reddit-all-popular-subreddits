@@ -186,6 +186,7 @@ alpaca
 AlternateAngles
 AlternateHistory
 alternativeart
+AlternativeHistory
 AlzheimersGroup
 Alzwards_Corner
 AMA
@@ -1506,6 +1507,7 @@ dogsonroofs
 dogswearinghats
 dogswithjobs
 Dogtraining
+dogvideos
 DokkanBattleCommunity
 Dominique3nsfw
 donaldglover
@@ -1578,6 +1580,7 @@ dxm
 DylanteroYT
 DynastyFF
 Dyson_Sphere_Program
+E30
 earthbound
 Earthchan
 EarthPorn
@@ -2182,6 +2185,7 @@ Guacamole_penis
 GuardianTales
 GuerrillaGardening
 Guildwars2
+GuiltyDogs
 Guiltygear
 guineapigs
 Guitar
@@ -2942,6 +2946,7 @@ linuxmemes
 listentothis
 lithuania
 LitterboxComics
+littlebuddies
 LittleNightmares
 LittleNuns
 LittleWitchAcademia
@@ -4098,9 +4103,11 @@ RDR2
 Re_Zero
 reactiongifs
 reactionpics
+reactjs
 readanotherbook
 ReadyOrNotGame
 real_China_irl
+RealBeesFakeTopHats
 RealCuba
 realestateinvesting
 reallifedoodles
@@ -4604,6 +4611,7 @@ SquarePosting
 squidgame
 squishmallow
 squishypuppers
+SRAWeekend
 SrGrafo
 SS13
 SSBM
