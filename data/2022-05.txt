@@ -486,6 +486,7 @@ BadMUAs
 badredman
 badtaxidermy
 badUIbattles
+bakeoff
 Baking
 baldursgate
 BaldursGate3
@@ -1474,6 +1475,7 @@ dogecoin
 dogelore
 Doggles
 Dogloaf
+dogmemes
 dogpictures
 dogs
 dogs_getting_dogs
@@ -1899,6 +1901,7 @@ FromKittenToCat
 FromPuppyToDog
 fromsoftware
 frontfootporn
+Frostpunk
 Frugal
 frugalmalefashion
 Fruitbatcats
@@ -3591,6 +3594,7 @@ OldSchoolRidiculous
 Oldtimer
 oliviadunne
 OliviaRodrigo
+OliviaRodrigo_
 olympics
 OmadDiet
 Omaha
