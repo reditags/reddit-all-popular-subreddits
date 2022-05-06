@@ -665,6 +665,7 @@ BloodHunt
 Bloomer
 blop
 BlueLock
+BlueMidterm2018
 bluey
 blunderyears
 blurrypicturesofcats
@@ -934,6 +935,7 @@ centuryhomes
 Ceramics
 CFB
 Chadposting
+chadsriseup
 Chadtopia
 Chainsawfolk
 ChainsawMan
@@ -1007,6 +1009,7 @@ cincinnati
 Cinema4D
 Cinemagraphs
 cinematography
+CineShots
 circlejerk
 CirclejerkSopranos
 cirkeltrek
@@ -1072,6 +1075,7 @@ Columbus
 combinedgifs
 comedyamputation
 ComedyArchaeology
+comedybangbang
 ComedyCemetery
 comedyepilepsy
 ComedyFlogging
@@ -1776,6 +1780,7 @@ Filmmakers
 FilthyFrank
 FinalFantasy
 FinalFantasyVII
+FinalFantasyVIII
 finance
 FinancialCareers
 financialindependence
@@ -1805,6 +1810,7 @@ FL_Studio
 Flamepoints
 flashlight
 FlashTV
+Fleabag
 FleshPitNationalPark
 flightsim
 Floof
@@ -2161,6 +2167,7 @@ Guiltygear
 guineapigs
 Guitar
 guitarcirclejerk
+guitarlessons
 guitarporn
 guitars
 Gundam
@@ -2675,6 +2682,7 @@ JustMonika
 justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
+Juve
 k_on
 KaelaniSkye
 KaeyaMains
@@ -3168,6 +3176,7 @@ MicrosoftFlightSim
 MicrosoftRewards
 Mid_Century
 MietteDiaries
+Miitopia
 MikaLafuente
 mikeburnfire
 MikuNakano
@@ -4130,6 +4139,7 @@ retrobattlestations
 RetroBowl
 RetroFuturism
 retrogaming
+revancedapp
 reverseanimalrescue
 RheaRipley
 RhodeIsland
@@ -4169,6 +4179,7 @@ ronperlmancats
 RoomPorn
 roosterteeth
 ror2
+RosariaMains
 rose
 Rotterdam
 Rottweiler
