@@ -1416,6 +1416,7 @@ DeathStranding
 DebateVaccines
 DebtStrike
 DecidingToBeBetter
+DeclineIntoCensorship
 DecreasinglyVerbose
 dedreviil
 deepdream
@@ -2321,6 +2322,7 @@ hammy_tv
 hamsters
 HandfulOfKitten
 handholding
+HandOfMemes
 Handwriting
 HannibalTV
 happy
@@ -2588,6 +2590,7 @@ ImaginaryMonsters
 ImaginaryNobles
 ImaginaryPathways
 imaginarypets
+ImaginaryScholars
 ImaginarySeascapes
 ImaginarySliceOfLife
 ImaginarySoldiers
@@ -3604,6 +3607,7 @@ NewOrleans
 NewParents
 NewPatriotism
 news
+NewSkaters
 NewVegasMemes
 newworldgame
 newyorkcity
@@ -4143,6 +4147,7 @@ prettyasiangirls
 prey
 preyingmantis
 Priconne
+PrimeiraLiga
 PrimitiveTechnology
 PrincessesOfPower
 PrintedMinis
@@ -5427,6 +5432,7 @@ unpopularopinion
 unrealengine
 UnresolvedMysteries
 UnsentLetters
+UnsolvedMysteries
 unstirredpaint
 untrustworthypoptarts
 unturned
