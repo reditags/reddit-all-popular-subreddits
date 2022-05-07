@@ -555,6 +555,7 @@ bayarea
 Bayonetta
 BBIG
 BBQ
+BeachCity
 Beachporn
 beadsprites
 beagle
@@ -1030,10 +1031,12 @@ ChoosingBeggars
 ChoujinX
 chrissycostanza
 Christianity
+christianmemes
 christmas
 ChronicIllness
 chronotrigger
 ChurchofBelly
+ChurchofChie
 churchoffutaba
 churchofharu
 ChurchofKawakami
@@ -1184,6 +1187,7 @@ copenhagen
 copypasta
 cordcutters
 corgi
+corgibutts
 cork
 Cornell
 Coronavirus
@@ -1264,6 +1268,7 @@ Cryptozoology
 Crystals
 cscareerquestions
 csgo
+csharp
 csMajors
 Cubers
 Cuddle_Slut
@@ -1293,6 +1298,7 @@ customhearthstone
 custommagic
 CustomPlayerCutscene
 cute
+Cutedogsreddit
 cutegayshit
 cuteguys
 cuteguyswithcats
@@ -1709,6 +1715,7 @@ Entomology
 Entrepreneur
 entwives
 environment
+Epicentr
 EpicMounts
 EpicSeven
 equelMemes
@@ -2029,6 +2036,7 @@ FunnyandSad
 FunnyAnimals
 funnycats
 FunnyDogVideos
+funnymeme
 Funnymemes
 funnypets
 funnysigns
@@ -2048,6 +2056,7 @@ futureporn
 Futurology
 FWFBThinkTank
 G59
+GabrielDropout
 gachagaming
 gadgets
 GalaxysEdge
@@ -2701,6 +2710,7 @@ IzuOcha
 jackass
 jackrussellterrier
 jacksepticeye
+jackstauber
 JackSucksAtLife
 Jaguars
 Jaharia
@@ -2869,6 +2879,7 @@ Klengan
 KneadyCats
 knifeclub
 knifemaking
+KnitHacker
 knives
 knolling
 KoboldLegion
@@ -3098,6 +3109,7 @@ LoveIslandTV
 lovejoyband
 LoveLive
 LoveNikki
+LowAltitudeJets
 LowerCaseScreams
 LowSodiumDestiny
 LowSodiumHalo
@@ -3312,6 +3324,7 @@ MildlyStartledCats
 mildlyvagina
 MildlyVandalised
 mildyinfuriating
+milesprower
 Military
 MilitaryGfys
 MilitaryHistory
@@ -3776,6 +3789,7 @@ oneplus
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
+OneTopicAtATime
 onetruegod
 OneyPlays
 onguardforthee
@@ -4436,6 +4450,7 @@ ScienceNcoolThings
 scifi
 SCJerk
 Scoobydoo
+Scotch
 Scotland
 ScottishFootball
 ScottishPeopleTwitter
@@ -4947,6 +4962,7 @@ tarantulas
 Target
 TargetedShirts
 TarkovMemes
+tarot
 taskmaster
 tasmania
 tattoo
@@ -5476,6 +5492,7 @@ virtualreality
 Visiblemending
 visualnovels
 vita
+Vivy
 Vocaloid
 void_memes
 VoidCake
@@ -5541,6 +5558,7 @@ Waterdogs
 WattsonMains
 WayOfTheBern
 WeaponsMoe
+WeAreTheMusicMakers
 WeatherGifs
 WeatherPorn
 webcomics
