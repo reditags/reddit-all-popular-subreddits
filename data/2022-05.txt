@@ -1019,6 +1019,7 @@ churchofharu
 ChurchofKawakami
 ChurchOfMarin
 ChurchofMarnie
+ChurchOfMinaAshido
 ChurchOfPyra
 churchofskadi
 chuunibyou
@@ -1245,6 +1246,7 @@ csgo
 csMajors
 Cubers
 Cuddle_Slut
+CuddlePuddle
 cuddleroll
 CuddlyKitties
 CulinaryPlating
@@ -1404,6 +1406,7 @@ DemocraticSocialism
 democrats
 DEMONDICE
 DemonSchoolIrumakun
+DemonSlayer
 DemonSlayerAnime
 demonssouls
 Demotivational
@@ -1466,6 +1469,7 @@ DINgore
 Dinosaurs
 dioramas
 DiretoDoZapZap
+Dirtbikes
 DirtyMemes
 DirtySionMains
 discgolf
@@ -1542,6 +1546,7 @@ doommetal
 doordash
 doordash_drivers
 dopehumor
+Dorohedoro
 DotA2
 doughboys
 DoveCameron
@@ -2123,6 +2128,7 @@ GirlsUndShitposts
 girlswithbigmuscles
 gis
 givemeinteligens
+glassanimals
 glitch_art
 Glitch_in_the_Matrix
 GlitchInTheMatrix
@@ -2639,6 +2645,7 @@ ironicsigns
 ironmaiden
 ironscape
 IrrationalMadness
+Ishowspeed
 islam
 IslamicHistoryMeme
 isopods
@@ -2741,6 +2748,7 @@ Justfuckmyshitup
 justgamedevthings
 JustGuysBeingDudes
 JusticeForJohnnyDepp
+JusticePorn
 JusticeServed
 JustMonika
 justneckbeardthings
@@ -3153,6 +3161,7 @@ MassEffectMemes
 masterduel
 masterhacker
 MasterReturns
+Mastiff
 mathmemes
 matrix
 mattcolville
@@ -5217,6 +5226,7 @@ TurkishCats
 turtleswithjobs
 TuxedoCats
 TVDetails
+TVTooHigh
 twentyonepilots
 TwentyYearsAgo
 twicemedia
@@ -5507,6 +5517,7 @@ Wellworn
 WestSubEver
 WestVirginia
 WetlanderHumor
+wewantcups
 WeWantPlates
 wgbeforeafter
 WhatAWeeb
