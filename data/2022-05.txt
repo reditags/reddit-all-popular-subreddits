@@ -190,6 +190,7 @@ AliceEve
 AliceInChains
 aliens
 alpaca
+altdogelore
 AlternateAngles
 AlternateHistory
 alternativeart
@@ -1705,6 +1706,7 @@ EmpireDidNothingWrong
 ems
 emulation
 EmulationOnAndroid
+Emuwarflashbacks
 ender3
 energy
 ENFP
@@ -1841,6 +1843,7 @@ fasting
 FastWorkers
 fatcats
 fcbayern
+FCCincinnati
 fcporto
 fednews
 feedthebeast
@@ -3373,6 +3376,7 @@ MildlyStartledCats
 mildlyvagina
 MildlyVandalised
 mildyinfuriating
+mildyinteresting
 milesprower
 Military
 MilitaryGfys
@@ -3569,6 +3573,7 @@ nashville
 NatalieDormer
 natalieportman
 NathalieEmmanuel
+nathanforyou
 NationalPark
 Nationals
 NativePlantGardening
@@ -4049,6 +4054,7 @@ pinkfloyd
 PinkFloydCircleJerk
 PinkOmega
 Pinup
+pinx
 Piracy
 PiratedGames
 Piratefolk
@@ -4516,6 +4522,7 @@ science
 sciencefiction
 sciencememes
 ScienceNcoolThings
+ScientificArt
 scifi
 SCJerk
 Scoobydoo
@@ -5603,6 +5610,7 @@ walkaway
 wallpaper
 wallpaperengine
 wallstreetbets
+WallStreetbetsELITE
 Wallstreetbetsnew
 Wallstreetsilver
 walmart
