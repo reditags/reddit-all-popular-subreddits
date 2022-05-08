@@ -1021,6 +1021,7 @@ Cheese
 CheetoTheCat
 chefknives
 chelseafc
+chelsealadiesfc
 chemicalreactiongifs
 chemistry
 chemistrymemes
@@ -1231,6 +1232,7 @@ CovIdiots
 cowboybebop
 cowboys
 cowcats
+Cows
 coys
 cozy
 CozyPlaces
@@ -2462,6 +2464,7 @@ homeautomation
 HomeDecorating
 homegym
 HomeImprovement
+HomeKit
 homelab
 HomePod
 HomestarRunner
@@ -3238,6 +3241,7 @@ MakeupLounge
 MaladaptiveDreaming
 MalayalamMovies
 malaysia
+malaysians
 Malazan
 malcolminthemiddle
 malehairadvice
@@ -3252,6 +3256,7 @@ MandelaCatalogue
 MandJTV
 MangaCollectors
 MangaMemes
+manganews
 manhwa
 MannausSachsen
 Maplestory
@@ -3633,6 +3638,7 @@ nebelung
 NeckbeardNests
 necromunda
 Necrontyr
+nederlands
 needforspeed
 Needlefelting
 neekolul
@@ -4381,6 +4387,7 @@ ReefTank
 ReevesBatmanmemes
 regretfulparents
 regularcarreviews
+RegularRevenge
 regularshow
 reisende
 relationship_advice
@@ -4746,6 +4753,7 @@ skiing
 Skincare_Addiction
 SkincareAddicts
 Skookum
+skoolies
 Skullgirls
 SkweezyJibbs
 SkyGame
@@ -4758,6 +4766,7 @@ SkyrimPorn
 skyrimvr
 slammywhammies
 SlavaUkrayini
+slavs_squatting
 slaythespire
 SleepingCats
 slimerancher
@@ -4815,6 +4824,7 @@ SoulKnight
 SoulSnacks
 SoulsSliders
 SoundersFC
+SoundsLikeMusic
 soup
 Sourdough
 sousvide
@@ -5400,6 +5410,7 @@ trouduction
 TruckerCats
 Truckers
 Trucks
+trucksim
 TrueAnon
 TrueAtheism
 truechildfree
@@ -5444,6 +5455,7 @@ Twitch
 TwitchMains
 twittermoment
 Twokinds
+twomad
 TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
