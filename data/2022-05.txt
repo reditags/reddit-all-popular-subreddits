@@ -580,6 +580,7 @@ beadsprites
 beagle
 BeAmazed
 BeamNG
+BeansInStrangePlaces
 BeansInThings
 BeardedDragons
 beards
@@ -2020,6 +2021,7 @@ FoundryVTT
 foundsatan
 FoundTheGerman
 FoundTheInaAlt
+FoundTheJedi
 fountainpens
 fourthwavewomen
 foxes
