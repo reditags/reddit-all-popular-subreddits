@@ -442,6 +442,7 @@ ATLA
 Atlanta
 AtlantaHawks
 AtlantaTV
+AtlantaUnited
 ATLAverse
 atrioc
 attackeyes
@@ -499,6 +500,7 @@ AZCardinals
 azerbaijan
 aznidentity
 BABESINC0MICSANDGAMES
+BabiesReactingToStuff
 babushkadogs
 Babushkats
 babyanimals
@@ -1166,6 +1168,7 @@ comedynecromancy
 ComedyNecrophilia
 comfypasta
 comicbookcollecting
+comicbookmovies
 comicbooks
 comics
 commandandconquer
@@ -3126,6 +3129,7 @@ liberta
 Libertarian
 libertarianmeme
 librandu
+Libraries
 libsofreddit
 lies
 LiesZhara
@@ -3543,6 +3547,7 @@ mona
 monarchism
 Monero
 Monke
+monkslookingatbeer
 Monstera
 MonsterHigh
 MonsterHunter
@@ -3856,6 +3861,7 @@ octopathtraveler
 octopus
 oculus
 OculusQuest
+oddlymesmerizing
 oddlysatisfying
 oddlyspecific
 oddlyterrifying
@@ -4402,6 +4408,7 @@ RDR2
 Re_Zero
 reactiongifs
 reactionpics
+reactivedogs
 reactjs
 readanotherbook
 ReadyOrNotGame
@@ -4670,6 +4677,7 @@ seiyuu
 Sekiro
 self
 SelfAwarewolves
+selfharm_memes
 selfhosted
 selfie
 selfimprovement
@@ -5265,6 +5273,7 @@ TheBidenshitshow
 thebindingofisaac
 TheBoys
 TheBullWins
+TheCapeRevolution
 thecatdimension
 TheCatTrapIsWorking
 TheCinemassacre
@@ -5354,6 +5363,7 @@ ThotBeatdowns
 ThousandSons
 thumbcats
 Thunder
+ThunderThots
 tiedye
 Tierzoo
 tifu
@@ -5438,6 +5448,7 @@ TowerofGod
 TownofSalemgame
 ToyotaTacoma
 TPoseMemes
+trackandfield
 TrackMania
 tractors
 traderjoes
@@ -5774,6 +5785,7 @@ WatchDogsWoofInside
 watcherentertainment
 Watches
 Watchexchange
+Watchmen
 WatchPeopleDieInside
 watchpeoplesurvive
 watchthingsfly
@@ -6008,6 +6020,7 @@ youngpeopleyoutube
 YoungThug
 Youniqueamua
 YouniquePresenterMS
+YourJokeButWorse
 YourLieinApril
 yourmomshousepodcast
 YourRAGE
