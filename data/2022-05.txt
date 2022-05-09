@@ -628,6 +628,7 @@ Best_tattoos
 bestof
 bestoflegaladvice
 BestofRedditorUpdates
+BestOfReports
 bestoftheinternet
 bettafish
 betterCallSaul
@@ -1562,6 +1563,7 @@ disneyvacation
 DisneyWorld
 distractible
 distressingmemes
+dividends
 DivinityOriginalSin
 DivorcedBirds
 DiWHY
@@ -2052,6 +2054,7 @@ freefolk
 freefromwork
 FreeGameFindings
 freemagic
+FREEMEDIAHECKYEAH
 FreeSpeech
 FreezingFuckingCold
 French
@@ -2344,6 +2347,7 @@ guitarcirclejerk
 guitarlessons
 guitarporn
 guitars
+GunAccessoriesForSale
 Gundam
 gundeals
 Gunners
@@ -2974,6 +2978,7 @@ KingdomHearts
 KingkillerChronicle
 KingOfTheHill
 kings
+kintsugi
 Kirby
 KitchenConfidential
 kitchener
@@ -3086,6 +3091,7 @@ LearnUselessTalents
 Leathercraft
 leaves
 lebowski
+ledzeppelin
 left_urbanism
 LeftistGamersUnion
 leftistvexillology
@@ -3864,6 +3870,7 @@ OculusQuest
 oddlymesmerizing
 oddlysatisfying
 oddlyspecific
+oddlyspecificshirts
 oddlyterrifying
 ofcoursethatsathing
 offbeat
@@ -4487,6 +4494,7 @@ RetroFuturism
 retrogaming
 revancedapp
 reverseanimalrescue
+ReversePinterest
 RheaRipley
 RhodeIsland
 riasgremory
@@ -4516,6 +4524,7 @@ Rochester
 rock
 RocketLeague
 RocketLeagueEsports
+rockets
 rockhounds
 rodentintercourse
 rolex
@@ -5540,6 +5549,7 @@ twomad
 TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
+TwoXADHD
 TwoXChromosomes
 TwoXIndia
 TwoXPreppers
@@ -5799,6 +5809,7 @@ WeaponsMoe
 WeAreTheMusicMakers
 WeatherGifs
 WeatherPorn
+weaving
 webcomics
 webdev
 webtoons
@@ -5895,6 +5906,7 @@ wildhockey
 wildlifephotography
 wildrift
 WildWestPics
+willwood
 wimmelbilder
 windows
 Windows10
