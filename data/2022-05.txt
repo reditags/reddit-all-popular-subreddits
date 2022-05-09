@@ -14,6 +14,7 @@
 19684
 197
 198
+199
 2007scape
 2020PoliceBrutality
 2137
@@ -120,6 +121,7 @@ ActualPublicFreakouts
 actuary
 AddisonRae
 Adelaide
+AdeptusCustodes
 AdeptusMechanicus
 ADHDinos
 adhdmeme
@@ -148,6 +150,7 @@ afkarena
 AFL
 AfricanHistory
 AfterEffects
+aftergifted
 AfterTheEndFanFork
 AfterVanced
 AgainstHateSubreddits
@@ -604,6 +607,7 @@ BeautyGuruChatter
 beberexha
 beebutts
 Beekeeping
+BeelcitosMemes
 beer
 beetlejuicing
 BeforeNAfterAdoption
@@ -926,6 +930,7 @@ Carpentry
 carporn
 CarryMinati
 carscirclejerk
+carshitposting
 Cartalk
 CarTalkUK
 CartoonMoment
@@ -1347,6 +1352,7 @@ cursedimages
 cursedjojo
 cursedmemes
 CursedMinecraft
+CursedTanks
 cursedtoilets
 cursedvideos
 CurseofStrahd
@@ -1659,6 +1665,7 @@ dragonballfighterz
 DragonballLegends
 Dragonballsuper
 dragonquest
+dragons
 DragonsDogma
 dragonutopia
 dragrace
@@ -1713,6 +1720,7 @@ earthbound
 Earthchan
 EarthPorn
 Earwolf
+EatCheapAndHealthy
 eatsandwiches
 EbonyImagination
 Economics
@@ -1802,6 +1810,7 @@ equelMemes
 Equestrian
 Eragon
 Eredivisie
+Erma
 es
 EscapefromTarkov
 ESFR
@@ -2835,6 +2844,7 @@ Iteration110Cradle
 ItHadToBeBrazil
 IThinkYouShouldLeave
 itookapicture
+itsaunixsystem
 ItsukiClassroom
 IttoMains
 ITZY
@@ -3266,6 +3276,7 @@ Louisiana
 Louisville
 loveafterlockup
 Lovecraft
+LoveDeathAndRobots
 LoveForLandlords
 LoveIsBlindOnNetflix
 LoveIslandTV
@@ -3830,6 +3841,7 @@ noisygifs
 noita
 NolanBatmanMemes
 NolanMemes
+NOLAPelicans
 NoLawns
 NoMansSkyTheGame
 nonbinarymemes
@@ -4239,6 +4251,7 @@ playrust
 playstation
 PlayStationPlus
 PleX
+PLTR
 Plumbing
 PlusSize
 PlusSizeFashion
@@ -4361,6 +4374,7 @@ ps2
 PS3
 PS4
 PS5
+PSVR
 psych
 Psychedelics
 psychology
@@ -4910,6 +4924,7 @@ Slycooper
 SlyGifs
 SmallAnimeTiddies
 smalllebowsky
+smallstreetbets
 smashbros
 SmashBrosUltimate
 smashmemes
