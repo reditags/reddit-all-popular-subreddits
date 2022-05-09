@@ -1693,6 +1693,7 @@ E30
 earthbound
 Earthchan
 EarthPorn
+Earwolf
 eatsandwiches
 EbonyImagination
 Economics
@@ -2836,6 +2837,7 @@ January6
 japan
 JapaneseFood
 JapaneseGameShows
+japanlife
 japanpics
 JARMEDIA
 Jarrariums
@@ -4195,6 +4197,7 @@ PlantedTank
 PlantGoths
 plants
 PlantsVSZombies
+playark
 playboicarti
 PlaydateConsole
 PlayItAgainSam
@@ -5624,6 +5627,7 @@ Unity2D
 Unity3D
 unixporn
 unket
+unlikelyfriends
 UnnecessaryInventions
 unOrdinary
 Unorthodog
