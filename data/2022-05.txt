@@ -1104,6 +1104,7 @@ CirclejerkSopranos
 cirkeltrek
 CitiesSkylines
 CitrusManga
+citypop
 CityPorn
 civ
 civ5
@@ -3772,6 +3773,7 @@ NewSkaters
 NewVegasMemes
 newworldgame
 newyorkcity
+NewYorkIslanders
 NewYorkMets
 newzealand
 NewZealandWildlife
