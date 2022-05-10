@@ -297,6 +297,7 @@ AnimeMeme
 animememes
 Animemes
 AnimeMirchi
+AnimeMusicians
 animenocontext
 AnimeNoises
 animepiracy
@@ -2430,6 +2431,7 @@ h3h3productions
 H3VR
 Habs
 hacking
+Hacking_Tutorials
 HadesTheGame
 HadToHurt
 haikyuu
@@ -3868,6 +3870,7 @@ Ninjago
 NinjaSexParty
 nintendo
 NintendoMemes
+NintendoPH
 NintendoStitch
 NintendoSwitch
 NintendoSwitchDeals
