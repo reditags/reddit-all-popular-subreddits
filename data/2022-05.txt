@@ -393,6 +393,7 @@ ArchetypMarket
 ArchitecturalRevival
 architecture
 ArchitecturePorn
+archlinux
 arcticmonkeys
 ArdsPOTD
 arduino
@@ -506,6 +507,7 @@ AustralianTeachers
 Austria
 autism
 AutismInWomen
+AutisticAdults
 AutisticPride
 AutoDetailing
 Autoflowers
@@ -1172,6 +1174,7 @@ cinematography
 CineShots
 circlejerk
 CirclejerkSopranos
+circojeca
 cirkeltrek
 CitiesSkylines
 CitrusManga
@@ -5436,6 +5439,7 @@ StrangerThings
 Strava
 straykids
 streetart
+streeteats
 StreetFighter
 StreetMartialArts
 streeto
