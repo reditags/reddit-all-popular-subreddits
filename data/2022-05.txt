@@ -216,6 +216,7 @@ AlternativeHistory
 AlzheimersGroup
 Alzwards_Corner
 AMA
+AmateurEarthPorn
 amateurradio
 AmateurRoomPorn
 amazingmemes
@@ -1553,7 +1554,10 @@ deadbydaylight
 deadcells
 deadmalls
 deadmeatjames
+DeadSpace
+deathbattle
 DeathByMillennial
+Deathcore
 deathgrips
 deathguard40k
 Deathloop
@@ -1565,6 +1569,7 @@ DebateVaccines
 DebtStrike
 DecidingToBeBetter
 DeclineIntoCensorship
+declutter
 DecreasinglyVerbose
 dedreviil
 deepdream
@@ -2306,6 +2311,7 @@ Gamingcirclejerk
 GamingDetails
 GamingLaptops
 GamingLeaksAndRumours
+gamingpc
 gangplankmains
 gangstaswithwaifus
 gangweed
@@ -3525,6 +3531,7 @@ magicbuilding
 MagicEye
 magicthecirclejerking
 Mahouka
+maiaknight
 maidsonskates
 Maine
 MaineCoon
@@ -3932,6 +3939,7 @@ NASCAR
 nashville
 NatalieDormer
 natalieportman
+NatalieRoush
 NathalieEmmanuel
 nathanforyou
 NationalPark
@@ -4444,6 +4452,7 @@ pics
 PicsOfUnusualBirds
 piercing
 PietSmiet
+pigeon
 pigs
 Pikabu
 Pikmin
@@ -5161,6 +5170,7 @@ SiliconValleyHBO
 Silksong
 Silmarillionmemes
 Silverbugs
+silverhair
 simpleliving
 simpsonsshitposting
 simracing
@@ -5785,6 +5795,7 @@ titleporn
 tja
 TLCsisterwives
 TLCUnexpected
+TMNT
 TNOmod
 toarumajutsunoindex
 toastme
