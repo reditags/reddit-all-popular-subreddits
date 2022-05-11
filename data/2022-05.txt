@@ -560,6 +560,7 @@ BadMUAs
 badredman
 badtaxidermy
 badUIbattles
+bakchodi
 bakeoff
 Baking
 baldursgate
@@ -956,6 +957,7 @@ canberra
 CandicePatton
 canes
 cannabis
+cannabiscultivation
 canucks
 CapitalismSux
 CapitolConsequences
@@ -1300,6 +1302,7 @@ CoolGadgetsTube
 coolguides
 copenhagen
 copypasta
+coral_sharon
 cordcutters
 corgi
 corgibutts
@@ -2593,6 +2596,7 @@ HeavySeas
 HecklerKoch
 HeckThisIsWholesome
 Hedgehog
+Hedgehogs
 heeheeheehaw
 HelicopterAddict
 Helicopters
@@ -3152,6 +3156,7 @@ Kerala
 KerbalSpaceProgram
 keto
 ketorecipes
+kfeets
 KGATLW
 KGBTR
 khajiithaswares
@@ -4003,6 +4008,7 @@ nihilism
 Nijisanji
 NikkitaLyonsWWE
 nin
+NinaDobrev
 Ningen
 NingguangMains
 Ninjago
@@ -5181,6 +5187,7 @@ Smugs
 smurfdomuca
 snakes
 SnakesWithHats
+SNDL
 SneakyAnimals
 Sneks
 snes
@@ -5396,6 +5403,7 @@ submechanophobia
 subnautica
 Subnautica_Below_Zero
 SUBREDDITNAME
+SubsIFellFor
 SubSimGPT2Interactive
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
