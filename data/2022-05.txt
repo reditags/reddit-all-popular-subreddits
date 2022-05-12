@@ -524,6 +524,7 @@ Avatar
 AvatarMemes
 Avengers
 aves
+avfc
 aviation
 aviationmaintenance
 aviationmemes
@@ -3165,6 +3166,7 @@ juliensolomita
 Jungle_Mains
 junjiito
 JurassicMemes
+JurassicPark
 jurassicworldevo
 justa
 JustBootThings
@@ -3819,6 +3821,7 @@ Minecraft
 Minecraftbuilds
 MinecraftChampionship
 MinecraftCommands
+MinecraftDaily
 MinecraftDungeons
 Minecrafthmmm
 MinecraftMemes
@@ -5580,6 +5583,7 @@ sunraybee
 suns
 sunset
 Suomi
+SuperAthleteGifs
 superautopets
 Superbowl
 superman
