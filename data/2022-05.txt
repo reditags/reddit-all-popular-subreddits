@@ -2553,6 +2553,7 @@ guitars
 GunAccessoriesForSale
 Gundam
 gundeals
+Gunime
 Gunners
 Gunpla
 gunpolitics
@@ -5224,6 +5225,7 @@ silverhair
 simpleliving
 simpsonsshitposting
 simracing
+Simracingstewards
 sims2
 Sims3
 Simulated
@@ -5370,6 +5372,7 @@ spongebob
 SpongebobMemes
 spooktober
 Spore
+SportingCP
 sports
 sportsarefun
 sportsbook
@@ -5891,6 +5894,7 @@ ToothpasteBoys
 TopGear
 TopMindsOfReddit
 toptalent
+Tor2DoorMarket_
 toradora
 tornado
 Torontobluejays
@@ -6288,6 +6292,7 @@ waterloo
 WattsonMains
 WayOfTheBern
 WeaponsMoe
+WeAreAllTurks
 WeAreTheMusicMakers
 WeatherGifs
 WeatherPorn
@@ -6539,6 +6544,7 @@ YuB
 yugioh
 YuGiOhMasterDuel
 YuGiOhMemes
+yuna
 yunyun
 YUROP
 yuumimains
