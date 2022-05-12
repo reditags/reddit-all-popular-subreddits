@@ -619,6 +619,7 @@ BattlePaintings
 battles2
 battlestations
 battletech
+Battletechgame
 batty
 bayarea
 Bayley
@@ -2589,6 +2590,7 @@ hamiltonmemes
 hamiltonmusical
 Hammers
 hammy_tv
+hamsterlove
 hamsters
 HandfulOfKitten
 handholding
@@ -2730,6 +2732,7 @@ HonkaiStarRail_leaks
 HonzukiNoGekokujou
 Horimiya
 horizon
+HorizonForbiddenWest
 Hornyjail
 horror
 horrorlit
@@ -2824,6 +2827,7 @@ Idiotswithguns
 IDontWorkHereLady
 IfIFitsISits
 iforgorthesubname
+igcse
 ihadastroke
 ihavereddit
 iiiiiiitttttttttttt
@@ -3284,6 +3288,7 @@ Kurisutina
 kurtisconner
 Kurumi
 kurzgesagt
+kutautos
 Kuwait
 KUWTKsnark
 Kyousaya
@@ -3379,6 +3384,7 @@ LEMMiNO
 lemondemon
 leopardgeckos
 LeopardsAteMyFace
+LeopardsAteMyFacePH
 LesbianActually
 lesbianfashionadvice
 LesbianInsectBrothel
@@ -4991,6 +4997,7 @@ sanpedrocactus
 sanrio
 saopaulo
 SapphoAndHerFriend
+SarahHyland
 Sardonicast
 sashasanchex
 saskatchewan
