@@ -567,6 +567,7 @@ BadChoicesGoodStories
 badcode
 BadDesigns
 Badfaketexts
+badfriendspod
 badmathematics
 BadMUAs
 badredman
@@ -6005,6 +6006,7 @@ treedibles
 trees
 TreesSuckingOnThings
 Treknobabble
+tressless
 tretinoin
 TriangleStrategy
 Trigun
