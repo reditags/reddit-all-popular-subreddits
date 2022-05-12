@@ -1195,6 +1195,7 @@ civ
 civ5
 civilengineering
 CivVI
+CK3AGOT
 ClashMini
 ClashOfClans
 ClashRoyale
@@ -1870,6 +1871,7 @@ electricdaisycarnival
 electricians
 electricvehicles
 ElectroBOOM
+electronicmusic
 electronics
 EliteDangerous
 eliteexplorers
@@ -1929,6 +1931,7 @@ Entrepreneur
 entwives
 environment
 Epicentr
+EpicGamesPC
 EpicMounts
 EpicSeven
 Epstein
@@ -2839,6 +2842,7 @@ IkeaFreshBalls
 ikeahacks
 ilikthebred
 IllegalLifeProTips
+illegallybigcats
 IllegallySmol
 illegallysmolanimals
 illegallysmolbirbs
@@ -3030,6 +3034,7 @@ ironicsigns
 ironmaiden
 ironscape
 IrrationalMadness
+IsabelaMerced
 Ishowspeed
 IsItBullshit
 islam
@@ -3564,6 +3569,7 @@ madisonwi
 madnesscombat
 MadokaMagica
 MadyGioOfficial
+MAFS_AU
 MagicArena
 magicbuilding
 MagicEye
@@ -3575,12 +3581,14 @@ maidsonskates
 Maine
 MaineCoon
 mainecoons
+maisiewilliams
 majonotabitabi
 MakeMeSuffer
 MakeMeSufferMore
 Makeup
 MakeupAddiction
 MakeupLounge
+MakeWay4QueensGuard
 MaladaptiveDreaming
 MalayalamMovies
 malaysia
@@ -4269,6 +4277,7 @@ oliviadunne
 OliviaMunn
 OliviaRodrigo
 OliviaRodrigo_
+OliviaTaylorDudley
 olympics
 OmadDiet
 Omaha
@@ -4460,6 +4469,7 @@ PetTheDamnKitty
 pettyrevenge
 PewdiepieSubmissions
 PeytonCoffee_nsfw
+PeytonList
 peyups
 PhantomForces
 pharmacy
@@ -5657,6 +5667,7 @@ technicalminecraft
 Techno
 Technoblade
 technology
+TechNope
 techsupportgore
 techsupportmacgyver
 techwearclothing
@@ -6483,6 +6494,7 @@ xboxone
 XboxSeriesS
 XboxSeriesX
 Xcom
+XCOM2
 Xenoblade_Chronicles
 Xenonion
 XFiles
