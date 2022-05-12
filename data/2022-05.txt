@@ -1948,6 +1948,7 @@ EtherMining
 ethfinance
 ethoslab
 ethtrader
+EtikaRedditNetwork
 etymology
 eu4
 eu_nvr
@@ -3592,6 +3593,7 @@ MangaMemes
 manganews
 manhwa
 MannausSachsen
+ManufacturingPorn
 Maplestory
 mapmaking
 MapPorn
@@ -5380,6 +5382,7 @@ srilanka
 SS13
 SSBM
 sskfjkhwerjkghwerijh
+ssunbiki
 Stadia
 StainedGlass
 stalker
@@ -5457,6 +5460,7 @@ Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
 StoppedWorking
+stopperpacks
 StoriesAboutKevin
 Stormlight_Archive
 straightenedfeetsies
@@ -6048,6 +6052,7 @@ UnethicalLifeProTips
 Unexpected
 UnexpectedB99
 unexpectedcommunism
+unexpectedfactorial
 unexpectedfuturama
 unexpecteditcrowd
 unexpectedjihad
