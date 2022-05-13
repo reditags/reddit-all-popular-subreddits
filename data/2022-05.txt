@@ -296,6 +296,7 @@ AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
 AnimalsOnReddit
+Animalsthatlovemagic
 AnimalTextGifs
 animation
 anime_irl
@@ -669,6 +670,7 @@ beebutts
 Beekeeping
 BeelcitosMemes
 beer
+bees
 beetlejuicing
 BeforeNAfterAdoption
 BeginnerWoodWorking
@@ -955,6 +957,7 @@ Buttcoin
 BuyItForLife
 byebyejob
 ByzantineMemes
+C25K
 C_AT
 CabinPorn
 cableporn
@@ -1607,6 +1610,7 @@ DeathrattlePorn
 DeathStranding
 DebateVaccines
 DebtStrike
+dechonkers
 DecidingToBeBetter
 DeclineIntoCensorship
 declutter
@@ -1817,6 +1821,7 @@ Drawfee
 drawing
 Dreams
 dreamsmp
+Dreamtheater
 DreamWasTaken
 DreamWasTaken2
 DrewDurnil
@@ -1941,6 +1946,7 @@ engrish
 EnjiNight
 ENLIGHTENEDCENTRISM
 enlistedgame
+Enneagram
 Enough_Sanders_Spam
 Enough_Vaush_Spam
 EnoughCommieSpam
@@ -3751,6 +3757,7 @@ MechanicAdvice
 mechanical_gifs
 Mechwarrior5
 MedicalGore
+Medievalart
 MedievalCats
 MedievalHistoryMemes
 Meditation
@@ -4911,6 +4918,7 @@ RedoOfHealer
 redpandas
 redrising
 Reds
+redscareforcishetmen
 RedshirtsUnite
 redsox
 redstone
@@ -5323,6 +5331,7 @@ Silmarillionmemes
 Silverbugs
 silverhair
 simpleliving
+simpsonsdidit
 simpsonsshitposting
 simracing
 Simracingstewards
@@ -5478,6 +5487,7 @@ Spore
 SportingCP
 sports
 sportsarefun
+sportsbetting
 sportsbook
 spotted
 spqrposting
@@ -6426,6 +6436,7 @@ watercooling
 Waterdogs
 waterloo
 WattsonMains
+Wavyhair
 WayOfTheBern
 WeaponsMoe
 WeAreAllTurks
@@ -6490,6 +6501,7 @@ WhatsWrongWithYourDog
 Whatthefuckgetitoffme
 wheeloftime
 whenthe
+WhereAreTheChildren
 wheredidthesodago
 Whippets
 WhiskerFireworks
@@ -6646,6 +6658,7 @@ yarntrolls
 yayfoxxo
 yeagerbomb
 yeat_
+Yeen_irl
 yeezys
 YelanMains
 Yellowjackets
