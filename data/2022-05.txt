@@ -844,6 +844,7 @@ bookshelf
 Boomerhumour
 boomershumor
 boottoobig
+borbs
 BorderCollie
 Borderlands
 Borderlands2
@@ -1415,6 +1416,7 @@ creepypasta
 creepyPMs
 CreepyWikipedia
 cremposting
+CrestedGecko
 Cricket
 CricketShitpost
 CrimeJunkiePodcast
@@ -2075,6 +2077,7 @@ FanF1ction
 FanFiction
 fantanoforever
 Fantasy
+fantasybaseball
 fantasybball
 fantasyfootball
 FantasyPL
@@ -5282,6 +5285,7 @@ shitposting_inc
 shitposts
 ShitpostTC
 ShitpostXIV
+Shitstatistssay
 Shitty_Car_Mods
 ShittyAnimalFacts
 shittyaquariums
@@ -5888,6 +5892,7 @@ TheExpanse
 thefalconandthews
 thefighterandthekid
 TheForest
+thegabbieshowpics
 thegildedage
 TheGirlSurvivalGuide
 TheGoodPlace
