@@ -872,6 +872,7 @@ boston
 BostonBruins
 bostonceltics
 BostonTerrier
+BostonU
 BotanicalPorn
 Botchedsurgeries
 botecodoreddit
@@ -1021,6 +1022,7 @@ CaptainSparklez
 CaptainSparrowmemes
 capybara
 CaraDelevingne
+carbage
 carbonsteel
 carcrash
 cardano
@@ -3383,6 +3385,7 @@ KnightsOfPineapple
 KnitHacker
 knives
 knolling
+Knoxville
 KoboldLegion
 kof
 KokkoroNatsume
@@ -4575,6 +4578,7 @@ PaymoneyWubby
 PBSOD
 PcBuild
 pcgaming
+pchaltv
 pcmasterrace
 pcmods
 PCOS
