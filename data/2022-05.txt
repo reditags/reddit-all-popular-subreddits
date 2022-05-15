@@ -416,6 +416,7 @@ archlinux
 arcticmonkeys
 ArdsPOTD
 arduino
+ArduinoProjects
 aretheNTsokay
 Argaming
 argentina
@@ -2568,6 +2569,7 @@ godtiersuperpowers
 GODZILLA
 gojira
 Gold
+GoldCoast
 GoldenAgeMinecraft
 Goldendoodles
 GoldenKamuy
@@ -4237,6 +4239,7 @@ NewOrleans
 NewParents
 NewPatriotism
 news
+newsbloopers
 NewSkaters
 NewVegasMemes
 newworldgame
@@ -4753,6 +4756,7 @@ PlayStationPlus
 PleX
 PLTR
 Plumbing
+plushies
 PlusSize
 PlusSizeFashion
 pocketpussy
@@ -5760,6 +5764,7 @@ stuttgart
 subaru
 submarines
 submechanophobia
+submergedanimatronic
 subnautica
 Subnautica_Below_Zero
 SUBREDDITNAME
