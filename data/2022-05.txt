@@ -229,6 +229,7 @@ AlternativeHistory
 AlzheimersGroup
 Alzwards_Corner
 AMA
+AMADisasters
 AmateurEarthPorn
 amateurradio
 AmateurRoomPorn
@@ -3073,6 +3074,7 @@ ImaginarySliceOfLife
 ImaginarySoldiers
 ImaginaryStarscapes
 ImaginaryStarships
+ImaginarySteampunk
 ImaginaryTamriel
 ImaginaryTechnology
 ImaginaryTrees
@@ -3934,6 +3936,7 @@ memes
 Memes_Of_The_Dank
 memesdecentralises
 memesITA
+MemeSmiet
 memesopdidntlike
 Memeulous
 memeuniverse
@@ -7008,4 +7011,5 @@ zoemains
 ZombielandSaga
 Zoomies
 zootopia
+zurich
 ZZZ_Official
