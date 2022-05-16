@@ -445,6 +445,7 @@ ArsenalWFC
 Art
 ArtDeco
 ArtefactPorn
+artificial
 ArtisanVideos
 artmemes
 ArtOfRolling
@@ -2390,6 +2391,7 @@ fujifilm
 FullmetalAlchemist
 FullScorpion
 FullShrimp
+Fumofumo
 functionalprint
 FundieFashion
 FundieSnarkUncensored
@@ -4402,6 +4404,7 @@ nuzlocke
 nvidia
 nwordington
 NWSL
+nyanners
 NYCbike
 NYGiants
 nyjets
@@ -5339,6 +5342,7 @@ Screenwriting
 Scrubs
 scrungycats
 scuba
+Sculpture
 ScuttleCrabMains
 seals
 Seaofthieves
