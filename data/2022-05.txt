@@ -672,6 +672,7 @@ beadsprites
 beagle
 BeAmazed
 BeamNG
+Beans
 BeansInStrangePlaces
 BeansInThings
 BeardedDragons
@@ -1001,6 +1002,7 @@ CalgaryFlames
 CaliBanging
 CalicoKittys
 California
+Calisthenic
 Calligraphy
 CallMeCarson
 callofcthulhu
@@ -4142,6 +4144,7 @@ muglife
 Mujico
 MujicoMajicoNius
 Multecistan
+MultiVersusTheGame
 mumbai
 Munich
 MurderBuns
@@ -6442,6 +6445,7 @@ UnethicalLifeProTips
 Unexpected
 UnexpectedB99
 unexpectedcommunism
+UnexpectedCommunity
 unexpectedfactorial
 unexpectedfuturama
 unexpecteditcrowd
@@ -6770,6 +6774,7 @@ wholesomejojo
 wholesomememes
 wholesomemes
 wholesomeouija
+wholesomepics
 wholesometransmemes
 wholesomevandalism
 wholesomevangelion
