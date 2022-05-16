@@ -815,6 +815,7 @@ BloodAngels
 BloodHunt
 Bloomer
 blop
+BlueJackets
 BlueLock
 BlueMidterm2018
 bluey
@@ -1392,6 +1393,7 @@ cork
 Cornell
 cornhub
 Coronavirus
+Coronavirus_NZ
 CoronavirusDownunder
 CorporateFacepalm
 Corridor
@@ -1483,6 +1485,7 @@ CryptoMoonShots
 Cryptozoology
 crystalgrowing
 Crystals
+CrystalWestbrooks
 cscareerquestions
 csgo
 csharp
@@ -3183,6 +3186,7 @@ ITAGLIA
 Italia
 italy
 ItalyInformatica
+ITCareerQuestions
 ITcrowd
 ItemShop
 Iteration110Cradle
@@ -3953,6 +3957,7 @@ mildlyamusing
 mildlyevangelion
 mildlyinfuriating
 mildlyinteresting
+Mildlynomil
 mildlypenis
 mildlysatisfying
 MildlyStartledCats
