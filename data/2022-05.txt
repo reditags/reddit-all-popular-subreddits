@@ -3092,6 +3092,7 @@ IndianCountry
 IndianDankMemes
 IndianEnts
 indianews
+IndianFootball
 IndianGaming
 Indiangirlsontinder
 IndianHipHopHeads
@@ -6041,6 +6042,7 @@ thebadbatch
 TheBatmanFilm
 TheBidenshitshow
 thebindingofisaac
+TheBlueCorner
 TheBoys
 TheBullWins
 TheCapeRevolution
