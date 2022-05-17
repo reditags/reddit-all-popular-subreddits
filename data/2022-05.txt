@@ -2623,6 +2623,7 @@ GoldenKamuy
 goldenknights
 goldenretriever
 goldenretrievers
+GoldenSun
 Goldfish
 golf
 GolfGTI
@@ -5461,6 +5462,7 @@ serbiancringe
 serialkillers
 seriouseats
 Serverlife
+SesameStreetMemes
 settmains
 seventeen
 SeveranceAppleTVPlus
