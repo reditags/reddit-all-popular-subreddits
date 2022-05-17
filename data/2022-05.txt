@@ -932,6 +932,7 @@ BreadStapledToTrees
 BreadTube
 breakingbad
 breakingbadmemes
+BreakUps
 Breath_of_the_Wild
 breathinginformation
 Brewers
@@ -3955,6 +3956,7 @@ meatcrayon
 MeatlessMealPrep
 MechanicAdvice
 mechanical_gifs
+mechmarket
 Mechwarrior5
 MedicalGore
 Medievalart
@@ -4382,6 +4384,7 @@ NFA
 NFCEastMemeWar
 NFCNorthMemeWar
 NFCWestMemeWar
+nffc
 NFL_Draft
 nflmemes
 NFT
@@ -5707,6 +5710,7 @@ snakes
 SnakesWithHats
 SNDL
 SneakyAnimals
+Snek
 Sneks
 snes
 snooker
@@ -7025,6 +7029,7 @@ XCOM2
 Xenoblade_Chronicles
 Xenonion
 XFiles
+xfl
 XiaoMains
 xkcd
 xlightmoon
