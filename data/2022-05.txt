@@ -1028,6 +1028,7 @@ camilamendes
 camphalfblood
 CampingGear
 canada
+canadaguns
 canadahousing
 canadaleft
 CanadaPolitics
@@ -1977,6 +1978,7 @@ Eldar
 EldenBling
 Eldenring
 EldenRingArt
+eldenringdiscussion
 ElderScrolls
 elderscrollsonline
 ElectricalEngineering
