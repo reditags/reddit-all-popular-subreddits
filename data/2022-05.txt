@@ -777,6 +777,7 @@ birb
 Birbs
 birding
 BirdsArentReal
+Birdsfacingforward
 BirdsForScale
 birdstakingthetrain
 birdswitharms
@@ -840,6 +841,7 @@ Blursedcomments
 blursedimages
 bmbmbm
 BMW
+bmx
 boardgames
 boating
 bobdylan
@@ -3612,6 +3614,7 @@ leaves
 lebanon
 lebowski
 ledzeppelin
+Leeds
 LeedsUnited
 left_urbanism
 LeftistGamersUnion
@@ -6564,6 +6567,7 @@ Undertale
 UnearthedArcana
 UnethicalLifeProTips
 Unexpected
+UnexpectedAvatar
 UnexpectedB99
 unexpectedcommunism
 UnexpectedCommunity
