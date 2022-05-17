@@ -1826,6 +1826,7 @@ doctorwho
 DoctorWhumour
 Documentaries
 DocumentedFights
+Dodge
 Dodgers
 DOG
 DogAdvice
@@ -2855,6 +2856,7 @@ hinduism
 hingeapp
 HistoricalCostuming
 history
+HistoryAnecdotes
 HistoryAnimemes
 HistoryPorn
 hitanimals
@@ -6566,6 +6568,7 @@ unexpectedMontyPython
 UnexpectedMulaney
 unexpectedoffice
 unexpectedpawnee
+UnexpectedThugLife
 UnexplainedPhotos
 Unextexted
 UnfunnyHellhole
