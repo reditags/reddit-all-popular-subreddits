@@ -2885,6 +2885,7 @@ homegym
 HomeImprovement
 HomeKit
 homelab
+homeless_cats
 HomePod
 HomestarRunner
 homestead
@@ -2910,6 +2911,7 @@ horseracing
 Horses
 HostileArchitecture
 hot_dog
+hot_reporters
 HotlineMiami
 hotones
 HotPeppers
@@ -4533,6 +4535,7 @@ Old_Recipes
 oldbabies
 oldfreefolk
 oldhagfashion
+OldLadiesBakingPies
 OldManDog
 oldpeoplefacebook
 OldPhotosInRealLife
@@ -5653,6 +5656,7 @@ snes
 snooker
 snowboarding
 snowrunner
+SNSD
 Sober
 soccercirclejerk
 socialanxiety
@@ -6977,6 +6981,7 @@ yeezys
 Yeji
 YelanMains
 Yellowjackets
+YellowstonePN
 Yellz0
 yesyesyesno
 yesyesyesnoyes
