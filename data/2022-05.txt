@@ -3061,6 +3061,7 @@ ImaginaryDarkSouls
 ImaginaryDragons
 ImaginaryDwellings
 imaginaryelections
+ImaginaryElementals
 ImaginaryElves
 ImaginaryFallout
 ImaginaryFashion
@@ -4347,6 +4348,7 @@ newjersey
 NewOrleans
 NewParents
 NewPatriotism
+NewRoryNMalPodcast
 news
 newsbloopers
 NewSkaters
@@ -5744,6 +5746,7 @@ space
 SpaceballsMemes
 SpaceCannibalism
 spaceengineers
+Spaceexploration
 spacefrogs
 spaceporn
 spacex
