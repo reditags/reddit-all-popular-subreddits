@@ -2233,6 +2233,7 @@ ffxiv
 ffxivdiscussion
 FFXIVGlamours
 FFXV
+FFXVI
 FicouGratis
 FIFA
 FifaCareers
@@ -2641,6 +2642,7 @@ godot
 godtiersuperpowers
 GODZILLA
 gojira
+Gokushufudou
 Gold
 GoldCoast
 GoldenAgeMinecraft
@@ -2667,6 +2669,7 @@ googlemapsshenanigans
 GooglePixel
 gorgc
 gorillaz
+GorouMains
 GossipGirl
 Got7
 goth
@@ -3929,6 +3932,7 @@ mash
 massachusetts
 masseffect
 MassEffectMemes
+massivefangs
 masterduel
 masterhacker
 MasterReturns
