@@ -252,6 +252,7 @@ Amd
 AMD_Stock
 AmeliaWatson
 AmerExit
+AmericaBad
 americandad
 AmericanFascism2020
 AmericanFlaginPlace
@@ -709,6 +710,7 @@ beer
 bees
 beetlejuicing
 BeforeNAfterAdoption
+BeggingChoosers
 BeginnerWoodWorking
 behindthebastards
 beholdthemasterrace
@@ -2843,6 +2845,7 @@ Harley
 HarleyQuinn
 Harpo
 harrypotter
+HarryPotterGame
 harvestmoon
 Hasan_Piker
 hatemyjob
