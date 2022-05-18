@@ -1197,6 +1197,7 @@ Charlotte
 CharlotteAnime
 Chaser
 ChasersRiseUp
+chats
 cheemsburbgerlore
 Cheese
 CheetoTheCat
@@ -1903,6 +1904,7 @@ DragonsDogma
 dragonutopia
 dragrace
 DragRace_Espana
+DragRaceDownUnder
 Dragula
 DramaticText
 Draven
@@ -5597,6 +5599,7 @@ shitposting_inc
 shitposts
 ShitpostTC
 ShitpostXIV
+ShitRimworldSays
 Shitstatistssay
 Shitty_Car_Mods
 ShittyAnimalFacts
