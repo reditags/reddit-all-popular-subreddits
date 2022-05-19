@@ -2318,6 +2318,7 @@ FitToFat
 fixedbytheduet
 FixedGearBicycle
 fixit
+FixMyPhotoJaffa
 FL_Studio
 Flamepoints
 flashlight
@@ -4547,6 +4548,7 @@ nononono
 nonononoyes
 NonPoliticalTwitter
 noodlebones
+Noom
 nope
 Nordichistorymemes
 norge
