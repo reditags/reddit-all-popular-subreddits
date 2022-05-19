@@ -803,6 +803,7 @@ bizarrebuildings
 bizarrelife
 blackcats
 Blackcelebrity
+blackcelebrityGW
 BlackClover
 BlackCountryNewRoad
 blackdesertonline
@@ -6873,6 +6874,7 @@ VoteBlue
 VoteDEM
 VRchat
 VRGaming
+vrising
 VRtoER
 VShojo
 vtmb
