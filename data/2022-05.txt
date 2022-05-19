@@ -552,6 +552,7 @@ AustralianTeachers
 Austria
 autism
 AutismInWomen
+AutismTranslated
 AutisticAdults
 AutisticPride
 AutoDetailing
@@ -1693,6 +1694,7 @@ deadbydaylight
 deadcells
 deadmalls
 deadmeatjames
+deadpool
 DeadSpace
 deathbattle
 DeathByMillennial
@@ -3868,6 +3870,7 @@ Lustig
 Luthier
 lux
 LuxloCosplay
+LuxuryLifeHabits
 LV426
 Lyon
 Lysium
@@ -5340,6 +5343,7 @@ retrogaming
 revancedapp
 reverseanimalrescue
 ReversePinterest
+ReviewsByRetards
 RheaRipley
 RhodeIsland
 riae_
@@ -6315,6 +6319,7 @@ TheForgottenDepths
 thegabbieshowpics
 thegildedage
 TheGirlSurvivalGuide
+TheGlassCannonPodcast
 theGoldenGirls
 TheGoodPlace
 thegrandtour
@@ -7084,6 +7089,7 @@ woof_irl
 woooosh
 woosh
 wordington
+wordle
 Workbenches
 WorkersStrikeBack
 WorkReform
