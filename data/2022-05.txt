@@ -398,6 +398,7 @@ Apephilanthropy
 apexcirclejerk
 ApexConsole
 apexlegends
+ApexLegendsMobile
 ApexLore
 ApexOutlands
 Apexrollouts
@@ -730,6 +731,7 @@ behindthebastards
 beholdthemasterrace
 Behzinga
 BeidouMains
+Beiguang
 belarus
 BelgianMalinois
 BELGICA
@@ -3408,6 +3410,7 @@ jakeandamir
 jakertown
 JakesDoorComics
 JamesBond
+JamesHoffmann
 jameswebb
 janeausten
 Janiameshelll
@@ -3831,6 +3834,7 @@ LinkinPark
 LinusTechTips
 linux
 linux_gaming
+LinuxCirclejerk
 linuxmasterrace
 linuxmemes
 lisboa
@@ -4760,6 +4764,7 @@ oldschoolhot
 OldSchoolRidiculous
 OldSkaters
 Oldtimer
+OldWorldBlues
 Olivia_Ponton_
 oliviadunne
 OliviaMunn
@@ -4813,6 +4818,7 @@ orangecounty
 orangetheory
 orchids
 oregon
+OrganicChemistry
 OrganizationPorn
 OriAndTheBlindForest
 origami
@@ -5059,6 +5065,7 @@ Pixiv
 Pizza
 PizzaCrimes
 PlaceNL
+planesgonewild
 PlanetCoaster
 Planetside
 PlanetZoo
