@@ -740,6 +740,7 @@ Belgium2
 Bellingham
 belowdeck
 beltalowda
+BelVethMains
 BeMesmerized
 Ben10
 Bend
@@ -3651,6 +3652,7 @@ kpics
 kpop
 kpopGirlsMob
 kpophelp
+kpoprants
 kpopthoughts
 kpopvents
 kratzbaum
@@ -4171,6 +4173,7 @@ Metroid
 metroidvania
 mew_irl
 mexico
+MexicoCity
 MexicoFinanciero
 Mexicowave
 mfdoom
@@ -5250,6 +5253,7 @@ PUBG
 PUBGMobile
 PublicFreakout
 PublicFreakoutsReborn
+PublicLands
 publix
 pugs
 pukicho
@@ -5674,6 +5678,7 @@ scrungycats
 scuba
 Sculpture
 ScuttleCrabMains
+SDSGrandCross
 seals
 Seaofthieves
 seashanties
