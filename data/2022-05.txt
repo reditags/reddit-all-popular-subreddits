@@ -3214,6 +3214,7 @@ imaginarycosmere
 ImaginaryCybernetics
 ImaginaryCyberpunk
 ImaginaryDarkSouls
+ImaginaryDemons
 ImaginaryDragons
 ImaginaryDwellings
 imaginaryelections
@@ -5303,6 +5304,7 @@ PSVR
 psych
 Psychedelics
 psychology
+psychologymemes
 Psychonaut
 PUBATTLEGROUNDS
 PUBG
