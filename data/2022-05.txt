@@ -4792,6 +4792,7 @@ OkBuddyPersona
 okbuddyphd
 OkBuddyPilot
 OkBuddyPoliceOfficer
+okbuddyredacted
 okbuddyreiner
 okbuddyrintard
 okbuddytankie
@@ -5672,6 +5673,7 @@ SanJose
 SanJoseSharks
 sanpedrocactus
 sanrio
+SAOAbridged
 saopaulo
 SapphoAndHerFriend
 SarahHyland
@@ -6464,6 +6466,7 @@ TF2fashionadvice
 tf2memes
 tf2shitposterclub
 tf_irl
+TfwYouLiveInMexico
 Thailand
 thalassophobia
 thanksihateit
