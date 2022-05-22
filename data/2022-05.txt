@@ -502,6 +502,7 @@ AskOuija
 AskReddit
 askscience
 AskScienceFiction
+AskSF
 askSingapore
 AskThe_Donald
 askTO
