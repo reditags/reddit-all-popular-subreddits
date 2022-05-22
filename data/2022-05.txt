@@ -845,6 +845,7 @@ Bitcoin
 BitLifeApp
 bizarrebuildings
 bizarrelife
+bjork
 blackcats
 Blackcelebrity
 blackcelebrityGW
@@ -3883,6 +3884,7 @@ liberalgunowners
 liberta
 Libertarian
 libertarianmeme
+LibHumor
 librandu
 Libraries
 libsofreddit
@@ -7124,6 +7126,7 @@ vintagecomputing
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
+VintageMenus
 vinyl
 vinyljerk
 VinylReleases
