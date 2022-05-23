@@ -6971,6 +6971,7 @@ Ubiquiti
 ubius
 UBreddit
 Ubuntu
+UCalgary
 UCDavis
 ucf
 UCI
@@ -7532,6 +7533,7 @@ YelanMains
 Yellowjackets
 YellowstonePN
 Yellz0
+yescompanionimbecil
 yesyesyesno
 yesyesyesnoyes
 yesyesyesyesno
@@ -7561,6 +7563,7 @@ YourJokeButWorse
 YourLieinApril
 yourmomshousepodcast
 YourRAGE
+YouSeeComrade
 youseeingthisshit
 YouShouldKnow
 Youtooz
