@@ -5510,6 +5510,7 @@ REBubble
 recipes
 reclaimedbynature
 recruitinghell
+RectalStickers
 Recursion
 red_velvet
 RedBullRacing
@@ -6118,6 +6119,7 @@ SonyAlpha
 SophiaDiamondLegal
 SophiiaDiamond
 SOSStock
+SoulCalibur
 soulcrushingjuice
 souleater
 SoulKnight
