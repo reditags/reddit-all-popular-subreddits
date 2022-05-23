@@ -2255,6 +2255,7 @@ ExpandDong
 ExpectationVsReality
 ExperiencedDevs
 explainlikeimfive
+ExplainTheJoke
 ExplosionsAndFire
 ExposurePorn
 ExtinctionRebellion
@@ -6723,6 +6724,7 @@ TikTokFeet
 tiktokgossip
 TikTokLive
 tiktokorchestra
+TikToks
 TILI
 tiltshift
 TimAndEric
