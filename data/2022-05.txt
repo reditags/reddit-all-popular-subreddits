@@ -4258,6 +4258,7 @@ MCFC
 mcgill
 McKaylaMaroney
 McMansionHell
+McMaster
 MCPE
 me_irl
 me_irlgbt
@@ -5448,6 +5449,7 @@ prusa3d
 ps2
 PS3
 PS4
+PS4Deals
 PS5
 psg
 PsilocybinMushrooms
@@ -6604,6 +6606,7 @@ techsupportgore
 techsupportmacgyver
 techwearclothing
 TectEGG
+TeddyFresh
 TeddyMoutinhoNSFW
 TedLasso
 teefies
