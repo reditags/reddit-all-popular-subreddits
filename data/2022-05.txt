@@ -658,6 +658,7 @@ BadDesigns
 Badfaketexts
 badfriendspod
 badmathematics
+badMovies
 BadMUAs
 badredman
 badtaxidermy
@@ -6422,6 +6423,7 @@ stunfisk
 StupidFood
 stuttgart
 subaru
+SubaruForester
 submarines
 submechanophobia
 submergedanimatronic
