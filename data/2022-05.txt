@@ -1538,6 +1538,7 @@ CoolAmericaFacts
 CoolBugFacts
 CoolGadgetsTube
 coolguides
+copaganda
 copenhagen
 copypasta
 coral_sharon
@@ -3923,6 +3924,7 @@ lebowski
 ledzeppelin
 Leeds
 LeedsUnited
+leetcode
 left4dead
 left_urbanism
 LeftistGamersUnion
@@ -5513,6 +5515,7 @@ puns
 PupliftingNews
 puppersheckingdying
 puppies
+puppy101
 PuppyBellies
 PuppySmiles
 Purdue
@@ -7391,6 +7394,7 @@ WarshipPorn
 warthundermemes
 Warzone
 wasletztepreis
+wasletztestern
 WastedGifs
 Watashi_ni_Tenshi
 WatchandLearn
@@ -7538,6 +7542,7 @@ wildhockey
 wildlifephotography
 wildrift
 WildWestPics
+williamosman
 willwood
 wimmelbilder
 windows
