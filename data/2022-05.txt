@@ -6260,6 +6260,7 @@ snails
 snakes
 SnakesWithHats
 SNDL
+sneakerreps
 SneakyAnimals
 Snek
 Sneks
@@ -7247,6 +7248,7 @@ unstirredpaint
 untrustworthypoptarts
 unturned
 unusual_whales
+UnusualArt
 UnusualVideos
 unwholesomememes
 UnwokeThoughts
