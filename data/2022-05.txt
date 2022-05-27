@@ -1709,6 +1709,7 @@ cursedvideos
 CurseofStrahd
 customhearthstone
 CustomKeyboards
+CustomLoR
 custommagic
 CustomPlayerCutscene
 cute
@@ -3713,6 +3714,7 @@ kaleycuoco
 KalinkaFox
 KamenRider
 KamikazeByWords
+kancolle
 KanojoOkarishimasu
 kansascity
 KansasCityChiefs
