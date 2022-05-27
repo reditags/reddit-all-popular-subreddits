@@ -2864,6 +2864,7 @@ glossier
 glutenfree
 GME
 gme_meltdown
+GMECanada
 GMEJungle
 gmod
 gnome
