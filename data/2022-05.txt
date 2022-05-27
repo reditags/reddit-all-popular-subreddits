@@ -4363,6 +4363,7 @@ MemeHunter
 memeingthroughtime
 MemeMan
 MemePiece
+MemeRestoration
 memes
 Memes_Of_The_Dank
 memesdecentralises
@@ -7756,6 +7757,7 @@ YuB
 yugioh
 YuGiOhMasterDuel
 YuGiOhMemes
+Yugoslavia
 yumenikki
 yuna
 yunyun
