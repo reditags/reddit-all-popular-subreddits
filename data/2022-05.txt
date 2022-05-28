@@ -940,6 +940,7 @@ blursed_videos
 Blursedcomments
 blursedimages
 bmbmbm
+BMim
 BMW
 bmx
 boardgames
@@ -1411,6 +1412,7 @@ civ5
 civilengineering
 CIVILWAR
 CivVI
+CK2GameOfthrones
 CK3AGOT
 ClashMini
 ClashOfClans
@@ -1828,6 +1830,7 @@ DC_Cinematic
 DCAU
 DCcomics
 dccomicscirclejerk
+DCComicsLegendsGame
 DCEUleaks
 DDintoGME
 DDLC
@@ -4797,6 +4800,7 @@ NewRoryNMalPodcast
 news
 newsbloopers
 NewSkaters
+NewsOfTheStupid
 NewsWithJingjing
 NewVegasMemes
 newworldgame
@@ -5897,6 +5901,7 @@ saiyanpeopletwitter
 Sakartvelo
 SakuraMatou
 Salamanders40k
+sales
 saliceroseonlyfan
 salmahayek
 SalsaSnobs
@@ -6696,6 +6701,7 @@ Teachers
 teaching
 TeamfightTactics
 TeamFourStar
+TeamSESH
 TeamSolomid
 TeardownGame
 TearsOfThemis
