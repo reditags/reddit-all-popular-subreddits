@@ -1665,6 +1665,7 @@ crowbro
 crows
 CRT_so_scary
 crtgaming
+CrucibleGuidebook
 Cruise
 CrusadeMemes
 CrusaderKings
