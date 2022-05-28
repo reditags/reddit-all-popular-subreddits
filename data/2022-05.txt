@@ -249,6 +249,7 @@ AllStarBrawl
 AllTomorrows
 alpaca
 alpinism
+AltcoinTrader
 altdogelore
 AlternateAngles
 AlternateHistory
@@ -1680,6 +1681,7 @@ CryptidDogs
 cryptids
 Crypto_com
 CryptoCurrency
+CryptocurrencyGems
 CryptocurrencyICO
 cryptocurrencymemes
 Cryptomains
@@ -6032,6 +6034,7 @@ scriptedasiangifs
 Scrubs
 scrungycats
 scuba
+scuderiaferrari
 Sculpture
 ScuttleCrabMains
 SDSGrandCross
