@@ -1343,6 +1343,7 @@ chernobyl
 chess
 chessbeginners
 chessmemes
+ChevyTrucks
 CHIBears
 chibike
 chicagobulls
@@ -5536,6 +5537,7 @@ ProgrammerHumor
 programming
 programminghorror
 programminghumor
+programmingmemes
 ProgressionFantasy
 progun
 Project_Wingman
@@ -6654,6 +6656,7 @@ SystemsCringe
 TabbyCats
 tacobell
 Tacoma
+tacos
 tacticalgear
 Tagalog
 Tahmkenchmains
