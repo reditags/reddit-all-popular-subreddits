@@ -1008,6 +1008,7 @@ Bossfightarena
 BossFights
 boston
 BostonBruins
+bostoncalling
 bostonceltics
 BostonTerrier
 BostonU
@@ -2627,6 +2628,7 @@ foxes
 FoxFiction
 foxholegame
 fozeus
+fpv
 FractalPorn
 fragilecommunism
 FragileMaleRedditor
@@ -4224,6 +4226,7 @@ LV426
 LWIAY
 LWICD
 Lyon
+Lysithea
 Lysium
 MAAU
 mac
@@ -4659,6 +4662,7 @@ motogp
 motorboat
 motorcitykitties
 motorcycle
+MotorcycleLogistics
 MotorcyclePorn
 motorcycles
 MotoUK
@@ -4908,6 +4912,7 @@ Nirvana
 njpw
 NLBest
 nlchickies
+nlchicks
 NLSSCircleJerk
 NMSCoordinateExchange
 NoahGetTheBoat
@@ -6269,6 +6274,7 @@ Silmarillionmemes
 Silverbugs
 silverhair
 simpleliving
+simplynailogical
 simpsonsdidit
 simpsonsshitposting
 simracing
