@@ -257,6 +257,7 @@ AltcoinTrader
 altdogelore
 AlternateAngles
 AlternateHistory
+AlternateHistoryMemes
 alternativeart
 AlternativeHistory
 AlzheimersGroup
@@ -993,6 +994,7 @@ bookscirclejerk
 bookshelf
 BoomerangSquad
 Boomerhumour
+BoomersBeingFools
 boomershumor
 boottoobig
 borbs
