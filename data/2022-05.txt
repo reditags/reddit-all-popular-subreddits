@@ -2002,6 +2002,7 @@ DIE_LINKE
 DiePartei
 different_sob_story
 digimon
+DigimonCardGame2020
 DigitalArt
 digitalnomad
 DigitalPainting
@@ -2983,6 +2984,7 @@ GradSchool
 GradualChaos
 gradualharmony
 Graffiti
+GraggleSimpson
 GRAMBADDIES
 Granblue_en
 GrandBlue
