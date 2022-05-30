@@ -677,6 +677,7 @@ BadBatchMemes
 BadChoicesGoodStories
 badcode
 BadDesigns
+BADDIESHUB4
 Badfaketexts
 badfriendspod
 badmathematics
@@ -2341,6 +2342,7 @@ evangelion
 evangelionmemes
 Eve
 EvelynnMains
+Everdale
 Everton
 everymanshouldknow
 EverythingFoxes
@@ -7240,6 +7242,7 @@ turtle
 turtleswithjobs
 TuxedoCats
 TVDetails
+TVGRYpl
 TVTooHigh
 twentyonepilots
 TwentyYearsAgo
