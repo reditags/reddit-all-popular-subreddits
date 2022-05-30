@@ -316,6 +316,7 @@ analog
 analog_horror
 AnalogCircleJerk
 AnalogCommunity
+AnaMains
 Anarchism
 AnarchismZ
 Anarcho_Capitalism
@@ -7508,6 +7509,7 @@ vintage
 vintageads
 VintageApple
 vintageaudio
+vintagecgi
 vintagecomputing
 VintageFashion
 vintagejapaneseautos
