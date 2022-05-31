@@ -1419,6 +1419,7 @@ churchofharu
 ChurchOfJirou
 ChurchOfKasumi
 ChurchofKawakami
+ChurchofMaiSakurajima
 ChurchOfMarin
 ChurchofMarnie
 ChurchOfMinaAshido
@@ -1716,6 +1717,7 @@ CryptoCurrency
 CryptocurrencyGems
 CryptocurrencyICO
 cryptocurrencymemes
+CryptoGemDiscovery
 Cryptomains
 CryptoMarkets
 CryptoMars
@@ -5749,6 +5751,7 @@ Ranboo
 rance
 rance_iel
 randomactsofkindness
+randomactsofphone
 RandomThoughts
 RandomVideoWithMusic
 rangers
