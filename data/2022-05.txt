@@ -2005,6 +2005,7 @@ Diablo
 diablo2
 diablo3
 Diablo_2_Resurrected
+DiabloImmortal
 DianeGuerrero
 DiavoloDeathCount
 DicePorn
@@ -3254,6 +3255,7 @@ Hololive
 HololiveYuri
 Holostars
 HolUp
+HolyGrailMemes
 holyshit
 homeassistant
 homeautomation
