@@ -79,6 +79,7 @@ ACMilan
 acne
 acotar
 ACPocketCamp
+ACQR
 ActionFigures
 ActivationSound
 ActLikeYouBelong
@@ -101,6 +102,7 @@ Aespa
 AEWOfficial
 afkarena
 AFL
+AgainstHateSubreddits
 agedlikemilk
 agedlikewine
 agender
@@ -108,6 +110,7 @@ ageofsigmar
 aggies
 AHatInTime
 AHomeForPlagueRats
+AIDKE
 ainbow
 airplaneears
 airsoft
@@ -125,6 +128,7 @@ AlexisRen
 aliceandfernsnark
 AliceEve
 AliceInChains
+aliens
 AlisonBrie
 AlternateAngles
 AlternateHistory
@@ -288,8 +292,10 @@ AssassinsCreedOdyssey
 assettocorsa
 assholedesign
 assholetax
+astrologymemes
 Astronomy
 astrophotography
+Astros
 ASX_Bets
 ATBGE
 AteistTurk
@@ -408,6 +414,7 @@ BeautifulIndianWomen
 BeautyGuruChatter
 beberexha
 beebutts
+Beekeeping
 BeelcitosMemes
 beetlejuicing
 BeforeNAfterAdoption
@@ -436,6 +443,7 @@ bigboobproblems
 BigCatGifs
 BigChungusReligion
 bigfloppa
+BigMouth
 bikecommuting
 BikiniBottomTwitter
 BillBurr
@@ -444,6 +452,7 @@ bindingofisaac
 bingbongtheorem
 bingingwithbabish
 BinIchDasArschloch
+Biochemistry
 biology
 biologymemes
 bioniclelego
@@ -700,6 +709,7 @@ CelebsPH
 celestegame
 cellbits
 centuryhomes
+Ceramics
 CFB
 Chadposting
 Chadtopia
@@ -712,6 +722,7 @@ chaoticgood
 characterarcs
 characterdrawing
 CharacterRant
+Chargers
 chargetheyphone
 charlixcx
 Cheese
@@ -739,6 +750,7 @@ Christianity
 christianmemes
 christinahendricks
 christmas
+chronotrigger
 ChuckleSandwich
 ChurchofChie
 ChurchOfKasumi
@@ -1190,6 +1202,7 @@ EmmaStone
 Emo
 EmpireDidNothingWrong
 ems
+ENA
 ender3
 EngagementRings
 engineeringmemes
@@ -1247,6 +1260,7 @@ FacebookScience
 facebookwins
 facepalm
 factorio
+Factoriohno
 FairytaleasFuck
 FaithLiane
 FaithOrdway
@@ -1589,6 +1603,7 @@ Habs
 Hacking_Tutorials
 HadesTheGame
 HadToHurt
+haikyuu
 HaileeSteinfeld
 HaileeSteinfeldBooty
 hajimenoippo
@@ -1977,6 +1992,7 @@ kittens
 Kitting
 kittyhasaquestion
 KittyPupperLove
+KittyTailWrap
 KneadyCats
 knives
 KokkoroNatsume
@@ -2457,6 +2473,7 @@ netflix
 netflixwitcher
 Netherlands
 Neverbrokeabone
+neverchangejapan
 newcastle
 NewDealAmerica
 NewGirl
@@ -2588,6 +2605,7 @@ okmatewanker
 okoidawappler
 okprietenretardat
 Old_Recipes
+oldcoins
 oldhagfashion
 OldManDog
 oldpeoplefacebook
@@ -2704,6 +2722,7 @@ PERSoNA
 persona4golden
 Persona5
 PersonalFinanceCanada
+perth
 pesmobile
 pessimismmemes
 PetAfterVet
@@ -2880,6 +2899,7 @@ pyrocynical
 Python
 QanonKaren
 Qdpay
+qotsa
 QuanLangTV
 Quebec
 quilting
@@ -2939,6 +2959,7 @@ reddeadredemption2
 reddevils
 reddit
 RedditLaqueristas
+RedheadedGoddesses
 RedHotChiliPeppers
 RedLetterMedia
 redneckengineering
@@ -2967,6 +2988,7 @@ retailhell
 retarb
 RetroFuturism
 retrogaming
+reverseanimalrescue
 rickandmorty
 RidiculousRealEstate
 RighteousGemstones
@@ -3164,6 +3186,7 @@ shittysuperpowers
 shittytattoos
 shittytechnicals
 ShittyVeganFoodPorn
+shorthairedhotties
 shortscarystories
 Shortsqueeze
 shouldercats
@@ -3312,6 +3335,8 @@ StardustCrusaders
 Starfield
 starfinder_rpg
 Stargate
+Starlink
+starsector
 starterpacks
 StartledCats
 startrekmemes
@@ -3424,6 +3449,7 @@ talk_hunfluencers
 tall
 tallyhall
 TameImpala
+tampa
 TampaBayLightning
 tankiejerk
 TankPorn
@@ -3559,6 +3585,7 @@ ThickFit
 ThingsCutInHalfPorn
 thingsforants
 ThirdLifeSMP
+ThirdSentenceHappy
 Thisismylifemeow
 thisismylifenow
 thisisus
