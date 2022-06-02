@@ -19,6 +19,7 @@
 2anatolia4you
 2Asia4u
 2b2t
+2BeNeLux4you
 2bulgar4you
 2hujerk
 2meirl42meirl4meirl
@@ -117,6 +118,7 @@ AEWOfficial
 AFCSouthMemeWar
 afkarena
 AFL
+AfterEffects
 AgainstHateSubreddits
 agedlikemilk
 agedlikewine
@@ -531,6 +533,7 @@ bladesinthedark
 Bladesmith
 BLAHAJ
 blankies
+Blasphemous
 BlatantMisogyny
 Blazblue
 bleach
@@ -1454,6 +1457,7 @@ FitToFat
 fixedbytheduet
 FixedGearBicycle
 FixMyPhotoJaffa
+Flamepoints
 flashlight
 FlashTV
 FleshPitNationalPark
@@ -1482,6 +1486,7 @@ foraging
 forbiddensnacks
 ForgottenWeapons
 forhonor
+forhonorknights
 forhonormemes
 formalwaifus
 formula1
@@ -1537,6 +1542,7 @@ ft86
 ftlgame
 fuckcars
 fuckepic
+FUCKFACEPOD
 fuckHOA
 FuckImOld
 fucklawns
@@ -1782,6 +1788,7 @@ hardware
 Harley
 Harpo
 harrypotter
+harvestmoon
 Hasan_Piker
 hatsune
 hauntedchocolatier
@@ -1917,6 +1924,7 @@ ididthejobboss
 IdiotsFightingThings
 IdiotsInBoats
 IdiotsInCars
+IdiotsNearlyDying
 Idiotswithguns
 IDontWorkHereLady
 IDOWORKHERELADY
@@ -1975,6 +1983,7 @@ ImaginaryWarhammer
 ImaginaryWesteros
 ImaginaryWitcher
 ImaginaryWitches
+ImaginaryWorldEaters
 imaginedragons
 ImagineThisView
 ImFinnaGoToHell
@@ -2055,6 +2064,7 @@ IsraelCrimes
 IsTodayFridayThe13th
 ITAGLIA
 italy
+ITCareerQuestions
 ITcrowd
 ItemShop
 Iteration110Cradle
@@ -2184,6 +2194,7 @@ KingOfTheHill
 KingstonOntario
 Kirby
 KitchenConfidential
+kitchener
 Kitler
 kitsunemimi
 Kitten
@@ -2220,6 +2231,7 @@ kurzgesagt
 KUWTKsnark
 l4d2
 labrador
+LaBrantFamSnark
 labrats
 ladiesofthemcu
 LadiesOfWrestling
@@ -2306,6 +2318,7 @@ LilyCollins
 LiminalSpace
 lingling40hrs
 linguisticshumor
+Link_Dies
 LinkedInLunatics
 LinusTechTips
 linux
@@ -2370,6 +2383,7 @@ LPOTL
 LSD
 LTB_iel
 LudwigAhgren
+luigi_irl
 lululemon
 Lumity
 Lustig
@@ -2573,6 +2587,7 @@ misleadingthumbnails
 missbricosplay
 missbricosplays2
 Mistborn
+MitchellAndWebb
 Mizkif
 mlb
 MLBTheShow
@@ -3161,6 +3176,7 @@ PS3
 PS4
 PS4Deals
 PS5
+psg
 PSP
 PSVR
 psych
@@ -3246,6 +3262,7 @@ ReallyAmerican
 realmadrid
 ReasonableFantasy
 REBubble
+recipes
 reclaimedbynature
 recruitinghell
 Recursion
@@ -3721,7 +3738,9 @@ stopdrinkingfitness
 StoppedWorking
 Stormlight_Archive
 StraightsBeingOK
+StrangeAndFunny
 StrangerThings
+Strava
 straykids
 streetart
 StreetFighter
@@ -4117,6 +4136,7 @@ UkrainianConflict
 Ultrakill
 ultrawidemasterrace
 UmbrellaAcademy
+UNBGBBIIVCHIDCTIICBG
 uncharted
 unclebens
 Undertale
@@ -4302,6 +4322,8 @@ WestSubEver
 wet_pussy
 WetlanderHumor
 WeWantPlates
+whatcarshouldIbuy
+whatcouldgoright
 Whatcouldgowrong
 whatintarnation
 whatisthiscar
