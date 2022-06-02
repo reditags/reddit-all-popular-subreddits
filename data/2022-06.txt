@@ -260,6 +260,7 @@ AquariumMemes
 Aquariums
 AquaSama
 Aquascape
+AquaticAsFuck
 ar15
 arabfunny
 araragi
@@ -348,6 +349,7 @@ AutisticPride
 Autos
 AutumnPorn
 AvatarMemes
+Avengers
 aves
 aviation
 aviationmemes
@@ -467,6 +469,7 @@ BetterEveryLoop
 bicycling
 bigboobproblems
 bigboye
+BigBrother
 BigCatGifs
 BigChungusReligion
 bigfloppa
@@ -624,6 +627,7 @@ BryceDallasHoward
 btd6
 bts7
 buccos
+Buddhism
 budgetfood
 budgies
 Buffalo
@@ -778,6 +782,7 @@ chessbeginners
 CHIBears
 chicagobulls
 chickens
+CHICubs
 Chihuahua
 childemains
 ChildrenFallingOver
@@ -796,6 +801,7 @@ christmas
 chronotrigger
 ChuckleSandwich
 ChurchofChie
+churchoffutaba
 ChurchOfKasumi
 churchofskadi
 chuunibyou
@@ -873,6 +879,7 @@ CompetitiveApex
 Competitiveoverwatch
 COMPLETEANARCHY
 composting
+computers
 conan
 ConanBeingAwesome
 confession
@@ -898,6 +905,7 @@ cookiedecorating
 Cookierun
 CookieRunKingdoms
 Cooking
+CoolBugFacts
 CoolGadgetsTube
 coolguides
 copypasta
@@ -1013,6 +1021,7 @@ DankExchange
 dankgentina
 dankinindia
 dankmark
+dankmeme
 dankmemes
 DankMemesFromSite19
 DankMemesYLYL
@@ -1027,6 +1036,7 @@ Daredevil
 darkestdungeon
 DarkGothicArt
 Darkhumorandjokes
+DarkinFolk
 DarkSouls2
 darksoulsmemes
 DarkTide
@@ -1124,6 +1134,7 @@ Dimension20
 Dinosaurs
 dioramas
 DiretoDoZapZap
+dirtgame
 discgolf
 DiscoElysium
 discord_irl
@@ -1202,6 +1213,7 @@ dreamsmp
 Dreamtheater
 DreamWasTaken
 DreamWasTaken2
+Drifting
 DrStone
 Drugs
 drums
@@ -1360,6 +1372,7 @@ FanTheories
 farcry
 farialimabets
 FarmersStealingTanks
+farming
 farmingsimulator
 fashionhistory
 fashionporn
@@ -1410,6 +1423,7 @@ FirstTimeHomeBuyer
 firstworldanarchists
 Fischl
 FitAndNatural
+FitToFat
 fixedbytheduet
 FixedGearBicycle
 FixMyPhotoJaffa
@@ -1464,6 +1478,7 @@ foxes
 FoxFiction
 foxholegame
 fragilecommunism
+FragileMaleRedditor
 france
 france6
 FranceDetendue
@@ -1685,6 +1700,7 @@ Guildwars2
 Guiltygear
 guineapigs
 guitarcirclejerk
+guitarporn
 GunAccessoriesForSale
 Gundam
 gundeals
@@ -1707,6 +1723,7 @@ HadToHurt
 haikyuu
 HaileeSteinfeld
 HaileeSteinfeldBooty
+Hair
 hajimenoippo
 HalfLife
 halifax
@@ -1728,6 +1745,7 @@ happycryingdads
 HappyPitbull
 HappyWoofGifs
 HardcoreNature
+hardstyle
 hardware
 Harley
 Harpo
@@ -1752,6 +1770,7 @@ heat
 HeckThisIsWholesome
 Hedgehog
 Helicopters
+HellenicMemes
 HellLetLoose
 hellsomememes
 Helltaker
@@ -1881,6 +1900,8 @@ IllegallySmolDogs
 illnessfakers
 Illustration
 im14andthisisdeep
+Im15AndThisIsYeet
+ImaginaryArchers
 ImaginaryArmor
 ImaginaryBehemoths
 ImaginaryBestOf
@@ -1907,6 +1928,7 @@ ImaginaryMonsters
 ImaginaryMythology
 ImaginaryNecronomicon
 ImaginaryPathways
+ImaginarySeascapes
 ImaginarySliceOfLife
 ImaginarySoldiers
 ImaginaryStarscapes
@@ -1917,6 +1939,7 @@ ImaginaryWarhammer
 ImaginaryWesteros
 ImaginaryWitcher
 ImaginaryWitches
+ImagineThisView
 ImFinnaGoToHell
 Impeach_Trump
 Imperator
@@ -2085,6 +2108,7 @@ KatherineMcNamara
 KatherynWinnick
 Katiesigmondspics
 katyperry
+KaylaErinCosplay
 kde
 kdenlive
 Keep_Track
@@ -2111,6 +2135,7 @@ killteam
 killthecameraman
 KimberlyLoaiza
 KimetsuNoYaiba
+Kindred
 Kingdom
 kingdomcome
 KingdomHearts
@@ -2161,6 +2186,7 @@ LadyBoners
 laidbackcamp
 Lalisa
 lanadelrey
+LancerRPG
 LandCruisers
 LandlordLove
 LandoftheLustrous
@@ -2175,6 +2201,7 @@ LatinoPeopleTwitter
 latterdaysaints
 law
 LawSchool
+lawschooladmissions
 LazyCats
 leagueoflegends
 LeagueOfMemes
@@ -2288,6 +2315,7 @@ loveafterlockup
 Lovecraft
 LoveForLandlords
 LoveIslandTV
+Lovelink
 LoveNikki
 LowSodiumHalo
 Lowtechbrilliance
@@ -2298,6 +2326,7 @@ LudwigAhgren
 lululemon
 Lumity
 Lustig
+Luthier
 LV426
 MAAU
 mac
@@ -2395,6 +2424,7 @@ meat
 MeatCanyon
 MechanicAdvice
 mechanical_gifs
+mechmarket
 Mechwarrior5
 MedicalGore
 MedievalCats
@@ -2531,6 +2561,7 @@ Monke
 MonsterHigh
 MonsterHunter
 MonsterHunterWorld
+Monsterverse
 Montana
 montreal
 MoonKnight
@@ -2629,6 +2660,7 @@ ndp
 nebelung
 NeckbeardNests
 Necrontyr
+needforspeed
 neekomains
 NelliesNest
 NeonGenesisEvangelion
@@ -2709,6 +2741,7 @@ NormMacdonald
 NorthCarolina
 northernireland
 northernlion
+nosafetysmokingfirst
 nosleep
 nostalgia
 NoStupidQuestions
@@ -2729,6 +2762,7 @@ noworking
 nrl
 NSFWEastAsian
 NuclearRevenge
+NUFC
 Nujabes
 nukedmemes
 nursing
@@ -2846,6 +2880,7 @@ OverwatchLeague
 OverwatchTMZ
 Owls
 Padres
+pagan
 PaigeSpiranac
 painting
 pakistan
@@ -2860,6 +2895,7 @@ papertowns
 ParadoxExtra
 paradoxplaza
 Parahumans
+paralegal
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
@@ -3044,6 +3080,7 @@ PrintedMinis
 privacy
 proceduralgeneration
 prochoice
+ProCreate
 ProfessorLayton
 ProgrammerAnimemes
 ProgrammerHumor
@@ -3193,6 +3230,7 @@ retarb
 RetroFuturism
 retrogaming
 reverseanimalrescue
+riae_
 rickandmorty
 RidiculousRealEstate
 RighteousGemstones
@@ -3444,6 +3482,7 @@ singularity
 SipsTea
 sixfacedworld
 SixtySecondsInAfrica
+Sjokz
 skamtebord
 sketches
 skiing
@@ -3639,6 +3678,7 @@ SuccessionTV
 suddenlybi
 SuddenlyGay
 suicidebywords
+summonerschool
 summonerswar
 sunraybee
 suns
@@ -3826,6 +3866,7 @@ thesims
 thesopranos
 TheStrokes
 TheTempleOfOchako
+theticket
 TheTrumpZone
 TheVampireDiaries
 thewalkingdead
@@ -3934,12 +3975,14 @@ travel
 trebuchetmemes
 treelaw
 trees
+treeseatingthings
 TreesSuckingOnThings
 tretinoin
 trippinthroughtime
 Trishyland
 TrollCoping
 Trophies
+TruckerCats
 Truckers
 trucksim
 TrueAnon
@@ -3947,6 +3990,7 @@ truechildfree
 truecreepy
 TrueCrime
 TrueCrimeDiscussion
+TrueFilm
 TrueReddit
 trump
 Trumpgret
@@ -3974,6 +4018,7 @@ TWICExNice
 twinpeaks
 TwistedWonderland
 twittermoment
+TwoRedditorsOneCup
 TwoSentenceHorror
 TwoXChromosomes
 TwoXIndia
@@ -4001,6 +4046,7 @@ UkrainianConflict
 Ultrakill
 ultrawidemasterrace
 UmbrellaAcademy
+uncharted
 unclebens
 Undertale
 UnearthedArcana
@@ -4092,9 +4138,11 @@ VinlandSaga
 vintage
 vintageads
 VintageFashion
+vintagejapaneseautos
 VintageLadyBoners
 vinyl
 ViralFun
+Virginia
 virginvschad
 virtualreality
 Visiblemending
@@ -4112,9 +4160,11 @@ vrising
 VRtoER
 VShojo
 vtmb
+vultureculture
 VuvuzelaIPhone
 WackyTicTacs
 Wales
+WalkableStreets
 walkaway
 wallpaper
 wallstreetbets
@@ -4264,6 +4314,7 @@ wow
 Wrasslin
 wrestling
 writers
+writing
 writingcirclejerk
 WritingPrompts
 WRX
