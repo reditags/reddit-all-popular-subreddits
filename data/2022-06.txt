@@ -86,6 +86,7 @@ ACQR
 ActionFigures
 ActivationSound
 ActLikeYouBelong
+actu_memes
 ActualPublicFreakouts
 AdachiToShimamura
 Adelaide
@@ -225,6 +226,7 @@ antifeminists
 antimeme
 antiMLM
 antinatalism
+antitrampo
 antiwork
 Anya_TaylorJoy
 AnyaTaylorJoy
@@ -482,6 +484,7 @@ BirdsArentReal
 BirdsForScale
 birdswitharms
 Birmingham
+birthofasub
 bisexualmemes
 BisexualTeens
 bitchimabus
@@ -514,6 +517,7 @@ blender
 Blep
 blessedimages
 Blink182
+BloodAngels
 blop
 bluey
 blunderyears
@@ -796,6 +800,7 @@ civ
 civic
 civilengineering
 CivVI
+CKTinder
 ClashOfClans
 ClashRoyale
 ClassConscienceMemes
@@ -824,6 +829,7 @@ CODWarzone
 codyko
 CODZombies
 Coldmirror
+ColdOnes
 college
 collegebaseball
 CollegeBasketball
@@ -888,6 +894,7 @@ cosplayers
 Costco
 cottagecore
 CounterSide
+CountOnceADay
 Covetfashion
 cowboybebop
 cowboys
@@ -906,6 +913,7 @@ CrazyHuman
 CrazyIdeas
 crazystairs
 creepy
+creepyasterisks
 creepydesign
 creepyencounters
 creepyPMs
@@ -1085,6 +1093,7 @@ DetroitRedWings
 Deusex
 deutschememes
 DevilMayCry
+diabetes
 diabetes_t1
 Diablo
 diablo2
@@ -1142,6 +1151,7 @@ dogecoin
 dogelore
 dogpictures
 dogs
+dogslookingdown
 dogswithjobs
 Dogtraining
 dontdeadopeninside
@@ -1196,6 +1206,7 @@ dutch
 dwarffortress
 DylanGonzalez
 DylanteroYT
+DynastyFF
 Dyson_Sphere_Program
 earthbound
 EarthPorn
@@ -1250,6 +1261,7 @@ engrish
 ENLIGHTENEDCENTRISM
 enlistedgame
 EnoughCommieSpam
+EnoughLibertarianSpam
 EnoughMuskSpam
 EnoughPCMSpam
 enoughpetersonspam
@@ -1262,6 +1274,7 @@ entwives
 environment
 EpicMounts
 EpicSeven
+equestriaatwar
 Eragon
 EscapefromTarkov
 esist
@@ -1295,10 +1308,12 @@ extremelyinfuriating
 Eyebleach
 F1Game
 F1Porn
+F1Technical
 F1TV
 FacebookScience
 facebookwins
 facepalm
+Faces
 factorio
 Factoriohno
 FairytaleasFuck
@@ -1361,12 +1376,14 @@ finance
 financialindependence
 findareddit
 findfashion
+FindTheSniper
 FingMemes
 Finland
 Firearms
 fireemblem
 FireEmblemHeroes
 FireEmblemThreeHouses
+Firefighting
 firefly
 FIREIndia
 FirstTimeHomeBuyer
@@ -1375,6 +1392,7 @@ Fischl
 FitAndNatural
 fixedbytheduet
 FixedGearBicycle
+FixMyPhotoJaffa
 FlashTV
 FleshPitNationalPark
 FlexinLesbians
@@ -1435,6 +1453,7 @@ FreeCompliments
 freefolk
 freefromwork
 FreeGameFindings
+French
 Frenchbulldogs
 Frenchhistorymemes
 FrenchMemes
@@ -1487,6 +1506,7 @@ fuslie
 fut
 futebol
 futurama
+Futuremoe
 futureporn
 Futurology
 FWFBThinkTank
@@ -1532,10 +1552,12 @@ geckos
 geek
 genderfluid_irl
 generative
+GenEU
 Genshin_Impact
 Genshin_Impact_Leaks
 Genshin_Lore
 Genshin_Wallpaper
+GenshinHomeworld
 GenshinImpact
 GenshinImpactTips
 gentlemanboners
@@ -1696,11 +1718,13 @@ HazbinHotel
 headpats
 headphones
 Health
+HealthyFood
 Healthygamergg
 hearthstone
 hearthstonecirclejerk
 HeartstopperAO
 heat
+HeckThisIsWholesome
 Hedgehog
 Helicopters
 HellLetLoose
@@ -1873,6 +1897,7 @@ imsorryjon
 ImTheMainCharacter
 InclusiveOr
 Incorgnito
+IncreasinglyVerbose
 india
 indiadiscussion
 indiameme
@@ -1889,6 +1914,7 @@ IndiaSpeaks
 IndieDev
 indiegames
 IndieGaming
+indieheadscirclejerk
 indonesia
 IndoorGarden
 INDYCAR
@@ -1938,6 +1964,7 @@ IsraelCrimes
 IsTodayFridayThe13th
 ITAGLIA
 italy
+ITcrowd
 ItemShop
 Iteration110Cradle
 ItHadToBeBrazil
@@ -2003,6 +2030,7 @@ Justfuckmyshitup
 JustGuysBeingDudes
 JusticeForJohnnyDepp
 JusticeServed
+JustMonika
 justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
@@ -2203,6 +2231,7 @@ longrange
 lookatmydog
 LOONA
 LooneyTunesLogic
+loopringartists
 loopringorg
 lordoftherings
 Lore_Olympus
@@ -2248,6 +2277,7 @@ MadeMeCry
 MadeMeSmile
 Madisonbeer
 madisonwi
+madnesscombat
 MadokaMagica
 MagicArena
 magicthecirclejerking
@@ -2344,6 +2374,7 @@ meme
 memeculturetechnology
 MemeEconomy
 memeframe
+MemeFrancais
 MemeHunter
 MemePiece
 memes
@@ -2438,6 +2469,7 @@ MnetQueendom
 MobileLegendsGame
 MobKitchen
 Mobpsycho100
+MobuSeka
 MoDaoZuShi
 modelmakers
 Models
@@ -2493,6 +2525,7 @@ Mtf_irl
 MTFSelfieTrain
 mtg
 MtvChallenge
+MuayThai
 Mujico
 Multecistan
 multiverseofmadness
@@ -2719,6 +2752,7 @@ OliviaTaylorDudley
 OMORI
 onejob
 onejoke
+oneliners
 OneOrangeBraincell
 OnePiece
 OnePunchMan
@@ -2806,6 +2840,7 @@ PeakyBlinders
 peanutbutterisoneword
 PeanutWhiskers
 PEI
+PenguinOfTheMonth
 PenmanshipPorn
 Pennsylvania
 pennystocks
@@ -2880,6 +2915,7 @@ PixelArt
 Pizza
 PizzaCrimes
 planesgonewild
+PlanetCoaster
 Planetside
 PlanetZoo
 PlantBasedDiet
@@ -2962,6 +2998,7 @@ PrincessesOfPower
 PrintedMinis
 privacy
 proceduralgeneration
+prochoice
 ProfessorLayton
 ProgrammerAnimemes
 ProgrammerHumor
@@ -3182,6 +3219,7 @@ saltierthancrait
 saltierthankrayt
 SaltLakeCity
 SaltsAnime
+Samaj
 SamayRaina
 SamONellaAcademy
 samoyeds
@@ -3239,6 +3277,7 @@ seattlehobos
 SeattleKraken
 SeattleWA
 seinfeld
+seinfeldgifs
 SeishunButaYarou
 Sekiro
 SelenaGomez
@@ -3256,6 +3295,7 @@ serbia
 serbiancringe
 seriouseats
 Serverlife
+seventeen
 SeveranceAppleTVPlus
 SewayakiKitsune
 sewing
@@ -3363,7 +3403,9 @@ skyrim
 SkyrimMemes
 skyrimmods
 SkyrimPorn
+SlavaUkrayini
 slaythespire
+Slimecicle
 slimerancher
 Slipknot
 Slovakia
@@ -3556,6 +3598,7 @@ Supernatural
 supersentai
 Superstonk
 superstore
+supportlol
 surrealmemes
 survivor
 sushi
@@ -3707,6 +3750,7 @@ TheLeftCantMeme
 TheLetterH
 thelongdark
 TheMandalorianTV
+TheMonkeysPaw
 thenetherlands
 TheNightFeeling
 theocho
@@ -3778,6 +3822,7 @@ tommyinnit
 TommyKay
 tomorrow
 tonightsdinner
+TonikakuCawaii
 TonyZaretOfficial
 TooAfraidToAsk
 toofers
@@ -3884,6 +3929,7 @@ ufc
 UFOs
 uglyduckling
 UIUC
+ukdrill
 UKPersonalFinance
 ukraina
 ukraine
@@ -4025,6 +4071,7 @@ warriors
 WarshipPorn
 warthundermemes
 wasletztepreis
+watch_dogs
 WatchandLearn
 WatchDogsWoofInside
 Watches
@@ -4179,6 +4226,7 @@ yakuzagames
 yandere
 YanfeiMains
 yeagerbomb
+Yeji
 YelanMains
 Yellz0
 yesyesyesno
@@ -4211,6 +4259,7 @@ ZeldaIsCute
 ZeLink
 Zendaya
 ZeroWaste
+ZhongliMains
 zoemains
 zoloft
 ZombielandSaga
