@@ -22,6 +22,7 @@
 2BeNeLux4you
 2bharat4you
 2bulgar4you
+2greek4you
 2hujerk
 2meirl42meirl4meirl
 2meirl4meirl
@@ -377,6 +378,7 @@ AusMemes
 australia
 AustralianCattleDog
 AustralianPolitics
+AustralianShepherd
 Austria
 austriahungary
 autism
@@ -591,6 +593,7 @@ boburnham
 BocaJuniors
 bodybuilding
 bodymods
+bodyweightfitness
 Bogleheads
 BoJackHorseman
 Bokoen1
@@ -900,6 +903,7 @@ ClashRoyale
 ClassConscienceMemes
 classicalguitar
 classiccars
+classicsoccer
 classicwow
 ClassPoliticsTwitter
 ClassroomOfTheElite
@@ -1053,6 +1057,7 @@ CrusaderKings
 Crypto_com
 CryptoCurrency
 CryptoMarkets
+CryptoMars
 CryptoMoonShots
 Crystals
 cscareerquestions
@@ -1556,6 +1561,7 @@ firstworldanarchists
 firstworldproblems
 Fischl
 FitAndNatural
+fitness30plus
 FitToFat
 fixedbytheduet
 FixedGearBicycle
@@ -1898,6 +1904,7 @@ happycrowds
 happycryingdads
 HappyPitbull
 HappyWoofGifs
+hardcoreaww
 HardcoreNature
 hardstyle
 hardware
@@ -1940,6 +1947,7 @@ HeroForgeMinis
 herpetology
 hessich_iel
 HFY
+hiddenrooms
 HighHeels
 HighQualityGifs
 HighStrangeness
@@ -2177,6 +2185,7 @@ intermittentfasting
 internet_funeral
 InternetIsBeautiful
 internetparents
+intotheshadowrealm
 introvert
 introvertmemes
 Invincible
@@ -2195,6 +2204,7 @@ ironmaiden
 ironscape
 IrrationalMadness
 IsabelaMerced
+IsekaiQuartet
 islam
 Israel
 IsraelCrimes
@@ -2338,6 +2348,7 @@ Kindred
 Kingdom
 kingdomcome
 KingdomHearts
+KingkillerChronicle
 KingOfTheHill
 KingstonOntario
 Kirby
@@ -2482,6 +2493,7 @@ lilireinhart
 LilPeep
 liluzivert
 LilyCollins
+LilyJames
 LiminalSpace
 lingling40hrs
 linguisticshumor
@@ -2598,6 +2610,7 @@ Malazan
 malcolminthemiddle
 malegrooming
 malelivingspace
+MaleniCruz
 MaliciousCompliance
 mallninjashit
 MalluBabes
@@ -2605,6 +2618,7 @@ MaluTrevejo_NSFW
 manchester
 ManchesterUnited
 Mandalorian
+MandelaCatalogue
 MandJTV
 MandyRose
 MangaCollectors
@@ -2990,6 +3004,7 @@ Noctor
 nody_ai
 Noellemains
 NoFap
+NoFuckingComment
 noita
 NolanBatmanMemes
 NolanMemes
@@ -3030,15 +3045,18 @@ nottheonion
 nova
 nowmycat
 noworking
+NPR
 nrl
 NSFWEastAsian
 NuclearRevenge
 NUFC
 Nujabes
 nukedmemes
+NukesTop5
 nursing
 NuxTakuSubmissions
 nvidia
+nwordington
 nyjets
 NYYankees
 obeyme
@@ -3265,6 +3283,7 @@ physicsgifs
 physicsmemes
 PickleFinancial
 pics
+PicsOfUnusualBirds
 piercing
 Pigifs
 Pikabu
@@ -3373,6 +3392,7 @@ PrettyGirls
 PrettyOlderWomen
 preyingmantis
 Priconne
+primaverasound
 PrimeiraLiga
 PrimitiveTechnology
 PrincessesOfPower
@@ -3427,6 +3447,7 @@ pureasoiaf
 Purrito
 purrkour
 pussypassdenied
+PutAnEggOnIt
 PvZGardenWarfare
 PvZHeroes
 pyrocynical
@@ -3654,6 +3675,7 @@ saudiarabia
 SavageGarden
 savedyouaclick
 sbeve
+sbubby_NL
 Scams
 ScaramoucheMains
 ScarlettBordeaux
@@ -4107,6 +4129,7 @@ taskmaster
 tattoo
 TattooArt
 TattooDesigns
+TattooGirls
 tattoos
 Tau40K
 TaylorSwift
@@ -4190,6 +4213,7 @@ thecatdimension
 TheCatTrapIsWorking
 TheCivilService
 TheClickOwO
+TheCloneWars
 TheCuddlePuddle
 TheCulture
 TheDarkTower
@@ -4783,6 +4807,7 @@ Yoimiya_Mains
 Yointerneto
 yorickmains
 Yotsubros
+YouBelongWithMemes
 youdontsurf
 YoujoSenki
 youngjustice
