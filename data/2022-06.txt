@@ -985,6 +985,7 @@ CountOnceADay
 Covetfashion
 cowboybebop
 cowboys
+Coyotes
 coys
 cozy
 CozyPlaces
@@ -1549,6 +1550,7 @@ fo4
 fo76
 FondantHate
 food
+FoodLosAngeles
 FoodPorn
 Foofighters
 footballmanagergames
@@ -2175,6 +2177,7 @@ jackass
 jacksepticeye
 jacksonville
 Jaharia
+jaidenanimations
 jakertown
 Janiameshelll
 January6
@@ -2207,6 +2210,7 @@ JohnMulaney
 johnnydeppfan
 joinsquad
 Jokes
+JonTron
 Jord627_
 JordanPeterson
 JordynjonescontentBU
@@ -2537,6 +2541,7 @@ MaladaptiveDreaming
 MalayalamMovies
 malaysia
 Malazan
+malcolminthemiddle
 malegrooming
 malelivingspace
 MaliciousCompliance
@@ -2549,6 +2554,7 @@ Mandalorian
 MandJTV
 MandyRose
 MangaCollectors
+MangaMemes
 manhwa
 ManufacturingPorn
 Maplestory
@@ -2596,6 +2602,7 @@ Mcat
 MCFC
 McKaylaMaroney
 McMansionHell
+MCPE
 me_irl
 me_irlgbt
 MealPrepSunday
@@ -3303,6 +3310,7 @@ PrettyOlderWomen
 preyingmantis
 Priconne
 PrimeiraLiga
+PrimitiveTechnology
 PrincessesOfPower
 PrintedMinis
 privacy
@@ -3396,6 +3404,7 @@ randomactsofmusic
 RandomThoughts
 rangers
 rant
+rapbattles
 rapedwarflore
 Raphtalia
 rareinsults
@@ -3566,6 +3575,7 @@ SanJose
 saopaulo
 SapphoAndHerFriend
 Sardonicast
+saskatchewan
 SASSWitches
 Satan
 SatanicTemple_Reddit
@@ -3945,6 +3955,7 @@ SubwayCreatures
 SuccessionTV
 suddenlybi
 SuddenlyGay
+SuddenlyLesbian
 suicidebywords
 summonerschool
 summonerswar
@@ -4034,6 +4045,7 @@ Teachers
 TeamfightTactics
 TeamFourStar
 TeamSESH
+TearsOfThemis
 tech
 tech1e
 technews
@@ -4154,6 +4166,7 @@ TheWayWeWere
 TheWeeknd
 TheWire
 thewitcher3
+TheYardPodcast
 theydidthemath
 theyknew
 ThickFit
@@ -4171,6 +4184,7 @@ ThotBeatdowns
 thumbcats
 Thunder
 ThunderThots
+tianguancifu
 Tierzoo
 tifu
 TIGHTPUSSY
@@ -4184,6 +4198,7 @@ tiktokorchestra
 TILI
 tiltshift
 TimAndEric
+timberwolves
 TimDillon
 timelapse
 Tinder
@@ -4310,6 +4325,7 @@ TwistedWonderland
 twittermoment
 TwoRedditorsOneCup
 TwoSentenceHorror
+TwoSentenceSadness
 TwoXChromosomes
 TwoXIndia
 TwoXPreppers
@@ -4442,6 +4458,7 @@ vintagejapaneseautos
 VintageLadyBoners
 vinyl
 VinylMePlease
+VioletEvergarden
 ViralFun
 Virginia
 virginvschad
