@@ -46,10 +46,12 @@
 676
 691
 7daystodie
+80s
 80sdesign
 90DayFiance
 90dayfianceuncensored
 90s
+90sdesign
 A24
 AAAAAAAAAAAAAAAAA
 aaaaaaaarrrrro
@@ -302,6 +304,7 @@ arma
 army
 aromantic
 aromanticasexual
+AroundTheNFL
 arresteddevelopment
 Art
 ArtDeco
@@ -423,6 +426,7 @@ Barry
 barstoolsports
 bartenders
 baseball
+baseballcards
 basketballcards
 bassfishing
 batman
@@ -659,6 +663,7 @@ buffy
 buildapc
 buildapcsales
 bujo
+bulbasaurmasterrace
 bulgaria
 Bulldogs
 bulletjournal
@@ -709,6 +714,7 @@ CaptainSparklez
 CaptainSparrowmemes
 capybara
 carcrash
+cardano
 cardsagainsthumanity
 carmemes
 carporn
@@ -822,6 +828,7 @@ chile
 China_irl
 chinchilla
 Chinesium
+Chipotle
 Chiraqology
 chloegracemoretz
 Choices
@@ -857,6 +864,7 @@ CKTinder
 ClashOfClans
 ClashRoyale
 ClassConscienceMemes
+classicalguitar
 classiccars
 classicwow
 ClassPoliticsTwitter
@@ -1002,6 +1010,7 @@ CrossfitGirls
 CrossStitch
 crowbro
 CRT_so_scary
+Cruise
 CrusaderKings
 Crypto_com
 CryptoCurrency
@@ -1021,12 +1030,14 @@ Cuphead
 CuratedTumblr
 curb
 curledfeetsies
+Cursed_Images
 cursed_videomemes
 cursedcomments
 CursedCommentsComment
 cursedcursedcomments
 Cursedgunimages
 CursedGuns
+cursedjojo
 cursedmemes
 CursedMinecraft
 cursedvideos
@@ -1115,10 +1126,12 @@ DebtStrike
 DecidingToBeBetter
 DeepIntoYouTube
 DeepRockGalactic
+deepseacreatures
 DeepSpaceNine
 deftones
 delhi
 Delightfullychubby
+delta
 Deltarune
 delusionalartists
 delusionalcraigslist
@@ -1160,6 +1173,7 @@ DeTrashed
 Detroit
 DetroitBecomeHuman
 detroitlions
+DetroitPistons
 DetroitRedWings
 Deusex
 deutschememes
@@ -1223,6 +1237,7 @@ Dogberg
 dogbridges
 dogecoin
 dogelore
+Dogloaf
 dogpictures
 dogs
 dogslookingdown
@@ -1262,6 +1277,7 @@ dreamsmp
 Dreamtheater
 DreamWasTaken
 DreamWasTaken2
+DrewDurnil
 Drifting
 DrStone
 Drugs
@@ -1479,6 +1495,7 @@ firefox
 FIREIndia
 FirstTimeHomeBuyer
 firstworldanarchists
+firstworldproblems
 Fischl
 FitAndNatural
 FitToFat
@@ -1547,6 +1564,7 @@ FranceDetendue
 FrankOcean
 Frasier
 FreckledGirls
+freddiegibbs
 FreeCompliments
 freefolk
 freefromwork
@@ -1576,6 +1594,7 @@ FUCKFACEPOD
 fuckHOA
 FuckImOld
 fucklawns
+FuckMitchMcConnell
 FuckNestle
 FuckPierre
 Fuckthealtright
@@ -1770,6 +1789,7 @@ Guiltygear
 guineapigs
 guitarcirclejerk
 guitarporn
+guitars
 GunAccessoriesForSale
 Gundam
 gundeals
@@ -1837,6 +1857,7 @@ hearthstone
 hearthstonecirclejerk
 HeartstopperAO
 heat
+HeavySeas
 HeckThisIsWholesome
 Hedgehog
 Helicopters
@@ -1893,6 +1914,7 @@ HololiveYuri
 HolUp
 HomeDecorating
 HomeDepot
+homegym
 HomeImprovement
 homelab
 homestead
@@ -1904,6 +1926,7 @@ honkaiimpact3
 HonkaiStarRail
 Horimiya
 horizon
+HorizonForbiddenWest
 horror
 Horses
 HotlineMiami
@@ -1951,6 +1974,7 @@ iamveryrandom
 iamverysmart
 IASIP
 IBO
+ibs
 ich_iel
 ichbin40undlustig
 ididnthaveeggs
@@ -1979,6 +2003,7 @@ Illustration
 im14andthisisdeep
 Im15AndThisIsYeet
 ImaginaryArchers
+ImaginaryArchitecture
 ImaginaryArmor
 ImaginaryBehemoths
 ImaginaryBestOf
@@ -2139,6 +2164,7 @@ jessicaalba
 JessicaChastain
 jesuschristouija
 Jewdank
+JhinMains
 Jigsawpuzzles
 jisoo
 jobs
@@ -2321,6 +2347,7 @@ legalcatadvice
 legendofkorra
 LegendsOfRuneterra
 lego
+legodeal
 Legoleak
 legostarwars
 LegoStarWarsVideoGame
@@ -2332,6 +2359,7 @@ LesbianActually
 lesbianfashionadvice
 LesbianInsectBrothel
 lesbianmemes
+Lesbiaww
 lesserafim
 Letterboxd
 Letterkenny
@@ -2339,6 +2367,7 @@ lewronggeneration
 Lexus
 lgballt
 lgbt
+lgbthistory
 lgbtmemes
 LGBTnews
 liberalgunowners
@@ -2422,6 +2451,7 @@ LoveForLandlords
 LoveIslandTV
 Lovelink
 LoveNikki
+LoveOnTheSpectrumShow
 LowSodiumHalo
 Lowtechbrilliance
 LPOTL
@@ -2633,8 +2663,10 @@ Mirrorsforsale
 misleadingthumbnails
 missbricosplay
 missbricosplays2
+missouri
 Mistborn
 MitchellAndWebb
+mitski
 Mizkif
 mlb
 MLBTheShow
@@ -2842,6 +2874,7 @@ NoahGetTheBoat
 NoahGetTheDeathStar
 NobodyAsked
 nocontextpics
+Noctor
 nody_ai
 Noellemains
 NoFap
@@ -2918,6 +2951,7 @@ OkBrudiMongo
 okbuddybaka
 okbuddycapitalist
 okbuddychicanery
+okbuddycinephile
 okbuddygenshin
 okbuddyguardian
 OKbuddyHalfLife
@@ -3009,6 +3043,7 @@ Overwatch_Memes
 OverwatchLeague
 OverwatchTMZ
 Owls
+Ozark
 Padres
 pagan
 PaigeSpiranac
@@ -3050,7 +3085,9 @@ PeakyBlinders
 peanutbutterisoneword
 PeanutWhiskers
 PEI
+pelotoncycle
 PenguinOfTheMonth
+penguins
 PenmanshipPorn
 Pennsylvania
 pennystocks
@@ -3101,6 +3138,7 @@ phish
 phoebebridgers
 phoenix
 PhoenixSC
+PhonesAreBad
 photocritique
 photoshopbattles
 PhotoshopRequest
@@ -3191,6 +3229,7 @@ Portal
 portugal
 PORTUGALCARALHO
 Possums
+PostHardcore
 POTCmemes
 pottedcats
 Pottery
@@ -3370,6 +3409,7 @@ residentevil
 restofthefuckingowl
 retailhell
 retarb
+retrobattlestations
 RetroFuturism
 retrogaming
 reverseanimalrescue
@@ -3505,6 +3545,7 @@ ScottishPeopleTwitter
 scottthewoz
 SCP
 screenshots
+Screenwriting
 scriptedasiangifs
 Scrubs
 scrungycats
@@ -3516,6 +3557,7 @@ seattlehobos
 SeattleKraken
 SeattleWA
 secondsketch
+secretcompartments
 SeeYaLaterLosers
 seinfeld
 seinfeldgifs
@@ -3534,6 +3576,7 @@ SequelMemes
 SeraphineMains
 serbia
 serbiancringe
+serialkillers
 seriouseats
 Serverlife
 seventeen
@@ -3730,6 +3773,7 @@ spiderbro
 Spiderman
 SpidermanPS4
 spiders
+spiderversedailymemes
 Spielstopp
 splatoon
 Splendida
@@ -3776,6 +3820,7 @@ starsector
 StarshipPorn
 starterpacks
 StartledCats
+startrekgifs
 startrekmemes
 StarVStheForcesofEvil
 StarWars
@@ -3927,6 +3972,7 @@ TeacherReality
 Teachers
 TeamfightTactics
 TeamFourStar
+TeamSESH
 tech
 tech1e
 technews
@@ -4011,6 +4057,7 @@ TheGirlSurvivalGuide
 TheGoodPlace
 thegrandtour
 TheGriffonsSaddlebag
+TheGrittyPast
 TheHague
 TheLastAirbender
 TheLastKingdom
@@ -4202,6 +4249,7 @@ TwoRedditorsOneCup
 TwoSentenceHorror
 TwoXChromosomes
 TwoXIndia
+TwoXPreppers
 tyingherhairup
 tylerthecreator
 typography
@@ -4212,6 +4260,7 @@ UBC
 UCI
 ucla
 UCSD
+udub
 ufc
 UFOs
 uglyduckling
@@ -4496,12 +4545,14 @@ wordington
 workersrightsmovement
 WorkersStrikeBack
 WorkReform
+Workspaces
 Worldbox
 worldbuilding
 worldjerking
 worldnews
 worldnewsvideo
 worldofgothic
+worldofpvp
 WorldofTanks
 WorldOfTanksBlitz
 WorldOfWarships
