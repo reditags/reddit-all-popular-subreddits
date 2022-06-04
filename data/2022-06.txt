@@ -164,6 +164,7 @@ aiyu
 ak47
 akagas
 akalimains
+AkameGaKILL
 akita
 alaska
 Albany
@@ -984,6 +985,7 @@ CentralChurch
 centuryhomes
 Ceramics
 CFB
+cfs
 Chadposting
 Chadtopia
 Chainsawfolk
@@ -1175,6 +1177,7 @@ conspiracytheories
 Construction
 consulting
 ContagiousLaughter
+container_homes
 ContestOfChampions
 ContraPoints
 Conures
@@ -1454,6 +1457,7 @@ DesiMeta
 DesirePath
 DesirePaths
 desmoines
+dessert
 DessertPorn
 Destiny
 destiny2
@@ -1475,6 +1479,7 @@ deutschememes
 developersIndia
 DevilMayCry
 devpt
+DGDAG
 DHHMemes
 diabetes
 diabetes_t1
@@ -1675,6 +1680,7 @@ ElectricForest
 electricians
 electricvehicles
 ElectroBOOM
+electronicmusic
 electronics
 EliteDangerous
 eliteexplorers
@@ -1769,6 +1775,7 @@ ExNoContact
 exocomics
 ExpandDong
 ExpectationVsReality
+ExperiencedDevs
 explainlikeimfive
 ExposurePorn
 ExtraFabulousComics
@@ -1855,6 +1862,7 @@ Fibromyalgia
 FierceFlow
 FIFA
 FifaCareers
+FighterJets
 Fighters
 FightingFakeNews
 fightporn
@@ -2166,6 +2174,7 @@ Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
 Glocks
+glossier
 glutenfree
 GME
 gme_meltdown
@@ -2314,6 +2323,7 @@ HardcoreNature
 hardstyle
 hardware
 Harley
+HarleyQuinn
 Harpo
 harrypotter
 harvestmoon
@@ -2470,6 +2480,7 @@ HypixelSkyblock
 IAmA
 Iamactuallyverybadass
 iamatotalpieceofshit
+IAmTheMainCharacter
 iamverybadass
 iamveryculinary
 iamveryrandom
@@ -2728,6 +2739,7 @@ JEENEETards
 Jeep
 jellybeantoes
 JennaLouiseColeman
+Jennamarbles
 jennie
 JenniferAniston
 JenniferConnelly
@@ -2809,6 +2821,7 @@ Kanye
 karengillan
 KarmaRoulette
 KatanaZero
+KatarinaMains
 KatDennings
 katebeckinsale
 katebush
@@ -3027,6 +3040,7 @@ LifeProTips
 LigaMX
 LightningInABottle
 lightsabers
+Ligue1
 likeus
 LilGrabbies
 lilireinhart
@@ -3107,6 +3121,7 @@ LOTRholygrailmemes
 lotrmemes
 lotro
 Louisiana
+Louisville
 loveafterlockup
 Lovecraft
 LoveForLandlords
@@ -3204,6 +3219,7 @@ mapmaking
 MapPorn
 mapporncirclejerk
 Maps
+mapswithoutnewzealand
 MapsWithoutNZ
 MapsWithoutTasmania
 MarchAgainstNazis
@@ -3225,6 +3241,7 @@ MarvelCringe
 MarvelLegends
 marvelmemes
 marvelstudios
+MarvelStudios_Rumours
 maryland
 massachusetts
 masseffect
@@ -3319,6 +3336,7 @@ metrage
 metro
 Metroid
 mew_irl
+mexicanfood
 mexico
 mfdoom
 MHRise
@@ -3454,6 +3472,7 @@ montreal
 MoonKnight
 Moonmoon
 morbidlybeautiful
+morbidquestions
 Morbius
 MordekaiserMains
 Mordhau
@@ -3622,6 +3641,7 @@ NewSkaters
 NewsOfTheStupid
 NewsWithJingjing
 NewVegasMemes
+newworldgame
 newyorkcity
 NewYorkIslanders
 NewYorkMets
@@ -3778,6 +3798,7 @@ okbuddyrathalos
 okbuddyreiner
 okbuddyrintard
 okbuddyvowsh
+okcopainattard
 okemakkermaloot
 okkamaraderetarde
 okkolegauposledzony
@@ -3879,6 +3900,7 @@ OverwatchTMZ
 OWConsole
 Owls
 Ozark
+pacers
 PackagingDesign
 Padres
 pagan
@@ -3895,6 +3917,7 @@ panelshow
 panicatthedisco
 PanPorn
 pansexual
+papermario
 papermoney
 papertowns
 papgrappen
@@ -4023,6 +4046,7 @@ PirateKitties
 PiratePets
 piratesofthecaribbean
 pisscommenting
+pitbullhate
 pitbulls
 pitbulls_in_partyhats
 pitbullsinjammies
@@ -4104,10 +4128,12 @@ Popular_Science_Ru
 porramauricio
 Porsche
 Portal
+porterrobinson
 portlandme
 porto
 portugal
 PORTUGALCARALHO
+portugueses
 Possums
 PostHardcore
 PostMalone
@@ -4132,6 +4158,7 @@ preppers
 PrequelMemes
 PresidentialRaceMemes
 PrettyGirls
+PrettyGirlsUglyFaces
 PrettyOlderWomen
 prey
 preyingmantis
@@ -4485,6 +4512,7 @@ SatisfactoryGame
 SatisfIcing
 satisfying
 Satisfyingasfuck
+SaturnStormCube
 saudiarabia
 SavageGarden
 savedyouaclick
@@ -4874,6 +4902,7 @@ stateball
 STAYC
 steak
 Steam
+steam_giveaway
 SteamDeck
 steampunk
 Steelbooks
@@ -5205,6 +5234,7 @@ Thisismylifemeow
 thisismylifenow
 thisisus
 ThisYouComebacks
+ThomasinMcKenzie
 thomastheplankengine
 ThotBeatdowns
 ThousandSons
@@ -5422,6 +5452,7 @@ UmaMusume
 UmbrellaAcademy
 umineko
 UNBGBBIIVCHIDCTIICBG
+UnchainedMelancholy
 uncharted
 unclebens
 Undertale
@@ -5432,6 +5463,7 @@ UnexpectedAvatar
 unexpectedcommunism
 unexpectedfactorial
 unexpectedfuturama
+unexpecteditcrowd
 UnexpectedJoJo
 UnexpectedlyWholesome
 unexpectedMontyPython
@@ -5830,6 +5862,7 @@ yesyesyesyesno
 yimby
 YMS
 ynab
+yohane
 Yoimiya_Mains
 Yointerneto
 yorickmains
