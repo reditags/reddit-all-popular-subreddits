@@ -37,6 +37,7 @@
 30ROCK
 350z
 3amjokes
+3d6
 3Dmodeling
 3Dprinting
 3DS
@@ -86,6 +87,7 @@ AccidentalComedy
 accidentallycommunist
 AccidentalRacism
 AccidentalRenaissance
+accidentalrockwell
 AccidentalSlapStick
 AccidentalTerrorism
 AccidentalWesAnderson
@@ -724,6 +726,7 @@ Brawlstars
 Breadit
 BreadStapledToTrees
 breakingbad
+BreakUps
 Breath_of_the_Wild
 breathinginformation
 Brewers
@@ -1199,6 +1202,7 @@ custommagic
 CustomPlayerCutscene
 cute
 cutegayshit
+cuteguyswithcats
 CyanideandHappiness
 Cyberpunk
 cyberpunkgame
@@ -1223,6 +1227,7 @@ dancemoms
 Dandadan
 danganronpa
 DaniDev
+Daniellarson
 dank_meme
 DankAndrastianMemes
 dankchristianmemes
@@ -1262,6 +1267,7 @@ dataisbeautiful
 dataisugly
 datealive
 dating
+datingoverthirty
 Davie504
 Daytrading
 dayz
@@ -1295,6 +1301,7 @@ deepseacreatures
 DeepSpaceNine
 deftones
 Degrassi
+Deleuze
 delhi
 deliciouscompliance
 Delightfullychubby
@@ -1402,6 +1409,7 @@ DnDIY
 dndmaps
 dndmemes
 dndnext
+DobermanPinscher
 doctorwho
 DoctorWhumour
 Documentaries
@@ -1412,6 +1420,8 @@ Dogberg
 dogbridges
 dogecoin
 dogelore
+Doggles
+doggrooming
 Dogloaf
 dogpictures
 dogs
@@ -1472,6 +1482,7 @@ drums
 drunk
 drunkencookery
 dualipa
+Dualsport
 dubai
 Dublin
 duck
@@ -1489,6 +1500,7 @@ duolingo
 dustkitties
 dutch
 dwarffortress
+dxm
 DylanGonzalez
 DylanteroYT
 DynastyFF
@@ -1613,6 +1625,7 @@ ExposurePorn
 extremelyinfuriating
 Eyebleach
 eyebombing
+f150
 F1Game
 F1Manager
 F1Porn
@@ -2088,6 +2101,7 @@ halo
 HaloCirclejerk
 haloinfinite
 HaloMemes
+hamstercare
 hamsters
 HandfulOfKitten
 handholding
@@ -2219,6 +2233,7 @@ howardstern
 howto
 howtonotgiveafuck
 howyoudoin
+hoyas
 HPHogwartsMystery
 httyd
 HUEstation
@@ -2228,6 +2243,7 @@ HumanPorn
 HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
+HumanTippyTaps
 humor
 humour
 hungary
@@ -2785,6 +2801,7 @@ LonghornNation
 longisland
 longrange
 lookatmydog
+LookatMyHalo
 LOONA
 LooneyTunesLogic
 loopringartists
@@ -2919,6 +2936,7 @@ maryland
 massachusetts
 masseffect
 MassEffectMemes
+massivefangs
 masterduel
 masterhacker
 MasterReturns
@@ -2944,6 +2962,7 @@ MCPE
 me_irl
 me_irlgbt
 MealPrepSunday
+mealtimevideos
 meat
 MeatCanyon
 MechanicAdvice
@@ -3020,6 +3039,7 @@ Mieruko
 migraine
 MikuNakano
 milanavayntrub
+mildlydisturbing
 mildlyinfuriating
 mildlyinteresting
 mildlypenis
@@ -3055,6 +3075,7 @@ minipainting
 Miniworlds
 Minneapolis
 minnesota
+minnesotatwins
 minnesotavikings
 Minoxbeards
 MioFanClub
@@ -3179,6 +3200,7 @@ Mustang
 MxRMods
 MXRplays
 My600lbLife
+my_celebrity_crush
 MyChemicalRomance
 mycology
 mylittlepony
@@ -3219,6 +3241,7 @@ NatureIsFuckingLit
 natureismetal
 natureporn
 Naturewasmetal
+Nautical
 navy
 nayeon
 nba
@@ -3226,6 +3249,8 @@ NBA2k
 nbacirclejerk
 nbadiscussion
 NBASpurs
+NBAYoungboy
+NCAAFBseries
 NCT
 ndp
 nebelung
@@ -3309,6 +3334,7 @@ NobodyAsked
 nocontextpics
 Noctor
 nody_ai
+NoelleFoley
 Noellemains
 NoFap
 NoFuckingComment
@@ -3366,6 +3392,7 @@ NuxTakuSubmissions
 nuzlocke
 nvidia
 nwordington
+NYGiants
 nyjets
 Nylalueeth
 NYYankees
@@ -3392,6 +3419,7 @@ okaybuddyretard
 okbhaibudbak
 OkBrudiLindner
 OkBrudiMongo
+okbuddyarkham
 okbuddybaka
 okbuddycapitalist
 okbuddychicanery
@@ -3499,6 +3527,7 @@ Overwatch
 Overwatch_Memes
 OverwatchLeague
 OverwatchTMZ
+OWConsole
 Owls
 Ozark
 PackagingDesign
@@ -3608,11 +3637,13 @@ PhoenixSC
 PhonesAreBad
 photocritique
 photographs
+photoshop
 photoshopbattles
 PhotoshopRequest
 Physics
 physicsgifs
 physicsmemes
+piano
 PickleFinancial
 picrew
 pics
@@ -3871,6 +3902,7 @@ ReactionMemes
 reactionpics
 readanotherbook
 ReadyOrNotGame
+real_China_irl
 RealBeesFakeTopHats
 reallifedoodles
 RealLifeShinies
@@ -3976,6 +4008,7 @@ ronperlmancats
 RoomPorn
 roosterteeth
 rose
+rosin
 RotMG
 Rottweiler
 RoughRomanMemes
@@ -4221,6 +4254,7 @@ silhouWHAT
 SiliconValleyHBO
 Silksong
 Silmarillionmemes
+Silverbugs
 silverhair
 simpleliving
 simpsonsshitposting
@@ -4400,6 +4434,7 @@ StarWars
 StarWarsBattlefront
 starwarsblackseries
 StarWarsCantina
+starwarscollecting
 StarWarsEU
 StarWarsKenobi
 StarWarsleftymemes
@@ -4444,6 +4479,7 @@ Strava
 straykids
 streetart
 StreetFighter
+streetphotography
 streetwear
 streetwearstartup
 strength_training
@@ -4463,6 +4499,7 @@ SubsTakenLiterally
 Suburbanhell
 SubwayCreatures
 SuccessionTV
+succshaming
 suddenlybi
 SuddenlyCommunist
 SuddenlyGay
@@ -4895,6 +4932,7 @@ Tyranids
 tzuyu
 UAE
 UBC
+UberEATS
 Ubiquiti
 ubius
 UCI
@@ -5011,6 +5049,7 @@ VeteransBenefits
 vexillology
 vexillologycirclejerk
 veYakinEvren
+VHScoverART
 victoria2
 victoria3
 VictoriaBC
@@ -5297,6 +5336,7 @@ ynab
 Yoimiya_Mains
 Yointerneto
 yorickmains
+Yosemite
 Yotsubros
 YouBelongWithMemes
 youdontsurf
