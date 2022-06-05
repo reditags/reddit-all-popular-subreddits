@@ -2615,6 +2615,7 @@ ImaginaryMythology
 ImaginaryNecronomicon
 ImaginaryNobles
 ImaginaryPathways
+imaginarypets
 ImaginaryPirates
 ImaginaryScholars
 ImaginarySeascapes
@@ -5005,6 +5006,7 @@ starwarsmemes
 starwarsrebels
 starwarsspeculation
 stateball
+stateofMN
 STAYC
 steak
 Steam
@@ -5109,6 +5111,7 @@ suspiciouslyspecific
 sustainability
 svenskpolitik
 Sverige
+SWARJE
 SweatyPalms
 sweden
 swedishproblems
