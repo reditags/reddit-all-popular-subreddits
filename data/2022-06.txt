@@ -239,6 +239,7 @@ AnarchoComics
 AnarchyChess
 Anbennar
 AncestryDNA
+ancientegypt
 ancientrome
 AndieCase
 Androgynoushotties
@@ -360,6 +361,7 @@ ArchitecturePorn
 architecturestudent
 archlinux
 arcticmonkeys
+ArdsPOTD
 arduino
 aretheNTsokay
 Argaming
@@ -437,6 +439,7 @@ ATLA
 Atlanta
 AtlantaHawks
 AtlantaTV
+Atlantology
 atrioc
 attackeyes
 AttackOnRetards
@@ -699,6 +702,7 @@ bladerunner
 bladesinthedark
 Bladesmith
 BLAHAJ
+blakelively
 blankies
 Blasphemous
 BlatantMisogyny
@@ -757,6 +761,7 @@ BookOfBobaFett
 bookporn
 books
 bookshelf
+booksuggestions
 BoomerangSquad
 Boomerhumour
 boomershumor
@@ -958,6 +963,7 @@ Catloaf
 Catmemes
 catpics
 catpictures
+catradora
 cats
 CatsAndDogsBFF
 CatsAndPlants
@@ -1054,6 +1060,7 @@ chessmemes
 CHIBears
 chicagobulls
 Chicken_Thoughts
+chickengifs
 chickens
 CHICubs
 Chihuahua
@@ -1901,6 +1908,7 @@ feminineboys
 Feminism
 fempark
 ferrets
+festivals
 fffffffuuuuuuuuuuuu
 FFVIIRemake
 ffxi
@@ -2308,6 +2316,7 @@ grilledcheese
 grilling
 Grimdank
 Grimes
+GroundedGame
 GrowingMarijuana
 GTA
 gtaonline
@@ -3468,6 +3477,7 @@ mildyinfuriating
 milesprower
 Military
 MilitaryGfys
+MilitaryHistory
 MilitaryPorn
 MilitaryStories
 MilitaryVStheUnknown
@@ -4103,6 +4113,7 @@ pesmobile
 pessimismmemes
 PetAfterVet
 peterdraws
+PeterExplainsTheJoke
 PetiteFashionAdvice
 PetiteFitness
 PetMice
@@ -4567,6 +4578,7 @@ rpghorrorstories
 RPI
 rsloshredit
 RTGameCrowd
+RubeGoldbergFails
 rubirose
 rugbyunion
 runefactory
@@ -4905,6 +4917,7 @@ soccercirclejerk
 socialanxiety
 socialism
 SocialismIsCapitalism
+SocialistEconomics
 SocialistRA
 socialistsmemes
 socialskills
@@ -5645,6 +5658,7 @@ unrealengine
 UnresolvedMysteries
 UnsentLetters
 UnsolvedMysteries
+unstirredpaint
 untrustworthypoptarts
 UnusualVideos
 unwholesomememes
@@ -5912,6 +5926,7 @@ WhyWomenLiveLonger
 Wicca
 wien
 WiggleButts
+wii
 wiiu
 wikipedia
 Wilbur
@@ -5974,6 +5989,7 @@ WorldOfTanksBlitz
 WorldOfWarships
 worldpolitics
 WorldWar2
+WormMemes
 wortwitzkasse
 WoT
 WouldYouRather
