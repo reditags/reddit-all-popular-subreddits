@@ -1311,6 +1311,7 @@ countryball_memes
 CoupleMemes
 CourageTheCowardlyDog
 Covetfashion
+CovIdiots
 cowboybebop
 cowboys
 coybig
@@ -3624,6 +3625,7 @@ mildlysatisfying
 MildlyStartledCats
 MildlyVandalised
 mildyinfuriating
+mildyinteresting
 milesprower
 Militariacollecting
 Military
@@ -3672,6 +3674,7 @@ mirrorsedge
 Mirrorsforsale
 miscatculations
 misfits
+MisleadingPuddles
 misleadingthumbnails
 misLED
 MisreadSprites
@@ -3927,6 +3930,7 @@ nextlander
 NFA
 NFCEastMemeWar
 NFCNorthMemeWar
+NFCWestMemeWar
 nflmemes
 NFT
 NFTsMarketplace
@@ -6257,6 +6261,7 @@ WWE
 WWEGames
 wwiipics
 WWIIplanes
+wyomingdoesntexist
 xbiking
 xbox
 xbox360
