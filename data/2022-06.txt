@@ -555,6 +555,7 @@ Bannerlord
 BanPitBulls
 BanVideoGames
 BarbaraPalvin
+BarbaraWalters4Scale
 BarcodePorn
 bardmains
 Barotrauma
@@ -2327,6 +2328,7 @@ GothamKnights
 Gothenburg
 GothGirls
 GradSchool
+GradualChaos
 Graffiti
 GRAMBADDIES
 Granblue_en
@@ -2466,6 +2468,7 @@ heat
 HeavySeas
 HeckThisIsWholesome
 Hedgehog
+HelicopterAddict
 Helicopters
 HellenicMemes
 HellLetLoose
@@ -3019,6 +3022,7 @@ kingdomcome
 KingdomHearts
 KingkillerChronicle
 KingOfTheHill
+kings
 KingstonOntario
 Kirby
 KitchenConfidential
