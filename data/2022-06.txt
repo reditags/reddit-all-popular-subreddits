@@ -410,6 +410,7 @@ Art
 ArtDeco
 ArtefactPorn
 ArtForUkraine
+ArtHistory
 ArtNouveau
 ArtOfRolling
 ArtPorn
@@ -2475,6 +2476,7 @@ HaloCirclejerk
 haloinfinite
 HaloMemes
 HaloStory
+hamiltonmemes
 Hammers
 hamstercare
 hamsters
@@ -2737,6 +2739,7 @@ ImaginaryFashion
 ImaginaryFeels
 ImaginaryFood
 ImaginaryFuturism
+imaginarygatekeeping
 ImaginaryHorrors
 ImaginaryHumans
 ImaginaryImmortals
@@ -5321,6 +5324,7 @@ submarines
 submechanophobia
 subnautica
 Subnautica_Below_Zero
+SUBREDDITNAME
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
 SubsTakenLiterally
@@ -5379,6 +5383,7 @@ SWlegion
 swordartonline
 SWORDS
 SwordsComic
+swrpg
 swtor
 SWTOR_memes
 sydney
