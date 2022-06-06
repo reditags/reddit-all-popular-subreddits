@@ -272,6 +272,7 @@ AnimalCrossing
 animalcrossingdesign
 animalcrossingmeme
 AnimalCrossingNewHor
+animalid
 AnimalPorn
 AnimalsBeingBros
 AnimalsBeingConfused
@@ -356,6 +357,7 @@ AppalachianTrail
 Appalachistan
 appetizers
 apple
+AppleMusic
 AppleWatch
 ApplyingToCollege
 APStudents
@@ -723,6 +725,7 @@ BlackHair
 blacklagoon
 BlackLivesMatter
 blackmagicfuckery
+blackmen
 blackmirror
 blackopscoldwar
 blackpeoplegifs
@@ -1091,6 +1094,7 @@ Cheese
 Cheetahs
 CheetoTheCat
 chelseafc
+ChemicalEngineering
 chemicalreactiongifs
 chemistry
 chemistrymemes
@@ -1392,6 +1396,7 @@ CursedCommentsComment
 cursedcursedcomments
 Cursedgunimages
 CursedGuns
+cursedimages
 cursedjojo
 cursedmemes
 CursedMinecraft
@@ -1810,6 +1815,7 @@ EliteDangerous
 eliteexplorers
 EliteWeebs
 ElizabethOlsen
+ElizabethTurner
 ElleFanning
 elonmusk
 ElsaGate
@@ -2582,6 +2588,7 @@ HomeDecorating
 HomeDepot
 homegym
 HomeImprovement
+HomeKit
 homelab
 homestead
 homestuck
@@ -2954,6 +2961,7 @@ JohnMayer
 JohnMulaney
 johnnydeppfan
 joinsquad
+Joji
 JoJoMemes
 Jokes
 JonTron
@@ -3368,6 +3376,7 @@ MAAU
 mac
 macarons
 macbookpro
+macgaming
 MachikadoMazoku
 MachineLearning
 MachinePorn
@@ -3447,6 +3456,7 @@ MapsWithoutTasmania
 MarchAgainstNazis
 MargotRobbie
 MariaJulissa13
+Marijuana
 marijuanaenthusiasts
 marinebiology
 Mariners
@@ -4451,6 +4461,7 @@ PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
 privacy
+privacymemes
 proceduralgeneration
 prochoice
 ProCreate
@@ -4597,6 +4608,7 @@ readanotherbook
 ReadyOrNotGame
 real_China_irl
 RealBeesFakeTopHats
+realestateinvesting
 reallifedoodles
 RealLifeShinies
 ReallyAmerican
@@ -5983,6 +5995,7 @@ VRGaming
 vrising
 VRtoER
 VShojo
+vtm
 vtmb
 Vulfpeck
 vultureculture
@@ -6249,6 +6262,7 @@ yeat_
 yeezys
 Yeji
 YelanMains
+Yellowjackets
 Yellz0
 yescompanionimbecil
 yesyesyesno
