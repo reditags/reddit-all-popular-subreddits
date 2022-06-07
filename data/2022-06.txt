@@ -1222,6 +1222,7 @@ clonewars
 CloneWarsMemes
 CloneWhoPunchedADroid
 ClothedPreggo
+Cloud9
 CLOUDS
 Coachella
 cobrakai
@@ -2383,6 +2384,7 @@ givemeinteligens
 glasgow
 glassanimals
 glee
+glitch_art
 Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
@@ -2533,6 +2535,7 @@ hamsters
 Hanamaru
 HandfulOfKitten
 handholding
+handmade
 handtools
 Handwriting
 HannibalTV
@@ -2542,6 +2545,7 @@ happycrowds
 happycryingdads
 HappyPitbull
 HappyWoofGifs
+Harambe
 Hardcore
 hardcoreaww
 HardcoreNature
@@ -4140,6 +4144,7 @@ OculusQuest
 oddlymesmerizing
 oddlysatisfying
 oddlyspecific
+oddlyspecificshirts
 oddlyterrifying
 ofcoursethatsathing
 offbeat
@@ -4604,6 +4609,7 @@ proplifting
 ProRevenge
 PROTECC
 protogen
+prusa3d
 ps2
 PS3
 PS4
@@ -4726,6 +4732,7 @@ Re_Zero
 reactiongifs
 ReactionMemes
 reactionpics
+reactivedogs
 readanotherbook
 ReadyOrNotGame
 real_China_irl
@@ -5356,6 +5363,7 @@ starcraft
 starcraft2
 StardewMemes
 StardewValley
+StardewValleyExpanded
 StardustCrusaders
 Starfield
 starfinder_rpg
