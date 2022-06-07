@@ -439,6 +439,7 @@ AskBalkans
 askcarsales
 AskDocs
 AskElectronics
+AskEngineers
 AskHistorians
 AskMen
 AskMiddleEast
@@ -1356,6 +1357,7 @@ CrackheadCraigslist
 CrackWatch
 CraftBeer
 craftsnark
+CrankGameplays
 crappyanimalcrossing
 CrappyDesign
 crappyoffbrands
@@ -1915,6 +1917,7 @@ EpicGamesPC
 EpicMounts
 EpicSeven
 Epstein
+equelMemes
 equestriaatwar
 Equestrian
 Eragon
@@ -2560,6 +2563,7 @@ hardstyle
 hardware
 Harley
 HarleyQuinn
+HarleyQuinnTV
 Harpo
 harrypotter
 harvestmoon
@@ -3439,6 +3443,7 @@ loveafterlockup
 Lovecraft
 LoveForAnimesexuals
 LoveForLandlords
+LoveIsBlindOnNetflix
 LoveIslandTV
 lovejoyband
 Lovelink
@@ -3457,6 +3462,7 @@ Lowtechbrilliance
 LPOTL
 LSD
 LTB_iel
+LucidDreaming
 lucifer
 LudwigAhgren
 luigi_irl
