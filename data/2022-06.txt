@@ -152,6 +152,7 @@ afkarena
 AFL
 AfricanHistory
 AfterEffects
+aftergifted
 AfterTheEndFanFork
 AgainstHateSubreddits
 agedlikemilk
@@ -469,6 +470,7 @@ ASX_Bets
 ATAAE
 ATBGE
 AteistTurk
+ATERstock
 AteTheOnion
 AteThePasta
 atheism
@@ -2802,6 +2804,7 @@ ImaginaryFuturism
 imaginarygatekeeping
 ImaginaryHorrors
 ImaginaryHumans
+ImaginaryHybrids
 ImaginaryImmortals
 ImaginaryInteriors
 ImaginaryJedi
@@ -3894,6 +3897,7 @@ MxRMods
 MXRplays
 My600lbLife
 my_celebrity_crush
+MyBigFatFabulousLife
 MyChemicalRomance
 mycology
 MyDressUpDarlingAnime
@@ -4342,6 +4346,7 @@ Pathfinder_Kingmaker
 pathofexile
 Patriots
 Patty_Lopez
+PaulaDelVilllar
 Paulblartmallcop
 paydaytheheist
 PaymoneyWubby
@@ -4835,6 +4840,7 @@ rit
 RivalsOfAether
 Rivian
 roadtrip
+Roasted
 RoastMe
 RoastMyCar
 robbersgettingfucked
@@ -5494,6 +5500,7 @@ supportlol
 surdev
 surrealmemes
 SurvivalGrid
+survivinginfidelity
 survivor
 sushi
 suspiciouslyspecific
@@ -5729,6 +5736,7 @@ theunforgiven
 TheVampireDiaries
 thewalkingdead
 TheWalkingDeadGame
+TheWaterLew
 TheWayWeWere
 TheWeeklyRoll
 TheWeeknd
