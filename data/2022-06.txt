@@ -997,6 +997,7 @@ casualnintendo
 CasualUK
 cat
 cataclysmdda
+CatAdvice
 CatastrophicFailure
 catbellies
 catbongos
@@ -2372,6 +2373,7 @@ godot
 godtiersuperpowers
 GODZILLA
 gojira
+Gold
 Goldendoodles
 goldenretrievers
 GoldenSun
@@ -4335,6 +4337,7 @@ PeytonList
 peyups
 PferdeSindKacke
 PhantomForces
+PharmacyTechnician
 PhasmophobiaGame
 phclassifieds
 PhD
@@ -4919,6 +4922,7 @@ scottthewoz
 SCP
 SCPSecretLab
 ScrapMechanic
+Scream
 screenshots
 Screenwriting
 scriptedasiangifs
@@ -5180,6 +5184,7 @@ SonoBisqueDoll
 sonos
 SonyAlpha
 SophiaDiamondLegal
+sophieturner
 SophiiaDiamond
 SorryLag
 SOSStock
@@ -5644,6 +5649,7 @@ TheYardPodcast
 theydidthemath
 theyknew
 ThickFit
+ThickOnTikTok
 ThingsCutInHalfPorn
 thingsforants
 thinkpad
@@ -5954,6 +5960,7 @@ ussoccer
 Utah
 UtahJazz
 Utrecht
+UvaldeTexasShooting
 uwaterloo
 UzakiChan
 vagabond
