@@ -563,6 +563,7 @@ badhistory
 badMovies
 BadMUAs
 BadReads
+BadRocketLeagueGoals
 badtaxidermy
 badUIbattles
 bakchodi
@@ -2006,6 +2007,7 @@ farialimabets
 FarmersStealingTanks
 farming
 farmingsimulator
+FarmsofStardewValley
 fashionhistory
 fashionporn
 FashionReps
@@ -2738,6 +2740,7 @@ idontdreamoflabor
 IDontWorkHereLady
 IDOWORKHERELADY
 Idubbbz
+IfIFitsISits
 igcse
 ihadastroke
 iiiiiiitttttttttttt
@@ -4548,6 +4551,7 @@ powerwashingporn
 ppnojutsu
 PragerUrine
 PraiseTheCameraMan
+predator
 PrehistoricMemes
 Prematurecelebration
 premed
@@ -5902,6 +5906,7 @@ TuckedInPuppies
 Tucson
 tulsa
 tumblr
+TumblrDraws
 TumblrWrites
 Turkey
 TurkeyJerky
