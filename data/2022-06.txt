@@ -236,6 +236,7 @@ AmerExit
 AmericaBad
 americandad
 AmericanFascism2020
+AmericanHorrorStory
 AMG
 amibeingdetained
 Amigurumi
@@ -845,6 +846,7 @@ boston
 BostonBruins
 bostonceltics
 BostonTerrier
+bostontrees
 BotanicalPorn
 botany
 Botchedsurgeries
@@ -1260,6 +1262,7 @@ Columbus
 CombatFootage
 combinedgifs
 comedyamputation
+ComedyArchaeology
 ComedyCemetery
 comedydamnation
 comedyepilepsy
@@ -2431,8 +2434,10 @@ Golf_R
 GolfGTI
 GoNets
 goodboomerhumor
+goodboys
 GoodFakeTexts
 goodmythicalmorning
+goodnews
 goodomens
 google
 googlemapsshenanigans
@@ -2729,6 +2734,7 @@ HVAC
 HybridAnimals
 hyderabad
 HydroHomies
+hyenas
 hyouka
 hypixel
 HypixelSkyblock
@@ -4752,6 +4758,7 @@ ravens
 RazorMains
 RBI
 RCB
+rccars
 rct
 RDR2
 Re_Zero
@@ -4973,6 +4980,7 @@ saopaulo
 SapphoAndHerFriend
 Sardonicast
 Sareebeauties
+sashasanchex
 saskatchewan
 saskatoon
 SASSWitches
@@ -5334,6 +5342,7 @@ SpecOpsArchive
 SpeculativeEvolution
 SpeedOfLobsters
 speedrun
+spelunky
 sphynx
 SpiceandWolf
 spicy
@@ -5849,6 +5858,7 @@ tommyinnit
 TommyKay
 TomodachiGame
 tomorrow
+TomorrowByTogether
 tonightsdinner
 TonikakuCawaii
 TonyZaretOfficial
