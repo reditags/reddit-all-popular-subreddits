@@ -462,6 +462,7 @@ AssassinsCreedOdyssey
 assettocorsa
 assholedesign
 assholetax
+Assistance
 astramilitarum
 astrologymemes
 Astroneer
@@ -1263,6 +1264,7 @@ ComedyCemetery
 comedydamnation
 comedyepilepsy
 ComedyFlogging
+comedyheaven
 ComedyHell
 comedyhomicide
 comedymutation
@@ -1553,6 +1555,7 @@ de_EDV
 deadbydaylight
 deadcells
 deadlockpw
+deadmalls
 deadmau5
 deadmeatjames
 DeadSpace
@@ -1640,6 +1643,7 @@ Deusex
 deutschememes
 developersIndia
 DevilMayCry
+devils
 devpt
 Dexter
 DGDAG
@@ -3711,6 +3715,7 @@ MikaLafuente
 MikuNakano
 milanavayntrub
 mildlydisturbing
+mildlyevangelion
 mildlyinfuriating
 mildlyinteresting
 mildlypenis
@@ -3966,6 +3971,7 @@ nba
 NBA2k
 nbacirclejerk
 nbadiscussion
+Nbamemes
 NBASpurs
 NBAYoungboy
 NCAAFBseries
@@ -4223,6 +4229,7 @@ OldSkaters
 OldWorldBlues
 OliveMUA
 OliverMarkusMalloy
+Olivia_Ponton_
 oliviadunne
 OliviaHolt
 OliviaMunn
@@ -4418,6 +4425,7 @@ PeytonList
 peyups
 PferdeSindKacke
 PhantomForces
+pharmacy
 PharmacyTechnician
 PhasmophobiaGame
 phclassifieds
@@ -5513,6 +5521,7 @@ SuperStructures
 supportlol
 surdev
 surrealmemes
+surrealtraa
 SurvivalGrid
 survivinginfidelity
 survivor
@@ -5700,6 +5709,7 @@ TheEricAndreShow
 TheeStallion
 TheExpanse
 TheFarSide
+TheFence
 thefighterandthekid
 TheForest
 TheForgottenDepths
@@ -5756,6 +5766,7 @@ TheWaterLew
 TheWayWeWere
 TheWeeklyRoll
 TheWeeknd
+thewestwing
 TheWire
 thewitcher3
 TheYardPodcast
@@ -6138,6 +6149,7 @@ videogames
 videomemes
 videos
 VietNam
+ViewPorn
 ViihTubee
 VikiOdintcova
 Vilebrequin
