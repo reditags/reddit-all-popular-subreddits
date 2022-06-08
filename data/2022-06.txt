@@ -313,6 +313,7 @@ AnimeMeme
 animememes
 Animemes
 AnimeMusicians
+animenews
 animenocontext
 AnimeNoises
 AnimeOutOfContext
@@ -660,6 +661,7 @@ BeginnerWoodWorking
 behindthebastards
 beholdthemasterrace
 BeidouMains
+Beiguang
 BelgianMalinois
 BELGICA
 belgium
@@ -1684,6 +1686,7 @@ discord_irl
 discordapp
 Discordmemes
 discordVideos
+Discussion
 discworld
 disenchantment
 dishonored
@@ -2041,6 +2044,7 @@ fatcats
 fatestaynight
 fatimamunozof
 FearTheWalkingDead
+fednews
 Fedora
 feedthebeast
 feedthememes
@@ -2979,6 +2983,7 @@ ironscape
 IrrationalMadness
 IsabelaMerced
 IsekaiQuartet
+Ishowspeed
 IsItBullshit
 islam
 IslamicHistoryMeme
@@ -4347,6 +4352,7 @@ pakistan
 Paladins
 Paleontology
 Palestine
+Pamibaby
 PampamilyangPaoLUL
 PandR
 panelshow
