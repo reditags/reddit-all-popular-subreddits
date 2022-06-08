@@ -691,6 +691,7 @@ Bestbuy
 bestof
 bestoflegaladvice
 BestofRedditorUpdates
+BestOfReports
 bestoftheinternet
 BethesdaSoftworks
 bettafish
@@ -847,6 +848,7 @@ borbs
 BorderCollie
 Borderlands2
 borderlands3
+BorderlinePDisorder
 BorderTerrier
 boringdystopia
 Boruto
@@ -3972,6 +3974,7 @@ Mushrooms
 Music
 musicaljenga
 musicals
+MusicBattlestations
 musichaiku
 MuslimLounge
 Mustang
@@ -4569,6 +4572,7 @@ PlantBasedDiet
 plantclinic
 PlantedTank
 PlantGoths
+PlantIdentification
 plants
 plantsandpots
 PlantsVSZombies
@@ -5534,6 +5538,7 @@ STFUitsadragon
 stfuretard
 sticknpokes
 StLouis
+stlouisblues
 sto
 stockholm
 StockMarket
@@ -6350,6 +6355,7 @@ WatchandLearn
 WatchAnimalsDieInside
 watchcatsdieinside
 WatchDogsWoofInside
+watcherentertainment
 Watches
 Watchexchange
 WatchPeopleDieInside
