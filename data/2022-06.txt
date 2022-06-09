@@ -534,6 +534,7 @@ AverageBattlestations
 aves
 avfc
 aviation
+aviationmaintenance
 aviationmemes
 avicii
 avrillavigne
@@ -583,6 +584,7 @@ BadReads
 BadRocketLeagueGoals
 badtaxidermy
 badUIbattles
+baeirene
 bakchodi
 Baking
 bald
@@ -679,6 +681,7 @@ Belgium2
 Bellapoarch
 Bellingham
 belowdeck
+BeMesmerized
 BeMyReference
 Ben10
 Bend
@@ -1305,6 +1308,7 @@ comedyhomicide
 comedymutation
 comedynecromancy
 ComedyNecrophilia
+comfypasta
 comicbookcollecting
 comicbookmovies
 comicbooks
@@ -2939,6 +2943,7 @@ ImFinnaGoToHell
 Impeach_Trump
 Imperator
 ImpracticalJokers
+IMSARacing
 imsorryeveryone
 imsorryjon
 ImTheMainCharacter
@@ -3315,6 +3320,7 @@ krita
 KritiSanon
 ksi
 KSPMemes
+kubernetes
 KukiShinobuMains
 KumoDesu
 Kurisutina
@@ -3905,6 +3911,7 @@ mmababes
 mmamemes
 MMORPG
 MnetQueendom
+MoaiGreddit
 MobileLegendsGame
 MobKitchen
 Mobpsycho100
@@ -6028,6 +6035,7 @@ tomorrow
 TomorrowByTogether
 tonightsdinner
 TonikakuCawaii
+TonyHawkitecture
 TonyZaretOfficial
 TooAfraidToAsk
 toofers
