@@ -2300,6 +2300,7 @@ Fromis
 FromKittenToCat
 FromPuppyToDog
 fromsoftware
+FrostGiant
 Frostpunk
 Frugal
 frugalmalefashion
@@ -2380,6 +2381,7 @@ gamindustri
 gaming
 Gamingcirclejerk
 GamingDetails
+GamingLaptops
 GamingLeaksAndRumours
 gamingpc
 gangplankmains
@@ -2803,6 +2805,7 @@ HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
 HumanTippyTaps
+humblebundles
 humor
 humour
 hungary
@@ -3576,6 +3579,7 @@ low_poly
 LowerCaseScreams
 Lowes
 LowQualityMemes
+LowSodium2042
 LowSodiumDestiny
 LowSodiumHalo
 LowSodiumSimmers
@@ -5537,6 +5541,7 @@ Spiritual_Talk
 SpittinChicletsPod
 splatoon
 Splendida
+Splitgate
 sploot
 spongebob
 SpongebobMemes
