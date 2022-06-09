@@ -295,6 +295,7 @@ AnimalsBeingSleepy
 AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
+AnimalsOnReddit
 animalssmiling
 AnimalTextGifs
 animation
@@ -1690,6 +1691,7 @@ devils
 devpt
 Dexter
 DGDAG
+DHgate
 DHHMemes
 diabetes
 diabetes_t1
@@ -1734,6 +1736,7 @@ disneyparks
 DisneyPlus
 disneyvacation
 DisneyWorld
+DissidiaFFOO
 distractible
 distressingmemes
 dividends
@@ -2347,6 +2350,7 @@ gachagaming
 gadgets
 GalaxyWatch
 GalGadot
+GalinaDubenenko
 Gambiarra
 Gameboy
 gamecollecting
@@ -3292,6 +3296,7 @@ Konosuba
 korea
 KoreanFood
 Kosmiczna_Flota
+kosovo
 KotakuInAction
 kotor
 KOTORmemes
@@ -3696,6 +3701,7 @@ maybemaybemaybe
 MayDayStrike
 mazda
 mazda3
+MBA
 MBMBAM
 mbti
 mbtimemes
@@ -5600,6 +5606,7 @@ Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
 StoppedWorking
+stopperpacks
 Stormlight_Archive
 Stormworks
 StPetersburgFL
@@ -5690,6 +5697,7 @@ SWGalaxyOfHeroes
 Swimming
 Switzerland
 SWlegion
+swoletariat
 swordartonline
 SWORDS
 SwordsComic
@@ -6451,6 +6459,7 @@ weightlifting
 WeightLossAdvice
 Weird
 weirdcore
+weirddalle
 weirdfacefunny
 weirdspotifyplaylists
 WeirdToilets
@@ -6601,6 +6610,7 @@ WRX
 WTF
 WTFgaragesale
 wtfstockphotos
+WTFwish
 WtWFotMJaJtRAtCaB
 WutheringWaves
 ww2
