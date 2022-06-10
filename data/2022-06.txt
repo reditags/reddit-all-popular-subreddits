@@ -466,6 +466,7 @@ AskReddit
 askscience
 AskScienceFiction
 askSingapore
+askspain
 AskThe_Donald
 askTO
 asktransgender
@@ -1804,6 +1805,7 @@ dogsenjoyingnature
 dogslookingdown
 DogsMirin
 dogsonroofs
+dogswitheyebrows
 dogswithjobs
 Dogtraining
 dogvideos
@@ -2276,6 +2278,7 @@ Fotografie
 FoundPaper
 foundsatan
 FoundTheGerman
+FoundTheInaAlt
 fountainpens
 fourthwavewomen
 foxes
