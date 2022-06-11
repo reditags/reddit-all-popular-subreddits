@@ -1954,6 +1954,7 @@ ecology
 Economics
 economy
 EDC
+eddit10yearsago
 eddyburback
 Edelgard
 eden
@@ -2524,6 +2525,7 @@ ghettoglamourshots
 GhettoStreetFights
 ghibli
 Ghost_in_the_Shell
+GhostAdventures
 Ghostbc
 ghostbusters
 ghostoftsushima
@@ -3507,6 +3509,7 @@ Leathercraft
 leaves
 lebanon
 lebowski
+ledzeppelin
 Leeds
 LeedsUnited
 LeftHistoryMemes
@@ -3794,6 +3797,7 @@ MargotRobbie
 MariaJulissa13
 Marijuana
 marijuanaenthusiasts
+MarilynMonroe
 marinebiology
 Mariners
 Mario
@@ -5141,6 +5145,7 @@ RespectTheHyphen
 restofthefuckingowl
 retailhell
 retarb
+retard
 retrobattlestations
 RetroFuturism
 retrogaming
@@ -6433,6 +6438,7 @@ UnexpectedMulaney
 unexpectedoffice
 unexpectedsabaton
 UnexpectedSCP
+unexpectedskyrim
 UnexpectedThanos
 Unextexted
 union
