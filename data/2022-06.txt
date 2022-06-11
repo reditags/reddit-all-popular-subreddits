@@ -1622,6 +1622,7 @@ dataengineering
 DataHoarder
 dataisbeautiful
 dataisugly
+datascience
 datealive
 dating
 datingoverforty
@@ -3407,6 +3408,7 @@ KOTORmemes
 kpics
 kpop
 kpopGirlsMob
+kpoprants
 kpopthoughts
 kratzbaum
 kristenbell
