@@ -1435,6 +1435,7 @@ Covetfashion
 CovIdiots
 cowboybebop
 cowboys
+cowcats
 coybig
 Coyotes
 coys
@@ -2213,6 +2214,7 @@ filipinofood
 FilmLocationsThenNow
 Filmmakers
 FilthyFrank
+FinalDestinationShit
 FinalFantasy
 FinalFantasyIX
 finalfantasytactics
@@ -2780,6 +2782,7 @@ HermanCainAward
 hermitchat
 HermitCraft
 hermitcraftmemes
+heroes3
 heroesofthestorm
 HeroForgeMinis
 herpetology
