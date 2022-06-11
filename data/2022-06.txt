@@ -1364,6 +1364,7 @@ Competitiveoverwatch
 CompetitiveTFT
 COMPLETEANARCHY
 composting
+compsci
 computers
 conan
 ConanBeingAwesome
@@ -1415,6 +1416,7 @@ CorporateFacepalm
 Corridor
 Corvette
 Cosmere
+cosmoandwanda
 cosplayers
 cosplayprops
 Costco
@@ -1559,6 +1561,7 @@ czech
 czechmemes
 CZFirearms
 d100
+Dachschaden
 Dachshund
 DadForAMinute
 dadjokes
@@ -2203,6 +2206,7 @@ FilmLocationsThenNow
 Filmmakers
 FilthyFrank
 FinalFantasy
+FinalFantasyIX
 finalfantasytactics
 FinalFantasyVII
 finalfantasyx
@@ -2609,6 +2613,7 @@ granturismo
 graphic_design
 graphicnovels
 Grapplerbaki
+GrassDoggos
 grateful_dead
 gratefuldead
 gravelcycling
@@ -2930,6 +2935,7 @@ IDontWorkHereLady
 IDOWORKHERELADY
 Idubbbz
 IfIFitsISits
+ifyoulikeblank
 igcse
 ihadastroke
 iiiiiiitttttttttttt
@@ -3672,6 +3678,7 @@ lovelymimiOF
 LoveNikki
 LoveOnTheSpectrumShow
 low_poly
+LowAltitudeJets
 LowerCaseScreams
 Lowes
 LowQualityMemes
@@ -3770,6 +3777,7 @@ mangacoloring
 MangaMemes
 manholeporn
 manhwa
+Manitoba
 MannausSachsen
 ManufacturingPorn
 ManyATrueNerd
@@ -5878,6 +5886,7 @@ suspiciouslyspecific
 sustainability
 svenskpolitik
 Sverige
+SVU
 SWARJE
 SweatyPalms
 sweden
@@ -6603,6 +6612,7 @@ walmart
 WalmartCelebrities
 WaltDisneyWorld
 WANDAVISION
+wankil
 WannaFunAfterWork
 war
 WarAndPeas
