@@ -300,6 +300,7 @@ AnimalsBeingConfused
 AnimalsBeingDerps
 AnimalsBeingGeniuses
 AnimalsBeingJerks
+AnimalsBeingLoveable
 AnimalsBeingMoms
 AnimalsBeingSleepy
 AnimalsBeingStrange
@@ -420,6 +421,7 @@ arcticmonkeys
 ArdsPOTD
 arduino
 aretheNTsokay
+AreTheOmnisOkay
 Argaming
 argentina
 ArgentinaBenderStyle
@@ -1649,6 +1651,7 @@ datingoverforty
 datingoverthirty
 dauntless
 dave
+daverubin
 Davie504
 DaysGone
 Daytrading
@@ -1788,6 +1791,7 @@ Dimension20
 DINgore
 Dinosaurs
 dioramas
+Dipcifica
 DiretoDoZapZap
 Dirtbikes
 dirtgame
@@ -1865,6 +1869,7 @@ dogvideos
 DokkanBattleCommunity
 Dominos
 donaldglover
+dontbestupid
 dontdeadopeninside
 dontflinch
 donthelpjustfilm
@@ -1877,6 +1882,7 @@ doommetal
 doordash
 doordash_drivers
 dopehumor
+doppelBangers
 Dorohedoro
 DotA2
 DoubanGoosegroup
@@ -2905,6 +2911,7 @@ houseplantscirclejerk
 Houseporn
 houston
 howardstern
+howlies
 howto
 howtokeepanidiotbusy
 howtonotgiveafuck
@@ -5409,6 +5416,7 @@ schoolfight
 schweiz
 science
 ScienceBasedParenting
+sciencefiction
 sciencememes
 ScienceNcoolThings
 ScientificArt
@@ -6499,6 +6507,7 @@ Ultraman
 ultrawidemasterrace
 UmaMusume
 UmbrellaAcademy
+UMD
 umineko
 UNBGBBIIVCHIDCTIICBG
 UnchainedMelancholy
@@ -6726,6 +6735,7 @@ warriors
 WarshipPorn
 warthundermemes
 Warzone
+washingtonwizards
 wasletztepreis
 wasletztestern
 Watashi_ni_Tenshi
