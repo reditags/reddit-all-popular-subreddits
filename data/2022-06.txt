@@ -93,6 +93,7 @@ abusiverelationships
 ac_newhorizons
 ACAB
 AccidentalAlly
+AccidentalArtGallery
 AccidentalCamouflage
 AccidentalComedy
 AccidentalKubrick
@@ -384,6 +385,7 @@ apexcirclejerk
 ApexConsole
 apexlegends
 ApexLegendsMobile
+ApexLore
 ApexOutlands
 Apexrollouts
 ApexUncovered
@@ -432,6 +434,7 @@ Argnime
 ArianaGrande
 ArianaGrandeAss
 arielwinter
+AriFletcherV2
 ariheads
 Aritzia
 arizona
@@ -1893,6 +1896,7 @@ donaldglover
 dontbestupid
 dontdeadopeninside
 dontflinch
+DontFundMe
 donthelpjustfilm
 dontyouknowimtonyhawk
 dontyouknowwhoiam
@@ -2426,6 +2430,7 @@ Frenchhistorymemes
 FrenchMemes
 freshandfit
 FreshBeans
+fresno
 FridayNightFunkin
 friendlyjordies
 friends_tv_show
@@ -4929,6 +4934,7 @@ planesgonewild
 PlanetCoaster
 Planetside
 PlanetZoo
+PlanningMemes
 PlantBasedDiet
 plantclinic
 PlantedTank
