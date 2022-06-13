@@ -4427,6 +4427,7 @@ NoahGetTheDeathStar
 NobodyAsked
 nocontextpics
 Noctor
+NodOfApproval
 nody_ai
 Noearthsociety
 NoelleFoley
@@ -5683,6 +5684,7 @@ skyrim
 SkyrimMemes
 skyrimmods
 SkyrimPorn
+skywardsword
 slammywhammies
 SlavaUkrayini
 slaythespire
