@@ -894,6 +894,7 @@ bookshelf
 booksuggestions
 BoomerangSquad
 Boomerhumour
+BoomersBeingFools
 boomershumor
 Booster_Dose
 boottoobig
@@ -2552,6 +2553,7 @@ GCSE
 GearsOfWar
 geckos
 geek
+GeekyCrochet
 gekte
 genderfluid_irl
 generative
@@ -2942,6 +2944,7 @@ Horses
 HostileArchitecture
 HotlineMiami
 hotones
+HotPaper
 HotPeppers
 hotsauce
 HottestFemaleAthletes
@@ -3610,6 +3613,7 @@ learningtocat
 LearnJapanese
 learnmachinelearning
 learnprogramming
+learnpython
 learntodraw
 LearnUselessTalents
 Leathercraft
@@ -5982,6 +5986,7 @@ stopdrinking
 stopdrinkingfitness
 StoppedWorking
 stopperpacks
+stopsmoking
 StoriesAboutKevin
 Stormlight_Archive
 Stormworks
@@ -6424,6 +6429,7 @@ TonyHawkitecture
 TonyZaretOfficial
 TooAfraidToAsk
 toofers
+tookjustenough
 tooktoomuch
 ToolBand
 toolgifs
