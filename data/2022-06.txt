@@ -2504,6 +2504,7 @@ gameofthrones
 GamePhysics
 gamernews
 GamerSupremeRace
+GameStop
 GameTheorists
 gamindustri
 gaming
@@ -2893,6 +2894,7 @@ HollowKnightArt
 HollowKnightMemes
 HOLO
 Hololive
+hololiveEN
 HololiveYuri
 Holostars
 HolUp
@@ -4174,7 +4176,9 @@ Mommit
 momtokgossip
 monarchism
 Monero
+MoneyDiariesACTIVE
 MonicaBellucci
+Monikafandom
 Monke
 Monkeycoolvidsonly
 MonkeyIsland
@@ -4868,6 +4872,7 @@ piercing
 PietSmiet
 pigeon
 Pigifs
+pigs
 Pikabu
 Pikmin
 PikminBloomApp
@@ -6076,6 +6081,7 @@ taiwan
 Takagi_san
 TakaMori
 tales
+talesfromcavesupport
 TalesFromRetail
 talesfromtechsupport
 TalesFromTheCustomer
