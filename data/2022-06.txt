@@ -344,6 +344,7 @@ AnimeNoises
 AnimeOutOfContext
 animepiracy
 AnimeSketch
+Animesuggest
 AnimeTomboys
 AnimeWallpapersSFW
 Annabananaxdddd
@@ -936,6 +937,7 @@ Boxer
 Boxing
 boxoffice
 boyslove
+Bozeman
 BPD
 BPDmemes
 BrandNewAnimal
