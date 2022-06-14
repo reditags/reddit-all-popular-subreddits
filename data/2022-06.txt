@@ -688,6 +688,7 @@ batty
 bayarea
 Bayonetta
 BB_Bikini_Bodies
+BBBY
 BBQ
 beadsprites
 beagle
@@ -1715,6 +1716,7 @@ deadmeatjames
 DeadSpace
 deathbattle
 DeathBattleMatchups
+DeathByMillennial
 Deathcore
 deathgrips
 deathguard40k
@@ -2976,6 +2978,7 @@ HorizonForbiddenWest
 horror
 Horses
 HostileArchitecture
+hotdudeswithplants
 HotlineMiami
 hotones
 HotPaper
