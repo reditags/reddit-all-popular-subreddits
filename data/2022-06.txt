@@ -3666,6 +3666,7 @@ leftistvexillology
 LeftTheBurnerOn
 LeftWingMaleAdvocates
 LeftWithoutEdge
+legaladviceofftopic
 LegalAdviceUK
 legalcatadvice
 legendofkorra
@@ -6574,6 +6575,7 @@ TriangleStrategy
 triathlon
 trippinthroughtime
 trippy
+trishahershberger
 Trishyland
 TrollCoping
 TrollYChromosome
@@ -7111,6 +7113,7 @@ Wrangler
 Wrasslin
 WRC
 wrestling
+WrestlingIRL
 writers
 writing
 writingcirclejerk
