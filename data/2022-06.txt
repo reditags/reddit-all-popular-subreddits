@@ -310,6 +310,7 @@ AnimalsBeingMoms
 AnimalsBeingSleepy
 AnimalsBeingStrange
 animalsdoingstuff
+AnimalsMadeMeSmile
 AnimalsMonching
 AnimalsOnReddit
 animalssmiling
@@ -789,6 +790,7 @@ Birates
 Birbs
 birding
 BirdsArentReal
+Birdsfacingforward
 BirdsForScale
 birdsnamedfood
 birdstakingthetrain
@@ -2350,6 +2352,7 @@ fnv
 fo4
 fo76
 fo76FilthyCasuals
+FoggyPics
 FolkPunk
 FondantHate
 food
@@ -3604,6 +3607,7 @@ LandoftheLustrous
 LandscapeAstro
 landscaping
 languagelearning
+languagelearningjerk
 LaserCleaningPorn
 LaserEyedCats
 LaStalla
