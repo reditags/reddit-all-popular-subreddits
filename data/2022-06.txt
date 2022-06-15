@@ -3798,6 +3798,7 @@ LockdownSkepticism
 lockpicking
 LodedDiper
 logodesign
+loicense
 loki
 Lolirefugees
 london
@@ -4024,6 +4025,7 @@ maybemaybemaybe
 MayDayStrike
 mazda
 mazda3
+MB2Bannerlord
 MBA
 MBMBAM
 mbti
@@ -4867,6 +4869,7 @@ Patchuu
 Pathfinder2e
 Pathfinder_Kingmaker
 pathofexile
+PathOfExileBuilds
 Patriots
 Patty_Lopez
 PaulaDelVilllar
@@ -7215,6 +7218,7 @@ yesyesyesyesno
 yimby
 YMS
 ynab
+yo_elvr
 yohane
 Yoimiya_Mains
 Yointerneto
