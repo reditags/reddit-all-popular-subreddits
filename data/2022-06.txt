@@ -2686,6 +2686,7 @@ GODZILLA
 gojira
 Gold
 Goldendoodles
+goldenknights
 goldenretrievers
 GoldenSun
 Goldfish
@@ -3511,6 +3512,7 @@ KidCudi
 KidsAreFuckingEvil
 KidsAreFuckingSmart
 KidsAreFuckingStupid
+kidsaretryingtowarnus
 KiernanShipka
 kilian
 killedthecameraman
@@ -3868,6 +3870,7 @@ MAAU
 mac
 macarons
 macbookpro
+macdemarco
 macgaming
 MachikadoMazoku
 MachineLearning
@@ -5522,6 +5525,7 @@ Sandman
 sanepolitics
 sanfrancisco
 SanJose
+sanpedrocactus
 santacruz
 SAOAbridged
 saopaulo
