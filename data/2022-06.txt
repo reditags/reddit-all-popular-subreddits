@@ -708,6 +708,7 @@ bearsdoinghumanthings
 Beastars
 beatles
 beatlescirclejerk
+beatMeatToIt
 BeatMeToIt
 beatsaber
 BeautifulFemales
@@ -4814,6 +4815,7 @@ ottawa
 Otters
 Ouchmyflaps
 OurFlagMeansDeath
+OurPresident
 Outdoors
 outerwilds
 outerworlds
@@ -6224,6 +6226,7 @@ TakaMori
 tales
 talesfromcallcenters
 talesfromcavesupport
+TalesFromDF
 TalesFromRetail
 talesfromtechsupport
 TalesFromTheCustomer
