@@ -1894,6 +1894,7 @@ Documentaries
 DocumentedFights
 Dodgers
 DOG
+DogAdvice
 Dogberg
 dogbridges
 dogecoin
@@ -5410,6 +5411,7 @@ risa
 riskofrain
 rit
 RivalsOfAether
+riverdale
 Rivian
 Roadcam
 roadtrip
@@ -5899,6 +5901,7 @@ SoulKnight
 Soulnexus
 SoulSnacks
 SoulsSliders
+SoundersFC
 SoundsLikeMusic
 Sourdough
 sousvide
@@ -6186,6 +6189,7 @@ taiwan
 Takagi_san
 TakaMori
 tales
+talesfromcallcenters
 talesfromcavesupport
 TalesFromRetail
 talesfromtechsupport
