@@ -435,6 +435,7 @@ ArdsPOTD
 arduino
 aretheNTsokay
 AreTheOmnisOkay
+AreTheStraightsOkay
 Argaming
 argentina
 ArgentinaBenderStyle
@@ -1023,6 +1024,7 @@ Bullshido
 BullTerrier
 bullybackfire
 Bumble
+Bumbleby
 buncomfortable
 bundeswehr
 BungouStrayDogs
@@ -2918,6 +2920,7 @@ HikaruNakamura
 HilariaBaldwin
 Hilary_Duff
 HildaTheSeries
+himikotoga
 HIMYM
 HindiMemes
 hinduism
