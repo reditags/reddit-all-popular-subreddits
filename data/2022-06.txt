@@ -1441,6 +1441,7 @@ conceptart
 confession
 confessions
 confidentlyincorrect
+ConfrontingChaos
 confusing
 confusing_perspective
 confusingperspective
@@ -1937,6 +1938,7 @@ dogslookingdown
 DogsLoversCommunity
 DogsMirin
 dogsonroofs
+dogswearinghats
 dogswitheyebrows
 dogswithjobs
 Dogtraining
@@ -2946,6 +2948,7 @@ HikaruNakamura
 HilariaBaldwin
 Hilary_Duff
 HildaTheSeries
+HillaryForPrison
 himikotoga
 HIMYM
 HindiMemes
@@ -4752,6 +4755,7 @@ okpolarncp
 okprietenretardat
 Old_Recipes
 oldcoins
+OlderThanYouThinkIAm
 oldhagfashion
 OldLadiesBakingPies
 OldManDog
@@ -6555,6 +6559,7 @@ titleporn
 TLCsisterwives
 TLCUnexpected
 TMNT
+TNG
 TNOmod
 toarumajutsunoindex
 toastme
