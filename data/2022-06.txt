@@ -4412,6 +4412,7 @@ mycology
 MyDressUpDarlingAnime
 myfavoritemurder
 mylittlepony
+MyNameIsBat
 MyouiMina
 MyPeopleNeedMe
 MySingingMonsters
@@ -5454,6 +5455,7 @@ rimjob_steve
 Rimuru
 RimWorld
 RingFitAdventure
+RingOfTheYear
 ripcity
 risa
 riskofrain
