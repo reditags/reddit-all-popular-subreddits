@@ -1427,6 +1427,7 @@ community
 CompanyBattles
 CompanyOfHeroes
 CompetitiveApex
+CompetitiveEDH
 CompetitiveMinecraft
 Competitiveoverwatch
 CompetitiveTFT
@@ -4444,6 +4445,7 @@ mysticmessenger
 MySummerCar
 mythology
 mythologymemes
+mytimeatportia
 n64
 N_N_N
 NaBoaChavaloRetardado
@@ -4498,6 +4500,7 @@ NBASpurs
 NBAYoungboy
 NCAAFBseries
 NCAAgirls
+NCSU
 NCT
 NdFlex
 ndp
@@ -4932,6 +4935,7 @@ Patriots
 Patty_Lopez
 PaulaDelVilllar
 Paulblartmallcop
+Pauper
 paydaytheheist
 PaymoneyWubby
 PcBuild
@@ -4991,6 +4995,7 @@ petthedamncow
 PetTheDamnDog
 PetTheDamnKitty
 pettyrevenge
+pewdiepie
 PewdiepieSubmissions
 PeytonList
 peyups
