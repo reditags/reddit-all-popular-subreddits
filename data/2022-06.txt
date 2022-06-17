@@ -3237,6 +3237,7 @@ ImaginaryNobles
 ImaginaryPathways
 imaginarypets
 ImaginaryPirates
+ImaginaryPropaganda
 ImaginaryScholars
 ImaginarySeascapes
 ImaginarySliceOfLife
@@ -4050,6 +4051,7 @@ MangaCollectors
 mangacoloring
 mangafr
 MangaMemes
+manganews
 manholeporn
 manhwa
 Manitoba
@@ -5418,6 +5420,7 @@ ReadyOrNotGame
 real_China_irl
 RealBeesFakeTopHats
 realestateinvesting
+RealisticEdits
 reallifedoodles
 RealLifeShinies
 ReallyAmerican
@@ -5505,6 +5508,7 @@ retard
 retardedcornfieldcum
 RetroAR
 retrobattlestations
+RetroBowl
 RetroFuturism
 retrogaming
 RetroPie
@@ -5674,6 +5678,7 @@ Sat
 Satan
 SatanicTemple_Reddit
 satanism
+satisfactory
 SatisfactoryGame
 SatisfIcing
 satisfying
