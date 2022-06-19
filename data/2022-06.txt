@@ -499,6 +499,7 @@ askcarsales
 AskDocs
 AskElectronics
 AskEngineers
+AskFrance
 AskHistorians
 AskMen
 AskMiddleEast
@@ -2577,6 +2578,7 @@ Fromis
 FromKittenToCat
 FromPuppyToDog
 fromsoftware
+frontfootporn
 FrostGiant
 Frostpunk
 Frugal
@@ -7110,6 +7112,7 @@ ViewPorn
 ViihTubee
 vikingstv
 VikiOdintcova
+Vikkstar123
 Vilebrequin
 VillagePorn
 vim
