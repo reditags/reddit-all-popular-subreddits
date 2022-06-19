@@ -641,6 +641,7 @@ Bad_Cop_No_Donut
 badassanimals
 BadChoicesGoodStories
 badcode
+BadCycling
 BadDesigns
 badfacebookmemes
 Badfaketexts
@@ -1163,6 +1164,7 @@ CartoonMoment
 cartoons
 cassetteculture
 cassettefuturism
+CassieLee
 castiron
 castles
 castlevania
@@ -4804,6 +4806,7 @@ notdisneyvacation
 notebooks
 notfunny
 nothingeverhappens
+NotHowDrugsWork
 NotHowGirlsWork
 notinteresting
 Notion
@@ -5814,6 +5817,7 @@ saudiarabia
 SavageGarden
 SAVEBRENDAN
 savedyouaclick
+saw
 sbeve
 sbubby_NL
 scambait
@@ -6619,6 +6623,7 @@ TheBullWins
 TheCapeRevolution
 thecatdimension
 TheCatTrapIsWorking
+TheCinemassacre
 TheCivilService
 TheClickOwO
 TheCloneWars
