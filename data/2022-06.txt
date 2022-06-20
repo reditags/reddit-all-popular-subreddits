@@ -1940,6 +1940,7 @@ Dimension20
 DINgore
 Dinosaurs
 dioramas
+DiovanaKoni
 Dipcifica
 DiretoDoZapZap
 Dirtbikes
@@ -3036,6 +3037,7 @@ heat
 HeavyFuckingWind
 Heavymind
 HeavySeas
+heavyvinyl
 HecklerKoch
 HeckThisIsWholesome
 Hedgehog
@@ -3334,6 +3336,7 @@ ImaginaryMonsters
 ImaginaryMythology
 ImaginaryNecronomicon
 ImaginaryNobles
+ImaginaryOrcs
 ImaginaryPathways
 imaginarypets
 ImaginaryPirates
@@ -3866,6 +3869,7 @@ LeaEluiGinet
 leafs
 leagueoflegends
 LeagueOfMemes
+LeaguesofVotann
 LeaksDBD
 LeaMartinez
 leanbeefpatty
@@ -4576,6 +4580,7 @@ Mujico
 Multecistan
 Multicopter
 multiverseofmadness
+MultiVersus
 MultiVersusTheGame
 mumbai
 Munich
@@ -6022,6 +6027,7 @@ shittybloodborne
 ShittyCarMod
 shittyeldenring
 shittyfoodporn
+Shittygamecollecting
 shittygamedetails
 ShittyGifRecipes
 shittyhalolore
