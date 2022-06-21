@@ -3274,6 +3274,7 @@ IdiotsInCars
 IdiotsNearlyDying
 IdiotsOnBikes
 Idiotswithguns
+IdleHeroes
 idontdreamoflabor
 IDONTGIVEASWAG
 IDontWorkHereLady
@@ -3776,6 +3777,7 @@ KingOfTheHill
 kings
 KingstonOntario
 Kirby
+Kitbash
 KitchenConfidential
 kitchener
 Kitler
@@ -3874,6 +3876,7 @@ LandscapeAstro
 landscaping
 languagelearning
 languagelearningjerk
+LarkinLove
 LARP
 LaserCleaningPorn
 LaserEyedCats
@@ -4941,6 +4944,7 @@ OfficialIndia
 OfflinetvGirls
 offmenupodcast
 OffMyChestPH
+offseasonthickness2
 offset
 Ohio
 oilpainting
@@ -6221,6 +6225,7 @@ SNSD
 Sober
 soccercirclejerk
 socialanxiety
+SocialDemocracy
 socialism
 SocialismIsCapitalism
 SocialistEconomics
@@ -7067,6 +7072,7 @@ uberdrivers
 UberEATS
 Ubiquiti
 ubius
+uBlockOrigin
 UCDavis
 UCI
 ucla
