@@ -718,6 +718,7 @@ basset
 bassethounds
 bassfishing
 BassGuitar
+bassnectar
 bathandbodyworks
 batman
 BatmanArkham
@@ -2973,6 +2974,7 @@ GTAorRussia
 GTAV
 gtavcustoms
 GTBAE
+GTFO
 Guacamole_penis
 GuardianTales
 GuerrillaGardening
@@ -4676,6 +4678,7 @@ musicals
 MusicBattlestations
 musichaiku
 musicmemes
+musictheory
 MuslimLounge
 Mustang
 MVIS
@@ -5076,6 +5079,7 @@ OnePiece
 OnePieceLiveAction
 OnePieceTC
 oneplus
+onepotmeals
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
