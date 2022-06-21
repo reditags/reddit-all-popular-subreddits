@@ -1512,6 +1512,7 @@ CompetitiveEDH
 CompetitiveMinecraft
 Competitiveoverwatch
 CompetitiveTFT
+CompetitiveWoW
 COMPLETEANARCHY
 composting
 compsci
@@ -1824,6 +1825,7 @@ DaysGone
 Daytrading
 dayz
 dbfz
+DBLegendsReddit
 dbz
 DBZDokkanBattle
 DC_Cinematic
@@ -1836,6 +1838,7 @@ DDLC
 de
 de_EDV
 de_IAmA
+deadandcompany
 deadbydaylight
 deadcells
 deadlockpw
@@ -2185,6 +2188,7 @@ EDH
 Edinburgh
 EDM
 Edmonton
+edmproduction
 educationalgifs
 Eesti
 egg_irl
@@ -2516,6 +2520,7 @@ FloridaGators
 FloridaMan
 FloridaPanthers
 FlorkofCowsOfficial
+FlowerMemes
 flowers
 FluentInFinance
 Flume
@@ -2647,6 +2652,7 @@ Fromis
 FromKittenToCat
 FromPuppyToDog
 fromsoftware
+FromTheDepths
 frontfootporn
 FrostGiant
 Frostpunk
@@ -5131,6 +5137,7 @@ overlord
 OverSimplified
 overthegardenwall
 Overwatch
+overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
 OverwatchLeague
@@ -6526,6 +6533,7 @@ SuperAthleteGifs
 superautopets
 Superbowl
 superman
+SupermanAndLois
 SuperMegaShow
 SupermodelCats
 SupermodelDogs
@@ -7703,6 +7711,7 @@ Zendaya
 Zerkaa
 ZeroWaste
 ZhongliMains
+zillakami
 zillowgonewild
 Zoe
 zoemains
