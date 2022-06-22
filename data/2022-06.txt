@@ -1116,6 +1116,7 @@ BunniesStandingUp
 burdurland
 burgers
 burlington
+BusinessFashion
 Buttcoin
 BuyItForLife
 byebyejob
@@ -2164,6 +2165,7 @@ dungeondraft
 Dungeons_and_Dragons
 DungeonsAndDaddies
 DungeonsAndDragons
+dunkins
 duolingo
 Duskwood
 dustkitties
@@ -3159,6 +3161,7 @@ HistoriaEmPortugues
 HistoricalCostuming
 history
 History_Mysteries
+HistoryAnecdotes
 HistoryAnimemes
 Historycord
 HistoryPorn
@@ -4719,6 +4722,7 @@ mystery
 MysteryDungeon
 mysticmessenger
 MySummerCar
+MythicalKitchen
 mythology
 mythologymemes
 mytimeatportia
