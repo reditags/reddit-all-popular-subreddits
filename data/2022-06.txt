@@ -7397,6 +7397,7 @@ vosfinances
 VoteBlue
 VoteDEM
 VOXEL
+voyager
 VRchat
 VRGaming
 vrising
