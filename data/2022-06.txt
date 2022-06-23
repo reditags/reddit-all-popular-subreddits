@@ -665,6 +665,7 @@ BadChoicesGoodStories
 badcode
 BadCycling
 BadDesigns
+badeconomics
 badfacebookmemes
 Badfaketexts
 badfriendspod
@@ -1297,6 +1298,7 @@ CelineFarach
 cellbits
 CelsiusNetwork
 CelticFC
+CemeteryPorn
 CentaurWorld
 CentralChurch
 centuryhomes
@@ -1561,6 +1563,7 @@ ContagiousLaughter
 container_homes
 ContestOfChampions
 ContraPoints
+controlgame
 Conures
 ConvenientCop
 CookieClicker
@@ -5344,6 +5347,7 @@ photographs
 photoshop
 photoshopbattles
 PhotoshopRequest
+physicaltherapy
 Physics
 physicsgifs
 physicsmemes
