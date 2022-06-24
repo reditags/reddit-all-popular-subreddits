@@ -530,6 +530,7 @@ AskEngineers
 AskFeminists
 AskFrance
 AskHistorians
+AskLosAngeles
 AskMen
 AskMenOver30
 AskMiddleEast
@@ -2250,6 +2251,7 @@ Eldar
 EldenBling
 Eldenring
 EldenRingArt
+eldenringdiscussion
 ElderScrolls
 elderscrollsonline
 ElectricalEngineering
@@ -3661,6 +3663,7 @@ jackrussellterrier
 jacksepticeye
 jacksonville
 JackSucksAtLife
+jackwhite
 jag_ivl
 Jaguars
 Jaharia
@@ -5241,6 +5244,7 @@ outerworlds
 OUTFITS
 outofcontextcomics
 OutOfTheLoop
+outriders
 outrun
 outside
 overclocking
@@ -7419,6 +7423,7 @@ VaushV
 vaxxhappened
 vdm
 Vechain
+Veep
 vegan
 vegancirclejerk
 VeganDE
