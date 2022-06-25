@@ -253,6 +253,7 @@ alternativeart
 AlternativeHistory
 althomestuck
 alvvays
+AlyRaisman
 AlzheimersGroup
 Alzwards_Corner
 AmateurEarthPorn
@@ -776,6 +777,7 @@ BeamNG
 BeansInThings
 BeardedDragons
 beards
+bearpuppers
 bearsdoinghumanthings
 Beastars
 beastboyshub
@@ -2991,6 +2993,7 @@ googlehome
 googlemapsshenanigans
 GooglePixel
 googleReviews
+GoosetheBand
 gorgc
 gorillaz
 GoRVing
@@ -3985,6 +3988,7 @@ kurtisconner
 Kurumi
 kurzgesagt
 KUWTKsnark
+Kyaru
 l4d2
 LaborPartyofAustralia
 Labour
@@ -7583,6 +7587,7 @@ WA_guns
 WackyTicTacs
 waifubartending
 Wales
+WalgreensStores
 walkablecities
 WalkableStreets
 walkaway
