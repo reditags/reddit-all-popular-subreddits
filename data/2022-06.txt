@@ -800,6 +800,7 @@ beetlejuicing
 BeforeNAfterAdoption
 BeginnerWoodWorking
 behindthebastards
+behindthegifs
 beholdthemasterrace
 BeidouMains
 Beiguang
@@ -2511,6 +2512,7 @@ FFVIIRemake
 ffxi
 ffxiv
 ffxivart
+ffxivdiscussion
 FFXIVGlamours
 FFXV
 FFXVI
@@ -4185,6 +4187,7 @@ loicense
 loki
 lolcats
 Lolirefugees
+loltyler1
 london
 londonontario
 lonely
@@ -7334,6 +7337,7 @@ ufo
 UFOs
 uglyduckling
 UIUC
+UK_Food
 ukdrill
 UKPersonalFinance
 ukraina
@@ -7343,6 +7347,7 @@ UkraineConflict
 UkraineInvasionVideos
 UkraineWarVideoReport
 UkrainianConflict
+uktrees
 Ultrakill
 Ultraman
 ultrawidemasterrace
