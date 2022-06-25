@@ -462,6 +462,7 @@ arbeitsleben
 arcadefire
 arcane
 Archaeology
+archeologyworld
 ArcherFX
 Archery
 ArchitecturalRevival
@@ -1929,6 +1930,7 @@ DeerAreFuckingStupid
 defi
 deftones
 Defunctland
+degoogle
 Degrassi
 Degus
 Delaware
@@ -3757,6 +3759,7 @@ jisoo
 jjdandfamily
 jobs
 JoeBiden
+JoelG
 JoeRogan
 JoeyKing
 JohnMayer
