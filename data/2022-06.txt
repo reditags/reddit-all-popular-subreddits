@@ -567,6 +567,7 @@ astramilitarum
 astrologymemes
 Astroneer
 Astronomy
+AstronomyMemes
 astrophotography
 Astros
 ASTSpaceMobile
@@ -5527,6 +5528,7 @@ PlanetCoaster
 Planetside
 PlanetZoo
 PlanningMemes
+plano
 plantabuse
 PlantBasedDiet
 plantclinic
@@ -7808,6 +7810,7 @@ wolves
 WolvesAreBigYo
 WolvesWithWatermelons
 women
+WomensSoccer
 womensstreetwear
 wonderdraft
 Wonderlands
