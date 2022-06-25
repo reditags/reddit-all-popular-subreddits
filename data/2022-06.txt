@@ -1674,6 +1674,7 @@ CreepyArt
 creepyasterisks
 creepydesign
 creepyencounters
+creepygaming
 creepypasta
 creepyPMs
 CreepyWikipedia
@@ -5250,6 +5251,7 @@ ornnmains
 Orochisegundo
 Osana
 OshiNoKo
+oslo
 osp
 osr
 ossem
@@ -7282,6 +7284,7 @@ TumblrWrites
 Tunisian_Crochet
 Turkey
 TurkeyJerky
+TurkeyMeta
 TurkishCats
 turtle
 TuxedoCats
