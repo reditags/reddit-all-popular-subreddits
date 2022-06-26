@@ -6086,6 +6086,7 @@ RSA
 rsloshredit
 RTGameCrowd
 RubeGoldbergFails
+Rubiks_Cubes
 rubirose
 rugbyunion
 RuinedMyDay
@@ -7037,6 +7038,7 @@ TheCatReport
 TheCatTrapIsWorking
 TheCinemassacre
 TheCinemassacreTruth
+TheCircleTV
 TheCivilService
 TheClickOwO
 TheCloneWars
