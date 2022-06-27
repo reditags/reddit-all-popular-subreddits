@@ -2508,6 +2508,7 @@ FanFiction
 fangies
 fantanoforever
 Fantasy
+fantasybaseball
 fantasyfootball
 fantasyhockey
 FantasyPL
@@ -2591,6 +2592,7 @@ finance
 FinancialCareers
 financialindependence
 Finanzen
+findapath
 findareddit
 findfashion
 FindTheSniper
