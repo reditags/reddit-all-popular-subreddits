@@ -268,6 +268,7 @@ AmazonDSPDrivers
 AmazonFC
 AmazonFlexDrivers
 amazonreviews
+AmazonWTF
 AmberlynnReidYT
 AmberlynnSnark
 AmberMains
@@ -1491,6 +1492,7 @@ CleaningTips
 Cleveland
 ClevelandGuardians
 clevercomebacks
+CLG
 climate
 ClimateActionPlan
 ClimateMemes
@@ -1950,6 +1952,7 @@ deepseacreatures
 DeepSpaceNine
 DeerAreFuckingStupid
 defi
+DeFranco
 deftones
 Defunctland
 degoogle
@@ -2424,6 +2427,7 @@ EvilDeadTheGame
 EvyRosas
 excatholic
 excgarated
+exchristianmemes
 Exercise
 exIglesiaNiCristo
 Existentialism
@@ -5508,6 +5512,7 @@ PHGamers
 philadelphia
 Philippines
 phillies
+PhillyUnion
 philosophy
 PhilosophyMemes
 PhilosophyTube
@@ -6026,6 +6031,7 @@ RingFitAdventure
 RingOfTheYear
 ripcity
 risa
+riseagainst
 riskofrain
 RisqueFashion
 rit
@@ -7628,6 +7634,7 @@ Virginia
 virginvschad
 virtualreality
 Visiblemending
+visualization
 vita
 ViviWinkler
 Vivy
