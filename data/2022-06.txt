@@ -556,6 +556,7 @@ askscience
 AskScienceFiction
 askSingapore
 askspain
+Asksweddit
 AskThe_Donald
 askTO
 asktransgender
@@ -1052,6 +1053,7 @@ BotanicalPorn
 botany
 Botchedsurgeries
 botecodoreddit
+botsrights
 bottlebrush
 bottomgear
 botw
@@ -4366,6 +4368,7 @@ LSD
 LTB_iel
 LucidDreaming
 lucifer
+lucknow
 LucyHale
 LudmilaAlderete
 LudwigAhgren
@@ -6246,6 +6249,7 @@ sashasanchex
 saskatchewan
 saskatoon
 SASSWitches
+sassy_poonam
 SassypoonamIsLove
 Sat
 Satan
@@ -6350,6 +6354,7 @@ SelenaGomez
 SelenaGomezBeauty
 self
 SelfAwarewolves
+selfharm_memes
 selfhosted
 selfie
 selfimprovement
