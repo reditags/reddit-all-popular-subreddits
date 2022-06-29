@@ -489,6 +489,7 @@ AreTheStraightsOkay
 Argaming
 argentina
 ArgentinaBenderStyle
+ARGENTINAS18
 Argnime
 ArianaGrande
 ArianaGrandeAss
@@ -7591,6 +7592,7 @@ UnexpectedB99
 unexpectedcommunism
 unexpectedfactorial
 unexpectedfuturama
+unexpectedgravity
 unexpecteditcrowd
 UnexpectedJoJo
 UnexpectedLetterkenny
