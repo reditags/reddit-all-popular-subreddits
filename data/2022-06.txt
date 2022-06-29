@@ -2908,6 +2908,7 @@ Gameboy
 gamecollecting
 Gamecube
 gamedev
+gamedevscreens
 gamegrumps
 Gamemeneersubmissies
 gameofthrones
@@ -5354,6 +5355,7 @@ OldSchoolRidiculous
 OldSkaters
 Oldtimer
 OldWorldBlues
+OlgaKatysheva
 OliveMUA
 OliverMarkusMalloy
 Olivia_Ponton_
@@ -5512,6 +5514,7 @@ parasnailing
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
+parentsofmultiples
 paris
 ParkJihyo
 ParlerTrick
@@ -7124,6 +7127,7 @@ TerrifyingAsFuck
 teslainvestorsclub
 TeslaLounge
 TeslaModel3
+TeslaModelY
 teslamotors
 TESOfashion
 Testosterone
