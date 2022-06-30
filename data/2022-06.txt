@@ -584,6 +584,7 @@ assettocorsa
 assholedesign
 assholetax
 Assistance
+astoria
 AstralProjection
 astramilitarum
 astrologymemes
@@ -2098,6 +2099,7 @@ diabetes
 diabetes_t1
 Diablo
 diablo2
+diablo3
 diablo4
 Diablo_2_Resurrected
 DiabloImmortal
@@ -2170,6 +2172,7 @@ DnDIY
 dndmaps
 dndmemes
 dndnext
+DNFDuel
 DobermanPinscher
 doctorwho
 DoctorWhumour
