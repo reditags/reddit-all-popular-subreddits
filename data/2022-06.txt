@@ -2126,6 +2126,7 @@ DiretoDoZapZap
 Dirtbikes
 dirtgame
 disability
+discdyeing
 discgolf
 DiscoElysium
 discord_irl
@@ -2928,6 +2929,7 @@ GalinaDubenenko
 Galiza
 gallifrey
 Gambiarra
+gameassets
 Gameboy
 gamecollecting
 Gamecube
@@ -4238,6 +4240,7 @@ lebowski
 ledzeppelin
 Leeds
 LeedsUnited
+leetcode
 left_urbanism
 LeftHistoryMemes
 LeftistGamersUnion
@@ -6111,6 +6114,7 @@ RedHotChiliPeppers
 RedLetterMedia
 redneckengineering
 redpandas
+redrising
 Reds
 redscareforcishetmen
 RedshirtsUnite
