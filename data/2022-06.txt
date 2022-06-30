@@ -529,6 +529,7 @@ ArtefactPorn
 ArtForUkraine
 ArtHistory
 artificial
+ArtisanVideos
 ArtJournaling
 ArtNouveau
 ArtOfRolling
@@ -2019,6 +2020,7 @@ Defunctland
 degoogle
 Degrassi
 Degus
+Dehyamains
 Delaware
 Deleuze
 delhi
