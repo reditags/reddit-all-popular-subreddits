@@ -229,6 +229,7 @@ ape
 aPeoplesCalendar
 apexcirclejerk
 apexlegends
+ApexLegendsMobile
 ApexOutlands
 ApexUncovered
 apexuniversity
@@ -318,10 +319,12 @@ AubreyPlaza
 auckland
 Audi
 audiophile
+Augenbleiche
 AusFinance
 AusMemes
 australia
 AustralianCattleDog
+AustralianMilitary
 AustralianPolitics
 AustralianShepherd
 Austria
@@ -674,6 +677,7 @@ catpictures
 cats
 CatsAndPlants
 CatsAreAssholes
+catsarefuckingstupid
 catsareliquid
 catsbeingbanks
 CatsBeingCats
@@ -726,6 +730,7 @@ Chang_Gang
 chaoticgood
 characterarcs
 characterdrawing
+CharacterRant
 CharliDamelioMommy
 CharlotteHornets
 Cheese
@@ -758,6 +763,7 @@ chronotrigger
 ChurchOfKasumi
 ChurchofMarnie
 ChurchOfNejire
+chutyapa
 chuunibyou
 CICO
 cigars
@@ -781,6 +787,7 @@ classicwow
 ClassPoliticsTwitter
 ClassroomOfTheElite
 CleaningTips
+cleanjokes
 ClevelandGuardians
 clevercomebacks
 climate
@@ -915,6 +922,7 @@ CrusadeMemes
 CrusaderKings
 CryptidDogs
 CryptoCurrency
+CryptoMarkets
 CryptoMoonShots
 Crystals
 cscareerquestions
@@ -1021,6 +1029,7 @@ DeepIntoYouTube
 DeepRockGalactic
 DeepSpaceNine
 DeerAreFuckingStupid
+deftones
 Dehyamains
 delhi
 deliciouscompliance
@@ -1105,6 +1114,7 @@ DnD
 DnDart
 DnDGreentext
 DnDHomebrew
+DnDIY
 dndmaps
 dndmemes
 dndnext
@@ -1277,6 +1287,7 @@ F1Manager
 F1NN5TER
 F1Porn
 F1Technical
+FacebookScience
 facepalm
 Faces
 factorio
@@ -1497,6 +1508,7 @@ gaming
 Gamingcirclejerk
 GamingDetails
 GamingLeaksAndRumours
+gangstaswithwaifus
 Ganyu
 GardeningUK
 garfieldminusgarfield
@@ -1638,6 +1650,7 @@ HadToHurt
 haikyuu
 HailCorporate
 HaileeSteinfeld
+hailhortler
 Hair
 HairDye
 hajimenoippo
@@ -1678,6 +1691,7 @@ HazbinHotel
 headpats
 headphones
 Health
+Healthygamergg
 hearthstone
 hearthstonecirclejerk
 HeartstopperAO
@@ -1831,6 +1845,7 @@ ImaginaryHumans
 ImaginaryJedi
 ImaginaryLandscapes
 ImaginaryLeviathans
+ImaginaryMaids
 imaginarymaps
 ImaginaryMindscapes
 ImaginaryMonsters
@@ -1908,6 +1923,7 @@ introvert
 Invincible
 ios
 Iowa
+ipad
 iphone
 iPhoneography
 iRacing
@@ -1937,6 +1953,7 @@ Izlam
 iZone
 jackass
 jackrussellterrier
+JacksFilms
 JackSucksAtLife
 jaidenanimations
 jakertown
@@ -2059,9 +2076,11 @@ KneadyCats
 knifeclub
 knives
 knolling
+Knoxville
 KokkoroNatsume
 Komi_san
 Konosuba
+kopyamakarna
 korea
 Kosmiczna_Flota
 KotakuInAction
@@ -2094,6 +2113,7 @@ LandlordLove
 LandoftheLustrous
 landscaping
 languagelearning
+LaStalla
 lastimages
 LateStageCapitalism
 LateStageImperialism
@@ -2476,6 +2496,7 @@ MovieDetails
 MovieMistakes
 movies
 Moviesinthemaking
+mrlovenstein
 MrRobot
 MSsEcReTPoDcAsT
 MST3K
@@ -2511,6 +2532,8 @@ Nails
 NameNerdCirclejerk
 namenerds
 namethatcar
+NamFlashbacks
+NanashiMumei
 nancydrew
 NANIKPosting
 NarcoFootage
@@ -2588,6 +2611,7 @@ nier
 nietdespeld
 NightInTheWoods
 nightvale
+nihilism
 Nijisanji
 NilouMains
 nin
@@ -2889,6 +2913,7 @@ Pixiv
 Pizza
 PizzaCrimes
 PKA
+PlanetZoo
 plantclinic
 PlantedTank
 plants
@@ -2960,6 +2985,7 @@ PrepperIntel
 preppers
 PrequelMemes
 PrequelSeparatist
+PresidentialRaceMemes
 PrettyGirls
 PrettyOlderWomen
 preyingmantis
@@ -3276,6 +3302,7 @@ ShitpostTC
 ShitpostXIV
 Shitstatistssay
 Shitty_Car_Mods
+shittyaquariums
 Shittyaskflying
 shittyaskscience
 shittybattlestations
@@ -3317,6 +3344,7 @@ Silksong
 Silmarillionmemes
 simpsonsshitposting
 simracing
+Simracingstewards
 sims2
 Sims3
 Simulated
@@ -3483,6 +3511,7 @@ StraightsBeingOK
 StrangerThings
 straykids
 StreetFighter
+StreetMartialArts
 streeto
 streetphotography
 strength_training
@@ -3591,6 +3620,7 @@ technews
 technicallythetruth
 Technoblade
 technology
+TechNope
 techsupportgore
 TedLasso
 teefies
@@ -3606,6 +3636,7 @@ TerrainBuilding
 Terraria
 TerrariaMemes
 terriblefacebookmemes
+terriblefandommemes
 TerrifyingAsFuck
 TeslaLounge
 TeslaModel3
@@ -3708,6 +3739,7 @@ TILI
 timberwolves
 TimDillon
 Tinder
+TinyHouses
 tinyorangekittens
 TinyUnits
 tipofmytongue
@@ -3724,6 +3756,7 @@ Toefeathers
 toilet
 ToiletPaperUSA
 tokkiefeesboek
+tokkiemarktplaats
 Tokyo
 TokyoGhoul
 TokyoRevengers
@@ -3862,6 +3895,7 @@ unpopularopinion
 unrealengine
 UnresolvedMysteries
 unstirredpaint
+untitledgoosegame
 UnusualVideos
 unwholesomememes
 UpliftingNews
