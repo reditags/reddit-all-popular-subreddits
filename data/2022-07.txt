@@ -337,6 +337,7 @@ axolotls
 AyakaMains
 Ayato_Mains
 BabyBumps
+BabyCorgis
 babyelephantgifs
 babylon5
 BabyYoda
@@ -604,6 +605,7 @@ CallMeCarson
 CallOfDuty
 CallOfDutyMobile
 calvinandhobbes
+camaro
 CamCordova
 CamilaCabello
 camphalfblood
@@ -628,6 +630,7 @@ castiron
 castles
 castlevania
 CasualConversation
+casualknitting
 casualnintendo
 CasualUK
 cat
@@ -936,6 +939,7 @@ dankmark
 dankmemes
 DankMemesFromSite19
 DankPods
+DankPrecolumbianMemes
 dankrishu
 dankruto
 danktintinmemes
@@ -1095,6 +1099,7 @@ donthelpjustfilm
 dontyouknowwhoiam
 DonutMedia
 doodoofard
+doordash
 doordash_drivers
 DotA2
 doughboys
@@ -1168,6 +1173,7 @@ EmiliaClarke
 Eminem
 EmKay
 EmmaStone
+Emo
 Emoney
 EmpireDidNothingWrong
 EmpressEvolution
@@ -1402,6 +1408,7 @@ Fuckthealtright
 fucktheccp
 fuckwasps
 fuckxavier
+FuckYouChiChan
 FUCKYOUINPARTICULAR
 FuckYouKaren
 fujifilm
@@ -1498,6 +1505,7 @@ Gintama
 girlsfrontline
 GirlsMirin
 givemeinteligens
+Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
 Glocks
@@ -1589,6 +1597,7 @@ halloween
 halo
 HaloCirclejerk
 HaloMemes
+Hamilton
 Hammers
 hamsters
 HandfulOfKitten
@@ -1693,6 +1702,7 @@ HotlineMiami
 hotones
 hotsauce
 HottestFemaleAthletes
+HotWheels
 houkai3rd
 houseplants
 houseplantscirclejerk
@@ -1863,6 +1873,7 @@ ItemShop
 IThinkYouShouldLeave
 itookapicture
 itrunsdoom
+itsaunixsystem
 IttoMains
 ITZY
 iwoulddiefornoodle
@@ -1984,6 +1995,7 @@ kittengifs
 kittens
 kittyhasaquestion
 KittyPupperLove
+KittyTailWrap
 KneadyCats
 knifeclub
 knives
@@ -2168,6 +2180,7 @@ madisonwi
 madnesscombat
 MadokaMagica
 MagicArena
+MagicEye
 magicthecirclejerking
 magnetfishing
 maidsonskates
@@ -2177,6 +2190,7 @@ maisiewilliams
 majonotabitabi
 MakeupAddiction
 MakeupLounge
+MakeWay4QueensGuard
 MaladaptiveDreaming
 MalayalamMovies
 malaysia
@@ -2245,6 +2259,7 @@ MedievalCats
 MedievalHistoryMemes
 Meditation
 medizzy
+Megadeth
 megalophobia
 Megaman
 Megaten
@@ -2480,6 +2495,7 @@ news
 newsbloopers
 NewsOfTheStupid
 NewVegasMemes
+newworldgame
 newyorkcity
 NewYorkMets
 newzealand
@@ -3033,6 +3049,7 @@ Romania
 romemes
 RoomPorn
 roosterteeth
+rose
 Rottweiler
 RoughRomanMemes
 RoundAnimals
@@ -3292,6 +3309,7 @@ Spiritfarer
 splatoon
 sploot
 Spokane
+spongebob
 spooktober
 sports
 sportsarefun
@@ -3425,6 +3443,7 @@ tacticalgear
 taiwan
 Takagi_san
 TakaMori
+tales
 TalesFromRetail
 talesfromtechsupport
 TalesFromTheCustomer
@@ -3450,6 +3469,7 @@ tattoo
 TattooDesigns
 tattoos
 Tau40K
+TayaMiller
 TayamillerOF_
 TaylorSwift
 TaylorSwiftPictures
@@ -3888,6 +3908,7 @@ WhyWereTheyFilming
 WhyWomenLiveLonger
 wien
 WiggleButts
+wiiu
 wikipedia
 Wilbur
 WildernessBackpacking
@@ -3986,6 +4007,7 @@ YouShouldKnow
 Youtooz
 youtube
 youtubehaiku
+YuB
 yugioh
 YUROP
 YuYuHakusho
