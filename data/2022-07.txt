@@ -266,6 +266,7 @@ apexcirclejerk
 apexlegends
 ApexLegendsMobile
 ApexOutlands
+Apexrollouts
 ApexUncovered
 apexuniversity
 aphextwin
@@ -381,6 +382,7 @@ Autoflowers
 Autos
 Avatar
 AvatarMemes
+AveragePicsOfNZ
 aviation
 aviationmemes
 avrillavigne
@@ -1415,6 +1417,7 @@ Entrepreneur
 entwives
 environment
 EpicSeven
+equestriaatwar
 Eragon
 es
 EscapefromTarkov
@@ -1789,6 +1792,7 @@ GossipGirl
 goth
 Gothenburg
 GothGirls
+GothStyle
 GradualChaos
 Graffiti
 GrandBlue
@@ -1808,6 +1812,7 @@ greatpyrenees
 greebles
 greece
 GreedIncorporated
+GreenAndEXTREME
 GreenAndPleasant
 GreenBayPackers
 greenday
@@ -2205,6 +2210,7 @@ jackrussellterrier
 JacksFilms
 JackSucksAtLife
 jaidenanimations
+jailbreak
 jakertown
 JamesBond
 jameswebbdiscoveries
@@ -2878,6 +2884,7 @@ nationalguard
 NationalPark
 NativePlantGardening
 nattyorjuice
+Natureisbrutal
 NatureIsFuckingLit
 natureismetal
 natureporn
@@ -2992,6 +2999,7 @@ nope
 Nordichistorymemes
 norge
 NormMacdonald
+Norse
 NorthCarolina
 northernireland
 northernlion
@@ -3545,8 +3553,10 @@ risa
 riskofrain
 Rivian
 Roadcam
+RoadPorn
 roadtrip
 RoastMe
+robac
 robbersgettingfucked
 robotics
 RocketLeague
@@ -3647,6 +3657,7 @@ schkreckl
 schnauzers
 school_memes
 science
+sciencememes
 ScienceNcoolThings
 scifi
 SCJerk
@@ -3787,6 +3798,7 @@ sketches
 skiing
 Skookum
 Skullgirls
+SkyGame
 skylanders
 SkyPorn
 skyrim
@@ -4610,6 +4622,7 @@ Witcher3
 WitcherMemes
 WitchesVsPatriarchy
 Wizard101
+WMMA
 woahdude
 woesenpaixxx
 wokekids
@@ -4618,6 +4631,7 @@ Woodcarving
 woodworking
 woof_irl
 woooosh
+woosh
 Workbenches
 Workers_Revolt
 WorkersStrikeBack
@@ -4633,6 +4647,7 @@ WorldofTanks
 WorldOfTanksBlitz
 WorldOfWarships
 WorldWar2
+WormMemes
 wortwitzkasse
 WoT
 WouldYouRather
