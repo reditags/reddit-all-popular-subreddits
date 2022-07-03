@@ -5,6 +5,7 @@
 11foot8
 1200isfineIGUESSugh
 13or30
+1500isplenty
 15minutefood
 1911
 19684
@@ -87,6 +88,7 @@ acecombat
 Achievement_Hunter
 AchillesAndHisPal
 ACMilan
+acnh
 ACPocketCamp
 ACQR
 ActionFigures
@@ -548,6 +550,7 @@ BLAHAJ
 blankies
 BlatantMisogyny
 bleach
+BleachBraveSouls
 blender
 blendermemes
 Blep
@@ -654,6 +657,7 @@ btd6
 bts7
 Buddhism
 BudgetAudiophile
+BudgetBlades
 budgetfood
 budgies
 Buffalo
@@ -1288,6 +1292,7 @@ DreamWasTaken
 DreamWasTaken2
 DrewGooden
 dril
+DrStone
 drugmemes
 Drugs
 drums
@@ -1782,6 +1787,7 @@ greenday
 Greyhounds
 greysanatomy
 GriefSupport
+grilledcheese
 grilling
 Grimdank
 grunge
@@ -1835,6 +1841,7 @@ Hamilton
 Hammers
 hamsters
 HandfulOfKitten
+handholding
 handtools
 Handwriting
 HannibalTV
@@ -1931,6 +1938,7 @@ HolUp
 HomeDecorating
 HomeImprovement
 homelab
+HomeNetworking
 homestead
 homestuck
 hometheater
@@ -2287,6 +2295,7 @@ KillLaKill
 killteam
 killthecameraman
 KimetsuNoYaiba
+kindafunny
 Kingdom
 kingdomcome
 KingdomHearts
@@ -2312,6 +2321,7 @@ Komi_san
 Konosuba
 kopyamakarna
 korea
+KoreanFood
 Kosmiczna_Flota
 KotakuInAction
 kotor
@@ -3755,6 +3765,7 @@ snails
 snakes
 SnapChad
 Sneks
+snes
 snowrunner
 soccercirclejerk
 socialanxiety
@@ -3779,9 +3790,12 @@ SoulCalibur
 souleater
 SoulKnight
 SoulSnacks
+SoundersFC
 SoundsLikeMusic
 Sourdough
 southafrica
+Southerncharm
+SovietWomble
 space
 SpaceballsMemes
 SpaceCannibalism
