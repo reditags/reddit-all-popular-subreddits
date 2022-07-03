@@ -160,6 +160,7 @@ alinity
 AlisonBrie
 AlternateAngles
 AlternateHistory
+althomestuck
 AlzheimersGroup
 Alzwards_Corner
 AmateurRoomPorn
@@ -232,6 +233,7 @@ AnimeMeme
 animememes
 Animemes
 AnimeMirchi
+AnimeMusicians
 animenocontext
 AnimeNoises
 AnimeSketch
@@ -343,6 +345,7 @@ assassinscreed
 AssassinsCreedMemes
 AssassinsCreedOdyssey
 AssassinsCreedValhala
+assettocorsa
 assholedesign
 astrologymemes
 Astronomy
@@ -499,6 +502,7 @@ bengals
 benshapiro
 berlin
 bernesemountaindogs
+BernieSanders
 bestof
 bestoflegaladvice
 BestofRedditorUpdates
@@ -520,6 +524,7 @@ bigfoot
 bikecommuting
 bikepacking
 Bikeporn
+bikesgonewild
 BikiniBottomTwitter
 BillBurr
 billsimmons
@@ -792,6 +797,7 @@ CatsPlayingDnd
 CatsStandingUp
 catsvstechnology
 CatsWhoChirp
+CatsWhoSmoke
 CatsWhoSqueak
 catswhotrill
 Catswhoyell
@@ -804,6 +810,7 @@ CCW
 CelebrityFeet
 celebritylegs
 celestegame
+celestememes
 Celiac
 cellbits
 CelsiusNetwork
@@ -999,6 +1006,7 @@ Corvette
 corvids
 Cosmere
 cosplayers
+cosplayprops
 Costco
 cottagecore
 CountOnceADay
@@ -1014,6 +1022,7 @@ CozyPlaces
 crabcats
 CrackheadCraigslist
 CrackWatch
+craftsnark
 CrappyDesign
 crappyoffbrands
 crashbandicoot
@@ -1129,6 +1138,7 @@ DanTDM
 Daredevil
 DarkCircledWaifu
 darkestdungeon
+Darkhumorandjokes
 DarkPicturesAnthology
 DarkSouls2
 darksoulsmemes
@@ -1185,6 +1195,7 @@ delta
 Deltarune
 delusionalartists
 delusionalcraigslist
+DelusionsOfAdequacy
 DemEyesDoe
 demisexuality
 DemocraticSocialism
@@ -1421,6 +1432,7 @@ Entomology
 Entrepreneur
 entwives
 environment
+EpicMounts
 EpicSeven
 equestriaatwar
 Eragon
@@ -2437,6 +2449,7 @@ learnprogramming
 learntodraw
 LearnUselessTalents
 Leathercraft
+leaves
 ledzeppelin
 Leeds
 LeedsUnited
@@ -2455,6 +2468,7 @@ LeopardsAteMyFace
 LeopardsAteMyFacePH
 LesbianActually
 lesbianfashionadvice
+lesbiangang
 LesbianInsectBrothel
 lesbianmemes
 lesserafim
@@ -2499,6 +2513,7 @@ linux
 linux_gaming
 linuxmasterrace
 linuxmemes
+Lisa_Mains
 lithuania
 litrpg
 LittleNightmares
@@ -2804,6 +2819,7 @@ MobKitchen
 Mobpsycho100
 modelmakers
 Models
+modeltrains
 Modern_Family
 modernwarfare
 ModernWarfareII
@@ -3141,6 +3157,7 @@ OnePiece
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
+OneTrueEmilia
 onetruegod
 onewheel
 OneyPlays
@@ -3565,6 +3582,7 @@ Residency
 residentevil
 ResinCasting
 restofthefuckingowl
+retailhell
 retrobattlestations
 RetroFuturism
 retrogaming
@@ -3710,6 +3728,7 @@ Seaofthieves
 Seattle
 SeattleWA
 see
+Seiko
 seinfeld
 SeishunButaYarou
 seiyuu
@@ -3948,6 +3967,7 @@ starbound
 starbucks
 starcitizen
 starcraft
+StardewHomeDesign
 StardewMemes
 StardewValley
 StardustCrusaders
@@ -4194,6 +4214,7 @@ TheDragonPrince
 TheExpanse
 thefighterandthekid
 TheForest
+TheForgottenDepths
 TheGirlSurvivalGuide
 theGoldenGirls
 TheGoodPlace
@@ -4332,6 +4353,7 @@ trans
 TransClones
 Transformemes
 transformers
+transgamers
 transgender
 TransLater
 Transmogrification
@@ -4670,6 +4692,7 @@ woof_irl
 woooosh
 woosh
 Workbenches
+Workers_And_Resources
 Workers_Revolt
 WorkersStrikeBack
 WorkReform
