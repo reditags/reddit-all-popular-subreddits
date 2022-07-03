@@ -11,6 +11,7 @@
 19684
 197
 2007scape
+2137
 21stCenturyHumour
 240sx
 2624
@@ -969,6 +970,7 @@ Consoom
 conspiracy
 conspiracy_commons
 Construction
+consulting
 ContagiousLaughter
 ContraPoints
 Conures
@@ -1028,6 +1030,7 @@ cricut
 cringe
 cringepics
 CringePurgatory
+Cringetopia_Two
 CringetopiaRM
 criterion
 criticalblunder
@@ -1095,6 +1098,7 @@ DamnNatureYouScary
 Damnthatsinteresting
 dancegavindance
 danganronpa
+dangerousdesign
 danglers
 DaniDev
 Daniellarson
@@ -1565,6 +1569,7 @@ foodhacks
 FoodPorn
 Foofighters
 footballmanagergames
+footballmemes
 foraging
 ForAllMankindTV
 forbiddenboops
@@ -2263,6 +2268,7 @@ JustBootThings
 Justfuckmyshitup
 JustGuysBeingDudes
 JusticeForJohnnyDepp
+JusticePorn
 JusticeServed
 JustMonika
 justneckbeardthings
@@ -2398,6 +2404,7 @@ leagueoflegends
 LeagueOfMemes
 leanbeefpatty
 LearmannTwins
+learningtocat
 learnprogramming
 learntodraw
 LearnUselessTalents
@@ -3047,6 +3054,7 @@ Okami
 okaybuddyfortress
 okaybuddyretard
 okbhaibudbak
+OkBrudiLindner
 OkBrudiMongo
 OkBubbyRetard
 okbuddybaka
@@ -3223,6 +3231,7 @@ pettyrevenge
 PewdiepieSubmissions
 PeytonList
 peyups
+PferdeSindKacke
 PhantomForces
 pharmacy
 PhasmophobiaGame
@@ -3462,6 +3471,7 @@ reactiongifs
 reactionpics
 readanotherbook
 ReadyOrNotGame
+real_China_irl
 realestateinvesting
 reallifedoodles
 RealLifeShinies
@@ -3474,6 +3484,7 @@ recoilbutts
 recruitinghell
 Recursion
 reddeadfashion
+reddeadmysteries
 RedDeadOnline
 reddeadredemption
 reddeadredemption2
@@ -3522,6 +3533,7 @@ RheaRipley
 rickandmorty
 rickygervais
 RidiculousRealEstate
+rienabranler
 RighteousGemstones
 RightJerk
 Rihanna
@@ -3633,6 +3645,7 @@ SchittsCreek
 schizopostingmemes
 schkreckl
 schnauzers
+school_memes
 science
 ScienceNcoolThings
 scifi
@@ -4284,6 +4297,7 @@ treelaw
 trees
 TreesSuckingOnThings
 Treknobabble
+tressless
 tretinoin
 trippinthroughtime
 trippy
@@ -4456,6 +4470,7 @@ Visiblemending
 Vocaloid
 void_memes
 voidpunk
+Volksverpetzer
 Volkswagen
 Volumeeating
 VoteDEM
@@ -4579,6 +4594,7 @@ Wilbur
 wildbeef
 WildernessBackpacking
 wildlifephotography
+windows
 Windows10
 Windows11
 WingsOfFire
