@@ -566,6 +566,7 @@ BirdsArentReal
 Birdsfacingforward
 BirdsForScale
 birdswitharms
+Birmingham
 BisexualTeens
 bitchimabus
 BitchImATrain
@@ -894,6 +895,7 @@ childemains
 ChildrenFallingOver
 chile
 China_irl
+chinchilla
 Chipotle
 Chiraqology
 ChiveUnderground
@@ -1085,6 +1087,7 @@ cremposting
 Cricket
 CricketShitpost
 cricut
+criminalminds
 cringe
 cringepics
 CringePurgatory
@@ -1157,6 +1160,7 @@ dalle2
 DamnNatureYouScary
 Damnthatsinteresting
 dancegavindance
+dancemoms
 danganronpa
 dangerousdesign
 danglers
@@ -1289,6 +1293,7 @@ Dexter
 dezwo
 DHHMemes
 diabetes
+diabetes_t1
 Diablo
 diablo2
 Diablo_2_Resurrected
@@ -1349,6 +1354,7 @@ Dogberg
 dogbridges
 dogecoin
 dogelore
+Doggles
 dogpictures
 dogs
 DogsAndPlants
@@ -1361,6 +1367,7 @@ Dongistan
 dontdeadopeninside
 dontflinch
 donthelpjustfilm
+DontSubscribeDumbAss
 dontyouknowwhoiam
 DonutMedia
 doodles
@@ -1726,6 +1733,7 @@ FUCKFACEPOD
 FuckGregAbbott
 fuckHOA
 FuckImOld
+fuckmanny
 FuckNestle
 FuckPierre
 Fuckthealtright
@@ -1870,6 +1878,7 @@ GoldCoast
 GoldenAgeMinecraft
 Goldendoodles
 goldenretrievers
+GoldenSun
 golf
 Golf_R
 GolfGTI
@@ -2510,6 +2519,7 @@ l4d2
 La_Ciurma
 LabourUK
 labrador
+LaBrantFamSnark
 labrats
 LAClippers
 LadiesOfWrestling
@@ -2778,6 +2788,7 @@ mazda
 MBMBAM
 mbti
 mbtimemes
+McDonaldsEmployees
 MCFC
 McMansionHell
 MCPE
@@ -3663,6 +3674,7 @@ Rarethreats
 raspberry_pi
 RATS
 ravens
+rawdenim
 RBI
 RDR2
 Re_Zero
@@ -3675,6 +3687,7 @@ realestateinvesting
 reallifedoodles
 RealLifeShinies
 realmadrid
+RealTesla
 ReasonableFantasy
 REBubble
 recipes
@@ -3849,6 +3862,7 @@ scambait
 Scams
 ScaramoucheMains
 ScarlettJohansson
+Scarymovies
 ScarySigns
 schipperke
 SchittsCreek
@@ -3882,6 +3896,7 @@ SeattleWA
 see
 Seiko
 seinfeld
+seinfeldgifs
 SeishunButaYarou
 seiyuu
 Sekiro
@@ -4265,6 +4280,7 @@ sweden
 swedishproblems
 SWGalaxyOfHeroes
 Switzerland
+SWlegion
 swoletariat
 swordartonline
 SWORDS
@@ -4411,6 +4427,7 @@ TheLastOfUs2
 TheLeftCantMeme
 TheLetterH
 thelongdark
+TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
 TheMandemNP
@@ -4544,6 +4561,7 @@ transgamers
 transgender
 TransLater
 Transmogrification
+transvoice
 trashpandas
 TrashTaste
 trashy
@@ -4671,6 +4689,7 @@ urbanexploration
 UrbanHell
 uselessredcircle
 UsernameChecksOut
+USFL
 USMC
 USPS
 ussoccer
@@ -4839,6 +4858,7 @@ WhatsWrongWithYourCat
 WhatsWrongWithYourDog
 whenthe
 whenwomenrefuse
+wheredidthesodago
 WhiskerFireworks
 whiteknighting
 whitepeoplegifs
