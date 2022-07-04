@@ -198,6 +198,7 @@ AmongUs
 amphibia
 Amsterdam
 AnadeArmas
+AnalogCircleJerk
 AnalogCommunity
 Anarchism
 AnarchismZ
@@ -513,6 +514,7 @@ beatsaber
 BeautifulFemales
 BeautifulIndianWomen
 BeautyGuruChatter
+Beekeeping
 BeelcitosMemes
 beerporn
 beetlejuicing
@@ -554,6 +556,7 @@ BigCatGifs
 BigChungusReligion
 bigfloppa
 bigfoot
+bih
 bikecommuting
 bikepacking
 Bikeporn
@@ -806,6 +809,7 @@ casualknitting
 casualnintendo
 CasualUK
 cat
+catalunya
 CatastrophicFailure
 catbellies
 catbongos
@@ -880,6 +884,7 @@ chadsriseup
 Chadtopia
 Chainsawfolk
 ChainsawMan
+chainsawmancirclejerk
 chairsunderwater
 Championship
 ChandlersWildLife
@@ -1317,6 +1322,7 @@ Deusex
 deutschememes
 developersIndia
 DevilMayCry
+devops
 Dexter
 dezwo
 DHHMemes
@@ -1427,6 +1433,7 @@ dril
 DrStone
 drugmemes
 Drugs
+Drukhari
 drums
 drumstick
 drunk
@@ -1975,6 +1982,7 @@ Guildwars2
 GuiltyDogs
 Guiltygear
 guineapigs
+Guitar
 guitarcirclejerk
 guitarporn
 guitars
@@ -2263,6 +2271,7 @@ ImaginaryWorldEaters
 ImagineThisView
 ImFinnaGoToHell
 Impeach_Trump
+Imperator
 ImpracticalArmour
 ImpracticalJokers
 imsorryjon
@@ -2611,6 +2620,7 @@ learntodraw
 LearnUselessTalents
 Leathercraft
 leaves
+lebanon
 ledzeppelin
 Leeds
 LeedsUnited
@@ -2847,6 +2857,7 @@ mbti
 mbtimemes
 McDonaldsEmployees
 MCFC
+McLarenFormula1
 McMansionHell
 MCPE
 MDMA
@@ -3502,6 +3513,7 @@ PhantomForces
 pharmacy
 PhasmophobiaGame
 phclassifieds
+PhD
 philadelphia
 Philippines
 phillies
@@ -3673,6 +3685,7 @@ PS5
 psych
 Psychedelics
 psychology
+psychologymemes
 PUBATTLEGROUNDS
 PublicFreakout
 PublicFreakoutsReborn
@@ -3877,6 +3890,7 @@ RVLiving
 RWBY
 RWBYcritics
 RX7
+ryujin
 Ryumimi
 sabaton
 SabatonMemes
@@ -4077,6 +4091,7 @@ shrimptank
 shrinkflation
 shrooms
 ShuumatsuNoValkyrie
+shylily
 Siamesecats
 SiberianCats
 Sidemen
@@ -4302,6 +4317,7 @@ Stretched
 StrikeForRoe
 StudentLoans
 StuffOnCats
+Stumpmicgold
 stunfisk
 StupidFood
 subaru
@@ -4587,6 +4603,7 @@ Tiresaretheenemy
 titanfall
 TLCsisterwives
 TMNT
+TNG
 TNOmod
 toarumajutsunoindex
 toastme
@@ -4986,6 +5003,7 @@ wildrift
 windows
 Windows10
 Windows11
+wine
 WingsOfFire
 winonaryder
 WinStupidPrizes
