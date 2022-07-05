@@ -2074,6 +2074,7 @@ GTA
 gtaonline
 GTAorRussia
 GTAV
+gtavcustoms
 GTBAE
 Guacamole_penis
 GuardianTales
@@ -4135,6 +4136,7 @@ sbeve
 sbubby_NL
 scambait
 Scams
+ScandinavianInterior
 ScaramoucheMains
 ScarlettJohansson
 Scarymovies
@@ -4238,6 +4240,7 @@ ShinyPokemon
 Shinypreciousgems
 ShitCrusaderKingsSay
 shitduolingosays
+ShitKonfaSays
 ShitLiberalsSay
 ShitLibSafari
 ShitMomGroupsSay
@@ -4355,6 +4358,7 @@ smoobypost
 SmugIdeologyMan
 snails
 snakes
+SnakesWithHats
 SnapChad
 Sneks
 snes
