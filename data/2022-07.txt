@@ -1641,6 +1641,7 @@ EverythingFoxes
 EverythingScience
 evilbuildings
 EvilDeadTheGame
+EvilMoe
 exjw
 exmormon
 exmuslim
@@ -1960,6 +1961,7 @@ geography
 geoguessr
 geology
 geometrydash
+geopolitics
 Georgia
 German
 germanshepherds
@@ -2350,6 +2352,7 @@ ImaginaryDarkSouls
 ImaginaryDragons
 ImaginaryElves
 ImaginaryFeels
+ImaginaryFuturism
 ImaginaryHorrors
 ImaginaryHumans
 ImaginaryImmortals
@@ -2418,6 +2421,7 @@ IndieDev
 indiegames
 IndieGaming
 indieheads
+indieheadscirclejerk
 indonesia
 IndoorGarden
 INDYCAR
@@ -2517,6 +2521,7 @@ jameswebbdiscoveries
 janeausten
 Janiameshelll
 January6
+japan
 JapaneseFood
 japanesepeopletwitter
 japanlife
@@ -2588,6 +2593,7 @@ JustGuysBeingDudes
 JusticeForJohnnyDepp
 JusticePorn
 JusticeServed
+JustLearnedTheFWord
 JustMonika
 justneckbeardthings
 Justrolledintotheshop
@@ -3825,6 +3831,7 @@ PrimeXBT
 PrimitiveTechnology
 PrincessesOfPower
 PrintedMinis
+PrintedWarhammer
 privacy
 PrivateFreakouts
 proceduralgeneration
@@ -3916,6 +3923,7 @@ rally
 ralsei
 ramen
 Rammstein
+Rampartmains
 Ranboo
 rance
 RandomThoughts
@@ -4203,6 +4211,7 @@ SFWmonstergirls
 SFWNextDoorGirls
 SFWRedheads
 SGExamemes
+SGExams
 Sham_Sharma_Show
 ShamelesslyStolen
 Shantae
@@ -4230,6 +4239,7 @@ Shinypreciousgems
 ShitCrusaderKingsSay
 shitduolingosays
 ShitLiberalsSay
+ShitLibSafari
 ShitMomGroupsSay
 ShitPoliticsSays
 shitpostbound
@@ -4945,6 +4955,7 @@ Twokinds
 TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
+TwoXADHD
 TwoXChromosomes
 TwoXIndia
 TwoXPreppers
