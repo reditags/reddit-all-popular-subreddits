@@ -105,6 +105,7 @@ ActionFigures
 ActivationSound
 ActLikeYouBelong
 actu_memes
+actualite
 ActualPublicFreakouts
 adamtots
 ADCMains
@@ -235,6 +236,7 @@ ani_bm
 Animal_Sanctuary
 AnimalCrossing
 AnimalCrossingNewHor
+AnimalPorn
 AnimalsBeingBros
 AnimalsBeingConfused
 AnimalsBeingDerps
@@ -407,6 +409,7 @@ Astros
 Asuka
 ASX_Bets
 ATBGE
+ATEEZ
 AteistTurk
 AteTheOnion
 atheism
@@ -482,6 +485,7 @@ BadChoicesGoodStories
 badcode
 BadDesigns
 Badfaketexts
+badfriendspod
 badmathematics
 BadMUAs
 badtaxidermy
@@ -1470,6 +1474,7 @@ dogs
 DogsAndPlants
 dogslookingdown
 DogsMirin
+dogsonroofs
 dogswithjobs
 Dogtraining
 dogvideos
@@ -1749,6 +1754,7 @@ FigureSkating
 Filmmakers
 FilthyFrank
 FinalFantasy
+finalfantasyx
 FinalSpace
 finance
 financialindependence
@@ -3029,6 +3035,7 @@ mathpics
 MatthiasSubmissions
 matureplants
 Mavericks
+MawInstallation
 MayaHawke
 maybemaybemaybe
 maybemaybemaybemaybe
@@ -3175,6 +3182,7 @@ miraculousladybug
 miragemains
 Mirrorsforsale
 miscatculations
+MisleadingPuddles
 misleadingthumbnails
 misLED
 missbo
@@ -3247,6 +3255,7 @@ mountandblade
 MouseReview
 Moustache
 MovieDetails
+MovieLeaksAndRumors
 MovieMistakes
 MoviePosterPorn
 movies
@@ -3290,6 +3299,7 @@ myog
 MyouiMina
 MyPeopleNeedMe
 MysteryDungeon
+mysticmessenger
 mythology
 mythologymemes
 n64
@@ -3460,6 +3470,7 @@ NoStupidQuestions
 Notakeonlythrow
 NotAnotherDnDPodcast
 notdisneyvacation
+notebooks
 nothingeverhappens
 NotHowDrugsWork
 NotHowGirlsWork
@@ -3750,6 +3761,7 @@ PicsOfUnusualBirds
 piercing
 PietSmiet
 pigeon
+Pigifs
 pigs
 Pikabu
 Pikmin
@@ -4100,6 +4112,7 @@ RPDR_UK
 RPDRDRAMA
 rpg
 rpghorrorstories
+RSA
 rsloshredit
 RTGameCrowd
 RubeGoldbergFails
@@ -4155,6 +4168,7 @@ sandiego
 sanepolitics
 sanfrancisco
 SanJose
+SanJoseSharks
 sanpedrocactus
 santacruz
 saopaulo
