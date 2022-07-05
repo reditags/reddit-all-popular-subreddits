@@ -394,6 +394,7 @@ AskReddit
 askscience
 AskScienceFiction
 askSingapore
+askspain
 AskThe_Donald
 askTO
 asktransgender
@@ -2132,6 +2133,7 @@ gtavcustoms
 GTBAE
 Guacamole_penis
 GuardianTales
+guichon
 Guildwars2
 GuildWarsDyeJob
 GuiltyDogs
@@ -3251,6 +3253,7 @@ modernwarfare
 ModernWarfareII
 MoeMorphism
 Moescape
+moi_dlvv
 MoldlyInteresting
 moldova
 MoldyMemes
@@ -3815,6 +3818,7 @@ PinkOmega
 Piracy
 PiratedGames
 Piratefolk
+PirateKitties
 PiratePets
 piratesofthecaribbean
 pisscommenting
@@ -3829,6 +3833,7 @@ Pixiv
 Pizza
 PizzaCrimes
 PKA
+PlanetCoaster
 Planetside
 PlanetZoo
 PlanningMemes
@@ -4024,6 +4029,7 @@ Rammstein
 Rampartmains
 Ranboo
 rance
+randomactsofkindness
 RandomThoughts
 rangers
 rant
@@ -4854,6 +4860,7 @@ TheGrittyPast
 TheHandmaidsTale
 TheJenkins
 TheLastAirbender
+TheLastKingdom
 thelastofus
 TheLastOfUs2
 TheLeftCantMeme
@@ -5020,6 +5027,7 @@ trashy
 travel
 travisscott
 trebuchetmemes
+treedibles
 treelaw
 trees
 TreesSuckingOnThings
@@ -5228,6 +5236,7 @@ virginvschad
 virtualreality
 Visiblemending
 vita
+ViviWinkler
 vizsla
 Vocaloid
 void_memes
