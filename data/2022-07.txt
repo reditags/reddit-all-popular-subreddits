@@ -491,6 +491,7 @@ badfriendspod
 badmathematics
 BadMUAs
 badtaxidermy
+badUIbattles
 bakeoff
 Baking
 bald
@@ -1349,6 +1350,7 @@ DeepRockGalactic
 DeepSpaceNine
 DeerAreFuckingStupid
 deftones
+degoogle
 Degrassi
 Dehyamains
 Delaware
@@ -2039,6 +2041,7 @@ GlitchInTheMatrix
 GlobalOffensive
 Glocks
 Gloomhaven
+gluesniffer
 GME
 gme_meltdown
 GMEJungle
@@ -2538,6 +2541,7 @@ isopods
 Israel
 IsTodayFridayThe13th
 ITAGLIA
+Italia
 italy
 ItemShop
 Iteration110Cradle
@@ -2596,6 +2600,7 @@ JenniferLopez
 Jeongyeon
 Jeopardy
 jerma985
+jerseycity
 jerseyshore
 jessicaalba
 JessicaChastain
@@ -2808,6 +2813,7 @@ leanfire
 LearmannTwins
 learningtocat
 LearnJapanese
+learnjavascript
 learnprogramming
 learntodraw
 LearnUselessTalents
@@ -3366,6 +3372,7 @@ Nbamemes
 NBASpurs
 NBAYoungboy
 NCAAFBseries
+NCT
 NdFlex
 nebelung
 Nebraska
@@ -3761,6 +3768,7 @@ PhD
 philadelphia
 Philippines
 phillies
+PhillyWiki
 philosophy
 PhilosophyMemes
 Philza
@@ -4313,6 +4321,7 @@ shiftingrealities
 ShiftyMineOnlyFans
 Shihtzu
 ShikimoriIsntJustCute
+SHINee
 ShingekiNoKyojin
 Shining_Nikki
 ShinyPokemon
@@ -4647,6 +4656,7 @@ SuperAthleteGifs
 superautopets
 Superbowl
 superman
+SupermanAndLois
 SuperMegaShow
 SupermodelCats
 SupermodelDogs
@@ -4889,6 +4899,7 @@ thomastheplankengine
 ThotBeatdowns
 ThousandSons
 ThreshMains
+ThriftGrift
 thumbcats
 Thunder
 ThunderThots
