@@ -477,6 +477,7 @@ BadChoicesGoodStories
 badcode
 BadDesigns
 Badfaketexts
+badmathematics
 BadMUAs
 badtaxidermy
 bakeoff
@@ -1486,6 +1487,7 @@ Dragonballsuper
 DragonMaid
 dragonquest
 DragonsDogma
+DramaticText
 Draven
 drawing
 Dreadlocks
@@ -2261,6 +2263,7 @@ HottestFemaleAthletes
 hottoys
 HotWheels
 houkai3rd
+HouseOfTheDragon
 houseplants
 houseplantscirclejerk
 Houseporn
@@ -2629,6 +2632,7 @@ Katiesigmondspics
 katyperry
 kayakfishing
 Kayaking
+kayascodelario
 KaynMains
 KazuhaMains
 KDRAMA
@@ -3328,6 +3332,7 @@ neverchangejapan
 NeverPauseAvatar
 nevertellmetheodds
 NevilleGoddard
+newcastle
 NewDealAmerica
 Newfoundlander
 NewGirl
