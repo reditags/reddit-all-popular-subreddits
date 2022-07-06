@@ -146,6 +146,7 @@ Agraelus
 AHatInTime
 AHomeForPlagueRats
 AhriMains
+AIDungeon
 aigreentext
 Aikuros
 ainbow
@@ -246,6 +247,7 @@ Angryupvote
 ani_bm
 Animal_Sanctuary
 AnimalCrossing
+animalcrossingmeme
 AnimalCrossingNewHor
 AnimalPorn
 AnimalsBeingBros
@@ -322,6 +324,7 @@ ape
 aPeoplesCalendar
 Apephilanthropy
 apexcirclejerk
+ApexConsole
 apexlegends
 ApexLegendsMobile
 ApexOutlands
@@ -623,6 +626,7 @@ BigCatGifs
 BigChungusReligion
 bigfloppa
 bigfoot
+bigger
 biggreenegg
 BigNoseLadies
 bih
@@ -697,6 +701,7 @@ BloodAngels
 bloomington
 blop
 BlueLock
+BlueMidterm2018
 bluey
 blunderyears
 blurrypicturesofcats
@@ -1381,6 +1386,7 @@ DDintoGME
 DDLC
 de
 de_EDV
+deadandcompany
 deadbydaylight
 deadcells
 deadmalls
@@ -2006,6 +2012,7 @@ fuslie
 fut
 futebol
 futurama
+Futuremoe
 Futurology
 FWFBThinkTank
 G2eSports
@@ -2610,6 +2617,7 @@ intj
 intotheshadowrealm
 intresseklubben
 introvert
+introvertmemes
 investimentos
 Invincible
 Invisalign
@@ -2933,6 +2941,7 @@ lebowski
 ledzeppelin
 Leeds
 LeedsUnited
+leetcode
 LeftistGamersUnion
 LeftTheBurnerOn
 legaladvicecanada
@@ -3018,6 +3027,7 @@ LodedDiper
 loicense
 Lolirefugees
 london
+londonontario
 lonely
 longboarding
 longboyes
@@ -3242,6 +3252,7 @@ MemeVideos
 memexico
 memphis
 memphisgrizzlies
+MemriTVmemes
 MenAndFemales
 Menopause
 MensLib
@@ -3438,6 +3449,7 @@ MurderedByAOC
 MurderedByWords
 murdermittens
 murdochsucks
+MURICA
 Muse
 MushroomGrowers
 Mushrooms
@@ -3844,6 +3856,7 @@ Paranormal
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
+ParkJihyo
 ParlerWatch
 parrots
 PartyParrot
@@ -3866,6 +3879,7 @@ peanutbutterisoneword
 PeanutWhiskers
 peeling
 PEI
+pelletgrills
 peloton
 pelotoncycle
 pelotonmemes
@@ -3976,6 +3990,7 @@ PlantedTank
 PlantGoths
 plants
 PlantsVSZombies
+PlasticFreeLiving
 playark
 PlayAvengers
 playboicarti
@@ -4300,6 +4315,7 @@ RomaniaPorn
 romemes
 RoomPorn
 roosterteeth
+ror2
 rose
 RotMG
 Rottweiler
@@ -5341,6 +5357,7 @@ untitledgoosegame
 untrustworthypoptarts
 UnusualVideos
 unwholesomememes
+upcycling
 UpliftingNews
 upvotebecauseboobs
 UpvoteBecauseButt
@@ -5391,6 +5408,7 @@ venturebros
 Vermintide
 vermont
 Veterans
+VeteransBenefits
 vexillology
 vexillologycirclejerk
 veYakinEvren
@@ -5451,6 +5469,7 @@ walkaway
 wallpaper
 wallpaperengine
 wallstreetbets
+WallStreetbetsELITE
 Wallstreetbetsnew
 wallstreetbetsOGs
 Wallstreetsilver
