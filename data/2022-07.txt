@@ -540,6 +540,7 @@ Bannerlord
 BanPitBulls
 BanVideoGames
 BarbaraPalvin
+barkour
 Barotrauma
 Barry
 barstoolsports
@@ -2488,6 +2489,7 @@ iamveryrandom
 iamverysmart
 IASIP
 IBO
+ibs
 IcebergCharts
 IceCreamWaifu
 ich_iel
@@ -2896,6 +2898,7 @@ KittyTailWrap
 KneadyCats
 knifeclub
 knifemaking
+KnightsOfPineapple
 KnitHacker
 knives
 knolling
@@ -4385,6 +4388,7 @@ RomanceClub
 Romania
 RomaniaPorn
 romemes
+ronperlmancats
 RoomPorn
 roosterteeth
 ror2
@@ -4617,6 +4621,7 @@ Shittyaskflying
 shittyaskscience
 shittybattlestations
 shittybloodborne
+shittycoolguides
 shittyeldenring
 shittyfoodporn
 Shittygamecollecting
@@ -5112,6 +5117,7 @@ TheBullWins
 TheCatTrapIsWorking
 TheCivilService
 TheClickOwO
+TheCloneWars
 TheCuddlePuddle
 TheCycleFrontier
 TheDarkTower
@@ -5408,6 +5414,7 @@ Undertale
 UnearthedArcana
 UnethicalLifeProTips
 Unexpected
+unexpectedbrooklyn99
 unexpectedcommunism
 UnexpectedCommunity
 unexpectedfuturama
@@ -5441,6 +5448,7 @@ unstirredpaint
 unsw
 untitledgoosegame
 untrustworthypoptarts
+unusual_whales
 UnusualVideos
 unwholesomememes
 upcycling
@@ -5761,6 +5769,7 @@ WWE
 WWEGames
 wwiipics
 WWIIplanes
+wyomingdoesntexist
 xbiking
 xbox
 XboxGamePass
