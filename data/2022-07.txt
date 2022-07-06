@@ -299,6 +299,7 @@ anna_shumate
 AnnaAkana
 Annabananaxdddd
 annakendrick
+AnnArbor
 AnneHathaway
 anno
 ANormalDayInRussia
@@ -401,9 +402,11 @@ asianpeoplegifs
 ask
 ask_Bondha
 AskBalkans
+AskCulinary
 AskDocs
 AskFrance
 AskHistorians
+AskLosAngeles
 askmath
 AskMen
 AskNYC
@@ -637,6 +640,7 @@ biggreenegg
 BigNoseLadies
 bih
 bikecommuting
+bikedc
 bikepacking
 Bikeporn
 bikesgonewild
@@ -764,6 +768,7 @@ boston
 BostonBruins
 bostonceltics
 BostonTerrier
+bostontrees
 BotanicalPorn
 Botchedsurgeries
 botecodoreddit
@@ -834,6 +839,7 @@ buildapc
 buildapcsales
 bulbasaurmasterrace
 bulgaria
+bullcity
 Bulldogs
 bulletjournal
 Bullshido
@@ -1036,6 +1042,7 @@ Chivalry2
 ChiveUnderground
 ChloeBailey_
 ChloeBennet
+Choices
 Chonkers
 ChoosingBeggars
 Christianity
@@ -1191,6 +1198,7 @@ cookiedecorating
 Cookierun
 CookieRunKingdoms
 Cooking
+CoolAmericaFacts
 CoolGadgetsTube
 coolguides
 copaganda
@@ -1863,6 +1871,7 @@ finance
 financialindependence
 Finanzen
 findapath
+findfashion
 FindTheSniper
 FingMemes
 Finland
@@ -2731,6 +2740,7 @@ JenniferAniston
 JenniferConnelly
 JenniferLawrence
 JenniferLopez
+JenniNeidhart
 Jeongyeon
 Jeopardy
 jerma985
@@ -3150,6 +3160,7 @@ MagicEye
 magicthecirclejerking
 magnetfishing
 maiaknightsnark
+MaiaKnightSnark2
 maidsonskates
 Maine
 mainecoons
@@ -3642,6 +3653,7 @@ NintendoStitch
 NintendoSwitch
 NintendoSwitchDeals
 Nio
+Nioh
 Nirvana
 njpw
 NLBest
@@ -5326,6 +5338,7 @@ TumblrWrites
 Turkey
 TurkeyJerky
 TurkishCats
+turtle
 TuxedoCats
 TVDetails
 TVTooHigh
@@ -5356,6 +5369,7 @@ UBC
 UberEATS
 ubius
 Ubuntu
+UCDavis
 ucla
 ufc
 UFObelievers
@@ -5647,6 +5661,7 @@ wholesomeviolence
 whothefuckup
 WhyWereTheyFilming
 WhyWomenLiveLonger
+Wicca
 wien
 WiggleButts
 wiiu
