@@ -191,6 +191,7 @@ AlternateAngles
 AlternateHistory
 AlternateHistoryMemes
 alternativeart
+AlternativeHistory
 althomestuck
 alvvays
 AlzheimersGroup
@@ -1602,6 +1603,7 @@ DumpsterDiving
 DunderMifflin
 dune
 dunememes
+Dungeons_and_Dragons
 DungeonsAndDaddies
 DungeonsAndDragons
 DunksNotDead
@@ -1631,6 +1633,7 @@ Edmonton
 educationalgifs
 Eesti
 egg_irl
+eggs
 EggsInc
 Egypt
 EightySix
@@ -1906,6 +1909,7 @@ FortniteCompetitive
 FortniteCreative
 FortniteLeaks
 FortniteMemes
+FortniteSavetheWorld
 FortWorth
 forwardsfromgrandma
 ForwardsFromKlandma
@@ -2315,6 +2319,7 @@ himikotoga
 HIMYM
 hinduism
 HindutvaRises
+HipHopImages
 HistoricalCostuming
 history
 HistoryAnimemes
@@ -2593,6 +2598,7 @@ intj
 intotheshadowrealm
 intresseklubben
 introvert
+investimentos
 Invincible
 Invisalign
 ios
@@ -2673,6 +2679,7 @@ jellybeantoes
 JennaLouiseColeman
 JennaLynnMeowri
 Jennamarbles
+jennettemccurdy
 jennie
 JenniferAniston
 JenniferConnelly
@@ -2829,6 +2836,7 @@ knolling
 Knoxville
 KokkoroNatsume
 Kokomi_Mains
+kolkata
 Komi_san
 Konosuba
 kopyamakarna
@@ -3196,6 +3204,7 @@ Megaman
 Megaten
 Megumin
 meirl
+mejjagold
 Melanime
 melbourne
 MelissaBenoist
@@ -3438,6 +3447,7 @@ mysticmessenger
 mythology
 mythologymemes
 n64
+N_N_N
 NaBoaChavaloRetardado
 nagatoro
 Nahida_Mains
@@ -4255,6 +4265,7 @@ RocketLeague
 RocketLeagueEsports
 rockets
 rockhounds
+rockstar
 rodentintercourse
 RoleReversal
 rolex
@@ -4292,6 +4303,7 @@ russian
 RussiaUkraineWar2022
 rva
 RVLiving
+rvnxmango
 RWBY
 RWBYcritics
 RX7
@@ -4348,6 +4360,7 @@ SatisfactoryGame
 SatisfIcing
 satisfying
 Satisfyingasfuck
+saudiarabia
 SavageGarden
 savedyouaclick
 SaveThePostalService
@@ -4760,6 +4773,7 @@ Stormlight_Archive
 StPetersburgFL
 straightenedfeetsies
 StraightsBeingOK
+StrangeAndFunny
 StrangePlanet
 StrangerThings
 straykids
@@ -5506,6 +5520,7 @@ WhitePeopleTwitter
 whitesox
 WhiteWolfRPG
 wholesome
+wholesome40k
 WholesomeAsHeck
 WholesomeComics
 wholesomecompliance
@@ -5661,6 +5676,7 @@ youtubehaiku
 YuB
 yugioh
 YuGiOhMemes
+yuna
 yunyun
 YUROP
 YuYuHakusho
