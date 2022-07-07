@@ -583,6 +583,7 @@ battlestations
 battletech
 battlewagon
 bayarea
+Bayonetta
 BBBY
 BBIG
 BBQ
@@ -923,6 +924,7 @@ CapitolConsequences
 CaptainSparklez
 CaptainSparrowmemes
 capybara
+CaraDelevingne
 carbage
 carcrash
 cardano
@@ -1412,6 +1414,7 @@ DanMachi
 DannyGonzalez
 DanTDM
 Daredevil
+Dariusmains
 DarkCircledWaifu
 darkestdungeon
 Darkhumorandjokes
@@ -2949,6 +2952,7 @@ Kazumin
 KDRAMA
 KeanuBeingAwesome
 Keep_Track
+KeiraKnightley
 KellyBrook
 keming
 kencarson
@@ -3073,6 +3077,7 @@ LasVegas
 LateStageCapitalism
 LateStageImperialism
 LatinoPeopleTwitter
+latterdaysaints
 LaughJokes
 LaurenCohan
 law
@@ -3192,6 +3197,7 @@ lmGoingToHellForThis
 loadingicon
 LobotomyCorp
 local58
+LockdownSkepticism
 LodedDiper
 loicense
 Lolirefugees
@@ -4535,6 +4541,7 @@ rockets
 rockhounds
 rockstar
 rodentintercourse
+RodriguesFamilySnark
 RoleReversal
 rolex
 Roll20
@@ -5266,6 +5273,7 @@ thalassophobia
 thanksihateit
 thanksimcured
 thanosdidnothingwrong
+thassalaphobia
 That70sshow
 thatHappened
 ThatLookedExpensive
