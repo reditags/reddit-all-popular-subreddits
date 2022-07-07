@@ -913,6 +913,7 @@ canadaguns
 canadahousing
 canadaleft
 CanadianForces
+CanadianInvestor
 canberra
 canes
 canucks
@@ -1950,6 +1951,7 @@ firstworldanarchists
 Fischl
 FitAndNatural
 fitness30plus
+FitToFat
 fixedbytheduet
 FL_Studio
 Flamepoints
@@ -2309,6 +2311,7 @@ GriseldaxFR
 grunge
 GSP_Photos
 GTA
+GTA6
 gtaonline
 GTAorRussia
 GTAV
@@ -2858,6 +2861,7 @@ Joji
 Jojo
 JoJoMemes
 Jokes
+JonTron
 Jord627_
 Jordan_Peterson_Memes
 JordanPeterson
@@ -3132,6 +3136,7 @@ lifehacks
 lifeisstrange
 LifeofBoris
 LifeProTips
+LigaMX
 lightsabers
 likeus
 lildedjanet2
@@ -3146,6 +3151,7 @@ LilyJames
 LiminalReality
 LiminalSpace
 lingling40hrs
+linguistics
 linguisticshumor
 Link_Dies
 LinkedInLunatics
@@ -3267,6 +3273,7 @@ madisonwi
 MadMax
 madnesscombat
 MadokaMagica
+Mafia
 MagicArena
 magicbuilding
 MagicEye
@@ -3840,6 +3847,7 @@ NotMyJob
 notopbutok
 nottheonion
 nova
+NovaScotia
 nowmycat
 noworking
 nrl
@@ -4660,6 +4668,7 @@ scrungycats
 scuba
 scuderiaferrari
 Sculpture
+ScuttleCrabMains
 seals
 Seaofthieves
 Seattle
@@ -4908,6 +4917,7 @@ SoundersFC
 SoundsLikeMusic
 Sourdough
 southafrica
+southcarolina
 Southerncharm
 SouthJersey
 SovietWomble
@@ -4962,6 +4972,7 @@ Spyro
 SpyxFamily
 SquaredCircle
 squidgame
+squirrels
 squishmallow
 squishypuppers
 SRAWeekend
