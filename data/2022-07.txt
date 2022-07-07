@@ -781,6 +781,7 @@ boringdystopia
 borussiadortmund
 Boruto
 Bossfight
+BossFights
 boston
 BostonBruins
 bostonceltics
@@ -2095,6 +2096,7 @@ gamegrumps
 gameofthrones
 GamePhysics
 gamernews
+GamerSupremeRace
 GameStop
 GameTheorists
 gamindustri
@@ -2658,6 +2660,7 @@ InfluencergossipDK
 Infographics
 InfowarriorRides
 infp
+INFPmemes
 InfrastructurePorn
 initiald
 inkarnate
@@ -3642,6 +3645,7 @@ neekolul
 NelliesNest
 NeonGenesisEvangelion
 neopets
+neovim
 Nepal
 Nerf
 nervysquervies
@@ -4468,6 +4472,7 @@ runefactory
 runescape
 running
 RunningCirclejerk
+runningman
 RunningShoeGeeks
 rupaulsdragrace
 russian
@@ -5670,6 +5675,7 @@ waterporn
 WattsonMains
 Wavyhair
 WayOfTheBern
+We_are_weeb
 WeaponsMoe
 WeAreAllTurks
 WeAreTheMusicMakers
