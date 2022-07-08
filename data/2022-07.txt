@@ -856,6 +856,7 @@ BSCcryptoListings
 BSG
 btd6
 bts7
+BTThrowingYouAtShit
 buccos
 Buddhism
 BudgetAudiophile
@@ -5005,6 +5006,7 @@ SpecArt
 specializedtools
 SpecialSnowflake
 SpecOpsArchive
+spectacularmemes
 SpeculativeEvolution
 SpeedOfLobsters
 speedrun
@@ -5460,6 +5462,7 @@ TILI
 tiltshift
 timberwolves
 TimDillon
+timelapse
 Tinder
 tinyanimalsonfingers
 TinyHouses
@@ -5691,6 +5694,7 @@ unket
 unlikelyfriends
 UnnecessaryInventions
 unOrdinary
+unpopularkpopopinions
 unpopularopinion
 unrealengine
 UnresolvedMysteries
