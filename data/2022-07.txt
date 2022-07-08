@@ -736,6 +736,7 @@ BleachBraveSouls
 blender
 blenderhelp
 blendermemes
+BlenderSecrets
 Blep
 Blessed_Images
 blessedimages
@@ -1643,6 +1644,7 @@ Documentaries
 DocumentedFights
 Dodgers
 DOG
+DogAdvice
 Dogberg
 dogbridges
 dogecoin
@@ -2321,6 +2323,7 @@ gorillaz
 GossipGirl
 Got7
 goth
+Gotham
 Gothenburg
 GothGirls
 GothStyle
@@ -2417,6 +2420,7 @@ halo
 HaloCirclejerk
 haloinfinite
 HaloMemes
+HaloStory
 Hamilton
 Hammers
 hamsters
@@ -3843,6 +3847,7 @@ Nicegirls
 niceguys
 Nichijou
 NicolaCavanis
+NicoleScherzinger
 nier
 nietdespeld
 NightInTheWoods
@@ -5587,6 +5592,7 @@ TransLater
 transmasc_irl
 Transmogrification
 transvoice
+transylveon
 traphentai
 trashpandas
 TrashTaste
