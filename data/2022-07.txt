@@ -191,6 +191,7 @@ AlexaBliss
 alexandradaddario
 AlexisRen
 AlfaRomeo
+algeria
 algorand
 AlHaithamMains
 aliandjohnjamesagain
@@ -2845,6 +2846,7 @@ instantkarma
 instantpot
 Instantregret
 insurgency
+intel
 IntellectualDarkWeb
 InterdimensionalCable
 interesting
@@ -4374,6 +4376,7 @@ PleX
 Plumbing
 plushies
 PlusSize
+pmttoken
 Poem_for_your_sprog
 Poetry
 pointlesslygendered
@@ -5672,6 +5675,7 @@ touhou
 touhou_lostword
 tourdefrance
 TowerofGod
+TownofSalemgame
 ToyotaTacoma
 Trackdays
 TrackMania
