@@ -956,6 +956,7 @@ CanadianForces
 CanadianInvestor
 canberra
 canes
+cannabiscultivation
 canucks
 CapitalismSux
 CapitolConsequences
@@ -1010,6 +1011,7 @@ Catloaf
 Catmemes
 catpics
 catpictures
+catradora
 cats
 CatsAndDogsBFF
 CatsAndPlants
@@ -1122,6 +1124,7 @@ ChildrenFallingOver
 chile
 China_irl
 chinchilla
+ChineseLanguage
 Chipotle
 Chiraqology
 Chivalry2
@@ -1887,6 +1890,7 @@ esist
 espresso
 EssaysForCollege
 EssayWritingServices_
+estoration
 ethereum
 ethoslab
 ethtrader
@@ -1922,6 +1926,7 @@ exocomics
 ExpandDong
 expats
 ExpectationVsReality
+ExperiencedDevs
 explainlikeimfive
 ExplosionsAndFire
 ExposurePorn
@@ -2483,6 +2488,7 @@ HaloStory
 Hamilton
 Hammers
 hamsters
+hanakokun
 HandfulOfKitten
 handholding
 handtools
@@ -2515,6 +2521,7 @@ Hawaii
 HAWKEYE
 hawks
 hawwkey
+haydenpanettiere
 HayleyAtwell
 hayleywilliams
 HazbinHotel
@@ -2555,6 +2562,7 @@ hiddenrooms
 highdeas
 HighHeels
 HighQualityGifs
+highrollersdnd
 HighStrangeness
 Higurashinonakakoroni
 HikaruNakamura
@@ -3333,6 +3341,7 @@ LobotomyCorp
 local58
 LockdownSkepticism
 LodedDiper
+logodesign
 loicense
 Lolirefugees
 london
@@ -3990,6 +3999,7 @@ noodlebones
 nope
 Nordichistorymemes
 NordicMemes
+NorfFc
 norge
 NormMacdonald
 Norse
@@ -4574,6 +4584,7 @@ ragdolls
 RaidenMains
 raiders
 raidsecrets
+RaidShadowLegends
 raimimemes
 Rainbow6
 RainbowEverything
@@ -5049,6 +5060,7 @@ SingaporeRaw
 singularity
 Sino
 SipsTea
+sistersofbattle
 sixfacedworld
 SixtySecondsInAfrica
 Ska
@@ -5225,6 +5237,7 @@ starterpacks
 StartledCats
 startrekgifs
 startrekmemes
+StarTrekStarships
 StarVStheForcesofEvil
 StarWars
 StarWarsBattlefront
@@ -5658,6 +5671,7 @@ TomAndJerryMemes
 TombRaider
 tommyinnit
 TommyKay
+TomodachiGame
 tomorrow
 TongueOutHounds
 tonightsdinner
