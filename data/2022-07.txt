@@ -419,6 +419,7 @@ ArtDeco
 ArtefactPorn
 ArtFundamentals
 ArtisanVideos
+artmemes
 ArtNouveau
 ArtOfRolling
 ArtPorn
@@ -615,6 +616,7 @@ battles2
 battlestations
 battletech
 battlewagon
+batty
 bayarea
 Bayonetta
 BBBY
@@ -1393,6 +1395,7 @@ CrossStitch
 crowbro
 CRT_so_scary
 crtgaming
+CrueltySquad
 CrumblCookies
 CrusadeMemes
 CrusaderKings
@@ -1552,6 +1555,7 @@ DeathrattlePorn
 DeathStranding
 DebtStrike
 DecidingToBeBetter
+DeclineIntoCensorship
 declutter
 DecreasinglyVerbose
 dedreviil
@@ -1708,6 +1712,7 @@ dogpictures
 dogs
 dogs_getting_dogs
 DogsAndPlants
+dogsfallingoffcouches
 dogslookingdown
 DogsLoversCommunity
 DogsMirin
@@ -3764,6 +3769,7 @@ Monke
 Monstera
 MonsterHigh
 MonsterHunter
+MonsterHunterMeta
 MonsterHunterWorld
 Monsterverse
 Montana
@@ -4387,6 +4393,7 @@ pigs
 Pikabu
 Pikmin
 Pineapplebrat
+pingu
 pinkfloyd
 PinkFloydCircleJerk
 PinkOmega
@@ -4941,6 +4948,7 @@ SelfAwarewolves
 selfhosted
 selfie
 selfimprovement
+SelfSufficiency
 SellingSunset
 sendfeetpics
 sendinthetanks
