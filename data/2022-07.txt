@@ -160,6 +160,7 @@ AIDungeon
 aigreentext
 Aikuros
 ainbow
+AirBiscuits
 airplaneears
 airpods
 airsoft
@@ -2677,6 +2678,7 @@ IdiotsFightingThings
 IdiotsInBoats
 IdiotsInCars
 IdiotsNearlyDying
+IdiotsOnBikes
 Idiotswithguns
 idontdreamoflabor
 IDONTGIVEASWAG
@@ -4014,6 +4016,7 @@ oblivion
 ObsidianMD
 ObviousPlant
 OceansAreFuckingLit
+octopus
 oculus
 OculusQuest
 oddlymesmerizing
@@ -4889,6 +4892,7 @@ SFWRedheads
 sfx
 SGExamemes
 SGExams
+shadowofmordor
 Sham_Sharma_Show
 shameless
 ShamelesslyStolen
