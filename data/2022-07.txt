@@ -912,6 +912,7 @@ BudgetAudiophile
 BudgetBlades
 budgetfood
 budgies
+BuenosAires
 Buffalo
 buffalobills
 buffy
@@ -2393,6 +2394,7 @@ GMEDD
 GMEJungle
 gmod
 GNV
+Goatparkour
 goats
 GoatsOnTopOfHorses
 goblincore
@@ -4514,6 +4516,7 @@ Polska
 Polska_wpz
 polydactyl
 polymerclay
+PolyYuri
 Pomeranians
 pop_os
 popculturechat
@@ -5105,6 +5108,7 @@ shortscarystories
 Shotguns
 shouldercats
 Showerthoughts
+showthistoaloona
 Shrek
 Shrekmemes
 Shrimping
@@ -6145,6 +6149,7 @@ watch_dogs
 WatchandLearn
 watchcatsdieinside
 WatchDogsWoofInside
+watcherentertainment
 Watches
 WatchPeopleDieInside
 watchpeoplesurvive
