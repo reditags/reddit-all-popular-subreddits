@@ -223,6 +223,7 @@ amateurradio
 AmateurRoomPorn
 amazingmemes
 AmazonAnswers
+AmazonDSPDrivers
 AmazonFC
 amazonreviews
 AmberlynnReidYT
@@ -257,6 +258,7 @@ AnarchismZ
 Anarcho_Capitalism
 AnarchyChess
 Anbennar
+anchorage
 Ancient_History_Memes
 AncientCivilizations
 Ancientknowledge
@@ -466,6 +468,7 @@ AssassinsCreedOdyssey
 AssassinsCreedValhala
 assettocorsa
 assholedesign
+astoria
 astrologymemes
 Astroneer
 Astronomy
@@ -484,6 +487,7 @@ ATLA
 Atlanta
 AtlantaHawks
 AtlantaTV
+AtlantaUnited
 atrioc
 attackeyes
 attackontitan
@@ -565,6 +569,7 @@ badcode
 BadDesigns
 Badfaketexts
 badfriendspod
+badlinguistics
 badmathematics
 BadMUAs
 badtaxidermy
@@ -965,6 +970,7 @@ canadaleft
 CanadianForces
 CanadianInvestor
 canberra
+cancer
 canes
 cannabiscultivation
 CannedSardines
@@ -1257,6 +1263,7 @@ comedyepilepsy
 ComedyFlogging
 comedyheaven
 ComedyHell
+ComedyHitmen
 comedyhomicide
 comedynecromancy
 ComedyNecrophilia
@@ -1492,6 +1499,7 @@ dankrishu
 dankruto
 danktintinmemes
 dankvideos
+DanLeBatardShow
 DanMachi
 DannyGonzalez
 DanTDM
@@ -1718,6 +1726,7 @@ dogslookingdown
 DogsLoversCommunity
 DogsMirin
 dogsonroofs
+dogswearinghats
 dogswitheyebrows
 dogswithjobs
 Dogtraining
@@ -1806,6 +1815,7 @@ DynastyFF
 E30
 earthbound
 EarthPorn
+EASportsUFC
 EatCheapAndHealthy
 EatCheapAndVegan
 eatsandwiches
@@ -3171,6 +3181,7 @@ KittenMittens
 kittens
 Kitting
 kittyhasaquestion
+kittykankles
 KittyPupperLove
 KittyTailWrap
 KleeMains
@@ -3345,6 +3356,7 @@ LilyCollins
 LilyJames
 LiminalReality
 LiminalSpace
+LincolnProject
 lingling40hrs
 linguistics
 linguisticshumor
@@ -3489,6 +3501,7 @@ mainecoons
 maisiewilliams
 majonotabitabi
 MakeMeSuffer
+MakeMeSufferMore
 Makeup
 MakeupAddiction
 MakeupLounge
@@ -3651,6 +3664,7 @@ metro
 Metroid
 mew_irl
 mexico
+MexicoCity
 Mexicowave
 mfdoom
 MHGU
@@ -4142,6 +4156,7 @@ okbuddyjotard
 OkBuddyPersona
 okbuddyphd
 OkBuddyPilot
+OkBuddyPoliceOfficer
 okbuddyrathalos
 okbuddyreiner
 okbuddyvowsh
@@ -4505,6 +4520,7 @@ Possums
 PostHardcore
 PostMalone
 postprocessing
+POTCmemes
 pottedcats
 Pottery
 PouchCatatoes
@@ -5143,10 +5159,13 @@ Slovakia
 Slovenia
 slowcooking
 Slycooper
+SlyGifs
 smalllebowsky
+smallstreetbets
 Smallville
 smashbros
 SmashBrosUltimate
+smashmemes
 SMG4
 SmilingFriends
 Smite
@@ -5369,6 +5388,7 @@ Subliminal
 submarines
 submechanophobia
 subnautica
+SUBREDDITNAME
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
 SubsTakenLiterally
@@ -5689,6 +5709,7 @@ tiktokgossip
 TikTokhoess
 TILI
 tiltshift
+timbers
 timberwolves
 TimDillon
 timelapse
@@ -5785,6 +5806,7 @@ transgender
 transit
 TransLater
 transmasc_irl
+Transmatfiring
 Transmogrification
 transvoice
 transylveon
@@ -5840,6 +5862,7 @@ TuckedInPuppies
 Tucson
 tulsa
 tumblr
+TumblrDraws
 TumblrWrites
 Turkey
 TurkeyJerky
@@ -5975,6 +5998,7 @@ VALORANT
 ValorantCompetitive
 ValorantMemes
 valve
+ValveIndex
 VampireSurvivors
 vancouver
 vancouverwa
@@ -5999,6 +6023,7 @@ vegetarian
 vegetarischDE
 velvethippos
 Vent
+venti
 venturebros
 Vermintide
 vermont
