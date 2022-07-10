@@ -2042,6 +2042,7 @@ fasting
 FastWorkers
 fatcats
 fatestaynight
+fatpeoplestories
 fcbayern
 fednews
 Fedora
@@ -3778,6 +3779,7 @@ MillionaireGrindset
 milwaukee
 mina_irl
 Mindfulness
+Mindustry
 Minecraft
 Minecraftbuilds
 MinecraftChampionship
@@ -4379,6 +4381,7 @@ Pareidolia
 ParentsAreFuckingDumb
 ParkJihyo
 Parkour
+ParlerTrick
 ParlerWatch
 parrots
 PartyParrot
@@ -5484,6 +5487,7 @@ submarines
 submechanophobia
 subnautica
 SUBREDDITNAME
+SubsIFellFor
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
 SubsTakenLiterally
@@ -5692,6 +5696,7 @@ TheBullWins
 TheCapeRevolution
 thecatdimension
 TheCatTrapIsWorking
+TheCinemassacre
 TheCivilService
 TheClickOwO
 TheCloneWars
