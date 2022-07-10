@@ -1786,6 +1786,7 @@ dragonquest
 dragons
 DragonsDogma
 dragonutopia
+dragrace
 Dragula
 DramaticText
 Draven
@@ -2087,6 +2088,7 @@ Filmmakers
 FilthyFrank
 FinalFantasy
 FinalFantasyVII
+FinalFantasyVIII
 finalfantasyx
 FinalSpace
 finance
@@ -4542,6 +4544,7 @@ PlasticFreeLiving
 playark
 PlayAvengers
 playboicarti
+PlaydateConsole
 playrust
 playstation
 PlayStationPlus
@@ -6507,6 +6510,7 @@ YuGiOhMemes
 yuna
 yunyun
 YUROP
+yuumimains
 YuYuHakusho
 ZanClan
 Zappa
