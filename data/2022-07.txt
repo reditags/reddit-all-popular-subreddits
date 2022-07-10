@@ -240,6 +240,7 @@ AmericanFascism2020
 AmericanHorrorStory
 amex
 AMG
+amibeingdetained
 Amigurumi
 AmITheAngel
 AmItheButtface
@@ -525,6 +526,7 @@ Avatar
 AvatarMemes
 AverageBattlestations
 AveragePicsOfNZ
+aves
 aviation
 aviationmaintenance
 aviationmemes
@@ -1232,6 +1234,7 @@ CODWarzone
 codyko
 CODZombies
 Coffee
+coffeestations
 coilerayy
 coins
 Coldmirror
@@ -2758,6 +2761,7 @@ IfIFitsISits
 ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
+IKEA
 IkeaFreshBalls
 iknowtheowner
 ilikthebred
@@ -3645,6 +3649,7 @@ memphis
 memphisgrizzlies
 MemriTVmemes
 MenAndFemales
+Menaregood
 Menopause
 MensLib
 Mensmittenwithkittens
@@ -4412,6 +4417,7 @@ PietSmiet
 pigeon
 Pigifs
 pigs
+pihole
 Pikabu
 Pikmin
 Pineapplebrat
@@ -4750,6 +4756,7 @@ RepublicadeChile
 Republican
 RepublicanValues
 rescuedogs
+researchchemicals
 Residency
 residentevil
 ResinCasting
@@ -5205,6 +5212,7 @@ somnivexillology
 sonarears
 SonicTheHedgehog
 SonoBisqueDoll
+SonOfAShepherd
 SonyAlpha
 SophiiaDiamond
 SoulCalibur
@@ -5632,6 +5640,7 @@ TheMandalorianTV
 TheMandemNP
 themarsvolta
 TheMarvelousMrsMaisel
+TheMassive
 TheMonkeysPaw
 THEMONUMENTMYTHOS
 themountaingoats
@@ -5898,6 +5907,7 @@ Tyranids
 tzuyu
 UBC
 UberEATS
+Ubiquiti
 ubius
 Ubuntu
 UCDavis
