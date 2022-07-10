@@ -137,6 +137,7 @@ AdPorn
 AdultHood
 Adulting
 adultswim
+ADVChina
 adventofcode
 adventurecats
 adventuretime
@@ -2170,6 +2171,7 @@ ForwardsFromKlandma
 forza
 ForzaHorizon
 fossilid
+Fotografie
 FoundPaper
 foundsatan
 FoundTheGerman
@@ -2210,6 +2212,7 @@ FromKittenToCat
 FromPuppyToDog
 fromsoftware
 Frontend
+frontfootporn
 Frostpunk
 Frugal
 frugalmalefashion
@@ -4145,6 +4148,7 @@ obeyme
 oblivion
 ObsidianMD
 ObviousPlant
+OCDmemes
 OceansAreFuckingLit
 octopus
 oculus
@@ -4280,6 +4284,7 @@ Otonokizaka
 ottawa
 OttawaSenators
 Otters
+Ouchmyflaps
 OurFlagMeansDeath
 Outdoors
 outerwilds
@@ -4901,6 +4906,7 @@ SaintMeghanMarkle
 SaintRampalJi
 SaintsRow
 saiyanpeopletwitter
+Sakartvelo
 SALEM
 sales
 salmahayek
@@ -5556,6 +5562,7 @@ TaylorSwiftsLegs
 tbatenovel
 tea
 Teachers
+TeachingUK
 TeamfightTactics
 TeamFourStar
 TearsOfThemis
