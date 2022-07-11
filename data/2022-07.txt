@@ -325,6 +325,7 @@ AnimeMusicians
 animenocontext
 AnimeNoises
 animepiracy
+animereactionimages
 AnimeSketch
 Animesuggest
 animetm
@@ -1090,6 +1091,7 @@ catswhotrill
 Catswhoyell
 CatsWithDogs
 Catswithjobs
+CatsWithSocks
 CatTaps
 caughtoncamera
 CaughtSlipinLive
@@ -3555,6 +3557,7 @@ Luthier
 LuxuryLifeHabits
 LV426
 Lyon
+Lysithea
 MAAU
 mac
 macarons
@@ -4774,6 +4777,7 @@ raidsecrets
 RaidShadowLegends
 raimimemes
 Rainbow6
+Rainbow_Waifus
 RainbowEverything
 RainbowHigh
 raining
