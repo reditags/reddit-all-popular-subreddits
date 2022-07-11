@@ -537,6 +537,7 @@ AvatarMemes
 AverageBattlestations
 AveragePicsOfNZ
 aves
+avfc
 aviation
 aviationmaintenance
 aviationmemes
@@ -629,6 +630,7 @@ Battlefield
 battlefield2042
 battlefield_4
 battlefield_one
+BattlefieldCosmetics
 BattlefieldV
 BattleJackets
 battlemaps
@@ -917,6 +919,7 @@ Brooklyn
 brooklynninenine
 Browns
 brushybrushy
+brussels
 BrutalBeatdowns
 BryceDallasHoward
 BSCcryptoListings
@@ -2446,6 +2449,7 @@ GMECanada
 GMEDD
 GMEJungle
 gmod
+gnome
 GNV
 Goatparkour
 goats
@@ -3536,6 +3540,7 @@ LoveIslandTV
 lovejoyband
 LoveLive
 LoveNikki
+low_poly
 LowAltitudeJets
 LowerCaseScreams
 LowQualityMemes
@@ -3633,6 +3638,7 @@ manganews
 manhwa
 MannausSachsen
 ManufacturingPorn
+ManyATrueNerd
 Maplestory
 mapmaking
 MapPorn
