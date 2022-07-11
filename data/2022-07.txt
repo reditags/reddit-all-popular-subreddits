@@ -2178,6 +2178,7 @@ ForgottenWeapons
 forhonor
 forhonorknights
 forhonormemes
+ForHonorRants
 formalwaifus
 Formel1
 formula1
@@ -2549,6 +2550,7 @@ GunPorn
 guns
 Guns_Guns_Guns
 gurrenlagann
+GuysBeingDudes
 GwenMains
 gwent
 GYM
@@ -3635,6 +3637,7 @@ marinebiology
 Mariners
 Mario
 mariokart
+marionettemains
 Markiplier
 Marriage
 martialarts
@@ -4615,6 +4618,7 @@ polydactyl
 polymerclay
 PolyYuri
 Pomeranians
+poolrooms
 pop_os
 popculturechat
 popheadscirclejerk
@@ -5232,6 +5236,7 @@ SiegeAcademy
 SigmaCinema
 SigmaGrindset
 Sigmarxism
+SignoraMains
 SigSauer
 silenthill
 silentmoviegifs
@@ -6503,6 +6508,7 @@ YelanMains
 Yellowjackets
 yesyesyesno
 yesyesyesyesno
+yimby
 YMS
 yo_elvr
 YofukashiNoUta
