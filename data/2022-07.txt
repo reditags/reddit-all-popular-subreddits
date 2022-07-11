@@ -1821,6 +1821,7 @@ drawing
 Dreadlocks
 Dreams
 dreamsmp
+Dreamtheater
 DreamWasTaken
 DreamWasTaken2
 DrewDurnil
@@ -4877,6 +4878,7 @@ readanotherbook
 ReadyOrNotGame
 real_China_irl
 realestateinvesting
+RealisticArmory
 reallifedoodles
 RealLifeShinies
 realmadrid
@@ -5234,6 +5236,7 @@ ShingekiNoKyojin
 Shining_Nikki
 ShinyPokemon
 Shinypreciousgems
+ShirinDavid
 shitcoinmoonshots
 ShitCrusaderKingsSay
 shitduolingosays
@@ -5690,6 +5693,7 @@ taiwan
 Takagi_san
 TakaMori
 tales
+talesfromcallcenters
 TalesFromDF
 TalesFromRetail
 talesfromtechsupport
@@ -6430,6 +6434,7 @@ whatcouldgoright
 Whatcouldgowrong
 whatintarnation
 whatisthiscar
+whatsthatbook
 whatsthisbird
 whatsthisbug
 whatsthisplant
@@ -6567,6 +6572,7 @@ WWIIplanes
 wyomingdoesntexist
 xbiking
 xbox
+xbox360
 XboxGamePass
 xboxone
 XboxSeriesX
