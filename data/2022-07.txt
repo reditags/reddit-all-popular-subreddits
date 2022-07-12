@@ -457,6 +457,7 @@ ask_Bondha
 AskBalkans
 AskCulinary
 AskDocs
+AskElectronics
 AskFrance
 AskHistorians
 AskLosAngeles
@@ -1410,6 +1411,7 @@ CrackheadCraigslist
 CrackWatch
 craftsnark
 CrankGameplays
+crappyanimalcrossing
 CrappyDesign
 crappyoffbrands
 crashbandicoot
@@ -2187,6 +2189,7 @@ FluentInFinance
 Flyers
 flyfishing
 flying
+fnafcringe
 fnatic
 fnki
 fnv
@@ -2755,6 +2758,7 @@ hololiveEN
 HololiveYuri
 Holostars
 HolUp
+holyshit
 homeassistant
 homeautomation
 HomeDecorating
@@ -3708,6 +3712,7 @@ marchingband
 marcyfitt_
 MargotRobbie
 marijuanaenthusiasts
+MarinaAndTheDiamonds
 marinebiology
 Mariners
 Mario
