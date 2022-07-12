@@ -3671,6 +3671,7 @@ MAAU
 mac
 macarons
 macbookpro
+macgaming
 MachikadoMazoku
 MachineLearning
 MachinePorn
@@ -6000,6 +6001,7 @@ TheVampireDiaries
 thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
+TheWayWeWereOnVideo
 TheWeeklyRoll
 TheWeeknd
 thewestwing
