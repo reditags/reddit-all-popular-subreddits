@@ -598,6 +598,7 @@ badfriendspod
 badhistory
 badlinguistics
 badmathematics
+BadMtgCombos
 BadMUAs
 badtaxidermy
 badUIbattles
@@ -2272,6 +2273,7 @@ fragilecommunism
 FragileMaleRedditor
 FragileWhiteRedditor
 FragReddit
+framework
 france
 FranceDetendue
 FrankOcean
@@ -2726,6 +2728,7 @@ hessich_iel
 HFY
 hiddenrooms
 highdeas
+Highfleet
 HighHeels
 HighQualityGifs
 highrollersdnd
@@ -3326,6 +3329,7 @@ KidsAreFuckingStupid
 KiernanShipka
 kilian
 killedthecameraman
+KillingEve
 killingfloor
 KillLaKill
 killteam
@@ -3632,6 +3636,7 @@ LowAltitudeJets
 LowerCaseScreams
 LowQualityMemes
 LowSodiumHalo
+LowStakesConspiracies
 Lowtechbrilliance
 LPOTL
 LSD
@@ -4765,6 +4770,7 @@ Popular_Science_Ru
 porramauricio
 Porsche
 Portal
+porterrobinson
 portugal
 PORTUGALCARALHO
 portugueses
@@ -4886,6 +4892,7 @@ Queens
 queensofgenshin
 QueerVexillology
 quilting
+QuinnMains
 QuiteFrankly
 quityourbullshit
 Qult_Headquarters
