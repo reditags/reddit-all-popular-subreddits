@@ -137,6 +137,7 @@ AdPorn
 AdultHood
 Adulting
 adultswim
+AdvancedRunning
 ADVChina
 adventofcode
 adventurecats
@@ -264,6 +265,7 @@ Anarcho_Capitalism
 Anarchy101
 AnarchyChess
 AnarchyMemeCollective
+AnAttemptWasMade
 Anbennar
 anchorage
 Ancient_History_Memes
@@ -975,6 +977,7 @@ C_AT
 CabinPorn
 cableporn
 cactus
+cade
 CafeRacers
 CafeYokai
 CAguns
@@ -2837,6 +2840,7 @@ iamveryculinary
 iamveryrandom
 iamverysmart
 IASIP
+IBEW
 IBO
 ibs
 IcebergCharts
@@ -4033,6 +4037,7 @@ MushroomGrowers
 Mushrooms
 Music
 musicaljenga
+musicals
 MusicBattlestations
 musicmemes
 Mustang
@@ -5444,6 +5449,7 @@ SoulsSliders
 SoundersFC
 SoundsLikeMusic
 Sourdough
+sousvide
 southafrica
 southcarolina
 Southerncharm
@@ -5666,6 +5672,7 @@ Supertf
 supportlol
 surdev
 surrealmemes
+Surveying
 Survival
 survivinginfidelity
 survivor
