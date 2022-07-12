@@ -1794,6 +1794,7 @@ DocumentedFights
 Dodgers
 DOG
 DogAdvice
+dogbees
 Dogberg
 dogbridges
 dogecoin
@@ -4659,6 +4660,7 @@ photocritique
 photographs
 photoshopbattles
 PhotoshopRequest
+physicaltherapy
 Physics
 physicsgifs
 physicsjokes
@@ -6591,6 +6593,7 @@ wicked_edge
 WidescreenWallpaper
 wien
 WiggleButts
+wii
 wiiu
 wikipedia
 WIKYI
