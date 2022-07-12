@@ -44,6 +44,7 @@
 3Dmodeling
 3Dprinting
 3DS
+3xclusivedanae2
 40kLore
 49ers
 4chan
@@ -545,6 +546,7 @@ Autos
 AvaRoseBeaune
 Avatar
 AvatarMemes
+Avengers
 AverageBattlestations
 AveragePicsOfNZ
 aves
@@ -1933,6 +1935,7 @@ EldenBling
 Eldenring
 ElderScrolls
 elderscrollsonline
+ElectricalEngineering
 ElectricForest
 electricians
 electricvehicles
@@ -6289,6 +6292,7 @@ UnexpectedMulaney
 unexpectedoffice
 unexpectedpawnee
 unexpectedskyrim
+Unexplained
 Unextexted
 UnfunnyHellhole
 unintentionallydirty
@@ -6711,6 +6715,7 @@ yesyesyesno
 yesyesyesyesno
 yimby
 YMS
+yo_ctm
 yo_elvr
 YofukashiNoUta
 Yoimiya_Mains
