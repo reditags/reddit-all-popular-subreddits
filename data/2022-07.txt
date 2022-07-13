@@ -964,6 +964,7 @@ btd6
 bts7
 BTThrowingYouAtShit
 buccos
+budapest
 Buddhism
 BudgetAudiophile
 BudgetBlades
@@ -1772,6 +1773,7 @@ disenchantment
 dishonored
 Dislyte
 disney
+DisneyDiamonds
 DisneyEyes
 Disneyland
 disneyparks
@@ -2468,6 +2470,7 @@ geology
 geometrydash
 geopolitics
 Georgia
+GeoWizard
 German
 german_onlyfansLeak
 GermanRap
@@ -3269,6 +3272,7 @@ JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
+Jung
 Jungle_Mains
 junjiito
 JurassicMemes
@@ -3872,6 +3876,7 @@ MelissaBenoist
 MelissaFumero
 MelMaia_18
 melts
+MelvorIdle
 meme
 MemeAlleyway
 memeculturetechnology
@@ -5250,6 +5255,7 @@ school_memes
 science
 ScienceBasedParenting
 sciencefiction
+ScienceHumour
 sciencememes
 ScienceNcoolThings
 sciences
@@ -5981,6 +5987,7 @@ TheDragonPrince
 TheExpanse
 TheFence
 thefighterandthekid
+TheFirstLaw
 TheForest
 TheForgottenDepths
 TheFrontBottoms
