@@ -1739,6 +1739,7 @@ diabetes
 diabetes_t1
 Diablo
 diablo2
+diablo3
 Diablo_2_Resurrected
 DiabloImmortal
 DianeGuerrero
@@ -3210,6 +3211,7 @@ JenniferConnelly
 JenniferLawrence
 JenniferLopez
 JenniNeidhart
+JennyNicholson
 Jeongyeon
 Jeopardy
 jerma985
@@ -3218,6 +3220,7 @@ jerseyshore
 jessicaalba
 JessicaChastain
 jesuschristouija
+jeuxvideo
 Jewdank
 jewelry
 jewelrymaking
@@ -3475,6 +3478,7 @@ lawnporn
 lawofattraction
 LawSchool
 lawschooladmissions
+lazy
 LazyCats
 LeaEluiGinet
 leafs
@@ -3516,6 +3520,7 @@ legostarwars
 legostarwarsmemes
 LegoStarWarsVideoGame
 LegoStorage
+lekkerspelen
 lele_pons
 lemondemon
 leopardgeckos
