@@ -1820,6 +1820,7 @@ dogpictures
 dogs
 dogs_getting_dogs
 DogsAndPlants
+dogsenjoyingnature
 dogsfallingoffcouches
 dogslookingdown
 DogsLoversCommunity
@@ -2421,6 +2422,7 @@ gangweed
 gank
 Ganyu
 gao
+garageporn
 GarandThumb
 GardeningUK
 garfieldminusgarfield
@@ -4691,6 +4693,7 @@ PhillyWiki
 philosophy
 PhilosophyMemes
 Philza
+phineasandferb
 phish
 phoebebridgers
 phoenix
@@ -5164,6 +5167,7 @@ RunningCirclejerk
 runningman
 RunningShoeGeeks
 rupaulsdragrace
+rush
 russian
 RussiaUkraineWar2022
 rva
@@ -5221,6 +5225,7 @@ sanpedrocactus
 santacruz
 saopaulo
 SapphoAndHerFriend
+SarahHyland
 sarcasm
 Sardonicast
 saskatchewan
@@ -6029,6 +6034,7 @@ TheOnion
 TheOrville
 theouterworlds
 ThePalaceOfMiruko
+theperfectpokemongame
 TheQuarrySupermassive
 TheQuarteringIsANazi
 TheRandomest
@@ -6388,6 +6394,7 @@ upvotebecauseboobs
 UpvoteBecauseButt
 urbanexploration
 UrbanHell
+urbanplanning
 uselessredcircle
 UsernameChecksOut
 usernamefamily
