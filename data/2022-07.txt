@@ -11,6 +11,7 @@
 1500isplenty
 15minutefood
 1911
+194
 19684
 197
 198
@@ -157,6 +158,7 @@ afkarena
 AFL
 AfterEffects
 aftergifted
+AfterVanced
 AgainstHateSubreddits
 AgainstHinduphobia
 agedlikemilk
@@ -725,6 +727,7 @@ bestof
 bestoflegaladvice
 BestofRedditorUpdates
 bestoftheinternet
+BethesdaSoftworks
 bettafish
 betterCallSaul
 BetterEveryLoop
@@ -2476,6 +2479,7 @@ getdisciplined
 Getdownmrpresident
 GetMoreViewsYT
 GetMotivated
+GetStudying
 GettingShredded
 GettyMuseumChallenge
 GharKeKalesh
@@ -2988,6 +2992,7 @@ ImaginaryScholars
 ImaginarySeascapes
 ImaginarySliceOfLife
 ImaginarySoldiers
+ImaginaryStarscapes
 ImaginaryStarships
 ImaginarySteampunk
 ImaginaryTamriel
@@ -6303,6 +6308,7 @@ UkraineConflict
 UkraineInvasionVideos
 UkraineWarVideoReport
 UkrainianConflict
+uktrees
 ultimate
 Ultrakill
 Ultralight
