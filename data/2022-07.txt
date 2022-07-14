@@ -1077,6 +1077,7 @@ Cartalk
 CarTalkUK
 CartiCulture
 CartoonGangsters
+CartoonMoment
 cartoons
 cassettefuturism
 castiron
@@ -3145,6 +3146,7 @@ intermittentfasting
 internet_funeral
 InternetCommentEtiq
 InternetIsBeautiful
+interracialdating
 interstellar
 inthenews
 intj
@@ -4059,6 +4061,7 @@ miscatculations
 MisleadingPuddles
 misleadingthumbnails
 misLED
+MisreadSprites
 missbo
 missbricosplay
 Missing411
@@ -4246,6 +4249,7 @@ NativePlantGardening
 nattyorjuice
 nature
 Natureisbrutal
+NatureIsFuckingCute
 NatureIsFuckingLit
 natureismetal
 natureporn
@@ -4287,6 +4291,7 @@ nervysquervies
 nes
 netflix
 NetflixBestOf
+netflixwitcher
 Netherlands
 networkingmemes
 neurodiversity
@@ -6055,6 +6060,7 @@ TheArcana
 TheAstraMilitarum
 thebadbatch
 TheBatmanFilm
+TheBear
 TheBidenshitshow
 TheBikiniBottomHorror
 thebindingofisaac
@@ -6620,6 +6626,7 @@ WalmartCelebrities
 WaltDisneyWorld
 WANDAVISION
 WarAndPeas
+warcraft3
 Warframe
 WarframeRunway
 wargame
