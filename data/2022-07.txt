@@ -408,6 +408,7 @@ AppleWatch
 ApplyingToCollege
 APStudents
 AquaJail
+aquarium
 AquariumMemes
 Aquariums
 AquaSama
@@ -540,6 +541,7 @@ Augenbleiche
 Augenschmaus
 auggieandbbyegan
 auntydonna
+Aurelion_Sol_mains
 AusFinance
 auslaw
 AusMemes
@@ -728,6 +730,7 @@ beltalowda
 Ben10
 Bend
 BendyAndTheInkMachine
+benfica
 bengalcats
 bengals
 benshapiro
@@ -931,6 +934,7 @@ bowhunting
 Bowling
 Boxer
 Boxing
+boxoffice
 boyslove
 Bozeman
 BPD
@@ -1698,6 +1702,7 @@ deadmalls
 DeadSpace
 deathbattle
 DeathByMillennial
+Deathcore
 deathgrips
 deathguard40k
 deathnote
@@ -1841,6 +1846,7 @@ DivorcedBirds
 DiWHY
 DiWHYNOT
 DIY
+diypedals
 DIYUK
 DJs
 DMAcademy
@@ -2230,6 +2236,7 @@ FiftyFifty
 Fighters
 FightingFakeNews
 fightporn
+FightsGoneWildpt2
 fightsticks
 FigureSkating
 FilmClubPH
@@ -2378,6 +2385,7 @@ freefromwork
 FreeGameFindings
 freemagic
 FREEMEDIAHECKYEAH
+French
 Frenchbulldogs
 Frenchhistorymemes
 FrenchMemes
@@ -2687,6 +2695,7 @@ grilling
 Grimdank
 Grimes
 GriseldaxFR
+GroundedGame
 grunge
 GSP_Photos
 GTA
@@ -2730,6 +2739,7 @@ GYM
 GymMemes
 GymMotivation
 gymsnark
+GymSnarkUncensored
 h3h3productions
 H3VR
 haasf1team
@@ -2761,6 +2771,7 @@ hamsters
 hanakokun
 HandfulOfKitten
 handholding
+handmade
 HandOfMemes
 handtools
 Handwriting
@@ -2965,6 +2976,7 @@ HungryArtists
 hunterxdank
 HunterXHunter
 HuntShowdown
+HuntsvilleAlabama
 husky
 HuskyTantrums
 HuTao_Mains
@@ -3265,6 +3277,7 @@ JackieFigOF
 jackrussellterrier
 JacksFilms
 jacksonville
+JackSucksAtGeography
 JackSucksAtLife
 jackwhite
 jadecargill
@@ -3286,6 +3299,7 @@ janeausten
 Janiameshelll
 January6
 japan
+japanese
 JapaneseFood
 japanesepeopletwitter
 japanlife
@@ -4730,6 +4744,7 @@ ParadoxExtra
 paradoxplaza
 paradoxpolitics
 Parahumans
+Paramore
 Paranormal
 parasnailing
 PardonMyTake
@@ -5191,6 +5206,7 @@ RedLetterMedia
 redneckengineering
 redpandas
 redrising
+Reds
 RedshirtsUnite
 RedsKilledTrillions
 redsox
@@ -5291,6 +5307,7 @@ RoomPorn
 roosterteeth
 ror2
 rose
+rosin
 RotMG
 Rottweiler
 RoughRomanMemes
@@ -5603,6 +5620,7 @@ shrimptank
 shrinkflation
 ShroomID
 shrooms
+shubreddit
 ShuumatsuNoValkyrie
 shylily
 Siamesecats
@@ -5780,6 +5798,7 @@ Spielstopp
 Spiritfarer
 Spiritual_Talk
 splatoon
+Splitgate
 sploot
 Spokane
 spongebob
@@ -5843,6 +5862,7 @@ StarWars
 StarWarsBattlefront
 starwarsblackseries
 StarWarsCantina
+starwarscollecting
 StarWarsEmpireAtWar
 StarWarsEU
 StarWarsKenobi
@@ -6459,6 +6479,7 @@ twentyonepilots
 twicemedia
 twicememes
 twilight
+twilightimperium
 TwinCities
 twinpeaks
 TwistedWonderland
@@ -6564,6 +6585,7 @@ unrealengine
 UnresolvedMysteries
 Unsatisfying
 UnsentLetters
+UnsolvedMysteries
 unstirredpaint
 unsw
 untitledgoosegame
@@ -6572,6 +6594,7 @@ unusual_whales
 UnusualVideos
 unwholesomememes
 uofm
+UofT
 upcycling
 UpliftingNews
 upvotebecauseboobs
@@ -6749,6 +6772,7 @@ Watches
 Watchexchange
 WatchPeopleDieInside
 watchpeoplesurvive
+watchplantsgrow
 watchthingsfly
 Watercolor
 watercolorcats
