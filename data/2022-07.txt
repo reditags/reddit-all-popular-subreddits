@@ -2848,6 +2848,7 @@ HeckThisIsWholesome
 Hedgehog
 heep
 Heizou_Mains
+HelicopterAddict
 Helicopters
 HellenicMemes
 HellLetLoose
@@ -3648,6 +3649,7 @@ LearnJapanese
 learnjavascript
 learnmachinelearning
 learnprogramming
+learnpython
 learntodraw
 LearnUselessTalents
 Leathercraft
@@ -3706,6 +3708,7 @@ liberta
 Libertarian
 libertarianmeme
 librandu
+Libraries
 libsofreddit
 lies
 lifehacks
