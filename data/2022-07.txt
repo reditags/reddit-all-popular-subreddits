@@ -464,6 +464,7 @@ artmemes
 ArtNouveau
 ArtOfRolling
 ArtPorn
+artstore
 asaprocky
 AsbestosRemovalMemes
 aseprite
@@ -2902,6 +2903,7 @@ Hobbit_Memes
 HobbyDrama
 hockey
 hockeymemes
+hockeyplayers
 hoggit
 hoi4
 hoi4modding
@@ -6214,6 +6216,7 @@ TheBikiniBottomHorror
 thebindingofisaac
 TheBluePill
 TheBoys
+TheBoysChannel
 TheBullWins
 TheCapeRevolution
 thecatdimension
