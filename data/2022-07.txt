@@ -457,6 +457,7 @@ artcommissions
 ArtDeco
 ArtefactPorn
 ArtFundamentals
+ArtHistory
 ArtisanVideos
 artmemes
 ArtNouveau
@@ -1205,6 +1206,7 @@ centrist
 centuryhomes
 Ceramics
 CFB
+cfs
 Chadposting
 chadsriseup
 Chadtopia
@@ -2840,6 +2842,7 @@ hellsomememes
 Helltaker
 HelluvaBoss
 Helluvabossmemes
+HelpMeFind
 heraldry
 HermanCainAward
 hermitchat
@@ -3424,6 +3427,7 @@ Kaiserreich
 KaIT
 Kakegurui
 kaleycuoco
+kallmekris
 KamenRider
 KamikazeByWords
 kancolle
