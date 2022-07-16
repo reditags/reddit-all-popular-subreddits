@@ -927,6 +927,7 @@ bostonceltics
 BostonTerrier
 bostontrees
 BotanicalPorn
+botany
 Botchedsurgeries
 botecodoreddit
 bottlebrush
@@ -1566,6 +1567,7 @@ CryptoMoonShots
 Cryptozoology
 Crystals
 cscareerquestions
+cscareerquestionsCAD
 cscareerquestionsEU
 csgo
 csharp
@@ -2033,6 +2035,7 @@ ElectricalEngineering
 electricdaisycarnival
 ElectricForest
 electricians
+ElectricScooters
 electricvehicles
 ElectroBOOM
 electronicmusic
@@ -5131,6 +5134,7 @@ Quebec
 Queens
 queensofgenshin
 QueerVexillology
+quilling
 quilting
 QuinnMains
 QuiteFrankly
@@ -6277,6 +6281,7 @@ thetagang
 TheTempleOfOchako
 TheTrumpZone
 theumbrellaacademy
+theunforgiven
 TheVampireDiaries
 thewalkingdead
 TheWalkingDeadGame
