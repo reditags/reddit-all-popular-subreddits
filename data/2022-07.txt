@@ -1829,6 +1829,7 @@ Dinosaurs
 dionysus
 dioramas
 DiretoDoZapZap
+dirtgame
 discgolf
 DiscoElysium
 discord_irl
@@ -4505,6 +4506,7 @@ Norse
 NorthCarolina
 northernireland
 northernlion
+NorthMelbourneFC
 Norway
 nosafetysmokingfirst
 nosleep
