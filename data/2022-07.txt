@@ -918,6 +918,7 @@ boop
 boottoobig
 borbs
 BorderCollie
+Borderlands
 Borderlands2
 borderlands3
 boringdystopia
@@ -2844,6 +2845,7 @@ hdtgm
 headpats
 headphones
 Health
+HealthyFood
 Healthygamergg
 hearthstone
 hearthstonecirclejerk
