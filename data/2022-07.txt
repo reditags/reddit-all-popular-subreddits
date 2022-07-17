@@ -99,6 +99,7 @@ AbstractArt
 ac_newhorizons
 ACAB
 AccidentalAlly
+AccidentalArtGallery
 AccidentalCamouflage
 AccidentalComedy
 accidentallycommunist
@@ -1078,6 +1079,7 @@ CanadianInvestor
 canberra
 cancer
 canes
+cannabis
 cannabiscultivation
 CannedSardines
 canoo
@@ -4921,6 +4923,7 @@ pigs
 pihole
 Pikabu
 Pikmin
+PikminBloomApp
 Pineapplebrat
 pingu
 pinkfloyd
@@ -4992,6 +4995,7 @@ PokemonSwordAndShield
 PokemonTCG
 PokemonUnite
 poker
+Pokimane
 PokimanePics
 poland
 polandball
@@ -5224,6 +5228,7 @@ reactionpics
 readanotherbook
 ReadyOrNotGame
 real_China_irl
+RealBeesFakeTopHats
 realestateinvesting
 RealisticArmory
 reallifedoodles
@@ -6164,6 +6169,7 @@ TeenMomOGandTeenMom2
 Tekken
 telescopes
 TempleofMarianne
+Tennessee
 Tennesseetitans
 tennis
 TenseiSlime
