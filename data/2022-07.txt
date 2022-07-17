@@ -321,6 +321,7 @@ AnimalsBeingGeniuses
 AnimalsBeingJerks
 AnimalsBeingLoveable
 AnimalsBeingMoms
+AnimalsBeingSleepy
 AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
@@ -1562,6 +1563,7 @@ Crittersoncapybaras
 croatia
 CrohnsDisease
 cromch
+croppingishard
 crossdressing
 crossfit
 CrossfitGirls
@@ -2562,6 +2564,7 @@ gaybrosgonemild
 GayBroTeens
 GaylorSwift
 gaymemes
+GaymersGoneMild
 GayRateMe
 GaySoundsShitposts
 GCSE
@@ -3136,6 +3139,7 @@ ImaginaryLeviathans
 ImaginaryLovers
 ImaginaryMaids
 imaginarymaps
+ImaginaryMechs
 ImaginaryMerfolk
 ImaginaryMiddleEarth
 ImaginaryMindscapes
@@ -7000,6 +7004,7 @@ wholesomemes
 wholesomeouija
 wholesomeromance
 wholesomevandalism
+wholesomevangelion
 wholesomeviolence
 whothefuckup
 WhyWereTheyFilming
