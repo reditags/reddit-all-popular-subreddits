@@ -1623,6 +1623,7 @@ CuddlyKitties
 CulinaryPlating
 cults
 CultureImpact
+cum_town
 Cuphead
 CuratedTumblr
 curb
@@ -2768,6 +2769,7 @@ GreenAndPleasant
 GreenBayPackers
 greenday
 greenville
+gretavanfleet
 Grey_Knights
 Greyhounds
 greysanatomy
@@ -5428,6 +5430,7 @@ revancedapp
 RevenantMain
 reverseanimalrescue
 ReversePinterest
+Revolvers
 rewilding
 RheaRipley
 RhodeIsland
@@ -6134,6 +6137,7 @@ Subliminal
 submarines
 submechanophobia
 subnautica
+Subnautica_Below_Zero
 SUBREDDITNAME
 SubsIFellFor
 SubSimulatorGPT2
