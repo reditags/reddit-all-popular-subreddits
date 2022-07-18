@@ -1151,6 +1151,7 @@ cat
 cataclysmdda
 CatAdvice
 catalunya
+Catan
 CatastrophicFailure
 catbellies
 catbongos
@@ -2072,6 +2073,7 @@ EDH
 Edinburgh
 EDM
 Edmonton
+edmproduction
 educationalgifs
 Eesti
 egg_irl
@@ -2142,6 +2144,7 @@ Enough_Sanders_Spam
 Enough_Vaush_Spam
 EnoughCommieSpam
 EnoughIDWspam
+EnoughLibertarianSpam
 EnoughMuskSpam
 EnoughPCMSpam
 enoughpetersonspam
@@ -4342,6 +4345,7 @@ MontyPythonMemes
 MoonKnight
 Moonmoon
 morbidlybeautiful
+MorbidPodcast
 morbidquestions
 Morbius
 MordekaiserMains
@@ -5190,6 +5194,7 @@ Priconne
 PrimeiraLiga
 PrimeXBT
 PrimitiveTechnology
+Primus
 PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
@@ -7061,6 +7066,7 @@ whatcouldgoright
 Whatcouldgowrong
 whatintarnation
 whatisthiscar
+WhatShouldICook
 whatsthatbook
 whatsthisbird
 whatsthisbug
@@ -7270,6 +7276,7 @@ YouOnLifetime
 YourJokeButWorse
 yourmomshousepodcast
 YourRAGE
+yourturntodie
 YouSeeComrade
 youseeingthisshit
 YouShouldKnow
