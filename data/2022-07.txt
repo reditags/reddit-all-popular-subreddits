@@ -901,6 +901,7 @@ bodegacats
 bodybuilding
 bodymods
 bodyweightfitness
+BoFuri
 Bogleheads
 BoJackHorseman
 Bokoen1
@@ -1406,6 +1407,7 @@ ColleenBallingerSnark
 college
 collegebaseball
 CollegeBasketball
+CollegeRant
 ColleiMains
 Colombia
 Colorado
@@ -2825,6 +2827,7 @@ hailhortler
 Hair
 HairDye
 hajimenoippo
+hakkaten
 HalfLife
 halifax
 halloween
@@ -7131,6 +7134,7 @@ worldjerking
 WorldNationalists
 worldnews
 worldnewsvideo
+worldofgothic
 worldofpvp
 WorldofTanks
 WorldOfTanksBlitz
