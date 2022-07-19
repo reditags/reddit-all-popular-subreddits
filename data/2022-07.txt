@@ -643,6 +643,7 @@ badfriendspod
 badhistory
 badlinguistics
 badmathematics
+badMovies
 BadMtgCombos
 BadMUAs
 badtaxidermy
@@ -3730,6 +3731,7 @@ LaughJokes
 LaughterWorld
 LaurenCohan
 law
+lawncare
 lawnporn
 lawofattraction
 LawSchool
@@ -3868,6 +3870,7 @@ LMDShow
 lmGoingToHellForThis
 LNPCorruption
 loadingicon
+LobaMains
 LobotomyCorp
 local58
 LockdownSkepticism
@@ -3967,6 +3970,7 @@ MAAU
 mac
 macarons
 macbookpro
+macdemarco
 macgaming
 MachikadoMazoku
 MachineLearning
@@ -5914,6 +5918,7 @@ snails
 snakes
 SnakesWithHats
 SnapChad
+SneakyAnimals
 Sneks
 snes
 SNKRS
