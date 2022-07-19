@@ -2258,6 +2258,7 @@ Falcom
 FallenOrder
 FallGuysGame
 Fallout
+falloutlore
 FalloutMemes
 FalloutMods
 falloutnewvegas
