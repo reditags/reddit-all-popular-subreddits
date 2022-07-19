@@ -4358,6 +4358,7 @@ ModernistArchitecture
 ModernMagic
 modernwarfare
 ModernWarfareII
+modnews
 modular
 moedred
 MoeMorphism
@@ -6227,6 +6228,7 @@ SubwayCreatures
 SuccessionTV
 suddenlybi
 suddenlycaralho
+SuddenlyCommunism
 SuddenlyCommunist
 SuddenlyGay
 SuddenlyIncest
