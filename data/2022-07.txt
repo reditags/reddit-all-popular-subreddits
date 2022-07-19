@@ -471,6 +471,7 @@ army
 aromantic
 aromanticasexual
 arresteddevelopment
+Arrowheads
 ArsenalFC
 Art
 artcommissions
@@ -1474,6 +1475,7 @@ CompetitiveTFT
 COMPLETEANARCHY
 composting
 CompTIA
+computers
 conan
 ConanBeingAwesome
 ConanExiles
@@ -2759,6 +2761,7 @@ google
 googlehome
 googlemapsshenanigans
 GooglePixel
+GoosetheBand
 gorgc
 gorillaz
 GossipGirl
@@ -5429,6 +5432,7 @@ RedditForGrownups
 RedditInReddit
 RedditLaqueristas
 redditsings
+redditsync
 RedditWritesSeinfeld
 RedDwarf
 RedFloodMod
@@ -5871,6 +5875,7 @@ shrinkflation
 ShroomID
 shrooms
 shubreddit
+Shunbun
 ShuumatsuNoValkyrie
 shylily
 Siamesecats
@@ -7149,6 +7154,7 @@ WhiteHouseDinners
 whiteknighting
 whitepeoplegifs
 WhitePeopleTwitter
+WhiteRooms
 whitesox
 WhiteWolfRPG
 wholesome
@@ -7256,6 +7262,7 @@ wow
 wowcirclejerk
 WoWs_Legends
 wowthanksimcured
+wowthissubexists
 Wrangler
 Wrasslin
 wrestling
