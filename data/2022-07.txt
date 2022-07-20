@@ -1554,6 +1554,7 @@ countryball_memes
 countryballs_comics
 COVIDAteMyFace
 CovIdiots
+covidlonghaulers
 cowboybebop
 cowboys
 cowcats
@@ -2410,6 +2411,7 @@ flashlight
 FlashTV
 FleshPitNationalPark
 FlexinLesbians
+flightradar24
 flightsim
 Flipping
 FLMedicalTrees
@@ -3584,6 +3586,7 @@ justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
 JuttaLeerdam
+Juujika_no_rokunin
 Juve
 k_on
 kaamelott
@@ -4156,6 +4159,7 @@ MassEffectMemes
 massivefangs
 masterduel
 masterhacker
+MasterReturns
 Mastiff
 mastodonband
 MathJokes
@@ -5902,6 +5906,7 @@ Shittypokestops
 shittyprogramming
 shittyrainbow6
 shittyreactiongifs
+ShittyRestrictionFood
 shittyrobots
 shittysimulated
 shittyskylines
@@ -7426,6 +7431,7 @@ yugioh
 Yugioh101
 YuGiOhMemes
 YukariAkiyama
+yumenikki
 yuna
 yunyun
 YUROP
