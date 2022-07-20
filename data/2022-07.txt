@@ -194,6 +194,7 @@ AIDungeon
 aigreentext
 Aikuros
 ainbow
+ainbowOz
 AirBiscuits
 aircrashinvestigation
 airplaneears
@@ -443,6 +444,7 @@ araragi
 arbeitsleben
 arcane
 Archaeology
+archeologyworld
 ArcherFX
 Archero
 Archery
@@ -3695,6 +3697,7 @@ KnightsOfPineapple
 KnitHacker
 knives
 knolling
+KnowingBetter
 Knoxville
 kof
 KokkoroNatsume
@@ -4151,6 +4154,7 @@ MathJokes
 mathmemes
 mathpics
 matrix
+mattcolville
 MatthiasSubmissions
 matureplants
 MauLer
@@ -6320,6 +6324,7 @@ SweatyPalms
 sweden
 swedishproblems
 SWGalaxyOfHeroes
+SwiftUI
 Swimming
 Switzerland
 SWlegion
