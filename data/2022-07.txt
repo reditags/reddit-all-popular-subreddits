@@ -1370,6 +1370,7 @@ citypop
 CityPorn
 civ
 civ5
+civ_memes
 civic
 civilengineering
 CivPolitics
@@ -1852,6 +1853,7 @@ desabafos
 desertporn
 Design
 DesignDesign
+DesignerReps
 DesignPorn
 desimemes
 DesiMeta
@@ -5812,6 +5814,7 @@ sheranetflix
 ShermanPosting
 SHFiguarts
 shiba
+ShibaInu
 SHIBArmy
 shid_and_camed
 shieldbro
@@ -6419,6 +6422,7 @@ TerrainBuilding
 Terraria
 TerrariaDesign
 TerrariaMemes
+terrariashitposting
 terrariums
 terriblefacebookmemes
 terriblefandommemes
@@ -7069,6 +7073,7 @@ WaltDisneyWorld
 Waluigi
 WANDAVISION
 wankil
+war
 WarAndPeas
 warcraft3
 Warframe
