@@ -2059,6 +2059,7 @@ drums
 drumstick
 drunk
 drunkencookery
+dryalcoholics
 DSA_RPG
 DSPDiscussion4
 dualipa
@@ -2741,6 +2742,7 @@ Glocks
 Gloomhaven
 GloriousTomBombadil
 Gloryhammer
+glossier
 gluesniffer
 glutenfree
 GME
@@ -7265,6 +7267,7 @@ windows
 Windows10
 Windows11
 wine
+Wings
 WingsOfFire
 winnipegjets
 winonaryder
