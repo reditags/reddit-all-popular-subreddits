@@ -157,6 +157,7 @@ AdobeIllustrator
 AdorableDragons
 adorableoldpeople
 AdPorn
+ADTR
 AdultHood
 Adulting
 adultswim
@@ -310,6 +311,7 @@ Anbennar
 anchorage
 Ancient_History_Memes
 AncientCivilizations
+ancientegypt
 Ancientknowledge
 ancientrome
 AncientWorld
@@ -1018,6 +1020,7 @@ Brawlhalla
 Brawlstars
 BrawlStarsCompetitive
 brdev
+bread_irl
 Breadit
 BreadStapledToTrees
 BreadTube
@@ -6784,6 +6787,7 @@ TooMeIrlForMeIrl
 ToothpasteBoys
 TopGear
 TopMindsOfReddit
+TopSecretRecipes
 TopSurgery
 toptalent
 TopTierEbony
