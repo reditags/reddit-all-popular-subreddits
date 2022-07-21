@@ -490,6 +490,7 @@ Art
 artcommissions
 ArtDeco
 ArtefactPorn
+ArteryGear
 ArtFundamentals
 ArtHistory
 ArtisanVideos
@@ -559,6 +560,7 @@ ATBGE
 ATEEZ
 AteistTurk
 AteTheOnion
+AteThePasta
 atheism
 atheismindia
 ATLA
@@ -1002,6 +1004,7 @@ boyslove
 Bozeman
 BPD
 BPDmemes
+brandnew
 BrandNewAnimal
 BrandNewSentence
 BrandonDE
@@ -1557,6 +1560,7 @@ cosplayers
 cosplayprops
 Costco
 cottagecore
+counciloftherings
 CounterSide
 counterstrike
 CountOnceADay
@@ -1923,6 +1927,7 @@ DicePorn
 didiwinx1
 didnthavetocutmeoff
 DidntKnowIWantedThat
+different_sob_story
 digimon
 DigitalArt
 digitalnomad
@@ -3418,6 +3423,7 @@ Invincible
 Invisalign
 ios
 iOSBeta
+iOSsetups
 Iowa
 ipad
 iPadPro
@@ -6978,6 +6984,7 @@ unexpectedcommunism
 UnexpectedCommunity
 unexpectedfuturama
 UnexpectedHamilton
+Unexpectedhermitcraft
 unexpectedhogwarts
 unexpecteditcrowd
 UnexpectedJoJo
