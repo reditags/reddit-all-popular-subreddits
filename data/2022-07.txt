@@ -2800,6 +2800,7 @@ Gold
 GoldCoast
 GoldenAgeMinecraft
 Goldendoodles
+GoldenKamuy
 goldenretrievers
 GoldenSun
 golf
@@ -5746,6 +5747,7 @@ sanantonio
 SandersForPresident
 SanDiegan
 sandiego
+Sandman
 sandyalexg
 sanepolitics
 sanfrancisco
@@ -6903,6 +6905,7 @@ TuxedoCats
 TVDetails
 TVTooHigh
 twentyonepilots
+TWEWY
 twicemedia
 twicememes
 twilight
