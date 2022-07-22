@@ -6269,6 +6269,7 @@ starcraft
 StardewHomeDesign
 StardewMemes
 StardewValley
+StardewValleyExpanded
 StardustCrusaders
 Starfield
 starfinder_rpg
