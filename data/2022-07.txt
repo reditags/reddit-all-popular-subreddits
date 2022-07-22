@@ -436,6 +436,7 @@ apolloapp
 AppalachianTrail
 appiememes
 apple
+AppleMusic
 AppleWatch
 ApplyingToCollege
 APStudents
@@ -3321,6 +3322,7 @@ ImaginaryNecronomicon
 ImaginaryNobles
 ImaginaryOverwatch
 ImaginaryPathways
+imaginarypets
 ImaginaryPortals
 ImaginaryScholars
 ImaginarySeascapes
