@@ -5429,6 +5429,7 @@ prusa3d
 ps2
 PS3
 PS4
+PS4Dreams
 PS5
 psg
 PSP
@@ -6924,6 +6925,7 @@ TsundereSharks
 TTSverse
 Tubbo_
 TucaAndBertie
+tuckedinfishies
 tuckedinkitties
 TuckedInPuppies
 Tucson
