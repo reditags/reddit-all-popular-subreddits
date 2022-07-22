@@ -1245,6 +1245,7 @@ CatsOnPizza
 CatsPlayingDnd
 CatsStandingUp
 catsvstechnology
+CatswatchingStray
 CatsWhoChirp
 CatsWhoConverse
 CatsWhoSmoke
@@ -1415,6 +1416,7 @@ classiccars
 ClassicRock
 classicsoccer
 classicwow
+classicwowtbc
 ClassPoliticsTwitter
 ClassroomOfTheElite
 ClassyPornstars
@@ -1825,6 +1827,7 @@ deadcells
 deadmalls
 deadmeatjames
 DeadSpace
+deadwood
 deathbattle
 DeathByMillennial
 Deathcore
@@ -2279,6 +2282,7 @@ everymanshouldknow
 EverythingFoxes
 EverythingScience
 evilbuildings
+EvilDead
 EvilDeadTheGame
 EvilMoe
 excatholic
@@ -3194,6 +3198,7 @@ hydrokitties
 hyouka
 hypixel
 HypixelSkyblock
+Hyundai
 IAmA
 Iamactuallyverybadass
 iamatotalpieceofshit
@@ -4564,6 +4569,7 @@ MultiVersus
 MultiVersusTheGame
 mumbai
 Munich
+Muppets
 murakami
 MurdaughFamilyMurders
 MurderBuns
@@ -5467,6 +5473,7 @@ qatar
 Qdpay
 qotsa
 quainetwork
+QualityTacticalGear
 Quebec
 queen
 Queens
@@ -6336,6 +6343,7 @@ Strasbourg
 Strava
 stray
 straykids
+streetart
 StreetArtPorn
 streeteats
 StreetFighter
@@ -7432,6 +7440,7 @@ WorldWar2
 WormMemes
 wortwitzkasse
 WoT
+WoTshow
 WouldYouRather
 wow
 wowcirclejerk
