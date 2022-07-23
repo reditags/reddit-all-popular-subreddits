@@ -2064,6 +2064,7 @@ dontdeadopeninside
 dontflinch
 DontFundMe
 donthelpjustfilm
+DontPanic
 DontSubscribeDumbAss
 dontyouknowwhoiam
 DonutMedia
@@ -2475,6 +2476,7 @@ FitToFat
 fixedbytheduet
 FixedGearBicycle
 fixit
+FixMyPhotoJaffa
 FixMyPrint
 FL_Studio
 Flagrant2
@@ -4322,6 +4324,7 @@ mealtimevideos
 meat
 MeatCanyon
 meatcrayon
+MeatlessMealPrep
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
@@ -5179,6 +5182,7 @@ paydaytheheist
 PaymoneyWubby
 PcBuild
 pcgaming
+pchaltv
 pcmasterrace
 pcmusic
 PCOS
@@ -6986,6 +6990,7 @@ TrollCoping
 TrollYChromosome
 Trophies
 TropicalWeather
+TroyMemes
 TruckCampers
 TruckerCats
 Truckers
