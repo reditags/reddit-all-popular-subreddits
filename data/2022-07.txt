@@ -5332,6 +5332,7 @@ PleX
 Plumbing
 plushies
 PlusSize
+PlusSizeFashion
 pmttoken
 Poem_for_your_sprog
 Poetry
@@ -5614,6 +5615,7 @@ RealisticArmory
 reallifedoodles
 RealLifeShinies
 ReallyAmerican
+ReallyShittyCopper
 realmadrid
 RealTesla
 ReasonableFantasy
@@ -6473,6 +6475,7 @@ SuperModelIndia
 Supernatural
 superpoweralchemists
 supersentai
+superstarsmtown
 Superstonk
 superstonkuk
 superstore
