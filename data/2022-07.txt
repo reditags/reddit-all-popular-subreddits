@@ -2379,6 +2379,7 @@ Falcom
 FallenOrder
 FallGuysGame
 Fallout
+FallOutBoy
 falloutlore
 FalloutMemes
 FalloutMods
@@ -4890,6 +4891,7 @@ NMSCoordinateExchange
 NoahGetTheBoat
 NoahGetTheDeathStar
 NobodyAsked
+nobuy
 nocontextpics
 Noctor
 node
@@ -4914,6 +4916,7 @@ nononono
 nonononoyes
 NonPoliticalTwitter
 noodlebones
+Nootropics
 nope
 Nordichistorymemes
 NordicMemes
@@ -6424,6 +6427,7 @@ startrekmemes
 StarTrekStarships
 StarVStheForcesofEvil
 StarWars
+StarWarsArmada
 StarWarsBattlefront
 starwarsblackseries
 StarWarsCantina
