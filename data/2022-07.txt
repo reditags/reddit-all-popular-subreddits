@@ -180,6 +180,7 @@ afkarena
 AFL
 AfterEffects
 aftergifted
+AfterTheEndFanFork
 AfterVanced
 AgainstHateSubreddits
 AgainstHinduphobia
@@ -938,6 +939,7 @@ blessedimages
 Blink182
 blockbustervideo
 BloodAngels
+Bloomer
 bloomington
 blop
 BlueJackets
@@ -1849,6 +1851,7 @@ dating
 datingoverforty
 datingoverthirty
 dave
+daverubin
 davidgoggins
 Davie504
 DaysGone
@@ -3826,6 +3829,7 @@ KidCudi
 KidsAreFuckingEvil
 KidsAreFuckingSmart
 KidsAreFuckingStupid
+kidsinthehall
 KiernanShipka
 kilian
 killedthecameraman
@@ -5274,6 +5278,7 @@ pelletgrills
 peloton
 pelotoncycle
 pelotonmemes
+penguin
 PenguinOfTheMonth
 penguins
 PenmanshipPorn
@@ -5461,6 +5466,7 @@ Poldersocialisme
 poledancing
 police
 PoliceBrotality
+policeporn
 policeuk
 politecats
 Political_Revolution
@@ -7485,6 +7491,7 @@ WeatherPorn
 web_design
 webcomics
 webdev
+webtoons
 wec
 WECcirclejerk
 wedding
