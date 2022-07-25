@@ -722,6 +722,7 @@ bartenders
 baseball
 baseballcards
 baseballcirclejerk
+BasicBulletJournals
 BasicIncome
 basketballcards
 BasketballGM
@@ -1174,6 +1175,7 @@ canes
 cannabis
 cannabiscultivation
 CannedSardines
+Canning
 canoo
 canucks
 capetown
@@ -5464,6 +5466,7 @@ PolyYuri
 Pomeranians
 ponds
 poolrooms
+pools
 poopisland
 pop_os
 popculturechat
@@ -6011,6 +6014,7 @@ ScuttleCrabMains
 SDSGrandCross
 seals
 Seaofthieves
+seashanties
 Seattle
 SeattleKraken
 SeattleWA
