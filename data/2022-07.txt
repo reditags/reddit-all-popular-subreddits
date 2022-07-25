@@ -728,6 +728,7 @@ basketballcards
 BasketballGM
 Bass
 basset
+bassethounds
 bassfishing
 BassGuitar
 bathandbodyworks
@@ -5556,6 +5557,7 @@ ProgressiveActivists
 progun
 Project_Wingman
 projectcar
+projecteternity
 ProjectSekai
 projectzomboid
 prolife
@@ -6007,6 +6009,7 @@ ScottPilgrim
 scottthewoz
 scotus
 SCP
+SCPMemes
 SCPSecretLab
 ScrapMechanic
 Scream
