@@ -741,6 +741,7 @@ battlefield_4
 battlefield_one
 BattlefieldCosmetics
 BattlefieldV
+battlehawks
 BattleJackets
 battlemaps
 BattleNetwork
@@ -4717,6 +4718,7 @@ myog
 MyouiMina
 MyPeopleNeedMe
 MySingingMonsters
+mystery
 MysteryDungeon
 mysticmessenger
 MyTeam
@@ -7211,6 +7213,7 @@ unexpectedbrooklyn99
 unexpectedcommunism
 UnexpectedCommunity
 unexpectedfuturama
+unexpectedgravity
 UnexpectedHamilton
 Unexpectedhermitcraft
 unexpectedhogwarts
