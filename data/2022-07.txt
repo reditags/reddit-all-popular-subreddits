@@ -1568,6 +1568,7 @@ COMPLETEANARCHY
 composting
 CompTIA
 computers
+computervision
 conan
 ConanBeingAwesome
 ConanExiles
@@ -1978,6 +1979,7 @@ DestinyFashion
 DestinyLore
 DestinyMemes
 DestinyTheGame
+destinyusernames
 DestroyedTanks
 DetailCraft
 detrans
