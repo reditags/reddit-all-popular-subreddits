@@ -836,6 +836,7 @@ bestof
 bestoflegaladvice
 BestofRedditorUpdates
 bestoftheinternet
+bet_financeNFT
 BethesdaSoftworks
 bettafish
 betterCallSaul
@@ -1883,6 +1884,7 @@ DDintoGME
 DDLC
 de
 de_EDV
+de_IAmA
 deadandcompany
 deadbydaylight
 deadcells
@@ -2808,6 +2810,7 @@ Gemstones
 genderfluid_irl
 generative
 genestealercult
+GenEU
 Genshin_Impact
 Genshin_Impact_Leaks
 Genshin_Lore
@@ -7126,6 +7129,7 @@ trashpandas
 TrashTaste
 trashy
 travel
+TravelPorn
 travisscott
 trebuchetmemes
 treedibles
