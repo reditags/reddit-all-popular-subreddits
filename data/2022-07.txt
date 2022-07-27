@@ -2130,6 +2130,7 @@ DontFundMe
 donthelpjustfilm
 DontPanic
 DontSubscribeDumbAss
+dontyouknowimtonyhawk
 dontyouknowwhoiam
 DonutMedia
 DonutOperator
@@ -4382,6 +4383,7 @@ mapmaking
 MapPorn
 mapporncirclejerk
 Maps
+MapsWithoutDenmark
 MapsWithoutNZ
 MarchAgainstNazis
 marchingband
@@ -5224,10 +5226,12 @@ Opossums
 OptionsMillionaire
 orangecats
 orangecounty
+orangeisthenewblack
 orangetheory
 orangutan
 orchids
 oregon
+OrganicGardening
 organization
 OrganizationPorn
 OriAndTheBlindForest
