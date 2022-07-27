@@ -546,6 +546,7 @@ askmath
 AskMen
 AskMiddleEast
 AskNYC
+AskOldPeople
 AskOuija
 AskReddit
 askscience
@@ -6525,6 +6526,7 @@ ssunbiki
 Stadia
 Staffiebullterriers
 StainedGlass
+staking
 stalker
 StallmanWasRight
 Stance
