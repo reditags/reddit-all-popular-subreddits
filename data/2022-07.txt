@@ -1919,6 +1919,7 @@ de_IAmA
 deadandcompany
 deadbydaylight
 deadcells
+deadlockpw
 deadmalls
 deadmeatjames
 DeadSpace
@@ -6880,6 +6881,7 @@ tech1e
 technews
 technicallythetruth
 technicallytrue
+technicalminecraft
 Technoblade
 technology
 TechNope
@@ -6938,6 +6940,7 @@ Thailand
 thalassophobia
 thanksihateit
 thanksimcured
+ThanksManagement
 thankthemaker
 thanosdidnothingwrong
 thassalaphobia
