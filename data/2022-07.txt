@@ -341,6 +341,7 @@ Angryupvote
 ani_bm
 ANI_COMMUNISM
 Animal_Sanctuary
+animalalbumcovers
 AnimalCrossing
 animalcrossingdesign
 animalcrossingmeme
@@ -4555,6 +4556,7 @@ MetalMemes
 metalworking
 MetaRunner
 metro
+metro_exodus
 Metroid
 mew_irl
 mexico
