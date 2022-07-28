@@ -1580,6 +1580,7 @@ CompetitiveForHonor
 CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
+CompetitiveWoW
 COMPLETEANARCHY
 composting
 CompTIA
