@@ -1501,6 +1501,7 @@ climbergirls
 climbing
 ClimbingCircleJerk
 ClipStudio
+CloneHero
 clonewars
 CloneWarsMemes
 CloseEnough
@@ -2316,6 +2317,7 @@ emulation
 Emuwarflashbacks
 EnculerLesVoitures
 ender3
+Endo
 energy
 ENFP
 EngagementRings
@@ -3091,6 +3093,7 @@ Hair
 HairDye
 hajimenoippo
 hakkaten
+HalfFlops
 HalfLife
 halifax
 halloween
@@ -3101,6 +3104,7 @@ haloinfinite
 HaloMemes
 HaloStory
 Hamilton
+hamiltonmusical
 Hammers
 hammockcamping
 hamstercare
@@ -3964,6 +3968,7 @@ kotor
 KOTORmemes
 kpics
 kpop
+kpophelp
 kpoprants
 kpopthoughts
 KRGmod
@@ -4759,6 +4764,7 @@ MoviePosterPorn
 movies
 Moviesinthemaking
 MovieSuggestions
+mr2
 mrballen
 MrBeast
 mrlovenstein
