@@ -538,6 +538,7 @@ ask
 ask_Bondha
 AskAcademia
 AskALiberal
+AskAnthropology
 AskBalkans
 AskCulinary
 AskDocs
@@ -1819,6 +1820,7 @@ DallasStars
 dalle2
 DamnNatureYouScary
 Damnthatsinteresting
+dancarlin
 dancegavindance
 dancemoms
 Dandadan
@@ -2075,6 +2077,7 @@ DiWHY
 DiWHYNOT
 DIY
 diypedals
+diytubes
 DIYUK
 DJs
 DLAH
@@ -2983,6 +2986,7 @@ GradualChaos
 Graffiti
 Granblue_en
 GrandBlue
+GrandmasPantry
 grandorder
 grandpajoehate
 grandrapids
