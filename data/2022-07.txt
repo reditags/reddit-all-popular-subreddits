@@ -410,6 +410,7 @@ anthologymemes
 Anthropology
 antiarbeit
 antiassholedesign
+AntiComAction
 Anticonsumption
 antifastonetoss
 antifeminists
@@ -444,6 +445,7 @@ apexcirclejerk
 ApexConsole
 apexlegends
 ApexLegendsMobile
+ApexLore
 ApexOutlands
 Apexrollouts
 ApexUncovered
@@ -1170,6 +1172,7 @@ cade
 CafeRacers
 CafeYokai
 CAguns
+CaityLotz
 cakedecorating
 CalamariRaceTeam
 Calamitymod_
@@ -2083,6 +2086,7 @@ DivorcedBirds
 DiWHY
 DiWHYNOT
 DIY
+diyelectronics
 diypedals
 diytubes
 DIYUK
@@ -2178,6 +2182,7 @@ DramaticText
 Draven
 Drawfee
 drawing
+DrDisrespectLive
 Dreadlocks
 Dreams
 dreamsmp
