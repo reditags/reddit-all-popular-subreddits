@@ -286,6 +286,7 @@ ambien
 amcstock
 AMCSTOCKS
 Amd
+AMD_Stock
 AmerExit
 AmericaBad
 americandad
@@ -2718,6 +2719,7 @@ freefolk
 freefromwork
 FreeGameFindings
 FreeKarma4You
+freelanceWriters
 freemagic
 FREEMEDIAHECKYEAH
 FreeSpeech
@@ -4138,6 +4140,7 @@ legalcatadvice
 legendofkorra
 LegendsMemes
 LegendsOfRuneterra
+LegendsOfTomorrow
 lego
 legodeal
 legodnd
@@ -4173,6 +4176,7 @@ Lexus
 lgballt
 lgbt
 lgbthistory
+LGBTindia
 lgbtmemes
 LGBTnews
 LGBTweets
@@ -5813,6 +5817,7 @@ quilling
 quilting
 QuinnMains
 QuiteFrankly
+quiteinteresting
 quityourbullshit
 Qult_Headquarters
 quotes
