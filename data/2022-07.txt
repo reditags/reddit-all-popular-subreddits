@@ -2024,6 +2024,7 @@ DestinyMemes
 DestinyTheGame
 destinyusernames
 DestroyedTanks
+DestroyLonely
 DetailCraft
 detrans
 DeTrashed
@@ -2309,6 +2310,7 @@ electricians
 ElectricScooters
 electricvehicles
 ElectroBOOM
+electronic_cigarette
 electronicmusic
 electronics
 ElishaCuthbert
@@ -3550,6 +3552,7 @@ ImperialKnights
 ImpracticalArmour
 ImpracticalJokers
 IMSARacing
+imsorryeveryone
 imsorryjon
 ImSorryYagoo
 ImTheMainCharacter
