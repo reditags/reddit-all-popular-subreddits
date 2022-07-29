@@ -559,6 +559,7 @@ AskOuija
 AskReddit
 askscience
 AskScienceFiction
+AskSF
 askSingapore
 askspain
 AskThe_Donald
@@ -773,6 +774,7 @@ Battletechgame
 battlewagon
 batty
 bayarea
+Bayley
 Bayonetta
 BBBY
 BBIG
@@ -835,6 +837,7 @@ benshapiro
 Bento
 berkeley
 berlin
+Bernadetta
 Bernedoodles
 bernesemountaindogs
 bernieblindness
@@ -1393,6 +1396,7 @@ cheeseburgers
 CheetoTheCat
 chefknives
 chelseafc
+Chelseagreen
 ChemicalEngineering
 chemicalreactiongifs
 chemistry
@@ -1675,6 +1679,7 @@ cozy
 CozyFantasy
 CozyPlaces
 CPA
+cpp
 Cr1TiKaL
 crabcats
 CrackheadCraigslist
@@ -1709,6 +1714,7 @@ CreepyWikipedia
 cremposting
 CrestedGecko
 CrewsCrew
+CRH
 Cricket
 CricketShitpost
 cricut
@@ -2372,6 +2378,7 @@ EpicMounts
 EpicSeven
 Episode
 Epstein
+EpsteinAndFriends
 equestriaatwar
 Equestrian
 Eragon
@@ -2639,6 +2646,7 @@ forbiddenboops
 ForbiddenFunDip
 forbiddensnacks
 Ford
+FordBronco
 FordMaverickTruck
 foreverbox
 ForFashion
@@ -3382,6 +3390,7 @@ iamveryculinary
 iamveryrandom
 iamverysmart
 IASIP
+iastate
 IBEW
 IBO
 ibs
@@ -4627,6 +4636,7 @@ milenaciciottisnark1
 milesprower
 Militariacollecting
 Military
+MilitaryARClones
 MilitaryGfys
 MilitaryHistory
 MilitaryPorn
@@ -4658,6 +4668,7 @@ MineralPorn
 miniatures
 Minilego
 minimalcatart
+minimalism
 miniminter
 minipainting
 Miniworlds
@@ -6418,6 +6429,7 @@ Skookum
 skrillex
 skulduggerypleasant
 Skullgirls
+SkweezyJibbs
 skyblivion
 SkyChildrenOfLight
 SkyGame
@@ -6476,6 +6488,7 @@ snowleopards
 snowrunner
 snowshoecats
 SNSD
+Sober
 socalhiking
 soccercirclejerk
 socialanxiety
@@ -7012,6 +7025,7 @@ thefighterandthekid
 TheFirstLaw
 TheForest
 TheForgottenDepths
+thefridgelight
 TheFrontBottoms
 TheGirlSurvivalGuide
 TheGlassCannonPodcast
@@ -7086,6 +7100,7 @@ TheWayWeWereOnVideo
 TheWeeklyRoll
 TheWeeknd
 thewestwing
+TheWildsonPrime
 TheWire
 thewitcher3
 TheYardPodcast
