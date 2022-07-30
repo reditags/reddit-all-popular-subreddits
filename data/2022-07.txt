@@ -2157,6 +2157,7 @@ dogsonroofs
 dogswearinghats
 dogswitheyebrows
 dogswithjobs
+dogswithsocks
 Dogtraining
 dogvideos
 DokkanBattleCommunity
@@ -2930,6 +2931,7 @@ GetMotivated
 GetStudying
 GettingShredded
 GettyMuseumChallenge
+GFUEL
 GhanaSaysGoodbye
 GharKeKalesh
 GhettoStreetFights
@@ -3131,6 +3133,7 @@ H3VR
 haasf1team
 Habs
 hacking
+Hacking_Tutorials
 HadesTheGame
 HadToHurt
 haikyuu
@@ -7572,6 +7575,7 @@ Valkyrae_
 VALORANT
 ValorantCompetitive
 ValorantMemes
+ValorantPBE
 valve
 ValveIndex
 VampireSurvivors
@@ -7795,6 +7799,7 @@ westworld
 WetlanderHumor
 WeWantPlates
 wewontcallyou
+WGU
 whales
 WhatAWeeb
 whatcarshouldIbuy
