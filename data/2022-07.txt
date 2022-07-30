@@ -4695,6 +4695,7 @@ Minecraft
 Minecraftbuilds
 MinecraftChampionship
 MinecraftCommands
+MinecraftDaily
 MinecraftDungeons
 Minecrafthmmm
 MinecraftMemes
@@ -6337,6 +6338,7 @@ shiba
 ShibaInu
 SHIBArmy
 shid_and_camed
+shield
 shieldbro
 shiey
 shiftingrealities
