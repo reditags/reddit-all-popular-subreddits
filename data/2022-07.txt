@@ -3093,6 +3093,7 @@ GriefSupport
 grilledcheese
 grilling
 Grimdank
+Grimdawn
 grime
 Grimes
 GriseldaxFR
@@ -3780,6 +3781,7 @@ JakesDoorComics
 jambands
 JamesBond
 JamesFridman
+JamesHoffmann
 JamesTurnerYT
 jameswebb
 jameswebbdiscoveries
