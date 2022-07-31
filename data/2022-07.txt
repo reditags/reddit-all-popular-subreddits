@@ -3527,6 +3527,7 @@ ImaginaryDarkSouls
 ImaginaryDemons
 ImaginaryDragons
 ImaginaryDwellings
+imaginaryelections
 ImaginaryElementals
 ImaginaryElves
 ImaginaryFallout
@@ -4009,6 +4010,7 @@ KidsAreFuckingSmart
 KidsAreFuckingStupid
 kidsinthehall
 KiernanShipka
+kikiundercover
 kilian
 killedthecameraman
 KillingEve
@@ -4524,6 +4526,7 @@ MarinaAndTheDiamonds
 marinebiology
 Mariners
 Mario
+marioandluigi
 mariokart
 MarioKartTour
 marionettemains
@@ -4867,6 +4870,7 @@ Morocco
 Morrowind
 MortalKombat
 Moscow
+MosinNagant
 Mosses
 MostBeautiful
 mothmemes
