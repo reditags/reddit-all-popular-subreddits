@@ -2773,6 +2773,7 @@ Frontend
 frontfootporn
 Frostpunk
 Frugal
+Frugal_Jerk
 frugalmalefashion
 FrugalMaleFashionCDN
 Fruitbatcats
@@ -6780,6 +6781,7 @@ Steelbooks
 steelers
 steinsgate
 Stellaris
+StellarisMemes
 Stepdadreflexes
 stephenking
 StevenHe
@@ -7311,6 +7313,7 @@ TombRaider
 tommyinnit
 TommyKay
 TomodachiGame
+tomodachilife
 tomorrow
 TomorrowByTogether
 TongueOutHounds
