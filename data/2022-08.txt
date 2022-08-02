@@ -130,6 +130,7 @@ alberta
 Albuquerque
 AlchemyStarsEN
 Alderwood
+aldi
 AlexaBliss
 alexandradaddario
 algotrading
@@ -153,6 +154,7 @@ AmberMains
 amcstock
 AMCSTOCKS
 Amd
+AMD_Stock
 AmerExit
 AmericaBad
 americandad
@@ -357,6 +359,7 @@ AutismInWomen
 AutisticPride
 AutoDetailing
 Autos
+AutumnPorn
 AvaRoseBeaune
 AvatarMemes
 avengedsevenfold
@@ -398,6 +401,7 @@ BadMUAs
 bakchodi
 Baking
 bald
+baldursgate
 BaldursGate3
 balkans_irl
 ballpython
@@ -410,6 +414,7 @@ BanPitBulls
 BanVideoGames
 BarbaraPalvin
 Barotrauma
+Barry
 Barstoolboners2
 barstoolsports
 bartenders
@@ -900,6 +905,7 @@ comedyhomicide
 ComedyNecrophilia
 comfypasta
 comicbookcollecting
+comicbookmovies
 comicbooks
 comics
 Commanders
@@ -1029,6 +1035,7 @@ customhearthstone
 CustomKeyboards
 custommagic
 cute
+CuteButHorrifying
 Cutedogsreddit
 cuteguys
 CyanideandHappiness
@@ -1142,6 +1149,7 @@ DemocraticSocialism
 democrats
 DEMONDICE
 DemonSlayerAnime
+demonssouls
 Denmark
 DenverBroncos
 DenverCirclejerk
@@ -1432,6 +1440,7 @@ Faces
 factorio
 Factoriohno
 FairytaleasFuck
+FaithLiane
 fakealbumcovers
 fakedisordercringe
 fakehistoryporn
@@ -1582,6 +1591,7 @@ FreeCompliments
 freefolk
 freefromwork
 FreeGameFindings
+FreeKarma4You
 Frenchbulldogs
 FrenchMemes
 FridayNightFunkin
@@ -1690,6 +1700,7 @@ GenZHumor
 geoguessr
 geology
 geometrydash
+geopolitics
 Georgia
 georgiabulldogs
 germanshepherds
@@ -1820,6 +1831,7 @@ haloinfinite
 HaloMemes
 Hamilton
 hamsters
+HandfulOfKitten
 handholding
 HandOfMemes
 handtools
@@ -1957,6 +1969,7 @@ HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
 humor
+humour
 hungary
 HungryArtists
 HunterXHunter
@@ -2034,6 +2047,7 @@ ImaginaryMindscapes
 ImaginaryMonsterGirls
 ImaginaryMonsters
 ImaginaryNobles
+ImaginaryPathways
 ImaginarySliceOfLife
 ImaginarySoldiers
 ImaginaryStarships
@@ -2079,6 +2093,7 @@ IndianTeenagers
 indiasocial
 IndiaSpeaks
 IndieDev
+IndieGaming
 indieheads
 indonesia
 IndoorGarden
@@ -2195,6 +2210,8 @@ jovemnerd
 jpegmafia
 jschlatt
 jschlattsubmissions
+Judaism
+JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
@@ -2238,6 +2255,7 @@ KatherynWinnick
 KazuhaMains
 KDRAMA
 Keep_Track
+Kehlani
 keming
 kendalljenner
 Kengan_Ashura
@@ -2252,6 +2270,7 @@ ketorecipes
 kfeets
 KGATLW
 khajiithaswares
+KidCudi
 Kiddions
 KidsAreFuckingStupid
 KiernanShipka
@@ -2534,6 +2553,7 @@ massachusetts
 masseffect
 MassEffectMemes
 masterduel
+masterhacker
 MathJokes
 mathmemes
 matureplants
@@ -2604,6 +2624,7 @@ metro
 Metroid
 mew_irl
 mexico
+mfdoom
 MHRise
 Miami
 miamidolphins
@@ -2674,6 +2695,7 @@ misleadingthumbnails
 misLED
 missbricosplay
 missouri
+Mistborn
 MitchellAndWebb
 Mizkif
 MkeBucks
@@ -2772,6 +2794,7 @@ MyTeam
 mythology
 mythologymemes
 n64
+N_N_N
 nagatoro
 Nahida_Mains
 NailArt
@@ -3305,6 +3328,7 @@ Psychonaut
 PUBATTLEGROUNDS
 PublicFreakout
 pugs
+pukicho
 pune
 PunishingGrayRaven
 punk
@@ -3397,6 +3421,8 @@ redpandas
 Reds
 RedshirtsUnite
 redsox
+ReevesBatmanmemes
+regretfulparents
 regularcarreviews
 regularshow
 religiousfruitcake
@@ -3469,6 +3495,7 @@ rpghorrorstories
 rsloshredit
 RTGameCrowd
 rugbyunion
+runefactory
 runescape
 running
 runningman
@@ -3758,6 +3785,7 @@ SpaceXMasterrace
 spain
 specializedtools
 SpecialSnowflake
+SpecOpsArchive
 SpeculativeEvolution
 SpeedOfLobsters
 speedrun
@@ -3996,6 +4024,7 @@ TerrifyingAsFuck
 TeslaLounge
 TeslaModel3
 teslamotors
+TESOfashion
 Texans
 texas
 tf2
@@ -4340,6 +4369,7 @@ videogamedunkey
 videomemes
 videos
 VietNam
+ViewPorn
 Vilebrequin
 VillagePorn
 Vinesauce
@@ -4357,6 +4387,7 @@ virtualreality
 Visiblemending
 Vocaloid
 void_memes
+VoidCake
 voidpunk
 VolleyballGirls
 Volumeeating
@@ -4426,6 +4457,7 @@ weirdfacefunny
 weirdvideosfor3am
 WeirdWheels
 WeirdWings
+WelcomeToPlathville
 Welding
 Wellington
 Wellthatsucks
@@ -4513,6 +4545,7 @@ Workspaces
 Worldbox
 worldbuilding
 worldjerking
+WorldNationalists
 worldnews
 worldnewsvideo
 WorldofTanks
