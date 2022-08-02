@@ -356,6 +356,7 @@ avengedsevenfold
 Avengers
 AverageBattlestations
 aves
+avfc
 aviation
 aviationmemes
 awesome
@@ -584,6 +585,7 @@ boston
 BostonBruins
 bostonceltics
 BostonTerrier
+botany
 Botchedsurgeries
 botecodoreddit
 bottlebrush
@@ -843,9 +845,11 @@ CleaningTips
 ClevelandGuardians
 climate
 climbing
+ClimbingCircleJerk
 clonewars
 CloneWarsMemes
 Cloud9
+CLOUDS
 cockatiel
 cocktails
 CoDCompetitive
@@ -1109,6 +1113,7 @@ deliciouscompliance
 Delightfullychubby
 delta
 Deltarune
+delusionalartists
 delusionalcraigslist
 DemEyesDoe
 DemiRoseBigBooty
@@ -1312,6 +1317,7 @@ EliteDangerous
 EliteWeebs
 ElizabethOlsen
 ElizabethTurner
+ElvenGirls
 Embroidery
 emergencymedicine
 EmiliaClarke
@@ -1402,6 +1408,7 @@ FairytaleasFuck
 fakealbumcovers
 fakedisordercringe
 fakehistoryporn
+fakemon
 falcons
 FallenOrder
 FallGuysGame
@@ -1470,6 +1477,7 @@ fireemblem
 FireEmblemHeroes
 FireEmblemThreeHouses
 firefly
+FIREUK
 FirstTimeHomeBuyer
 firstworldanarchists
 Fischl
@@ -1567,6 +1575,7 @@ FuckNestle
 FuckPierre
 Fuckthealtright
 fucktheccp
+fuckwasps
 FUCKYOUINPARTICULAR
 FuckYouKaren
 fujifilm
@@ -1951,6 +1960,7 @@ illegallysmolbirbs
 IllegallySmolBunnies
 IllegallySmolCats
 IllegallySmolDogs
+illinois
 Illustration
 Illyasviel
 im14andthisisdeep
@@ -2112,8 +2122,10 @@ JenniferLawrence
 JenniferLopez
 Jeopardy
 jerma985
+jerseycity
 jerseyshore
 jessicaalba
+jeuxvideo
 Jewdank
 jewelrymaking
 jisoo
@@ -2455,6 +2467,7 @@ Marvel
 MarvelCringe
 MarvelLegends
 marvelmemes
+MarvelSnap
 maryland
 massachusetts
 masseffect
@@ -2533,6 +2546,7 @@ MHRise
 Miami
 miamidolphins
 Miata
+MichaelReeves
 Michigan
 MichiganWolverines
 microbork
@@ -2645,6 +2659,7 @@ motogp
 motorcycle
 MotorcyclePorn
 motorcycles
+mountainbiking
 Mountaineering
 mountandblade
 MouseReview
@@ -2713,6 +2728,7 @@ Nationals
 NativeAmerican
 nattyorjuice
 nature
+Natureisbrutal
 NatureIsFuckingLit
 natureismetal
 natureporn
@@ -3035,6 +3051,7 @@ PeriodDramas
 Permaculture
 Persecutionfetish
 PERSoNA
+persona4golden
 Persona5
 PersonalFinanceCanada
 perth
@@ -3388,6 +3405,7 @@ rvnxmango
 RWBY
 RX7
 ryujin
+S2000
 sabaton
 SabatonMemes
 Saber
@@ -3407,6 +3425,7 @@ SaintsRow
 saiyanpeopletwitter
 SakamotoDays
 Salamanders40k
+salmahayek
 saltierthancrait
 saltierthankrayt
 SaltLakeCity
@@ -3949,6 +3968,7 @@ TheMandalorianTV
 TheMandemNP
 TheMassive
 TheMonkeysPaw
+THEMONUMENTMYTHOS
 themummymemes
 thenetherlands
 TheNightFeeling
@@ -3977,6 +3997,7 @@ TheYardPodcast
 theydidthemath
 ThingsCutInHalfPorn
 thingsforants
+thinkpad
 ThirdLifeSMP
 thirdsentenceworse
 ThisDayInHistory
@@ -4027,6 +4048,7 @@ tommyinnit
 tomorrow
 tonightsdinner
 TonikakuCawaii
+ToniStorm
 TonyZaretOfficial
 toofers
 tookjustenough
@@ -4078,6 +4100,7 @@ trees
 TreesSuckingOnThings
 Treknobabble
 tretinoin
+trippieredd
 trippinthroughtime
 Trishyland
 TrollCoping
@@ -4211,6 +4234,7 @@ velvethippos
 venturebros
 Vermintide
 vermont
+Veterans
 VeteransBenefits
 vexillology
 vexillologycirclejerk
@@ -4244,6 +4268,7 @@ Volumeeating
 Volvo
 VoteDEM
 VRchat
+VRGaming
 VShojo
 VuvuzelaIPhone
 Wales
@@ -4293,6 +4318,7 @@ weddingshaming
 Weddingsunder10k
 WeDoALittlePosting
 weed
+weedstocks
 weeklyplanetpodcast
 weeviltime
 Weird
