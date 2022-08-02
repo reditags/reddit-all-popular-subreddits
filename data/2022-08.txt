@@ -754,6 +754,7 @@ childemains
 ChildrenFallingOver
 chile
 China_irl
+ChineseLanguage
 Chinesium
 Chiraqology
 Chivalry2
@@ -1436,6 +1437,7 @@ FreeGameFindings
 Frenchbulldogs
 FrenchMemes
 FridayNightFunkin
+friendlyjordies
 frogs
 FromKittenToCat
 FromPuppyToDog
@@ -1943,6 +1945,7 @@ JDM
 JeanMains
 jedicouncilofelrond
 JEENEETards
+JeepMemes
 jellybeantoes
 JennaFischer
 jennie
@@ -2068,6 +2071,7 @@ labrador
 labrats
 LAClippers
 LadiesOfWrestling
+Ladybonersgonecuddly
 laidbackcamp
 LakeLaogai
 lakers
@@ -2521,6 +2525,7 @@ Nbamemes
 NBAYoungboy
 NCAAFBseries
 ndp
+nebelung
 neckbeardRPG
 Necrontyr
 neekolul
@@ -3193,6 +3198,7 @@ ScottPilgrim
 scottthewoz
 SCP
 Scream
+scriptedasiangifs
 Scrubs
 scrungycats
 scuba
@@ -3681,6 +3687,7 @@ Thunder
 tiedye
 Tierzoo
 tifu
+TigerBelly
 TIGHTPUSSY
 TIHI
 TikTokCringe
@@ -3761,6 +3768,7 @@ treedibles
 trees
 TreesSuckingOnThings
 Treknobabble
+tretinoin
 trippinthroughtime
 Trishyland
 TrollCoping
@@ -3809,6 +3817,7 @@ ubius
 ucla
 UCONN
 UCSD
+Udyrmains
 ufc
 ufl
 UFOs
@@ -3855,6 +3864,7 @@ UpliftingNews
 UpvoteBecauseButt
 urbanexploration
 UrbanHell
+uselessredcircle
 UsernameChecksOut
 USMC
 USPS
@@ -3889,6 +3899,7 @@ Vermintide
 VeteransBenefits
 vexillology
 vexillologycirclejerk
+victoria2
 VictoriaBC
 victoriajustice
 videogamedunkey
@@ -4083,10 +4094,12 @@ xboxone
 XboxSeriesX
 Xenoblade_Chronicles
 XFiles
+xkcd
 xmen
 xqcow
 XXXTENTACION
 YaeMiko
+YagateKiminiNaru
 yakuzagames
 YAlit
 yandere
