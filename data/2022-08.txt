@@ -220,6 +220,7 @@ antinatalism
 antinatalism2
 Antipsychiatry
 Antiques
+AntiTaff
 antitrampo
 antiwork
 ANTM
@@ -960,6 +961,7 @@ custommagic
 cute
 Cutedogsreddit
 cuteguys
+cyberDeck
 Cyberpunk
 cyberpunkgame
 cycling
@@ -1673,6 +1675,7 @@ haloinfinite
 HaloMemes
 Hamilton
 hamsters
+handholding
 HandOfMemes
 handtools
 HannibalTV
@@ -1680,6 +1683,7 @@ happy
 happycowgifs
 happycrowds
 happycryingdads
+Happydogs
 HappyTrees
 HappyWoofGifs
 Hardcore
@@ -1832,6 +1836,7 @@ ik_ihe
 IkeaFreshBalls
 IllegalLifeProTips
 illegallysmolbirbs
+IllegallySmolBunnies
 IllegallySmolCats
 IllegallySmolDogs
 Illustration
@@ -1843,6 +1848,7 @@ ImaginaryBestOf
 ImaginaryCharacters
 ImaginaryCityscapes
 ImaginaryCybernetics
+ImaginaryCyberpunk
 ImaginaryDragons
 ImaginaryElves
 ImaginaryFeels
@@ -1980,6 +1986,7 @@ JenniferLopez
 Jeopardy
 jerma985
 jerseyshore
+jessicaalba
 Jewdank
 jewelrymaking
 jisoo
@@ -2143,6 +2150,7 @@ legendofkorra
 LegendsOfRuneterra
 lego
 legostarwars
+legostarwarsmemes
 LegoStarWarsVideoGame
 LeopardsAteMyFace
 LeopardsAteMyFacePH
@@ -2785,6 +2793,7 @@ overthegardenwall
 Overwatch
 Overwatch_Memes
 OverwatchTMZ
+OverwatchUniversity
 Owls
 OyasumiPunpun
 P1ZZ4_M0ZZARELL4
@@ -2851,6 +2860,7 @@ PERSoNA
 Persona5
 PersonalFinanceCanada
 perth
+pesmobile
 PetsareAmazing
 PetTheDamnCat
 PetTheDamnDog
@@ -2877,6 +2887,7 @@ photoshopbattles
 Physics
 physicsgifs
 physicsmemes
+pic
 PickleFinancial
 pics
 pigeon
@@ -2914,6 +2925,8 @@ playboicarti
 playrust
 playstation
 PlayStationPlus
+playtoearngames
+PlaytoEarnNFT
 PlusSize
 Poetry
 pointlesslygendered
@@ -2938,6 +2951,7 @@ poland
 polandball
 Polandballart
 Polcompball
+policeuk
 politecats
 Political_Revolution
 PoliticalCompass
@@ -3175,8 +3189,10 @@ RussiaUkraineWar2022
 rva
 rvnxmango
 RWBY
+RX7
 ryujin
 sabaton
+SabatonMemes
 Saber
 SabrinaCarpenter
 Sacramento
@@ -3208,6 +3224,7 @@ SanJose
 santacruz
 SapphoAndHerFriend
 Sardonicast
+saskatoon
 Satan
 SatanicTemple_Reddit
 satanism
@@ -3522,6 +3539,7 @@ Subliminal
 submarines
 submechanophobia
 subnautica
+Subnautica_Below_Zero
 SUBREDDITNAME
 subsithoughtifellfor
 SubsTakenLiterally
@@ -3658,6 +3676,7 @@ The10thDentist
 the1975
 The8BitRyanReddit
 The_Dennis
+The_Leftorium
 The_Mueller
 THE_PACK
 theadamfriedlandshow
@@ -3729,6 +3748,7 @@ ThisYouComebacks
 thomastheplankengine
 ThotBeatdowns
 ThriftStoreCats
+thugeshh
 Thunder
 tiedye
 Tierzoo
@@ -4012,6 +4032,7 @@ watercolorcats
 watercooling
 WattsonMains
 WeatherGifs
+web_design
 webcomics
 webdev
 weddingshaming
@@ -4139,6 +4160,7 @@ xbiking
 xbox
 xboxone
 XboxSeriesX
+Xcom
 Xenoblade_Chronicles
 XFiles
 XiaoMains
