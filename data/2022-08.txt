@@ -27,6 +27,7 @@
 2westerneurope4u
 30ROCK
 3amjokes
+3d6
 3Dmodeling
 3Dprinting
 3DS
@@ -150,6 +151,7 @@ AmberlynnReidYT
 AmberlynnSnark
 AmberMains
 amcstock
+AMCSTOCKS
 Amd
 AmerExit
 AmericaBad
@@ -536,6 +538,7 @@ bleach
 BleachBraveSouls
 blender
 blendermemes
+BlenderSecrets
 Blep
 Blessed_Images
 blessedimages
@@ -1121,6 +1124,7 @@ DeepFuckingValue
 DeepIntoYouTube
 DeepRockGalactic
 DeepSpaceNine
+defi
 deftones
 Degrassi
 Dehyamains
@@ -1176,6 +1180,7 @@ diabetes_t1
 Diablo
 diablo2
 Diablo_2_Resurrected
+DicePorn
 DidYouKn
 digimon
 DigitalArt
@@ -1338,6 +1343,7 @@ EliteDangerous
 EliteWeebs
 ElizabethOlsen
 ElizabethTurner
+elonmusk
 ElvenGirls
 Embroidery
 emergencymedicine
@@ -1681,6 +1687,7 @@ GenUsa
 GenX
 GenZ
 GenZHumor
+geoguessr
 geology
 geometrydash
 Georgia
@@ -1774,6 +1781,7 @@ gtaonline
 GTAorRussia
 GTAV
 gtavcustoms
+GTBAE
 GuardianTales
 Guildwars2
 Guiltygear
@@ -1802,6 +1810,7 @@ hacking
 HadesTheGame
 HaileeSteinfeld
 hailhortler
+hajimenoippo
 HalfLife
 halifax
 halloween
@@ -1890,6 +1899,7 @@ hockeyplayers
 hoggit
 hoi4
 holdmycosmo
+holdmyfeedingtube
 holdmyfries
 holdmyjuicebox
 holdmyredbull
@@ -2093,6 +2103,7 @@ instant_regret
 instantbarbarians
 instantkarma
 Instantregret
+insurgency
 intel
 interesting
 interestingasfuck
@@ -2100,6 +2111,7 @@ interiordecorating
 InteriorDesign
 intermittentfasting
 internet_funeral
+InternetCommentEtiq
 InternetIsBeautiful
 inthenews
 IntoTheBreach
@@ -2281,6 +2293,7 @@ KOTORmemes
 kpics
 kpop
 kpopthoughts
+kristenbell
 kristenstewart
 ksi
 KSPMemes
@@ -2397,6 +2410,7 @@ LivestreamFail
 LivMorgan
 lmao
 LMDShow
+loadingicon
 lockpicking
 LodedDiper
 logodesign
@@ -2739,6 +2753,7 @@ murdermittens
 MURICA
 Muse
 MushroomGrowers
+Mushrooms
 Music
 musicaljenga
 Mustang
@@ -2812,6 +2827,7 @@ nevertellmetheodds
 NevilleGoddard
 NewDealAmerica
 Newfoundlander
+NewGirl
 NewGreentexts
 newhampshire
 newjersey
@@ -3418,6 +3434,7 @@ RimWorld
 risa
 riskofrain
 Rivian
+roadtrip
 RoastMe
 robbersgettingfucked
 ROBLOXmemes
@@ -3511,6 +3528,7 @@ SatisfIcing
 satisfying
 Satisfyingasfuck
 SatisfyingClean
+saudiarabia
 SavageGarden
 SAVEBRENDAN
 savedyouaclick
@@ -3615,6 +3633,7 @@ ShittyDaystrom
 shittyeldenring
 shittyfoodporn
 shittygamedetails
+ShittyGifRecipes
 ShittyLifeProTips
 ShittyMapPorn
 shittymobilegameads
@@ -3627,6 +3646,7 @@ shittysuperpowers
 shittytattoos
 shittytechnicals
 ShittyVeganFoodPorn
+shockwaveporn
 shortcuts
 shorthairedhotties
 shortscarystories
@@ -3643,6 +3663,7 @@ shubreddit
 ShuumatsuNoValkyrie
 shylily
 Siamesecats
+SiberianCats
 Sidemen
 Sigmarxism
 SigSauer
@@ -3822,6 +3843,7 @@ StLouis
 sto
 StockMarket
 stocks
+Stoicism
 StoicMemes
 stolendogbeds
 StonerEngineering
@@ -3839,6 +3861,7 @@ Strava
 stray
 straykids
 StreetFighter
+StreetMartialArts
 streeto
 StuffOnCats
 stunfisk
@@ -4193,6 +4216,7 @@ Turkey
 TurkeyJerky
 TurkishCats
 TuxedoCats
+TVTooHigh
 twicemedia
 twicememes
 twilight
@@ -4370,6 +4394,7 @@ warthundermemes
 Warzone
 wasletztepreis
 wasletztestern
+WatchDogsWoofInside
 Watches
 Watchexchange
 WatchPeopleDieInside
@@ -4532,6 +4557,7 @@ YagateKiminiNaru
 yakuzagames
 YAlit
 yandere
+YanfeiMains
 YarnAddicts
 yeat_
 yeezys
