@@ -150,6 +150,7 @@ AmberMains
 amcstock
 Amd
 AmerExit
+AmericaBad
 americandad
 AmericanFascism2020
 AMG
@@ -372,6 +373,7 @@ Awww
 awwwtf
 axolotls
 AyakaMains
+Ayato_Mains
 AyyMD
 AZCardinals
 babushkadogs
@@ -446,6 +448,7 @@ beatsaber
 BeautifulFemales
 BeautifulIndianWomen
 BeautyGuruChatter
+beebutts
 BeelcitosMemes
 beerporn
 beetlejuicing
@@ -472,6 +475,7 @@ bettafish
 betterCallSaul
 BetterEveryLoop
 bi_irl
+bicycletouring
 bicycling
 BicyclingCirclejerk
 BidenIsNotMyPresident
@@ -960,6 +964,7 @@ crappyoffbrands
 CrazyFuckingVideos
 CrazyHuman
 CrazyIdeas
+CreateMod
 creepy
 creepyasterisks
 creepydesign
@@ -1085,6 +1090,7 @@ Datsun
 DaysGone
 Daytrading
 dayz
+dbfz
 dbz
 DBZDokkanBattle
 DC_Cinematic
@@ -1104,6 +1110,7 @@ deathgrips
 deathguard40k
 DeathrattlePorn
 DeathStranding
+DebtStrike
 DecidingToBeBetter
 dedreviil
 DeepFuckingValue
@@ -1160,8 +1167,10 @@ deutschememes
 Deuxmoi
 DevilMayCry
 DHHMemes
+diabetes
 diabetes_t1
 Diablo
+diablo2
 Diablo_2_Resurrected
 DidYouKn
 digimon
@@ -1265,6 +1274,7 @@ Drizzy
 drones
 DrStone
 drugmemes
+Drugs
 drumcorps
 drums
 drunkencookery
@@ -1500,6 +1510,7 @@ flightsim
 Flipping
 Floof
 florida
+FloridaCoronavirus
 FloridaMan
 flowers
 flyfishing
@@ -1534,6 +1545,7 @@ forsen
 ForShub
 FortNiteBR
 FortniteCompetitive
+FortniteLeaks
 FortniteMemes
 forwardsfromgrandma
 ForwardsFromKlandma
@@ -1813,6 +1825,7 @@ HarryPotterGame
 harvestmoon
 Hasan_Piker
 hatsune
+hauntedchocolatier
 HauntedMound
 HauntingOfHillHouse
 Hawaii
@@ -1889,6 +1902,7 @@ HomeImprovement
 homelab
 homestead
 homestuck
+hometheater
 Honda
 HongKong
 honkaiimpact3
@@ -2025,6 +2039,7 @@ InclusiveOr
 Incorgnito
 IncreasinglyVerbose
 IncredibleIndia
+IncrediblesMemes
 india
 indiadiscussion
 indiameme
@@ -2083,10 +2098,12 @@ IntoTheBreach
 intresseklubben
 Invincible
 Invisalign
+Iowa
 iphone
 iPhoneography
 ireland
 IronFrontUSA
+ironmaiden
 ironscape
 IrrationalMadness
 IsItBullshit
@@ -2241,6 +2258,7 @@ knifeclub
 knives
 knolling
 Knoxville
+KoboldLegion
 KokkoroNatsume
 Kokomi_Mains
 kolkata
@@ -2286,6 +2304,7 @@ lastweektonight
 LateStageCapitalism
 LateStageImperialism
 LatinoPeopleTwitter
+LaughJokes
 law
 LawSchool
 LazyCats
@@ -2406,6 +2425,7 @@ Lovecraft
 LoveForLandlords
 LoveIslandTV
 LoveIslandUSA
+LoveLive
 LoveNikki
 LowQualityMemes
 LowSodiumSimmers
@@ -2782,6 +2802,7 @@ NewGreentexts
 newhampshire
 newjersey
 NewOrleans
+NewPatriotism
 news
 newsbloopers
 NewSkaters
@@ -3512,6 +3533,7 @@ SecurityAnalysis
 seduction
 Seiko
 seinfeld
+seinfeldgifs
 SeishunButaYarou
 Sekiro
 SelenaGomez
@@ -3871,6 +3893,7 @@ TacticalIssueCat
 taiwan
 taiwanica
 Takagi_san
+TalesFromDF
 TalesFromRetail
 talesfromtechsupport
 TalesFromTheFrontDesk
@@ -4029,6 +4052,7 @@ ThisYouComebacks
 thomastheplankengine
 ThotBeatdowns
 ThousandSons
+ThriftGrift
 ThriftStoreCats
 thugeshh
 Thunder
@@ -4136,11 +4160,13 @@ TrueAnon
 truechildfree
 TrueCrime
 TrueCrimeDiscussion
+TrueFilm
 truegaming
 TrueReddit
 trump
 Trumpgret
 Trumpvirus
+truscum
 TTSverse
 tuckedinkitties
 TuckedInPuppies
@@ -4153,6 +4179,7 @@ TuxedoCats
 twicemedia
 twicememes
 twilight
+TwinCities
 twinpeaks
 TwistedWonderland
 Twitch
@@ -4196,6 +4223,7 @@ Undertale
 UnearthedArcana
 UnethicalLifeProTips
 Unexpected
+unexpectedcommunism
 unexpectedfuturama
 UnexpectedJoJo
 UnexpectedlyWholesome
@@ -4279,6 +4307,7 @@ vintageads
 VintageApple
 VintageFashion
 vintagejapaneseautos
+VintageLadyBoners
 vinyl
 VioletEvergarden
 Virginia
