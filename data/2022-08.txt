@@ -58,6 +58,7 @@ AAAAAAAAAAAAAAAAA
 aaaaaaaarrrrro
 aaaaaaacccccccce
 aarava
+AatroxMains
 abandoned
 AbandonedPorn
 AbolishTheMonarchy
@@ -567,10 +568,12 @@ BitchImATrain
 BitLifeApp
 bizarrebuildings
 bizarrelife
+bjork
 blackbookgraffiti
 blackcats
 Blackcelebrity
 BlackClover
+BlackCountryNewRoad
 blackdesertonline
 BlackHair
 blacklagoon
@@ -618,6 +621,7 @@ bodegaboys
 bodybuilding
 bodymods
 bodyweightfitness
+Bogleheads
 BoJackHorseman
 Bokoen1
 BokuNoHeroAcademia
@@ -665,6 +669,7 @@ Bowling
 Boxer
 Boxing
 Bozeman
+BPD
 BPDmemes
 BrandNewAnimal
 BrandNewSentence
@@ -969,6 +974,7 @@ combinedgifs
 comedyamputation
 comedybangbang
 ComedyCemetery
+comedydamnation
 comedyepilepsy
 comedyheaven
 ComedyHell
@@ -1205,6 +1211,7 @@ de_EDV
 de_IAmA
 deadbydaylight
 deadcells
+deadmalls
 deadmeatjames
 DeadSpace
 Deathcore
@@ -1378,6 +1385,7 @@ DragonballLegends
 Dragonballsuper
 DragonMaid
 dragonquest
+DragonsDogma
 dragonutopia
 DragRaceDownUnder
 Dragula
@@ -1638,9 +1646,11 @@ firstworldanarchists
 Fischl
 FitAndNatural
 fittodi
+FitToFat
 fivethirtyeight
 fixedbytheduet
 FixedGearBicycle
+Flagrant2
 flashlight
 FlashTV
 FleshPitNationalPark
@@ -1730,6 +1740,7 @@ Frostpunk
 Frugal
 frugalmalefashion
 Fruitbatcats
+FruitsBasket
 ft86
 ftlgame
 FTMFitness
@@ -1801,6 +1812,7 @@ gangstaswithwaifus
 gank
 Ganyu
 garageporn
+GarandThumb
 garfieldminusgarfield
 Gary_The_Cat
 Gatcat
@@ -1965,6 +1977,7 @@ HadToHurt
 haikyuu
 HaileeSteinfeld
 hailhortler
+Hair
 hajimenoippo
 HalfLife
 halifax
@@ -2316,6 +2329,7 @@ Israel
 IsTodayFridayThe13th
 Italia
 italy
+ITCareerQuestions
 ITcrowd
 ItemShop
 Iteration110Cradle
@@ -2439,6 +2453,7 @@ kendalljenner
 Kengan_Ashura
 KenM
 Kenshi
+Kentucky
 kep1er
 KeqingMains
 Kerala
@@ -2527,6 +2542,7 @@ LaStalla
 lastimages
 lastpodcastontheleft
 lastweektonight
+LasVegas
 LateStageCapitalism
 LateStageImperialism
 latin
@@ -2917,6 +2933,8 @@ MobKitchen
 Mobpsycho100
 MoDaoZuShi
 modeltrains
+Modern_Family
+ModernistArchitecture
 ModernMagic
 modernwarfare
 ModernWarfareII
@@ -3193,6 +3211,7 @@ nuzlocke
 nvidia
 nyanners
 NYCbike
+NYGiants
 nyjets
 NYKnicks
 NYYankees
@@ -3428,6 +3447,7 @@ photocritique
 photographs
 photoshop
 photoshopbattles
+PhotoshopRequest
 Physics
 physicsgifs
 physicsmemes
@@ -3471,6 +3491,7 @@ PlantGoths
 PlantIdentification
 plants
 PlantsVSZombies
+PlayAvengers
 playboicarti
 playrust
 playstation
@@ -3487,6 +3508,7 @@ PointyTailedKittens
 PokeLeaks
 pokememes
 pokemon
+pokemonanime
 PokemonBDSP
 pokemongo
 PokemonGoFriends
@@ -3623,9 +3645,11 @@ QuotesPorn
 R6ProLeague
 Rabbits
 radiohead
+radioheadcirclejerk
 ragdolls
 RaidenMains
 raiders
+raidsecrets
 raimimemes
 Rainbow6
 RainbowEverything
@@ -3727,6 +3751,7 @@ rimjob_steve
 Rimuru
 RimWorld
 RimWorldPorn
+ripcity
 risa
 riskofrain
 riverdale
@@ -3893,6 +3918,7 @@ serialkillers
 seriouseats
 Serverlife
 service_dogs
+settmains
 seventeen
 SeveranceAppleTVPlus
 Sewerslvt
@@ -4206,6 +4232,7 @@ subnautica
 Subnautica_Below_Zero
 SUBREDDITNAME
 SubSimulatorGPT2
+SubSimulatorGPT2Meta
 subsithoughtifellfor
 SubsTakenLiterally
 Suburbanhell
@@ -4285,6 +4312,7 @@ TampaBayLightning
 tankiejerk
 TankPorn
 TanmayBhatKeDost
+tarantulas
 Target
 TargetedShirts
 TarkovMemes
@@ -4334,6 +4362,7 @@ terrariums
 terriblefacebookmemes
 terriblefandommemes
 TerrifyingAsFuck
+teslainvestorsclub
 TeslaLounge
 TeslaModel3
 TeslaModelY
@@ -4380,6 +4409,7 @@ TheDepthsBelow
 thedivision
 TheDragonPrince
 TheExpanse
+TheFence
 thefighterandthekid
 TheGirlSurvivalGuide
 theGoldenGirls
@@ -4405,6 +4435,7 @@ TheNightFeeling
 theocho
 TheOnion
 TheOrville
+theouterworlds
 ThePalaceOfMiruko
 TheRandomest
 TheRealJoke
@@ -4421,6 +4452,7 @@ Thetruthishere
 thewalkingdead
 TheWayWeWere
 TheWeeknd
+thewestwing
 TheWire
 thewitcher3
 TheYardPodcast
@@ -4975,6 +5007,7 @@ youtube
 youtubehaiku
 yugioh
 YuGiOhMasterDuel
+YuGiOhMemes
 yuna
 yunyun
 YUROP
