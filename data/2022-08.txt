@@ -124,6 +124,7 @@ agender
 ageofsigmar
 AHomeForPlagueRats
 AhriMains
+AIDKE
 airplaneears
 airsoft
 airsoftcirclejerk
@@ -474,6 +475,7 @@ BeamNG
 BeansInThings
 BeardedDragons
 beards
+bearpuppers
 bearsdoinghumanthings
 Beastars
 beatles
@@ -643,6 +645,7 @@ botw
 boulder
 bouldering
 BoutinelaBabes
+Bowling
 Boxer
 Boxing
 Bozeman
@@ -819,6 +822,7 @@ CelebrityFeet
 celebritylegs
 CelebsPH
 celestegame
+CelestialBodies
 cellbits
 CelsiusNetwork
 CentralChurch
@@ -1240,6 +1244,7 @@ Deusex
 deutschememes
 Deuxmoi
 DevilMayCry
+devils
 dezwo
 DHHMemes
 diabetes
@@ -1584,6 +1589,7 @@ Firearms
 fireemblem
 FireEmblemHeroes
 FireEmblemThreeHouses
+Firefighting
 firefly
 FIREUK
 FirstTimeHomeBuyer
@@ -1751,12 +1757,14 @@ gank
 Ganyu
 garageporn
 Gary_The_Cat
+Gatcat
 gatekeeping
 GatekeepingYuri
 gatesopencomeonin
 GawrGura
 gaybrosgonemild
 GaylorSwift
+gaymemes
 GayRateMe
 GaySoundsShitposts
 GCSE
@@ -1810,6 +1818,7 @@ GirlsSoccer
 girlswithbigmuscles
 GirlsWithHugePussies
 givemeinteligens
+glasgow
 Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
@@ -1999,6 +2008,7 @@ hockeymemes
 hockeyplayers
 hoggit
 hoi4
+hoi4modding
 holdmycosmo
 holdmyfeedingtube
 holdmyfries
@@ -2382,6 +2392,7 @@ ketorecipes
 kfeets
 KGATLW
 khajiithaswares
+KhaZixMains
 KidCudi
 Kiddions
 KidsAreFuckingStupid
@@ -2430,6 +2441,7 @@ kristenbell
 kristenstewart
 ksi
 KSPMemes
+KumoDesu
 Kurisutina
 Kurumi
 kurzgesagt
@@ -2605,6 +2617,7 @@ lululemon
 Lumine_Mains
 Lumity
 Lustig
+Luthier
 LV426
 LycorisRecoil
 MAAU
@@ -3226,6 +3239,7 @@ OverSimplified
 overthegardenwall
 Overwatch
 Overwatch_Memes
+OverwatchCirclejerk
 OverwatchTMZ
 OverwatchUniversity
 Owls
@@ -3246,6 +3260,7 @@ panelshow
 PanganaySupportGroup
 PanPorn
 pansexual
+PantheonMains
 panthers
 Papaplatte
 papertowns
@@ -3268,6 +3283,7 @@ Pathfinder2e
 Pathfinder_Kingmaker
 pathofexile
 PathOfExileBuilds
+pathologic
 Patriots
 paydaytheheist
 PaymoneyWubby
@@ -4499,6 +4515,7 @@ UNBGBBIIVCHIDCTIICBG
 UnchainedMelancholy
 uncharted
 unclebens
+UncleRoger
 Undertale
 UnearthedArcana
 UnethicalLifeProTips
