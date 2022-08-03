@@ -125,6 +125,7 @@ ageofsigmar
 AHomeForPlagueRats
 AhriMains
 AIDKE
+aigreentext
 airplaneears
 airsoft
 airsoftcirclejerk
@@ -415,6 +416,7 @@ BabyBumps
 BabyCorgis
 babyelephantgifs
 babylon5
+Back4Blood
 backrooms
 BackYardChickens
 Bad_Cop_No_Donut
@@ -513,6 +515,7 @@ Bestbuy
 bestof
 bestoflegaladvice
 BestofRedditorUpdates
+BestOfReports
 bestoftheinternet
 bettafish
 betterCallSaul
@@ -835,6 +838,7 @@ CentralChurch
 centuryhomes
 Ceramics
 CFB
+cfs
 Chadposting
 chadsriseup
 Chadtopia
@@ -882,6 +886,7 @@ ChoicesVIP
 Chonkers
 ChoosingBeggars
 Christianity
+christianmemes
 christinahendricks
 christmas
 chronotrigger
@@ -965,6 +970,7 @@ comicbookcollecting
 comicbookmovies
 comicbooks
 comics
+commandandconquer
 Commanders
 CommunismMemes
 community
@@ -992,6 +998,7 @@ consulting
 ContagiousLaughter
 ContestOfChampions
 ContraPoints
+Conures
 ConvenientCop
 cookiedecorating
 Cookierun
@@ -1039,6 +1046,7 @@ CrazyFuckingVideos
 CrazyHuman
 CrazyIdeas
 CreateMod
+CreditCards
 creepy
 creepyasterisks
 creepydesign
@@ -1201,6 +1209,7 @@ dedreviil
 DeepFuckingValue
 DeepIntoYouTube
 DeepRockGalactic
+deepseacreatures
 DeepSpaceNine
 defi
 deftones
@@ -1271,6 +1280,7 @@ DilettaLeotta
 Dimension20
 DINgore
 Dinosaurs
+dioramas
 DiretoDoZapZap
 discgolf
 DiscoElysium
@@ -1367,6 +1377,7 @@ dreamsmp
 Dreamtheater
 DreamWasTaken2
 DrewGooden
+Drifting
 dril
 Drizzy
 drones
@@ -2225,6 +2236,7 @@ IndieDev
 indiegames
 IndieGaming
 indieheads
+indieheadscirclejerk
 indonesia
 IndoorGarden
 INDYCAR
@@ -2327,6 +2339,7 @@ jerma985
 jerseycity
 jerseyshore
 jessicaalba
+jesuschristouija
 jeuxvideo
 Jewdank
 jewelrymaking
@@ -2485,6 +2498,7 @@ LandlordLove
 LandoftheLustrous
 landscaping
 languagelearning
+languagelearningjerk
 LaStalla
 lastimages
 lastpodcastontheleft
@@ -2523,6 +2537,7 @@ legalcatadvice
 legendofkorra
 LegendsOfRuneterra
 lego
+legomeme
 legostarwars
 legostarwarsmemes
 LegoStarWarsVideoGame
@@ -2859,6 +2874,7 @@ missbricosplay
 missouri
 Mistborn
 MitchellAndWebb
+mitski
 Mizkif
 MkeBucks
 mlb
@@ -3011,6 +3027,7 @@ neckbeardRPG
 necromunda
 Necrontyr
 needforspeed
+Needlefelting
 neekolul
 NelliesNest
 NeonGenesisEvangelion
@@ -3155,6 +3172,7 @@ OceansAreFuckingLit
 octopathtraveler
 oculus
 OculusQuest
+oddlymesmerizing
 oddlysatisfying
 oddlyspecific
 oddlyterrifying
@@ -3637,6 +3655,7 @@ ReevesBatmanmemes
 regretfulparents
 regularcarreviews
 regularshow
+ReiAyanami
 RelationshipMemes
 religiousfruitcake
 reloading
@@ -3737,6 +3756,7 @@ sadcats
 sadcringe
 Sadiesink
 sadposting
+SafelyEndangered
 sailing
 SailorMood
 sailormoon
@@ -3753,6 +3773,7 @@ saltierthancrait
 saltierthankrayt
 SaltLakeCity
 SaltsAnime
+Samadhi_Zendejas
 SamayRaina
 SamONellaAcademy
 samoyeds
@@ -4014,6 +4035,7 @@ spacex
 SpaceXLounge
 SpaceXMasterrace
 spain
+SpecArt
 specializedtools
 SpecialSnowflake
 SpecOpsArchive
@@ -4125,6 +4147,7 @@ StrangerThingsMemes
 Strava
 stray
 straykids
+streetart
 streeteats
 StreetFighter
 StreetMartialArts
@@ -4295,6 +4318,7 @@ The_Leftorium
 The_Mueller
 THE_PACK
 theadamfriedlandshow
+TheAdventureZone
 TheAstraMilitarum
 TheBatmanFilm
 TheBidenshitshow
@@ -4588,6 +4612,7 @@ UpliftingNews
 UpvoteBecauseButt
 urbanexploration
 UrbanHell
+urbanplanning
 uselessredcircle
 UsernameChecksOut
 USMC
@@ -4831,6 +4856,7 @@ wortwitzkasse
 WoT
 WouldYouRather
 wow
+WoWs_Legends
 wowthanksimcured
 Wrasslin
 wrestling
