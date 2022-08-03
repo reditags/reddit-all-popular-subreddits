@@ -1781,6 +1781,7 @@ godot
 godtiersuperpowers
 GODZILLA
 goldenretrievers
+GoldenSun
 golf
 GolfGTI
 GoNets
@@ -2269,6 +2270,7 @@ justa
 JustCause
 justforsocialmedia
 Justfuckmyshitup
+JustGuysBeingDudes
 JusticeForJohnnyDepp
 JusticePorn
 JusticeServed
@@ -2415,6 +2417,7 @@ lebowski
 ledzeppelin
 Leeds
 LeedsUnited
+leetcode
 left_urbanism
 LeftistGamersUnion
 LegalAdviceUK
@@ -3690,6 +3693,7 @@ serbiancringe
 serialkillers
 seriouseats
 Serverlife
+service_dogs
 seventeen
 SeveranceAppleTVPlus
 sewing
@@ -3964,6 +3968,7 @@ Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
 StoppedWorking
+stormchasing
 Stormlight_Archive
 straightenedfeetsies
 StraightsBeingOK
@@ -4038,6 +4043,7 @@ SympatheticMonsters
 synthesizers
 sysadmin
 systemofadown
+SystemsCringe
 TabbyCats
 tacobell
 Tacoma
@@ -4699,6 +4705,7 @@ YAlit
 yandere
 YanfeiMains
 YarnAddicts
+yayfoxxo
 yeat_
 yeezys
 Yeji
