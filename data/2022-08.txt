@@ -170,6 +170,7 @@ AllCryptoBets
 AlternateAngles
 AlternateHistory
 alternativeart
+AlternativeHistory
 AlzheimersGroup
 Alzwards_Corner
 AmateurRoomPorn
@@ -721,6 +722,7 @@ BravoTopChef
 Brawlhalla
 Brawlstars
 Breadit
+BreadStapledToTrees
 BreadTube
 breakingbad
 breakingbadmemes
@@ -924,6 +926,7 @@ chemicalreactiongifs
 chemistry
 chemistrymemes
 Chennai
+chernobyl
 chess
 chessbeginners
 chessmemes
@@ -1484,6 +1487,7 @@ DrStone
 Drueandgabe
 drugmemes
 Drugs
+drugstoreMUA
 drumcorps
 drums
 drunk
@@ -1704,6 +1708,7 @@ ffxiv
 FFXIVGlamours
 FFXV
 Fibromyalgia
+FierceFlow
 FIFA
 FifaCareers
 FiftyFifty
@@ -2106,6 +2111,7 @@ HandfulOfKitten
 handholding
 HandOfMemes
 handtools
+Handwriting
 HannibalTV
 happy
 happycowgifs
@@ -2492,6 +2498,7 @@ JackSucksAtLife
 jaidenanimations
 jakertown
 JamesHoffmann
+JamesTurnerYT
 jameswebb
 jameswebbdiscoveries
 January6
@@ -2674,6 +2681,7 @@ Kurisutina
 kurtisconner
 Kurumi
 kurzgesagt
+KusanaliMains
 KUWTKsnark
 l4d2
 LabourUK
@@ -3132,6 +3140,7 @@ MoonKnight
 Moonmoon
 Moonshotcoins
 morbidlybeautiful
+morbidquestions
 Morbius
 MordekaiserMains
 Mordhau
@@ -3414,6 +3423,7 @@ obeyme
 ObiWanKenobiMemes
 oblivion
 ObviousPlant
+oceans
 OceansAreFuckingLit
 octopathtraveler
 oculus
@@ -3708,6 +3718,7 @@ PlaytoEarnNFT
 Plumbing
 PlusSize
 pocketpussy
+Poem_for_your_sprog
 Poetry
 pointlesslygendered
 PointlessStories
@@ -3761,6 +3772,7 @@ PORTUGALCARALHO
 PORTUGALCYKABLYAT
 portugueses
 Possums
+postprocessing
 POTCmemes
 pottedcats
 Pottery
@@ -3839,6 +3851,7 @@ Purdue
 Purrito
 purrkour
 pussypassdenied
+PuzzleAndDragons
 PvZGardenWarfare
 PvZHeroes
 pykemains
@@ -3888,6 +3901,7 @@ RatchetAndClank
 Ratorix
 RATS
 ravens
+RBI
 rct
 RDR2
 Re_Zero
@@ -4278,6 +4292,7 @@ SlavaUkrayini
 slaythespire
 slimerancher
 Slipknot
+sloths
 Slovakia
 Slovenia
 slowcooking
@@ -4324,6 +4339,7 @@ SonyAlpha
 SOSStock
 SoulKnight
 SoulSnacks
+SoundsLikeMusic
 Sourdough
 sousvide
 southafrica
@@ -4336,6 +4352,7 @@ spaceengineers
 spacefrogs
 Spacegirls
 spaceporn
+SpaceWolves
 spacex
 SpaceXLounge
 SpaceXMasterrace
@@ -4524,6 +4541,7 @@ swordartonline
 SWORDS
 SwordsComic
 swtor
+SWTOR_memes
 sydney
 sylt51
 SympatheticMonsters
@@ -4984,6 +5002,7 @@ VALORANT
 ValorantCompetitive
 ValorantMemes
 ValveIndex
+VampireSurvivors
 vancouver
 vancouverwa
 vandwellers
@@ -5131,6 +5150,7 @@ westworld
 WetlanderHumor
 wewantcups
 WeWantPlates
+whatcarshouldIbuy
 whatcouldgoright
 Whatcouldgowrong
 whatintarnation
