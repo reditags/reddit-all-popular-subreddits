@@ -234,6 +234,7 @@ AnimalsBeingMoms
 AnimalsBeingStrange
 animalsdoingstuff
 animalslookingatfood
+AnimalsMonching
 AnimalTextGifs
 animation
 anime_irl
@@ -395,6 +396,7 @@ ATLA
 Atlanta
 AtlantaHawks
 AtlantaTV
+ATLAverse
 atrioc
 attackeyes
 attackontitan
@@ -490,6 +492,7 @@ bartenders
 baseball
 baseballcards
 baseballcirclejerk
+basketballcards
 Bass
 bassfishing
 BassGuitar
@@ -1206,6 +1209,7 @@ custommagic
 cute
 CuteButHorrifying
 Cutedogsreddit
+cutegayshit
 cuteguys
 cuteguyswithcats
 CutestOfThemAll
@@ -2532,6 +2536,7 @@ jackrussellterrier
 JacksFilms
 jacksonville
 JackSucksAtLife
+Jaguars
 jaidenanimations
 jakertown
 JamesHoffmann
@@ -2619,6 +2624,7 @@ kaisamains
 kaiserredux
 Kaiserreich
 KaIT
+Kakegurui
 kaleycuoco
 KamenRider
 KamikazeByWords
@@ -2803,6 +2809,7 @@ Letterboxd
 Letterkenny
 lewishamilton
 lewronggeneration
+Lexus
 lgballt
 lgbt
 lgbthistory
@@ -2852,6 +2859,7 @@ LivMorgan
 lmao
 LMDShow
 loadingicon
+local58
 LockdownSkepticism
 lockpicking
 LodedDiper
@@ -3224,6 +3232,7 @@ MovieMistakes
 MoviePosterPorn
 movies
 Moviesinthemaking
+mrballen
 MrFruit
 MrJoeNobody
 mrlovenstein
@@ -5142,6 +5151,7 @@ VintageLadyBoners
 vinyl
 VinylMePlease
 VioletEvergarden
+ViralFun
 Virginia
 virginvschad
 virtualreality
