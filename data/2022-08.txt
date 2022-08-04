@@ -473,6 +473,7 @@ ballpython
 BananasForScale
 BancaDelMeme
 bangalore
+BanGDream
 bangtan
 Bannerlord
 BanPitBulls
@@ -480,6 +481,7 @@ BanVideoGames
 baomitv
 BarbaraPalvin
 BarbaraWalters4Scale
+barexam
 Barotrauma
 Barry
 Barstoolboners2
@@ -511,6 +513,7 @@ battlewagon
 bayarea
 Bayonetta
 BBBY
+BBIG
 BBQ
 BeachCity
 beadsprites
@@ -1220,6 +1223,7 @@ Dachschaden
 Dachshund
 dadjokes
 DadReflexes
+dadswhodidnotwantpets
 DaftPunk
 dahyun
 DaisyRidley
@@ -1343,6 +1347,7 @@ DenverCirclejerk
 DenzelCurry
 DeppDelusion
 depression_memes
+DepthHub
 DerScheisser
 desabafos
 Design
@@ -1617,6 +1622,7 @@ Entomology
 entwives
 EpicMounts
 EpicSeven
+equelMemes
 equestriaatwar
 Equestrian
 Eragon
@@ -1783,6 +1789,7 @@ FloridaCoronavirus
 FloridaMan
 FlorkofCowsOfficial
 flowers
+Flyers
 flyfishing
 flying
 fnki
@@ -2662,6 +2669,7 @@ KidsAreFuckingEvil
 KidsAreFuckingStupid
 KiernanShipka
 killedthecameraman
+KillingEve
 KillLaKill
 killsixbilliondemons
 killteam
@@ -3059,6 +3067,7 @@ Metroid
 mew_irl
 mexico
 MexicoFinanciero
+Mexicowave
 mfdoom
 MHGU
 MHRise
@@ -3191,6 +3200,7 @@ Mordhau
 morenabaccarin
 moreplatesmoredates
 MoreTankie196
+MorganVera
 Morrowind
 MortalKombat
 Moscow
@@ -3303,6 +3313,7 @@ NBA2k
 nbacirclejerk
 nbadiscussion
 Nbamemes
+NBASpurs
 NBAYoungboy
 NCAAFBseries
 NdFlex
@@ -4011,6 +4022,7 @@ remoteplaces
 Reno
 Repaintings
 repbudgetsneakers
+replications
 Repsneakers
 reptiles
 RepTime
@@ -4052,6 +4064,7 @@ robbersgettingfucked
 ROBLOXmemes
 robotics
 Rochester
+rock
 RocketLeague
 RocketLeagueEsports
 rocketry
@@ -4428,6 +4441,7 @@ SpeedOfLobsters
 speedrun
 sphynx
 SpicyKittens
+spicypillows
 spiderbro
 Spiderman
 SpidermanPS4
@@ -4975,6 +4989,7 @@ TwoSentenceSadness
 TwoXChromosomes
 TwoXIndia
 twrmod
+tyingherhairup
 tylerthecreator
 typemoon
 Tyranids
