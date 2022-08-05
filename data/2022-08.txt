@@ -102,6 +102,7 @@ ACMilan
 acne
 acotar
 ACPocketCamp
+ACQR
 ActionFigures
 ActivationSound
 ActLikeYouBelong
@@ -338,6 +339,7 @@ arcticmonkeys
 arduino
 Argaming
 argentina
+Argnime
 ArianaGrande
 arielwinter
 AriFletcherV2
@@ -941,6 +943,7 @@ CelebrityFeet
 celebritylegs
 CelebsPH
 celestegame
+celestememes
 CelestialBodies
 cellbits
 CelsiusNetwork
@@ -1114,6 +1117,7 @@ confessions
 confidentlyincorrect
 confusing_perspective
 confusingperspective
+CongratsLikeImFive
 Connecticut
 Conservative
 ConservativeMemes
@@ -1303,6 +1307,7 @@ DanTDM
 dao
 Daredevil
 DarkAcademia
+DarkBRANDON
 darkestdungeon
 DarkGothicArt
 Darkhumorandjokes
@@ -1762,6 +1767,7 @@ FantasyPL
 FanTheories
 farcry
 farialimabets
+FarmersStealingTanks
 farming
 farmingsimulator
 fashionhistory
@@ -1773,6 +1779,7 @@ FastWorkers
 fatestaynight
 FatuiHQ
 fcbayern
+FCCincinnati
 FCInterMilan
 feedthebeast
 feedthememes
@@ -2001,6 +2008,7 @@ gamecollecting
 Gamecube
 gamedev
 gamegrumps
+Gamemeneersubmissies
 gameofthrones
 GamePhysics
 gamernews
@@ -2585,6 +2593,7 @@ Iowa
 ipad
 iphone
 iPhoneography
+iRacing
 ireland
 IronFrontUSA
 ironicsigns
@@ -3493,6 +3502,7 @@ nextfuckinglevel
 NFA
 NFCEastMemeWar
 NFCNorthMemeWar
+NFCWestMemeWar
 nflmemes
 NFT
 NFTsMarketplace
@@ -4582,6 +4592,7 @@ SonyAlpha
 SOSStock
 SoulKnight
 SoulSnacks
+SoulsSliders
 SoundsLikeMusic
 Sourdough
 sousvide
@@ -5243,6 +5254,7 @@ UnexpectedThugLife
 UnexplainedPhotos
 Unextexted
 union
+unionsolidarity
 unitedkingdom
 unitedstatesofindia
 Unity2D
@@ -5402,6 +5414,7 @@ WatchDogsWoofInside
 watcherentertainment
 Watches
 Watchexchange
+Watchmen
 WatchPeopleDieInside
 watchpeoplesurvive
 watchplantsgrow
@@ -5615,6 +5628,7 @@ youdontmattergiveup
 youdontsurf
 YoujoSenki
 youngjustice
+youngpeoplereddit
 youngpeopleyoutube
 YourJokeButWorse
 yourmomshousepodcast
