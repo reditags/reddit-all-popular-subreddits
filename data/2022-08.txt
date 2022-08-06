@@ -648,6 +648,7 @@ Birbs
 birding
 BirdsArentReal
 BirdsForScale
+birdstakingthetrain
 birdswitharms
 BisexualFrogs
 bisexualmemes
@@ -1734,6 +1735,7 @@ EscapefromTarkov
 esist
 espresso
 ethereum
+ethfinance
 ethoslab
 eu4
 eu_nvr
@@ -1862,6 +1864,7 @@ FinancialCareers
 financialindependence
 Finanzen
 findfashion
+FindTheSniper
 FingMemes
 Finland
 Fire
@@ -2150,6 +2153,7 @@ GirlsSoccer
 GirlsUndShitposts
 girlswithbigmuscles
 GirlsWithHugePussies
+Gittertiere
 givemeinteligens
 glasgow
 Glitch_in_the_Matrix
@@ -2650,6 +2654,7 @@ introvertmemes
 inuyasha
 Invincible
 Invisalign
+ios
 iOSBeta
 Iowa
 ipad
@@ -5125,6 +5130,7 @@ thisismylifenow
 ThisLooksFun
 ThisYouComebacks
 thomastheplankengine
+Thorgasm
 ThotBeatdowns
 ThousandSons
 ThriftGrift
@@ -5373,6 +5379,7 @@ unpopularopinion
 unrealengine
 UnresolvedMysteries
 UnsentLetters
+UnsolvedMysteries
 unstirredpaint
 unsw
 untrustworthypoptarts
