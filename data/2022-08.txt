@@ -1140,6 +1140,7 @@ CombatFootage
 combinedgifs
 comedy
 comedyamputation
+ComedyArchaeology
 comedybangbang
 ComedyCemetery
 comedydamnation
@@ -2186,6 +2187,7 @@ gifsthatendtoosoon
 gifsthatkeepongiving
 GillianJacobs
 gingercats
+gingerkitty
 Gintama
 Giraffesdontexist
 girlsfrontline
@@ -2216,6 +2218,7 @@ GodofWar
 godot
 godtiersuperpowers
 GODZILLA
+gojira
 Goldendoodles
 goldenretrievers
 GoldenSun
@@ -3262,6 +3265,7 @@ MassEffectMemes
 massivefangs
 masterduel
 masterhacker
+Mastiff
 MathJokes
 mathmemes
 matrix
@@ -3291,6 +3295,7 @@ meatcrayon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
+mechmarket
 MedicalGore
 MedievalCats
 medievaldoctor
@@ -4992,6 +4997,7 @@ suspiciouslyspecific
 suspiciousquotes
 sustainability
 svenskpolitik
+SVU
 SwainMains
 SWARJE
 SweatyPalms
@@ -5787,6 +5793,7 @@ worldnewsvideo
 WorldofTanks
 WorldOfWarships
 WorldWar2
+WormMemes
 wortwitzkasse
 WoT
 WouldYouRather
