@@ -1045,6 +1045,7 @@ ChildrenFallingOver
 chile
 China_irl
 ChinaWarns
+chinchilla
 ChineseLanguage
 Chinesium
 Chiraqology
@@ -1161,6 +1162,7 @@ CommunismMemes
 community
 CompanyOfHeroes
 CompetitiveApex
+CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
 CompetitiveWoW
@@ -1769,6 +1771,7 @@ espresso
 ethereum
 ethfinance
 ethoslab
+etymology
 eu4
 eu_nvr
 Eugene
@@ -2843,6 +2846,7 @@ Juve
 k_on
 kaamelott
 KaeyaMains
+KaguyaShinomiya
 KaijuNo8
 kaisamains
 kaiserredux
@@ -2880,6 +2884,7 @@ KeanuBeingAwesome
 Keep_Track
 Kehlani
 keming
+kencarson
 kendalljenner
 Kengan_Ashura
 KenM
@@ -2901,6 +2906,7 @@ KidCudi
 Kiddions
 KidsAreFuckingEvil
 KidsAreFuckingStupid
+kidsinthehall
 KiernanShipka
 killedthecameraman
 KillingEve
@@ -3231,6 +3237,7 @@ MandirGang
 MandJTV
 MandyRose
 MangaCollectors
+mangafr
 manganews
 manhwa
 ManufacturingPorn
@@ -3261,6 +3268,7 @@ MaryElizabethWinstead
 maryland
 massachusetts
 masseffect
+MassEffectAndromeda
 MassEffectMemes
 massivefangs
 masterduel
@@ -4561,6 +4569,7 @@ ScritchTheDamnBird
 Scrubs
 scrungycats
 scuba
+SDSGrandCross
 seals
 Seaofthieves
 seashanties
@@ -5049,6 +5058,7 @@ TampaBayLightning
 tampabayrays
 tankiejerk
 TankPorn
+tanks
 TanmayBhatKeDost
 taoism
 tarantulas
