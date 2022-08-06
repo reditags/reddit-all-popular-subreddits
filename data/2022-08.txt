@@ -500,6 +500,7 @@ BadChoicesGoodStories
 BadDesigns
 Badfaketexts
 badfriendspod
+badlinguistics
 BadMtgCombos
 BadMUAs
 BadReads
@@ -637,6 +638,7 @@ BingeEatingDisorder
 bingingwithbabish
 BinIchDasArschloch
 biology
+biologymemes
 bioniclelego
 bioniclememes
 Bioshock
@@ -804,6 +806,7 @@ BritishSuccess
 brittanydawnsnark
 Broadway
 Brochet
+brockhampton
 Brogress
 Brooklyn
 brooklynninenine
@@ -2506,6 +2509,7 @@ illinois
 illnessfakers
 Illustration
 Illyasviel
+ILoveAMamasBoy
 im14andthisisdeep
 Im15AndThisIsYeet
 ImaginaryArchitecture
