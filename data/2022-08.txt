@@ -1058,6 +1058,7 @@ ChurchofLazlo
 ChurchofMaiSakurajima
 ChurchofMarnie
 ChurchOfSenko
+churchofskadi
 chuunibyou
 CICO
 cigars
@@ -1846,6 +1847,7 @@ FatuiHQ
 fcbayern
 FCCincinnati
 FCInterMilan
+fednews
 feedthebeast
 feedthememes
 feemagers
@@ -3154,6 +3156,7 @@ MAAU
 mac
 macbookpro
 MachikadoMazoku
+MachineLearning
 MachinePorn
 Machinists
 MacMiller
@@ -3538,6 +3541,7 @@ NameNerdCirclejerk
 namenerds
 namethatcar
 NamFlashbacks
+NanashiMumei
 NanatsunoTaizai
 NANIKPosting
 Nanny
@@ -4274,6 +4278,7 @@ RDR2
 Re_Zero
 reactiongifs
 reactivedogs
+reactjs
 readanotherbook
 ReadyOrNotGame
 real_China_irl
@@ -4815,6 +4820,7 @@ SS13
 SSBM
 sskfjkhwerjkghwerijh
 ssunbiki
+Stadia
 StainedGlass
 stalker
 StallmanWasRight
@@ -4998,6 +5004,7 @@ TalesFromTheFrontDesk
 TalesFromYourServer
 talk_hunfluencers
 tall
+tallyhall
 TameImpala
 TamilNadu
 tampa
@@ -5758,6 +5765,7 @@ WTF
 WTFaucet
 WTFgaragesale
 wtfstockphotos
+WTFwish
 WtWFotMJaJtRAtCaB
 ww2
 ww2memes
