@@ -388,6 +388,7 @@ Art
 ArtDeco
 ArtefactPorn
 ArtisanVideos
+ArtNouveau
 ArtOfRolling
 ArtPorn
 asaprocky
@@ -595,6 +596,7 @@ BeautifulIndianWomen
 BeautyGuruChatter
 BeavisAndButthead
 beberexha
+beeandpuppycat
 beebutts
 Beekeeping
 BeelcitosMemes
@@ -853,6 +855,7 @@ buffalobills
 buffy
 buildapc
 buildapcsales
+bujo
 bulbasaurmasterrace
 bulgaria
 bullcity
@@ -1662,6 +1665,7 @@ dryalcoholics
 drydockporn
 dsa
 dualipa
+Dualsport
 dubai
 Dublin
 duck
@@ -5095,6 +5099,7 @@ TalesFromRetail
 talesfromtechsupport
 TalesFromTheCustomer
 TalesFromTheFrontDesk
+TalesFromThePharmacy
 TalesFromYourServer
 talk_hunfluencers
 tall
@@ -5215,6 +5220,7 @@ TheCloneWars
 TheCuddlePuddle
 TheCycleFrontier
 TheDarkTower
+thedavidpakmanshow
 TheDeprogram
 TheDepthsBelow
 thedivision
@@ -5864,6 +5870,7 @@ WoWs_Legends
 wowthanksimcured
 Wrasslin
 WRC
+WrenEleanor
 wrestling
 writers
 writing
