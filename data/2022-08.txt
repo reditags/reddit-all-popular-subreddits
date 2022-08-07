@@ -1433,6 +1433,7 @@ dataanalysis
 DataHoarder
 dataisbeautiful
 dataisugly
+datamoshing
 datascience
 datealive
 dating
@@ -1820,6 +1821,7 @@ es
 EscapefromTarkov
 esist
 espresso
+estoration
 ethereum
 ethfinance
 ethoslab
@@ -2354,6 +2356,7 @@ GuiltyDogs
 Guiltygear
 guineapigs
 Guitar
+GuitarAmps
 guitarcirclejerk
 guitarlessons
 guitarporn
@@ -2417,6 +2420,7 @@ hardstyle
 hardware
 hardwaregore
 Harley
+HarleyQuinn
 HarleyQuinnTV
 Harpo
 harrypotter
@@ -5346,6 +5350,7 @@ thelastofus
 thelastpsychiatrist
 TheLeftCantMeme
 TheLetterH
+TheLib
 thelongdark
 TheMagnusArchives
 TheMajorityReport
@@ -5809,6 +5814,7 @@ Warhammer30k
 Warhammer40k
 WarhammerCompetitive
 WarhammerFantasy
+warhammerfantasyrpg
 WarplanePorn
 WarriorCats
 warriors
