@@ -1463,6 +1463,7 @@ dating
 datingoverthirty
 Datsun
 davao
+Davie504
 DaysGone
 Daytrading
 dayz
@@ -1908,6 +1909,7 @@ facebookwins
 facehugs
 facepalm
 Faces
+facingtheirparenting
 factorio
 Factoriohno
 Fahrrad
@@ -2219,6 +2221,7 @@ Gamingcirclejerk
 GamingDetails
 GamingLaptops
 GamingLeaksAndRumours
+gamingpc
 gangplankmains
 gangstaswithwaifus
 gank
@@ -4309,6 +4312,7 @@ PlaytoEarnNFT
 PLC
 PleX
 PLLOriginalSin
+PLTR
 Plumbing
 PlusSize
 pocketpussy
@@ -4556,6 +4560,7 @@ reddeadredemption2
 reddevils
 reddit
 RedditLaqueristas
+redditsings
 redditsync
 RedditWritesSeinfeld
 RedDwarf
@@ -5400,6 +5405,7 @@ THE_PACK
 theadamfriedlandshow
 TheAdventureZone
 TheAstraMilitarum
+thebadbatch
 TheBatmanFilm
 TheBear
 TheBidenshitshow
@@ -5424,6 +5430,7 @@ TheDepthsBelow
 thedivision
 TheDollop
 TheDragonPrince
+TheEricAndreShow
 TheExpanse
 TheFence
 thefighterandthekid
@@ -5524,6 +5531,7 @@ TikTokCringe
 tiktokcringemoment
 TikTokSeeThrough
 TILI
+tiltshift
 timbers
 timberwolves
 TimDillon
@@ -5852,6 +5860,7 @@ VinlandSaga
 vintage
 vintageads
 VintageApple
+vintagecomputing
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
@@ -6048,6 +6057,7 @@ wismichu
 Witch
 witcher
 Witcher3
+WitcherMemes
 WitchesVsPatriarchy
 WithoutThePunchline
 Wizard101
@@ -6068,6 +6078,7 @@ woosh
 wordington
 Workbenches
 workchronicles
+Workers_And_Resources
 WorkersStrikeBack
 WorkOnline
 WorkReform
