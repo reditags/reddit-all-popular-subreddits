@@ -435,6 +435,7 @@ asktransgender
 AskUK
 Asmongold
 asoiaf
+asoiafcirclejerk
 aspergers
 ASRoma
 assassinscreed
@@ -1372,6 +1373,7 @@ Cuphead
 CuratedTumblr
 curb
 curledfeetsies
+Cursed_Images
 cursed_videomemes
 cursedcomments
 cursedcursedcomments
@@ -1554,6 +1556,7 @@ DerScheisser
 desabafos
 Design
 DesignDesign
+DesignMyRoom
 DesignPorn
 desimemes
 DesiMeta
@@ -2371,6 +2374,7 @@ GothamKnights
 Gothenburg
 GothGirls
 GothStyle
+GradualChaos
 Graffiti
 Granblue_en
 GrandBlue
@@ -2552,11 +2556,13 @@ hmmmgifs
 Hobbit_Memes
 HobbyDrama
 hockey
+hockeyjerseys
 hockeymemes
 hockeyplayers
 hoggit
 hoi4
 hoi4modding
+holdmybeaker
 holdmycatnip
 holdmycosmo
 holdmyfeedingtube
@@ -2582,6 +2588,7 @@ homegym
 HomeImprovement
 HomeKit
 homelab
+HomeNetworking
 homestead
 Homesteading
 homestuck
@@ -2674,6 +2681,7 @@ ichbin40undlustig
 ico
 IdentityV
 ididnthaveeggs
+ididthejobboss
 IdiotsFightingThings
 IdiotsInBoats
 IdiotsInCars
@@ -3561,6 +3569,7 @@ MHGU
 MHRise
 Miami
 miamidolphins
+MiaSand
 Miata
 MichaelReeves
 Michigan
@@ -3615,6 +3624,7 @@ Minecraft
 Minecraftbuilds
 MinecraftChampionship
 MinecraftCommands
+MinecraftDungeons
 Minecrafthmmm
 MinecraftMemes
 minecraftseeds
@@ -4956,6 +4966,7 @@ shittysuperpowers
 shittytattoos
 shittytechnicals
 ShittyVeganFoodPorn
+shittywoodworking
 ShitWehraboosSay
 shockwaveporn
 shoegaze
@@ -6027,6 +6038,7 @@ WeirdWings
 WelcomeToPlathville
 Welding
 Wellington
+WellTextSucks
 Wellthatsucks
 Wellworn
 wendigoon
