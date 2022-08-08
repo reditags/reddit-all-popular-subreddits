@@ -291,6 +291,7 @@ AnimeFunny
 animegifs
 AnimeHoodies
 animehotbeverages
+AnimeInOurWorld
 animemaids
 AnimeMeme
 animememes
@@ -786,6 +787,7 @@ books
 bookshelf
 Boomerhumour
 BoomersBeingFools
+BoomtownFestival
 boottoobig
 borbs
 BorderCollie
@@ -1112,6 +1114,7 @@ ChurchofMaiSakurajima
 ChurchofMarnie
 ChurchOfSenko
 churchofskadi
+chutyapa
 chuunibyou
 CICO
 cigars
@@ -1669,6 +1672,7 @@ doodoofard
 doommetal
 doordash
 doordash_drivers
+dopehumor
 Dorohedoro
 DotA2
 dotnet
@@ -3341,6 +3345,7 @@ madnesscombat
 MadokaMagica
 Madrid
 MafiaTheGame
+MAFS_AU
 MagicArena
 magicbuilding
 MagicEye
@@ -3645,6 +3650,7 @@ morenabaccarin
 moreplatesmoredates
 MoreTankie196
 MorganVera
+MoriCalliope
 Morrowind
 MortalKombat
 Moscow
@@ -3788,6 +3794,7 @@ neekomains
 NelliesNest
 NeonGenesisEvangelion
 neopets
+neovim
 Nepal
 Nerf
 nervysquervies
