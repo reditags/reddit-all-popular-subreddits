@@ -649,6 +649,7 @@ bestoflegaladvice
 BestofRedditorUpdates
 BestOfReports
 bestoftheinternet
+BethesdaSoftworks
 bettafish
 betterCallSaul
 BetterEveryLoop
@@ -1272,6 +1273,7 @@ cosplayers
 cosplayprops
 Costco
 cottagecore
+counterstrike
 CountOnceADay
 countryball_memes
 CourtneyMiller
@@ -3151,6 +3153,7 @@ LeaguesofVotann
 LeaksDBD
 LeaMartinez
 leanbeefpatty
+leanfire
 LearmannTwins
 learningtocat
 LearnJapanese
@@ -3168,6 +3171,7 @@ LeedsUnited
 leetcode
 left_urbanism
 LeftistGamersUnion
+leftistvexillology
 LegalAdviceUK
 legalcatadvice
 legendofkorra
@@ -4447,6 +4451,7 @@ puppy101
 PuppyBellies
 PuppySmiles
 Purdue
+PurplePillDebate
 Purrito
 purrkour
 pussypassdenied
@@ -4689,6 +4694,7 @@ SadHorseShow
 Sadiesink
 sadposting
 SafelyEndangered
+SafeMoon
 sailing
 SailorMood
 sailormoon
@@ -4803,6 +4809,7 @@ selfhosted
 selfie
 selfimprovement
 SellingSunset
+Semenretention
 sendinthetanks
 seniorkitties
 SequelMemes
@@ -5221,6 +5228,7 @@ Superstonk
 superstore
 SuperStructures
 supportlol
+surdev
 surrealmemes
 SurreyBC
 Surveying
