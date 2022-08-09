@@ -143,6 +143,7 @@ AdviceAnimals
 aeiou
 Aespa
 aesthetic
+aestheticrain
 Aether_Mains
 AEWOfficial
 afkarena
@@ -551,6 +552,7 @@ BadDesigns
 Badfaketexts
 badfriendspod
 badlinguistics
+badmathematics
 BadMtgCombos
 BadMUAs
 BadReads
@@ -1093,6 +1095,7 @@ Chargers
 chargetheyphone
 ChargeYourPhone
 Charlotte
+chats
 Cheese
 CheetoTheCat
 chefknives
@@ -2428,6 +2431,7 @@ grandrapids
 GrandTheftAutoV
 granturismo
 graphic_design
+graphicnovels
 Grapplerbaki
 gratefuldead
 gratefuldoe
@@ -5412,6 +5416,7 @@ sweden
 swedishproblems
 SWGalaxyOfHeroes
 Swimming
+Switch
 Switzerland
 SWlegion
 swoletariat
