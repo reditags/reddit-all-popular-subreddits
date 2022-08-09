@@ -2436,6 +2436,7 @@ GroundedGame
 GrowingMarijuana
 GTA
 GTA6
+GTAGE
 gtaonline
 GTAorRussia
 GTAV
@@ -3121,6 +3122,7 @@ KidsAreFuckingEvil
 KidsAreFuckingStupid
 kidsinthehall
 KiernanShipka
+kilian
 killedthecameraman
 KillingEve
 KillLaKill
@@ -5598,6 +5600,7 @@ TheSimpsons
 thesims
 TheSimsBuilding
 thesopranos
+thestonearmy
 TheStrokes
 TheTempleOfOchako
 thethickofit
