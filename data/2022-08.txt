@@ -902,6 +902,7 @@ buildapcsales
 bujo
 bulbasaurmasterrace
 bulgaria
+BulkOrCut
 bullcity
 Bulldogs
 bulletjournal
@@ -913,6 +914,7 @@ buncomfortable
 BungouStrayDogs
 Bunnies
 burdurland
+BurgerKing
 burgers
 Buttcoin
 BuyItForLife
@@ -1082,6 +1084,7 @@ characterdrawing
 CharacterRant
 Chargers
 chargetheyphone
+ChargeYourPhone
 Charlotte
 Cheese
 CheetoTheCat
@@ -2997,6 +3000,7 @@ jobs
 JoeBiden
 JoeRogan
 JoeyKing
+JohnMayer
 joinsquad
 Joji
 Jojo
@@ -3004,6 +3008,7 @@ JoJoMemes
 Jokes
 JonTron
 JordanPeterson
+JoshuaTree
 Journaling
 jovemnerd
 jpegmafia
@@ -4852,6 +4857,7 @@ sbeve
 sbubby_NL
 scambait
 Scams
+scamthescalpers
 ScandinavianInterior
 ScaramoucheMains
 ScarySigns
@@ -4946,6 +4952,7 @@ Shark_Park
 sharks
 sharpcutting
 sharpening
+SheGotHands
 Shen
 ShenheMains
 sheranetflix
@@ -5153,6 +5160,7 @@ spacex
 SpaceXLounge
 SpaceXMasterrace
 spain
+Spanish
 SpecArt
 specializedtools
 SpecialSnowflake
