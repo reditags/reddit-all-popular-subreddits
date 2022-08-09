@@ -456,6 +456,7 @@ AssassinsCreedValhala
 assettocorsa
 assholedesign
 assholetax
+astoria
 AstralProjection
 astrologymemes
 Astroneer
@@ -548,6 +549,7 @@ BackYardChickens
 Bad_Cop_No_Donut
 badassanimals
 BadChoicesGoodStories
+badcode
 BadDesigns
 Badfaketexts
 badfriendspod
@@ -1529,6 +1531,7 @@ deadcells
 deadmalls
 deadmeatjames
 DeadSpace
+DeathByMillennial
 Deathcore
 deathgrips
 deathguard40k
@@ -1669,6 +1672,7 @@ DiWHY
 DiWHYNOT
 DIY
 DMAcademy
+DMDadJokes
 DMT
 DnD
 DnDart
@@ -1999,6 +2003,7 @@ FashionReps
 fashionsouls
 fasting
 FastWorkers
+fatcats
 fatestaynight
 fatpeoplestories
 FatuiHQ
@@ -2452,6 +2457,7 @@ GriefSupport
 grilledcheese
 grilling
 Grimdank
+grime
 Grimes
 GriseldaxFR
 GroundedGame
@@ -3555,6 +3561,7 @@ Mavericks
 MawInstallation
 MayaHawke
 maybemaybemaybe
+maybemaybemaybemaybe
 MayDayStrike
 mazda
 MBMBAM
@@ -3604,6 +3611,7 @@ memeframe
 MemeFrancais
 MemeHunter
 memeingthroughtime
+MemeItaliani
 MemelordsWelcome
 MemePiece
 memes
@@ -4149,6 +4157,7 @@ okbuddyrathalos
 okbuddyreiner
 okbuddyvowsh
 okcopainattard
+okemakkermaloot
 okkamaraderetarde
 okkolegauposledzony
 oklahoma
@@ -4554,6 +4563,7 @@ programming
 programminghorror
 programminghumor
 ProgressionFantasy
+ProgressiveActivists
 progun
 Project_Wingman
 projectcar
@@ -4641,6 +4651,7 @@ rally
 ralsei
 ramen
 Rammstein
+Ranboo
 rance
 RandomThoughts
 rangers
@@ -5918,6 +5929,7 @@ UnexpectedMulaney
 unexpectedoffice
 unexpectedpawnee
 unexpectedsabaton
+UnexpectedSCP
 unexpectedskyrim
 UnexpectedThugLife
 UnexplainedPhotos
@@ -6042,6 +6054,7 @@ Virginia
 virginvschad
 virtualreality
 Visiblemending
+VisitingIceland
 vita
 VivaLaDirtLeague
 VocabWordOfTheDay
