@@ -417,6 +417,7 @@ aromantic
 aromanticasexual
 arresteddevelopment
 Arrowheads
+ArsenalFC
 Art
 ArtDeco
 ArtefactPorn
@@ -440,6 +441,7 @@ AskCulinary
 AskDocs
 AskEngineers
 AskHistorians
+AskMiddleEast
 AskNYC
 AskOuija
 AskReddit
@@ -1089,6 +1091,7 @@ CelebsPH
 celestegame
 celestememes
 CelestialBodies
+Celiac
 cellbits
 CelsiusNetwork
 CelticFC
@@ -1731,6 +1734,7 @@ dogpictures
 dogs
 dogs_getting_dogs
 DogsAndPlants
+dogsenjoyingnature
 dogslookingdown
 DogsMirin
 dogsonroofs
@@ -1866,6 +1870,7 @@ ekinde
 Eldar
 EldenBling
 Eldenring
+eldenringdiscussion
 ElderScrolls
 elderscrollsonline
 electricians
@@ -2562,6 +2567,7 @@ HaloCirclejerk
 haloinfinite
 HaloMemes
 Hamilton
+Hammers
 hammockcamping
 hamsters
 HandfulOfKitten
@@ -3229,6 +3235,7 @@ Kitting
 kittyhasaquestion
 KittyPupperLove
 KittyTailWrap
+KledMains
 KleeMains
 KneadyCats
 knifeclub
@@ -4394,6 +4401,7 @@ PeanutWhiskers
 pedale
 pelletgrills
 peloton
+pelotoncycle
 pelotonmemes
 penguins
 PenmanshipPorn
@@ -4705,6 +4713,7 @@ quotes
 QuotesPorn
 R6ProLeague
 Rabbits
+RachelMcAdams
 radiohead
 radioheadcirclejerk
 Radiology
@@ -5045,6 +5054,7 @@ Seiko
 seinfeld
 seinfeldgifs
 SeishunButaYarou
+seiyuu
 Sekiro
 SelenaGomez
 self
