@@ -167,6 +167,7 @@ AHomeForPlagueRats
 AhriMains
 AIDKE
 aigreentext
+Aikuros
 airplaneears
 airsoft
 airsoftcirclejerk
@@ -2997,6 +2998,7 @@ ios
 iOSBeta
 Iowa
 ipad
+iPadPro
 iphone
 iPhoneography
 iRacing
