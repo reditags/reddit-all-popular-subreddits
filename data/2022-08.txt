@@ -333,6 +333,7 @@ ANormalDayInRussia
 antiarbeit
 antiassholedesign
 Anticonsumption
+AntiFANG
 antifastonetoss
 antifeminists
 AntiJokes
@@ -2409,6 +2410,7 @@ givemeinteligens
 glasgow
 glassanimals
 glee
+glitch_art
 Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
@@ -2424,6 +2426,7 @@ GMEJungle
 gmod
 gnome
 goblincore
+GoblinSlayer
 GodDesigns
 GodofWar
 godot
@@ -2992,6 +2995,7 @@ Israel
 IsraelCrimes
 israelexposed
 IsTodayFridayThe13th
+ITAGLIA
 Italia
 italy
 italygames
