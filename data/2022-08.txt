@@ -620,6 +620,7 @@ bartenders
 baseball
 baseballcards
 baseballcirclejerk
+BasicIncome
 basketballcards
 Bass
 bassfishing
@@ -1244,6 +1245,7 @@ ClevelandGuardians
 clevercomebacks
 CLG
 climate
+ClimateActionPlan
 ClimateShitposting
 climbergirls
 climbing
@@ -2292,6 +2294,7 @@ FromPuppyToDog
 fromsoftware
 Frostpunk
 Frugal
+Frugal_Jerk
 frugalmalefashion
 Fruitbatcats
 FruitsBasket
@@ -3343,6 +3346,7 @@ kpopthoughts
 KrisCollins
 kristenbell
 kristenstewart
+KristinSmart
 krita
 ksi
 KSPMemes
