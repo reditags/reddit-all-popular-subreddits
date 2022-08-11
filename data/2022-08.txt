@@ -526,6 +526,7 @@ Austria
 autism
 AutismInWomen
 AutisticPride
+AutisticWithADHD
 autobloed
 AutoDetailing
 Autoflowers
@@ -1314,6 +1315,7 @@ CompetitiveWoW
 COMPLETEANARCHY
 composting
 compsci
+computers
 conan
 ConanBeingAwesome
 ConanExiles
@@ -2124,6 +2126,7 @@ FiftyFifty
 Fighters
 fightporn
 FightsGoneWildpt2
+fightsticks
 FigureSkating
 Filmmakers
 FilthyFrank
@@ -3495,6 +3498,7 @@ linux
 linux_gaming
 linuxmasterrace
 linuxmemes
+linuxmint
 listentothis
 lithuania
 LitterboxComics
@@ -6588,6 +6592,7 @@ yarntrolls
 yayfoxxo
 YDHBSnark
 yeat_
+Yedits
 yeezys
 Yeji
 YelanMains
