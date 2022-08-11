@@ -121,6 +121,7 @@ ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
 actuary
+AdamDriverCats
 Adelaide
 AdeptusCustodes
 AdeptusMechanicus
@@ -622,6 +623,7 @@ battlefield2042
 battlefield_4
 battlefield_one
 BattlefieldV
+BattleForDreamIsland
 BattleJackets
 battlemaps
 BattleNetwork
@@ -1200,6 +1202,7 @@ cirkeltrek
 CitiesSkylines
 CitizensClimateLobby
 CitrusManga
+citypop
 CityPorn
 civ
 civ5
@@ -2810,6 +2813,7 @@ IceCreamWaifu
 ich_iel
 ichbin14unddasisttief
 ichbin40undlustig
+ICleanedMyRoom
 ico
 Idaho
 IdentityV
@@ -4669,6 +4673,7 @@ PrettyLittleLiars
 prey
 preyingmantis
 Priconne
+PrimalShow
 PrimeiraLiga
 PrimitiveTechnology
 PrincessesOfPower
