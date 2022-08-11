@@ -190,6 +190,7 @@ AlchemyStarsEN
 Alderwood
 aldi
 Aleague
+alevel
 AlexaBliss
 alexandradaddario
 AlfaOxtrot
@@ -1133,6 +1134,7 @@ chargetheyphone
 ChargeYourPhone
 Charlotte
 chats
+chch
 Cheese
 CheetoTheCat
 chefknives
@@ -1214,6 +1216,7 @@ ClashRoyale
 ClassConscienceMemes
 classicalmusic
 classiccars
+ClassicRock
 classicsoccer
 classicwow
 ClassPoliticsTwitter
@@ -6317,6 +6320,7 @@ WeatherGifs
 web_design
 webcomics
 webdev
+webtoons
 wec
 wedding
 weddingdrama
