@@ -1836,6 +1836,7 @@ DrewDurnil
 DrewGooden
 Drifting
 dril
+DrillCats
 Drizzy
 drones
 DrStone
@@ -2166,6 +2167,7 @@ Flagrant2
 Flamepoints
 flashlight
 FlashTV
+FLCL
 FleshPitNationalPark
 FlexinLesbians
 flightattendants
@@ -2783,6 +2785,7 @@ HotPeppers
 hottoys
 HotWheels
 houkai3rd
+HouseFlipper
 HouseMD
 HouseOfTheDragon
 houseplants
@@ -4846,6 +4849,7 @@ rangersfc
 rant
 rap
 rarecompliments
+RareHouseplants
 rareinsults
 rarepuppers
 Rarethreats
@@ -5872,6 +5876,7 @@ TheSimsBuilding
 thesopranos
 thestonearmy
 TheStrokes
+thetagang
 TheTempleOfOchako
 thethickofit
 TheTrumpZone
