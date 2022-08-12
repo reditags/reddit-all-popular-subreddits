@@ -778,6 +778,7 @@ BlackCountryNewRoad
 blackdesertonline
 BlackHair
 blacklagoon
+BlackLivesMatter
 blackmagicfuckery
 blackmirror
 blackopscoldwar
@@ -1919,6 +1920,7 @@ educationalgifs
 Eesti
 egg_irl
 eggs
+EggsInStrangePlaces
 Egypt
 EightySix
 EizaGonzalez
@@ -2179,6 +2181,7 @@ FitToFat
 fivethirtyeight
 fixedbytheduet
 FixedGearBicycle
+FixMyPhotoJaffa
 FL_Studio
 Flagrant2
 Flamepoints
@@ -3776,6 +3779,7 @@ Megumin
 meirl
 melbourne
 MelissaBenoist
+MelissaFumero
 MelissaRauch
 meltyblood
 meme
@@ -4842,6 +4846,7 @@ pyrocynical
 Python
 QAnonCasualties
 QanonKaren
+qatar
 Qdpay
 Quebec
 queermeme
@@ -5710,6 +5715,7 @@ synthesizercirclejerk
 synthesizers
 Syracuse
 sysadmin
+Sysadminhumor
 systemofadown
 SystemsCringe
 TabbyCats
@@ -5873,6 +5879,7 @@ TheEricAndreShow
 TheExpanse
 TheFence
 thefighterandthekid
+TheForest
 TheGirlSurvivalGuide
 theGoldenGirls
 TheGoodPlace
@@ -6361,6 +6368,7 @@ VoughtPlus
 VRchat
 VRGaming
 VRtoER
+vsauce
 VShojo
 vtm
 vtmb
