@@ -1300,6 +1300,7 @@ comedybangbang
 ComedyCemetery
 comedydamnation
 comedyepilepsy
+ComedyFlogging
 comedyheaven
 ComedyHell
 comedyhomicide
@@ -2772,6 +2773,7 @@ HomeImprovement
 HomeKit
 homelab
 HomeNetworking
+HomePod
 homestead
 Homesteading
 homestuck
@@ -4702,6 +4704,7 @@ Polytopia
 Pomeranians
 ponds
 poodles
+PopArtNouveau
 popculturechat
 popheadscirclejerk
 popping
@@ -5102,6 +5105,7 @@ samharris
 SamONellaAcademy
 samoyeds
 samsung
+SamuraiChamploo
 sanantonio
 SandersForPresident
 SanDiegan
@@ -5417,6 +5421,7 @@ SocialistEconomics
 SocialistRA
 socialskills
 SocietyLounge
+sofi
 SofiaGomez
 SofiaGomezGW
 SofiaVergara
@@ -5823,6 +5828,7 @@ The_Mueller
 THE_PACK
 theadamfriedlandshow
 TheAdventureZone
+TheAngelsNP
 TheAstraMilitarum
 thebadbatch
 TheBatmanFilm
