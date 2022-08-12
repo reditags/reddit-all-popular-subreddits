@@ -350,6 +350,7 @@ Anticonsumption
 AntiFANG
 antifastonetoss
 antifeminists
+AntiHateCommunities
 AntiJokes
 antimeme
 antiMLM
@@ -2204,6 +2205,7 @@ flightattendants
 flightradar24
 flightsim
 Flipping
+FLMedicalTrees
 floggit
 flonkers
 Floof
@@ -2965,6 +2967,7 @@ ImaginaryMonsters
 ImaginaryMythology
 ImaginaryNecronomicon
 ImaginaryNobles
+ImaginaryOrcs
 ImaginaryPathways
 imaginarypets
 ImaginarySeascapes
@@ -3175,6 +3178,7 @@ jedicouncilofelrond
 JEENEETards
 Jeep
 JeepMemes
+JellesMarbleRuns
 jellybeantoes
 JennaFischer
 JennaLouiseColeman
@@ -3565,6 +3569,7 @@ lockpicking
 LodedDiper
 LogHorizon
 logodesign
+loicense
 LokiTV
 lolcats
 Lolirefugees
@@ -3680,6 +3685,7 @@ MakeMeSuffer
 MakeupAddiction
 MakeupLounge
 MakeupRehab
+MakeWay4QueensGuard
 MaladaptiveDreaming
 MalayalamMovies
 malaysia
@@ -4735,6 +4741,7 @@ Polytopia
 Pomeranians
 ponds
 poodles
+pop_os
 PopArtNouveau
 popculturechat
 popheadscirclejerk
@@ -5530,6 +5537,7 @@ spooktober
 Spore
 SportingCP
 sports
+sportsarefun
 sportsbetting
 spotted
 spqrposting
@@ -6390,6 +6398,7 @@ VoteDEM
 VoughtPlus
 VRchat
 VRGaming
+vrising
 VRtoER
 vsauce
 VShojo
@@ -6617,6 +6626,7 @@ worldjerking
 WorldNationalists
 worldnews
 worldnewsvideo
+worldofgothic
 WorldofTanks
 WorldOfTanksBlitz
 WorldOfWarships
