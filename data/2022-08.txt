@@ -1609,6 +1609,7 @@ dbxv
 dbz
 DBZDokkanBattle
 DC_Cinematic
+DCAU
 DCcomics
 dccomicscirclejerk
 DCEUleaks
@@ -1807,6 +1808,7 @@ dogsonroofs
 dogswearinghats
 dogswitheyebrows
 dogswithjobs
+dogswithsocks
 Dogtraining
 dogvideos
 DokkanBattleCommunity
