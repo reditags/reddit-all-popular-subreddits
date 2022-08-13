@@ -1337,6 +1337,7 @@ comicbooks
 comics
 commandandconquer
 Commanders
+communism
 CommunismMemes
 community
 CompanyOfHeroes
@@ -2039,6 +2040,7 @@ EscapefromTarkov
 esist
 espresso
 estoration
+EstrangedAdultChild
 ethereum
 ethfinance
 ethoslab
@@ -4442,6 +4444,7 @@ OldSkaters
 OldWorldBlues
 OliviaMunn
 OliviaRodrigo_
+olkb
 olympics
 Omaha
 OmegaWatches
@@ -5483,6 +5486,7 @@ SlackWyrm
 slammywhammies
 SlavaUkrayini
 slaythespire
+sleeperbattlestations
 slimerancher
 Slipknot
 sloths
@@ -6241,6 +6245,7 @@ TuxedoCats
 TVDetails
 TVTooHigh
 twentyonepilots
+TWEWY
 twicemedia
 twicememes
 twilight
@@ -6438,6 +6443,7 @@ VinlandSaga
 vintage
 vintageads
 VintageApple
+vintageaudio
 vintagecomputing
 VintageFashion
 vintagejapaneseautos
