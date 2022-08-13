@@ -1072,6 +1072,7 @@ CatastrophicFailure
 catbellies
 catbongos
 Catbun
+catburnouts
 Catculations
 catdimension
 catfaceplant
@@ -2553,6 +2554,7 @@ godot
 godtiersuperpowers
 GODZILLA
 gojira
+Gold
 GoldCoast
 GoldenAgeMinecraft
 Goldendoodles
@@ -5113,6 +5115,7 @@ rpghorrorstories
 RSA
 rsloshredit
 RTGameCrowd
+RubeGoldbergFails
 rugbyunion
 RuinedMyDay
 runefactory
@@ -6794,4 +6797,5 @@ zoloft
 ZombielandSaga
 Zoomies
 zootopia
+Zwift
 ZZZ_Official
