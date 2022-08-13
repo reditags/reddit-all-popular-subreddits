@@ -111,6 +111,7 @@ Achievement_Hunter
 AchillesAndHisPal
 ACMilan
 acne
+acnh
 acotar
 ACPocketCamp
 ACQR
@@ -4879,6 +4880,7 @@ productivity
 ProductPorn
 programare
 ProgrammerAnimemes
+ProgrammerDadJokes
 ProgrammerHumor
 programming
 programminghorror
