@@ -2277,6 +2277,7 @@ forbiddenlaughs
 forbiddensnacks
 Ford
 FordBronco
+FordMaverickTruck
 foreverbox
 ForFashion
 ForgottenWeapons
@@ -6093,6 +6094,7 @@ Throwers
 thugeshh
 thumbcats
 Thunder
+thurstonwaffles
 Ticos
 tiedye
 Tierzoo
