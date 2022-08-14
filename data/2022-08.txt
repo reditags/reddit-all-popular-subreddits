@@ -973,6 +973,7 @@ BSG
 btd6
 bts7
 buccos
+budapest
 Buddhism
 BudgetAudiophile
 budgetfood
@@ -1319,6 +1320,7 @@ ColleenBallingerSnark
 college
 CollegeBasketball
 ColleiMains
+cologne
 Colombia
 Colorado
 ColoradoAvalanche
@@ -4694,6 +4696,7 @@ Petscop
 PetTheDamnCat
 petthedamncow
 PetTheDamnDog
+PetTheDamnKitty
 pettyrevenge
 PeytonList
 peyups
@@ -5515,6 +5518,7 @@ sistersofbattle
 SisterWives
 sixfacedworld
 SixtySecondsInAfrica
+SK8TheInfinity
 Ska
 skamtebord
 skate3
