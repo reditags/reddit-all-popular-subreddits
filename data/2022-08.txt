@@ -471,6 +471,7 @@ AskOuija
 AskReddit
 askscience
 AskScienceFiction
+AskSF
 askSingapore
 askspain
 AskThe_Donald
@@ -3703,6 +3704,7 @@ LPOTL
 LSD
 LTB_iel
 LubaTv
+LucidDreaming
 lucifer
 luciomains
 LudwigAhgren
@@ -4135,6 +4137,7 @@ MurderedByAOC
 MurderedByWords
 murdermittens
 MURICA
+MuscleConfusion
 Muse
 MushroomGrowers
 Mushrooms
