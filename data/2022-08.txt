@@ -1285,6 +1285,7 @@ citypop
 CityPorn
 civ
 civ5
+civic
 civilengineering
 CivVI
 ClashOfClans
