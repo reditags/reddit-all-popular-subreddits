@@ -444,6 +444,7 @@ arkisuomi
 arknights
 ArlecchinoMains
 arma
+ArmsandArmor
 army
 aromantic
 aromanticasexual
@@ -3123,6 +3124,7 @@ ImaginaryNobles
 ImaginaryOrcs
 ImaginaryPathways
 imaginarypets
+ImaginaryPirates
 ImaginaryScholars
 ImaginarySeascapes
 ImaginarySliceOfLife
@@ -4190,6 +4192,7 @@ ModernistArchitecture
 ModernMagic
 modernwarfare
 ModernWarfareII
+modnews
 moedred
 MoeMorphism
 Moescape
