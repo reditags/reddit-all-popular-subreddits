@@ -2373,6 +2373,7 @@ ForzaHorizon
 fossilid
 FossilPorn
 FoundPaper
+FoundryVTT
 foundsatan
 FoundTheGerman
 FoundTheInaAlt
@@ -5481,6 +5482,7 @@ SeattleKraken
 SeattleWA
 secondsketch
 secretcompartments
+seculartalk
 SecurityAnalysis
 seduction
 seekingsisterwifetlc
@@ -5683,6 +5685,7 @@ SkyrimPorn
 SlackWyrm
 slammywhammies
 SlavaUkrayini
+slayeasleaked
 slaythespire
 Slayypoint
 sleeperbattlestations
