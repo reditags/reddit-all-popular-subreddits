@@ -1304,6 +1304,7 @@ CK2GameOfthrones
 ClashOfClans
 ClashRoyale
 ClassConscienceMemes
+ClassicalMemes
 classicalmusic
 classiccars
 ClassicRock
@@ -4234,6 +4235,7 @@ MrFruit
 MrJoeNobody
 mrlovenstein
 MrRobot
+mscsmedia
 MSsEcReTPoDcAsT
 MST3K
 MTB
