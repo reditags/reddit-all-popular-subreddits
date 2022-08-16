@@ -740,6 +740,7 @@ BenGarrisonCumEdits
 benshapiro
 berkeley
 berlin
+Bernadetta
 bernesemountaindogs
 bernieblindness
 BernieSanders
@@ -1359,6 +1360,7 @@ cologne
 Colombia
 Colorado
 ColoradoAvalanche
+coloradohikers
 ColoradoRockies
 ColoradoSprings
 Colorization
@@ -1705,6 +1707,7 @@ deadcells
 deadmalls
 deadmeatjames
 DeadSpace
+deathbattle
 DeathByMillennial
 Deathcore
 deathgrips
@@ -2759,6 +2762,7 @@ guitars
 GunAccessoriesForSale
 Gundam
 gundeals
+Gunime
 Gunners
 Gunpla
 gunpolitics
@@ -3453,6 +3457,7 @@ KaraDelToro
 karengillan
 karens
 KarmaRoulette
+KatarinaMains
 KatDennings
 katebeckinsale
 KaterinaSoria
@@ -4397,6 +4402,7 @@ nevertellmetheodds
 NevilleGoddard
 NewcastleUponTyne
 NewDealAmerica
+newfoundland
 Newfoundlander
 NewGirl
 NewGreentexts
@@ -4542,6 +4548,7 @@ nuzlocke
 nvidia
 nyanners
 NYCbike
+NYCinfluencersnark
 nycrail
 NYGiants
 nyjets
@@ -5825,6 +5832,7 @@ spiders
 Spielstopp
 spikes
 Spiritfarer
+spiritisland
 Spiritual_Talk
 splatoon
 Splatoon_2
