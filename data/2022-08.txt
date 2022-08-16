@@ -1399,6 +1399,7 @@ CompanyOfHeroes
 CompetitionShooting
 CompetitiveApex
 CompetitiveHalo
+CompetitiveHS
 Competitiveoverwatch
 CompetitiveTFT
 CompetitiveWoW
@@ -2691,6 +2692,7 @@ google
 googlehome
 googlemapsshenanigans
 GooglePixel
+GoosetheBand
 gorefeast
 gorgc
 gorillaz
@@ -3852,6 +3854,7 @@ LuxuryLifeHabits
 LV426
 LWIAY
 LycorisRecoil
+Lyon
 MAAU
 mac
 macarons
@@ -5742,6 +5745,7 @@ smashmemes
 SMG4
 SmilingFriends
 Smite
+SmithAndWesson
 smoking
 smoobypost
 SmugIdeologyMan
