@@ -729,6 +729,7 @@ behindthegifs
 beholdthemasterrace
 BeidouMains
 BelgianMalinois
+BELGICA
 belgium
 Belgium2
 Bellapoarch
@@ -1316,6 +1317,7 @@ civilengineering
 CivVI
 CK2GameOfthrones
 ClashOfClans
+ClashQuest
 ClashRoyale
 ClassConscienceMemes
 ClassicalMemes
@@ -4838,6 +4840,7 @@ pelletgrills
 peloton
 pelotoncycle
 pelotonmemes
+PenguinOfTheMonth
 penguins
 PenmanshipPorn
 Pennsylvania
