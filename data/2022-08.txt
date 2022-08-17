@@ -670,6 +670,7 @@ BassGuitar
 bathandbodyworks
 batman
 BatmanArkham
+BattleBrothers
 Battlecars
 battlecats
 Battlefield
@@ -1841,6 +1842,7 @@ dioramas
 Dipcifica
 DiretoDoZapZap
 Dirtbikes
+dirtgame
 disability
 discgolf
 DiscoElysium
@@ -3188,6 +3190,7 @@ IncrediblesMemes
 incremental_games
 india
 indiadiscussion
+IndiaInvestments
 indiameme
 Indiana
 indianajones
