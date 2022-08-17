@@ -1256,6 +1256,7 @@ ChinaWarns
 chinchilla
 ChineseLanguage
 Chinesium
+Chipotle
 Chiraqology
 Chivalry2
 ChloeBennet
@@ -1769,6 +1770,7 @@ depechemode
 Depop
 DeppDelusion
 depression_memes
+depressionmemes
 DepthHub
 DerScheisser
 desabafos
@@ -1933,6 +1935,7 @@ DotA2
 dotnet
 DoubanGoosegroup
 doughboys
+doughertydozen
 DoveCameron
 DowntonAbbey
 DownvotedToOblivion
@@ -1946,6 +1949,7 @@ DragonsDogma
 dragonutopia
 dragrace
 DragRaceDownUnder
+DragRaceTea
 Dragula
 DrakeTheType
 DramaticText
@@ -6463,6 +6467,7 @@ trailrunning
 TrainPorn
 trains
 trans
+trans_irl
 TransClones
 Transformemes
 transformers
