@@ -308,6 +308,7 @@ AnimalsBeingAnimals
 AnimalsBeingBros
 AnimalsBeingConfused
 AnimalsBeingDerps
+AnimalsBeingFunny
 AnimalsBeingGeniuses
 AnimalsBeingJerks
 AnimalsBeingLoveable
@@ -1355,6 +1356,7 @@ ClimbingCircleJerk
 clonewars
 CloneWarsMemes
 CloneWhoPunchedADroid
+CloseEnough
 Cloud9
 CLOUDS
 cobrakai
@@ -1904,6 +1906,7 @@ doctorwho
 DoctorWhumour
 Documentaries
 DocumentedFights
+Dodge
 Dodgers
 doener
 DOG
@@ -2042,6 +2045,7 @@ E30
 EA_NHL
 earthbound
 EarthPorn
+Earwolf
 Easy_Recipes
 EatCheapAndHealthy
 EatCheapAndVegan
@@ -4846,6 +4850,7 @@ ParlerTrick
 ParlerWatch
 parrots
 PartyParrot
+passiveaggressive
 pasta
 PastAndPresentPics
 Patchuu
@@ -5520,6 +5525,7 @@ sarcasm
 Sardonicast
 saskatchewan
 saskatoon
+SASSWitches
 Satan
 SatanicTemple_Reddit
 satanism
@@ -5529,6 +5535,7 @@ SatisfIcing
 satisfying
 Satisfyingasfuck
 SatisfyingClean
+satisfyinggrass
 SatoshiStreetBets
 saudiarabia
 Sauna
@@ -5642,6 +5649,7 @@ shadowofmordor
 Shadowtherat
 Sham_Sharma_Show
 Shambhala
+shameless
 ShamelesslyStolen
 Shantae
 ShantelVanSanten
@@ -6813,6 +6821,7 @@ vintageaudio
 vintagecomputing
 VintageFashion
 vintagejapaneseautos
+VintageLA
 VintageLadyBoners
 vinyl
 vinyljerk
@@ -6855,6 +6864,7 @@ VuvuzelaIPhone
 W2S
 WackyTicTacs
 Wales
+WalgreensStores
 walkablecities
 WalkableStreets
 walkaway
@@ -7080,6 +7090,7 @@ WorldNationalists
 worldnews
 worldnewsvideo
 worldofgothic
+worldofpvp
 WorldofTanks
 WorldOfTanksBlitz
 WorldOfWarships
@@ -7150,6 +7161,7 @@ Yeji
 YelanMains
 Yellowjackets
 YellowstonePN
+yellz0Patreon
 yesyesyesno
 yesyesyesnoyes
 yesyesyesyesno
