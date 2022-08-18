@@ -551,6 +551,7 @@ audioengineering
 audiophile
 Augenbleiche
 auntydonna
+ausents
 AusFinance
 auslaw
 AusMemes
@@ -3002,6 +3003,7 @@ HomeKit
 homelab
 HomeNetworking
 HomePod
+HomeServer
 homestead
 Homesteading
 homestuck
@@ -3854,6 +3856,7 @@ LongFurbies
 longhair
 LonghornNation
 longisland
+longmeow
 longrange
 lookatmydog
 LookatMyHalo
@@ -6738,6 +6741,7 @@ uofm
 UofT
 upcycling
 UpliftingNews
+uppsala
 UpvoteBecauseButt
 urbanexploration
 UrbanHell
