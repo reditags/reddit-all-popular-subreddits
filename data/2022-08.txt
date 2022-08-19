@@ -2305,6 +2305,7 @@ feetsies
 Feic
 FellowKids
 FeltGoodComingOut
+Felting
 femalehairadvice
 femalelivingspace
 femboy_irl
@@ -3962,6 +3963,7 @@ MachineLearning
 MachinePorn
 Machinists
 MacMiller
+MacroPorn
 macsetups
 Madden
 MadeInAbyss
@@ -5320,6 +5322,7 @@ Rarethreats
 raspberry_pi
 RASPBERRY_PI_PROJECTS
 RatchetAndClank
+RATM
 Ratorix
 RATS
 rav4club
@@ -6531,6 +6534,7 @@ titanfall
 titanic
 titleporn
 TLCsisterwives
+TLCUnexpected
 TMNT
 tmobile
 TNOmod
@@ -6677,6 +6681,7 @@ TurkeyJerky
 TurkeyMeta
 turkish
 TurkishCats
+turntables
 turtle
 TuxedoCats
 TVDetails
@@ -7199,6 +7204,7 @@ WWEGames
 WWFC
 wwiipics
 WWIIplanes
+wyoming
 wyomingdoesntexist
 xbiking
 xbox
