@@ -700,6 +700,7 @@ BattleForDreamIsland
 BattleJackets
 battlemaps
 BattleNetwork
+BattlePaintings
 battles2
 battlestations
 battletech
@@ -946,6 +947,7 @@ BorderCollie
 Borderlands
 Borderlands2
 borderlands3
+Borderporn
 boringdystopia
 borussiadortmund
 Boruto
@@ -2840,6 +2842,7 @@ GTAV
 gtavcustoms
 GTBAE
 GuardianTales
+GuerrillaGardening
 guichon
 GuildWars
 Guildwars2
@@ -6873,6 +6876,7 @@ VanessaHudgens
 VanLife
 Vans
 vaporents
+Vaporglow
 Vaporwave
 VaporwaveAesthetics
 VaushV
