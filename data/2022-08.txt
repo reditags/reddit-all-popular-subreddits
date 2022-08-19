@@ -4505,6 +4505,7 @@ Needlefelting
 neekolul
 neekomains
 NelliesNest
+neoncities
 NeonGenesisEvangelion
 neopets
 neovim
@@ -4804,6 +4805,7 @@ OooBigStretch
 OopsThatsDeadly
 OPBR
 opensea
+OpenSignups
 Opeth
 opossum_irl
 Opossums
@@ -6777,6 +6779,7 @@ Unexpected
 unexpectedcommunism
 unexpectedfactorial
 unexpectedfuturama
+Unexpectedhermitcraft
 unexpectedhogwarts
 unexpecteditcrowd
 UnexpectedJoJo
