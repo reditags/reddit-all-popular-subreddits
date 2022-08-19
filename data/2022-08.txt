@@ -274,6 +274,7 @@ amogus
 Amoledbackgrounds
 AmongUs
 amphibia
+AMPToken
 Amsterdam
 Amtrak
 AmyAdams
@@ -2173,6 +2174,7 @@ Enneagram
 Enough_Sanders_Spam
 Enough_Vaush_Spam
 EnoughCommieSpam
+EnoughLibertarianSpam
 EnoughMuskSpam
 EnoughPCMSpam
 enoughpetersonspam
@@ -7043,6 +7045,7 @@ Waterdogs
 WattsonMains
 Wavyhair
 WayOfTheBern
+WayOfTheHunter
 WeaponsMoe
 WeAreAllTurks
 WeAreTheMusicMakers
