@@ -998,6 +998,7 @@ BravoTopChef
 Brawlhalla
 Brawlstars
 brdev
+BRDproperty
 Breadit
 BreadStapledToTrees
 BreadTube
@@ -1514,6 +1515,7 @@ CoronavirusDownunder
 CorporateFacepalm
 Corridor
 Corvette
+corvids
 CoryxKenshin
 Cosmere
 cosmoandwanda
@@ -1885,6 +1887,7 @@ Diablo
 diablo2
 Diablo_2_Resurrected
 DiabloImmortal
+diamondpainting
 DianeGuerrero
 DiavoloDeathCount
 DicePorn
@@ -2657,6 +2660,7 @@ GarandThumb
 GarenMains
 garfieldminusgarfield
 GarfieldMinusJon
+Garlic_bread_cult
 GarlicBreadMemes
 Garmin
 Gary_The_Cat
@@ -2725,6 +2729,7 @@ GharKeKalesh
 GhettoStreetFights
 ghibli
 Ghost_in_the_Shell
+GhostAdventures
 Ghostbc
 ghostbusters
 ghostoftsushima
@@ -2828,6 +2833,7 @@ granturismo
 graphic_design
 graphicnovels
 Grapplerbaki
+GrassDoggos
 gratefuldead
 gratefuldoe
 gravelcycling
@@ -4066,6 +4072,7 @@ malelivingspace
 MaleniCruz
 MaliciousCompliance
 mallninjashit
+MamaLane
 manchester
 ManchesterUnited
 Mandalorian
@@ -4709,6 +4716,7 @@ NotMyJob
 notopbutok
 nottheonion
 NotTimAndEric
+nottingham
 nova
 NovaScotia
 nowmycat
@@ -4883,6 +4891,7 @@ ossem
 osubuddyretard
 osugame
 osvaldo12
+OT_Memes
 othepelican
 OTMemes
 otomegames
@@ -5003,6 +5012,7 @@ pennystocks
 penpals
 PeopleBeingJerks
 PeopleFuckingDying
+PeopleLiveInCities
 peopleofwalmart
 peopleplayground
 PeoplesMomentum
@@ -6253,6 +6263,7 @@ superstore
 SuperStructures
 Supertf
 supportlol
+supremeclothing
 surdev
 surrealmemes
 SurreyBC
@@ -6375,6 +6386,7 @@ techwearclothing
 TedLasso
 teefies
 teenagers
+TeenagersButBetter
 teenagersbuthot
 teenagersnew
 TeenMomOGandTeenMom2
@@ -7098,6 +7110,7 @@ WeAreAllTurks
 WeAreTheMusicMakers
 WeatherGifs
 WeatherPorn
+weaving
 web_design
 webcomics
 webdev
