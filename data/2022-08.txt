@@ -188,6 +188,7 @@ AhriMains
 AIDKE
 aigreentext
 Aikuros
+aimdownsights
 airplaneears
 airplanes
 airpods
@@ -645,6 +646,7 @@ badcode
 BadDesigns
 Badfaketexts
 badfriendspod
+badlegaladvice
 badlinguistics
 badmathematics
 BadMtgCombos
@@ -1395,6 +1397,7 @@ CloneWhoPunchedADroid
 CloseEnough
 Cloud9
 CLOUDS
+cncer
 cobrakai
 cocaine
 cockatiel
@@ -4229,6 +4232,7 @@ Menopause
 MensLib
 Mensmittenwithkittens
 MensRights
+meormyson
 MEOW_IRL
 meowsertrousers
 Mercari
@@ -4479,6 +4483,7 @@ MURICA
 MuscleConfusion
 Muse
 MushroomGrowers
+MushroomPorn
 Mushrooms
 Music
 musicaljenga
@@ -4613,6 +4618,7 @@ NewPatriotism
 NewPipe
 NewRoryNMalPodcast
 news
+NewsAroundYou
 newsbloopers
 NewSkaters
 NewsOfTheStupid
@@ -4641,6 +4647,7 @@ Nicegirls
 niceguys
 Nichijou
 NicolaCavanis
+NICUParents
 nier
 nietdespeld
 NightInTheWoods
@@ -6680,6 +6687,7 @@ TomodachiGame
 tomorrow
 TomorrowByTogether
 Tomorrowland
+TongueOutHounds
 tonightsdinner
 TonikakuCawaii
 ToniStorm
