@@ -2362,6 +2362,7 @@ fcbayern
 FCCincinnati
 FCInterMilan
 fcporto
+FdRmod
 fednews
 Fedora
 feedthebeast
@@ -3277,6 +3278,7 @@ ImaginaryFutureWar
 ImaginaryFuturism
 imaginarygatekeeping
 ImaginaryHorrors
+ImaginaryHumans
 ImaginaryHybrids
 ImaginaryImmortals
 ImaginaryInteriors
@@ -4887,6 +4889,7 @@ OmniscientReader
 OMORI
 oneanddone
 onebag
+onednd
 onejob
 onejoke
 oneliners
@@ -6116,6 +6119,7 @@ SpecArt
 specializedtools
 SpecialSnowflake
 SpecOpsArchive
+spectacularmemes
 SpeculativeEvolution
 SpeedOfLobsters
 speedrun
