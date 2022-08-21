@@ -1382,6 +1382,7 @@ civic
 civilengineering
 CivVI
 CK2GameOfthrones
+CK3AGOT
 ClashOfClans
 ClashQuest
 ClashRoyale
@@ -2392,6 +2393,7 @@ fender
 fermentation
 Ferrari
 ferrets
+festivals
 fffffffuuuuuuuuuuuu
 FFVIIRemake
 ffxiv
@@ -2647,6 +2649,7 @@ funnysigns
 funnyvideos
 furry
 FurryArtSchool
+fursedimages
 fursuit
 fuseboxgames
 fuslie
@@ -7137,6 +7140,7 @@ WalgreensStores
 walkablecities
 WalkableStreets
 walkaway
+Wallonia
 wallpaper
 wallpaperdump
 wallpaperengine
