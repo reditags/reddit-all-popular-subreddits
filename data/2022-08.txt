@@ -5285,6 +5285,7 @@ PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
 politics
+PoliticsDownUnder
 PoliticsPeopleTwitter
 polls
 Polska
