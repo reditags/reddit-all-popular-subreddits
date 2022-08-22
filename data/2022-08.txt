@@ -713,6 +713,7 @@ basketballcards
 Bass
 bassfishing
 BassGuitar
+bassnectar
 bathandbodyworks
 batman
 BatmanArkham
@@ -1996,6 +1997,7 @@ DMT
 DnD
 DnDart
 DnDBehindTheScreen
+DnDcirclejerk
 DnDGreentext
 DnDHomebrew
 DnDIY
