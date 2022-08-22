@@ -247,6 +247,7 @@ AlzheimersGroup
 Alzwards_Corner
 AMADisasters
 AmateurEarthPorn
+amateurradio
 AmateurRoomPorn
 amazingmemes
 AmazonDSPDrivers
@@ -635,6 +636,7 @@ aznidentity
 Azoozkie
 babushkadogs
 Babushkats
+babyanimals
 babybigcatgifs
 BabyBumps
 BabyCorgis
@@ -775,6 +777,7 @@ BelgianMalinois
 BELGICA
 belgium
 Belgium2
+bellahadid
 Bellapoarch
 belowdeck
 beltalowda
@@ -1210,6 +1213,7 @@ catsarealiens
 CatsAreAssholes
 catsarefuckingstupid
 catsareliquid
+CatsAreMuslim
 catsbeingbanks
 CatsBeingCats
 CatsBeingDerps
@@ -1866,6 +1870,7 @@ DenseGifs
 Denton
 DenverBroncos
 DenverCirclejerk
+denverfood
 denvernuggets
 DenzelCurry
 depechemode
@@ -4091,6 +4096,7 @@ MadeInAbyss
 MadelainePetsch
 MadelynCline
 MadeMeCry
+mademehappycry
 MadeMeSmile
 Madisonbeer
 MadisonPettis
@@ -4167,6 +4173,7 @@ mariokart
 MarioKartTour
 Markiplier
 Marriage
+Mars
 martialarts
 MartialMemes
 Marvel
@@ -5113,6 +5120,7 @@ PersonalFinanceNZ
 perth
 pesmobile
 PetAfterVet
+Pete_Buttigieg
 PeterExplainsTheJoke
 Petioles
 PetiteFashionAdvice
@@ -6588,6 +6596,7 @@ TheLastAirbender
 TheLastKingdom
 thelastofus
 TheLastOfUs2
+ThelastofusHBOseries
 thelastpsychiatrist
 TheLeftCantMeme
 TheLetterH
@@ -6910,6 +6919,7 @@ UBC
 UberEATS
 Ubiquiti
 ubius
+ucf
 UCI
 ucla
 UCONN
