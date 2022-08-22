@@ -99,6 +99,7 @@ ac_newhorizons
 ACAB
 Acceleracers
 AccidentalAlly
+accidentalart
 AccidentalArtGallery
 AccidentalCamouflage
 AccidentalComedy
@@ -1676,6 +1677,7 @@ css_irl
 Cubers
 CuddlePuddle
 cuddleroll
+CuddlyKitties
 CulinaryPlating
 CultOfEchidna
 CultOfTheLamb
@@ -3909,6 +3911,7 @@ legaladvicecanada
 legaladviceofftopic
 LegalAdviceUK
 legalcatadvice
+LegalizeFreedom
 legendofkorra
 LegendsOfRuneterra
 LegionFX
