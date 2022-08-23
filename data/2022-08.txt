@@ -2243,6 +2243,7 @@ EmmaStone
 Emo
 Emoney
 Empaths
+EmperorsChildren
 EmpireDidNothingWrong
 EmpressEvolution
 ems
@@ -6943,6 +6944,7 @@ TripodCats
 trippieredd
 trippinthroughtime
 trippy
+TrishStratus
 Trishyland
 Triumph
 TrollCoping
