@@ -3325,6 +3325,7 @@ ImaginaryCastles
 ImaginaryCharacters
 ImaginaryCityscapes
 ImaginaryColorscapes
+imaginarycosmere
 ImaginaryCybernetics
 ImaginaryCyberpunk
 ImaginaryDarkSouls
@@ -7334,6 +7335,7 @@ WeightLossAdvice
 weightroom
 weightwatchers
 Weird
+weirdal
 weirdcore
 weirddalle
 WeirdEggs
