@@ -1329,6 +1329,7 @@ CHIBears
 chicagobulls
 Chicken_Thoughts
 chickengifs
+chickennuggets
 chickens
 CHICubs
 Chihuahua
@@ -3090,6 +3091,7 @@ HelpMeFind
 helsinki
 heraldry
 HermanCainAward
+hermitchat
 HermitCraft
 hermitcraftmemes
 heroes3
