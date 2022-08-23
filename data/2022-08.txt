@@ -1948,6 +1948,7 @@ diabetes
 diabetes_t1
 Diablo
 diablo2
+diablo3
 Diablo_2_Resurrected
 DiabloImmortal
 diamondpainting
@@ -3892,6 +3893,7 @@ languagelearning
 languagelearningjerk
 lansing
 LARP
+LaserCleaningPorn
 LaserEyedCats
 LaStalla
 lastimages
@@ -4030,6 +4032,7 @@ listentothis
 literature
 lithuania
 LitterboxComics
+littlebigplanet
 LittleNightmares
 LittleNuns
 LittleWitchAcademia
@@ -6094,6 +6097,7 @@ Silverbugs
 silverhair
 simonmartina
 simpleliving
+simplynailogical
 simpsonsshitposting
 simracing
 Simracingstewards
@@ -6985,6 +6989,7 @@ turtle
 TuxedoCats
 TVDetails
 TVTooHigh
+TVTooLow
 twentyonepilots
 TWEWY
 twicemedia
