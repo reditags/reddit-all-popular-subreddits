@@ -495,6 +495,7 @@ ArsenalFC
 Art
 ArtDeco
 ArtefactPorn
+ArtHistory
 ArtisanVideos
 artmemes
 ArtNouveau
@@ -1209,6 +1210,7 @@ catdimension
 catfaceplant
 catfruit
 CatGifs
+CatgirlSFW
 Catholicism
 CatholicMemes
 cathostage
@@ -1785,6 +1787,7 @@ darkestdungeon
 DarkGothicArt
 Darkhumorandjokes
 darkmemers
+darknet
 DarkPicturesAnthology
 DarkSouls2
 darksoulsmemes
@@ -3140,6 +3143,7 @@ hockey
 hockeyjerseys
 hockeymemes
 hockeyplayers
+hoge
 hoggit
 hoi4
 hoi4modding
@@ -4969,6 +4973,7 @@ oldphotos
 OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
+oldschoolcreepy
 OldSchoolRidiculous
 OldSkaters
 OldWorldBlues
@@ -5040,6 +5045,7 @@ OshiNoKo
 osp
 osr
 ossem
+OSU
 osubuddyretard
 osugame
 osvaldo12
@@ -5919,6 +5925,7 @@ seduction
 seekingsisterwifetlc
 SeeYaLaterLosers
 Seiko
+Seinen
 seinfeld
 seinfeldgifs
 SeishunButaYarou
@@ -6386,6 +6393,7 @@ Stretched
 StrikeForceHeroes
 Stuck10YearsBehind
 StudentLoans
+studentsph
 StuffOnCats
 Stumpmicgold
 stunfisk
@@ -6774,6 +6782,7 @@ thugeshh
 thumbcats
 Thunder
 thurstonwaffles
+tianguancifu
 TibiaMMO
 Ticos
 tiedye
@@ -7156,6 +7165,7 @@ vegancirclejerk
 VeganDE
 veganfitness
 VeganFoodPorn
+VeganForCircleJerkers
 veganrecipes
 veganuk
 vegas
@@ -7521,6 +7531,7 @@ wwiipics
 WWIIplanes
 wyoming
 wyomingdoesntexist
+xayahmains
 xbiking
 xbox
 XboxGamePass
