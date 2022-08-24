@@ -1849,6 +1849,7 @@ deadbydaylight
 deadcells
 deadmalls
 deadmeatjames
+deadpool
 DeadSpace
 deathbattle
 DeathByMillennial
@@ -5915,6 +5916,7 @@ scamthescalpers
 ScandinavianInterior
 ScaramoucheMains
 scaryeddie
+Scarymovies
 ScarySigns
 schipperke
 SchittsCreek
@@ -6651,6 +6653,7 @@ TeslaModel3
 TeslaModelY
 teslamotors
 TESOfashion
+Testosterone
 Texans
 texas
 TexasPolitics
@@ -6729,6 +6732,7 @@ TheGoodPlace
 thegrandtour
 TheGriffonsSaddlebag
 TheGrittyPast
+TheHandmaidsTale
 TheJenkins
 theJoeBuddenPodcast
 TheKillers
