@@ -533,6 +533,7 @@ AskScienceFiction
 AskSF
 askSingapore
 askspain
+Asksweddit
 AskThe_Donald
 askTO
 asktransgender
@@ -4718,6 +4719,7 @@ Needlefelting
 neekolul
 neekomains
 negotiation
+neilgaiman
 NelliesNest
 neoncities
 NeonGenesisEvangelion
@@ -5062,6 +5064,7 @@ Ornithology
 ornnmains
 Orochisegundo
 OrphanCrushingMachine
+Osana
 OSHA
 OshiNoKo
 osp
@@ -5180,6 +5183,7 @@ pcx99
 PeakyBlinders
 peanutbutterisoneword
 PeanutWhiskers
+pearljam
 pedale
 PeepingPooch
 pelletgrills
@@ -5611,6 +5615,7 @@ rct
 RDR2
 Re_Zero
 reactiongifs
+ReactionMemes
 reactionpics
 reactivedogs
 reactjs
@@ -6632,6 +6637,7 @@ Texans
 texas
 TexasPolitics
 TexasRangers
+TextingTheory
 tf2
 TF2fashionadvice
 tf2memes
