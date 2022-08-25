@@ -3704,6 +3704,7 @@ johannesburg
 John_Frusciante
 JohnMayer
 JohnMulaney
+JohnWick
 joinsquad
 Joji
 Jojo
@@ -5228,6 +5229,7 @@ pathofexile
 PathOfExileBuilds
 pathologic
 Patriots
+Pauper
 paydaytheheist
 PaymoneyWubby
 PcBuild
