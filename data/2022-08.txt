@@ -1613,6 +1613,7 @@ coybig
 coys
 cozy
 CozyPlaces
+CPA
 cpp
 crabcats
 CrackheadCraigslist
@@ -1966,6 +1967,7 @@ Deuxmoi
 developersIndia
 DevilMayCry
 devils
+devops
 Dewlap
 Dexter
 dezwo
@@ -5548,6 +5550,7 @@ prusa3d
 ps2
 PS3
 PS4
+PS4Dreams
 PS5
 psg
 PSIkiKusuo
@@ -5678,6 +5681,7 @@ ReadyOrNotGame
 real_China_irl
 RealBeesFakeTopHats
 realestateinvesting
+RealisticArmory
 reallifedoodles
 RealLifeShinies
 ReallyAmerican
@@ -6627,6 +6631,7 @@ tarantulas
 Target
 TargetedShirts
 TarkovMemes
+tarot
 taskmaster
 tasmania
 tattoo
