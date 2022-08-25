@@ -230,6 +230,7 @@ alevel
 AlexaBliss
 alexandradaddario
 AlfaOxtrot
+algorand
 algotrading
 AlHaithamMains
 aliandjohnjamesagain
@@ -2201,6 +2202,7 @@ DynastyFF
 Dyson_Sphere_Program
 E30
 EA_NHL
+EANHLfranchise
 earthbound
 EarthPorn
 Earwolf
