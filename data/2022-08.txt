@@ -678,6 +678,7 @@ badcode
 BadDesigns
 Badfaketexts
 badfriendspod
+badjump
 badlegaladvice
 badlinguistics
 badmathematics
@@ -1335,6 +1336,7 @@ Chattanooga
 chch
 cheemsburbgerlore
 Cheese
+cheeseburgers
 CheetoTheCat
 Chefit
 chefknives
@@ -3714,6 +3716,7 @@ Jojo
 jojokes
 JoJoMemes
 Jokes
+Jon_Bois
 JonTron
 jordan
 jordanbeckham_nsfw
@@ -4969,6 +4972,7 @@ nuzlocke
 nvidia
 nyanners
 NYCbike
+nycHistory
 NYCinfluencersnark
 nycrail
 NYGiants
