@@ -3227,6 +3227,7 @@ holdmycosmo
 holdmyfeedingtube
 holdmyfries
 holdmyjuicebox
+HoldMyKibble
 holdmyredbull
 holesome
 HollowKnight
@@ -3455,6 +3456,7 @@ ImaginaryStarships
 ImaginarySteampunk
 ImaginaryTamriel
 ImaginaryTechnology
+ImaginaryTurtleWorlds
 ImaginaryUndead
 ImaginaryVillages
 ImaginaryWarhammer
@@ -6364,6 +6366,7 @@ sousvide
 southafrica
 southcarolina
 Southerncharm
+SouthJersey
 SovietWomble
 space
 SpaceballsMemes
@@ -7409,6 +7412,7 @@ VocabWordOfTheDay
 Vocaloid
 void_memes
 VoidCake
+VoidCats
 voidpunk
 Volksverpetzer
 Volkswagen
