@@ -5820,6 +5820,7 @@ Republican
 RepublicanValues
 repurposedbuildings
 rescuedogs
+ReservationDogs
 Residency
 residentevil
 ResinCasting
@@ -7171,6 +7172,7 @@ Tufting
 tulsa
 tumblr
 TumblrDraws
+TumblrWrites
 Turkey
 TurkeyJerky
 TurkeyMeta
