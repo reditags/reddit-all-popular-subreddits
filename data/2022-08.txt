@@ -4348,6 +4348,7 @@ MangaCollectors
 mangafr
 manganews
 manhwa
+ManifestNBC
 ManufacturingPorn
 ManyATrueNerd
 Maplestory
@@ -7712,6 +7713,7 @@ Wizard101
 WKUK
 wnba
 woahdude
+WojakCompass
 wokekids
 Wolfenstein
 WolvesAreBigYo
