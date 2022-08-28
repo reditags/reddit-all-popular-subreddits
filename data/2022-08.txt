@@ -610,6 +610,7 @@ AustralianCattleDog
 AustralianMilitary
 AustralianPolitics
 AustralianShepherd
+AustralianTeachers
 Austria
 autism
 AutismInWomen
@@ -4151,6 +4152,7 @@ linuxmint
 listentothis
 literature
 lithuania
+litrpg
 LitterboxComics
 littlebigplanet
 LittleNightmares
@@ -4855,6 +4857,7 @@ NetflixSexEducation
 netflixwitcher
 Netherlands
 Netrunner
+NettHier
 networkingmemes
 NeutralPolitics
 Nevada
