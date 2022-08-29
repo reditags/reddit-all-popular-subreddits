@@ -1070,6 +1070,7 @@ BravoRealHousewives
 BravoTopChef
 Brawlhalla
 Brawlstars
+BrawlStarsCompetitive
 brdev
 BRDproperty
 Breadit
@@ -1200,6 +1201,7 @@ cannabiscultivation
 Canning
 canucks
 CANZUK
+capetown
 capitalism_in_decay
 CapitalismSux
 CapitolConsequences
@@ -1336,6 +1338,7 @@ celuvplay
 cemu
 censoredreality
 CentralChurch
+centrist
 centuryhomes
 Ceramics
 CFB
@@ -2656,6 +2659,7 @@ forhonormemes
 ForHonorRants
 formalwaifus
 Formel1
+FormerPizzaHuts
 formula1
 Formula1Point5
 FormulaBuddyRetard
@@ -3703,6 +3707,7 @@ IWW
 Izlam
 iZone
 IzuOcha
+JaackMaate
 jackass
 jackrussellterrier
 JacksFilms
@@ -4140,6 +4145,7 @@ lgbt
 lgbthistory
 lgbtmemes
 LGBTnews
+LibbyandAbby
 Liberal
 liberalgunowners
 liberta
@@ -6813,6 +6819,7 @@ Teachers
 teaching
 TeamfightTactics
 TeamFourStar
+teamliquid
 TearsOfThemis
 tech
 tech1e
