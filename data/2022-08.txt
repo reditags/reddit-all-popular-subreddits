@@ -536,6 +536,7 @@ AskEngineers
 AskFrance
 AskHistorians
 AskLosAngeles
+AskMechanics
 AskMiddleEast
 AskNYC
 AskOuija
@@ -742,6 +743,7 @@ baseballcirclejerk
 BasicIncome
 basketballcards
 Bass
+basset
 bassfishing
 BassGuitar
 bassnectar
@@ -1139,6 +1141,7 @@ burdurland
 BurgerKing
 burgers
 burlington
+BurnNotice
 Buttcoin
 BuyItForLife
 BuzzFeedUnsolved
@@ -1348,6 +1351,7 @@ chaoticgood
 characterarcs
 characterdrawing
 CharacterRant
+Charger
 Chargers
 chargetheyphone
 ChargeYourPhone
@@ -2265,6 +2269,7 @@ Edmonton
 educationalgifs
 EduHelpers
 Eesti
+eezygang
 egg_irl
 eggs
 EggsInStrangePlaces
@@ -3267,6 +3272,7 @@ holyshit
 Home
 homeassistant
 homeautomation
+Homebuilding
 HomeDecorating
 HomeDepot
 homegym
@@ -3649,6 +3655,7 @@ IsabelaMerced
 Ishowspeed
 IsItBullshit
 islam
+islamichistory
 IslamicHistoryMeme
 ISO8601
 isopods
@@ -4107,6 +4114,7 @@ LesliePecas
 lesserafim
 Letterboxd
 Letterkenny
+LeverGuns
 lewishamilton
 lewronggeneration
 lexapro
@@ -5920,6 +5928,7 @@ rollerblading
 rollercoasterjerk
 rollercoasters
 Rollerskating
+rolltide
 RomanceClub
 Romania
 RomaniaPorn
@@ -7135,6 +7144,7 @@ TrainPorn
 trains
 trans
 trans_irl
+trans_sapphic
 TransClones
 Transformemes
 transformers
