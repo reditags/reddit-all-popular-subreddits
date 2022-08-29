@@ -2996,6 +2996,7 @@ goodanimemes
 goodboomerhumor
 goodboys
 GoodFakeTexts
+GoodGoodMemes
 goodmythicalmorning
 goodnews
 goodrestrictionfood
@@ -5037,6 +5038,7 @@ NoStupidQuestions
 Notakeonlythrow
 NotAnotherDnDPodcast
 notdisneyvacation
+notfunny
 nothingeverhappens
 NotHowDrugsWork
 NotHowGirlsWork
@@ -7359,6 +7361,7 @@ UnexpectedTF2
 UnexpectedThugLife
 UnexplainedPhotos
 Unextexted
+unfortunateplacement
 UnfunnyHellhole
 uniformporn
 unintentionallydirty
