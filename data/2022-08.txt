@@ -1339,6 +1339,7 @@ CentralChurch
 centuryhomes
 Ceramics
 CFB
+cfbmemes
 cfs
 CGPGrey
 Chadposting
@@ -3455,6 +3456,7 @@ ImaginaryDarkSouls
 ImaginaryDemons
 ImaginaryDragons
 ImaginaryDwarves
+ImaginaryDwellings
 imaginaryelections
 ImaginaryElementals
 ImaginaryElves
