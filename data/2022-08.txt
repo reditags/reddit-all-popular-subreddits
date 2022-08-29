@@ -2486,6 +2486,7 @@ FantasticDays
 fantasybaseball
 fantasyfootball
 FantasyPL
+fantasywriters
 FanTheories
 farcry
 farialimabets
@@ -4479,6 +4480,7 @@ meatcrayon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
+mechanics
 mechmarket
 Mechwarrior5
 MedicalGore
@@ -7493,6 +7495,7 @@ vexillology
 vexillologycirclejerk
 veYakinEvren
 vfx
+VHS
 victoria2
 victoria3
 VictoriaBC
