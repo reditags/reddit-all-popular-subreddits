@@ -2037,6 +2037,7 @@ DigitalArt
 digitalnomad
 DigitalPainting
 DilettaLeotta
+DilucMains
 Dimension20
 DINgore
 Dinosaurs
@@ -4490,6 +4491,7 @@ MemeHunter
 memeingthroughtime
 MemeItaliani
 MemelordsWelcome
+MemeMan
 MemePiece
 memes
 Memes_Of_The_Dank
