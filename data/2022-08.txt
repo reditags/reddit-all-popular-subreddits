@@ -4937,6 +4937,7 @@ NeonGenesisEvangelion
 neopets
 neovim
 Nepal
+nerdfighters
 Nerf
 nervysquervies
 netflix
@@ -5631,6 +5632,7 @@ PolyYuri
 Pomeranians
 ponds
 poodles
+poolrooms
 PoorHammer
 pop_os
 PopArtNouveau
