@@ -48,6 +48,7 @@
 3Dmodeling
 3Dprinting
 3DS
+3dshacks
 40kLore
 49ers
 4chan
@@ -2189,6 +2190,7 @@ dragonquest
 dragons
 DragonsDogma
 dragonutopia
+dragonvale
 dragrace
 DragRaceDownUnder
 DragRaceTea
