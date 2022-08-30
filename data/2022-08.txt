@@ -1364,6 +1364,7 @@ Chameleons
 Championship
 Chang_Gang
 changeyourfont
+Channel5ive
 Chaos40k
 chaoticgood
 characterarcs
@@ -5387,6 +5388,7 @@ Patchuu
 Pathfinder2e
 Pathfinder_Kingmaker
 pathfindermains
+PathofChampions
 pathofexile
 PathOfExileBuilds
 pathologic
@@ -7667,6 +7669,7 @@ watchplantsgrow
 watchthingsfly
 Watercolor
 watercolorcats
+watercolorpractice
 watercooling
 Waterdogs
 waterloo
