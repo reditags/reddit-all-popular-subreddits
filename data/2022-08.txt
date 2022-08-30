@@ -1357,6 +1357,7 @@ Chainsawfolk
 ChainsawMan
 chairsunderwater
 Challenger
+Chameleons
 Championship
 Chang_Gang
 changeyourfont
@@ -7708,6 +7709,7 @@ whatcouldgoright
 Whatcouldgowrong
 whatintarnation
 whatisthiscar
+whatsthatbook
 whatsthisbird
 whatsthisbug
 whatsthisplant
