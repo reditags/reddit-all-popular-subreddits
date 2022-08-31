@@ -4333,6 +4333,7 @@ LowSodiumSimmers
 LowStakesConspiracies
 Lowtechbrilliance
 LPOTL
+LSAT
 LSD
 LTB_iel
 LubaTv
@@ -6685,6 +6686,7 @@ StoicMemes
 stolendogbeds
 StonerEngineering
 StonerThoughts
+stoneshard
 Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
@@ -7447,6 +7449,7 @@ unexpectedsabaton
 UnexpectedSCP
 unexpectedskyrim
 UnexpectedTF2
+UnexpectedThanos
 UnexpectedThugLife
 UnexplainedPhotos
 Unextexted
