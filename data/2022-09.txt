@@ -26,6 +26,7 @@
 4PanelCringe
 5ToubunNoHanayome
 676
+7daystodie
 90DayFiance
 90dayfianceuncensored
 90s
@@ -81,6 +82,7 @@ alaska
 AlbedosCreations
 alberta
 Albuquerque
+AlchemyStarsEN
 AlexaBliss
 alexandradaddario
 AlHaithamMains
@@ -95,6 +97,7 @@ AmberlynnReidYT
 AmberlynnSnark
 AmberMains
 amcstock
+Amd
 AmerExit
 AmericaBad
 americanairlines
@@ -138,6 +141,7 @@ animecirclejerk
 AnimeFunny
 animegifs
 animehotbeverages
+AnimeMeme
 animememes
 Animemes
 animenocontext
@@ -165,6 +169,7 @@ ApexUncovered
 apexuniversity
 apolloapp
 apple
+AppleWatch
 ApplyingToCollege
 APStudents
 AquariumMemes
@@ -190,6 +195,7 @@ arma
 army
 aromantic
 arresteddevelopment
+ArsenalFC
 Art
 ArtDeco
 ArtefactPorn
@@ -246,6 +252,8 @@ aww
 Awwducational
 Awww
 AyakaMains
+Ayato_Mains
+AyyMD
 AZCardinals
 Azoozkie
 BabyBumps
@@ -263,6 +271,7 @@ Baking
 BaldursGate3
 balkans_irl
 ballpython
+BalticStates
 BancaDelMeme
 bangalore
 bangtan
@@ -283,8 +292,11 @@ Battlecars
 battlecats
 Battlefield
 battlefield2042
+battlefield_4
 battlefield_one
+BattlefieldV
 battlemaps
+battles2
 battlestations
 battletech
 bayarea
@@ -309,6 +321,7 @@ belgium
 Ben10
 bengalcats
 bengals
+benshapiro
 bernesemountaindogs
 BernieSanders
 Berserk
@@ -434,12 +447,14 @@ buildapcsales
 Bulldogs
 BullTerrier
 Bumble
+buncomfortable
 burgers
 Buttcoin
 BuyItForLife
 byebyejob
 CabinPorn
 cabins
+cableporn
 CAguns
 cakedecorating
 Calgary
@@ -746,6 +761,7 @@ DemocraticSocialism
 democrats
 DemonSlayerAnime
 Denmark
+DenzelCurry
 DeppDelusion
 depression_memes
 DerryGirls
@@ -784,6 +800,7 @@ dishonored
 Disneyland
 DisneyPlus
 disneyvacation
+distractible
 distressingmemes
 DivinityOriginalSin
 DivorcedBirds
@@ -839,6 +856,7 @@ Dualsport
 dubai
 duck
 DuggarsSnark
+Duklock
 DumpsterDiving
 DunderMifflin
 DungeonMasters
@@ -858,6 +876,7 @@ educationalgifs
 egg_irl
 Egypt
 EightySix
+ekinde
 Eldar
 EldenBling
 Eldenring
@@ -865,7 +884,9 @@ ElderScrolls
 elderscrollsonline
 electricians
 electricvehicles
+ElectroBOOM
 EliteDangerous
+ElizabethTurner
 elonmusk
 Embroidery
 EmiliaClarke
@@ -880,6 +901,7 @@ EngineeringPorn
 EngineeringStudents
 engrish
 ENLIGHTENEDCENTRISM
+enlistedgame
 Enough_Sanders_Spam
 EnoughMuskSpam
 entertainment
@@ -892,6 +914,7 @@ entwives
 EpicSeven
 Eragon
 Erma
+es
 EscapefromTarkov
 esist
 espresso
@@ -962,6 +985,7 @@ FinalFantasy
 finalfantasytactics
 finalfantasyx
 finance
+Finanzen
 FingMemes
 Finland
 Firearms
@@ -1013,6 +1037,7 @@ foxes
 foxholegame
 FragileMaleRedditor
 FragileWhiteRedditor
+FragReddit
 france
 FrankOcean
 FreckledGirls
@@ -1021,6 +1046,7 @@ freefolk
 freefromwork
 French
 Frenchbulldogs
+Frenchhistorymemes
 FrenchMemes
 FridayNightFunkin
 friends_tv_show
@@ -1038,6 +1064,7 @@ Fuckthealtright
 fucktheccp
 FUCKYOUINPARTICULAR
 FuckYouKaren
+fujifilm
 FullmetalAlchemist
 FullScorpion
 functionalprint
@@ -1081,6 +1108,7 @@ gaymemes
 GaySoundsShitposts
 GCSE
 geek
+gekte
 Genshin_Impact
 Genshin_Impact_Leaks
 Genshin_Lore
@@ -1098,6 +1126,7 @@ germany
 GeschichtsMaimais
 getdisciplined
 GetMotivated
+GettingShredded
 GharKeKalesh
 GhettoStreetFights
 ghibli
@@ -1144,6 +1173,7 @@ gravityfalls
 greatdanes
 greatpyrenees
 greebles
+greece
 GreenAndPleasant
 GreenBayPackers
 Greyhounds
@@ -1179,6 +1209,7 @@ hacking
 HadesTheGame
 HaileeSteinfeld
 hailhortler
+HairDye
 HalfLife
 halloween
 halo
@@ -1195,6 +1226,7 @@ HappyTrees
 HappyWoofGifs
 HardcoreNature
 hardware
+hardwaregore
 HarleyQuinnTV
 harrypotter
 Hasan_Piker
@@ -1345,6 +1377,7 @@ IndianCountry
 IndianDankMemes
 IndianGaming
 Indiangirlsontinder
+IndianMemeTemplates
 IndiaNostalgia
 IndianStockMarket
 indiasocial
@@ -1477,6 +1510,7 @@ Kindred
 kingdomcome
 KingdomHearts
 KingOfTheHill
+Kirby
 Kitten
 KittenMittens
 kittens
@@ -1520,6 +1554,7 @@ LeagueOfMemes
 LeaMartinez
 leanbeefpatty
 leaves
+LeftistGamersUnion
 LegalAdviceUK
 legalcatadvice
 legendofkorra
@@ -1613,12 +1648,14 @@ MadeMeCry
 MadeMeSmile
 Madisonbeer
 madisonwi
+MadokaMagica
 MagicArena
 magicthecirclejerking
 Maine
 mainecoons
 MakeMeSuffer
 MakeupAddiction
+makeyourchoice
 MaladaptiveDreaming
 malaysia
 Malazan
@@ -1641,6 +1678,7 @@ marijuanaenthusiasts
 Mariners
 Mario
 mariokart
+market_sentiment
 Markiplier
 Marriage
 Marvel
@@ -1724,7 +1762,9 @@ MinecraftChampionship
 Minecrafthmmm
 MinecraftMemes
 minecraftseeds
+MineIslam
 miniatures
+miniminter
 minipainting
 Miniworlds
 Minneapolis
@@ -1743,6 +1783,7 @@ MLS
 MMA
 mmamemes
 MobileLegendsGame
+MoDaoZuShi
 modeltrains
 modernwarfare
 ModernWarfareII
@@ -1762,6 +1803,7 @@ MonsterHunterWorld
 Montana
 Morbius
 Mordhau
+morenabaccarin
 moreplatesmoredates
 Morrowind
 MortalKombat
@@ -1796,6 +1838,7 @@ MyChemicalRomance
 mycology
 MyouiMina
 MyPeopleNeedMe
+MySummerCar
 mythology
 mythologymemes
 n64
@@ -1867,6 +1910,7 @@ nietdespeld
 Nijisanji
 NikkeMobile
 NilouMains
+NinaDobrev
 Ningen
 NintendoMemes
 NintendoSwitch
@@ -1883,6 +1927,7 @@ NoisyCats
 noisygifs
 noita
 NoJumper
+NolanBatmanMemes
 NoLawns
 NoMansSkyTheGame
 NonCredibleDiplomacy
@@ -1915,6 +1960,7 @@ noveltranslations
 nowmycat
 nrl
 NSFWPublicFreakout
+nuclear
 NUFC
 nukedmemes
 nursing
@@ -2068,6 +2114,7 @@ Physics
 physicsmemes
 pics
 Pikabu
+Pineapplebrat
 pinkfloyd
 PinkFloydCircleJerk
 PinkOmega
@@ -2099,6 +2146,7 @@ PokemonGoFriends
 PokemonLegendsArceus
 PokemonMasters
 pokemonmemes
+PokemonScarletViolet
 PokemonSwordAndShield
 PokemonTCG
 PokemonUnite
@@ -2152,7 +2200,9 @@ PS4
 PS5
 psych
 Psychedelics
+psychology
 PublicFreakout
+pukicho
 PunishingGrayRaven
 PunPatrol
 puns
@@ -2220,6 +2270,7 @@ regularshow
 relationship_advice
 religiousfruitcake
 reloading
+rentnerzeigenaufdinge
 Repsneakers
 reptiles
 RepublicanValues
@@ -2251,13 +2302,16 @@ rollercoasters
 Romania
 romemes
 RoomPorn
+roosterteeth
 rose
 RotMG
 Rottweiler
 RoughRomanMemes
 RPClipsGTA
+RPDRDRAMA
 rpghorrorstories
 RTGameCrowd
+rubysalvoX
 rugbyunion
 runescape
 running
@@ -2276,12 +2330,14 @@ sailormoon
 SaimanSays
 SaintMeghanMarkle
 SaintRampalJi
+SaintsFC
 SaintsRow
 salmahayek
 saltierthancrait
 saltierthankrayt
 SaltLakeCity
 Samadhi_Zendejas
+SamayRaina
 SamONellaAcademy
 samoyeds
 SandersForPresident
@@ -2300,6 +2356,7 @@ Satisfyingasfuck
 SatisfyingClean
 savedyouaclick
 Scams
+ScandinavianInterior
 ScaramoucheMains
 SchittsCreek
 schkreckl
@@ -2343,6 +2400,7 @@ Sham_Sharma_Show
 SharedBPM
 Shark_Park
 sharks
+SheGotHands
 sheranetflix
 ShermanPosting
 shiba
@@ -2404,6 +2462,8 @@ SkyPorn
 skyrim
 SkyrimMemes
 slaythespire
+Slipknot
+Slovakia
 Slovenia
 slowcooking
 smalllebowsky
@@ -2443,8 +2503,10 @@ spacex
 SpaceXLounge
 SpaceXMasterrace
 spain
+specializedtools
 SpeedOfLobsters
 sphynx
+SpiceandWolf
 spicy
 spiderbro
 Spiderman
@@ -2529,6 +2591,7 @@ suicidebywords
 sunraybee
 Suomi
 Superbowl
+superman
 SuperMegaShow
 SupermodelCats
 SuperModelIndia
@@ -2759,6 +2822,7 @@ tylerthecreator
 tzuyu
 UBC
 ucla
+Udyrmains
 ufc
 UFOs
 UIUC
@@ -2815,11 +2879,13 @@ veganfitness
 VeganFoodPorn
 veganrecipes
 vegetablegardening
+vegetarian
 velvethippos
 venturebros
 Vermintide
 vexillology
 vexillologycirclejerk
+veYakinEvren
 victoria2
 victoria3
 VictoriaBC
@@ -2846,6 +2912,7 @@ VoteDEM
 VRtoER
 VShojo
 VuvuzelaIPhone
+Wales
 WalkableStreets
 walkaway
 wallstreetbets
@@ -2863,6 +2930,7 @@ WarplanePorn
 warriors
 WarshipPorn
 warthundermemes
+wasletztepreis
 Watches
 WatchPeopleDieInside
 watchpeoplesurvive
@@ -2910,6 +2978,7 @@ whitesox
 wholesome
 WholesomeComics
 wholesomegifs
+wholesomegreentext
 wholesomememes
 wholesomemes
 wholesomeviolence
