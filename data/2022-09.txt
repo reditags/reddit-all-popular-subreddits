@@ -57,6 +57,7 @@ ABoringDystopia
 AbruptChaos
 absolutelynotanimeirl
 absolutelynotme_irl
+absolutelynotmeirl
 AbsoluteUnits
 ac_newhorizons
 ACAB
@@ -134,6 +135,7 @@ AmericaBad
 americanairlines
 americandad
 AmericanFascism2020
+amex
 AMG
 Amigurumi
 AmITheAngel
@@ -158,6 +160,7 @@ Animal_Sanctuary
 AnimalCrossing
 AnimalCrossingNewHor
 AnimalsBeingBros
+AnimalsBeingConfused
 AnimalsBeingDerps
 AnimalsBeingGeniuses
 AnimalsBeingJerks
@@ -383,6 +386,7 @@ BeginnerWoodWorking
 behindthebastards
 beholdthemasterrace
 belgium
+BeMesmerized
 Ben10
 bengalcats
 bengals
@@ -467,6 +471,7 @@ Bolehland
 BollyBlindsNGossip
 bollywood
 BollywoodUHQonly
+bon_appetit
 Bondedpairs
 BoneAppleTea
 bonecollecting
@@ -606,6 +611,7 @@ catsarefuckingstupid
 catsareliquid
 catsbeingbanks
 CatsBeingCats
+CatsBeingDerps
 CatsEnjoyingPets
 catshuggingcats
 CatsInBusinessAttire
@@ -655,6 +661,7 @@ chemistrymemes
 Chennai
 chessbeginners
 CHIBears
+chicagobulls
 chickens
 CHICubs
 Chihuahua
@@ -693,6 +700,7 @@ climbing
 ClimbingCircleJerk
 clonewars
 CloneWarsMemes
+CLOUDS
 cobrakai
 cockatiel
 cocktails
@@ -748,6 +756,7 @@ consulting
 ContagiousLaughter
 ContraPoints
 ConvenientCop
+cookiedecorating
 CookieRunKingdoms
 Cooking
 CoolAmericaFacts
@@ -773,6 +782,7 @@ CrackWatch
 craftsnark
 CrappyDesign
 crappyoffbrands
+crashbandicoot
 CrazyFuckingVideos
 CrazyIdeas
 CrazyReality
@@ -839,6 +849,7 @@ dadswhodidnotwantpets
 DaftPunk
 dahyun
 Dallas
+DallasStars
 dalle2
 Damnthatsinteresting
 dancemoms
@@ -1024,6 +1035,7 @@ DrewGooden
 Drifting
 dril
 DrillCats
+Drizzy
 DrStone
 Drueandgabe
 drums
@@ -1046,6 +1058,7 @@ DynastyFF
 EarthPorn
 Earwolf
 EatCheapAndHealthy
+eatsandwiches
 EbonyImagination
 Economics
 economy
@@ -1120,6 +1133,7 @@ europe
 eurovision
 evangelion
 evangelionmemes
+Eve
 Everton
 EverythingFoxes
 EverythingScience
@@ -1222,6 +1236,7 @@ fnki
 fnv
 fo4
 fo76
+fo76FilthyCasuals
 food
 foodhacks
 FoodPorn
@@ -1339,6 +1354,7 @@ gaymemes
 GaySoundsShitposts
 GCSE
 geek
+GeekyCrochet
 gekte
 Genshin_Impact
 Genshin_Impact_Leaks
@@ -1411,6 +1427,7 @@ Grapplerbaki
 gratefuldead
 gravelcycling
 gravityfalls
+GreatBritishBakeOff
 greatdanes
 greatpyrenees
 greebles
@@ -1424,6 +1441,7 @@ GriefSupport
 grilledcheese
 grilling
 Grimdank
+grunge
 GTA
 gtaonline
 GTAorRussia
@@ -1631,6 +1649,7 @@ ImaginaryElementals
 ImaginaryElves
 imaginarygatekeeping
 ImaginaryHorrors
+ImaginaryImmortals
 ImaginaryJedi
 ImaginaryLandscapes
 ImaginaryLeviathans
@@ -1650,6 +1669,7 @@ ImaginaryVehicles
 ImaginaryWarhammer
 ImaginaryWastelands
 ImaginaryWesteros
+ImaginaryWitcher
 ImaginaryWitches
 ImaginaryWizards
 ImFinnaGoToHell
@@ -1719,6 +1739,7 @@ IronFrontUSA
 ironicsigns
 ironscape
 IrrationalMadness
+Ishowspeed
 islam
 Israel
 IsTodayFridayThe13th
@@ -1815,6 +1836,7 @@ karengillan
 karens
 KarmaRoulette
 KatDennings
+KatherineMcNamara
 KatherynWinnick
 KathyDrayton
 katyperry
@@ -2109,6 +2131,7 @@ MEOW_IRL
 mercedes_benz
 merlinbbc
 Metalcore
+metaldetecting
 metalgearrising
 Metallica
 MetalMemes
@@ -2235,6 +2258,7 @@ mycology
 MyouiMina
 MyPeopleNeedMe
 MysteryDungeon
+mysticmessenger
 MySummerCar
 mythology
 mythologymemes
@@ -2257,6 +2281,7 @@ nathanforyou
 NationalPark
 NationalServiceSG
 NativeAmerican
+nattyorjuice
 nature
 NatureIsFuckingLit
 natureismetal
@@ -2495,6 +2520,7 @@ panicatthedisco
 pansexual
 panthers
 Papaplatte
+papermario
 papertowns
 ParadoxExtra
 Parahumans
@@ -2506,6 +2532,7 @@ parrots
 PartyParrot
 Patchuu
 Pathfinder2e
+Pathfinder_Kingmaker
 pathofexile
 Patriots
 paydaytheheist
@@ -2675,6 +2702,7 @@ PutAnEggOnIt
 PvZHeroes
 pyrocynical
 QAnonCasualties
+QanonKaren
 Qdpay
 qotsa
 Quebec
@@ -2921,6 +2949,7 @@ Shitty_Car_Mods
 ShittyAnimalFacts
 Shittyaskflying
 shittyaskscience
+shittybattlestations
 shittyeldenring
 shittyfoodporn
 shittygamedetails
@@ -3022,6 +3051,7 @@ SpaceXLounge
 SpaceXMasterrace
 spain
 specializedtools
+SpeculativeEvolution
 SpeedOfLobsters
 sphynx
 SpiceandWolf
@@ -3084,6 +3114,7 @@ staryuuki
 StassieBaby
 steak
 Steam
+steamdeals
 SteamDeck
 steelers
 steinsgate
@@ -3121,6 +3152,7 @@ submechanophobia
 subnautica
 SubSimulatorGPT2
 Suburbanhell
+SubwayCreatures
 SuccessionTV
 suddenlybi
 SuddenlyLesbian
@@ -3139,6 +3171,7 @@ Supernatural
 Superstonk
 superstore
 SuperStructures
+supportlol
 surdev
 surrealmemes
 survivinginfidelity
@@ -3219,6 +3252,7 @@ teslainvestorsclub
 TeslaModel3
 teslamotors
 texas
+TexasPolitics
 tf2
 TF2fashionadvice
 tf2memes
@@ -3383,6 +3417,7 @@ TruckerCats
 Trucks
 trucksim
 TrueAnon
+truechildfree
 TrueCrime
 TrueCrimeDiscussion
 trump
@@ -3437,6 +3472,7 @@ UnexpectedlyWholesome
 unexpectedoffice
 unexpectedsabaton
 Unextexted
+unionsolidarity
 unitedkingdom
 Unity3D
 UniversalOrlando
@@ -3457,6 +3493,7 @@ uselessredcircle
 UsernameChecksOut
 USMC
 ussoccer
+UTAustin
 UzakiChan
 valheim
 valkyrae
@@ -3484,6 +3521,7 @@ vegetarian
 velvethippos
 venturebros
 Vermintide
+Veterans
 vexillology
 vexillologycirclejerk
 veYakinEvren
@@ -3605,6 +3643,7 @@ WiggleButts
 wii
 wikipedia
 WildernessBackpacking
+wildhockey
 wildlifephotography
 wimmelbilder
 Windows11
@@ -3642,6 +3681,7 @@ writingcirclejerk
 WritingPrompts
 WRX
 WTF
+WTFwish
 ww2
 ww2memes
 WWE
@@ -3663,6 +3703,7 @@ yahooanswers
 yakuzagames
 yandere
 YAPms
+YarnAddicts
 yeat_
 yeezys
 Yeji
