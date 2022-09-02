@@ -283,6 +283,7 @@ AskOuija
 AskReddit
 askscience
 AskScienceFiction
+askSingapore
 AskThe_Donald
 asktransgender
 AskUK
@@ -842,6 +843,7 @@ Cosmere
 cosplayers
 Costco
 cottagecore
+CountOnceADay
 countryball_memes
 cowboybebop
 cowboys
@@ -1354,6 +1356,7 @@ fnv
 fo4
 fo76
 fo76FilthyCasuals
+FondantHate
 food
 foodhacks
 FoodPorn
@@ -2053,6 +2056,7 @@ kittens
 kittyhasaquestion
 kittykankles
 KittyPupperLove
+KittyTailWrap
 KneadyCats
 knifeclub
 knives
@@ -2103,6 +2107,7 @@ latvia
 LaurenCohan
 law
 LawSchool
+lcfc
 leagueoflegends
 LeagueOfMemes
 LeaMartinez
@@ -2495,6 +2500,7 @@ Nahida_Mains
 NailArt
 Nails
 NameNerdCirclejerk
+namenerds
 namethatcar
 NarcoFootage
 Naruto
@@ -2735,6 +2741,7 @@ Orochisegundo
 OSHA
 OshiNoKo
 osp
+OstrichPlug
 osugame
 othepelican
 OTMemes
@@ -3248,6 +3255,7 @@ ShitPoliticsSays
 shitpostbound
 ShitPostCrusaders
 shitposting
+shitposting_inc
 ShitpostXIV
 Shitstatistssay
 Shitty_Car_Mods
@@ -3544,6 +3552,7 @@ tallyhall
 TameImpala
 tampa
 tampabayrays
+tankiejerk
 TankPorn
 tanks
 TanmayBhatKeDost
@@ -4046,6 +4055,7 @@ wildrift
 wimmelbilder
 Windows11
 WingsOfFire
+WinStupidPrizes
 winterporn
 wirklichgutefrage
 wisconsin
@@ -4100,6 +4110,7 @@ XboxSeriesX
 Xenoblade_Chronicles
 Xenonion
 XFiles
+XiaoMains
 xkcd
 xmen
 xqcow
