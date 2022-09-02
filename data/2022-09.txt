@@ -225,6 +225,7 @@ aoe2
 aoe4
 Apandah
 ape
+ApexConsole
 apexlegends
 ApexLore
 ApexOutlands
@@ -555,6 +556,7 @@ Brawlhalla
 Brawlstars
 Breadit
 breakingbad
+breakingbadmemes
 Breath_of_the_Wild
 Brewers
 bridezillas
@@ -948,6 +950,7 @@ Daredevil
 DarK
 DarkBRANDON
 darkestdungeon
+DarkGothicArt
 Darkhumorandjokes
 DarkSouls2
 darksoulsmemes
@@ -1181,6 +1184,7 @@ electricvehicles
 ElectroBOOM
 electronics
 EliteDangerous
+EliteWeebs
 ElizabethOlsen
 ElizabethTurner
 elonmusk
@@ -1767,6 +1771,7 @@ ididnthaveeggs
 IdiotsFightingThings
 IdiotsInBoats
 IdiotsInCars
+IdiotsOnBikes
 Idiotswithguns
 IDONTGIVEASWAG
 IDontWorkHereLady
@@ -2763,8 +2768,10 @@ PackADayKitties
 Padres
 PaigeSpiranac
 painting
+pakistan
 Paladins
 Paleontology
+Palestine
 PandR
 panicatthedisco
 pansexual
@@ -2831,6 +2838,7 @@ PhilosophyMemes
 Philza
 phineasandferb
 phish
+phmoneysaving
 phoebebridgers
 phoenix
 PhoenixSC
@@ -3258,6 +3266,7 @@ shittymoviedetails
 shittyrainbow6
 shittyreactiongifs
 shittyrobots
+shittysimulated
 shittyskylines
 shittysuperpowers
 shittytechnicals
@@ -3522,6 +3531,7 @@ TabbyCats
 tacobell
 tacticalgear
 TacticalIssueCat
+taiwan
 Takagi_san
 tales
 TalesFromRetail
@@ -3606,6 +3616,7 @@ the1975
 The8BitRyanReddit
 The_Mueller
 THE_PACK
+theadamfriedlandshow
 TheAstraMilitarum
 TheBatmanFilm
 TheBidenshitshow
@@ -3786,6 +3797,7 @@ TurkeyJerky
 TurkishCats
 TuxedoCats
 TVDetails
+TVTooHigh
 twicemedia
 twicememes
 twilight
@@ -3894,6 +3906,7 @@ victoriajustice
 videogamedunkey
 videos
 vidid
+VietNam
 Vilebrequin
 Vinesauce
 VinlandSaga
@@ -3929,6 +3942,7 @@ walkablecities
 WalkableStreets
 walkaway
 wallpaper
+wallpaperengine
 wallstreetbets
 Wallstreetbetsnew
 Wallstreetsilver
