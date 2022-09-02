@@ -322,6 +322,7 @@ assettocorsa
 assholedesign
 Astronomy
 astrophotography
+Astros
 ATAAE
 ATBGE
 AteistTurk
@@ -807,6 +808,7 @@ chutyapa
 chuunibyou
 CICO
 cigars
+cincinnati
 Cinemagraphs
 CirclejerkSopranos
 cirkeltrek
@@ -1011,6 +1013,7 @@ Daniellarson
 dank_meme
 DankAndrastianMemes
 dankchristianmemes
+DankExchange
 dankgentina
 dankinindia
 dankmark
@@ -1240,6 +1243,7 @@ Duklock
 DumpsterDiving
 DunderMifflin
 dune
+dunememes
 DungeonMasters
 DungeonsAndDaddies
 DungeonsAndDragons
@@ -1536,6 +1540,7 @@ frugalmalefashion
 Fruitbatcats
 FruitsBasket
 ft86
+ftlgame
 fuckcars
 fuckepic
 FUCKFACEPOD
@@ -1544,6 +1549,7 @@ fuckHOA
 FuckImOld
 fucklawns
 FuckNestle
+FuckPierre
 Fuckthealtright
 fucktheccp
 fuckwasps
@@ -1693,6 +1699,7 @@ GothStyle
 Graffiti
 grandorder
 grandpajoehate
+grandrapids
 granturismo
 graphic_design
 Grapplerbaki
@@ -1889,6 +1896,7 @@ httyd
 HUEstation
 HumanForScale
 Humanoidencounters
+HumanPorn
 HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
@@ -2001,6 +2009,7 @@ ImaginaryWizards
 ImaginaryWorlds
 ImFinnaGoToHell
 ImmutableX
+Impeach_Trump
 imsorryjon
 ImTheMainCharacter
 inazumaeleven
@@ -2627,6 +2636,7 @@ miscatculations
 misleadingthumbnails
 misLED
 missbricosplay
+missouri
 Mistborn
 MitchellAndWebb
 Mizkif
@@ -2684,6 +2694,7 @@ MoviePosterPorn
 movies
 Moviesinthemaking
 MrBeast
+MrJoeNobody
 MrRobot
 MSsEcReTPoDcAsT
 MTB
@@ -2823,6 +2834,7 @@ NikkeMobile
 NilouMains
 NinaDobrev
 Ningen
+Ninjago
 nintendo
 NintendoMemes
 NintendoStitch
@@ -3058,6 +3070,7 @@ pcgaming
 pcmasterrace
 pcmods
 pcx99
+peanutbutterisoneword
 PeanutWhiskers
 PeepingPooch
 peloton
@@ -3234,6 +3247,7 @@ prolife
 PropagandaPosters
 ProperAnimalNames
 proplifting
+ProRevenge
 protogen
 PS3
 PS4
@@ -3251,6 +3265,7 @@ punk
 Punny
 PunPatrol
 puns
+PupliftingNews
 PuppySmiles
 Purdue
 purrkour
@@ -3351,6 +3366,7 @@ residentevil
 ResinCasting
 restofthefuckingowl
 retardedcornfieldcum
+RetroAR
 retrobattlestations
 RetroBowl
 RetroFuturism
@@ -3637,6 +3653,7 @@ slowcooking
 Slycooper
 smallbooblove
 smalllebowsky
+smarthome
 smashbros
 SmashBrosUltimate
 smashmemes
@@ -4026,10 +4043,12 @@ thisismylifenow
 ThisLooksFun
 ThisYouComebacks
 thomastheplankengine
+Thorgasm
 ThotBeatdowns
 thumbcats
 Tierzoo
 tifu
+TighnariMains
 TIGHTPUSSY
 TIHI
 Tiki
@@ -4113,6 +4132,7 @@ TransLater
 transmasc_irl
 Transmatfiring
 Transmogrification
+transtrans
 transylveon
 trap
 trashpandas
@@ -4188,6 +4208,7 @@ UkraineWarVideoReport
 UkrainianConflict
 Ultrakill
 UNBGBBIIVCHIDCTIICBG
+UnchainedMelancholy
 uncharted
 unclebens
 Undertale
@@ -4317,6 +4338,7 @@ walmart
 WalmartCelebrities
 WaltDisneyWorld
 Waluigi
+WANDAVISION
 wankil
 WarAndPeas
 Warframe
@@ -4427,6 +4449,7 @@ winterporn
 wirklichgutefrage
 wisconsin
 Wiseposting
+Witch
 witcher
 Witcher3
 WitchesVsPatriarchy
