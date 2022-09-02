@@ -115,6 +115,7 @@ AirRage
 airsoft
 airsoftcirclejerk
 aiyu
+AjaxAmsterdam
 ak47
 AkameGaKILL
 alaska
@@ -746,6 +747,7 @@ christinahendricks
 chronotrigger
 ChurchOfKasumi
 ChurchofMarnie
+chutyapa
 chuunibyou
 CICO
 cigars
@@ -786,6 +788,7 @@ coilerayy
 ColdOnes
 college
 CollegeBasketball
+ColleiMains
 Colorado
 ColoradoAvalanche
 Colorization
@@ -1034,6 +1037,7 @@ DestinyFashion
 DestinyLore
 DestinyMemes
 DestinyTheGame
+DestroyedTanks
 DetailCraft
 DeTrashed
 Detroit
@@ -1240,6 +1244,7 @@ Eugene
 EulaMains
 euphoria
 europe
+EuropeanFederalists
 eurovision
 evangelion
 evangelionmemes
@@ -1414,6 +1419,7 @@ friends_tv_show
 frogs
 FromKittenToCat
 fromsoftware
+frontfootporn
 Frugal
 frugalmalefashion
 Fruitbatcats
@@ -1452,6 +1458,7 @@ fuslie
 fut
 futebol
 futurama
+Futuremoe
 futureporn
 Futurology
 G59
@@ -1488,6 +1495,7 @@ geckos
 geek
 GeekyCrochet
 gekte
+genestealercult
 Genshin_Impact
 Genshin_Impact_Leaks
 Genshin_Lore
@@ -1926,6 +1934,7 @@ iwoulddiefornoodle
 Izlam
 jackrussellterrier
 JackSucksAtLife
+Jaharia
 jaidenanimations
 jailbreak
 jakertown
@@ -2116,6 +2125,7 @@ learnprogramming
 Leathercraft
 leaves
 LeedsUnited
+leetcode
 LeftistGamersUnion
 LeftTheBurnerOn
 LegalAdviceUK
@@ -2149,6 +2159,7 @@ libsofreddit
 lies
 lifehacks
 lifeisstrange
+LifeofBoris
 LifeProTips
 LigaMX
 lightsabers
@@ -2192,6 +2203,7 @@ loopringorg
 lordoftherings
 loreofleague
 loseit
+Loserfruit
 lossofalovedone
 lost
 Lost_Architecture
@@ -2229,6 +2241,7 @@ mac
 macarons
 MachikadoMazoku
 MachineLearning
+MachinePorn
 Machinists
 MacMiller
 Madden
@@ -2439,6 +2452,7 @@ MonsterHigh
 MonsterHunter
 MonsterHunterWorld
 Montana
+MoonKnight
 morbidlybeautiful
 Morbius
 Mordhau
@@ -2729,6 +2743,7 @@ ontario
 ontheledgeandshit
 oompasubs
 OopsThatsDeadly
+OPBR
 Opossums
 orangecats
 orchids
@@ -2770,6 +2785,7 @@ Overwatch_Memes
 OverwatchTMZ
 Owls
 OyasumiPunpun
+Ozark
 P1ZZ4_M0ZZARELL4
 PackADayKitties
 Padres
@@ -2950,6 +2966,7 @@ PrincessesOfPower
 PrintedMinis
 privacy
 ProCreate
+programare
 ProgrammerAnimemes
 ProgrammerHumor
 programming
@@ -3249,6 +3266,7 @@ SHINee
 ShingekiNoKyojin
 Shining_Nikki
 ShinyPokemon
+ShitKonfaSays
 ShitLiberalsSay
 ShitMomGroupsSay
 ShitPoliticsSays
@@ -3520,6 +3538,7 @@ survivinginfidelity
 survivor
 sushi
 suspiciouslyspecific
+svenskpolitik
 SVU
 SweatyPalms
 sweden
@@ -3656,6 +3675,7 @@ TheLastAirbender
 thelastofus
 TheLastOfUs2
 TheLeftCantMeme
+TheLetterH
 TheLib
 thelongdark
 TheMagnusArchives
@@ -3718,6 +3738,7 @@ titanic
 TLCsisterwives
 TMNT
 TNOmod
+toarumajutsunoindex
 toastme
 todayilearned
 toddlers
@@ -3765,6 +3786,7 @@ Transformemes
 transformers
 transgamers
 transgender
+transit
 TransLater
 transmasc_irl
 Transmatfiring
@@ -4100,6 +4122,7 @@ WTFwish
 ww2
 ww2memes
 WWE
+WWEGames
 wwiipics
 WWIIplanes
 xbiking
