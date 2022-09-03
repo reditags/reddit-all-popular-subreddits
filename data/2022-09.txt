@@ -144,6 +144,7 @@ aliandjohnjamesagain
 alicenfern
 AlisonBrie
 AllaBruletova
+altdogelore
 AlternateHistory
 alternativeart
 AlternativeHistory
@@ -199,6 +200,7 @@ Animal_Sanctuary
 AnimalCollective
 AnimalCrossing
 AnimalCrossingNewHor
+AnimalPorn
 AnimalsBeingBros
 AnimalsBeingConfused
 AnimalsBeingDerps
@@ -220,6 +222,7 @@ animecuddling
 AnimeFunny
 animegifs
 animehotbeverages
+AnimeInOurWorld
 AnimeMeme
 animememes
 Animemes
@@ -569,6 +572,7 @@ bmbmbm
 BMW
 boardgames
 BobsBurgers
+BobsTavern
 boburnham
 bodegacats
 bodybuilding
@@ -699,6 +703,7 @@ CapitolConsequences
 CaptainSparklez
 CaptainSparrowmemes
 capybara
+CaraDelevingne
 carbage
 carcrash
 cardano
@@ -1324,6 +1329,7 @@ EatCheapAndHealthy
 eatsandwiches
 Eberron
 EbonyImagination
+ECE
 Economics
 economy
 EDC
@@ -2384,6 +2390,7 @@ KSPMemes
 kucoin
 KumoDesu
 Kurisutina
+Kurumi
 kurzgesagt
 KusanaliMains
 KUWTKsnark
@@ -2459,6 +2466,7 @@ lgbtmemes
 LibbyandAbby
 Liberal
 liberalgunowners
+liberta
 Libertarian
 libertarianmeme
 librandu
@@ -2560,6 +2568,7 @@ MachineLearning
 MachinePorn
 Machinists
 MacMiller
+MacOS
 MacroPorn
 macsetups
 Madden
@@ -2616,6 +2625,7 @@ market_sentiment
 Markiplier
 Marriage
 martialarts
+MartialMemes
 Marvel
 MarvelCringe
 MarvelLegends
@@ -2907,6 +2917,7 @@ neekolul
 neighborsfromhell
 NelliesNest
 neography
+NeonGenesisEvangelion
 neopets
 neovim
 Nepal
@@ -3419,6 +3430,7 @@ PupliftingNews
 puppies
 PuppySmiles
 Purdue
+Purrito
 purrkour
 pussypassdenied
 PutAnEggOnIt
@@ -3835,6 +3847,7 @@ Sneks
 snes
 snowboarding
 snowrunner
+SNSD
 soccercirclejerk
 socialism
 SocialismIsCapitalism
@@ -4052,6 +4065,7 @@ tacticalgear
 TacticalIssueCat
 taiwan
 Takagi_san
+TakaMori
 tales
 TalesFromDF
 TalesFromRetail
@@ -4213,6 +4227,7 @@ theyknew
 ThingsCutInHalfPorn
 thingsforants
 thinkpad
+ThirdLifeSMP
 Thisismylifemeow
 thisismylifenow
 ThisLooksFun
@@ -4257,6 +4272,7 @@ toddlers
 toebeans
 ToiletPaperUSA
 tokkiefeesboek
+Tokyo
 TokyoGhoul
 TokyoRevengers
 tolkienfans
