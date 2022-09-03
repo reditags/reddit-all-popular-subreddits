@@ -348,6 +348,7 @@ AteistTurk
 AteTheOnion
 atheism
 ATLA
+Atlanta
 AtlantaHawks
 AtlantaUnited
 atrioc
@@ -405,6 +406,7 @@ badassanimals
 BadChoicesGoodStories
 BadDesigns
 Badfaketexts
+badhistory
 BadMUAs
 bakchodi
 bakeoff
@@ -526,6 +528,7 @@ bingbongtheorem
 bingingwithbabish
 BinIchDasArschloch
 biology
+biologymemes
 bioniclelego
 bioniclememes
 Bioshock
@@ -558,6 +561,7 @@ Blacksmith
 BladeAndSorcery
 bladerunner
 BLAHAJ
+blakelively
 Blasphemous
 BlatantMisogyny
 Blazblue
@@ -1047,6 +1051,7 @@ customhearthstone
 CustomLoR
 custommagic
 cute
+cutegayshit
 cyberDeck
 Cyberpunk
 cyberpunkgame
@@ -1283,6 +1288,7 @@ dopehumor
 Dorohedoro
 DotA2
 DoveCameron
+DowntonAbbey
 DownvotedToOblivion
 DragaliaLost
 dragonballfighterz
@@ -1516,6 +1522,7 @@ fffffffuuuuuuuuuuuu
 FFVIIRemake
 ffxiv
 FFXIVGlamours
+FFXV
 FIFA
 FifaCareers
 FiftyFifty
@@ -1549,7 +1556,9 @@ fivethirtyeight
 fixedbytheduet
 FixedGearBicycle
 flashlight
+FlashTV
 flightsim
+floggit
 Floof
 florida
 FloridaMan
@@ -1599,6 +1608,7 @@ fossilid
 FoundryVTT
 foundsatan
 FoundTheInaAlt
+foundthemobileuser
 fountainpens
 fourthwavewomen
 foxes
@@ -1913,6 +1923,7 @@ HazbinHotel
 headpats
 headphones
 Health
+HealthyFood
 Healthygamergg
 hearthstone
 hearthstonecirclejerk
@@ -2134,6 +2145,7 @@ ImaginaryWitcher
 ImaginaryWitches
 ImaginaryWizards
 ImaginaryWorlds
+ImaginAsian
 ImFinnaGoToHell
 ImmutableX
 Impeach_Trump
@@ -2178,6 +2190,7 @@ initiald
 insaneparents
 InsaneParler
 InsanePeopleQuora
+InsaneTechnology
 inscryption
 insects
 inspirobot
@@ -2293,6 +2306,7 @@ Jokes
 JonTron
 Jordan_Peterson_Memes
 JordanPeterson
+JoshuaWeissman
 Journaling
 jovemedinamica
 jovemnerd
@@ -2325,6 +2339,7 @@ KaguyaShinomiya
 kaisamains
 kaiserredux
 Kaiserreich
+KaIT
 kaleycuoco
 kallmekris
 KamenRider
@@ -2472,6 +2487,7 @@ legendofkorra
 LegendsOfRuneterra
 Legitpiercing
 lego
+legogaming
 legostarwars
 legostarwarsmemes
 LegoStarWarsVideoGame
@@ -2622,6 +2638,7 @@ MakeMeSufferMore
 MakeupAddiction
 makeyourchoice
 MaladaptiveDreaming
+MalayalamMovies
 malaysia
 Malazan
 malcolminthemiddle
@@ -2772,6 +2789,7 @@ MilitaryStories
 MilitaryVStheUnknown
 MillionaireGrindset
 milwaukee
+mimovi
 mina_irl
 Minecraft
 Minecraftbuilds
@@ -2805,6 +2823,7 @@ Mizkif
 MkeBucks
 mlb
 MLBTheShow
+mlem
 MLS
 MMA
 mmamemes
@@ -3105,6 +3124,7 @@ OfflinetvGirls
 OffMyChestPH
 offseasonthickness2
 Ohio
+OhioStateFootball
 ohnePixel
 oilpainting
 okaybuddyretard
@@ -3137,6 +3157,7 @@ oklahoma
 okmatewanker
 okoidawappler
 okpolarncp
+okprietenretardat
 Old_Recipes
 OldManDog
 oldpeoplefacebook
@@ -3430,6 +3451,7 @@ PrincessesOfPower
 PrintedMinis
 privacy
 ProCreate
+ProductManagement
 programare
 ProgrammerAnimemes
 ProgrammerHumor
@@ -3719,6 +3741,7 @@ scrungycats
 scuba
 seals
 Seaofthieves
+seaporn
 Seattle
 SeattleWA
 secondsketch
@@ -3755,6 +3778,7 @@ sffpc
 SFGiants
 SFWNextDoorGirls
 SFWRedheads
+ShadowBan
 shadowofmordor
 shafimoment
 Sham_Sharma_Show
@@ -3826,6 +3850,7 @@ ShroomID
 shrooms
 shubreddit
 ShuumatsuNoValkyrie
+shylily
 Siamesecats
 SiberianCats
 Sidemen
@@ -4119,6 +4144,7 @@ tales
 TalesFromDF
 TalesFromRetail
 talesfromtechsupport
+TalesFromTheCustomer
 TalesFromTheFrontDesk
 TalesFromYourServer
 talk_hunfluencers
@@ -4456,6 +4482,7 @@ UkraineWarVideoReport
 UkrainianConflict
 Ultrakill
 Ultraman
+ultrawidemasterrace
 UNBGBBIIVCHIDCTIICBG
 UnchainedMelancholy
 uncharted
@@ -4771,6 +4798,7 @@ Xenoblade_Chronicles
 Xenonion
 XFiles
 XiaoMains
+XinyanMains
 xkcd
 xmen
 xqcow
@@ -4784,6 +4812,7 @@ YanfeiMains
 YAPms
 YarnAddicts
 yayfoxxo
+YDHBSnark
 yeat_
 yeezys
 Yeji
