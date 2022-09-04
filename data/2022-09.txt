@@ -1009,6 +1009,7 @@ CompetitiveTFT
 COMPLETEANARCHY
 composting
 computers
+computerviruses
 conan
 ConanBeingAwesome
 ConanExiles
@@ -1273,6 +1274,7 @@ denvernuggets
 DenzelCurry
 DeppDelusion
 depression_memes
+depressionmemes
 DerryGirls
 DerScheisser
 desabafos
@@ -2109,6 +2111,7 @@ Hilary_Duff
 HildaTheSeries
 HillaryForPrison
 HIMYM
+HindiMemes
 hinduism
 HistoriaEmPortugues
 history
@@ -2186,6 +2189,7 @@ HumansBeingBros
 HumansForScale
 HumanTippyTaps
 humblebundles
+humor
 hungary
 HunterXHunter
 HuntShowdown
@@ -2564,6 +2568,7 @@ KidCudi
 KidsAreFuckingEvil
 KidsAreFuckingStupid
 KiernanShipka
+kilian
 killedthecameraman
 KillLaKill
 killsixbilliondemons
@@ -2696,6 +2701,7 @@ Lexus
 lgballt
 lgbt
 lgbthistory
+LGBTindia
 lgbtmemes
 LibbyandAbby
 Liberal
@@ -2739,6 +2745,7 @@ LiverpoolFC
 LivestreamFail
 LivMorgan
 LMDShow
+LNPCorruption
 LockdownSkepticism
 LodedDiper
 loicense
@@ -3430,6 +3437,7 @@ OooBigStretch
 OopsThatsDeadly
 OPBR
 opensea
+Opeth
 opossum_irl
 Opossums
 OpTicGaming
@@ -3653,6 +3661,7 @@ Polandballart
 Polcompball
 Poldersocialisme
 poledancing
+policeuk
 politecats
 Political_Revolution
 PoliticalCompassMemes
@@ -3912,6 +3921,7 @@ RooftopDefenders
 RoomPorn
 roosterteeth
 rose
+rosesarered
 RotMG
 Rottweiler
 RoughRomanMemes
@@ -4568,6 +4578,7 @@ TheGoodPlace
 thegrandtour
 TheGriffonsSaddlebag
 TheGrittyPast
+TheHollyWilloughby
 theJoeBuddenPodcast
 TheKillers
 TheLastAirbender
@@ -4605,6 +4616,7 @@ TheStrokes
 TheTempleOfOchako
 TheTrumpZone
 thewalkingdead
+TheWalkingDeadGame
 TheWayWeWere
 TheWeeklyRoll
 TheWeeknd
@@ -4845,6 +4857,7 @@ UnsentLetters
 unstirredpaint
 untrustworthypoptarts
 UnusualVideos
+unwholesomememes
 upcycling
 UpliftingNews
 UpvoteBecauseButt
@@ -4969,6 +4982,7 @@ WarshipPorn
 warthundermemes
 washingtonwizards
 wasletztepreis
+wasletztestern
 watch_dogs
 watchcatsdieinside
 watcherentertainment
