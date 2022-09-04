@@ -375,6 +375,7 @@ AssassinsCreedOdyssey
 AssassinsCreedValhala
 assettocorsa
 assholedesign
+assholetax
 Astroneer
 Astronomy
 astrophotography
@@ -458,6 +459,7 @@ BadChoicesGoodStories
 BadDesigns
 Badfaketexts
 badhistory
+badminton
 BadMUAs
 baeirene
 bakchodi
@@ -509,6 +511,7 @@ battletech
 batty
 bayarea
 Bayley
+Bayonetta
 BBBY
 BBQ
 beagle
@@ -685,6 +688,7 @@ borussiadortmund
 Boruto
 Bossfight
 boston
+BostonBruins
 bostonceltics
 BostonTerrier
 BotanicalPorn
@@ -868,6 +872,7 @@ catsvstechnology
 CatsWhoChirp
 CatsWhoSmoke
 CatsWhoSqueak
+catswhotrill
 Catswhoyell
 CatsWithDogs
 Catswithjobs
@@ -937,6 +942,7 @@ choppers
 Christianity
 christianmemes
 christinahendricks
+ChronicIllness
 ChronicPain
 chronotrigger
 churchoffutaba
@@ -1538,6 +1544,7 @@ Embroidery
 EmiliaClarke
 Eminem
 EmKay
+EmmaRoseKenney
 EmmaStone
 Emo
 Emoney
@@ -1660,6 +1667,7 @@ fashionhistory
 fashionporn
 FashionReps
 fashionsouls
+fashionwomens35
 fasting
 FastWorkers
 fatcats
@@ -2005,6 +2013,7 @@ goth
 GothamKnights
 GothGirls
 GothStyle
+Gouache
 GradualChaos
 Graffiti
 Granblue_en
@@ -2454,6 +2463,7 @@ introvertmemes
 Invincible
 Invisalign
 Iowa
+ipad
 iphone
 iPhoneography
 iRacing
@@ -2556,6 +2566,7 @@ Journaling
 jovemedinamica
 jovemnerd
 jpegmafia
+Jreg
 JRPG
 jschlatt
 jschlattsubmissions
@@ -2939,6 +2950,7 @@ MandirGang
 MandJTV
 MandyRose
 MangaCollectors
+mangadex
 manhwa
 ManufacturingPorn
 Maplestory
@@ -3429,6 +3441,7 @@ nursing
 NuxTakuSubmissions
 nuzlocke
 nvidia
+NYCinfluencersnark
 nycrail
 NYGiants
 nyjets
@@ -3478,6 +3491,7 @@ okbuddyimperialist
 okbuddyjotard
 OkBuddyPersona
 okbuddyphd
+OkBuddyPilot
 OkBuddyPoliceOfficer
 okbuddyreiner
 okbuddyvowsh
@@ -4612,6 +4626,7 @@ TAZCirclejerk
 tbatenovel
 tea
 Teachers
+teaching
 TeamfightTactics
 TeamFourStar
 teamliquid
