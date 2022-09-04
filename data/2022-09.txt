@@ -235,6 +235,7 @@ AnimalsBeingMoms
 AnimalsBeingSleepy
 AnimalsBeingStrange
 animalsdoingstuff
+animalslookingatfood
 AnimalsMonching
 AnimalsOnReddit
 AnimalTextGifs
@@ -257,6 +258,7 @@ animememes
 Animemes
 AnimeMirchi
 animenocontext
+animepiracy
 AnimeSketch
 AnimeTomboys
 AnimeWallpapersSFW
@@ -574,6 +576,8 @@ bi_irl
 bicla
 bicycling
 BicyclingCirclejerk
+BidenIsNotMyPresident
+bigbangtheory
 bigboobproblems
 bigboye
 BigBrother
@@ -621,6 +625,7 @@ Blackcelebrity
 BlackClover
 BlackHair
 blacklagoon
+BlackLivesMatter
 blackmagicfuckery
 blackpeoplegifs
 BlackPeopleTwitter
@@ -791,6 +796,7 @@ camilamendes
 camphalfblood
 CampingGear
 canada
+canadahousing
 canadaleft
 CanadianForces
 canberra
@@ -830,6 +836,7 @@ CatastrophicFailure
 catbellies
 catbongos
 Catbun
+catburnouts
 Catculations
 catdimension
 catfaceplant
@@ -2095,6 +2102,7 @@ GYM
 GymMemes
 GymMotivation
 h3h3productions
+H3VR
 Habs
 hacking
 HadesTheGame
@@ -2250,6 +2258,7 @@ houkai3rd
 HouseMD
 HouseOfTheDragon
 houseplants
+houseplantscirclejerk
 Houseporn
 houston
 howardstern
@@ -3119,6 +3128,7 @@ mildyinteresting
 Military
 MilitaryARClones
 MilitaryGfys
+MilitaryHistory
 MilitaryPorn
 MilitaryStories
 MilitaryVStheUnknown
@@ -4065,6 +4075,7 @@ rodentintercourse
 RodriguesFamilySnark
 RoleReversal
 rolex
+rollercoasterjerk
 rollercoasters
 Rollerskating
 Romania
@@ -5144,6 +5155,7 @@ wallpaper
 wallpaperengine
 wallstreetbets
 Wallstreetbetsnew
+wallstreetbetsOGs
 Wallstreetsilver
 walmart
 WalmartCelebrities
@@ -5183,6 +5195,7 @@ WattsonMains
 Wavyhair
 WayOfTheBern
 WeaponsMoe
+WeAreTheMusicMakers
 WeatherGifs
 WeatherPorn
 webcomics
