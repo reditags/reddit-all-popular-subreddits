@@ -93,6 +93,7 @@ Achievement_Hunter
 AchillesAndHisPal
 ACMilan
 acne
+acnh
 acotar
 ACPocketCamp
 ACQR
@@ -143,6 +144,7 @@ Agraelus
 AHatInTime
 AhriMains
 AIDKE
+aigreentext
 Aikuros
 aircrashinvestigation
 airplaneears
@@ -784,6 +786,7 @@ bristol
 britishcolumbia
 britishshorthair
 BritishSuccess
+BritneySpears
 brittanydawnsnark
 Broadway
 Brochet
@@ -1079,6 +1082,7 @@ ColdOnes
 ColleenBallingerSnark
 college
 CollegeBasketball
+CollegeRant
 ColleiMains
 Colombia
 Colorado
@@ -1497,6 +1501,7 @@ dogbridges
 dogecoin
 dogelore
 Doggles
+doggos
 Dogloaf
 dogpictures
 dogs
@@ -1933,6 +1938,7 @@ friends_tv_show
 Frisson
 frogs
 FromKittenToCat
+FromPuppyToDog
 fromsoftware
 frontfootporn
 Frostpunk
@@ -2413,6 +2419,7 @@ iamverybadass
 iamveryrandom
 iamverysmart
 IASIP
+IBEW
 IBO
 ibs
 IcebergCharts
@@ -2793,6 +2800,7 @@ KGATLW
 Kibbe
 KidCudi
 KidsAreFuckingEvil
+KidsAreFuckingSmart
 KidsAreFuckingStupid
 KiernanShipka
 kilian
@@ -3198,6 +3206,7 @@ MelissaFumero
 meme
 MemeEconomy
 memeframe
+MemeFrancais
 MemeHunter
 MemeItaliani
 MemePiece
@@ -4033,6 +4042,7 @@ PrepperIntel
 preppers
 PrequelMemes
 PresidentialRaceMemes
+Presidents
 PrettyGirls
 PrettyLittleLiars
 prey
@@ -5002,6 +5012,7 @@ theocho
 TheOnion
 TheOrville
 theouterworlds
+ThePalaceOfMiruko
 TheQuarteringIsANazi
 TheRandomest
 TheRatEmpire
@@ -5181,6 +5192,7 @@ tuckedinkitties
 TuckedInPuppies
 Tucson
 Tufting
+tulsa
 tumblr
 TumblrDraws
 Turkey
@@ -5261,6 +5273,7 @@ unionsolidarity
 unitedkingdom
 unitedstatesofindia
 Unity3D
+UniUK
 UniversalOrlando
 unixporn
 unket
@@ -5465,6 +5478,7 @@ wewontcallyou
 WGU
 whales
 WhatAWeeb
+whatcarshouldIbuy
 whatcouldgoright
 Whatcouldgowrong
 whatintarnation
