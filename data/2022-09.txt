@@ -9,6 +9,7 @@
 1200isjerky
 13or30
 1500isplenty
+15minutefood
 19684
 197
 198
@@ -1602,6 +1603,7 @@ Dogtraining
 dogvideos
 DokkanBattleCommunity
 donaldglover
+Dongistan
 Donkeys
 dontbestupid
 dontdeadopeninside
@@ -3236,6 +3238,7 @@ LunaClassic
 Lustig
 LV426
 LycorisRecoil
+Lysium
 MAAU
 mac
 macarons
@@ -3553,6 +3556,7 @@ Morocco
 Morrowind
 MortalKombat
 MostBeautiful
+moths
 motivation
 motogp
 motorboat
@@ -4107,6 +4111,7 @@ phonewallpapers
 photocritique
 photographs
 photoshopbattles
+PhotoshopRequest
 Physics
 physicsgifs
 physicsmemes
@@ -4374,6 +4379,7 @@ raspberry_pi
 Ratorix
 RATS
 ravens
+razer
 razorbacks
 RazorMains
 RBI
@@ -5882,6 +5888,7 @@ ww2
 ww2memes
 WWE
 WWEGames
+wwi
 wwiipics
 WWIIplanes
 xbiking
@@ -5944,6 +5951,7 @@ youseeingthisshit
 YouShouldKnow
 youtube
 youtubehaiku
+youtubetv
 YuB
 yugioh
 YuGiOhMemes
