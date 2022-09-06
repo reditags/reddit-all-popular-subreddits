@@ -1266,6 +1266,7 @@ csgo
 CSHFans
 csMajors
 csuf
+csufcsuf
 Cubers
 cuddleroll
 CuddlyKitties
@@ -2375,6 +2376,7 @@ hockeymemes
 hockeyplayers
 hoggit
 hoi4
+HOI4memes
 hoi4modding
 holdmycatnip
 holdmycosmo
@@ -3012,6 +3014,7 @@ lesserafim
 Letterboxd
 Letterkenny
 lewishamilton
+lewronggeneration
 Lexus
 lgballt
 lgbt
@@ -3717,6 +3720,7 @@ NuclearRevenge
 NUFC
 nukedmemes
 nursing
+nus
 NuxTakuSubmissions
 nuzlocke
 nvidia
@@ -4928,6 +4932,7 @@ supportlol
 surdev
 surrealism
 surrealmemes
+Survival
 survivinginfidelity
 SurvivingMars
 survivor
