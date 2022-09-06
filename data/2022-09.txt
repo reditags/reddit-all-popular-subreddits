@@ -752,6 +752,7 @@ bonehealingjuice
 bonehurtingjuice
 boneworks
 BookOfBobaFett
+bookporn
 books
 bookshelf
 boottoobig
@@ -903,6 +904,7 @@ carmemes
 carporn
 CarryMinati
 carscirclejerk
+CarsIndia
 Cartalk
 CartiCulture
 CartoonMoment
@@ -1136,6 +1138,7 @@ ComedyHell
 comedyhomicide
 comedynecromancy
 ComedyNecrophilia
+ComedySeizure
 ComentariosEmol
 comfypasta
 comicbookcollecting
@@ -1478,6 +1481,7 @@ DGDAG
 DHHMemes
 diabetes
 Diablo
+DiabloImmortal
 DicePorn
 DidntKnowIWantedThat
 digimon
@@ -1673,6 +1677,7 @@ ElectroBOOM
 electronicmusic
 electronics
 EliteDangerous
+eliteexplorers
 EliteWeebs
 ElizabethOlsen
 ElizabethTurner
@@ -1692,6 +1697,7 @@ Emo
 Emoney
 EmpireDidNothingWrong
 ems
+EnculerLesVoitures
 ender3
 energy
 EngagementRings
@@ -1837,6 +1843,7 @@ femboymemes
 feminineboys
 Feminism
 fempark
+Fencesitter
 ferrets
 festivals
 FFBraveExvius
@@ -2099,6 +2106,7 @@ geek
 GeekyCrochet
 gekte
 GemmaArterton
+genderfluid_irl
 genestealercult
 Genshin_Impact
 Genshin_Impact_Leaks
@@ -2422,6 +2430,7 @@ HonzukiNoGekokujou
 Horimiya
 horizon
 Hornyjail
+HorribleToClean
 horror
 Horses
 HostileArchitecture
@@ -3227,6 +3236,7 @@ Market76
 market_sentiment
 Markiplier
 Marriage
+MarsWallStreet
 martialarts
 MartialMemes
 Marvel
@@ -3742,6 +3752,7 @@ nvidia
 NYCinfluencersnark
 nycrail
 NYGiants
+NYguns
 nyjets
 NYKnicks
 NYYankees
@@ -3990,6 +4001,7 @@ peyups
 PhantomForces
 pharmacy
 PhasmophobiaGame
+phcareers
 phclassifieds
 PHGamers
 philadelphia
@@ -4010,6 +4022,7 @@ photocritique
 photographs
 photoshopbattles
 Physics
+physicsgifs
 physicsmemes
 pic
 PickleFinancial
@@ -4095,6 +4108,7 @@ poledancing
 policeuk
 politecats
 Political_Revolution
+PoliticalComebacks
 PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
@@ -4219,6 +4233,7 @@ Qdpay
 qotsa
 QualityTacticalGear
 Quebec
+queen
 QueerEye
 queermeme
 quilting
@@ -4828,6 +4843,7 @@ Stance
 standardissuecat
 StandUpComedy
 standupshots
+Star_Trek
 starbound
 starbucks
 starcitizen
@@ -4989,6 +5005,7 @@ TakaMori
 tales
 TalesFromDF
 TalesFromRetail
+talesfromsecurity
 talesfromtechsupport
 TalesFromTheCustomer
 TalesFromTheFrontDesk
@@ -5102,6 +5119,7 @@ thecatdimension
 TheCatTrapIsWorking
 thechurchofpeanut
 TheClickOwO
+TheCloneWars
 TheCuddlePuddle
 TheDarkTower
 thedavidpakmanshow
@@ -5761,6 +5779,7 @@ YagateKiminiNaru
 Yahaha_IRL
 yahooanswers
 yakuzagames
+YAlit
 yandere
 YanfeiMains
 YAPms
