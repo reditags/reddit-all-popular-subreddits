@@ -315,6 +315,7 @@ antimeme
 antiMLM
 antinatalism
 antinatalism2
+Antiques
 antitheistcheesecake
 antitrampo
 antiwork
@@ -1088,6 +1089,7 @@ civic
 Civilization6
 CivVI
 CK2GameOfthrones
+CK3AGOT
 ClashOfClans
 ClashRoyale
 ClassConscienceMemes
@@ -1163,6 +1165,7 @@ Commanders
 CommunismMemes
 community
 CompanyBattles
+CompanyOfHeroes
 CompetitiveApex
 CompetitiveForHonor
 Competitiveoverwatch
@@ -1210,6 +1213,7 @@ copypasta
 corgi
 corgibutts
 cork
+Cornell
 Coronavirus
 CoronavirusDownunder
 Corridor
@@ -1316,6 +1320,7 @@ CustomPlayerCutscene
 cute
 Cutedogsreddit
 cutegayshit
+cuteguys
 cuteguyswithcats
 CVS
 cyberDeck
@@ -1790,6 +1795,7 @@ explainlikeimfive
 ExposurePorn
 exredpill
 ExtinctionRebellion
+ExtraFabulousComics
 ExtremeCarCrashes
 extremelyinfuriating
 Eyebleach
@@ -1871,6 +1877,7 @@ FFBraveExvius
 fffffffuuuuuuuuuuuu
 FFVIIRemake
 ffxiv
+ffxivart
 FFXIVGlamours
 FFXV
 Fibromyalgia
@@ -2284,6 +2291,7 @@ guineapigs
 Guitar
 GuitarAmps
 guitarcirclejerk
+guitarlessons
 guitarporn
 guitars
 Gundam
@@ -2965,6 +2973,7 @@ Komi_san
 Konosuba
 korea
 KoreanFood
+Kosmiczna_Flota
 KotakuInAction
 kotor
 KOTORmemes
@@ -3207,6 +3216,7 @@ LycorisRecoil
 MAAU
 mac
 macarons
+macbookpro
 MachE
 MachikadoMazoku
 MachineLearning
@@ -4111,6 +4121,7 @@ PKA
 planesgonewild
 Planetside
 PlanetZoo
+PlanningMemes
 plano
 PlantBasedDiet
 plantclinic
@@ -4352,6 +4363,7 @@ REBubble
 recipes
 reclaimedbynature
 recruitinghell
+Recursion
 red_velvet
 RedBullRacing
 reddeadfashion
@@ -4813,6 +4825,7 @@ solarpunk
 sololeveling
 SomeOrdinaryGmrs
 SommerRay
+somnivexillology
 sonarears
 SonicTheHedgehog
 SonoBisqueDoll
@@ -4889,6 +4902,7 @@ squidgame
 squishmallow
 SRAWeekend
 srilanka
+SS13
 SSBM
 sskfjkhwerjkghwerijh
 Ssum
@@ -5170,6 +5184,7 @@ theadamfriedlandshow
 TheAdventureZone
 TheAstraMilitarum
 TheBatmanFilm
+TheBear
 TheBidenshitshow
 thebindingofisaac
 TheBonfire
@@ -5364,6 +5379,7 @@ transgamers
 transgender
 transhumanism
 transit
+transitiongoals
 TransLater
 transmasc_irl
 Transmatfiring
@@ -5620,6 +5636,7 @@ walkaway
 wallpaper
 wallpaperengine
 wallstreetbets
+WallStreetbetsELITE
 Wallstreetbetsnew
 wallstreetbetsOGs
 Wallstreetsilver
@@ -5893,6 +5910,7 @@ YuGiOhMemes
 yuna
 yunyun
 YUROP
+yuumimains
 YuYuHakusho
 yvonnestrahovski
 ZanClan
