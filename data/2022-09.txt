@@ -109,6 +109,7 @@ acrylicpainting
 ActionFigures
 ActivationSound
 ActLikeYouBelong
+actu_memes
 ActualPublicFreakouts
 AdamDriverCats
 ADCMains
@@ -537,6 +538,7 @@ bakchodi
 bakeoff
 Baking
 BaldursGate3
+balisong
 balkans_irl
 BALLET
 ballpython
@@ -552,6 +554,7 @@ BanPitBulls
 BanVideoGames
 BarbaraPalvin
 BarbaraWalters4Scale
+Barcelona
 barexam
 barkour
 Barotrauma
@@ -817,6 +820,7 @@ BravoRealHousewives
 Brawlhalla
 Brawlstars
 Breadit
+BreadTube
 breakingbad
 breakingbadmemes
 BreakUps
@@ -908,6 +912,7 @@ canadaguns
 canadahousing
 canadaleft
 CanadianForces
+CanadianInvestor
 canberra
 canes
 cannabis
@@ -932,6 +937,7 @@ CarryMinati
 carscirclejerk
 CarsIndia
 Cartalk
+CarTalkUK
 CartiCulture
 CartoonMoment
 cassetteculture
@@ -1657,6 +1663,7 @@ dreamsmp
 Dreamtheater
 DreamWasTaken
 DreamWasTaken2
+drehscheibe
 DrewDurnil
 DrewGooden
 Drifting
@@ -1788,6 +1795,7 @@ Equestrian
 Eragon
 Eredivisie
 ErgoMechKeyboards
+ergonauts
 Erma
 es
 EscapefromTarkov
@@ -2279,6 +2287,7 @@ goodmythicalmorning
 google
 googlemapsshenanigans
 GooglePixel
+GooglyEyes
 gorillaz
 goth
 GothamKnights
@@ -2723,6 +2732,7 @@ IndianBoysOnTinder
 IndianCountry
 IndianDankMemes
 IndianDefense
+IndianEnts
 indianews
 IndianGaming
 Indiangirlsontinder
@@ -3302,6 +3312,7 @@ madisonwi
 MadMax
 madnesscombat
 MadokaMagica
+Madrid
 MagicArena
 MagicEye
 magicthecirclejerking
@@ -3634,6 +3645,7 @@ Multecistan
 MultiVersus
 MultiVersusTheGame
 mumbai
+Munich
 MurderBuns
 MurderedByWords
 murdermittens
@@ -4130,6 +4142,7 @@ PersonalFinanceCanada
 perth
 PeterExplainsTheJoke
 PetiteFashionAdvice
+PetiteFitness
 PetsareAmazing
 PetTheDamnCat
 petthedamncow
@@ -4795,6 +4808,7 @@ Shittyaskflying
 shittyaskscience
 shittybattlestations
 shittyeldenring
+ShittyFanTheories
 shittyfoodporn
 Shittygamecollecting
 shittygamedetails
@@ -5069,6 +5083,7 @@ StevenHe
 stevenuniverse
 sticknpokes
 StLouis
+stockholm
 StockMarket
 stocks
 Stoicism
@@ -5385,6 +5400,7 @@ ThomasinMcKenzie
 thomastheplankengine
 Thorgasm
 ThotBeatdowns
+ThousandSons
 ThriftStoreCats
 thugeshh
 thumbcats
@@ -5594,6 +5610,7 @@ ukraina
 ukraine
 Ukraine_UA
 UkraineInvasionVideos
+UkraineRussiaReport
 UkraineWarVideoReport
 UkrainianConflict
 Ultrakill
@@ -5996,6 +6013,7 @@ YanfeiMains
 YAPms
 YarnAddicts
 yarntrolls
+YasmineNigiotti
 yayfoxxo
 YDHBSnark
 yeat_
