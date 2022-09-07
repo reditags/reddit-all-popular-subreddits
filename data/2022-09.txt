@@ -111,6 +111,7 @@ ActivationSound
 ActLikeYouBelong
 ActualPublicFreakouts
 AdamDriverCats
+ADCMains
 Addisoneasterling
 AddisonRae
 Adelaide
@@ -469,6 +470,7 @@ AustralianCattleDog
 AustralianMilitary
 AustralianPolitics
 AustralianShepherd
+AustralianTeachers
 Austria
 autism
 AutismInWomen
@@ -1397,6 +1399,7 @@ DanMachi
 DannyGonzalez
 DanTDM
 Daredevil
+Dariusmains
 DarK
 DarkAcademia
 DarkBRANDON
@@ -2966,6 +2969,7 @@ KeanuBeingAwesome
 Keep_Track
 KeepingUpwTheAldeans
 keffals
+keinstresskochen
 KeiraKnightley
 KellyBrook
 keming
@@ -3415,6 +3419,7 @@ melbourne
 MelbourneTrains
 MelissaBenoist
 MelissaFumero
+meltyblood
 meme
 MemeEconomy
 memeframe
@@ -3785,6 +3790,7 @@ NilouMains
 nin
 NinaDobrev
 Ningen
+NingguangMains
 Ninjago
 NinomaeInanis
 nintendo
@@ -3826,6 +3832,7 @@ NonPoliticalTwitter
 noodlebones
 nope
 Nordichistorymemes
+NorfFc
 norge
 NormMacdonald
 Norse
@@ -4095,6 +4102,7 @@ peeling
 PeepingPooch
 peloton
 pelotoncycle
+pelotonmemes
 penguins
 PenmanshipPorn
 Pennsylvania
@@ -4403,6 +4411,7 @@ Rainbow6
 RainbowEverything
 RainbowHigh
 raining
+Rainmeter
 rainworld
 raisedbywolves
 raleigh
@@ -4563,6 +4572,7 @@ RoundAnimals
 Rowing
 RoyaleHigh_Roblox
 RPClipsGTA
+RPDR_UK
 RPDRDRAMA
 rpg
 rpg_brasil
@@ -4651,6 +4661,7 @@ SavageGarden
 SAVEBRENDAN
 savedyouaclick
 sbeve
+sbubby_NL
 scambait
 Scams
 ScandinavianInterior
@@ -4683,6 +4694,7 @@ Scrubs
 scrungycats
 scuba
 ScuttleCrabMains
+SDRUntucked
 seals
 Seaofthieves
 seaporn
@@ -5950,6 +5962,7 @@ WTFaucet
 WTFgaragesale
 wtfstockphotos
 WTFwish
+WutheringWaves
 ww2
 ww2memes
 WWE
