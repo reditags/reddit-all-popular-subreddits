@@ -742,6 +742,7 @@ bmbmbm
 BMW
 boardgames
 boating
+bobdylan
 BobsBurgers
 BobsTavern
 boburnham
@@ -771,6 +772,7 @@ BookOfBobaFett
 bookporn
 books
 bookshelf
+BoomersBeingFools
 boottoobig
 borbs
 BorderCollie
@@ -1015,6 +1017,7 @@ centuryhomes
 Ceramics
 CFB
 cfbmemes
+CFL
 Chadposting
 chadsriseup
 Chadtopia
@@ -1221,6 +1224,7 @@ CoolGadgetsTube
 coolguides
 copenhagen
 copypasta
+cordcutters
 corgi
 corgibutts
 cork
@@ -1270,6 +1274,7 @@ creepypasta
 creepyPMs
 CreepyWikipedia
 cremposting
+CrestedGecko
 Cricket
 CricketShitpost
 cricut
@@ -2286,6 +2291,7 @@ GreenAndPleasant
 GreenBayPackers
 greenday
 greenville
+gretavanfleet
 Greyhounds
 greysanatomy
 grian
@@ -2780,6 +2786,7 @@ ITAGLIA
 Italia
 ItaliaMeme
 italy
+Itasha
 ITCareerQuestions
 ITcrowd
 ItemShop
@@ -3231,6 +3238,7 @@ LSD
 LSUFootball
 LTB_iel
 lucifer
+LucyHale
 LudwigAhgren
 luigi_irl
 LuLaNo
@@ -3257,6 +3265,7 @@ macsetups
 Madden
 MaddenUltimateTeam
 MadeInAbyss
+MadelainePetsch
 MadelynCline
 MadeMeCry
 mademehappycry
@@ -3860,6 +3869,7 @@ oddlyterrifying
 OddSatisfying
 ofcoursethatsathing
 offbeat
+OffGridCabins
 OfflinetvGirls
 OffMyChestPH
 offseasonthickness2
@@ -4218,6 +4228,7 @@ polydactyl
 polyphia
 Pomeranians
 ponds
+poodles
 poolrooms
 popculturechat
 popheadscirclejerk
@@ -4457,6 +4468,7 @@ residentevil
 ResinCasting
 restofthefuckingowl
 resumes
+retailhell
 retardedcornfieldcum
 RetroAR
 retrobattlestations
@@ -5466,6 +5478,7 @@ trump
 Trumpgret
 Trumpvirus
 TTSverse
+TucaAndBertie
 tuckedinkitties
 TuckedInPuppies
 Tucson
@@ -5510,6 +5523,7 @@ Ubuntu
 UCDavis
 UCI
 ucla
+UCSC
 UCSD
 Udyrmains
 ufc
