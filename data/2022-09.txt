@@ -1099,6 +1099,7 @@ chemistry
 chemistrymemes
 Chennai
 chessbeginners
+chessmemes
 CHIBears
 chicagobulls
 chickengifs
@@ -1152,6 +1153,7 @@ civ5
 civic
 civilengineering
 Civilization6
+CivPolitics
 CivVI
 CK2GameOfthrones
 CK3AGOT
@@ -1205,6 +1207,7 @@ Colorado
 ColoradoAvalanche
 ColoradoSprings
 Colorization
+ColorizedHistory
 Colts
 Columbus
 CombatFootage
@@ -1966,6 +1969,7 @@ fashionwomens35
 fasting
 FastWorkers
 fatcats
+Fate
 fatestaynight
 FatuiHQ
 fcbayern
@@ -2996,6 +3000,7 @@ JoeLycett
 JoeRogan
 JoeyKing
 johannesburg
+JohnMulaney
 joinsquad
 Joji
 JoJoMemes
@@ -3325,6 +3330,7 @@ LivestreamFail
 LivMorgan
 lizgillies
 LMDShow
+lmGoingToHellForThis
 LNPCorruption
 loadingicon
 LockdownSkepticism
@@ -3343,6 +3349,7 @@ longevity
 longhair
 LonghornNation
 longisland
+longmeow
 longrange
 lookatmydog
 LookatMyHalo
@@ -3460,6 +3467,7 @@ MandJTV
 MandyRose
 MangaCollectors
 mangadex
+manganews
 manhwa
 Manitoba
 ManufacturingPorn
@@ -3515,6 +3523,7 @@ MB2Bannerlord
 MBMBAM
 mbti
 mbtimemes
+Mcat
 MCFC
 McKaylaMaroney
 mckinzievaldonlyfans
@@ -3544,6 +3553,7 @@ Megadeth
 MegalithPorn
 megalophobia
 Megaman
+megamindmemes
 Megaten
 Megumin
 meirl
@@ -3622,6 +3632,7 @@ mildlyvagina
 MildlyVandalised
 mildyinfuriating
 mildyinteresting
+Militariacollecting
 Military
 MilitaryARClones
 MilitaryGfys
@@ -3694,6 +3705,7 @@ Modern_Family
 modernwarfare
 ModernWarfareII
 ModestMouse
+modnews
 moedred
 MoeMorphism
 Moescape
@@ -4089,6 +4101,7 @@ OkBuddyPersona
 okbuddyphd
 OkBuddyPilot
 OkBuddyPoliceOfficer
+okbuddyrathalos
 okbuddyreiner
 okbuddyvowsh
 okdraugedebile
@@ -4481,6 +4494,7 @@ PrettyLittleLiars
 prey
 preyingmantis
 Priconne
+PrideAndPinion
 PrimalShow
 PrimeiraLiga
 PrimitiveTechnology
@@ -4572,6 +4586,7 @@ radiohead
 radioheadcirclejerk
 Radiology
 ragdolls
+rage
 RaidenMains
 RaidenMei
 raiders
@@ -5374,6 +5389,7 @@ SweatyPalms
 sweden
 swedishproblems
 SWGalaxyOfHeroes
+Switch
 Switzerland
 SWlegion
 swoletariat
