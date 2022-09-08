@@ -80,6 +80,7 @@ absolutelynotme_irl
 absolutelynotmeirl
 absoluteunit
 AbsoluteUnits
+AbsoluteWeapons
 ac_newhorizons
 ACAB
 AccidentalAlly
@@ -225,6 +226,7 @@ AmericaBad
 americanairlines
 americandad
 AmericanFascism2020
+AmericanHorrorStory
 amex
 AMG
 amibeingdetained
@@ -1454,6 +1456,7 @@ datealive
 dating
 datingoverthirty
 Davie504
+DaysGone
 Daytrading
 dayz
 dbfz
@@ -2029,6 +2032,7 @@ FondantHate
 food
 Foodforthought
 foodhacks
+FoodLosAngeles
 FoodPorn
 Foofighters
 football
@@ -2101,6 +2105,7 @@ freefromwork
 FreeGameFindings
 FreeGamesOnSteam
 FreeKarma4You
+FreeSpeech
 FreeTheRodlets
 FreezingFuckingCold
 French
@@ -2930,6 +2935,7 @@ jesuschristouija
 Jewdank
 jewelrymaking
 JhinMains
+JIDSV
 Jigsawpuzzles
 jisoo
 jjdandfamily
@@ -3256,6 +3262,7 @@ Liverpool
 LiverpoolFC
 LivestreamFail
 LivMorgan
+lizgillies
 LMDShow
 LNPCorruption
 loadingicon
@@ -3469,6 +3476,7 @@ Mediums
 medizzy
 medlabprofessionals
 Megadeth
+MegalithPorn
 megalophobia
 Megaman
 Megaten
@@ -3707,6 +3715,7 @@ MushroomGrowers
 Mushrooms
 Music
 musicaljenga
+MusicBattlestations
 musicmemes
 Mustang
 MVIS
@@ -4023,6 +4032,7 @@ OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
 OldSchoolRidiculous
+OldSkaters
 OliviaMunn
 oliviawilde
 olympia
@@ -4364,6 +4374,7 @@ postprocessing
 POTCmemes
 pottedcats
 Pottery
+PouchCatatoes
 PourPainting
 pouts
 povertyfinance
@@ -5145,6 +5156,7 @@ StarWarsEU
 StarWarsleftymemes
 starwarsmemes
 starwarsrebels
+starwarsspeculation
 staryuuki
 StassieBaby
 StateOfDecay
@@ -5365,6 +5377,7 @@ TeslaModel3
 TeslaModelY
 teslamotors
 Testosterone
+Texans
 texas
 TexasPolitics
 tf2
@@ -5382,6 +5395,7 @@ thatHappened
 ThatLookedExpensive
 ThatPeelingFeeling
 Thatsabooklight
+ThatsHowThingsWork
 ThatsInsane
 The10thDentist
 the1975
