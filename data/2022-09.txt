@@ -2689,6 +2689,7 @@ iamveryculinary
 iamveryrandom
 iamverysmart
 IASIP
+iastate
 IBEW
 IBO
 ibs
@@ -2992,6 +2993,7 @@ jessicaalba
 jesuschristouija
 Jewdank
 jewelrymaking
+Jewish
 JhinMains
 JIDSV
 Jigsawpuzzles
@@ -3247,6 +3249,7 @@ LeedsUnited
 leetcode
 LeftHistoryMemes
 LeftistGamersUnion
+leftistvexillology
 LeftTheBurnerOn
 legaladvicecanada
 LegalAdviceUK
@@ -3256,6 +3259,7 @@ LegendsMemes
 LegendsOfRuneterra
 Legitpiercing
 lego
+legodeal
 legodnd
 legogaming
 Legoleak
@@ -4239,6 +4243,7 @@ papertowns
 papgrappen
 ParadoxExtra
 paradoxplaza
+paradoxpolitics
 Parahumans
 Paralives
 Paramore
@@ -5283,6 +5288,7 @@ stateofMN
 steak
 Stealthbombers
 Steam
+steam_giveaway
 steamdeals
 SteamDeck
 SteamedHams
@@ -5892,6 +5898,7 @@ unixporn
 unket
 unlikelyfriends
 UnnecessaryInventions
+unOrdinary
 unpopularopinion
 unrealengine
 UnresolvedMysteries
@@ -6326,6 +6333,7 @@ Zendaya
 Zerkaa
 ZeroWaste
 ZhongliMains
+zillakami
 Zillennials
 zillowgonewild
 zoemains
