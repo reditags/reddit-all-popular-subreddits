@@ -120,6 +120,7 @@ ActivationSound
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
+actuary
 AdamDriverCats
 ADCMains
 Addisoneasterling
@@ -1273,6 +1274,7 @@ CompanyBattles
 CompanyOfHeroes
 CompetitiveApex
 CompetitiveForHonor
+CompetitiveHS
 Competitiveoverwatch
 CompetitiveTFT
 COMPLETEANARCHY
@@ -1350,6 +1352,7 @@ crabcats
 CrackheadCraigslist
 CrackWatch
 craftsnark
+Crainn
 CrankGameplays
 crappyanimalcrossing
 CrappyDesign
@@ -1616,6 +1619,7 @@ desimemes
 DesiMeta
 DesirePath
 desmoines
+DesperateHousewives
 dessert
 DessertPorn
 Destiny
@@ -2486,6 +2490,7 @@ GTAV
 gtavcustoms
 GTBAE
 GuardianTales
+Guelph
 GuerrillaGardening
 GuildWars
 Guildwars2
@@ -2952,6 +2957,7 @@ InteriorDesign
 intermittentfasting
 internet_funeral
 InternetIsBeautiful
+internetparents
 inthenews
 IntoTheBreach
 intotheshadowrealm
@@ -4220,6 +4226,7 @@ OldSchoolCool
 OldSchoolRidiculous
 OldSkaters
 OldWorldBlues
+oliviadunne
 OliviaMunn
 oliviawilde
 olympia
@@ -4265,6 +4272,7 @@ orchids
 oregon
 organization
 OrganizationPorn
+origami
 orioles
 orks
 orlando
@@ -4533,6 +4541,7 @@ Polcompball
 Poldersocialisme
 poledancing
 police
+PoliceBrotality
 policeuk
 politecats
 Political_Revolution
@@ -5455,6 +5464,7 @@ submechanophobia
 subnautica
 SUBREDDITNAME
 SubsIFellFor
+SubSimGPT2Interactive
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
 SubsTakenLiterally
@@ -5722,6 +5732,7 @@ TheOnion
 TheOrville
 TheOther14
 theouterworlds
+TheoVon
 ThePalaceOfMiruko
 TheQuarteringIsANazi
 TheRandomest
@@ -5856,6 +5867,7 @@ TowerofGod
 TownofSalemgame
 Toyota
 ToyotaTacoma
+traadustCrusaders
 TrackMania
 traderjoes
 traditionaltattoos
