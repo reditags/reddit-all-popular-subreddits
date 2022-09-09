@@ -621,6 +621,7 @@ BattlefieldV
 BattleJackets
 battlemaps
 BattleNetwork
+BattlePaintings
 battles2
 battlestations
 battletech
@@ -786,6 +787,7 @@ BlueMidterm2018
 bluey
 blunderyears
 blurrypicturesofcats
+blursed_memes
 blursed_videos
 Blursedcomments
 blursedimages
@@ -1936,6 +1938,7 @@ EvilDeadTheGame
 excatholic
 excel
 excgarated
+existentialcrisiscat
 Existentialism
 exjw
 exmormon
@@ -2779,6 +2782,7 @@ Illyasviel
 im14andthisisdeep
 Im15AndThisIsYeet
 Images
+ImaginaryAngels
 ImaginaryArchitecture
 ImaginaryArmor
 ImaginaryAssassins
@@ -2829,6 +2833,7 @@ ImaginaryNobles
 ImaginaryOrcs
 ImaginaryPathways
 imaginarypets
+ImaginaryScholars
 ImaginarySliceOfLife
 ImaginarySoldiers
 ImaginaryStarscapes
@@ -2855,6 +2860,7 @@ ImmutableX
 Impeach_Trump
 ImperialFists
 ImperialKnights
+ImpracticalArmour
 ImpracticalJokers
 imsorryjon
 ImTheMainCharacter
@@ -3500,6 +3506,7 @@ MadMax
 madnesscombat
 MadokaMagica
 Madrid
+Mafia
 MagicArena
 MagicEye
 magicthecirclejerking
@@ -3511,6 +3518,7 @@ majonotabitabi
 MakeMeSuffer
 MakeMeSufferMore
 MakeupAddiction
+MakeupLounge
 makeyourchoice
 MaladaptiveDreaming
 MalayalamMovies
@@ -5310,6 +5318,7 @@ SpyxFamily
 SquaredCircle
 SQUEEZIE
 squidgame
+squirrels
 squishmallow
 SRAWeekend
 SRGroup
@@ -5870,6 +5879,7 @@ TrollCoping
 TrollYChromosome
 tron
 Trophies
+TropicalWeather
 TruckerCats
 Truckers
 Trucks
@@ -6297,6 +6307,7 @@ WKUK
 wnba
 woahdude
 wokekids
+Wolfenstein
 WolvesAreBigYo
 women
 womensstreetwear
