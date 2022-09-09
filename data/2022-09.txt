@@ -430,6 +430,7 @@ AskARussian
 AskBalkans
 AskCulinary
 AskDocs
+AskFrance
 AskHistorians
 AskLosAngeles
 AskMiddleEast
@@ -2945,6 +2946,7 @@ ironscape
 IrrationalMadness
 Ishowspeed
 IsItBullshit
+ISKbets
 islam
 IslamicHistoryMeme
 isopods
@@ -3229,6 +3231,7 @@ LAClippers
 LadiesofScience
 LadiesOfWrestling
 Ladybonersgonecuddly
+Laesterschwestern
 lagoloaf
 laidbackcamp
 Lain
@@ -3601,6 +3604,7 @@ MegalithPorn
 megalophobia
 Megaman
 megamindmemes
+megane
 Megaten
 Megumin
 meirl
@@ -4502,6 +4506,7 @@ Polska_wpz
 polydactyl
 polymerclay
 polyphia
+Polytopia
 Pomeranians
 ponds
 poodles
@@ -5605,6 +5610,7 @@ thebindingofisaac
 TheBonfire
 TheBoys
 TheBullWins
+TheCapeRevolution
 thecatdimension
 TheCatTrapIsWorking
 thechurchofpeanut
