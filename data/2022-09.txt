@@ -158,6 +158,7 @@ AEWOfficial
 afkarena
 AFL
 AfterEffects
+aftergifted
 AfterTheEndFanFork
 AgainstHateSubreddits
 AgainstHinduphobia
@@ -4733,6 +4734,7 @@ ProgressionFantasy
 progun
 Project_Wingman
 projectcar
+projecteternity
 ProjectSekai
 projectzomboid
 prolife
@@ -4890,6 +4892,7 @@ RedLetterMedia
 redneckengineering
 redpandas
 Reds
+RedshirtsUnite
 redsox
 redstone
 RedvsBlue
