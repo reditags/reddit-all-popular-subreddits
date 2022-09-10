@@ -3463,6 +3463,7 @@ LMDShow
 lmGoingToHellForThis
 LNPCorruption
 loadingicon
+LobotomyCorp
 LockdownSkepticism
 LodedDiper
 loicense
@@ -4464,6 +4465,7 @@ Persona5
 PersonalFinanceCanada
 perth
 PERU
+PetAfterVet
 PeterExplainsTheJoke
 PetiteFashionAdvice
 PetiteFitness
@@ -5698,6 +5700,7 @@ TeslaModel3
 TeslaModelY
 teslamotors
 Testosterone
+Tetris
 Texans
 texas
 TexasPolitics
