@@ -159,6 +159,7 @@ AFL
 AfterEffects
 AfterTheEndFanFork
 AgainstHateSubreddits
+AgainstHinduphobia
 agedlikemilk
 agedlikewine
 agedtattoos
@@ -581,6 +582,7 @@ baeirene
 bakchodi
 bakeoff
 Baking
+baldursgate
 BaldursGate3
 balisong
 balkans_irl
@@ -1991,6 +1993,7 @@ ExpandDong
 ExpectationVsReality
 ExperiencedDevs
 explainlikeimfive
+ExplosionsAndFire
 ExposurePorn
 exredpill
 ExtinctionRebellion
@@ -3034,6 +3037,7 @@ IsItBullshit
 ISKbets
 islam
 IslamicHistoryMeme
+isometric
 isopods
 Israel
 IsraelCrimes
@@ -3366,6 +3370,7 @@ LearnJapanese
 learnprogramming
 learnpython
 learntodraw
+LearnUselessTalents
 Leathercraft
 leaves
 lebanon
@@ -4647,6 +4652,7 @@ PouchCatatoes
 PourPainting
 pouts
 povertyfinance
+powerlifting
 powerrangers
 powerwashingporn
 pozilei
@@ -6572,6 +6578,7 @@ ZeldaIsCute
 ZeLink
 Zendaya
 Zerkaa
+ZeroEscape
 ZeroWaste
 ZhongliMains
 zillakami
