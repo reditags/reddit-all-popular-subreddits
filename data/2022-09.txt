@@ -2466,6 +2466,7 @@ GMECanada
 GMEJungle
 gmod
 gnome
+Goatparkour
 goats
 goblincore
 GoblinSlayer
@@ -2727,6 +2728,7 @@ Holostars
 HolUp
 holyshit
 homeassistant
+homeautomation
 HomeDecorating
 HomeDepot
 homegym
@@ -4067,6 +4069,7 @@ neighborsfromhell
 neilgaiman
 NelliesNest
 neography
+neoncities
 NeonGenesisEvangelion
 neopets
 neovim
@@ -4211,6 +4214,7 @@ NotMyJob
 notopbutok
 nottheonion
 nova
+NovaScotia
 noveltranslations
 nowmycat
 noworking
@@ -4305,6 +4309,7 @@ okoidawappler
 okpolarncp
 okprietenretardat
 Old_Recipes
+oldbabies
 oldfreefolk
 OldManDog
 OldNews
@@ -5320,6 +5325,7 @@ SkyPorn
 skyrim
 SkyrimMemes
 skyrimmods
+SkyrimPorn
 skywind
 SlavaUkrayini
 slayeasleaked
