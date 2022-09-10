@@ -90,6 +90,7 @@ AbsoluteWeapons
 AbstractArt
 ac_newhorizons
 ACAB
+academia
 AccidentalAlly
 AccidentalArtGallery
 AccidentalCamouflage
@@ -2186,6 +2187,7 @@ FoodLosAngeles
 FoodPorn
 Foofighters
 football
+footballcards
 footballmanagergames
 footballmemes
 foraging
@@ -2799,6 +2801,7 @@ HVAC
 HybridAnimals
 hyderabad
 HydroHomies
+Hydroponics
 HYMCStock
 hyouka
 hypixel
@@ -3795,6 +3798,7 @@ midjourney
 MightyHarvest
 Miitopia
 Mikahlynnishot
+mikeburnfire
 MikuNakano
 milanavayntrub
 mildlyevangelion
@@ -4731,6 +4735,7 @@ ProRevenge
 PROTECC
 protogen
 providence
+prusa3d
 ps2
 PS3
 PS4
@@ -5953,6 +5958,7 @@ toolporn
 Tools
 TooMeIrlForMeIrl
 ToothpasteBoys
+TopChef
 TopGear
 TopMindsOfReddit
 toptalent
