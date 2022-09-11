@@ -436,6 +436,7 @@ ArtHistory
 ArtisanVideos
 ArtOfRolling
 ArtPorn
+artstore
 asaprocky
 AsbestosRemovalMemes
 Asexual
@@ -1686,6 +1687,7 @@ DestinyMemes
 DestinyTheGame
 DestroyedTanks
 DetailCraft
+detrans
 DeTrashed
 Detroit
 DetroitBecomeHuman
@@ -2558,6 +2560,7 @@ GreenBayPackers
 greenday
 greenville
 gretavanfleet
+Grey_Knights
 Greyhounds
 greysanatomy
 grian
@@ -2635,6 +2638,7 @@ HandfulOfKitten
 handholding
 handmade
 HandOfMemes
+handtools
 Handwriting
 HannibalTV
 happy
