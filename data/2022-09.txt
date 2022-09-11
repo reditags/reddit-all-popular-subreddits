@@ -5722,6 +5722,7 @@ TalesFromYourServer
 talk_hunfluencers
 tall
 tallyhall
+tamagotchi
 TameImpala
 tampa
 TampaBayLightning
