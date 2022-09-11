@@ -1317,6 +1317,7 @@ comics
 comingout
 commandandconquer
 Commanders
+communism
 CommunismMemes
 community
 CompanyBattles
@@ -3621,6 +3622,7 @@ LoveIslandTV
 LoveIslandUSA
 LoveLive
 LoveNikki
+low_poly
 LowAltitudeJets
 LowerCaseScreams
 Lowes
@@ -5448,6 +5450,7 @@ smashmemes
 SMG4
 SmilingFriends
 Smite
+SmithAndWesson
 smoking
 smoobypost
 SmugIdeologyMan
@@ -5490,6 +5493,7 @@ SonoBisqueDoll
 SonyAlpha
 sophieturner
 SorryLag
+SOSStock
 soulcrushingjuice
 SoulKnight
 SoulsSliders
@@ -5658,6 +5662,7 @@ StrangerThingsMemes
 Strava
 stray
 straykids
+streetart
 streeteats
 StreetFighter
 streetlightmanifesto
@@ -5944,6 +5949,7 @@ TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
 TheMandemNP
+TheMcDojoLife
 TheMemersClub
 TheMonkeysPaw
 THEMONUMENTMYTHOS
@@ -6510,6 +6516,7 @@ Wellworn
 wendigoon
 wesanderson
 WestSubEver
+WestVirginia
 westworld
 WetlanderHumor
 wewantcups
