@@ -313,6 +313,7 @@ animearmor
 AnimeART
 AnimeBlush
 AnimeBurgers
+AnimeCalendar
 animecirclejerk
 animecuddling
 Animedubs
@@ -330,6 +331,7 @@ animenocontext
 animepiracy
 AnimeSketch
 AnimeStash
+Animesuggest
 AnimeTomboys
 AnimeWallpapersSFW
 AnimeYogaPants
@@ -1963,6 +1965,7 @@ entertainment
 EnterTheGungeon
 EntitledBitch
 entitledparents
+entitledparentsmemes
 EntitledPeople
 Entomology
 Entrepreneur
@@ -6066,6 +6069,7 @@ trans
 TransClones
 Transformemes
 transformers
+transfurs
 transgamers
 transgender
 transhumanism
@@ -6291,6 +6295,7 @@ VeganDE
 veganfitness
 VeganFoodPorn
 veganrecipes
+veganuk
 vegas
 vegaslocals
 vegetablegardening
