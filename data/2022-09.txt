@@ -1923,6 +1923,7 @@ DynastyFF
 Dyson_Sphere_Program
 EA_NHL
 earfurnishings
+earlsweatshirt
 earrumblersassemble
 earthbound
 Earthchan
@@ -5605,6 +5606,7 @@ SpaceXLounge
 SpaceXMasterrace
 spain
 Spanish
+SpanishMeme
 SpecArt
 specializedtools
 SpecialSnowflake
@@ -5677,6 +5679,7 @@ starcitizen
 starcraft
 StardewHomeDesign
 StardewMemes
+StardewValleyExpanded
 stardomjoshi
 StardustCrusaders
 Starfield
