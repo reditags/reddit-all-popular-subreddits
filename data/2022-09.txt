@@ -1352,6 +1352,7 @@ confessions
 confidentlyincorrect
 confusing_perspective
 confusingperspective
+CongratsLikeImFive
 conlangs
 Connecticut
 ConnorEatsPants
@@ -4003,6 +4004,7 @@ MoDaoZuShi
 modeltrains
 ModelY
 Modern_Family
+ModernAncientWarriors
 ModernistArchitecture
 modernwarfare
 ModernWarfareII
@@ -4966,6 +4968,7 @@ raining
 Rainmeter
 rainworld
 raisedbywolves
+RakanMains
 raleigh
 rally
 ralsei
@@ -5938,6 +5941,7 @@ tf2shitposterclub
 tf_irl
 tfc
 Thailand
+thaithai
 thalassophobia
 thanksihateit
 thanksimcured
@@ -5982,6 +5986,7 @@ thedivision
 Thedoctorgamble
 TheDonaldTrump2024
 TheDragonPrince
+TheEricAndreShow
 TheExpanse
 TheFamilyChantel
 TheFence
