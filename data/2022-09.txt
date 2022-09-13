@@ -2230,6 +2230,7 @@ FinalFantasy
 finalfantasytactics
 FinalFantasyVII
 finalfantasyx
+FinalSpace
 finance
 FinancialCareers
 financialindependence
@@ -2885,6 +2886,7 @@ HonkaiStarRail
 HonzukiNoGekokujou
 Horimiya
 horizon
+HorizonForbiddenWest
 Hornyjail
 HorribleToClean
 horror
@@ -3835,6 +3837,7 @@ Mariners
 Mario
 mariokart
 MarioKartTour
+MARIOPARTY
 Market76
 market_sentiment
 Markiplier
@@ -4383,6 +4386,7 @@ NonPoliticalTwitter
 noodlebones
 nope
 Nordichistorymemes
+NordicMemes
 NorfFc
 norge
 NormMacdonald
@@ -4592,6 +4596,7 @@ OstrichPlug
 OSU
 osubuddyretard
 osugame
+OTCpennystocks
 othepelican
 OTMemes
 otomegames
@@ -4844,6 +4849,7 @@ PointyTailedKittens
 PokeLeaks
 pokememes
 pokemon
+pokemonanime
 Pokemonart
 PokemonBDSP
 pokemongo
