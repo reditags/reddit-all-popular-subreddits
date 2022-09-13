@@ -11,6 +11,7 @@
 13or30
 1500isplenty
 15minutefood
+1899
 1911
 19684
 197
@@ -510,6 +511,7 @@ ATBGE
 ATC
 AteistTurk
 AteTheOnion
+AteThePasta
 atheism
 atheismindia
 ATLA
@@ -1996,6 +1998,7 @@ EliteWeebs
 ElizabethOlsen
 ElizabethTurner
 elizafletcher
+ellacervetto
 ElleFanning
 elonmusk
 ElPaso
@@ -5301,6 +5304,7 @@ SanJose
 sanpedrocactus
 saopaulo
 SapphoAndHerFriend
+Sardonicast
 saskatchewan
 saskatoon
 SASSWitches
@@ -5521,6 +5525,7 @@ Sidemen
 SiegeAcademy
 SiestaKeyMTV
 SifuGame
+SigmaCinema
 Sigmarxism
 SigSauer
 silenthill
@@ -5963,6 +5968,7 @@ TeamFourStar
 teamliquid
 TeamSESH
 TeardownGame
+TearlessRaptor
 TearsOfThemis
 tech
 tech1e
@@ -6607,6 +6613,7 @@ war
 WarAndPeas
 Warframe
 WarframeRunway
+wargaming
 Warhammer
 Warhammer30k
 WarhammerCompetitive
