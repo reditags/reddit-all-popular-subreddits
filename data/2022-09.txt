@@ -608,6 +608,7 @@ BadDesigns
 Badfaketexts
 badhistory
 badminton
+badMovies
 BadMUAs
 badtaxidermy
 badUIbattles
@@ -1651,6 +1652,7 @@ deadlockpw
 deadmalls
 deadmeatjames
 deaf
+deathbattle
 DeathBattleMatchups
 DeathByMillennial
 Deathcore
@@ -3803,6 +3805,7 @@ mangafr
 manganews
 manhwa
 Manitoba
+ManorLords
 ManufacturingPorn
 ManyATrueNerd
 Maplestory
