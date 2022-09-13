@@ -120,6 +120,7 @@ ACQR
 acrylicpainting
 ActionFigures
 ActivationSound
+ActiveMeasures
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
@@ -738,6 +739,7 @@ BethesdaSoftworks
 bettafish
 betterCallSaul
 BetterEveryLoop
+BeyoncePics
 beyondwholesome
 bi_irl
 bicla
@@ -1545,6 +1547,7 @@ cyberDeck
 Cyberpunk
 cyberpunkgame
 cybersecurity
+cybertruck
 cycling
 CynoMains
 czech
@@ -1926,6 +1929,7 @@ DunderMifflin
 dune
 dunememes
 DungeonMasters
+DungeonMeshi
 DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
@@ -2699,6 +2703,8 @@ HaloCirclejerk
 haloinfinite
 HaloMemes
 HaloStory
+Hamilton
+hamiltonmemes
 Hammers
 hamsters
 HandfulOfKitten
@@ -3245,6 +3251,7 @@ JEENEETards
 Jeep
 JeepMemes
 jellybeantoes
+jellyfin
 JennaFischer
 JennaLouiseColeman
 Jennamarbles
@@ -3522,6 +3529,7 @@ LearmannTwins
 LearnerDriverUK
 learningtocat
 LearnJapanese
+learnjavascript
 learnprogramming
 learnpython
 learntodraw
@@ -4145,6 +4153,7 @@ My600lbLife
 MyChemicalRomance
 mycology
 MyDressUpDarlingAnime
+myfavoritemurder
 mylittlepony
 MyNameIsBat
 myog
@@ -4614,6 +4623,7 @@ ParadoxExtra
 paradoxplaza
 paradoxpolitics
 Parahumans
+paralegal
 Paralives
 Paramore
 Paranormal
@@ -4636,6 +4646,7 @@ pathofexile
 PathOfExileBuilds
 pathologic
 Patriots
+Pauper
 paydaytheheist
 PaymoneyWubby
 PBSOD
@@ -4849,6 +4860,7 @@ popculturechat
 popheadscirclejerk
 popping
 poppunkers
+PopSmoke
 Popular_Science_Ru
 porramauricio
 Porsche
@@ -5313,6 +5325,7 @@ sciencememes
 ScienceNcoolThings
 scifi
 SCJerk
+Scoobydoo
 Scotland
 ScottishFootball
 ScottishPeopleTwitter
@@ -5737,6 +5750,7 @@ staryuuki
 StassieBaby
 StateOfDecay
 stateofMN
+StationEleven
 steak
 Stealthbombers
 Steam
@@ -5960,6 +5974,7 @@ telescopes
 TempleofMarianne
 TenantUnion
 Tendies
+tenet
 Tennessee
 Tennesseetitans
 tennis
@@ -6019,6 +6034,7 @@ TheBidenshitshow
 thebindingofisaac
 TheBonfire
 TheBoys
+TheBoysChannel
 TheBullWins
 TheCapeRevolution
 thecatdimension
@@ -6348,6 +6364,7 @@ UberEATS
 Ubuntu
 UCalgary
 UCDavis
+ucf
 UCI
 ucla
 UCSC
