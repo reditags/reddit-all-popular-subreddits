@@ -55,6 +55,7 @@
 4PanelCringe
 4tran
 4x4
+52book
 5nafcirclejerk
 5t44t4yf5frt3
 5ToubunNoHanayome
@@ -613,6 +614,7 @@ Badfaketexts
 badhistory
 badminton
 badMovies
+BadMtgCombos
 BadMUAs
 badtaxidermy
 badUIbattles
@@ -1491,6 +1493,7 @@ croatia
 CroatiaAlt
 cromch
 croppingishard
+CrossCode
 crossdressing
 crossfit
 CrossfitGirls
@@ -1768,6 +1771,7 @@ DGDAG
 DHHMemes
 DHMIS
 diabetes
+diabetes_t1
 Diablo
 diablo2
 Diablo_2_Resurrected
@@ -2025,6 +2029,7 @@ emojipasta
 Emoney
 EmpireDidNothingWrong
 ems
+Emuwarflashbacks
 EnculerLesVoitures
 ender3
 energy
@@ -2505,6 +2510,7 @@ GatekeepingYuri
 gatesopencomeonin
 GawrGura
 gaybrosgonemild
+gaydreamclub
 GayEyeBleach
 GaylorSwift
 gaymemes
@@ -5457,6 +5463,7 @@ SharedBPM
 Shark_Park
 sharks
 sharpcutting
+sharpening
 SheGotHands
 shehulk
 ShenheMains
@@ -6039,6 +6046,7 @@ TerminallyStupid
 TerrainBuilding
 terraluna
 Terraria
+TerrariaDesign
 TerrariaMemes
 terrariums
 terriblefacebookmemes
@@ -6572,6 +6580,7 @@ VeteransBenefits
 vexillology
 vexillologycirclejerk
 veYakinEvren
+VGC
 victoria2
 victoria3
 VictoriaBC
@@ -6607,6 +6616,7 @@ virginvschad
 virtualreality
 Visiblemending
 VitaPiracy
+Vitards
 VocabWordOfTheDay
 Vocaloid
 void_memes
