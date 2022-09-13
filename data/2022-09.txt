@@ -4159,6 +4159,7 @@ MurderedByAOC
 MurderedByWords
 murdermittens
 MURICA
+MuscleConfusion
 Muse
 MuseDash
 MushroomGrowers
@@ -5193,6 +5194,7 @@ riskofrain
 Rivian
 RLCraft
 Roadcam
+RoadPorn
 roadtrip
 RoastMe
 RoastMyCar
@@ -5814,6 +5816,7 @@ stopdrinkingfitness
 StoppedWorking
 StoriesAboutKevin
 Stormlight_Archive
+storyofseasons
 straightenedfeetsies
 StraightsBeingOK
 StrangeAndFunny
