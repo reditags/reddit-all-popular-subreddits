@@ -682,6 +682,7 @@ Bayonetta
 BBBY
 BBIG
 BBQ
+BeachHouse
 beadsprites
 beagle
 BeAmazed
@@ -914,6 +915,7 @@ botecodoreddit
 bottlebrush
 bottomgear
 botw
+BOTW2
 BotW_memes
 boulder
 bouldering
@@ -1949,6 +1951,7 @@ duolingo
 dustkitties
 dvdcollection
 dwarffortress
+dyinglight
 DylanteroYT
 DynastyFF
 Dyson_Sphere_Program
@@ -2173,6 +2176,7 @@ fashionsouls
 fashionwomens35
 fasting
 FastWorkers
+fatalframe
 fatcats
 Fate
 fatestaynight
@@ -2510,6 +2514,7 @@ GeekyCrochet
 gekte
 GemmaArterton
 genderfluid_irl
+generative
 genestealercult
 Genshin_Impact
 Genshin_Impact_Leaks
@@ -5619,6 +5624,7 @@ SneakyAnimals
 Snek
 Sneks
 snes
+SNKRS
 snowboarding
 snowrunner
 SNSD
@@ -5983,6 +5989,7 @@ teamliquid
 TeamSESH
 TeardownGame
 TearlessRaptor
+tearsofthekingdom
 TearsOfThemis
 tech
 tech1e
@@ -6268,9 +6275,11 @@ torontoraptors
 torties
 tortoise
 TotalBubbaMove
+Totaldrama
 totallynotrobots
 totalwar
 totalwarhammer
+TOTK
 touchfluffytail
 TouchThaFishy
 Toughguysholdingpets
@@ -6345,6 +6354,7 @@ TrueCrimeDiscussion
 TrueDetective
 TrueFilm
 TrueReddit
+truezelda
 trump
 Trumpgret
 Trumpvirus
