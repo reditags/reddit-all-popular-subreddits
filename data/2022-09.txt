@@ -808,6 +808,7 @@ Birates
 Birbs
 birding
 BirdsArentReal
+Birdsfacingforward
 BirdsForScale
 birdstakingthetrain
 birdswitharms
@@ -2145,6 +2146,7 @@ Existentialism
 exjw
 exmormon
 exmuslim
+ExNoContact
 exocomics
 ExpandDong
 ExpectationVsReality
@@ -2546,6 +2548,7 @@ garfieldminusgarfield
 GarlicBreadMemes
 Garmin
 Gary_The_Cat
+gastricsleeve
 Gatcat
 gatekeeping
 GatekeepingYuri
