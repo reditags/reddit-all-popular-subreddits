@@ -177,6 +177,7 @@ aggies
 Agraelus
 AHatInTime
 AhriMains
+ai_trading
 AIDKE
 aigreentext
 Aikuros
@@ -1273,6 +1274,7 @@ cigars
 cincinnati
 Cinema4D
 Cinemagraphs
+cinematography
 CineShots
 circlejerk
 CirclejerkSopranos
@@ -1526,6 +1528,7 @@ CrusaderKings
 crusaderkings3
 CryptidDogs
 CryptoCurrency
+CryptocurrencyDEFI
 CryptocurrencyICO
 cryptocurrencymemes
 CryptoMarkets
@@ -2316,6 +2319,7 @@ FluentInFinance
 flyfishing
 FlyFishingCircleJerk
 flying
+fnafcringe
 fnatic
 fnki
 fnv
@@ -2434,6 +2438,7 @@ FrugalFemaleFashion
 frugalmalefashion
 Fruitbatcats
 FruitsBasket
+FSAE
 fsusports
 ft86
 ftlgame
@@ -2905,6 +2910,7 @@ Hololive
 HololiveYuri
 Holostars
 HolUp
+HolyGrailMemes
 holyshit
 homeassistant
 homeautomation
@@ -3178,6 +3184,7 @@ INDYCAR
 InfinityTrain
 InfluencergossipDK
 Infographics
+InformedTankie
 InformedWarriorRides
 InfowarriorRides
 infp
@@ -3231,6 +3238,7 @@ Invincible
 Invisalign
 ios
 iOSBeta
+iosgaming
 iOSsetups
 Iowa
 ipad
@@ -4395,6 +4403,7 @@ NinaDobrev
 Ningen
 NingguangMains
 Ninjago
+NinjagoMemes
 NinomaeInanis
 nintendo
 NintendoMemes
@@ -5023,6 +5032,7 @@ ProgrammerHumor
 programming
 programminghorror
 programminghumor
+programmingmemes
 ProgressionFantasy
 progun
 Project_Wingman
@@ -5268,6 +5278,7 @@ RioGrandeValley
 ripcity
 risa
 riskofrain
+Rivenmains
 Rivian
 RLCraft
 Roadcam
