@@ -2942,6 +2942,7 @@ hopnoodles
 Horimiya
 horizon
 HorizonForbiddenWest
+HorizonZeroDawn
 Hornyjail
 HorribleToClean
 horror
@@ -3799,6 +3800,7 @@ Lowes
 LowQualityMemes
 LowSodiumDestiny
 LowSodiumHalo
+LowSodiumSimmers
 LPOTL
 LSD
 LSUFootball
@@ -4214,6 +4216,7 @@ movies
 Moviesinthemaking
 mrballen
 MrBeast
+MrFruit
 MrJoeNobody
 mrlovenstein
 MrRobot
@@ -6036,6 +6039,7 @@ swtor
 SWTOR_memes
 sydney
 sydneyswans
+sylt51
 SympatheticMonsters
 synthesizers
 sysadmin
@@ -6825,6 +6829,7 @@ weeklyplanetpodcast
 ween
 weeviltime
 weezer
+weightlifting
 WeightLossAdvice
 Weird
 weirdcore
