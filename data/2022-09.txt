@@ -637,6 +637,7 @@ BadMtgCombos
 BadMUAs
 badtaxidermy
 badUIbattles
+baduk
 baeirene
 bakchodi
 bakeoff
@@ -1122,6 +1123,7 @@ castles
 castlevania
 CasualConversation
 CasualIreland
+casualknitting
 casualnintendo
 CasualUK
 cat
@@ -1242,6 +1244,7 @@ Chefit
 chefknives
 chelseafc
 Chelseagreen
+ChemicalEngineering
 chemistry
 chemistrymemes
 Chennai
@@ -1834,6 +1837,7 @@ dioramas
 Dipcifica
 DiretoDoZapZap
 Dirtbikes
+dirtgame
 disability
 discgolf
 DiscoElysium
@@ -2031,6 +2035,7 @@ EDC
 eddyburback
 Edelgard
 EdensZero
+Edgerunners
 EDH
 Edinburgh
 EDM
@@ -3430,6 +3435,7 @@ JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
+Jung
 Jungle_Mains
 junjiito
 JurassicMemes
@@ -3885,6 +3891,7 @@ Madisonbeer
 MadisonPettis
 madisonwi
 madlad
+madlads
 MadMax
 madnesscombat
 MadokaMagica
@@ -3979,6 +3986,7 @@ MauLer
 Mavericks
 MawInstallation
 MaxVerstappen33
+Maya
 MayaHawke
 maybemaybemaybe
 maybemaybemaybemaybe
@@ -4103,6 +4111,7 @@ Mikahlynnishot
 mikeburnfire
 MikuNakano
 milanavayntrub
+mildlycreepy
 mildlyevangelion
 mildlyinfuriating
 mildlyinteresting
@@ -4729,6 +4738,7 @@ ottawa
 OttawaSenators
 Otters
 OurFlagMeansDeath
+OutdoorAus
 Outdoors
 outerwilds
 OUTFITS
@@ -5477,6 +5487,7 @@ Sat
 Satan
 SatanicTemple_Reddit
 satanism
+satisfactory
 SatisfactoryGame
 SatisfIcing
 satisfying
@@ -6988,6 +6999,7 @@ WingsOfFire
 WinStupidPrizes
 winterporn
 wirklichgutefrage
+wirtual
 wisconsin
 Wiseposting
 Witch
