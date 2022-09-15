@@ -461,6 +461,7 @@ arrow
 Arrowheads
 ArsenalFC
 Art
+artcommissions
 ArtDeco
 ArtefactPorn
 ArtHistory
@@ -1532,6 +1533,7 @@ CringeyCapitalist
 criterion
 criticalblunder
 criticalrole
+CRMemes
 croatia
 CroatiaAlt
 cromch
@@ -1956,6 +1958,7 @@ dragonquest
 dragons
 DragonsDogma
 dragonutopia
+dragonvale
 dragrace
 DragRaceDownUnder
 DragRacePhilippines
@@ -2297,6 +2300,7 @@ FightingFakeNews
 fightporn
 FightsGoneWildpt2
 fightsticks
+FigmaDesign
 FigureSkating
 filipinofood
 Filmmakers
@@ -3690,6 +3694,7 @@ LeftHistoryMemes
 LeftistGamersUnion
 leftistvexillology
 LeftTheBurnerOn
+LeftWingMaleAdvocates
 LeftWithoutEdge
 legal
 legaladvicecanada
@@ -3789,6 +3794,7 @@ LMDShow
 lmGoingToHellForThis
 LNPCorruption
 loadingicon
+LobaMains
 LobotomyCorp
 LockdownSkepticism
 LodedDiper
@@ -4680,6 +4686,7 @@ OmegaWatches
 OmniscientReader
 OMORI
 OnCinemaAtTheCinema
+onebag
 onednd
 onejob
 onejoke
@@ -5427,6 +5434,7 @@ RunningCirclejerk
 runningman
 rupaulsdragrace
 rush
+RussiaLago
 russian
 RussianCircus
 RussianDoll
