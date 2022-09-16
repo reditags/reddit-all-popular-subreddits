@@ -98,6 +98,7 @@ AbstractArt
 ac_newhorizons
 ACAB
 academia
+Acceleracers
 AccidentalAlly
 AccidentalArtGallery
 AccidentalCamouflage
@@ -1328,6 +1329,7 @@ CK3AGOT
 ClashOfClans
 ClashRoyale
 ClassConscienceMemes
+ClassicalMemes
 classicalmusic
 classiccars
 ClassicRock
@@ -2103,6 +2105,7 @@ Elysia
 Embroidery
 emergencyintercom
 EmiliaClarke
+emilyblunt
 Eminem
 EmKay
 EmmaRoseKenney
@@ -2720,6 +2723,7 @@ gojira
 Gold
 GoldenAgeMinecraft
 Goldendoodles
+GoldenKamuy
 goldenretrievers
 GoldenSun
 golf
@@ -3032,6 +3036,7 @@ HotlineMiami
 hotones
 HotPaper
 HotPeppers
+hottoys
 HotWheels
 houkai3rd
 HouseMD
@@ -4105,6 +4110,7 @@ MemeFrancais
 MemeHunter
 MemeItaliani
 MemePiece
+MemeRestoration
 memes
 Memes_Of_The_Dank
 memesdecentralises
@@ -6239,6 +6245,7 @@ TAZCirclejerk
 tbatenovel
 TBJZL
 tea
+teachermemes
 Teachers
 teaching
 TeamfightTactics
