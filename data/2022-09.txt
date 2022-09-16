@@ -1864,6 +1864,7 @@ digimon
 DigitalArt
 digitalnomad
 DigitalPainting
+Dildont
 DilettaLeotta
 DilucMains
 Dimension20
@@ -4628,6 +4629,7 @@ notmycat
 NotMyJob
 notopbutok
 nottheonion
+NotTimAndEric
 nova
 NovaScotia
 noveltranslations
@@ -7158,6 +7160,7 @@ woof_irl
 woooosh
 woosh
 wordington
+wordle
 workaholics
 Workbenches
 workchronicles
