@@ -1309,6 +1309,7 @@ churchoffutaba
 ChurchOfJirou
 ChurchOfKasumi
 ChurchofMarnie
+ChurchOfMinaAshido
 ChurchOfSenko
 churchofskadi
 chutyapa
@@ -6912,6 +6913,7 @@ vintageads
 VintageApple
 vintageaudio
 vintagecgi
+vintagecomputing
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
