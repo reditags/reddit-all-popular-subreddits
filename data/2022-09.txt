@@ -1425,6 +1425,7 @@ composting
 compsci
 CompTIA
 computers
+computerscience
 computerviruses
 conan
 ConanBeingAwesome
@@ -1639,6 +1640,7 @@ dadswhodidnotwantpets
 DaftPunk
 dahyun
 DaisyRidley
+dakotajohnson
 Dallas
 DallasStars
 dalle2
@@ -1841,6 +1843,7 @@ diabetes
 diabetes_t1
 Diablo
 diablo2
+diablo3
 Diablo_2_Resurrected
 DiabloImmortal
 DicePorn
@@ -3782,6 +3785,7 @@ librandu
 Libraries
 libsofreddit
 lies
+LiesZhara
 lifehacks
 lifeisstrange
 LifeofBoris
