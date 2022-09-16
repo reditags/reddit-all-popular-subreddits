@@ -3708,6 +3708,7 @@ leanfire
 LearmannTwins
 learndota2
 LearnerDriverUK
+LearnFinnish
 learningtocat
 LearnJapanese
 learnjavascript
@@ -6116,6 +6117,7 @@ SuddenlyTrans
 sugarlifestyleforum
 suggestmeabook
 suicidebywords
+Suikoden
 summerhousebravo
 summonerschool
 summonerswar
@@ -7042,6 +7044,7 @@ wholesomegreentext
 wholesomejojo
 wholesomememes
 wholesomemes
+wholesomeouija
 wholesomeromance
 wholesomevandalism
 wholesomevangelion
