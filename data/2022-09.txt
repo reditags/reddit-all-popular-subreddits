@@ -99,6 +99,7 @@ AbstractArt
 ac_newhorizons
 ACAB
 academia
+Acadiana
 Acceleracers
 AccidentalAlly
 AccidentalArtGallery
@@ -982,6 +983,7 @@ BravoRealHousewives
 Brawlhalla
 Brawlstars
 BrawlStarsCompetitive
+brdev
 bread_irl
 Breadit
 BreadStapledToTrees
@@ -1707,6 +1709,7 @@ dataisugly
 datascience
 datealive
 dating
+datingoverforty
 datingoverthirty
 Davie504
 DaysGone
@@ -4747,6 +4750,7 @@ onebag
 onednd
 onejob
 onejoke
+oneliners
 OneOrangeBraincell
 OnePiece
 OnePieceTC
@@ -4960,6 +4964,7 @@ pettyrevenge
 pewdiepie
 PeytonList
 peyups
+PFJerk
 PhantomForces
 pharmacy
 PhasmophobiaGame
@@ -6505,6 +6510,7 @@ Tinycatsinbigspaces
 TinyHouses
 tinyorangekittens
 TinyUnits
+tipofmyjoystick
 tipofmytongue
 tippytaps
 Tiresaretheenemy
@@ -6580,6 +6586,7 @@ Toyota
 ToyotaTacoma
 TPoseMemes
 traadustCrusaders
+TraceAnObject
 TrackMania
 traderjoes
 traditionaltattoos
