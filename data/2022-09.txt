@@ -668,6 +668,7 @@ BALLET
 ballpython
 BalticStates
 BananasForScale
+banano
 BancaDelMeme
 Bandmemes
 bangalore
@@ -3805,6 +3806,7 @@ legalcatadvice
 legendofkorra
 LegendsMemes
 LegendsOfRuneterra
+LegendsOfTomorrow
 Legitpiercing
 lego
 legodeal
@@ -5497,6 +5499,7 @@ RimWorldPorn
 Rings_Of_Power
 RingsofPower
 RioGrandeValley
+RiotFest
 ripcity
 risa
 riseagainst
