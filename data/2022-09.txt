@@ -3403,6 +3403,7 @@ ipad
 iphone
 iPhoneography
 iphonewallpapers
+ipod
 iRacing
 ireland
 IreliaMains
@@ -4154,6 +4155,7 @@ mechanical_gifs
 MechanicalKeyboards
 mechanics
 MedicalGore
+Medievalart
 MedievalCats
 MedievalHistoryMemes
 Meditation
@@ -5145,6 +5147,7 @@ pointlesslygendered
 PointlessStories
 PointyTailedKittens
 PokeLeaks
+PokeMedia
 pokememes
 pokemon
 pokemonanime
@@ -5413,6 +5416,7 @@ realestateinvesting
 RealisticArmory
 reallifedoodles
 RealLifeShinies
+ReallyShittyCopper
 realmadrid
 RealTesla
 ReasonableFantasy
@@ -6298,6 +6302,7 @@ sylt51
 SympatheticMonsters
 synthesizers
 sysadmin
+Sysadminhumor
 systemofadown
 SystemsCringe
 TabbyCats
