@@ -674,6 +674,7 @@ BalticStates
 BananasForScale
 banano
 BancaDelMeme
+BanCars
 Bandmemes
 bangalore
 BanGDream
@@ -1267,6 +1268,7 @@ ChainsawMan
 chairsunderwater
 Challenger
 Championship
+Chandigarh
 Channel5ive
 ChantelJeffries
 Chaos40k
@@ -3936,6 +3938,7 @@ LobotomyCorp
 LockdownSkepticism
 LodedDiper
 LofiHipHop
+logodesign
 loicense
 LokiTV
 Lolirefugees
