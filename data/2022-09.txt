@@ -897,6 +897,7 @@ blessedcomments
 blessedimages
 Blink182
 BloodAngels
+bloomington
 blop
 BlueJackets
 BlueLock
@@ -2844,6 +2845,7 @@ GrassDoggos
 gratefuldead
 gravelcycling
 gravityfalls
+gravityrush
 graz
 GreatBritishBakeOff
 greatdanes
@@ -4917,6 +4919,7 @@ OstrichPlug
 OSU
 osubuddyretard
 osugame
+OT_Memes
 OTCpennystocks
 othepelican
 OTMemes
@@ -5714,6 +5717,7 @@ Satisfyingasfuck
 SatisfyingClean
 satisfyingtransitions
 SatoshiBets
+SatoshiStreetBets
 saudiarabia
 SavageGarden
 SAVEBRENDAN
@@ -6317,6 +6321,7 @@ SurvivingMars
 survivor
 suselle
 sushi
+SushiAbomination
 suspiciouslyspecific
 suspiciousquotes
 sustainability
@@ -6356,6 +6361,7 @@ taiwan
 Takagi_san
 TakaMori
 tales
+talesfromcallcenters
 TalesFromDF
 TalesFromRetail
 talesfromsecurity
