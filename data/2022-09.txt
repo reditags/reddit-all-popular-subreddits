@@ -1074,6 +1074,7 @@ Buffalo
 buffalobills
 buffy
 BugFables
+bugout
 buhaydigital
 buildapc
 buildapcsales
@@ -1470,6 +1471,7 @@ ComedyNecrophilia
 ComedySeizure
 ComentariosEmol
 comfypasta
+comicbookart
 comicbookcollecting
 comicbookmovies
 comicbooks
@@ -3155,6 +3157,7 @@ Hornyjail
 HorribleToClean
 horror
 horrorlit
+HorrorMovies
 Horses
 HostileArchitecture
 hot_reporters
@@ -3482,6 +3485,7 @@ iRacing
 ireland
 IreliaMains
 irezumi
+irishpolitics
 IRLEasterEggs
 IronFrontUSA
 ironicsigns
@@ -4306,6 +4310,7 @@ Metallica
 MetalMemes
 metalworking
 MetaRunner
+Methany
 metro
 Metroid
 mew_irl
@@ -4916,6 +4921,7 @@ OmegaWatches
 OmniscientReader
 OMORI
 OnCinemaAtTheCinema
+oneanddone
 onebag
 onednd
 onejob
@@ -6441,6 +6447,7 @@ tacobell
 Tacoma
 tacticalgear
 TacticalIssueCat
+tahoe
 taiwan
 Takagi_san
 TakaMori
@@ -7006,6 +7013,7 @@ unexpectedfuturama
 unexpectedhogwarts
 unexpecteditcrowd
 UnexpectedJoJo
+UnexpectedLetterkenny
 UnexpectedlyWholesome
 unexpectedMontyPython
 UnexpectedMulaney
