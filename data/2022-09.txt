@@ -436,6 +436,7 @@ AquaticAsFuck
 AquaticSnails
 ar15
 arabfunny
+ARAM
 araragi
 arbeitsleben
 Arcade1Up
@@ -1149,6 +1150,7 @@ CannedSardines
 Canning
 canon
 canucks
+capetown
 CapitalismSux
 CapitolConsequences
 CaptainSparklez
@@ -1342,6 +1344,7 @@ Chonkers
 ChoosingBeggars
 choppers
 chrissycostanza
+Christian
 Christianity
 christianmemes
 christinahendricks
@@ -1661,6 +1664,7 @@ csuf
 csufcsuf
 CSULB
 Cubers
+cucina
 CuddlePuddle
 cuddleroll
 CuddlyKitties
@@ -2243,6 +2247,7 @@ EpicMounts
 EpicSeven
 epoxyhotdog
 Epstein
+EpsteinAndFriends
 equelMemes
 equestriaatwar
 Equestrian
@@ -2430,6 +2435,7 @@ FinalFantasy
 FinalFantasyIX
 finalfantasytactics
 FinalFantasyVII
+FinalFantasyVIII
 finalfantasyx
 FinalSpace
 finance
@@ -4234,6 +4240,7 @@ mechanics
 MedicalGore
 Medievalart
 MedievalCats
+medievaldoctor
 MedievalHistoryMemes
 Meditation
 Mediums
@@ -4476,6 +4483,7 @@ moths
 motivation
 motogp
 motorboat
+motorcitykitties
 motorcycle
 MotorcyclePorn
 motorcycles
