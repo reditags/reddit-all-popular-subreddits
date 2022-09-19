@@ -3366,6 +3366,7 @@ IndianDankMemes
 IndianDefense
 IndianEnts
 indianews
+IndianFootball
 IndianGaming
 Indiangirlsontinder
 IndianMatchmaking
@@ -6303,6 +6304,7 @@ subaru
 submarines
 submechanophobia
 subnautica
+Subnautica_Below_Zero
 SUBREDDITNAME
 SubsIFellFor
 SubSimGPT2Interactive
