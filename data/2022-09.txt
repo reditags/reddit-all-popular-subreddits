@@ -1005,6 +1005,7 @@ brasilivre
 brave_browser
 Braves
 BravoRealHousewives
+BravoTopChef
 Brawlhalla
 Brawlstars
 BrawlStarsCompetitive
@@ -3453,6 +3454,7 @@ iosgaming
 iOSsetups
 Iowa
 ipad
+iPadPro
 iphone
 iPhoneography
 iphonewallpapers
