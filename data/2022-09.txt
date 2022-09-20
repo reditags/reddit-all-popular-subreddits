@@ -2849,6 +2849,7 @@ godtiersuperpowers
 GODZILLA
 gojira
 Gold
+GoldCoast
 GoldenAgeMinecraft
 Goldendoodles
 GoldenKamuy
@@ -4816,6 +4817,7 @@ NotMyJob
 notopbutok
 nottheonion
 NotTimAndEric
+nottingham
 nova
 NovaScotia
 noveltranslations
