@@ -328,6 +328,7 @@ AnimalsBeingConfused
 AnimalsBeingDerps
 AnimalsBeingGeniuses
 AnimalsBeingJerks
+AnimalsBeingLoveable
 AnimalsBeingMoms
 AnimalsBeingSleepy
 AnimalsBeingStrange
@@ -4202,6 +4203,7 @@ malepolish
 MaliciousCompliance
 mallninjashit
 Maltese
+Malwarebytes
 manchester
 ManchesterUnited
 Mandalorian
@@ -4984,6 +4986,7 @@ OldSkaters
 OldWorldBlues
 oliviadunne
 OliviaMunn
+OliviaRodrigo_
 oliviawilde
 olympia
 olympics
@@ -6313,6 +6316,7 @@ spreadytoes
 springerspaniel
 springfieldMO
 Spunchbob
+Spycraft101
 Spyro
 SpyxFamily
 SquaredCircle
