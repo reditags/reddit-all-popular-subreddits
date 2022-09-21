@@ -1611,6 +1611,7 @@ CrazyReality3
 crazystairs
 CreateMod
 CreditCards
+CreedThoughts
 creepy
 CreepyArt
 creepyasterisks
@@ -5043,6 +5044,7 @@ orioles
 orks
 orlando
 OrlandoMagic
+OrnaRPG
 ornnmains
 Orochisegundo
 OrphanCrushingMachine
@@ -6527,6 +6529,7 @@ sydneyswans
 sylt51
 SympatheticMonsters
 syndramains
+synthesizercirclejerk
 synthesizers
 sysadmin
 Sysadminhumor
