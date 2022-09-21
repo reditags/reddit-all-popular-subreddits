@@ -2933,6 +2933,7 @@ graphicnovels
 Grapplerbaki
 GrassDoggos
 gratefuldead
+gratefuldoe
 gravelcycling
 gravityfalls
 gravityrush
@@ -5499,6 +5500,7 @@ PS4Dreams
 PS5
 psg
 PsilocybinMushrooms
+PSP
 PSVR
 psx
 psych
