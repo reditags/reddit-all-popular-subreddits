@@ -255,6 +255,7 @@ AlzheimersGroup
 AlzheimersGroupBackup
 Alzwards_Corner
 AMADisasters
+amateurpsychologist
 amateurradio
 AmateurRoomPorn
 amazingmemes
@@ -5607,6 +5608,7 @@ rangersfc
 rant
 rap
 rapbattles
+RapFars
 rarecompliments
 RareHouseplants
 rareinsults
