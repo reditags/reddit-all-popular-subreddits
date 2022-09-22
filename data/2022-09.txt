@@ -600,6 +600,7 @@ australia
 AustralianCattleDog
 AustralianMilitary
 AustralianNostalgia
+australianplants
 AustralianPolitics
 AustralianShepherd
 AustralianTeachers
@@ -1199,6 +1200,7 @@ CARTILEAKS
 CartoonGangsters
 CartoonMoment
 cartoons
+casio
 cassetteculture
 cassettefuturism
 castiron
@@ -2635,6 +2637,7 @@ FreckledGirls
 freddiegibbs
 freebies
 FreeCompliments
+FreedomofRussia
 freefolk
 freefromwork
 FreeGameFindings
