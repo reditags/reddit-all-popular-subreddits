@@ -1535,6 +1535,7 @@ confession
 confessions
 confidentlyincorrect
 confusing_perspective
+ConfusingGravity
 confusingperspective
 CongratsLikeImFive
 conlangs
@@ -1748,6 +1749,7 @@ CynoMains
 czech
 czechmemes
 CZFirearms
+Dabs
 Dachschaden
 Dachshund
 DadForAMinute
@@ -5557,6 +5559,7 @@ purrkour
 PussyPass
 pussypassdenied
 PutAnEggOnIt
+PuzzleAndDragons
 PvZGardenWarfare
 PvZHeroes
 pykemains
