@@ -901,6 +901,7 @@ bitchimabus
 BitchImATrain
 bitlife
 BitLifeApp
+BITSPilani
 bizarrebuildings
 bizarrelife
 bjork
@@ -1309,6 +1310,7 @@ CatTaps
 CatTrap
 CatWasHere
 caughtoncamera
+cavaliers
 Cawwsplay
 CBSE
 CCV
@@ -1693,6 +1695,7 @@ CrohnsDisease
 cromch
 croppingishard
 CrossCode
+Crossdress_Expression
 crossdressing
 crossfit
 CrossfitGirls
@@ -2186,6 +2189,7 @@ drums
 drumstick
 drunk
 drunkencookery
+dryalcoholics
 drydockporn
 dualipa
 Dualsport
@@ -2337,12 +2341,14 @@ equelMemes
 equestriaatwar
 Equestrian
 Eragon
+ErectCockroachCrib
 Eredivisie
 ErgoMechKeyboards
 ergonauts
 Erma
 es
 EscapefromTarkov
+esGaming
 esist
 esports
 espresso
@@ -2897,6 +2903,7 @@ GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
+GIFtedIndividuals
 ginacarano
 gingercats
 gingerkitty
@@ -3089,6 +3096,7 @@ HaloMemes
 HaloStory
 Hamilton
 hamiltonmemes
+hammer
 Hammers
 hamsters
 handbags
@@ -5323,6 +5331,7 @@ PeterExplainsTheJoke
 Petioles
 PetiteFashionAdvice
 PetiteFitness
+PetMice
 PetsareAmazing
 PetTheDamnCat
 petthedamncow
@@ -5631,6 +5640,7 @@ PussyPass
 pussypassdenied
 PutAnEggOnIt
 PuzzleAndDragons
+puzzles
 PvZGardenWarfare
 PvZHeroes
 pykemains
@@ -6223,6 +6233,7 @@ Shortsqueeze
 Shotguns
 shoujoai
 shouldercats
+ShouldIbuythisgame
 ShovelKnight
 Showerthoughts
 Shrek
@@ -7767,6 +7778,7 @@ yarntrolls
 YasmineNigiotti
 yayfoxxo
 YDHBSnark
+yeagerbomb
 yeat_
 yeezys
 Yeji
@@ -7793,6 +7805,7 @@ YouBelongWithMemes
 youdontmattergiveup
 youdontsurf
 YoujoSenki
+YouLookFamiliar
 Youmo
 youngjustice
 youngpeoplereddit
