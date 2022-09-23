@@ -372,6 +372,7 @@ AnimeMeme
 animememes
 Animemes
 AnimeMirchi
+AnimeMusicians
 animenocontext
 AnimeNoises
 animepiracy
@@ -1017,6 +1018,7 @@ BorderCollie
 Borderlands
 Borderlands2
 borderlands3
+BorderlinePDisorder
 Borderporn
 boringdystopia
 borussiadortmund
@@ -1428,6 +1430,7 @@ churchofskadi
 chutyapa
 chuunibyou
 CICO
+Cigarettes
 cigars
 cincinnati
 Cinema4D
@@ -5120,6 +5123,7 @@ oldschoolcreepy
 OldSchoolRidiculous
 OldSkaters
 OldWorldBlues
+OliveMUA
 oliviadunne
 OliviaMunn
 OliviaRodrigo_
