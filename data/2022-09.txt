@@ -1424,6 +1424,7 @@ ChurchOfCat
 churchoffutaba
 ChurchOfJirou
 ChurchOfKasumi
+ChurchofLucy
 ChurchofMarnie
 ChurchOfMinaAshido
 ChurchOfSenko
@@ -4465,6 +4466,7 @@ memeframe
 MemeFrancais
 MemeHunter
 MemeItaliani
+MemeMan
 MemePiece
 MemeRestoration
 memes
@@ -4601,6 +4603,7 @@ miraculousladybug
 miragemains
 MirandaCosgrove
 mirroring
+mirrorsedge
 Mirrorsforsale
 Misato
 miscatculations
