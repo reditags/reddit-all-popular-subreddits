@@ -70,6 +70,7 @@
 7daystodie
 80s
 80sdesign
+80smusic
 8passengersnark
 90DayFiance
 90dayfianceuncensored
@@ -502,6 +503,7 @@ arresteddevelopment
 arrow
 Arrowheads
 ArsenalFC
+ArsenalWFC
 Art
 artcommissions
 ArtDeco
@@ -2286,6 +2288,7 @@ electricvehicles
 ElectroBOOM
 electronicmusic
 electronics
+Elephants
 EliteDangerous
 eliteexplorers
 EliteWeebs
@@ -6510,6 +6513,7 @@ Spiritfarer
 Spiritual_Talk
 spirituality
 splatoon
+Splatoon_2
 Splatoon_3
 Splitgate
 sploot
@@ -7194,6 +7198,7 @@ transgamers
 transgender
 transhumanism
 transit
+TransitDiagrams
 transitiongoals
 TransLater
 TransMasc
