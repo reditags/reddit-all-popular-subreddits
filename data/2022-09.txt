@@ -787,6 +787,7 @@ BBBY
 BBIG
 BBQ
 BeachHouse
+Beachporn
 beadsprites
 beagle
 BeAmazed
@@ -2017,6 +2018,7 @@ Deuxmoi
 developersIndia
 DevilMayCry
 devils
+devops
 Dewlap
 Dexter
 dezwo
@@ -4466,6 +4468,7 @@ mechanical_gifs
 MechanicalKeyboards
 mechanics
 MeChat
+MedicalCannabisAus
 MedicalGore
 Medievalart
 MedievalCats
@@ -4972,6 +4975,7 @@ NinjaSexParty
 NinomaeInanis
 nintendo
 NintendoMemes
+NintendoPH
 NintendoStitch
 NintendoSwitch
 NintendoSwitchDeals
