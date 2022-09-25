@@ -539,6 +539,7 @@ askcarsales
 AskCulinary
 AskDocs
 AskEngineers
+AskFeminists
 AskFrance
 AskHistorians
 asklatinamerica
@@ -1899,6 +1900,7 @@ DC_Cinematic
 DCAU
 DCcomics
 dccomicscirclejerk
+DCDoomPatrol
 DCEUleaks
 DDintoGME
 DDLC
