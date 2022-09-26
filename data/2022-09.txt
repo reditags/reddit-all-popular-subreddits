@@ -1764,6 +1764,7 @@ csbundestag
 cscareerquestions
 cscareerquestionsEU
 csgo
+csharp
 CSHFans
 csMajors
 css_irl
@@ -2312,6 +2313,7 @@ ElCalifato
 Eldar
 EldenBling
 Eldenring
+ElderKings
 ElderScrolls
 elderscrollsonline
 ElectricalEngineering
