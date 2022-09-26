@@ -4090,6 +4090,7 @@ lawofattraction
 LawSchool
 lawschooladmissions
 Lawyertalk
+LaylaMains
 LazyCats
 lcfc
 leafs
@@ -6505,6 +6506,7 @@ SocialDemocracy
 socialism
 Socialism_101
 SocialismIsCapitalism
+SocialistGaming
 SocialistRA
 socialistsmemes
 socialskills
@@ -7559,6 +7561,7 @@ vegancirclejerk
 VeganDE
 veganfitness
 VeganFoodPorn
+VeganForCircleJerkers
 veganrecipes
 veganuk
 vegas
