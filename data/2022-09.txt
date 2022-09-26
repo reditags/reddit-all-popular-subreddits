@@ -2137,6 +2137,7 @@ dogs
 dogs_getting_dogs
 DogsAndPlants
 dogsenjoyingnature
+dogsgettingdogs
 dogslookingdown
 DogsMirin
 dogsonroofs
@@ -2522,6 +2523,7 @@ fatalframe
 fatcats
 Fate
 fatestaynight
+fatpeoplestories
 FatuiHQ
 fcbayern
 FCCincinnati
@@ -6142,6 +6144,7 @@ sanpedrocactus
 sanrio
 santacruz
 santarosa
+SAOAbridged
 saopaulo
 SapphoAndHerFriend
 SarahJMaas
