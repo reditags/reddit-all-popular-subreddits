@@ -3324,6 +3324,7 @@ homestead
 Homesteading
 homestuck
 hometheater
+homeworld
 Honda
 HondoOhnaka_Memes
 HongKong
@@ -6566,6 +6567,7 @@ SpecArt
 specializedtools
 SpecialSnowflake
 SpecOpsArchive
+spectacularmemes
 SpeculativeEvolution
 SpeedOfLobsters
 speedrun
@@ -7225,6 +7227,7 @@ toolps
 Tools
 TooMeIrlForMeIrl
 Toontown
+toontownrewritten
 ToothpasteBoys
 TopChef
 TopGear
