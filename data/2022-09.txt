@@ -519,6 +519,7 @@ ArtDeco
 ArtefactPorn
 ArtHistory
 ArtisanVideos
+artmemes
 ArtNouveau
 ArtOfRolling
 ArtPorn
@@ -6114,6 +6115,7 @@ RubeGoldbergFails
 rubysalvoX
 rugbyunion
 RuinedMyDay
+rumbleverse
 runefactory
 runescape
 running
