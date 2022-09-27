@@ -307,6 +307,7 @@ AmongUs
 amphibia
 Amsterdam
 Amtrak
+AmusingVideo
 AmyAdams
 AnadeArmas
 analog
@@ -1910,6 +1911,7 @@ dataengineering
 DataHoarder
 dataisbeautiful
 dataisugly
+datamoshing
 datascience
 datealive
 dating
