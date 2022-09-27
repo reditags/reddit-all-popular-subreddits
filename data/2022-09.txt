@@ -713,6 +713,7 @@ BadChoicesGoodStories
 BadDesigns
 Badfaketexts
 badhistory
+badmathematics
 badminton
 badMovies
 BadMtgCombos
@@ -6814,6 +6815,7 @@ StuffOnCats
 stunfisk
 StupidFood
 stupidpol
+SturgillSimpson
 stuttgart
 subaru
 submarines
@@ -7405,6 +7407,7 @@ Trumpgret
 Trumpvirus
 truscum
 TRUTHsocialWatch
+tryguys
 TsundereSharks
 TTSverse
 TubbyTuxes
