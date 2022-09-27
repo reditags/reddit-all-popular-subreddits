@@ -557,6 +557,7 @@ AskReddit
 askscience
 AskScienceFiction
 askSingapore
+askspain
 AskThe_Donald
 askTO
 asktransgender
@@ -1485,7 +1486,9 @@ CivVI
 CJPerry
 CK2GameOfthrones
 CK3AGOT
+CKTinder
 ClashOfClans
+ClashOfClansLeaks
 ClashRoyale
 ClassConscienceMemes
 ClassicalMemes
@@ -5003,6 +5006,7 @@ newyorkcity
 NewYorkMets
 newzealand
 NewZealandWildlife
+Nexo
 nextfuckinglevel
 nextlevelstupid
 NFA
