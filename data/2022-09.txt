@@ -7499,6 +7499,7 @@ UCDavis
 ucf
 UCI
 ucla
+ucr
 UCSC
 UCSD
 udub
