@@ -180,6 +180,7 @@ aesthetics
 Aether_Mains
 AEWOfficial
 AFCSouthMemeWar
+AfghanConflict
 afkarena
 AFL
 AfterEffects
@@ -2675,6 +2676,7 @@ FLCL
 Fleabag
 FleshPitNationalPark
 FlexinLesbians
+flightattendants
 flightradar24
 flightsim
 flipperzero
