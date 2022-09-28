@@ -690,6 +690,7 @@ Ayato_Mains
 AyyMD
 AZCardinals
 azerbaijan
+azirmains
 aznidentity
 Azoozkie
 AzzyLand_Pics
@@ -2171,6 +2172,7 @@ dogs_getting_dogs
 DogsAndPlants
 dogsenjoyingnature
 dogsgettingdogs
+dogshaming
 dogslookingdown
 DogsMirin
 dogsonroofs
@@ -7100,6 +7102,7 @@ The10thDentist
 the1975
 The8BitRyanReddit
 the_darnold
+The_Dedede
 The_Dennis
 The_Leftorium
 The_Mueller
