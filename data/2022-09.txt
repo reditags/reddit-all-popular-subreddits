@@ -715,6 +715,7 @@ BadBatchMemes
 BadChoicesGoodStories
 BadDesigns
 Badfaketexts
+badfriendspod
 badhistory
 badmathematics
 badminton
@@ -1453,6 +1454,7 @@ christenwhitmansnark
 Christian
 Christianity
 christianmemes
+Christians
 christinahendricks
 christmas
 ChronicIllness
@@ -4631,6 +4633,7 @@ metro
 Metroid
 mew_irl
 mexico
+MexicoCity
 Mexicowave
 mfdoom
 MGRmemes
@@ -4742,6 +4745,7 @@ misleadingthumbnails
 misLED
 missbo
 missbricosplay
+mississauga
 mississippi
 missouri
 Mistborn
@@ -4834,6 +4838,7 @@ mountainbiking
 mountaindew
 Mountaineering
 mountandblade
+mourningderps
 MouseReview
 Moustache
 Movie_Trivia
@@ -7564,6 +7569,7 @@ Unity2D
 Unity3D
 UniUK
 UniversalOrlando
+UniversityOfHouston
 unixporn
 unket
 unlikelyfriends
