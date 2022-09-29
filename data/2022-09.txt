@@ -2460,6 +2460,7 @@ es
 EscapefromTarkov
 esGaming
 esist
+esp32
 esports
 espresso
 estoration
@@ -4983,6 +4984,7 @@ NameNerdCirclejerk
 namenerds
 namethatcar
 NamFlashbacks
+NamiMains
 NanashiMumei
 NanatsunoTaizai
 nancydrew
@@ -5833,6 +5835,7 @@ pridecompassmemes
 PrimalShow
 PrimeiraLiga
 PrimitiveTechnology
+Primus
 PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
