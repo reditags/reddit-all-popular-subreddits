@@ -482,6 +482,7 @@ Arcade1Up
 arcadefire
 arcane
 Archaeology
+archeologyworld
 ArcherFX
 Archery
 ArchitecturalRevival
@@ -707,6 +708,7 @@ babyelephantgifs
 babyelephants
 babygoats
 babylon5
+BABYMETAL
 Back4Blood
 Backcountry
 BackgroundArt
@@ -1962,6 +1964,7 @@ deadmalls
 deadmeatjames
 deadpool
 DeadSpace
+deadwood
 deaf
 deathbattle
 DeathBattleMatchups
@@ -2929,6 +2932,7 @@ GameOfRoses
 gameofthrones
 GamePhysics
 gamernews
+GamerSupremeRace
 GameStop
 GameTheorists
 gamindustri
@@ -3480,6 +3484,7 @@ HVAC
 HybridAnimals
 hyderabad
 HydroHomies
+hydrokitties
 Hydroponics
 HYMCStock
 hyouka
@@ -3937,6 +3942,7 @@ JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
+JuliaBayonetta
 Jung
 Jungle_Mains
 junjiito
@@ -5380,6 +5386,7 @@ opossum_irl
 Opossums
 opticalillusions
 OpTicGaming
+Optifine
 orangecats
 orangecounty
 orangetheory
@@ -7743,6 +7750,7 @@ vikingstv
 Vikkstar123
 Vilebrequin
 VillagePorn
+vim
 Vindicta
 Vinesauce
 VinlandSaga
