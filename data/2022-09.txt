@@ -1956,6 +1956,7 @@ DDLCMods
 de
 de_EDV
 de_IAmA
+DeadAhead
 deadandcompany
 deadbydaylight
 deadcells
@@ -3615,6 +3616,7 @@ ImaginaryPathways
 imaginarypets
 ImaginaryRuins
 ImaginaryScholars
+ImaginarySeascapes
 ImaginarySliceOfLife
 ImaginarySoldiers
 ImaginaryStarscapes
@@ -4381,6 +4383,7 @@ LOTRbookmemes
 LOTRholygrailmemes
 lotrmemes
 lotro
+lotus
 Louisville
 loveafterlockup
 Lovecraft
@@ -6224,6 +6227,7 @@ sadlygokarts
 sadposting
 SafelyEndangered
 SafeMoon
+SailboatCruising
 sailing
 SailorMood
 sailormoon
