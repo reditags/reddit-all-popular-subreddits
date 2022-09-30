@@ -2757,6 +2757,7 @@ Ford
 FordBronco
 FordMaverickTruck
 fordranger
+Forest
 foreverbox
 ForFashion
 forgottenfilm
@@ -5955,6 +5956,7 @@ QualityTacticalGear
 Quebec
 queen
 queencirclejerk
+Queens
 queensofgenshin
 QueerEye
 queermeme
@@ -8073,6 +8075,7 @@ wnba
 woahdude
 WojakCompass
 wokekids
+Wolfabelle
 Wolfenstein
 wolves
 WolvesAreBigYo
