@@ -583,6 +583,7 @@ ASRoma
 assassinscreed
 AssassinsCreedMemes
 AssassinsCreedOdyssey
+AssassinsCreedOrigins
 AssassinsCreedValhala
 assettocorsa
 assholedesign
@@ -1700,6 +1701,7 @@ cosplayers
 cosplayprops
 Costco
 cottagecore
+counciloftherings
 CounterSide
 counterstrike
 CountOnceADay
@@ -5934,6 +5936,7 @@ purrkour
 PussyPass
 pussypassdenied
 PutAnEggOnIt
+PutinWatch
 PuzzleAndDragons
 puzzles
 PvZGardenWarfare
@@ -6727,6 +6730,7 @@ SpaceCannibalism
 spaceengineers
 spacefrogs
 SpaceLaunchSystem
+spacemarines
 spaceporn
 SpaceWolves
 spacex
