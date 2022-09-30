@@ -1055,6 +1055,7 @@ bookofthemonthclub
 bookporn
 books
 bookshelf
+booksuggestions
 Boomerhumour
 BoomersBeingFools
 boopthesnoot
@@ -1819,6 +1820,7 @@ cuddleroll
 CuddlyKitties
 CulinaryPlating
 CultOfTheLamb
+cults
 Cuphead
 CuratedTumblr
 curb
@@ -2623,6 +2625,7 @@ festivals
 FF06B5
 FFBraveExvius
 fffffffuuuuuuuuuuuu
+FFRecordKeeper
 FFVIIRemake
 ffxiv
 ffxivart
@@ -2814,6 +2817,7 @@ freddiegibbs
 freebies
 FreeCompliments
 FreedomofRussia
+FreeEBOOKS
 freefolk
 freefromwork
 FreeGameFindings
@@ -3243,6 +3247,7 @@ halloween
 Halloweenmovies
 halo
 HaloCirclejerk
+halodripfinite
 haloinfinite
 HaloMemes
 HaloStory
@@ -6049,6 +6054,7 @@ reddevils
 reddit
 RedditAndChill
 RedditForGrownups
+RedditInReddit
 RedditLaqueristas
 redditsings
 RedditWritesSeinfeld
