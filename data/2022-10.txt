@@ -42,6 +42,7 @@
 90DayFiance
 90dayfianceuncensored
 90s
+90s_kid
 90sdesign
 A24
 AAAAAAAAAAAAAAAAA
@@ -421,6 +422,7 @@ bestoftheinternet
 bettafish
 betterCallSaul
 BetterEveryLoop
+beyondwholesome
 bi_irl
 bicycling
 bigboobproblems
@@ -488,6 +490,7 @@ blursedimages
 bmbmbm
 BMW
 boardgames
+bobdylan
 BobsBurgers
 boburnham
 bodybuilding
@@ -515,6 +518,7 @@ Borderlands
 Borderlands2
 borderlands3
 boringdystopia
+Boruto
 Bossfight
 boston
 BostonBruins
@@ -605,6 +609,7 @@ canadaguns
 canadahousing
 CanadianForces
 cannabiscultivation
+canucks
 CapitalismSux
 CapitolConsequences
 CaptainSparklez
@@ -666,6 +671,7 @@ CatsOnPizza
 CatsPlayingDnd
 CatsStandingUp
 catsvstechnology
+CatswatchingStray
 CatsWhoChirp
 CatsWhoSmoke
 CatsWhoSqueak
@@ -930,6 +936,7 @@ DanLeBatardShow
 DanMachi
 DannyGonzalez
 Daredevil
+DarkAcademia
 DarkBRANDON
 darkestdungeon
 Darkhumorandjokes
@@ -958,6 +965,7 @@ DDLC
 de
 deadbydaylight
 deadcells
+deadmalls
 deathbattle
 deathgrips
 deathguard40k
@@ -997,6 +1005,7 @@ DesignPorn
 desimemes
 DesiMeta
 DesirePath
+DesperateHousewives
 DessertPorn
 Destiny
 destiny2
@@ -1036,6 +1045,7 @@ discordVideos
 discworld
 dishonored
 disney
+DisneyEyes
 Disneyland
 disneyparks
 DisneyPlus
@@ -1169,6 +1179,7 @@ EngineeringPorn
 EngineeringStudents
 engrish
 ENLIGHTENEDCENTRISM
+enlistedgame
 EnoughCommieSpam
 EnoughLibertarianSpam
 EnoughMuskSpam
@@ -1430,6 +1441,7 @@ Gamingcirclejerk
 GamingDetails
 GamingLeaksAndRumours
 gangstaswithwaifus
+gangweed
 gank
 Ganyu
 GarandThumb
@@ -1710,6 +1722,7 @@ IdiotsInCars
 Idiotswithguns
 IDONTGIVEASWAG
 IDontWorkHereLady
+Idubbbz
 ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
@@ -1849,6 +1862,7 @@ ITZY
 iwoulddiefornoodle
 Izlam
 jackrussellterrier
+jacksonville
 JackSucksAtLife
 Jaguars
 jaidenanimations
@@ -1871,6 +1885,7 @@ Jennamarbles
 jennie
 JenniferAniston
 JenniferLawrence
+JenniferLopez
 jerma985
 jerseyshore
 Jewdank
@@ -1878,6 +1893,7 @@ jewelry
 Jewish
 jisoo
 jobs
+JoeBiden
 JoeRogan
 joinsquad
 JoJoMemes
@@ -2093,6 +2109,7 @@ longrange
 lookatmydog
 LOONA
 LooneyTunesLogic
+loopringorg
 lordoftherings
 Lore_Olympus
 loreofleague
@@ -2108,6 +2125,7 @@ LOTR_on_Prime
 lotrmemes
 lotro
 Louisville
+love
 loveafterlockup
 Lovecraft
 LoveDeathAndRobots
@@ -2331,6 +2349,7 @@ MonsterHunter
 MonsterHunterWorld
 MoonKnight
 Moonmoon
+morbidquestions
 Morbius
 MordekaiserMains
 Mordhau
@@ -2359,6 +2378,7 @@ muglife
 MultiVersus
 MultiVersusTheGame
 mumbai
+MurderBuns
 MurderedByWords
 murdermittens
 MURICA
@@ -2432,6 +2452,7 @@ Newfoundlander
 NewGirl
 NewGreentexts
 newjersey
+NewOrleans
 NewPatriotism
 news
 NewsAroundYou
@@ -2562,6 +2583,7 @@ okbuddycapitalist
 okbuddycinephile
 OkBuddyFresca
 okbuddygenshin
+okbuddyguardian
 OKbuddyHalfLife
 okbuddyhasan
 okbuddyhololive
@@ -2727,6 +2749,7 @@ pics
 PicsOfUnusualBirds
 Pikabu
 Pikmin
+Pineapplebrat
 pinkfloyd
 PinkFloydCircleJerk
 PinkOmega
@@ -2759,6 +2782,7 @@ pointlesslygendered
 PointyTailedKittens
 PokeMedia
 pokemon
+PokemonBDSP
 pokemongo
 PokemonLegendsArceus
 PokemonMasters
@@ -2938,6 +2962,7 @@ ReiAyanami
 relationship_advice
 religiousfruitcake
 reloading
+Reno
 Repaintings
 replications
 reptiles
@@ -2995,6 +3020,7 @@ rupaulsdragrace
 rush
 RussiaUkraineWar2022
 rutgers
+rva
 RWBY
 ryujin
 sabaton
@@ -3073,6 +3099,7 @@ selfie
 selfimprovement
 SellingSunset
 seniorkitties
+Sephora
 SequelMemes
 serbia
 serbiancringe
@@ -3091,6 +3118,8 @@ Shadowtherat
 Sham_Sharma_Show
 ShamelesslyStolen
 Shark_Park
+sharks
+sharpcutting
 SheGotHands
 ShenheMains
 ShermanPosting
@@ -3104,6 +3133,7 @@ ShinyPokemon
 ShitCrusaderKingsSay
 shitduolingosays
 ShitLiberalsSay
+ShitLibSafari
 ShitMomGroupsSay
 ShitPostCrusaders
 shitposting
@@ -3203,6 +3233,7 @@ SnapChad
 snappisensuroimaton
 Sneks
 snes
+snowboarding
 SNSD
 soccercirclejerk
 socialanxiety
@@ -3239,6 +3270,7 @@ SpeculativeEvolution
 SpeedOfLobsters
 speedrun
 sphynx
+spicy
 spicypillows
 spiderbro
 Spiderman
@@ -3285,6 +3317,7 @@ StarVStheForcesofEvil
 StarWars
 StarWarsAndor
 StarWarsBattlefront
+starwarsblackseries
 StarWarsCantina
 StarWarsEU
 StarWarsKenobi
@@ -3373,6 +3406,7 @@ synthesizers
 sysadmin
 tacobell
 tacticalgear
+TacticalIssueCat
 Takagi_san
 TalesFromRetail
 talesfromtechsupport
@@ -3386,6 +3420,7 @@ tampabayrays
 tankiejerk
 TankPorn
 TanmayBhatKeDost
+tarantulas
 Target
 TargetedShirts
 TarkovMemes
@@ -3519,6 +3554,7 @@ ThotBeatdowns
 thumbcats
 Ticos
 tifu
+TIGHTPUSSY
 TIHI
 TikTokCringe
 tiktokcringemoment
@@ -3571,6 +3607,7 @@ Toughguysholdingpets
 touhou
 TowerofFantasy
 TowerofGod
+Toyota
 ToyotaTacoma
 traderjoes
 traditionaltattoos
@@ -3662,6 +3699,7 @@ UnearthedArcana
 UnethicalLifeProTips
 Unexpected
 UnexpectedCommunity
+unexpectedfuturama
 UnexpectedJoJo
 UnexpectedlyWholesome
 unexpectedMontyPython
@@ -3733,6 +3771,7 @@ VietNam
 Vilebrequin
 Vinesauce
 vintageads
+vintageaudio
 VintageFashion
 vintagejapaneseautos
 vinyl
@@ -3766,6 +3805,7 @@ WANDAVISION
 wankil
 Warframe
 WarframeRunway
+wargame
 Warhammer
 Warhammer30k
 WarhammerFantasy
