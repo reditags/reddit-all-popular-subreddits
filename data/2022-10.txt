@@ -1040,6 +1040,7 @@ CulinaryPlating
 CultOfTheLamb
 Cuphead
 CuratedTumblr
+curb
 curledfeetsies
 cursed_videomemes
 cursedcomments
@@ -1403,12 +1404,14 @@ esist
 estoration
 ethereum
 ethfinance
+etymology
 eu4
 eu_nvr
 Eugene
 EulaMains
 euphoria
 europe
+EuropeanFederalists
 eurovision
 evangelion
 evangelionmemes
@@ -2158,6 +2161,7 @@ iphone
 iPhoneography
 iRacing
 ireland
+IrishHistory
 IRLEasterEggs
 irlsmurfing
 IronFrontUSA
@@ -2471,6 +2475,7 @@ LonghornNation
 longisland
 longrange
 lookatmydog
+LookatMyHalo
 LOONA
 LooneyTunesLogic
 loopringorg
@@ -2586,6 +2591,7 @@ mathmemes
 Mavericks
 maybemaybemaybe
 MayDayStrike
+MBMBAM
 mbtimemes
 MCFC
 McKaylaMaroney
@@ -2757,6 +2763,7 @@ Mountaineering
 mountandblade
 MouseReview
 MovieDetails
+MovieMistakes
 MoviePosterPorn
 movies
 Moviesinthemaking
@@ -2793,6 +2800,7 @@ MyouiMina
 MyPeopleNeedMe
 MySingingMonsters
 MysteryDungeon
+mythology
 mythologymemes
 n64
 NaBoaChavaloRetardado
@@ -3098,6 +3106,7 @@ Paleontology
 Palestine
 PampamilyangPaoLUL
 PandR
+PanPorn
 pansexual
 panthers
 papermario
@@ -3476,6 +3485,7 @@ roadtrip
 RoastMe
 robbersgettingfucked
 robotics
+rocketbeans
 RocketLeague
 RocketLeagueEsports
 rockhounds
@@ -3721,6 +3731,7 @@ Skincare_Addiction
 SkincareAddicts
 skinwalkers
 Skookum
+Skullgirls
 SkweezyJibbs
 SkyGame
 SkyPorn
@@ -3893,6 +3904,7 @@ StoppedWorking
 Stormlight_Archive
 storyofseasons
 StPetersburgFL
+straightenedfeetsies
 StraightsBeingOK
 StrangerThings
 stray
@@ -3948,6 +3960,7 @@ suspiciouslyspecific
 sustainability
 sutd
 svenskpolitik
+Sverige
 SWARJE
 SweatyPalms
 sweden
@@ -4154,6 +4167,7 @@ Tinder
 tinyanimalsonfingers
 Tinycatsinbigspaces
 TinyHouses
+tinyorangekittens
 TinyUnits
 tippytaps
 Tiresaretheenemy
@@ -4331,6 +4345,7 @@ unexpectedoffice
 unexpectedpawnee
 UnexpectedTF2
 UnfunnyHellhole
+UniqueIronmen
 unitedkingdom
 unitedstatesofindia
 Unity3D
@@ -4425,6 +4440,7 @@ Volvo
 VoteBlue
 VoteDEM
 VRchat
+VRtoER
 VShojo
 vultureculture
 VuvuzelaIPhone
