@@ -283,6 +283,7 @@ architecture
 ArchitecturePorn
 arcticmonkeys
 arduino
+Argaming
 argentina
 ArgentinaBenderStyle
 ArianaGrande
@@ -848,6 +849,7 @@ Chonkers
 ChoosingBeggars
 Christianity
 christinahendricks
+christmas
 ChronicIllness
 chronotrigger
 churchoffutaba
@@ -868,6 +870,7 @@ civ
 civic
 civilengineering
 CivVI
+CK3AGOT
 ClashOfClans
 ClashOfClansLeaks
 ClashRoyale
@@ -1017,6 +1020,7 @@ CrossStitch
 CrossView
 crowbro
 crows
+CRT_so_scary
 crtgaming
 CrueltySquad
 CrusadeMemes
@@ -1033,6 +1037,7 @@ Cryptozoology
 Crystals
 cscareerquestions
 csgo
+csharp
 csMajors
 CuddlePuddle
 cuddleroll
@@ -1136,6 +1141,7 @@ deadandcompany
 deadbydaylight
 deadcells
 deadmalls
+DeadSpace
 deathbattle
 deathgrips
 deathguard40k
@@ -1194,6 +1200,7 @@ Detroit
 DetroitBecomeHuman
 detroitlions
 DetroitPistons
+DetroitRedWings
 deutschememes
 developersIndia
 DevilMayCry
@@ -1290,6 +1297,7 @@ DreamlightValley
 dreamsmp
 DreamWasTaken
 DreamWasTaken2
+DrewDurnil
 DrewGooden
 Drifting
 dril
@@ -1471,6 +1479,7 @@ fantasyfootball
 FantasyPL
 farcry
 farialimabets
+farmingsimulator
 fashionhistory
 fashionporn
 FashionReps
@@ -1545,6 +1554,7 @@ flowers
 Flyers
 flyfishing
 flying
+fnatic
 fnki
 fnv
 fo4
@@ -1886,6 +1896,7 @@ Health
 hearthstone
 hearthstonecirclejerk
 HeartstopperAO
+heat
 HeavyFuckingWind
 HeavySeas
 heep
@@ -1949,6 +1960,7 @@ homelab
 homestead
 Homesteading
 homestuck
+hometheater
 Honda
 HongKong
 HonkaiImpact
@@ -2201,6 +2213,7 @@ japanlife
 japanpics
 Jazz
 JDM
+jedicouncilofelrond
 JEENEETards
 Jeep
 jellybeantoes
@@ -2266,6 +2279,7 @@ kaleycuoco
 KamenRider
 KamikazeByWords
 KanojoOkarishimasu
+kansascity
 KansasCityChiefs
 Kanye
 karengillan
@@ -2395,6 +2409,7 @@ LearmannTwins
 learningtocat
 learnjavascript
 learnprogramming
+learnpython
 Leathercraft
 lebowski
 LeedsUnited
@@ -2408,6 +2423,7 @@ LegendsMemes
 LegendsOfRuneterra
 lego
 legodnd
+legogaming
 Legoleak
 legostarwars
 legostarwarsmemes
@@ -2556,6 +2572,7 @@ manchester
 ManchesterUnited
 MandalorianMemes
 MandJTV
+MandyRose
 MangaCollectors
 manhwa
 Maplestory
@@ -3238,6 +3255,7 @@ pleasedontlackPDL
 PleX
 Plumbing
 PlusSize
+Poem_for_your_sprog
 Poetry
 pointlesslygendered
 PointyTailedKittens
@@ -4038,6 +4056,7 @@ Tennesseetitans
 tennis
 TenseiSlime
 TerrainBuilding
+TerraInvicta
 Terraria
 TerrariaMemes
 terriblefacebookmemes
@@ -4375,6 +4394,7 @@ UsernameChecksOut
 USMC
 USPS
 ussoccer
+Utah
 UzakiChan
 vagabond
 valheim
@@ -4654,6 +4674,7 @@ youngjustice
 youngpeoplereddit
 youngpeopleyoutube
 YouniquePresenterMS
+YouOnLifetime
 YourJokeButWorse
 YourRAGE
 YouSeeComrade
