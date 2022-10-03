@@ -94,6 +94,7 @@ ACPocketCamp
 ActionFigures
 ActivationSound
 ActLikeYouBelong
+actu_memes
 ActualPublicFreakouts
 AdachiToShimamura
 ADCMains
@@ -255,6 +256,7 @@ antitheistcheesecake
 antitrampo
 antiwork
 ANTM
+Anxietyhelp
 anxietymemes
 AnyaTaylorJoy
 AO3
@@ -1017,6 +1019,7 @@ cowcats
 coys
 cozy
 CozyPlaces
+Cr1TiKaL
 crabcats
 CrackheadCraigslist
 CrappyDesign
@@ -1078,6 +1081,7 @@ curb
 curledfeetsies
 cursed_videomemes
 cursedcomments
+cursedcursedcomments
 Cursedgunimages
 CursedGuns
 cursedimages
@@ -1252,6 +1256,7 @@ Dildont
 Dimension20
 DINgore
 Dinosaurs
+dioramas
 DiretoDoZapZap
 Dirtbikes
 discgolf
@@ -2835,6 +2840,7 @@ Mommit
 monarchism
 Monke
 monkslookingatbeer
+MonorailCats
 MonsterHigh
 MonsterHunter
 MonsterHunterWorld
@@ -4104,6 +4110,7 @@ tacobell
 tacticalgear
 TacticalIssueCat
 Takagi_san
+TakaMori
 tales
 TalesFromRetail
 talesfromtechsupport
@@ -4240,6 +4247,7 @@ TheMandalorianTV
 TheMandemNP
 TheMassive
 TheMonkeysPaw
+themummymemes
 thenetherlands
 TheNightFeeling
 TheNinthHouse
@@ -4434,6 +4442,7 @@ Tyranids
 tzuyu
 UBC
 Ubiquiti
+Ubuntu
 UCDavis
 ucf
 UCI
