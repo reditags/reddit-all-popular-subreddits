@@ -125,6 +125,7 @@ AFL
 AfterTheEndFanFork
 agedlikemilk
 agedlikewine
+agedtattoos
 AgeofMythology
 ageofsigmar
 aggies
@@ -210,6 +211,7 @@ animalcrossingmeme
 AnimalCrossingNewHor
 AnimalPorn
 AnimalsBeingBros
+AnimalsBeingConfused
 AnimalsBeingDerps
 AnimalsBeingGeniuses
 AnimalsBeingJerks
@@ -537,6 +539,7 @@ Bellapoarch
 belowdeck
 Ben10
 Bend
+benfica
 bengalcats
 bengals
 BenGarrisonCumEdits
@@ -866,6 +869,7 @@ celebritylegs
 CelebsPH
 celestegame
 celestememes
+CelestialBodies
 cellbits
 CelsiusNetwork
 CelticFC
@@ -1025,6 +1029,7 @@ Connecticut
 ConsciousConsumers
 Conservative
 ConservativeMemes
+Consoom
 conspiracy
 conspiracy_commons
 conspiracytheories
@@ -1231,6 +1236,7 @@ deadmalls
 deadmau5
 DeadSpace
 deathbattle
+Deathcore
 deathgrips
 deathguard40k
 deathnote
@@ -1628,6 +1634,7 @@ fffffffuuuuuuuuuuuu
 FFVIIRemake
 ffxiv
 FFXIVGlamours
+Fibromyalgia
 FIFA
 FifaCareers
 Fighters
@@ -1864,6 +1871,7 @@ geography
 geoguessr
 geology
 geometrydash
+geopolitics
 Georgia
 georgiabulldogs
 GeorgiaEllenwood
@@ -2335,6 +2343,7 @@ introvert
 introvertmemes
 inuyasha
 Invincible
+Invisalign
 ios
 iOSBeta
 Iowa
@@ -2350,6 +2359,7 @@ IronFrontUSA
 ironscape
 IsAttenboroughAlive
 islam
+isopods
 Israel
 IsTodayFridayThe13th
 Italia
@@ -2496,6 +2506,7 @@ killthecameraman
 KimetsuNoYaiba
 KimiNoNaWa
 kindafunny
+Kindred
 Kingdom
 kingdomcome
 KingdomHearts
@@ -2656,6 +2667,7 @@ lingling40hrs
 linguisticshumor
 Link_Dies
 LinkedInLunatics
+LinkinPark
 LinusTechTips
 linux
 linux_gaming
@@ -3306,6 +3318,7 @@ OneTopicAtATime
 onetruegod
 OneyPlays
 onguardforthee
+onionhate
 OnionLovers
 OnlyFans
 OnPatrolLive
@@ -3513,6 +3526,7 @@ pointlesslygendered
 PointyTailedKittens
 PokeLeaks
 PokeMedia
+pokememes
 pokemon
 pokemonanime
 Pokemonart
@@ -3551,6 +3565,7 @@ pop_os
 popculturechat
 popheadscirclejerk
 popping
+porcupinetree
 porramauricio
 Porsche
 Portal
@@ -4106,6 +4121,7 @@ sousvide
 southafrica
 southcarolina
 Southerncharm
+SouthJersey
 SovietWomble
 space
 SpaceCannibalism
@@ -4253,6 +4269,7 @@ Suburbanhell
 SubwayCreatures
 SuccessionTV
 suddenlybi
+SuddenlyCommunist
 SuddenlyLesbian
 SuddenlyTrans
 suggestmeabook
@@ -4293,6 +4310,7 @@ swedishproblems
 SWGalaxyOfHeroes
 Switch
 Switzerland
+SWlegion
 swordartonline
 SWORDS
 SwordsComic
@@ -4399,6 +4417,7 @@ ThatsInsane
 The10thDentist
 The8BitRyanReddit
 the_darnold
+The_Leftorium
 The_Mueller
 THE_PACK
 theadamfriedlandshow
@@ -4845,6 +4864,7 @@ Watches
 Watchexchange
 WatchPeopleDieInside
 watchpeoplesurvive
+watchplantsgrow
 watchthingsfly
 Watercolor
 watercolorcats
@@ -5056,5 +5076,6 @@ ZeroWaste
 ZhongliMains
 zillowgonewild
 zoemains
+ZombielandSaga
 Zoomies
 zootopia
