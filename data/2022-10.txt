@@ -177,6 +177,7 @@ AmongUs
 amphibia
 Amsterdam
 Amtrak
+AmyAdams
 AnadeArmas
 analog
 AnalogCommunity
@@ -373,6 +374,7 @@ AusFinance
 AusMemes
 australia
 AustralianCattleDog
+AustralianMilitary
 AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
@@ -817,6 +819,7 @@ Catswithjobs
 CatTaps
 CBSE
 CCW
+celebrities
 CelebrityFeet
 celebritylegs
 celestegame
@@ -1347,6 +1350,7 @@ Dublin
 duck
 DuelLinks
 DuggarsSnark
+dumbasseswithlighters
 DumpsterDiving
 DunderMifflin
 dune
@@ -1767,8 +1771,10 @@ GenshinImpactTips
 gentlemanboners
 GenUsa
 GenX
+GenZ
 GenZHumor
 geography
+geoguessr
 geology
 geometrydash
 Georgia
@@ -1828,7 +1834,9 @@ google
 googlemapsshenanigans
 GooglePixel
 gorillaz
+GossipGirl
 goth
+GothGirls
 GothStyle
 Graffiti
 GrandBlue
@@ -1907,6 +1915,7 @@ Halloween_Costumes
 halo
 haloinfinite
 HaloMemes
+HaloStory
 Hammers
 hamsters
 HandfulOfKitten
@@ -2005,6 +2014,7 @@ HomeDecorating
 HomeDepot
 HomeImprovement
 homelab
+homeless
 homestead
 Homesteading
 homestuck
@@ -2464,6 +2474,7 @@ LeaMartinez
 leanbeefpatty
 LearmannTwins
 learningtocat
+LearnJapanese
 learnjavascript
 learnprogramming
 learnpython
@@ -3616,6 +3627,7 @@ runescape
 running
 rupaulsdragrace
 rush
+russian
 RussiaUkraineWar2022
 rutgers
 rva
@@ -3931,6 +3943,7 @@ SpidermanPS4
 spiders
 Spiritfarer
 splatoon
+Splatoon_3
 sploot
 spongebob
 SpongebobMemes
@@ -4415,6 +4428,7 @@ TwoSentenceHorror
 TwoSentenceSadness
 TwoXChromosomes
 TwoXIndia
+tyingherhairup
 tylerthecreator
 Tyranids
 tzuyu
