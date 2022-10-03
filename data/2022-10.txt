@@ -190,6 +190,7 @@ Anarcho_Capitalism
 Anarchy4Everyone
 AnarchyChess
 Anbennar
+AncientCivilizations
 ancientegypt
 ancientrome
 AncientWorld
@@ -230,6 +231,7 @@ animecuddling
 AnimeFunny
 animegifs
 AnimeHoodies
+AnimeInOurWorld
 animemaids
 AnimeMeme
 animememes
@@ -247,6 +249,7 @@ AnnArbor
 AnneHathaway
 anno
 ANormalDayInRussia
+anthologymemes
 antiarbeit
 antiassholedesign
 Anticonsumption
@@ -536,6 +539,7 @@ berlin
 bernesemountaindogs
 Berserk
 bertstrips
+Best_tattoos
 bestof
 bestoflegaladvice
 BestofRedditorUpdates
@@ -545,6 +549,7 @@ betterCallSaul
 BetterEveryLoop
 beyondwholesome
 bi_irl
+bicycletouring
 bicycling
 bigboobproblems
 bigboye
@@ -723,6 +728,7 @@ buildapc
 buildapcsales
 buildmybrand
 bulgaria
+bullcity
 Bulldogs
 bulletjournal
 BullTerrier
@@ -743,6 +749,7 @@ CabinPorn
 cactus
 CafeRacers
 cakedecorating
+CalamariRaceTeam
 Calgary
 CalgaryFlames
 CalicoKittys
@@ -993,6 +1000,7 @@ CompanyOfHeroes
 CompetitiveApex
 Competitiveoverwatch
 composting
+computers
 conan
 ConanExiles
 confession
@@ -1023,6 +1031,7 @@ Cooking
 CoolAmericaFacts
 CoolGadgetsTube
 coolguides
+copenhagen
 copypasta
 corgi
 cork
@@ -1048,6 +1057,7 @@ CozyPlaces
 Cr1TiKaL
 crabcats
 CrackheadCraigslist
+CrackWatch
 CrappyDesign
 crappyoffbrands
 crazyexgirlfriend
@@ -1176,6 +1186,7 @@ DarwinAwards
 Dashcam
 dashcamgifs
 data_irl
+DataHoarder
 dataisbeautiful
 dataisugly
 datascience
@@ -1270,6 +1281,7 @@ deutschememes
 developersIndia
 DevilMayCry
 devils
+devinbrugman
 Dexter
 dezwo
 DHHMemes
@@ -1401,6 +1413,7 @@ dyinglight
 DylanteroYT
 DynastyFF
 earfurnishings
+Earthchan
 EarthPorn
 EatCheapAndHealthy
 EatCheapAndVegan
@@ -1468,15 +1481,18 @@ EnoughCommieSpam
 EnoughLibertarianSpam
 EnoughMuskSpam
 EnoughPCMSpam
+ensemblestars
 entertainment
 EnterTheGungeon
 entitledparents
 EntitledPeople
 Entomology
 Entrepreneur
+entwives
 EpicSeven
 equelMemes
 equestriaatwar
+Equestrian
 Eragon
 es
 EscapefromTarkov
@@ -1608,6 +1624,7 @@ FireEmblemHeroes
 FireEmblemThreeHouses
 Firefighting
 firefly
+firefox
 FIREUK
 firstimpression
 FirstTimeHomeBuyer
@@ -1631,6 +1648,7 @@ floorplan
 florida
 FloridaGators
 FloridaMan
+FlorkofCowsOfficial
 flowers
 Flyers
 flyfishing
@@ -1989,6 +2007,7 @@ Hasan_Piker
 hatsune
 Hawaii
 HayleyAtwell
+hayleywilliams
 HazbinHotel
 headpats
 headphones
@@ -2057,6 +2076,7 @@ homeassistant
 homeautomation
 HomeDecorating
 HomeDepot
+homegym
 HomeImprovement
 homelab
 homeless
@@ -2241,6 +2261,7 @@ indonesia
 IndoorGarden
 INDYCAR
 InfinityTrain
+INFJmemes
 Infographics
 InfowarriorRides
 infp
@@ -2386,6 +2407,7 @@ justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
 k_on
+KaeyaMains
 KaguyaShinomiya
 kaisamains
 kaiserredux
@@ -2482,6 +2504,7 @@ KukiShinobuMains
 KumoDesu
 Kurisutina
 kurtisconner
+Kurumi
 kurzgesagt
 KusanaliMains
 KUWTKsnark
@@ -2635,6 +2658,7 @@ loreofleague
 LosAngelesRams
 loseit
 lossofalovedone
+lost
 Lost_Architecture
 lostarkgame
 LostLandsMusicFest
@@ -2799,6 +2823,7 @@ MensRights
 MEOW_IRL
 meowsertrousers
 Mercari
+mercedes_benz
 Metalcore
 metaldetecting
 MetalGearInMyAss
@@ -2863,6 +2888,7 @@ Minneapolis
 minnesota
 minnesotatwins
 minnesotavikings
+Minoxbeards
 miraculousladybug
 mirroring
 Mirrorsforsale
@@ -2884,6 +2910,7 @@ mmamemes
 MMORPG
 MobileLegendsGame
 MobileWallpaper
+MobKitchen
 Mobpsycho100
 modeltrains
 Modern_Family
@@ -3069,6 +3096,7 @@ Nijisanji
 Nikon
 NilouMains
 nin
+NinaDobrev
 Ningen
 Ninjago
 NinjagoMemes
@@ -3089,6 +3117,7 @@ NoahGetTheDeathStar
 NobodyAsked
 nocontextpics
 Noctor
+Noellemains
 NoFap
 NoFeeAC
 NoFuckingComment
@@ -3211,6 +3240,7 @@ olympics
 OmegaWatches
 OmniscientReader
 OMORI
+onebag
 onednd
 onejob
 onejoke
@@ -3379,6 +3409,7 @@ picrew
 pics
 PicsOfUnusualBirds
 PietSmiet
+pigs
 Pikabu
 Pikmin
 pinball
@@ -3699,6 +3730,7 @@ RPClipsGTA
 RPDR_UK
 RPDRDRAMA
 rpg
+rpg_gamers
 rpghorrorstories
 rsloshredit
 RTGameCrowd
@@ -3893,6 +3925,7 @@ shouldercats
 Showerthoughts
 Shrimping
 shrimptank
+shrinkflation
 ShroomID
 shrooms
 shubreddit
@@ -4071,6 +4104,7 @@ Starfield
 starfinder_rpg
 Stargate
 starsector
+StarshipPorn
 starterpacks
 StartledCats
 startrekmemes
@@ -4098,6 +4132,7 @@ SteinsGateMemes
 Stellaris
 Stepdadreflexes
 stephenking
+StevenHe
 stevenuniverse
 sticknpokes
 StLouis
@@ -4295,6 +4330,7 @@ TheAstraMilitarum
 thebadbatch
 TheBatmanFilm
 TheBidenshitshow
+thebindingofisaac
 TheBoys
 thecatdimension
 TheCatReport
@@ -4639,6 +4675,7 @@ venturebros
 verfluchteKommentare
 Vermintide
 vermont
+Veterans
 VeteransBenefits
 vexillology
 vexillologycirclejerk
@@ -4705,6 +4742,7 @@ WarframeRunway
 wargame
 Warhammer
 Warhammer30k
+WarhammerCompetitive
 WarhammerFantasy
 WarplanePorn
 warriors
@@ -4758,6 +4796,7 @@ WestSubEver
 WestVirginia
 westworld
 WetlanderHumor
+wewantcups
 WeWantPlates
 whales
 WhatAWeeb
@@ -4809,6 +4848,7 @@ WingsOfFire
 WinStupidPrizes
 winterporn
 wirklichgutefrage
+wirtual
 wisconsin
 WisconsinBadgers
 Wiseposting
