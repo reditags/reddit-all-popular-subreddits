@@ -98,6 +98,7 @@ ActivationSound
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
+ACValhalla
 AdachiToShimamura
 ADCMains
 AddisonRae
@@ -161,6 +162,7 @@ alicenfern
 AlisonBrie
 AlternateAngles
 AlternateHistory
+alternativeart
 AltStreetBets
 AlzheimersGroup
 Alzwards_Corner
@@ -604,6 +606,7 @@ blackdesertonline
 BlackHair
 blacklagoon
 BlackLivesMatter
+blackmagicfuckery
 blackmirror
 blackopscoldwar
 blackpeoplegifs
@@ -915,6 +918,7 @@ ChildrenFallingOver
 chile
 China_irl
 chinchilla
+Chipotle
 Chiraqology
 Chivalry2
 Choices
@@ -997,6 +1001,7 @@ combinedgifs
 ComedyArchaeology
 comedybangbang
 ComedyCemetery
+comedyepilepsy
 ComedyFlogging
 comedyheaven
 ComedyHell
@@ -1568,6 +1573,7 @@ F1Manager
 F1NN5TER
 F1Porn
 F1Technical
+Fable
 FacebookScience
 facebookwins
 facehugs
@@ -1727,6 +1733,7 @@ forza
 ForzaHorizon
 fossilid
 FoundPaper
+FoundryVTT
 foundsatan
 fountainpens
 fourthwavewomen
@@ -2455,6 +2462,7 @@ JustMonika
 justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
+Juve
 k_on
 KaeyaMains
 KaguyaShinomiya
@@ -2491,6 +2499,7 @@ Kentucky
 KeqingMains
 Kerala
 KerbalSpaceProgram
+keto
 ketorecipes
 kfeets
 KGATLW
@@ -3144,6 +3153,7 @@ NFCWestMemeWar
 nflmemes
 nhl
 Ni_Bondha
+Nicegirls
 niceguys
 NiceHash
 Nichijou
@@ -3549,6 +3559,7 @@ policeuk
 politecats
 Political_Revolution
 PoliticalComebacks
+PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
 politics
@@ -3597,6 +3608,7 @@ PrettyGirls
 PrettyLittleLiars
 preyingmantis
 Priconne
+PrideAndPinion
 PrimalShow
 PrimeiraLiga
 PrincessesOfPower
@@ -3798,6 +3810,7 @@ RoomPorn
 roosterteeth
 rootgame
 rose
+RotMG
 Rotterdam
 Rottweiler
 RoughRomanMemes
@@ -3937,6 +3950,7 @@ serbiancringe
 seriea
 seriouseats
 Serverlife
+settmains
 Seulgi
 seventeen
 SeveranceAppleTVPlus
@@ -4182,6 +4196,7 @@ StainedGlass
 stalker
 Stance
 standardissuecat
+StandUpComedy
 standupshots
 starbound
 starbucks
@@ -4315,6 +4330,7 @@ swordartonline
 SWORDS
 SwordsComic
 swtor
+SWTOR_memes
 sydney
 SympatheticMonsters
 synthesizers
@@ -4564,6 +4580,7 @@ toolgifs
 toolporn
 Tools
 TooMeIrlForMeIrl
+toontownrewritten
 ToothpasteBoys
 TopGear
 TopMindsOfReddit
@@ -4639,6 +4656,7 @@ TsundereSharks
 TTSverse
 tuckedinkitties
 TuckedInPuppies
+Tucson
 Tufting
 tulsa
 tumblr
