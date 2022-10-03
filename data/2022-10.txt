@@ -124,6 +124,7 @@ AFCSouthMemeWar
 afkarena
 AFL
 AfterTheEndFanFork
+AgainstHateSubreddits
 agedlikemilk
 agedlikewine
 agedtattoos
@@ -785,6 +786,7 @@ canberra
 cannabiscultivation
 Canning
 canucks
+CapitalismMemes
 CapitalismSux
 CapitolConsequences
 CaptainSparklez
@@ -928,6 +930,7 @@ Christianity
 christinahendricks
 christmas
 ChronicIllness
+ChronicPain
 chronotrigger
 churchoffutaba
 ChurchOfKasumi
@@ -935,6 +938,7 @@ ChurchofLucy
 ChurchofMarnie
 chuunibyou
 CICO
+cigars
 cincinnati
 Cinemagraphs
 CineShots
@@ -1313,6 +1317,7 @@ dezwo
 DHHMemes
 DHMIS
 diabetes
+diabetes_t1
 Diablo
 diablo2
 diablo3
@@ -1346,6 +1351,7 @@ disneyvacation
 DisneyWorld
 distractible
 distressingmemes
+dividends
 DivinityOriginalSin
 DivorcedBirds
 DiWHY
@@ -1529,6 +1535,7 @@ es
 EscapefromTarkov
 esHistoria
 esist
+espresso
 estoration
 ethereum
 ethfinance
@@ -1643,6 +1650,7 @@ FFXIVGlamours
 Fibromyalgia
 FIFA
 FifaCareers
+FiftyFifty
 Fighters
 fightporn
 filipinofood
@@ -1715,6 +1723,7 @@ foreverbox
 ForFashion
 ForgottenWeapons
 forhonor
+forhonorknights
 forhonormemes
 formalwaifus
 formula1
@@ -2373,6 +2382,7 @@ Italia
 ItaliaMeme
 italy
 Itasha
+ITcrowd
 ItemShop
 Iteration110Cradle
 IThinkYouShouldLeave
@@ -2420,6 +2430,7 @@ jerseyshore
 jessicaalba
 Jewdank
 jewelry
+jewelrymaking
 Jewish
 Jigsawpuzzles
 jisoo
@@ -2619,6 +2630,7 @@ learnjavascript
 learnprogramming
 learnpython
 Leathercraft
+leaves
 lebowski
 LeedsUnited
 leetcode
@@ -2700,6 +2712,7 @@ Lolirefugees
 london
 londonontario
 lonely
+longbeach
 longboyes
 longcats
 LongDistance
@@ -2738,6 +2751,7 @@ LoveDeathAndRobots
 LoveForBoozeCruisers
 LoveForLandlords
 LoveIslandTV
+LoveLive
 LoveNikki
 LowQualityMemes
 LowSodiumHalo
@@ -2797,6 +2811,7 @@ MandJTV
 MandyRose
 MangaCollectors
 manhwa
+ManorLords
 ManufacturingPorn
 Maplestory
 mapmaking
@@ -2851,6 +2866,7 @@ mechanical_gifs
 MechanicalKeyboards
 Mechwarrior5
 MedievalCats
+medievaldoctor
 Meditation
 medizzy
 Megadeth
@@ -3015,6 +3031,7 @@ motorcycle
 MotorcyclePorn
 motorcycles
 mountainbiking
+mountaindew
 Mountaineering
 mountandblade
 MouseReview
@@ -3383,6 +3400,7 @@ Ozark
 P1ZZ4_M0ZZARELL4
 Padres
 pagan
+PaigeSpiranac
 painting
 pakistan
 Paladins
@@ -3450,6 +3468,7 @@ PersonalFinanceCanada
 perth
 Pet_Renaissance
 PetAfterVet
+PetiteFitness
 Pets
 PetsareAmazing
 PetTheDamnCat
@@ -3947,6 +3966,7 @@ Sephora
 SequelMemes
 serbia
 serbiancringe
+serialkillers
 seriea
 seriouseats
 Serverlife
@@ -3974,6 +3994,7 @@ ShenheMains
 Sherlock
 ShermanPosting
 shiba
+SHIBArmy
 shid_and_camed
 shieldbro
 shiey
@@ -4080,6 +4101,7 @@ slayeasleaked
 slaythespire
 slimerancher
 Slipknot
+SLO
 sloths
 Slovakia
 Slovenia
@@ -4326,6 +4348,7 @@ SWGalaxyOfHeroes
 Switch
 Switzerland
 SWlegion
+swoletariat
 swordartonline
 SWORDS
 SwordsComic
@@ -4676,6 +4699,7 @@ TwistedWonderland
 Twitch
 twitchasians
 twittermoment
+Twokinds
 TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
