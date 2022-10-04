@@ -130,6 +130,7 @@ AFL
 AfterEffects
 AfterTheEndFanFork
 AgainstHateSubreddits
+AgainstHinduphobia
 agedlikemilk
 agedlikewine
 agedtattoos
@@ -1204,6 +1205,7 @@ czechmemes
 Dachschaden
 Dachshund
 dadjokes
+DadReflexes
 dadswhodidnotwantpets
 DaenerysWinsTheThrone
 DaftPunk
@@ -1534,6 +1536,7 @@ electronicmusic
 EliteDangerous
 EliteWeebs
 ElizabethOlsen
+ElizabethTurner
 ellacervetto
 ElleFanning
 elonmusk
@@ -1829,6 +1832,7 @@ Fromis
 FromKittenToCat
 fromsoftware
 Frugal
+Frugal_Jerk
 frugalmalefashion
 Fruitbatcats
 FruitsBasket
@@ -1950,6 +1954,7 @@ germanshepherds
 germany
 GeschichtsMaimais
 GetMotivated
+GetStudying
 GettingShredded
 GharKeKalesh
 ghettoglamourshots
@@ -2008,6 +2013,7 @@ GossipGirl
 goth
 GothGirls
 GothStyle
+GradualChaos
 Graffiti
 Granblue_en
 GrandBlue
@@ -2230,6 +2236,7 @@ howardstern
 howto
 howtonotgiveafuck
 howyoudoin
+HPHogwartsMystery
 httyd
 HUEstation
 HumanForScale
@@ -4038,6 +4045,7 @@ school_memes
 science
 ScienceBasedParenting
 sciencefiction
+sciencememes
 ScienceNcoolThings
 scifi
 SCJerk
@@ -4587,6 +4595,7 @@ TheBatmanFilm
 TheBidenshitshow
 thebindingofisaac
 TheBoys
+TheBullWins
 thecatdimension
 TheCatReport
 TheCatTrapIsWorking
@@ -4782,6 +4791,7 @@ trippinthroughtime
 Trishyland
 TrollCoping
 TrollYChromosome
+trondheim
 Trophies
 TropicalWeather
 Truckers
@@ -5002,6 +5012,7 @@ Wales
 WalkableStreets
 walkaway
 wallpaper
+wallpaperengine
 wallstreetbets
 WallStreetbetsELITE
 Wallstreetsilver
