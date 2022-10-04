@@ -518,6 +518,7 @@ BassGuitar
 bathandbodyworks
 batman
 BatmanArkham
+Battlecars
 battlecats
 Battlefield
 battlefield2042
@@ -534,6 +535,7 @@ batty
 bayarea
 Bayonetta
 BBBY
+BBIG
 BBQ
 BeachHouse
 beagle
@@ -1219,8 +1221,10 @@ CurseofStrahd
 customhearthstone
 CustomKeyboards
 custommagic
+CustomPlayerCutscene
 cute
 cuteguys
+cuteguyswithcats
 cyberDeck
 Cyberpunk
 cyberpunkgame
@@ -1308,6 +1312,7 @@ de_IAmA
 deadandcompany
 deadbydaylight
 deadcells
+deadlockpw
 deadmalls
 deadmau5
 deadmeatjames
@@ -1487,6 +1492,7 @@ dragonquest
 dragonutopia
 dragonvale
 Dragula
+DrakeTheType
 Draven
 Drawfee
 drawing
@@ -1590,6 +1596,7 @@ emulation
 EnculerLesVoitures
 ender3
 energy
+energydrinks
 EngagementRings
 engineering
 engineeringmemes
@@ -2131,6 +2138,7 @@ haikyuu
 HaileeSteinfeld
 Hair
 HairDye
+hajimenoippo
 HalfFlops
 HalfLife
 halifax
@@ -2249,6 +2257,7 @@ HomeDecorating
 HomeDepot
 homegym
 HomeImprovement
+HomeKit
 homelab
 homeless
 homestead
@@ -2294,6 +2303,7 @@ HumansBeingBros
 humblebrag
 humor
 hungary
+HungryArtists
 hunterxdank
 HunterXHunter
 HuntShowdown
@@ -2872,6 +2882,7 @@ london
 londonontario
 lonely
 longbeach
+longboarding
 longboyes
 longcats
 LongDistance
@@ -3864,9 +3875,11 @@ proplifting
 protogen
 providence
 ps2
+PS3
 PS4
 PS5
 psg
+PSVR
 psych
 Psychedelics
 psychology
@@ -4119,6 +4132,7 @@ samharris
 SamONella
 SamONellaAcademy
 samoyeds
+samsung
 sanantonio
 SandersForPresident
 SanDiegan
