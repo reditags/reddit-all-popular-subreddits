@@ -1471,6 +1471,7 @@ dogs
 dogs_getting_dogs
 DogsAndPlants
 DogsMirin
+dogsonroofs
 dogswearinghats
 dogswithjobs
 Dogtraining
@@ -1507,6 +1508,7 @@ DrakeTheType
 Draven
 Drawfee
 drawing
+DrDisrespectLive
 DreamlightValley
 Dreams
 dreamsmp
@@ -1635,6 +1637,7 @@ equelMemes
 equestriaatwar
 Equestrian
 Eragon
+Eredivisie
 es
 EscapefromTarkov
 esHistoria
@@ -2050,6 +2053,7 @@ GME
 gme_meltdown
 GMEJungle
 gmod
+goats
 goblincore
 GodofWar
 godot
@@ -2142,6 +2146,7 @@ GYM
 GymMemes
 gymsnark
 h3h3productions
+H3VR
 Habs
 hacking
 HadesTheGame
@@ -2562,6 +2567,7 @@ jakertown
 jambands
 JamesBond
 JamesHoffmann
+jameswebb
 jameswebbdiscoveries
 January6
 japan
@@ -2743,6 +2749,7 @@ kpopthoughts
 kristenbell
 KristinSmart
 krita
+kroger
 ksi
 KSPMemes
 KukiShinobuMains
@@ -2958,6 +2965,7 @@ luigi_irl
 lululemon
 Lumity
 LV426
+LWICD
 LycorisRecoil
 Lyon
 MAAU
@@ -4873,6 +4881,7 @@ thumbcats
 ThunderThots
 Ticos
 tiedye
+Tierzoo
 tifu
 TighnariMains
 TIGHTPUSSY
@@ -5094,6 +5103,7 @@ unitedkingdom
 unitedstatesofindia
 Unity2D
 Unity3D
+UniUK
 UniversalOrlando
 unixporn
 unket
