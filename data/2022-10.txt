@@ -90,6 +90,7 @@ AccidentalSlapStick
 AccidentalWesAnderson
 Accounting
 AceAttorney
+AceAttorneyCirclejerk
 acecombat
 Achievement_Hunter
 AchillesAndHisPal
@@ -231,6 +232,7 @@ AnimalsBeingGeniuses
 AnimalsBeingJerks
 AnimalsBeingLoveable
 AnimalsBeingMoms
+AnimalsBeingSleepy
 AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
@@ -426,6 +428,7 @@ autism
 AutismInWomen
 autismmemes
 AutisticPride
+AutisticWithADHD
 autobloed
 AutoDetailing
 Autoflowers
@@ -688,6 +691,7 @@ BoneAppleTea
 bonecollecting
 bonehurtingjuice
 BONELAB
+bonnaroo
 BookOfBobaFett
 books
 bookshelf
@@ -951,6 +955,7 @@ chelseafc
 chemicalreactiongifs
 chemistry
 chemistrymemes
+Chennai
 CHIBears
 chicagobulls
 chickengifs
@@ -1123,6 +1128,7 @@ cottagecore
 CounterSide
 counterstrike
 CountOnceADay
+CountryMusicStuff
 CovIdiots
 cowboybebop
 cowboys
@@ -1472,6 +1478,7 @@ DragonballLegends
 Dragonballsuper
 DragonMaid
 dragonquest
+dragonutopia
 dragonvale
 Dragula
 Draven
@@ -1531,6 +1538,7 @@ EDC
 Eddsworld
 eddyburback
 Edelgard
+EdensZero
 Edgerunners
 EDH
 Edinburgh
@@ -1642,6 +1650,7 @@ expats
 ExpectationVsReality
 explainlikeimfive
 ExposurePorn
+ExtraFabulousComics
 ExtremeCarCrashes
 extremelyinfuriating
 Eyebleach
@@ -2029,6 +2038,7 @@ GolfGTI
 GoNets
 goodanimemes
 goodboomerhumor
+goodboys
 GoodFakeTexts
 goodmythicalmorning
 google
@@ -2255,6 +2265,7 @@ hotsauce
 hottoys
 HotWheels
 houkai3rd
+HouseMD
 HouseOfTheDragon
 houseplants
 houseplantscirclejerk
@@ -2584,6 +2595,7 @@ JustCause
 justdependathings
 justforsocialmedia
 Justfuckmyshitup
+justgamedevthings
 JustGuysBeingDudes
 JusticeForJohnnyDepp
 JusticeNow
@@ -2619,6 +2631,7 @@ Kayaking
 KaynMains
 KazuhaMains
 KDRAMA
+KeanuBeingAwesome
 Keep_Track
 KeiraKnightley
 KellyBrook
@@ -2628,6 +2641,7 @@ Kengan_Ashura
 KenM
 Kenshi
 Kentucky
+kep1er
 KeqingMains
 Kerala
 KerbalSpaceProgram
@@ -2690,6 +2704,7 @@ kpop
 kpoprants
 kpopthoughts
 kristenbell
+KristinSmart
 krita
 ksi
 KSPMemes
@@ -2741,6 +2756,7 @@ LaurenCohan
 law
 LawSchool
 LaylaMains
+lcfc
 leafs
 leagueoflegends
 LeagueOfMemes
@@ -3493,6 +3509,7 @@ olympics
 OmegaWatches
 OmniscientReader
 OMORI
+oneanddone
 onebag
 onednd
 onejob
@@ -3542,6 +3559,7 @@ otomegames
 OtomeIsekai
 Otonokizaka
 ottawa
+OttawaSenators
 Otters
 OurFlagMeansDeath
 Outdoors
@@ -3795,6 +3813,7 @@ PrepperIntel
 preppers
 PrequelMemes
 PresidentialRaceMemes
+Presidents
 PrettyGirls
 PrettyLittleLiars
 prey
@@ -3836,6 +3855,7 @@ psychology
 Psychonaut
 PUBATTLEGROUNDS
 PublicFreakout
+publix
 puffco
 pukicho
 pune
@@ -3938,6 +3958,7 @@ RedDeadOnline
 reddeadredemption
 reddeadredemption2
 reddevils
+RedditForGrownups
 RedditLaqueristas
 redditrequest
 RedDwarf
@@ -4577,6 +4598,7 @@ TacticalUrbanism
 Takagi_san
 TakaMori
 tales
+TalesFromDF
 TalesFromRetail
 talesfromtechsupport
 TalesFromTheFrontDesk
@@ -4778,6 +4800,7 @@ TIHI
 TikTokCringe
 tiktokcringemoment
 tiktokgossip
+TikTokSeeThrough
 TILI
 TimAndEric
 timbers
@@ -4807,6 +4830,7 @@ ToiletPaperUSA
 tokkiefeesboek
 TokyoGhoul
 TokyoRevengers
+TolkienArt
 tollywood
 TomAndJerryMemes
 tommyinnit
@@ -5067,12 +5091,14 @@ Vinesauce
 VinlandSaga
 vintage
 vintageads
+VintageApple
 vintageaudio
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
 vinyl
 vinyljerk
+VinylReleases
 VioletEvergarden
 Virginia
 virginvschad
