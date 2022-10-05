@@ -898,6 +898,7 @@ casualknitting
 casualnintendo
 CasualUK
 cat
+cataclysmdda
 CatastrophicFailure
 catbellies
 catbongos
@@ -1411,6 +1412,7 @@ Denton
 DenverBroncos
 DenverCirclejerk
 denvernuggets
+DenzelCurry
 depechemode
 DeppDelusion
 depression_memes
@@ -1534,6 +1536,7 @@ dontflinch
 donthelpjustfilm
 dontyouknowwhoiam
 DonutMedia
+doodles
 doodoofard
 doommetal
 doordash
@@ -2640,6 +2643,7 @@ IsTodayFridayThe13th
 Italia
 ItaliaMeme
 italy
+ItalyInformatica
 ItalyPhotos
 Itasha
 ITcrowd
@@ -3780,6 +3784,7 @@ Overwatch
 overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
+OverwatchTMZ
 OverwatchUniversity
 OWConsole
 Owls
@@ -4239,6 +4244,7 @@ rimjob_steve
 Rimuru
 RimWorld
 RimWorldPorn
+Ring
 Rings_Of_Power
 RingsofPower
 ripcity
@@ -4897,6 +4903,7 @@ TeamfightTactics
 TeamFourStar
 teamliquid
 tearsofthekingdom
+TearsOfThemis
 tech
 tech1e
 technews
@@ -5110,6 +5117,7 @@ tommyinnit
 tomorrow
 tonightsdinner
 TonikakuCawaii
+TonyHawkitecture
 TonyZaretOfficial
 toofers
 tookjustenough
@@ -5464,6 +5472,7 @@ WeatherGifs
 web_design
 webcomics
 webdev
+webtoons
 wec
 wedding
 weddingdress
