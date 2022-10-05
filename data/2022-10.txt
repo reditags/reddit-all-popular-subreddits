@@ -212,6 +212,7 @@ Amtrak
 AmyAdams
 AnadeArmas
 analog
+AnalogCircleJerk
 AnalogCommunity
 Anarchism
 Anarcho_Capitalism
@@ -1022,6 +1023,7 @@ ChurchOfKasumi
 ChurchofLucy
 ChurchofMarnie
 ChurchOfSenko
+churchofskadi
 chutyapa
 chuunibyou
 CICO
@@ -1424,6 +1426,7 @@ detroitlions
 DetroitPistons
 DetroitRedWings
 deutschememes
+DevelEire
 developersIndia
 DevilMayCry
 devils
@@ -1975,6 +1978,7 @@ fuseboxgames
 fuslie
 fut
 futebol
+FUTMobile
 futurama
 Futuremoe
 futureporn
@@ -4063,6 +4067,7 @@ rangers
 rangersfc
 rant
 rap
+RapFars
 rareinsults
 rarepuppers
 Rarethreats
@@ -4711,6 +4716,7 @@ SuddenlyLesbian
 SuddenlyTrans
 suggestmeabook
 suicidebywords
+summonerschool
 sunraybee
 suns
 sunset
