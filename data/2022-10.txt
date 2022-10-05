@@ -2,6 +2,7 @@
 100gecs
 100Kanojo
 100yearsago
+10s
 11foot8
 1200isfineIGUESSugh
 1200isjerky
@@ -25,6 +26,7 @@
 2DGirlsEatingCutely
 2greek4you
 2hujerk
+2latinoforyou
 2meirl42meirl4meirl
 2meirl4meirl
 2nordic4you
@@ -118,6 +120,7 @@ AdmiralCloudberg
 AdobeIllustrator
 AdPorn
 AdultHood
+Adulting
 adventurecats
 adventuretime
 AdviceAnimals
@@ -629,6 +632,7 @@ BirdsArentReal
 BirdsForScale
 birdstakingthetrain
 birdswitharms
+Birmingham
 BisexualTeens
 bitchimabus
 BitchImATrain
@@ -811,6 +815,7 @@ C_AT
 CabinPorn
 cactus
 CafeRacers
+CafeYokai
 CAguns
 cakedecorating
 CalamariRaceTeam
@@ -818,6 +823,7 @@ Calamitymod_
 calculus
 Calgary
 CalgaryFlames
+CaliBanging
 CalicoKittys
 California
 Calligraphy
@@ -825,6 +831,7 @@ CallMeCarson
 CallOfDuty
 CallOfDutyMobile
 calvinandhobbes
+camilamendes
 camphalfblood
 CampingGear
 canada
@@ -845,6 +852,7 @@ CaptainSparklez
 CaptainSparrowmemes
 capybara
 CaraDelevingne
+carbage
 carcrash
 cardfightvanguard
 Cardinals
@@ -1026,6 +1034,7 @@ ClashRoyale
 ClassConscienceMemes
 classicalmusic
 classiccars
+ClassicRock
 classicsoccer
 classicwow
 ClassPoliticsTwitter
@@ -1739,6 +1748,7 @@ fasting
 FastWorkers
 fatestaynight
 FatuiHQ
+FCInterMilan
 feedthebeast
 feedthememes
 feemagers
@@ -2211,6 +2221,7 @@ headpats
 headphones
 Health
 Healthygamergg
+heartbreak
 hearthstone
 hearthstonecirclejerk
 HeartstopperAO
@@ -2285,6 +2296,7 @@ HomeImprovement
 HomeKit
 homelab
 homeless
+HomestarRunner
 homestead
 Homesteading
 homestuck
@@ -2322,6 +2334,7 @@ HPHogwartsMystery
 httyd
 HUEstation
 HumanForScale
+HumanPorn
 HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
@@ -3059,6 +3072,7 @@ masterduel
 masterhacker
 MasterReturns
 mathmemes
+mattcolville
 matureplants
 Mavericks
 maybemaybemaybe
@@ -3207,6 +3221,7 @@ misleadingthumbnails
 misLED
 missbricosplay
 missouri
+Mistborn
 MitchellAndWebb
 Mizkif
 MkeBucks
@@ -3419,6 +3434,7 @@ nier
 nietdespeld
 NightInTheWoods
 NightVision
+Nightwing
 nightwish
 nihilism
 Nijisanji
@@ -4067,6 +4083,7 @@ remoteplaces
 Reno
 rentnerzeigenaufdinge
 Repaintings
+repbudgetsneakers
 replications
 Repsneakers
 reptiles
@@ -4108,6 +4125,7 @@ roadtrip
 RoastMe
 RoastMyCar
 robbersgettingfucked
+RobinHood
 robotics
 rocketbeans
 RocketLeague
@@ -4300,6 +4318,7 @@ sharpcutting
 sheffield
 SheGotHands
 ShenheMains
+sheranetflix
 Sherlock
 ShermanPosting
 shiba
@@ -4328,12 +4347,14 @@ ShittyAnimalFacts
 shittyaquariums
 Shittyaskflying
 shittyaskscience
+shittybattlestations
 shittybloodborne
 shittycoolguides
 shittyeldenring
 shittyfoodporn
 Shittygamecollecting
 shittygamedetails
+ShittyGifRecipes
 shittyhalolore
 ShittyLifeProTips
 ShittyMapPorn
@@ -4490,6 +4511,7 @@ SpanishMeme
 SpecArt
 specializedtools
 SpecialSnowflake
+SpecOpsArchive
 spectacularmemes
 SpeculativeEvolution
 SpeedOfLobsters
@@ -4771,6 +4793,7 @@ terriblefandommemes
 TerrifyingAsFuck
 teslainvestorsclub
 TeslaLounge
+TeslaModel3
 TeslaModelY
 teslamotors
 Texans
@@ -4925,6 +4948,7 @@ Titanfall_2_
 tjournal_refugees
 TLCsisterwives
 TMNT
+TNG
 TNOmod
 toarumajutsunoindex
 toastme
@@ -5018,6 +5042,7 @@ TrueAnon
 TrueCrime
 TrueCrimeDiscussion
 TrueFilm
+truegaming
 TrueReddit
 truespotify
 TrueUnpopularOpinion
@@ -5072,6 +5097,7 @@ ucla
 UCSD
 ufc
 ufl
+ufo
 UFOs
 uglyduckling
 UIUC
@@ -5167,6 +5193,7 @@ VaushV
 vaxxhappened
 vdm
 vegan
+vegan1200isplenty
 vegancirclejerk
 VeganDE
 veganfitness
@@ -5356,6 +5383,7 @@ wii
 wiiu
 wikipedia
 WIKYI
+wildbeef
 WildernessBackpacking
 wildlifephotography
 wildrift
