@@ -702,6 +702,7 @@ bleach
 BleachBraveSouls
 blender
 Blep
+bleps
 Blessed_Images
 blessedcomments
 blessedimages
@@ -1837,6 +1838,7 @@ FancyFeet
 FanFiction
 fangies
 FansHansenvsPredator
+fansofcriticalrole
 fanStands
 fantanoforever
 fantasybaseball
@@ -1994,6 +1996,7 @@ foundsatan
 fountainpens
 fourthwavewomen
 foxes
+FoxFiction
 foxholegame
 fragilecommunism
 FragileMaleRedditor
@@ -3314,6 +3317,7 @@ meirl
 Melanime
 melbourne
 MelissaBenoist
+MelvorIdle
 meme
 MemeAlleyway
 memeculturetechnology
@@ -3364,6 +3368,7 @@ microbiology
 microbork
 microdosing
 microgrowery
+MicromobilityNYC
 MicrosoftFlightSim
 MicrosoftRewards
 Mid_Century
@@ -3596,6 +3601,7 @@ NdFlex
 ndp
 nebelung
 NeckbeardNests
+necoarc
 necromunda
 Necrontyr
 nederlands
@@ -3967,6 +3973,7 @@ pelletgrills
 pelotoncycle
 penguins
 PenmanshipPorn
+PennStateUniversity
 Pennsylvania
 pennystocks
 PeopleBeingJerks
@@ -4001,6 +4008,7 @@ petthedamncow
 PetTheDamnDog
 PetTheDamnKitty
 pettyrevenge
+pewdiepie
 PeytonList
 peyups
 Phalanxed
@@ -4146,6 +4154,7 @@ Portal
 portugal
 PORTUGALCARALHO
 PORTUGALCYKABLYAT
+portugueses
 Positive_News
 Possums
 postprocessing
@@ -4182,6 +4191,7 @@ Priconne
 PrideAndPinion
 PrimalShow
 PrimeiraLiga
+PrimitiveTechnology
 PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
@@ -4536,6 +4546,7 @@ ScienceNcoolThings
 scifi
 SCJerk
 Scoobydoo
+ScoobyDooMemes
 Scotland
 ScottishFootball
 ScottishPeopleTwitter
@@ -5082,6 +5093,7 @@ teefies
 teenagers
 teenagersbuthot
 teenagersnew
+teenfemboy
 TeenMomOGandTeenMom2
 Tekken
 telescopes
@@ -5525,6 +5537,7 @@ vancouver
 vandwellers
 VanessaHudgens
 VanLife
+vaporents
 VaporwaveAesthetics
 VaushV
 vaxxhappened
