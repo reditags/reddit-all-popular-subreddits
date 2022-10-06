@@ -719,6 +719,7 @@ boardgames
 boardgamescirclejerk
 bobdylan
 BobsBurgers
+BobsTavern
 boburnham
 bodegacats
 bodybuilding
@@ -2352,6 +2353,7 @@ helsinki
 HermanCainAward
 HermitCraft
 hermitcraftmemes
+heroes3
 heroesofthestorm
 HeroForgeMinis
 herpetology
@@ -2684,6 +2686,7 @@ IrishHistory
 IRLEasterEggs
 irlsmurfing
 IronFrontUSA
+ironmaiden
 ironscape
 IrrationalMadness
 IsAttenboroughAlive
@@ -2833,6 +2836,7 @@ KatherynWinnick
 katyperry
 Kayaking
 KaynMains
+Kazakhstan
 KazuhaMains
 KCRoyals
 KDRAMA
@@ -4191,6 +4195,7 @@ pureasoiaf
 Purrito
 purrkour
 pussypassdenied
+PutAnEggOnIt
 PvZGardenWarfare
 PvZHeroes
 pykemains
@@ -4455,6 +4460,7 @@ Sat
 Satan
 SatanicTemple_Reddit
 satanism
+satisfactory
 SatisfactoryGame
 SatisfIcing
 satisfying
@@ -4557,6 +4563,7 @@ sharks
 sharpcutting
 sheffield
 SheGotHands
+shehulk
 ShenheMains
 sheranetflix
 Sherlock
@@ -4716,6 +4723,7 @@ SocialistRA
 socialistsmemes
 socialskills
 SofiaGomez
+SofiaVergara
 softwaregore
 solarpunk
 sololeveling
@@ -5523,6 +5531,7 @@ Virginia
 virginvschad
 virtualreality
 Visiblemending
+VocabWordOfTheDay
 Vocaloid
 void_memes
 VoidCake
