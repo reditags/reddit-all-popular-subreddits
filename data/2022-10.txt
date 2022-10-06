@@ -535,6 +535,7 @@ bartenders
 baseball
 baseballcards
 baseballcirclejerk
+basketballcards
 basset
 bassfishing
 BassGuitar
@@ -548,6 +549,7 @@ battlefield2042
 battlefield_4
 battlefield_one
 BattlefieldV
+BattleJackets
 battlemaps
 BattleNetwork
 battlestations
@@ -811,6 +813,7 @@ brushybrushy
 BrutalBeatdowns
 BryceDallasHoward
 btd6
+buccos
 Buddhism
 BudgetAudiophile
 budgetfood
@@ -1016,6 +1019,7 @@ chemistry
 chemistrymemes
 Chennai
 chessbeginners
+ChevyTrucks
 CHIBears
 chicagobulls
 chickengifs
@@ -1202,6 +1206,7 @@ counterstrike
 CountOnceADay
 CountryMusicStuff
 CovIdiots
+covidlonghaulers
 cowboybebop
 cowboys
 cowcats
@@ -1225,6 +1230,7 @@ creepydesign
 creepyencounters
 creepypasta
 creepyPMs
+CreepyWikipedia
 cremposting
 crescentcitysjm
 Cricket
@@ -1488,6 +1494,7 @@ dioramas
 Dipcifica
 DiretoDoZapZap
 Dirtbikes
+disability
 discgolf
 DiscoElysium
 discord_irl
@@ -1553,6 +1560,7 @@ dontflinch
 donthelpjustfilm
 dontyouknowwhoiam
 DonutMedia
+DonutOperator
 doodles
 doodoofard
 doommetal
@@ -1567,6 +1575,7 @@ DoveCameron
 DowntonAbbey
 DownvotedToOblivion
 DPH
+DragaliaLost
 dragonballfighterz
 DragonballLegends
 Dragonballsuper
@@ -2064,11 +2073,13 @@ gangstaswithwaifus
 gangweed
 gank
 Ganyu
+garageporn
 GarandThumb
 GardeningAustralia
 GardeningUK
 garfieldminusgarfield
 GarlicBreadMemes
+gastricsleeve
 Gatcat
 gatekeeping
 GatekeepingYuri
@@ -2206,6 +2217,7 @@ grilling
 Grimdank
 Grimes
 GriseldaxFR
+GrowingMarijuana
 grumpycats
 GTA
 GTA6
@@ -2310,6 +2322,7 @@ HeartstopperAO
 heat
 HeavyFuckingWind
 HeavySeas
+HecklerKoch
 Hedgehog
 heep
 Helicopters
@@ -2570,6 +2583,7 @@ indiameme
 Indiana
 indianajones
 IndianaJonesMemes
+indianapolis
 IndianCountry
 IndianDankMemes
 IndianDefense
@@ -3065,6 +3079,7 @@ lost
 Lost_Architecture
 lostarkgame
 LostLandsMusicFest
+lostmedia
 lostpause
 lostredditors
 lotr
@@ -3112,6 +3127,7 @@ Machinists
 MacMiller
 MacroPorn
 macsetups
+Madden
 MadeInAbyss
 MadelainePetsch
 MadelynCline
@@ -3472,6 +3488,7 @@ namenerds
 namethatcar
 NamFlashbacks
 NanatsunoTaizai
+nancydrew
 nanocurrency
 NarcoFootage
 Naruto
@@ -3483,6 +3500,7 @@ nashville
 natalieportman
 nathanforyou
 NationalPark
+Nationals
 NativeAmerican
 NativePlantGardening
 nattyorjuice
@@ -3500,6 +3518,7 @@ NBA2k
 nbacirclejerk
 Nbamemes
 NBAYoungboy
+NCAAFBseries
 NCAAgirls
 NCT
 NdFlex
@@ -3537,6 +3556,7 @@ NevilleGoddard
 newcastle
 NewcastleUponTyne
 NewDealAmerica
+newfoundland
 Newfoundlander
 NewGirl
 NewGreentexts
@@ -3675,6 +3695,7 @@ NYGiants
 nyjets
 NYKnicks
 NYYankees
+OaklandAthletics
 oasis
 obeyme
 oblivion
@@ -3913,6 +3934,7 @@ pharmacy
 PhasmophobiaGame
 phcareers
 phclassifieds
+PhD
 PHGamers
 philadelphia
 Philippines
@@ -4028,6 +4050,7 @@ Polska_wpz
 polydactyl
 polyphia
 Pomeranians
+ponds
 poodles
 pop_os
 popculturechat
@@ -4258,6 +4281,7 @@ ReservationDogs
 Residency
 residentevil
 restofthefuckingowl
+retailhell
 RetroAR
 retrobattlestations
 RetroBowl
@@ -4292,6 +4316,7 @@ RoastMyCar
 robbersgettingfucked
 RobinHood
 robotics
+Rochester
 rocketbeans
 RocketLeague
 RocketLeagueEsports
@@ -4325,6 +4350,7 @@ rsloshredit
 RTGameCrowd
 RubeGoldbergFails
 rugbyunion
+ruger
 RuinedMyDay
 runefactory
 runescape
@@ -4511,6 +4537,7 @@ ShitLiberalsSay
 ShitLibSafari
 ShitMomGroupsSay
 ShitPoliticsSays
+ShitpostBR
 ShitPostCrusaders
 shitposting
 shitposting_inc
@@ -4573,6 +4600,7 @@ silentmoviegifs
 silhouWHAT
 SiliconValleyHBO
 Silmarillionmemes
+Silverbugs
 silverhair
 simpleliving
 SimpsonsFaces
@@ -4742,6 +4770,7 @@ starbucks
 starcitizen
 starcraft
 starcraft2
+StardewHomeDesign
 StardewMemes
 StardustCrusaders
 Starfield
@@ -5082,6 +5111,7 @@ TheTrumpZone
 TheTryGuys
 theumbrellaacademy
 theunforgiven
+TheVampireDiaries
 thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
@@ -5256,6 +5286,7 @@ tumblr
 Turkey
 TurkeyJerky
 TurkishCats
+turtle
 TuxedoCats
 TVDetails
 TVGRYpl
@@ -5290,6 +5321,7 @@ ucf
 UCI
 ucla
 UCSD
+udub
 ufc
 ufl
 ufo
@@ -5461,6 +5493,7 @@ vultureculture
 VuvuzelaIPhone
 W2S
 Wales
+walkablecities
 WalkableStreets
 walkaway
 wallpaper
@@ -5484,6 +5517,7 @@ Warhammer30k
 WarhammerCompetitive
 WarhammerFantasy
 WarplanePorn
+WarriorCats
 warriors
 WarshipPorn
 warthundermemes
@@ -5580,6 +5614,7 @@ WholesomeSliceOfLife
 wholesomevandalism
 wholesomeviolence
 whothefuckup
+WhyWereTheyFilming
 WhyWomenLiveLonger
 Wicca
 wien
@@ -5696,6 +5731,7 @@ yesyesyesno
 yesyesyesyesno
 ynab
 YofukashiNoUta
+Yoimiya_Mains
 Yointerneto
 Yorkies
 Yotsubros
