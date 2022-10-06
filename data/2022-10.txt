@@ -591,6 +591,7 @@ BeforeNAfterAdoption
 BeginnerWoodWorking
 behindthebastards
 beholdthemasterrace
+BeidouMains
 belarus
 BelgianMalinois
 belgium
@@ -1929,6 +1930,7 @@ Foodforthought
 foodhacks
 FoodLosAngeles
 FoodPorn
+foodscam
 Foofighters
 football
 footballmanagergames
@@ -2753,6 +2755,7 @@ jjdandfamily
 jobs
 JoeBiden
 JoeRogan
+JohnMayer
 joinsquad
 JoJoMemes
 Jokes
@@ -3475,6 +3478,7 @@ MxRMods
 MXRplays
 MyChemicalRomance
 mycology
+MyDressUpDarlingAnime
 myfavoritemurder
 mylittlepony
 MyouiMina
@@ -3925,6 +3929,7 @@ PERSoNA
 persona4golden
 Persona5
 PersonalFinanceCanada
+PersonalFinanceNZ
 perth
 Pet_Renaissance
 PetAfterVet
@@ -4443,6 +4448,7 @@ SavannahDemers
 SAVEBRENDAN
 savedyouaclick
 sbeve
+scambait
 Scams
 ScaramoucheMains
 ScarlettBordeaux
@@ -4522,6 +4528,7 @@ SFGiants
 SFM
 SFWmonstergirls
 SFWNextDoorGirls
+SGExams
 shadowofmordor
 Shadowtherat
 Sham_Sharma_Show
@@ -5336,6 +5343,7 @@ UCDavis
 ucf
 UCI
 ucla
+UCSC
 UCSD
 udub
 ufc
@@ -5563,6 +5571,7 @@ WattsonMains
 Wavyhair
 WeaponsMoe
 WeatherGifs
+WeatherPorn
 web_design
 webcomics
 webdev
