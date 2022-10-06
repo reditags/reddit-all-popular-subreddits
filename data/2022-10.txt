@@ -98,6 +98,7 @@ acecombat
 Achievement_Hunter
 AchillesAndHisPal
 ACMilan
+acnh
 acotar
 ACPocketCamp
 ActionFigures
@@ -882,6 +883,7 @@ canucks
 CapitalismMemes
 CapitalismSux
 CapitolConsequences
+caps
 CaptainSparklez
 CaptainSparrowmemes
 capybara
@@ -1303,6 +1305,7 @@ Cyberpunk
 cyberpunkgame
 cybersecurity
 cybertechnology
+cycling
 CynoMains
 czech
 czechmemes
@@ -1404,6 +1407,7 @@ decentralization
 DecidingToBeBetter
 DeclineIntoCensorship
 declutter
+DecreasinglyVerbose
 DeepIntoYouTube
 DeepRockGalactic
 deepseacreatures
@@ -1760,6 +1764,7 @@ EvilDeadTheGame
 exjw
 exmormon
 exmuslim
+ExNoContact
 exocomics
 ExpandDong
 expats
@@ -1809,6 +1814,7 @@ fangies
 FansHansenvsPredator
 fanStands
 fantanoforever
+fantasybaseball
 fantasyfootball
 FantasyPL
 FanTheories
@@ -2811,6 +2817,7 @@ katyperry
 Kayaking
 KaynMains
 KazuhaMains
+KCRoyals
 KDRAMA
 KeanuBeingAwesome
 Keep_Track
@@ -3866,6 +3873,7 @@ Paranormal
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
+parentsofmultiples
 paris
 ParkJihyo
 ParlerTrick
@@ -3888,6 +3896,7 @@ pcx99
 PeakyBlinders
 peanutbutterisoneword
 PeanutWhiskers
+PeepingPooch
 pelletgrills
 pelotoncycle
 penguins
@@ -4006,6 +4015,7 @@ PlayTemtem
 pleasedontlackPDL
 PleX
 Plumbing
+plushies
 PlusSize
 pocketpussy
 Poem_for_your_sprog
@@ -5174,6 +5184,7 @@ toarumajutsunoindex
 toastme
 todayilearned
 toddlers
+toebeans
 Toefeathers
 ToiletPaperUSA
 tokkiefeesboek
@@ -5387,6 +5398,7 @@ unOrdinary
 unpopularopinion
 unrealengine
 UnresolvedMysteries
+UnsentLetters
 UnsolvedMysteries
 unstirredpaint
 untrustworthypoptarts
@@ -5462,6 +5474,7 @@ vintage
 vintageads
 VintageApple
 vintageaudio
+vintagecomputing
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
