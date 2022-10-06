@@ -445,6 +445,7 @@ australia
 AustralianCattleDog
 AustralianMilitary
 AustralianNostalgia
+australianplants
 AustralianPolitics
 AustralianShepherd
 Austria
@@ -1593,6 +1594,7 @@ dragonquest
 dragonutopia
 dragonvale
 DragRacePhilippines
+DragRaceTea
 Dragula
 DrakeTheType
 Draven
@@ -2429,6 +2431,7 @@ hot_dog
 hot_reporters
 HotlineMiami
 hotones
+HotPaper
 hotsauce
 hottoys
 HotWheels
@@ -3552,6 +3555,7 @@ nebelung
 NeckbeardNests
 necromunda
 Necrontyr
+nederlands
 needforspeed
 Needlefelting
 neekolul
@@ -4241,6 +4245,7 @@ rareinsults
 rarepuppers
 Rarethreats
 raspberry_pi
+RatchetAndClank
 RATM
 Ratorix
 RATS
@@ -4626,6 +4631,7 @@ shylily
 Siamesecats
 SiberianCats
 Sidemen
+SideProject
 siennamaegomez1
 Sierra
 Sigmarxism
@@ -5739,6 +5745,7 @@ WTFaucet
 WTFgaragesale
 wtfstockphotos
 WTFwish
+WtWFotMJaJtRAtCaB
 ww2
 ww2memes
 WWE
