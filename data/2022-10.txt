@@ -1091,6 +1091,7 @@ cirkeltrek
 CitiesSkylines
 CityPorn
 civ
+civ5
 civic
 civilengineering
 CivVI
@@ -1804,6 +1805,7 @@ exocomics
 ExpandDong
 expats
 ExpectationVsReality
+ExperiencedDevs
 explainlikeimfive
 ExposurePorn
 extomatoes
@@ -1905,6 +1907,7 @@ Filmmakers
 FilthyFrank
 FinalFantasy
 FinalFantasyVII
+finalfantasyx
 finance
 financialindependence
 Finanzen
@@ -2275,6 +2278,7 @@ GrowingMarijuana
 grumpycats
 GTA
 GTA6
+GTAGE
 gtaonline
 GTAorRussia
 GTAV
@@ -2634,6 +2638,7 @@ Impeach_Trump
 Imperator
 ImpracticalArmour
 ImpracticalJokers
+IMSARacing
 imsorryjon
 ImTheMainCharacter
 InclusiveOr
@@ -3190,6 +3195,7 @@ LPOTL
 LSD
 LTB_iel
 LubaTv
+LucyHale
 LudwigAhgren
 luigi_irl
 lululemon
@@ -3664,6 +3670,7 @@ NewPatriotism
 news
 NewsAroundYou
 newsbloopers
+NewSkaters
 NewsOfTheStupid
 NewsWithJingjing
 NewVegasMemes
@@ -4950,6 +4957,7 @@ StevenHe
 stevenuniverse
 sticknpokes
 StLouis
+stlouisblues
 sto
 stockholm
 StockMarket
@@ -4958,6 +4966,7 @@ Stoicism
 StoicMemes
 stolendogbeds
 StonerEngineering
+StonerThoughts
 Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
