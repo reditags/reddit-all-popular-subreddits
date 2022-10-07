@@ -537,6 +537,7 @@ badUIbattles
 bakchodi
 bakeoff
 Baking
+bald
 BaldursGate3
 balisong
 balkans_irl
@@ -2189,6 +2190,7 @@ garageporn
 GarandThumb
 GardeningAustralia
 GardeningUK
+GarenMains
 garfieldminusgarfield
 GarlicBreadMemes
 gastricsleeve
@@ -3391,6 +3393,7 @@ mattcolville
 matureplants
 MauLer
 Mavericks
+MawInstallation
 maximalism
 MayaHawke
 maybemaybemaybe
@@ -3475,6 +3478,7 @@ metro
 Metroid
 mew_irl
 mexico
+Mexicowave
 mfdoom
 MHRise
 Miami
@@ -5232,6 +5236,7 @@ TankPorn
 tanks
 TanmayBhatKeDost
 taoism
+tappedout
 tarantulas
 Target
 TargetedShirts
@@ -5519,6 +5524,7 @@ touhou
 touhou_lostword
 TowerofFantasy
 TowerofGod
+TownofSalemgame
 Toyota
 ToyotaTacoma
 TPoseMemes
