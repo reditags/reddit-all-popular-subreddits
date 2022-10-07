@@ -919,6 +919,7 @@ canadaguns
 canadahousing
 canadaleft
 CanadianForces
+CanadianInvestor
 canberra
 CandaceMains
 cannabis
@@ -1148,6 +1149,7 @@ climate
 climbergirls
 climbing
 ClimbingCircleJerk
+ClipStudio
 clonewars
 CloneWarsMemes
 Cloud9
@@ -1668,6 +1670,7 @@ DragRacePhilippines
 DragRaceTea
 Dragula
 DrakeTheType
+DramaticHouseplants
 Draven
 Drawfee
 drawing
@@ -2805,6 +2808,7 @@ iPhoneography
 iRacing
 IranMehr
 ireland
+irezumi
 IrishHistory
 IRLEasterEggs
 irlsmurfing
@@ -2954,6 +2958,7 @@ KansasCityChiefs
 Kanye
 karengillan
 KarmaRoulette
+KatanaZero
 KatDennings
 katebeckinsale
 KatherineMcNamara
@@ -2995,6 +3000,7 @@ killedthecameraman
 KillLaKill
 killteam
 killthecameraman
+Killtony
 KimetsuNoYaiba
 KimiNoNaWa
 kindafunny
@@ -3660,6 +3666,7 @@ MyChemicalRomance
 mycology
 MyDressUpDarlingAnime
 myfavoritemurder
+MyHeroAcadamia
 mylittlepony
 MyNameIsBat
 MyouiMina
@@ -3827,6 +3834,7 @@ NoFap
 NoFeeAC
 NoFuckingComment
 NoisyCats
+noisygifs
 noita
 NoJumper
 NolanBatmanMemes
@@ -4564,6 +4572,7 @@ RoleReversal
 rolex
 rollercoasters
 Rollerskating
+rolltide
 RomanceClub
 Romania
 romemes
@@ -4601,6 +4610,7 @@ rustyrails
 rutgers
 rva
 RWBY
+RX7
 ryujin
 RyzeMains
 sabaton
@@ -4643,6 +4653,7 @@ SandersForPresident
 SanDiegan
 sandiego
 Sandman
+sandyalexg
 sanepolitics
 sanfrancisco
 SanJose
@@ -4679,6 +4690,7 @@ SchittsCreek
 schizoposters
 schkreckl
 schnauzers
+SchnitzelVerbrechen
 school_memes
 science
 ScienceBasedParenting
@@ -5060,6 +5072,7 @@ StarWarsleftymemes
 starwarsmemes
 starwarsrebels
 staryuukiiii
+StassieBaby
 stateball
 stateofMN
 steak
@@ -5136,6 +5149,7 @@ SuddenlyTrans
 suggestmeabook
 suicidebywords
 summonerschool
+summonerswar
 sunraybee
 suns
 sunset
@@ -5605,6 +5619,7 @@ tylerthecreator
 Tyranids
 tzuyu
 UBC
+uberdrivers
 Ubiquiti
 Ubuntu
 UCDavis
