@@ -39,6 +39,7 @@
 30ROCK
 31MillionRegrets
 3amjokes
+3d6
 3Dmodeling
 3Dprinting
 3DS
@@ -152,6 +153,7 @@ agender
 AgeofMythology
 ageofsigmar
 aggies
+Agraelus
 AHatInTime
 AHomeForPlagueRats
 AhriMains
@@ -676,6 +678,7 @@ bikepacking
 Bikeporn
 bikesgonewild
 BikiniBottomTwitter
+billiards
 billieeilish
 BillieEilish1
 billsimmons
@@ -1229,6 +1232,7 @@ composting
 computers
 conan
 ConanExiles
+Concrete
 confession
 confessions
 confidentlyincorrect
@@ -1375,6 +1379,7 @@ cursedvideos
 CurseofStrahd
 customhearthstone
 CustomKeyboards
+CustomLoR
 custommagic
 CustomPlayerCutscene
 cute
@@ -1965,6 +1970,7 @@ fffffffuuuuuuuuuuuu
 FFVIIRemake
 ffxiv
 FFXIVGlamours
+fiaustralia
 Fibromyalgia
 FIFA
 FifaCareers
@@ -1986,6 +1992,7 @@ findfashion
 FindTheSniper
 FingMemes
 Finland
+Fire
 Firearms
 fireemblem
 FireEmblemHeroes
@@ -2082,6 +2089,7 @@ fossilid
 FoundPaper
 FoundryVTT
 foundsatan
+FoundTheGerman
 fountainpens
 fourthwavewomen
 foxes
@@ -2305,6 +2313,7 @@ gmod
 gnome
 goats
 goblincore
+GoblinSlayer
 GodofWar
 godot
 godtiersuperpowers
@@ -2728,6 +2737,7 @@ ImaginaryWesteros
 ImaginaryWildlands
 ImaginaryWitcher
 ImaginaryWitches
+ImaginaryWizards
 ImaginaryWorldEaters
 ImaginaryWorlds
 ImaginAsian
@@ -2945,6 +2955,7 @@ jschlatt
 jschlattsubmissions
 JSOCarchive
 Judaism
+judo
 JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
@@ -3599,6 +3610,7 @@ missouri
 Mistborn
 MitchellAndWebb
 Mizkif
+mkd
 MkeBucks
 mlb
 MLBTheShow
@@ -3624,6 +3636,7 @@ MoeMorphism
 Moescape
 Moissanite
 MoldlyInteresting
+moldova
 MoldyMemes
 MomForAMinute
 Mommit
@@ -3645,6 +3658,7 @@ Morbius
 MordekaiserMains
 Mordhau
 moreplatesmoredates
+Morocco
 Morrowind
 MortalKombat
 MostBeautiful
@@ -3924,6 +3938,7 @@ notopbutok
 nottheonion
 NotTimAndEric
 nova
+NovaScotia
 NovelAi
 noveltranslations
 nowmycat
@@ -4257,6 +4272,7 @@ pittsburgh
 Pixar
 pixel_phones
 PixelArt
+pixelography
 Pixiv
 Pizza
 PizzaCrimes
@@ -4584,6 +4600,7 @@ Revolvers
 RheaRipley
 RhodeIsland
 rickandmorty
+rickygervais
 RighteousGemstones
 RightJerk
 Rihanna
@@ -4618,6 +4635,7 @@ rodentintercourse
 RodriguesFamilySnark
 RoleReversal
 rolex
+Roll20
 rollercoasters
 Rollerskating
 rolltide
@@ -4657,7 +4675,9 @@ RussiaUkraineWar2022
 rustyrails
 rutgers
 rva
+RVLiving
 RWBY
+RWTH_memes
 RX7
 ryujin
 RyzeMains
@@ -5189,6 +5209,7 @@ submechanophobia
 subnautica
 SubsIFellFor
 SubSimulatorGPT2
+SubSimulatorGPT2Meta
 subsithoughtifellfor
 SubsTakenLiterally
 Suburbanhell
@@ -5267,6 +5288,7 @@ tales
 TalesFromDF
 TalesFromRetail
 talesfromtechsupport
+TalesFromTheCustomer
 TalesFromTheFrontDesk
 TalesFromThePharmacy
 TalesFromYourServer
@@ -5362,6 +5384,7 @@ ThanksCyno
 thanksihateit
 thanksimcured
 thanosdidnothingwrong
+That70sshow
 thatHappened
 ThatLookedExpensive
 Thatsabooklight
@@ -5676,6 +5699,7 @@ tzuyu
 UBC
 uberdrivers
 Ubiquiti
+ubius
 Ubuntu
 UCDavis
 ucf
@@ -6146,6 +6170,7 @@ youtube
 youtubehaiku
 YuB
 yugioh
+YuGiOhMemes
 yuna
 yunyun
 YUROP
