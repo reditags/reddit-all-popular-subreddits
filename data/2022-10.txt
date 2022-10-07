@@ -404,6 +404,7 @@ Art
 artcommissions
 ArtDeco
 ArtefactPorn
+ArtHistory
 ArtisanVideos
 ArtNouveau
 ArtOfRolling
@@ -2009,6 +2010,7 @@ fffffffuuuuuuuuuuuu
 FFVIIRemake
 ffxiv
 FFXIVGlamours
+FFXV
 fiaustralia
 Fibromyalgia
 FIFA
@@ -2647,6 +2649,7 @@ howardstern
 howto
 howtonotgiveafuck
 howyoudoin
+hoyas
 HPHogwartsMystery
 httyd
 HUEstation
@@ -2795,6 +2798,7 @@ ImaginaryWizards
 ImaginaryWorldEaters
 ImaginaryWorlds
 ImaginAsian
+imaginedragons
 ImagineThisView
 ImFinnaGoToHell
 Impeach_Trump
@@ -2845,6 +2849,7 @@ IndoorGarden
 INDYCAR
 InfinityTrain
 INFJmemes
+InfluencergossipDK
 Infographics
 InformedWarriorRides
 InfowarriorRides
@@ -4637,6 +4642,7 @@ reddevils
 RedditForGrownups
 RedditLaqueristas
 redditrequest
+redditsings
 RedDwarf
 RedHotChiliPeppers
 RedLetterMedia
@@ -5988,6 +5994,7 @@ VocabWordOfTheDay
 Vocaloid
 void_memes
 VoidCake
+VoidCats
 voidpunk
 voles
 Volksverpetzer
@@ -6085,6 +6092,7 @@ weezer
 WeightLossAdvice
 Weird
 weirddalle
+WeirdToilets
 weirdvideosfor3am
 WeirdWheels
 WeirdWings
@@ -6256,6 +6264,7 @@ YanfeiMains
 YarnAddicts
 YarnPunk
 yayfoxxo
+yeagerbomb
 yeat_
 yeezys
 Yeji
