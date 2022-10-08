@@ -769,6 +769,7 @@ Blazblue
 bleach
 BleachBraveSouls
 blender
+blenderhelp
 Blep
 bleps
 Blessed_Images
@@ -3275,6 +3276,7 @@ learnpython
 learntodraw
 Leathercraft
 leaves
+lebanon
 lebowski
 LeedsUnited
 leetcode
@@ -4464,6 +4466,7 @@ Pokemonart
 PokemonBDSP
 pokemongo
 pokemongobrag
+PokemonGoRaids
 PokemonLegendsArceus
 PokemonMasters
 pokemonmemes
