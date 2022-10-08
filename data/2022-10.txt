@@ -303,6 +303,7 @@ AnimeFunny
 animegifs
 AnimeHoodies
 animehotbeverages
+animeindian
 AnimeInOurWorld
 animemaids
 AnimeMeme
@@ -2994,6 +2995,7 @@ Jaguarland
 Jaguars
 jaidenanimations
 jailbreak
+jakanddaxter
 jakertown
 jambands
 JamesBond
@@ -3766,6 +3768,7 @@ moldova
 MoldyMemes
 MomForAMinute
 Mommit
+MonaMains
 monarchism
 Monke
 monkeyspaw
@@ -4840,6 +4843,7 @@ rustyrails
 rutgers
 rva
 RVLiving
+rvnxmango
 RWBY
 RWTH_memes
 RX7
@@ -6009,6 +6013,7 @@ ussoccer
 Utah
 UTAustin
 UzakiChan
+v8supercars
 vagabond
 valheim
 valkyrae
@@ -6142,9 +6147,11 @@ Warzone
 washingtonwizards
 wasletztepreis
 wasletztestern
+WastedGifs
 watch_dogs
 WatchandLearn
 WatchAnimalsDieInside
+watchcatsdieinside
 WatchDogsWoofInside
 watcherentertainment
 Watches
