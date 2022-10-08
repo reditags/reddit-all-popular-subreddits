@@ -1447,6 +1447,7 @@ csgo
 csharp
 csMajors
 Cubers
+cucina
 CuddlePuddle
 cuddleroll
 CulinaryPlating
@@ -5266,6 +5267,7 @@ SkyPorn
 skyrim
 SkyrimMemes
 skyrimmods
+SkyrimPorn
 SlavaUkrayini
 slayeasleaked
 slaythespire
