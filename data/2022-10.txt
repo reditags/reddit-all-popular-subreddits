@@ -3,6 +3,7 @@
 100Kanojo
 100yearsago
 10s
+10yearsatleast
 11foot8
 1200isfineIGUESSugh
 1200isjerky
@@ -918,6 +919,7 @@ bugout
 buildapc
 buildapcsales
 buildmybrand
+bulbasaurmasterrace
 bulgaria
 bullcity
 Bulldogs
@@ -1356,6 +1358,7 @@ CrazyFuckingVideos
 CrazyHuman
 CrazyIdeas
 crazystairs
+CreateMod
 creepy
 creepyasterisks
 creepydesign
@@ -2551,6 +2554,7 @@ HarleyQuinnTV
 Harpo
 harrypotter
 HarryPotterGame
+Haruhi
 harvestmoon
 Hasan_Piker
 hatsune
@@ -3264,6 +3268,7 @@ learndutch
 learningtocat
 LearnJapanese
 learnjavascript
+learnmachinelearning
 learnpolish
 learnprogramming
 learnpython
@@ -3864,6 +3869,7 @@ namethatcar
 NamFlashbacks
 NanatsunoTaizai
 nancydrew
+NANIKPosting
 Nanny
 nanocurrency
 NarcoFootage
