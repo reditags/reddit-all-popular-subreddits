@@ -811,6 +811,7 @@ Bolehland
 BollyBlindsNGossip
 bollywood
 BollywoodFashion
+bollywoodmemes
 bon_appetit
 Bondedpairs
 boneachingjuice
@@ -1664,6 +1665,7 @@ discordapp
 Discordmemes
 discordVideos
 discworld
+disenchantment
 dishonored
 Dislyte
 disney
@@ -2896,6 +2898,7 @@ Infographics
 InformedWarriorRides
 InfowarriorRides
 infp
+INFPmemes
 InfrastructurePorn
 initiald
 inkarnate
@@ -2934,6 +2937,7 @@ intj
 intotheradius
 intotheshadowrealm
 INTPmemes
+intresseklubben
 introvert
 introvertmemes
 inuyasha
@@ -4433,6 +4437,7 @@ Pizza
 PizzaCrimes
 PKA
 planesgonewild
+PlanetCoaster
 Planetside
 PlanetZoo
 PlantBasedDiet
@@ -4478,6 +4483,7 @@ PokemonMasters
 pokemonmemes
 PokemonROMhacks
 PokemonScarletViolet
+pokemonshowdown
 PokemonSwordAndShield
 PokemonTCG
 PokemonUnite
@@ -5216,6 +5222,7 @@ SonicTheHedgehog
 SonoBisqueDoll
 sonos
 SonyAlpha
+SonyXperia
 sophieturner
 souleater
 SoulKnight
