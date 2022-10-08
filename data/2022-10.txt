@@ -791,6 +791,7 @@ bleach
 BleachBraveSouls
 blender
 blenderhelp
+blendermemes
 Blep
 bleps
 Blessed_Images
@@ -1530,6 +1531,7 @@ DanLeBatardShow
 DanMachi
 DannyGonzalez
 Daredevil
+DarK
 DarkAcademia
 DarkBRANDON
 darkestdungeon
@@ -1785,6 +1787,7 @@ dopehumor
 Dorohedoro
 DotA2
 DottoreMains
+DougDoug
 doughboys
 doughertydozen
 DoveCameron
@@ -2458,6 +2461,7 @@ gme_meltdown
 GMEJungle
 gmod
 gnome
+Goatparkour
 goats
 goblincore
 GoblinSlayer
@@ -3973,6 +3977,7 @@ nasa
 NASCAR
 NASCARCollectors
 nashville
+NataliaDyer
 natalieportman
 nathanforyou
 NationalPark
@@ -5729,6 +5734,7 @@ THE_PACK
 theadamfriedlandshow
 TheAdventureZone
 TheAmazingRace
+TheAngelsNP
 TheArcana
 TheAstraMilitarum
 thebadbatch
