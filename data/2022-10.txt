@@ -1321,6 +1321,7 @@ CompanyOfHeroes
 CompetitiveApex
 Competitiveoverwatch
 composting
+compsci
 computers
 conan
 ConanBeingAwesome
@@ -2753,6 +2754,7 @@ Hornyjail
 horror
 horrorlit
 Horses
+HostileArchitecture
 hot_dog
 hot_reporters
 hotdudeswithplants
@@ -2959,6 +2961,7 @@ IndianDankMemes
 IndianDefense
 IndianEnts
 indianews
+IndianFootball
 IndianGaming
 Indiangirlsontinder
 IndianHipHopHeads
