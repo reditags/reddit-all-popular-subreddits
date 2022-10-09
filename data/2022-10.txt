@@ -1825,6 +1825,7 @@ DragonballLegends
 Dragonballsuper
 DragonMaid
 dragonquest
+dragons
 DragonsDogma
 dragonutopia
 dragonvale
@@ -1953,6 +1954,7 @@ ems
 emulation
 EnculerLesVoitures
 ender3
+Endo
 energy
 energydrinks
 EngagementRings
@@ -2672,6 +2674,7 @@ HazbinHotel
 headpats
 headphones
 Health
+HealthyFood
 Healthygamergg
 heartbreak
 hearthstone
@@ -3289,6 +3292,7 @@ KingOfTheHill
 kings
 KingstonOntario
 kintsugi
+KipoAndTheAgeOfWB
 Kirby
 Kitboga
 Kitler
@@ -3579,6 +3583,7 @@ LSD
 LTB_iel
 LubaTv
 lucifer
+Lucina
 LucyHale
 LudwigAhgren
 luigi_irl
@@ -6603,6 +6608,7 @@ XboxSeriesS
 XboxSeriesX
 Xcom
 Xenoblade_Chronicles
+XenobladeChronicles2
 Xenonion
 XFiles
 XiaoMains
