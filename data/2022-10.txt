@@ -2494,6 +2494,7 @@ GoodFakeTexts
 goodmythicalmorning
 goodomens
 google
+googlehome
 googlemapsshenanigans
 GooglePixel
 gorillaz
@@ -5395,6 +5396,7 @@ spelunky
 sphynx
 SpiceandWolf
 spicy
+SpicyKittens
 spicypillows
 spiderbro
 Spiderman
@@ -5638,6 +5640,7 @@ talesfromtechsupport
 TalesFromTheCustomer
 TalesFromTheFrontDesk
 TalesFromThePharmacy
+TalesFromTheSquadCar
 TalesFromYourServer
 talk_hunfluencers
 tall
@@ -6361,6 +6364,7 @@ weightlifting
 WeightLossAdvice
 weightwatchers
 Weird
+weirdcore
 weirddalle
 WeirdToilets
 weirdvideosfor3am
