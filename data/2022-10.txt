@@ -452,6 +452,7 @@ askcarsales
 AskDocs
 AskFrance
 AskHistorians
+asklatinamerica
 AskMechanics
 AskMen
 AskMiddleEast
@@ -575,6 +576,7 @@ babyelephantgifs
 babylon5
 BABYMETAL
 Back4Blood
+Backcountry
 BackpackingDogs
 backrooms
 BackwoodsCreepy
@@ -2698,6 +2700,7 @@ hearthstonecirclejerk
 HeartstopperAO
 heat
 HeavyFuckingWind
+Heavymind
 HeavySeas
 HecklerKoch
 HeckThisIsWholesome
@@ -2800,6 +2803,7 @@ Horses
 HostileArchitecture
 hot_dog
 hot_reporters
+HOTDGreens
 hotdudeswithplants
 HotlineMiami
 hotones
@@ -3231,6 +3235,7 @@ JusticeForJohnnyDepp
 JusticeNow
 JusticePorn
 JusticeServed
+JustLearnedTheFWord
 JustMonika
 justneckbeardthings
 Justrolledintotheshop
@@ -4490,6 +4495,7 @@ Parahumans
 paralegal
 Paramore
 Paranormal
+parasnailing
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
