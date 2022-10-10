@@ -598,6 +598,7 @@ bakchodi
 bakeoff
 Baking
 bald
+baldursgate
 BaldursGate3
 balisong
 balkans_irl
@@ -956,6 +957,7 @@ brushybrushy
 brussels
 BrutalBeatdowns
 BryceDallasHoward
+BSG
 btd6
 bts7
 buccos
@@ -1492,6 +1494,7 @@ Cubers
 cucina
 CuddlePuddle
 cuddleroll
+CuddlyKitties
 CulinaryPlating
 CultOfEchidna
 CultOfTheLamb
@@ -1868,6 +1871,7 @@ Dreadlocks
 DreamlightValley
 Dreams
 dreamsmp
+Dreamtheater
 DreamWasTaken
 DreamWasTaken2
 DrewDurnil
@@ -2233,6 +2237,7 @@ Flyers
 flyfishing
 FlyFishingCircleJerk
 flying
+flytying
 fnatic
 fnki
 fnv
@@ -2669,6 +2674,7 @@ HaloCirclejerk
 haloinfinite
 HaloMemes
 HaloStory
+Hamilton
 hamiltonmusical
 Hammers
 hamsters
@@ -3561,6 +3567,7 @@ LiveFromNewYork
 Liverpool
 LiverpoolFC
 LivestreamFail
+LivingMas
 LivMorgan
 lizgillies
 LMDShow
@@ -4839,6 +4846,7 @@ ProRevenge
 PROTECC
 protogen
 providence
+prusa3d
 ps2
 PS3
 PS4
@@ -5245,6 +5253,7 @@ seduction
 seinfeld
 seinfeldgifs
 SeishunButaYarou
+seiyuu
 Sekiro
 SelenaGomez
 self
@@ -5374,6 +5383,7 @@ Showerthoughts
 Shrek
 Shrimping
 shrimptank
+ShrineOfPneuma
 shrinkflation
 ShroomID
 shrooms
@@ -5570,6 +5580,7 @@ spqrposting
 spreadytoes
 springfieldMO
 Spunchbob
+Spyro
 SpyxFamily
 SquaredCircle
 SQUEEZIE
@@ -5898,6 +5909,7 @@ thatHappened
 ThatLookedExpensive
 ThatPeelingFeeling
 Thatsabooklight
+ThatsHowThingsWork
 ThatsInsane
 The10thDentist
 the1975
@@ -6443,6 +6455,7 @@ vtm
 vtmb
 vtolvr
 Vulfpeck
+Vulpesismywaifu
 vultureculture
 VuvuzelaIPhone
 W2S
