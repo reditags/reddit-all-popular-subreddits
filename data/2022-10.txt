@@ -451,6 +451,7 @@ AskALiberal
 askanelectrician
 AskBalkans
 askcarsales
+AskCulinary
 AskDocs
 AskFrance
 AskHistorians
@@ -590,6 +591,7 @@ BadChoicesGoodStories
 badcode
 BadDesigns
 Badfaketexts
+badfriendspod
 badhistory
 badMovies
 BadMUAs
@@ -1975,6 +1977,7 @@ EmiliaClarke
 Eminem
 Emiru_Lewd
 EmKay
+EmmaBrooks
 EmmaStone
 Emo
 Emoney
@@ -2912,6 +2915,7 @@ Idiotswithguns
 idiotwastingtime
 IDONTGIVEASWAG
 IDontWorkHereLady
+IDOWORKHERELADY
 Idubbbz
 IfIFitsISits
 ihadastroke
@@ -3827,6 +3831,7 @@ MemeFrancais
 MemeHunter
 MemeItaliani
 MemePiece
+MemeRestoration
 memes
 Memes_Of_The_Dank
 memesdecentralises
@@ -3870,6 +3875,7 @@ mfdoom
 MHRise
 Miami
 miamidolphins
+MiaSand
 Miata
 MichaelJackson
 MichaelReeves
@@ -4391,6 +4397,7 @@ OkBuddyPoliceOfficer
 okbuddyrathalos
 okbuddyreiner
 okbuddyvowsh
+okc
 OkCupid
 okdraugedebile
 okemakkermaloot
@@ -6293,6 +6300,7 @@ Undertale
 UnearthedArcana
 UnethicalLifeProTips
 Unexpected
+UnexpectedB99
 unexpectedbrooklyn99
 unexpectedcommunism
 UnexpectedCommunity
