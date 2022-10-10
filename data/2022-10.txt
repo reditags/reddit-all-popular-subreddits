@@ -1708,6 +1708,7 @@ DetroitBecomeHuman
 detroitlions
 DetroitPistons
 DetroitRedWings
+Deusex
 deutschememes
 DevelEire
 developersIndia
@@ -2317,6 +2318,7 @@ friends_tv_show
 frogs
 Fromis
 FromKittenToCat
+FromPuppyToDog
 fromsoftware
 Frostpunk
 Frugal
@@ -3311,6 +3313,7 @@ KidsAreFuckingStupid
 KiernanShipka
 killedthecameraman
 KillLaKill
+killsixbilliondemons
 killteam
 killthecameraman
 Killtony
@@ -4426,6 +4429,7 @@ OOTP
 oots
 opossum_irl
 Opossums
+Optifine
 Oradea
 orangecats
 orangecounty
@@ -4525,6 +4529,7 @@ PastAndPresentPics
 Patchuu
 Pathfinder2e
 Pathfinder_Kingmaker
+pathfindermemes
 PathofChampions
 pathofexile
 PathOfExileBuilds
@@ -5768,6 +5773,7 @@ TalesFromThePharmacy
 TalesFromTheSquadCar
 TalesFromYourServer
 talk_hunfluencers
+TalkTherapy
 tall
 tallyhall
 tamagotchi
