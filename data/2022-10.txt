@@ -6480,6 +6480,7 @@ VoteBlue
 VoteDEM
 voyager
 VRchat
+vrising
 VRtoER
 VShojo
 vtm
