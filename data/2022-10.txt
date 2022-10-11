@@ -1640,6 +1640,7 @@ DC_Cinematic
 DCAU
 DCcomics
 dccomicscirclejerk
+DCDoomPatrol
 DCEUleaks
 dcsworld
 DDintoGME
@@ -3733,6 +3734,7 @@ MacOS
 MacroPorn
 macsetups
 Madden
+MaddenUltimateTeam
 MadeInAbyss
 MadelainePetsch
 MadelynCline
