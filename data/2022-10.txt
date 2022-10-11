@@ -1421,6 +1421,7 @@ cottagecore
 CounterSide
 counterstrike
 CountOnceADay
+countryball_memes
 countryballs_comics
 CountryMusicStuff
 CourtneyMiller
@@ -1481,6 +1482,7 @@ crowbro
 crows
 CRT_so_scary
 crtgaming
+CrucibleGuidebook
 CrueltySquad
 CrumblCookies
 CrusadeMemes
@@ -2348,6 +2350,7 @@ FrenchMemes
 FridayNightFunkin
 friendlyjordies
 friends_tv_show
+Frisson
 frogs
 Fromis
 FromKittenToCat
@@ -2842,6 +2845,7 @@ hondafit
 HongKong
 HonkaiImpact
 honkaiimpact3
+HonkaiImpact3rd
 HonzukiNoGekokujou
 Horimiya
 horizon
@@ -2979,6 +2983,7 @@ ImaginaryCyberpunk
 ImaginaryDarkSouls
 ImaginaryDemons
 ImaginaryDragons
+ImaginaryElementals
 ImaginaryElves
 ImaginaryFallout
 ImaginaryFashion
@@ -3143,6 +3148,7 @@ ios
 iOSBeta
 iosgaming
 iOSsetups
+Iota
 Iowa
 ipad
 iPadPro
@@ -3970,6 +3976,7 @@ MineIslam
 MineralPorn
 MINI
 miniatures
+minimalcatart
 minimalism
 miniminter
 minipainting
@@ -4015,6 +4022,7 @@ MoDaoZuShi
 modeltrains
 Modern_Family
 ModernAncientWarriors
+ModernistArchitecture
 ModernMagic
 modernwarfare
 ModernWarfareII
@@ -4322,6 +4330,7 @@ Nordichistorymemes
 NordicMemes
 NorfFc
 norge
+normaldayinrussia
 NormMacdonald
 Norse
 NorskFotball
@@ -4432,6 +4441,7 @@ okbuddyrathalos
 okbuddyreiner
 okbuddyvowsh
 okc
+okcopainattard
 OkCupid
 okdraugedebile
 okemakkermaloot
@@ -5375,6 +5385,7 @@ Shinypreciousgems
 Shipwrecks
 ShitCrusaderKingsSay
 shitduolingosays
+shitfascistssay
 ShitKonfaSays
 ShitLiberalsSay
 ShitLibSafari
@@ -5833,6 +5844,7 @@ SympatheticMonsters
 synthesizers
 Syracuse
 sysadmin
+TabbyCats
 tacobell
 Tacoma
 tacticalgear
@@ -6541,6 +6553,7 @@ Warhammer
 Warhammer30k
 WarhammerCompetitive
 WarhammerFantasy
+WarhammerUnderworlds
 WarplanePorn
 WarriorCats
 warriors
