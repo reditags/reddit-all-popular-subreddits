@@ -42,6 +42,7 @@
 30ROCK
 31MillionRegrets
 321
+350z
 3amjokes
 3d6
 3Dmodeling
@@ -266,6 +267,7 @@ Anarcho_Capitalism
 Anarchy4Everyone
 AnarchyChess
 Anbennar
+Ancient_History_Memes
 AncientCivilizations
 ancientegypt
 ancientgreece
@@ -1366,6 +1368,7 @@ Competitiveoverwatch
 composting
 compsci
 computers
+computerscience
 conan
 ConanBeingAwesome
 ConanExiles
@@ -1445,6 +1448,7 @@ CrackWatch
 CraftBeer
 craftsnark
 Crainn
+CrankGameplays
 CrappyDesign
 crappyoffbrands
 crazyexgirlfriend
@@ -3265,6 +3269,7 @@ jiujitsu
 jjdandfamily
 jobs
 JoeBiden
+JoePera
 JoeRogan
 JohnMayer
 joinsquad
@@ -3848,6 +3853,7 @@ meatcrayon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
+mechanics
 Mechwarrior5
 medicalschoolanki
 MedievalCats
@@ -4144,6 +4150,7 @@ MySingingMonsters
 MysteryDungeon
 mysticmessenger
 MySummerCar
+MythicQuest
 mythology
 mythologymemes
 n64
@@ -4234,6 +4241,7 @@ NeverHaveIEverShow
 NeverPauseAvatar
 nevertellmetheodds
 NevilleGoddard
+Newbalance
 newcastle
 NewcastleUponTyne
 NewDealAmerica
@@ -5909,6 +5917,7 @@ tattoo
 TattooDesigns
 tattoos
 Tau40K
+Taxidermy
 TaylorSwift
 TaylorSwiftPictures
 TaylorSwiftsLegs
@@ -6242,6 +6251,7 @@ TransitDiagrams
 transitiongoals
 TransLater
 transmasc_irl
+Transmatfiring
 Transmogrification
 transvoice
 transylveon
@@ -6789,6 +6799,7 @@ WWEGames
 wwiipics
 WWIIplanes
 wyoming
+xayahmains
 xbiking
 xbox
 xbox360
