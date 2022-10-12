@@ -2673,6 +2673,7 @@ gtavcustoms
 GTBAE
 GuardianTales
 guichon
+GuildWars
 Guildwars2
 GuiltyDogs
 Guiltygear
@@ -3727,6 +3728,7 @@ LudwigAhgren
 luigi_irl
 LuLaNo
 lululemon
+LumineMains
 Lumity
 LushCosmetics
 Lustig
@@ -6002,6 +6004,7 @@ terracehouse
 TerrainBuilding
 TerraInvicta
 Terraria
+TerrariaDesign
 TerrariaMemes
 terrariums
 terriblefacebookmemes
@@ -6865,6 +6868,7 @@ yandere
 YanfeiMains
 YarnAddicts
 YarnPunk
+yarntrolls
 yayfoxxo
 yeagerbomb
 yeat_
