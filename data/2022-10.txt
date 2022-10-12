@@ -3458,6 +3458,7 @@ kotor
 KOTORmemes
 kpics
 kpop
+KpopArmpit
 kpophelp
 kpoprants
 kpopthoughts
@@ -5213,6 +5214,7 @@ RPDRDRAMA
 rpg
 rpg_gamers
 rpghorrorstories
+RSA
 rsloshredit
 RTGameCrowd
 RubeGoldbergFails
