@@ -1502,6 +1502,7 @@ CrumblCookies
 CrusadeMemes
 CrusaderKings
 crusaderkings3
+CryptidDogs
 cryptids
 CryptoCurrency
 CryptocurrencyDEFI
@@ -4704,6 +4705,7 @@ PersonalFinanceCanada
 PersonalFinanceNZ
 perth
 PERU
+pesmobile
 Pet_Renaissance
 PetAfterVet
 PeterExplainsTheJoke
