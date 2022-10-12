@@ -2072,6 +2072,7 @@ ethereum
 ethfinance
 ethoslab
 ethtrader
+EtikaRedditNetwork
 Etsy
 etymology
 etymologymaps
@@ -2442,6 +2443,7 @@ futurama
 Futuremoe
 futureporn
 Futurology
+G2eSports
 g4tv
 G59
 gachagaming
@@ -2905,6 +2907,7 @@ houston
 howardstern
 howto
 HowToBeAMindReaver
+howtokeepanidiotbusy
 howtonotgiveafuck
 howyoudoin
 hoyas
@@ -5628,6 +5631,7 @@ solotravel
 SomeOrdinaryGmrs
 SommerRay
 somnivexillology
+sonamains
 sonarears
 SonicTheHedgehog
 SonoBisqueDoll
