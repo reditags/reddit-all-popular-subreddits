@@ -1762,6 +1762,7 @@ dessert
 DessertPorn
 Destiny
 destiny2
+DestinyChildGlobal
 DestinyFashion
 DestinyLore
 DestinyMemes
@@ -2456,6 +2457,7 @@ FullmetalAlchemist
 fullmoviesonyoutube
 fullpops
 FullScorpion
+FullShrimp
 functionalprint
 FundieFashion
 FundieSnarkUncensored
@@ -2831,6 +2833,7 @@ Hedgehog
 heep
 Heizou_Mains
 Helicopters
+HellenicMemes
 HellLetLoose
 hellsomememes
 Helltaker
@@ -3961,6 +3964,7 @@ MechanicalKeyboards
 mechanics
 Mechwarrior5
 medicalschoolanki
+Medievalart
 MedievalCats
 medievaldoctor
 MedievalHistoryMemes
@@ -6010,6 +6014,7 @@ Switch
 Switzerland
 SwitzerlandIsFake
 SWlegion
+swolesomememes
 swoletariat
 swordartonline
 SWORDS
