@@ -1869,6 +1869,7 @@ DoctorWhumour
 Documentaries
 DocumentedFights
 Dodgers
+doener
 DOG
 DogAdvice
 Dogberg
@@ -2002,6 +2003,7 @@ EarthPorn
 EatCheapAndHealthy
 EatCheapAndVegan
 eatsandwiches
+Eberron
 ebikes
 EbonyImagination
 echoes_eve
@@ -3079,6 +3081,7 @@ ImaginaryCyberpunk
 ImaginaryDarkSouls
 ImaginaryDemons
 ImaginaryDragons
+imaginaryelections
 ImaginaryElementals
 ImaginaryElves
 ImaginaryFallout
@@ -3895,6 +3898,7 @@ manhwa
 ManorLords
 ManufacturingPorn
 manx
+ManyATrueNerd
 Maplestory
 mapmaking
 MapPorn
