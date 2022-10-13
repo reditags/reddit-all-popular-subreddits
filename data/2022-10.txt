@@ -664,6 +664,7 @@ BattlefieldV
 BattleJackets
 battlemaps
 BattleNetwork
+BattlePaintings
 battles2
 battlestations
 battletech
@@ -991,6 +992,7 @@ bts7
 buccos
 budapest
 Buddhism
+BuddyCrossing
 BudgetAudiophile
 budgetcooking
 budgetfood
@@ -1677,6 +1679,7 @@ deadmau5
 deadmeatjames
 DeadSpace
 deathbattle
+DeathByMillennial
 Deathcore
 deathgrips
 deathguard40k
@@ -2587,6 +2590,7 @@ gingercats
 Gintama
 Giraffesdontexist
 girlsfrontline
+GirlsInaGif
 GirlsLastTour
 GirlsMirin
 GirlsUndShitposts
@@ -2603,6 +2607,7 @@ GlobalOffensive
 GlobalTalk
 Glocks
 GloriousTomBombadil
+glossier
 gluesniffer
 glutenfree
 GME
@@ -6829,6 +6834,7 @@ wholesomegreentext
 wholesomejojo
 wholesomememes
 wholesomemes
+wholesomeromance
 WholesomeSliceOfLife
 wholesomevandalism
 wholesomeviolence
@@ -6857,6 +6863,7 @@ Windows11
 wine
 Wings
 WingsOfFire
+winnipegjets
 WinStupidPrizes
 winterporn
 wirklichgutefrage
