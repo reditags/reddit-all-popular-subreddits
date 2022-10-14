@@ -2385,6 +2385,7 @@ FordBronco
 FordMaverickTruck
 foreverbox
 ForFashion
+forgottenfilm
 ForgottenWeapons
 forhonor
 forhonorknights
@@ -2851,6 +2852,7 @@ Haruhi
 harvestmoon
 Hasan_Piker
 hatsune
+HauntingOfHillHouse
 Hawaii
 HayleyAtwell
 hayleywilliams
@@ -4458,6 +4460,7 @@ nffc
 nflmemes
 NFTsMarketplace
 nhl
+NHLHUT
 Ni_Bondha
 Nicegirls
 niceguys
@@ -5225,6 +5228,7 @@ rangers
 rangersfc
 rant
 rap
+rapbattles
 RapFars
 Rardit
 rareinsults
@@ -5298,6 +5302,7 @@ ReiAyanami
 relacionamentos
 relationship_advice
 RelationshipMemes
+ReliefLeaf
 religiousfruitcake
 reloading
 remoteplaces
@@ -5387,6 +5392,7 @@ roosterteeth
 rootgame
 ror2
 rose
+rosin
 RotMG
 Rotterdam
 Rottweiler
@@ -6309,6 +6315,7 @@ TheGriffonsSaddlebag
 TheGrittyPast
 TheHandmaidsTale
 theisle
+TheJenkins
 theJoeBuddenPodcast
 TheKillers
 TheKM
