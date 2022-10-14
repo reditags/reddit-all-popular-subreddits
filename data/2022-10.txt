@@ -306,6 +306,7 @@ AnimalsBeingMoms
 AnimalsBeingSleepy
 AnimalsBeingStrange
 animalsdoingstuff
+animalslookingatfood
 AnimalsMonching
 AnimalsOnReddit
 Animalsthatlovemagic
@@ -3671,6 +3672,7 @@ learnpolish
 learnprogramming
 learnpython
 learntodraw
+LearnUselessTalents
 Leathercraft
 leaves
 lebanon
@@ -5567,6 +5569,7 @@ seinfeld
 seinfeldgifs
 SeishunButaYarou
 seiyuu
+sejuanimains
 Sekiro
 SelenaGomez
 self
@@ -5689,6 +5692,7 @@ ShittyTodayILearned
 ShittyVeganFoodPorn
 ShitWehraboosSay
 shockwaveporn
+shoegaze
 ShokugekiNoSoma
 shorthairedhotties
 shortscarystories
@@ -6035,6 +6039,7 @@ submarines
 submechanophobia
 subnautica
 Subnautica_Below_Zero
+SUBREDDITNAME
 SubsIFellFor
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
