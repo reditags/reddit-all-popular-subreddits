@@ -3438,6 +3438,7 @@ JustUnsubbed
 Juve
 k12sysadmin
 k_on
+kaamelott
 KaeyaMains
 KaguyaShinomiya
 kaisamains
@@ -3764,6 +3765,7 @@ LodedDiper
 LoFiAesthetic
 logodesign
 loicense
+LokiTV
 Lolirefugees
 london
 londonontario
@@ -4797,6 +4799,7 @@ pathofexile
 PathOfExileBuilds
 Patriots
 Pauper
+PAW_digital
 paydaytheheist
 PaymoneyWubby
 PcBuild
