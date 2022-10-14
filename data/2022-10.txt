@@ -1398,6 +1398,7 @@ community
 CompanyOfHeroes
 CompetitiveApex
 Competitiveoverwatch
+CompetitiveTFT
 composting
 compsci
 computers
@@ -3499,6 +3500,7 @@ KidsAreFuckingEvil
 KidsAreFuckingSmart
 KidsAreFuckingStupid
 KiernanShipka
+kilian
 killedthecameraman
 KillLaKill
 killsixbilliondemons
