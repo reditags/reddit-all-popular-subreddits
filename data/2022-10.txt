@@ -1944,6 +1944,7 @@ Dongistan
 Donkeys
 dontdeadopeninside
 dontflinch
+DontFundMe
 donthelpjustfilm
 DontSubscribeDumbAss
 dontyouknowwhoiam
@@ -4243,6 +4244,7 @@ minecraftseeds
 minecraftsuggestions
 MineIslam
 MineralPorn
+Minerals
 MINI
 miniatures
 minimalcatart
@@ -5840,6 +5842,7 @@ Sims3
 Simulated
 singapore
 SingaporeRaw
+singing
 singularity
 Sino
 sips
@@ -6290,6 +6293,7 @@ Teachers
 TeamfightTactics
 TeamFourStar
 teamliquid
+TeamSESH
 tearsofthekingdom
 TearsOfThemis
 tech
