@@ -3919,6 +3919,7 @@ LoveLive
 LoveNikki
 LowAltitudeJets
 lowbatterysounds
+LowerCaseScreams
 LowQualityMemes
 LowSodiumDestiny
 LowSodiumHalo
@@ -6898,6 +6899,7 @@ victoria3
 VictoriaBC
 victoriajustice
 videogamedunkey
+videogames
 videography
 videomemes
 videos
