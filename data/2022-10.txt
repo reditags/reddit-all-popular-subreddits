@@ -660,6 +660,7 @@ BanPitBulls
 BanVideoGames
 bapcsalescanada
 BarbaraPalvin
+Barcelona
 bardmains
 barexam
 barista
@@ -2077,6 +2078,7 @@ EDM
 Edmonton
 educationalgifs
 Eesti
+eFootball
 egg_irl
 EggsInc
 Egypt
