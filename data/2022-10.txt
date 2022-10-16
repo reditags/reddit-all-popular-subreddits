@@ -567,6 +567,7 @@ autobloed
 AutoDetailing
 Autoflowers
 AutomatiCautionDoor
+automationgame
 Autos
 Autumn
 AutumnPorn
@@ -1735,6 +1736,7 @@ DCEUleaks
 dcsworld
 DDintoGME
 DDLC
+DDLCMods
 de
 de_EDV
 de_IAmA
@@ -2242,6 +2244,7 @@ extremelyinfuriating
 Eyebleach
 eyebombing
 f150
+F1FeederSeries
 F1Game
 F1Manager
 F1NN5TER
@@ -2813,6 +2816,7 @@ GreenAndEXTREME
 GreenAndPleasant
 GreenBayPackers
 greenday
+greenville
 Greyhounds
 greysanatomy
 grian
@@ -4462,6 +4466,7 @@ Nahida_Mains
 NailArt
 nailedit
 Nails
+NakeyJakey
 NameNerdCirclejerk
 namenerds
 namethatcar
@@ -4792,6 +4797,7 @@ okoidawappler
 okpolarncp
 okprietenretardat
 Old_Recipes
+oldbabies
 OlderThanYouThinkIAm
 Oldhouses
 OldManDog
@@ -5993,6 +5999,7 @@ sophieturner
 soulcrushingjuice
 souleater
 SoulKnight
+Soulnexus
 SoulsSliders
 SoundersFC
 SoundsLikeMusic
@@ -6269,6 +6276,7 @@ swoletariat
 swordartonline
 SWORDS
 SwordsComic
+swrpg
 swtor
 SWTOR_memes
 sydney
@@ -6353,6 +6361,7 @@ technicalminecraft
 Techno
 Technoblade
 technology
+technologyconnections
 TechNope
 techsupportgore
 techsupportmacgyver
