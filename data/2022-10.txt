@@ -1538,6 +1538,7 @@ CreateMod
 CreatorsAdvice
 CreditCards
 creepy
+CreepyArt
 creepyasterisks
 creepydesign
 creepyencounters
@@ -1695,6 +1696,7 @@ DarkCrystal
 darkestdungeon
 DarkGothicArt
 Darkhumorandjokes
+darknet
 DarkSouls2
 darksoulsmemes
 DarkTide
@@ -1864,6 +1866,7 @@ DigitalArt
 digitalnomad
 DigitalPainting
 Dildont
+DilettaLeotta
 DilucMains
 Dimension20
 DINgore
@@ -2169,6 +2172,7 @@ equelMemes
 equestriaatwar
 Equestrian
 Eragon
+ErectCockroachCrib
 Eredivisie
 ErgoMechKeyboards
 es
@@ -2198,6 +2202,7 @@ euphoria
 EUR_irl
 europe
 EuropeanFederalists
+europeanunion
 eurovision
 EvaCudmore
 evangelion
@@ -4525,8 +4530,10 @@ neopets
 neovim
 Nepal
 nerdfighters
+nerdtattoos
 Nerf
 nervysquervies
+nes
 netflix
 NetflixBestOf
 netflixwitcher
@@ -5426,6 +5433,7 @@ regretfulparents
 regularcarreviews
 regularshow
 ReiAyanami
+ReinhardtMains
 relacionamentos
 relationship_advice
 RelationshipMemes
