@@ -1322,6 +1322,7 @@ chuunibyou
 CICO
 cigars
 cincinnati
+Cinema4D
 Cinemagraphs
 cinematography
 CineShots
@@ -2789,6 +2790,7 @@ grandrapids
 GrandTheftAutoV
 granturismo
 graphic_design
+graphicnovels
 Grapplerbaki
 gratefuldead
 gravelcycling
@@ -5046,6 +5048,7 @@ Physics
 physicsgifs
 physicsmemes
 piano
+pic
 PickleFinancial
 picrew
 pics
@@ -6900,6 +6903,7 @@ VanLife
 Vanossgaming
 vaporents
 VaporwaveAesthetics
+VaultHuntersMinecraft
 VaushV
 vaxxhappened
 vdm
@@ -6926,6 +6930,7 @@ Veterans
 VeteransBenefits
 vexillology
 vexillologycirclejerk
+vfx
 VGC
 VHS
 vi
