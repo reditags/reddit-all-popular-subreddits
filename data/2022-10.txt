@@ -2445,6 +2445,7 @@ fo4
 fo76
 fo76FilthyCasuals
 FoggyPics
+FolkloreAndMythology
 FolkPunk
 FondantHate
 food
@@ -4002,6 +4003,7 @@ Lumity
 LushCosmetics
 Lustig
 Luthier
+lux
 LV426
 LWICD
 LycorisRecoil
@@ -5563,6 +5565,7 @@ RodriguesFamilySnark
 RoleReversal
 rolex
 Roll20
+rollerblading
 rollercoasterjerk
 rollercoasters
 Rollerskating
@@ -6999,6 +7002,7 @@ Veterans
 VeteransBenefits
 vexillology
 vexillologycirclejerk
+vexmains
 vfx
 VGC
 VHS
