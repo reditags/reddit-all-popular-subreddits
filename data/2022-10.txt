@@ -778,6 +778,7 @@ bestof
 bestoflegaladvice
 BestofRedditorUpdates
 bestoftheinternet
+BethesdaSoftworks
 bettafish
 betterCallSaul
 BetterEveryLoop
@@ -1535,6 +1536,7 @@ cowboys
 cowcats
 CowChop
 coybig
+Coyotes
 coys
 cozy
 CozyPlaces
@@ -2600,6 +2602,7 @@ FundieSnarkUncensored
 funhaus
 funkopop
 funny
+FunnyAnaesthesia
 FunnyandSad
 FunnyAnimals
 FunnyAtheistMemes
@@ -2760,6 +2763,7 @@ gis
 Gittertiere
 givemeinteligens
 glasgow
+glassanimals
 glee
 glitch_art
 Glitch_in_the_Matrix
@@ -4872,6 +4876,7 @@ OliviaRodrigo_
 oliviawilde
 olkb
 olltide
+olympia
 olympics
 OmadDiet
 Omaha
@@ -5701,6 +5706,7 @@ saopaulo
 Sapphic_Memes
 SapphoAndHerFriend
 SarahHyland
+saskatchewan
 saskatoon
 SASSWitches
 Sat
@@ -6301,6 +6307,7 @@ SuperMarioOdyssey
 SuperMegaShow
 SupermodelCats
 SuperModelIndia
+SuperMorbidlyObese
 Supernatural
 superpoweralchemists
 supersentai
@@ -6720,6 +6727,7 @@ TopGear
 TopMindsOfReddit
 toptalent
 toradora
+tornado
 Torontobluejays
 TorontoDriving
 torontoraptors
