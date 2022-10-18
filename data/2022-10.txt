@@ -2492,6 +2492,7 @@ forbiddensnacks
 Ford
 FordBronco
 FordMaverickTruck
+fordranger
 foreverbox
 Forex
 ForFashion
@@ -4736,6 +4737,7 @@ NonCredibleDiplomacy
 NonCredibleOffense
 NoneHumanMoe
 NonFunctionSlackFill
+nongolfers
 nonmurdermysteries
 nononono
 nonononoyes
@@ -6154,6 +6156,7 @@ SpidermanPS4
 spiders
 Spielstopp
 Spiritfarer
+spiritisland
 spirituality
 splatoon
 Splatoon_3
@@ -6556,6 +6559,7 @@ TheArcana
 TheAstraMilitarum
 thebadbatch
 TheBatmanFilm
+TheBear
 TheBeatles
 TheBidenshitshow
 thebindingofisaac
