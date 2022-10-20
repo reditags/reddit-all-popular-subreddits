@@ -506,6 +506,7 @@ AskMen
 AskMiddleEast
 AskNYC
 AskOuija
+AskPhotography
 AskReddit
 askscience
 AskScienceFiction
@@ -961,6 +962,7 @@ bonehealingjuice
 bonehurtingjuice
 BONELAB
 boneless_elevators
+BonelessElevators
 boneworks
 bonnaroo
 BonneBouffe
@@ -2246,6 +2248,7 @@ Entrepreneur
 entwives
 EpicMounts
 EpicSeven
+Episode
 equelMemes
 equestriaatwar
 Equestrian
@@ -2297,6 +2300,7 @@ EvilDeadTheGame
 EvolveGame
 excatholic
 excel
+excgarated
 exchristianmemes
 Exercise
 existentialcrisiscat
@@ -2421,6 +2425,7 @@ FFVIIRemake
 ffxiv
 FFXIVGlamours
 FFXV
+FFXVI
 fiaustralia
 Fibromyalgia
 FierceFlow
@@ -3076,6 +3081,7 @@ heroesofthestorm
 HeroForgeMinis
 herpetology
 hessich_iel
+heyUK
 HFY
 hiddenrooms
 highdeas
@@ -4045,6 +4051,7 @@ LookatMyHalo
 lookismcomic
 LOONA
 LooneyTunesLogic
+loopdaddy
 loopringorg
 lorde
 LordofTheMysteries
@@ -4497,6 +4504,7 @@ MomForAMinute
 Mommit
 MonaMains
 monarchism
+Monero
 Monke
 monkeyspaw
 monkslookingatbeer
@@ -4786,6 +4794,7 @@ NobodyAsked
 nocontextpics
 Noctor
 node
+Noearthsociety
 Noellemains
 noelmiller
 NoFap
@@ -5097,6 +5106,7 @@ papermoney
 papertowns
 ParadoxExtra
 paradoxplaza
+paradoxpolitics
 Parahumans
 paralegal
 Paralives
@@ -5429,6 +5439,7 @@ ProductPorn
 ProfessorLayton
 progmetal
 programare
+programiranje
 ProgrammerAnimemes
 ProgrammerHumor
 programming
@@ -5504,6 +5515,7 @@ QuebecLibre
 queen
 queensland
 queensofgenshin
+QueerVexillology
 QuestBridge
 quilting
 quiteinteresting
@@ -5563,6 +5575,7 @@ rav4club
 Ravenfield
 ravens
 rawdenim
+razer
 RBI
 RCB
 rccars
@@ -7173,6 +7186,7 @@ vegancirclejerk
 VeganDE
 veganfitness
 VeganFoodPorn
+VeganForCircleJerkers
 veganrecipes
 veganuk
 vegas
@@ -7536,6 +7550,7 @@ xboxone
 XboxSeriesS
 XboxSeriesX
 Xcom
+Xennials
 Xenoblade_Chronicles
 XenobladeChronicles2
 Xenonion
