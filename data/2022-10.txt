@@ -2010,6 +2010,7 @@ Doggles
 doggos
 doggrooming
 DoggyDNA
+Dogloaf
 dogmemes
 dogpictures
 dogs
@@ -4287,6 +4288,7 @@ mechanical_gifs
 MechanicalKeyboards
 mechanics
 Mechwarrior5
+MedicalGore
 medicalschoolanki
 Medievalart
 MedievalCats
