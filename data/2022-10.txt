@@ -237,6 +237,7 @@ aliens
 alinity
 AlisonBrie
 Allsvenskan
+alphalegion
 altcannabinoids
 altdogelore
 alteredcarbon
@@ -6989,6 +6990,7 @@ TRUTHsocialWatch
 trypophobia
 TsundereSharks
 TTSverse
+TubbyTuxes
 tuckedinkitties
 TuckedInPuppies
 Tucson
@@ -7281,6 +7283,7 @@ vultureculture
 VuvuzelaIPhone
 W2S
 WackyTicTacs
+WackyWest
 Wales
 walkablecities
 WalkableStreets
@@ -7524,6 +7527,7 @@ wowthanksimcured
 Wrangler
 Wrasslin
 WRC
+Wreckfest
 wrestling
 writers
 writing
