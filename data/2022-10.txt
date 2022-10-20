@@ -397,6 +397,7 @@ AnyaTaylorJoy
 AO3
 AOC
 aoe2
+aoe3
 aoe4
 Apandah
 ape
@@ -1359,6 +1360,7 @@ churchoffutaba
 ChurchOfKasumi
 ChurchofLucy
 ChurchofMarnie
+ChurchOfNejire
 ChurchOfSenko
 churchofskadi
 chutyapa
@@ -4183,6 +4185,7 @@ mapmaking
 MapPorn
 mapporncirclejerk
 MapsWithoutNZ
+MaraudersGame
 MarchAgainstNazis
 marchingband
 MargotRobbie
@@ -5797,6 +5800,7 @@ SanJose
 SanJoseSharks
 sanpedrocactus
 sanrio
+santacruz
 saopaulo
 Sapphic_Memes
 SapphoAndHerFriend
