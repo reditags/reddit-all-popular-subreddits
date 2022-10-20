@@ -5558,6 +5558,7 @@ RDR2
 Re_Zero
 reactiongifs
 reactivedogs
+reactjs
 readanotherbook
 ReadyOrNotGame
 real_China_irl
@@ -5719,6 +5720,7 @@ RPDRDRAMA
 rpg
 rpg_gamers
 rpghorrorstories
+rs2vietnam
 RSA
 rsloshredit
 RTGameCrowd
@@ -6648,6 +6650,7 @@ TheBatmanFilm
 TheBear
 TheBeatles
 TheBidenshitshow
+TheBikiniBottomHorror
 thebindingofisaac
 TheBoys
 TheBoysChannel
