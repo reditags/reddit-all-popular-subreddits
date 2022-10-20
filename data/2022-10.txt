@@ -1761,6 +1761,7 @@ Dashcam
 dashcamgifs
 DasPodcastUfo
 data_irl
+DataArt
 dataengineering
 DataHoarder
 dataisbeautiful
@@ -1998,6 +1999,7 @@ dogelore
 Doggles
 doggos
 doggrooming
+DoggyDNA
 dogmemes
 dogpictures
 dogs
@@ -3577,6 +3579,7 @@ Jeep
 JeffArcuri
 JeilaDizon
 jellybeantoes
+jellyfin
 JennaFischer
 JennaLouiseColeman
 Jennamarbles
@@ -7020,6 +7023,7 @@ ultrawidemasterrace
 UmaMusume
 UmbrellaAcademy
 UMD
+umineko
 UNBGBBIIVCHIDCTIICBG
 Uncensoredminecraft
 UnchainedMelancholy
@@ -7377,6 +7381,7 @@ wholesomejojo
 wholesomememes
 wholesomemes
 wholesomeromance
+wholesomeSF
 WholesomeSliceOfLife
 wholesomevandalism
 wholesomevangelion
