@@ -252,6 +252,7 @@ AltStreetBets
 alvvays
 AlzheimersGroup
 Alzwards_Corner
+AMADisasters
 amandaseyfried
 AmanitaMuscaria
 amateurradio
@@ -4802,6 +4803,7 @@ NinjaSexParty
 NinomaeInanis
 nintendo
 NintendoMemes
+NintendoPH
 NintendoStitch
 NintendoSwitch
 NintendoSwitchDeals
