@@ -1853,6 +1853,7 @@ deficryptos
 DeFranco
 deftones
 Defunctland
+degoogle
 Degrassi
 Dehyamains
 Deji
@@ -2327,6 +2328,7 @@ exocomics
 ExpandDong
 expats
 ExpectationVsReality
+expectedsabaton
 ExpensiveAccidents
 ExperiencedDevs
 explainlikeimfive
@@ -2924,6 +2926,7 @@ gravelcycling
 gravityfalls
 graz
 GreatBritishBakeOff
+GreatBritishMemes
 greatdanes
 greatpyrenees
 greebles
@@ -3720,6 +3723,7 @@ kaliningrad
 kallmekris
 KamenRider
 KamikazeByWords
+kancolle
 KanojoOkarishimasu
 kansascity
 KansasCityChiefs
@@ -4658,6 +4662,7 @@ NameNerdCirclejerk
 namenerds
 namethatcar
 NamFlashbacks
+NanashiMumei
 NanatsunoTaizai
 nancydrew
 NANIKPosting
@@ -7451,6 +7456,7 @@ wheeloftime
 whenthe
 WhenWeWereYoungFest
 wheresthebeef
+Whippets
 WhiskerFireworks
 whiskey
 WhiskeyTribe
