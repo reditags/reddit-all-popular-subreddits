@@ -4138,6 +4138,7 @@ lostpause
 lostredditors
 lotr
 LOTR_on_Prime
+LOTRbookmemes
 LOTRholygrailmemes
 lotrmemes
 lotro
@@ -4598,6 +4599,7 @@ Morbidforbadpeople
 morbidlybeautiful
 MorbidPodcast
 morbidquestions
+MorbidWaysToDie
 Morbius
 MordekaiserMains
 Mordhau
