@@ -3142,6 +3142,7 @@ HelpMeFind
 helsinki
 heraldry
 HermanCainAward
+hermitchat
 HermitCraft
 hermitcraftmemes
 heroes3
@@ -3964,6 +3965,7 @@ lansing
 LARP
 LaserCleaningPorn
 LaStalla
+lastfm
 lastimages
 lastpodcastontheleft
 lastweektonight
@@ -4101,6 +4103,7 @@ linuxmemes
 lisboa
 listeningspaces
 listentothis
+literaciafinanceira
 literature
 lithuania
 Lithuaniakittens
