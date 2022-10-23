@@ -1388,6 +1388,7 @@ chronotrigger
 ChuckleSandwich
 ChurchOfCat
 churchoffutaba
+ChurchOfJirou
 ChurchOfKasumi
 ChurchofLucy
 ChurchofMarnie
@@ -3275,6 +3276,7 @@ howyoudoin
 hoyas
 HPHogwartsMystery
 httyd
+Huebi
 Huel
 HUEstation
 HumanBeingBros
@@ -3629,6 +3631,7 @@ itsbriannam
 itstheyak
 IttoMains
 ITZY
+IVE
 iWallpaper
 iwoulddiefornoodle
 IWW
@@ -4197,6 +4200,7 @@ LowerCaseScreams
 LowQualityMemes
 LowSodiumDestiny
 LowSodiumHalo
+Lowtechbrilliance
 LPOTL
 LSD
 LTB_iel
@@ -4942,6 +4946,7 @@ nonononoyes
 NonPoliticalTwitter
 noodlebones
 Noom
+Nootropics
 nope
 NopeMovie
 Noragami
@@ -5233,6 +5238,7 @@ Papaplatte
 papermario
 papermoney
 papertowns
+papgrappen
 ParadoxExtra
 paradoxplaza
 paradoxpolitics
@@ -6022,6 +6028,7 @@ sciencefiction
 ScienceHumour
 sciencememes
 ScienceNcoolThings
+sciences
 scifi
 SCJerk
 Scoobydoo
@@ -6456,6 +6463,7 @@ SSBM
 sskfjkhwerjkghwerijh
 StableDiffusion
 Stadia
+Staffiebullterriers
 StainedGlass
 stalker
 StallmanWasRight
