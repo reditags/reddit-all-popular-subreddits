@@ -861,6 +861,7 @@ biologymemes
 bioniclelego
 bioniclememes
 Bioshock
+biotech
 BipolarMemes
 Birates
 Birbs
@@ -1796,6 +1797,7 @@ DarkTide
 DarkViperAU
 darkwingsdankmemes
 DarthJarJar
+DarthRey
 DarwinAwards
 Dashcam
 dashcamgifs
@@ -2134,6 +2136,7 @@ dril
 DrillCats
 Drizzy
 drones
+dropout
 DrStone
 DRSyourGME
 Drueandgabe
@@ -4414,6 +4417,7 @@ memeframe
 MemeFrancais
 MemeHunter
 MemeItaliani
+MementoUnusAnnus
 MemePiece
 MemeRestoration
 memes
@@ -7214,6 +7218,7 @@ UkraineWarRoom
 UkraineWarVideoReport
 UkrainianConflict
 uktrees
+ultimate
 Ultrakill
 Ultralight
 ultralight_jerk
