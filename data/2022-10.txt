@@ -721,6 +721,7 @@ basset
 bassethounds
 bassfishing
 BassGuitar
+BatFacts
 bathandbodyworks
 batman
 BatmanArkham
@@ -1322,6 +1323,7 @@ chaeyoung
 Chainsawfolk
 ChainsawMan
 chairsunderwater
+Challenger
 Championship
 Chandigarh
 Chang_Gang
@@ -1485,6 +1487,7 @@ ColorCafe
 Colorization
 ColorizedHistory
 Colts
+Columbine
 Columbus
 CombatFootage
 CombatReality
@@ -2180,6 +2183,7 @@ earthbound
 Earthchan
 EarthPorn
 Earwolf
+EASportsUFC
 EatCheapAndHealthy
 EatCheapAndVegan
 eatsandwiches
@@ -3831,6 +3835,7 @@ KidsAreFuckingStupid
 KiernanShipka
 kilian
 killedthecameraman
+killingfloor
 KillLaKill
 killsixbilliondemons
 killteam
@@ -3868,6 +3873,7 @@ Klengan
 klokmemes
 KneadyCats
 knifeclub
+KnifeDeals
 knifemaking
 KnightsOfPineapple
 KnitHacker
@@ -4086,6 +4092,7 @@ linux_gaming
 linuxmasterrace
 linuxmemes
 lisboa
+listeningspaces
 listentothis
 literature
 lithuania
@@ -5510,6 +5517,7 @@ pouts
 povertyfinance
 PowerBI
 powerlifting
+PowerMetal
 powerrangers
 powerwashingporn
 ppnojutsu
