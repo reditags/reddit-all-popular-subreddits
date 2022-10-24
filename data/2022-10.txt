@@ -1052,6 +1052,7 @@ Braves
 BravoRealHousewives
 Brawlhalla
 Brawlstars
+BrawlStarsCompetitive
 Breadit
 BreadStapledToTrees
 BreadTube
@@ -2032,6 +2033,7 @@ DivorcedBirds
 DiWHY
 DiWHYNOT
 DIY
+diyelectronics
 diypedals
 DIYUK
 Djent
@@ -5161,6 +5163,7 @@ OmniscientReader
 OMORI
 Omorimemes
 OnceUponATime
+OnCinemaAtTheCinema
 oneanddone
 onebag
 onednd
@@ -6689,6 +6692,7 @@ surdev
 Surface
 surrealism
 surrealmemes
+surrealtraa
 Surveying
 Survival
 survivinginfidelity
@@ -7787,6 +7791,7 @@ writingcirclejerk
 WritingPrompts
 writteninblood
 WRX
+WRXSTi
 WTF
 WTFaucet
 WTFgaragesale
