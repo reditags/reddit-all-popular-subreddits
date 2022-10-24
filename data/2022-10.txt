@@ -6724,6 +6724,7 @@ TalesFromRetail
 talesfromtechsupport
 TalesFromTheCustomer
 TalesFromTheFrontDesk
+TalesFromTheKitchen
 TalesFromThePharmacy
 TalesFromTheSquadCar
 TalesFromYourServer
