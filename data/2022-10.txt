@@ -681,6 +681,7 @@ badfriendspod
 badhistory
 badMovies
 BadMUAs
+badphilosophy
 badtaxidermy
 badUIbattles
 baeirene
@@ -5311,6 +5312,7 @@ parentsofmultiples
 paris
 ParkJihyo
 parklandshooting
+Parkour
 ParlerTrick
 ParlerWatch
 parrots
@@ -6636,6 +6638,7 @@ strength_training
 StressFreeSeason
 Stretched
 StrikeForRoe
+StructuralEngineering
 Stuck10YearsBehind
 StudentLoans
 studentsph
