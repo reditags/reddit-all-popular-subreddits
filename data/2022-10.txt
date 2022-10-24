@@ -1028,6 +1028,7 @@ Bowling
 Boxer
 Boxing
 boyslove
+Bozeman
 BPD
 BPDmemes
 brakebills
@@ -5171,6 +5172,7 @@ Opeth
 OpIsFuckingStupid
 opossum_irl
 Opossums
+OpTicGaming
 Optifine
 Oradea
 orangecats
@@ -5815,6 +5817,7 @@ ReliefLeaf
 religiousfruitcake
 reloading
 remoteplaces
+renfaire
 Reno
 rentnerzeigenaufdinge
 Repaintings
@@ -6715,6 +6718,7 @@ Takagi_san
 TakaMori
 tales
 talesfromcallcenters
+talesfromcavesupport
 TalesFromDF
 TalesFromRetail
 talesfromtechsupport
@@ -7153,6 +7157,7 @@ triangle
 triathlon
 triplej
 trippinthroughtime
+trippy
 trishahershberger
 Trishyland
 Triumph
