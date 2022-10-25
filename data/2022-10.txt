@@ -5190,6 +5190,7 @@ onebag
 onednd
 onejob
 onejoke
+oneliners
 OneOrangeBraincell
 OnePiece
 OnePieceTC
@@ -5245,6 +5246,7 @@ OrphanCrushingMachine
 OrthodoxChristianity
 OSHA
 OshiNoKo
+oslo
 osp
 osr
 OstrichPlug
@@ -6951,6 +6953,7 @@ TheCatReport
 TheCatTrapIsWorking
 thechurchofpeanut
 TheCinemassacreTruth
+TheCivilService
 TheClickOwO
 TheCloneWars
 TheCrownNetflix
@@ -7532,6 +7535,7 @@ virtualreality
 Visiblemending
 VisitingIceland
 vita
+vitahacks
 VocabWordOfTheDay
 Vocaloid
 void_memes
