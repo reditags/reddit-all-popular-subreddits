@@ -202,6 +202,7 @@ ai_trading
 AIDKE
 aigreentext
 Aikuros
+AirdropfindX
 airplaneears
 airpods
 airsoft
@@ -1042,6 +1043,7 @@ Bozeman
 BPD
 BPDmemes
 brakebills
+Brampton
 brandnew
 BrandNewAnimal
 BrandNewSentence
@@ -1359,6 +1361,7 @@ Chattanooga
 chch
 cheating_stories
 Cheese
+cheeseburgers
 Cheetahs
 CheetoTheCat
 Chefit
@@ -1775,6 +1778,7 @@ dalle2
 DamnNatureYouScary
 Damnthatsinteresting
 dancegavindance
+dancemoms
 dancingwiththestars
 Dandadan
 danganronpa
@@ -6250,6 +6254,7 @@ Shittyaskflying
 shittyaskscience
 shittybattlestations
 shittybloodborne
+ShittyCarMod
 shittycoolguides
 shittyeldenring
 shittyfoodporn
@@ -7144,6 +7149,7 @@ Torontobluejays
 TorontoDriving
 torontoraptors
 TorontoRealEstate
+TorontoUnseen
 torties
 tortoise
 Totaldrama
