@@ -3468,6 +3468,7 @@ ImaginaryLeviathans
 ImaginaryLovers
 ImaginaryMaids
 imaginarymaps
+imaginarymapscj
 ImaginaryMechs
 ImaginaryMerfolk
 ImaginaryMiddleEarth
@@ -7127,6 +7128,7 @@ TinyHouses
 tinyorangekittens
 TinyUnits
 tipofmytongue
+Tipper
 tippytaps
 Tiresaretheenemy
 titanfall
