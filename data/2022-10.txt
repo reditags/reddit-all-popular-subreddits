@@ -878,6 +878,7 @@ BipolarMemes
 Birates
 Birbs
 birding
+BirdLoaf
 BirdsArentReal
 Birdsfacingforward
 BirdsForScale
@@ -3385,6 +3386,7 @@ IdiotsNearlyDying
 IdiotsOnBikes
 Idiotswithguns
 idiotwastingtime
+idontdreamoflabor
 IDONTGIVEASWAG
 IDontWorkHereLady
 IDOWORKHERELADY
@@ -5909,6 +5911,7 @@ RheaRipley
 RhodeIsland
 rickandmorty
 rickygervais
+RidiculousRealEstate
 rienabranler
 RighteousGemstones
 RightJerk
@@ -6387,6 +6390,7 @@ SkyrimPorn
 skywind
 slammywhammies
 SlavaUkrayini
+slavs_squatting
 slayeasleaked
 slaythespire
 sleeptrain
@@ -6562,6 +6566,7 @@ Stance
 standardissuecat
 StandUpComedy
 standupshots
+Star_Trek
 starbound
 starbucks
 starcitizen
