@@ -4582,6 +4582,7 @@ MexicoCity
 MexicoFinanciero
 Mexicowave
 mfdoom
+mgmt
 MHRise
 Miami
 miamidolphins
@@ -4798,6 +4799,7 @@ mtgporn
 MtvChallenge
 MuayThai
 muglife
+Muln
 Multicopter
 multitools
 MultiVersus
@@ -5684,6 +5686,7 @@ Prematurecelebration
 PrematureTruncation
 premed
 PremierLeague
+premiosESLAND
 PrepperIntel
 preppers
 PrequelMemes
@@ -6537,6 +6540,7 @@ southafrica
 southcarolina
 Southerncharm
 SouthJersey
+Sovereigncitizen
 SovietWomble
 space
 SpaceballsMemes
@@ -7708,6 +7712,7 @@ WayOfTheBern
 wch
 wde
 WeaponsMoe
+WeAreTheMusicMakers
 WearOS
 WeatherGifs
 WeatherPorn
