@@ -138,6 +138,7 @@ ACQR
 acrylicpainting
 ActionFigures
 ActivationSound
+ActiveMeasures
 activism
 ActLikeYouBelong
 actu_memes
@@ -1450,6 +1451,7 @@ civ_memes
 civic
 civilengineering
 Civilization6
+CivPolitics
 CivVI
 CK2GameOfthrones
 CK3AGOT
@@ -2457,6 +2459,7 @@ FallenOrder
 FallGuysGame
 Fallout
 FallOutBoy
+falloutlore
 FalloutMemes
 FalloutMods
 falloutnewvegas
@@ -2700,6 +2703,7 @@ Frasier
 Frat
 FreckledGirls
 freddiegibbs
+frederickmd
 freebies
 FreeCompliments
 FreeEBOOKS
@@ -3500,6 +3504,7 @@ ImaginaryNobles
 ImaginaryOrcs
 ImaginaryPathways
 imaginarypets
+ImaginaryRobotics
 ImaginaryScholars
 ImaginarySeascapes
 ImaginarySliceOfLife
@@ -4136,6 +4141,7 @@ LeniKlum
 leopardgeckos
 LeopardsAteMyFace
 LeopardsAteMyFacePH
+lesbian
 LesbianActually
 lesbianfashionadvice
 lesbiangang
@@ -5886,6 +5892,7 @@ RedDeadOnline
 reddeadredemption
 reddeadredemption2
 reddevils
+reddit
 RedditForGrownups
 RedditLaqueristas
 redditpsychic
@@ -7850,6 +7857,7 @@ Wolfenstein
 wolves
 women
 womensstreetwear
+WomenWritingMen
 wonderdraft
 Wonderlands
 Woodcarving
