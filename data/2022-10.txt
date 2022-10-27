@@ -494,6 +494,7 @@ artcommissions
 ArtDeco
 ArtefactPorn
 ArtHistory
+artificial
 ArtisanVideos
 artmemes
 ArtNouveau
@@ -3064,6 +3065,7 @@ grilledcheese
 grilling
 Grimdank
 Grimdawn
+grime
 Grimes
 GriseldaxFR
 Grishaverse
@@ -4745,6 +4747,7 @@ Mommit
 MonaMains
 monarchism
 Monero
+mongolia
 Monke
 MonkeyIsland
 monkeyspaw
@@ -6967,6 +6970,7 @@ Tennessee
 Tennesseetitans
 tennis
 TenseiSlime
+tensionporn
 TerminallyStupid
 terracehouse
 TerrainBuilding
@@ -7781,6 +7785,7 @@ Wellington
 Wellthatsucks
 Wellworn
 wendigoon
+wesanderson
 WestSubEver
 WestVirginia
 westworld
