@@ -2539,6 +2539,7 @@ fermentation
 Ferrari
 ferrets
 festivals
+FFBraveExvius
 fffffffuuuuuuuuuuuu
 FFVIIRemake
 ffxiv
@@ -7926,6 +7927,7 @@ worldofpvp
 WorldofTanks
 WorldOfTanksBlitz
 WorldOfWarships
+worldtrigger
 WorldWar2
 worldwatch
 WormMemes
