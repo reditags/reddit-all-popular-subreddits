@@ -279,6 +279,7 @@ ambien
 amcstock
 AMCSTOCKS
 Amd
+AmeliaWatson
 AmerExit
 AmericaBad
 americandad
@@ -1006,6 +1007,7 @@ BollywoodFashion
 bollywoodmemes
 BollywoodRealism
 BollywoodUHQonly
+BoltEV
 Bombing
 bon_appetit
 BonbiBonkersNSFW
@@ -1858,6 +1860,7 @@ DarkCrystal
 darkestdungeon
 DarkGothicArt
 Darkhumorandjokes
+darkmememe
 darknet
 DarkSouls2
 darksoulsmemes
@@ -1957,6 +1960,7 @@ Deji
 delhi
 deliciouscompliance
 Delightfullychubby
+DelphiMurders
 delta
 Deltarune
 delusionalartists
@@ -2660,6 +2664,7 @@ fnv
 fo4
 fo76
 fo76FilthyCasuals
+FocusST
 FoggyPics
 FolkloreAndMythology
 FolkPunk
@@ -7323,6 +7328,7 @@ torties
 tortoise
 Totaldrama
 totallynotrobots
+TOTALLYREALTWEETS
 totalwar
 totalwarhammer
 touchfluffytail
@@ -7433,6 +7439,7 @@ Tufting
 tulsa
 tumblr
 TumblrDraws
+TunicGame
 Turkey
 TurkeyJerky
 TurkishCats
@@ -7906,6 +7913,7 @@ whybrows
 WhyWereTheyFilming
 WhyWomenLiveLonger
 Wicca
+wicked_edge
 wiedzmin
 wien
 WiggleButts
