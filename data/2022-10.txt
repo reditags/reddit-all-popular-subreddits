@@ -1081,6 +1081,7 @@ BravoRealHousewives
 Brawlhalla
 Brawlstars
 BrawlStarsCompetitive
+brdev
 Breadit
 BreadStapledToTrees
 BreadTube
@@ -1876,6 +1877,7 @@ dating_advice
 datingoverforty
 datingoverthirty
 dauntless
+davidgoggins
 davidlynch
 Davie504
 DaysGone
@@ -2385,6 +2387,7 @@ EscapefromTarkov
 esGaming
 esHistoria
 esist
+ESLAND
 esp32
 espresso
 essaywriters_
@@ -3071,6 +3074,7 @@ GreenAndEXTREME
 GreenAndPleasant
 GreenBayPackers
 greenday
+Greenhouses
 greenville
 Greyhounds
 greysanatomy
@@ -5611,6 +5615,7 @@ playark
 PlayAvengers
 playboicarti
 PlaydateConsole
+PlayItAgainSam
 playrust
 playstation
 PlayStationPlus
