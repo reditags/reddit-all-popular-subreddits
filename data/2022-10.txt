@@ -1746,6 +1746,7 @@ CryptoCurrency
 CryptocurrencyDEFI
 CryptoMarkets
 CryptoMars
+CryptoMarsShots
 CryptoMoonCoins
 cryptomooncum
 CryptoMoonShots
