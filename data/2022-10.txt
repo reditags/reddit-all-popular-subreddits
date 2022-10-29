@@ -2439,6 +2439,7 @@ Everton
 EverythingFoxes
 EverythingScience
 evilbuildings
+EvilDead
 EvilDeadTheGame
 EvolveGame
 excatholic
@@ -7645,6 +7646,7 @@ ValveIndex
 VampireSurvivors
 Vanced
 vancouver
+VancouverIsland
 vancouverwa
 vandwellers
 VanessaHudgens
