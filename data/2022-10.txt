@@ -357,6 +357,7 @@ animalsdoingstuff
 animalslookingatfood
 AnimalsMonching
 AnimalsOnReddit
+animalssmiling
 Animalsthatlovemagic
 AnimalTextGifs
 animation
@@ -3078,6 +3079,7 @@ GooglePixel
 gorgc
 gorillaz
 GoRVing
+GossipDK
 GossipGirl
 goth
 Gotham
