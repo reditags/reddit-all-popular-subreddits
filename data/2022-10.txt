@@ -3071,6 +3071,7 @@ GoodDesign
 GoodFakeTexts
 GoodGoodMemes
 goodmythicalmorning
+goodnews
 goodomens
 goodyearwelt
 google
@@ -7795,6 +7796,7 @@ Visiblemending
 VisitingIceland
 vita
 vitahacks
+Vitards
 VocabWordOfTheDay
 Vocaloid
 void_memes
