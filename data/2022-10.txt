@@ -6841,6 +6841,7 @@ Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
 StoppedWorking
+stopsmoking
 StoriesAboutKevin
 Stormlight_Archive
 Stormworks
@@ -7354,6 +7355,7 @@ TombRaider
 tombstoning
 tommyinnit
 TommyKay
+TomodachiGame
 tomorrow
 tonightsdinner
 TonikakuCawaii
@@ -7827,6 +7829,7 @@ WarCry
 Warframe
 WarframeRunway
 wargame
+wargaming
 Warhammer
 Warhammer30k
 WarhammerCompetitive
@@ -7958,6 +7961,7 @@ wholesome40k
 WholesomeAsHeck
 wholesomebpt
 WholesomeComics
+wholesomecompliance
 WholesomeFantasyArt
 wholesomegifs
 wholesomegreentext
