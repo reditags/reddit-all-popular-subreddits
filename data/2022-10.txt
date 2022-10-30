@@ -3751,6 +3751,7 @@ ipad
 iPadPro
 iphone
 iPhoneography
+iphonewallpapers
 iRacing
 IranMehr
 ireland
@@ -7191,6 +7192,7 @@ TheCure
 TheCycleFrontier
 TheDarkTower
 thedavidpakmanshow
+TheDearHunter
 TheDeprogram
 TheDepthsBelow
 thedivision
@@ -8059,6 +8061,7 @@ woof_irl
 woooosh
 woosh
 wordington
+wordle
 Workbenches
 WorkersStrikeBack
 WorkReform
