@@ -940,6 +940,7 @@ BlackClover
 BlackCountryNewRoad
 blackdesertonline
 BlackHair
+Blacklabs
 blacklagoon
 BlackLivesMatter
 blackmagicfuckery
@@ -2311,6 +2312,7 @@ echoes_eve
 Economics
 economy
 EDC
+eddit10yearsago
 Eddsworld
 eddyburback
 Edelgard
@@ -2529,6 +2531,7 @@ falcons
 FallenOrder
 FallGuysGame
 Fallout
+fallout76settlements
 FallOutBoy
 falloutlore
 FalloutMemes
@@ -3607,6 +3610,7 @@ ImaginaryNobles
 ImaginaryOrcs
 ImaginaryPathways
 imaginarypets
+ImaginaryPropaganda
 ImaginaryRobotics
 ImaginaryScholars
 ImaginarySeascapes
@@ -6822,6 +6826,7 @@ StardustCrusaders
 Starfield
 starfinder_rpg
 Stargate
+StargirlTV
 Starlink
 starsector
 StarshipPorn
