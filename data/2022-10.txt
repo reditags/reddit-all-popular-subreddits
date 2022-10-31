@@ -4454,6 +4454,7 @@ LV426
 LWICD
 LycorisRecoil
 Lyon
+Lysithea
 MAAU
 mac
 macarons
@@ -8250,6 +8251,7 @@ yuumimains
 YuYuHakusho
 yvonnestrahovski
 ZanClan
+Zappa
 zelda
 ZeldaIsCute
 ZeldaMemes
