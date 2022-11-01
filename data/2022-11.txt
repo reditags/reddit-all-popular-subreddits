@@ -211,6 +211,7 @@ apexcirclejerk
 apexlegends
 ApexOutlands
 ApexUncovered
+apexuniversity
 apolloapp
 AppalachianTrail
 apple
@@ -285,6 +286,7 @@ atheism
 atheistmemes
 ATLA
 Atlanta
+AtlantaHawks
 AtlantaTV
 Atlantology
 attackeyes
@@ -434,6 +436,7 @@ bigboobproblems
 BigBrother
 BigCatGifs
 bigfloppa
+biggboss
 bikecommuting
 bikepacking
 BikiniBottomTwitter
@@ -491,6 +494,7 @@ blurrypicturesofdogs
 blursed_memes
 blursed_videos
 blursedimages
+bmbmbm
 BMW
 boardgames
 BobsBurgers
@@ -559,6 +563,7 @@ britishshorthair
 BritishSuccess
 brittanydawnsnark
 Broadway
+Brochet
 brockhampton
 Brogress
 Brooklyn
@@ -624,8 +629,10 @@ CaptainSparrowmemes
 capybara
 cardano
 Cardinals
+careerguidance
 CargoBike
 carporn
+carscirclejerk
 Cartalk
 CartiCulture
 castiron
@@ -762,6 +769,7 @@ CloneWarsMemes
 CLOUDS
 cobrakai
 cockatiel
+cocktails
 CoDCompetitive
 CodeGeass
 CODWarzone
@@ -952,6 +960,7 @@ DarwinAwards
 dashcamgifs
 DataHoarder
 dataisbeautiful
+dataisugly
 datascience
 datealive
 dating
@@ -1117,6 +1126,7 @@ Drifting
 Drizzy
 DrStone
 DRSyourGME
+Drugs
 drumstick
 dualipa
 dubai
@@ -1494,6 +1504,7 @@ GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
+gingercats
 GingerMafia
 Gintama
 Giraffesdontexist
@@ -1595,6 +1606,7 @@ Halloween_Costumes
 Halloweenmovies
 halo
 HaloCirclejerk
+haloinfinite
 HaloMemes
 Hamilton
 hamiltonmemes
@@ -1629,6 +1641,7 @@ HeartstopperAO
 heat
 HeavySeas
 Hedgehog
+Heizou_Mains
 Helicopters
 HellLetLoose
 hellsomememes
@@ -1640,6 +1653,7 @@ HermitCraft
 hermitcraftmemes
 heroesofthestorm
 HeroForgeMinis
+heyUK
 HFY
 hiddenrooms
 HighQualityGifs
@@ -1758,6 +1772,7 @@ ihadastroke
 ihavereddit
 iiiiiiitttttttttttt
 ik_ihe
+IkeaFreshBalls
 ilikthebred
 IllegalLifeProTips
 illegallysmolbirbs
@@ -1932,6 +1947,7 @@ Jokes
 jordan
 JordanPeterson
 Journaling
+jovemnerd
 jschlatt
 jschlattsubmissions
 JSOCarchive
@@ -2356,6 +2372,7 @@ MoldyMemes
 MomForAMinute
 Mommit
 monarchism
+Monke
 Monstera
 MonsterHigh
 MonsterHunter
@@ -2494,6 +2511,7 @@ NightInTheWoods
 nightvale
 Nijisanji
 NikkeMobile
+Nikon
 NilouMains
 nin
 Ningen
@@ -2509,6 +2527,7 @@ NLSSCircleJerk
 NoahGetTheBoat
 NobodyAsked
 nocontextpics
+Noctor
 NoFap
 NoFuckingComment
 noisygifs
@@ -2671,6 +2690,7 @@ painting
 Paladins
 Paleontology
 Palestine
+pamibabyy
 PandR
 pansexual
 pansexualfleabrothel
@@ -2703,6 +2723,7 @@ PeanutWhiskers
 penguins
 PenmanshipPorn
 Pennsylvania
+pennystocks
 PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
@@ -2735,6 +2756,7 @@ phish
 phoebebridgers
 phoenix
 PhoenixSC
+PhonesAreBad
 photocritique
 photographs
 photoshopbattles
@@ -2753,6 +2775,7 @@ PinkOmega
 Piracy
 PiratedGames
 Piratefolk
+PirateKitties
 PiratePets
 pisscommenting
 pitbulls
@@ -2812,6 +2835,7 @@ polls
 Polska
 Polska_wpz
 Pomeranians
+poodles
 popculturechat
 popheadscirclejerk
 popping
@@ -3065,6 +3089,7 @@ sanfrancisco
 SanJose
 SapphoAndHerFriend
 saskatchewan
+saskatoon
 Satan
 SatanicTemple_Reddit
 SatisfactoryGame
@@ -3472,6 +3497,7 @@ thanosdidnothingwrong
 That70sshow
 thatHappened
 ThatLookedExpensive
+ThatPeelingFeeling
 ThatsInsane
 The10thDentist
 the1975
@@ -3844,6 +3870,7 @@ weeklyplanetpodcast
 weeviltime
 weightlifting
 Weird
+weirdcore
 weirddalle
 WeirdWheels
 WeirdWings
@@ -3914,6 +3941,7 @@ Woodcarving
 woodworking
 woof_irl
 woooosh
+woosh
 wordington
 workaholics
 WorkersStrikeBack
