@@ -148,6 +148,7 @@ Alzwards_Corner
 amazingmemes
 amazonreviews
 amcstock
+AMCSTOCKS
 Amd
 AmericaBad
 americandad
@@ -343,6 +344,7 @@ australia
 AustralianCattleDog
 AustralianNostalgia
 AustralianPolitics
+AustralianShepherd
 Austria
 autism
 AutismInWomen
@@ -405,6 +407,7 @@ bangtan
 Bannerlord
 BanPitBulls
 BanVideoGames
+bapcsalescanada
 BarbaraPalvin
 barkour
 Barotrauma
@@ -793,6 +796,7 @@ chaeyoung
 Chainsawfolk
 ChainsawMan
 chairsunderwater
+Challenger
 Chaos40k
 chaoticgood
 characterarcs
@@ -832,6 +836,7 @@ ChronicIllness
 ChronicPain
 chronotrigger
 ChuckleSandwich
+ChurchOfDorothea
 ChurchOfJirou
 ChurchOfKasumi
 ChurchofLucy
@@ -1105,6 +1110,7 @@ Davie504
 DaysGone
 dayz
 DayzXbox
+dbxv
 dbz
 DBZDokkanBattle
 DC_Cinematic
@@ -1243,6 +1249,7 @@ DoctorWhumour
 Documentaries
 DocumentedFights
 DOG
+DogAdvice
 dogbridges
 dogecoin
 dogelore
@@ -1485,6 +1492,7 @@ femboy
 femboymemes
 feminineboys
 Feminism
+fempark
 fermentation
 Ferrari
 ferrets
@@ -1638,6 +1646,7 @@ Funnymemes
 funnysigns
 funnyvideos
 furry
+FurryArtSchool
 furrymemes
 fursuit
 fuseboxgames
@@ -1707,6 +1716,7 @@ germanshepherds
 germany
 GeschichtsMaimais
 getdisciplined
+Getdownmrpresident
 GetMotivated
 GettingShredded
 GharKeKalesh
@@ -2235,6 +2245,7 @@ jschlattsubmissions
 JSOCarchive
 Judaism
 JuiceWRLD
+Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
 junjiito
@@ -2293,6 +2304,7 @@ KGBTR
 khajiithaswares
 Kibbe
 KidCudi
+KidsAreFuckingSmart
 KidsAreFuckingStupid
 KiernanShipka
 killedthecameraman
@@ -2628,6 +2640,7 @@ meowsertrousers
 mercedes_benz
 MergeDragons
 Metalcore
+MetalGearInMyAss
 metalgearrising
 MetalMemes
 metalworking
@@ -2693,6 +2706,7 @@ Misato
 MisleadingPuddles
 misleadingthumbnails
 missbricosplay
+missoula
 Mistborn
 MitchellAndWebb
 Mizkif
@@ -3091,6 +3105,7 @@ PanPorn
 pansexual
 pansexualfleabrothel
 panthers
+Papaplatte
 papertowns
 ParadoxExtra
 paradoxplaza
@@ -3166,6 +3181,7 @@ photographs
 photoshopbattles
 PhotoshopRequest
 Physics
+physicsgifs
 physicsmemes
 PickleFinancial
 pics
@@ -3386,6 +3402,7 @@ real_China_irl
 reallifedoodles
 RealLifeShinies
 realmadrid
+RealTesla
 ReasonableFantasy
 REBubble
 recap
@@ -3407,6 +3424,7 @@ RedLetterMedia
 redneckengineering
 redpandas
 redrising
+Reds
 redsox
 redstone
 RedvsBlue
@@ -3541,6 +3559,7 @@ schizoposters
 schnauzers
 school_memes
 science
+ScienceFacts
 sciencememes
 ScienceNcoolThings
 scifi
@@ -3599,6 +3618,7 @@ Sham_Sharma_Show
 ShamelesslyStolen
 Shark_Park
 sharks
+shehulk
 ShenheMains
 ShermanPosting
 shiba
@@ -3707,6 +3727,7 @@ slowcooking
 smalllebowsky
 smashbros
 SmashBrosUltimate
+SmashingPumpkins
 SmilingFriends
 Smite
 smoking
@@ -3780,6 +3801,7 @@ sports
 sportsbetting
 sportsbook
 spotted
+spqrposting
 spreadytoes
 springerspaniel
 springfieldMO
@@ -4136,6 +4158,7 @@ ToolBand
 toolgifs
 Tools
 TooManyBadApples
+TooMeIrlForMeIrl
 TopGear
 TopMindsOfReddit
 toradora
@@ -4157,6 +4180,7 @@ TownofSalemgame
 Toyota
 ToyotaTacoma
 TrackMania
+traderjoes
 traditionaltattoos
 trailerparkboys
 trailrunning
@@ -4336,6 +4360,7 @@ victoriajustice
 videogamedunkey
 videomemes
 videos
+vikingstv
 Vilebrequin
 VillagePorn
 Vinesauce
