@@ -400,6 +400,7 @@ aznidentity
 AZURE
 babushkadogs
 BabyBumps
+BabyCorgis
 babyelephantgifs
 babylon5
 Back4Blood
@@ -728,6 +729,7 @@ camphalfblood
 CampingGear
 canada
 canadaguns
+canadahousing
 canadaleft
 CanadianInvestor
 canes
@@ -857,6 +859,7 @@ ChildrenFallingOver
 chile
 China_irl
 chinchilla
+ChineseLanguage
 Chipotle
 Chiraqology
 Chivalry2
@@ -1032,6 +1035,7 @@ CrestedGecko
 CrewsCrew
 Cricket
 CricketShitpost
+cricut
 cringe
 cringepics
 CringePurgatory
@@ -1225,6 +1229,7 @@ desabafos
 Design
 DesignDesign
 DesignerReps
+DesignMyRoom
 DesignPorn
 desimemes
 DesiMeta
@@ -1334,6 +1339,7 @@ DonutMedia
 doodles
 doodoofard
 doommetal
+doordash
 doordash_drivers
 DotA2
 DottoreMains
@@ -2513,6 +2519,7 @@ lego
 legodeal
 Legoleak
 legostarwars
+LEMMiNO
 leopardgeckos
 LeopardsAteMyFace
 LesbianActually
@@ -2579,6 +2586,7 @@ LodedDiper
 LokiTV
 london
 londonontario
+longbeach
 longboyes
 longcats
 LongDistance
@@ -2828,6 +2836,7 @@ Minneapolis
 minnesota
 minnesotavikings
 miraculousladybug
+Mirrorsforsale
 Misato
 MisleadingPuddles
 misleadingthumbnails
@@ -3283,6 +3292,7 @@ PeakyBlinders
 PeanutWhiskers
 PeepingPooch
 pelotoncycle
+penguin
 penguins
 PenmanshipPorn
 Pennsylvania
@@ -3881,6 +3891,7 @@ sistersofbattle
 SisterWives
 skamtebord
 sketches
+skiing
 Skookum
 skoolies
 Skullgirls
@@ -4071,6 +4082,7 @@ subaru
 submarines
 submechanophobia
 subnautica
+SUBREDDITNAME
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
 SubsTakenLiterally
@@ -4410,6 +4422,7 @@ trippieredd
 trippinthroughtime
 Trishyland
 TrollCoping
+TrollYChromosome
 trouduction
 troutfishing
 TruckerCats
@@ -4462,6 +4475,7 @@ UCSD
 udub
 ufc
 UFOs
+uglyduckling
 UIUC
 ukdrill
 UKPersonalFinance
@@ -4795,6 +4809,7 @@ xmen
 xqcow
 XXXTENTACION
 YaeMiko
+YagateKiminiNaru
 Yahaha_IRL
 yakuzagames
 yandere
