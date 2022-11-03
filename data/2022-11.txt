@@ -125,6 +125,7 @@ ageofsigmar
 aggies
 AHomeForPlagueRats
 AIDKE
+aigreentext
 Aikuros
 airplaneears
 airsoft
@@ -649,6 +650,7 @@ BrasildoB
 brasilivre
 Braves
 BravoRealHousewives
+Brawlhalla
 Brawlstars
 Breadit
 BreakfastFood
@@ -1342,6 +1344,7 @@ dontdeadopeninside
 DontFundMe
 donthelpjustfilm
 DontPanic
+dontputyourdickinthat
 dontyouknowwhoiam
 DonutMedia
 doodles
@@ -1593,6 +1596,7 @@ Filmmakers
 FilthyFrank
 FinalFantasy
 finance
+financialindependence
 findfashion
 FindTheSniper
 FingMemes
@@ -1910,6 +1914,7 @@ GTAV
 GuardianTales
 guichon
 Guildwars2
+GuiltyDogs
 Guiltygear
 guineapigs
 GuitarAmps
@@ -2125,6 +2130,7 @@ IdiotsInBoats
 IdiotsInCars
 IdiotsOnBikes
 Idiotswithguns
+idiotwastingtime
 IDONTGIVEASWAG
 IDontWorkHereLady
 IDOWORKHERELADY
@@ -2254,6 +2260,7 @@ instantbarbarians
 instantkarma
 Instantregret
 insurgency
+intel
 interesting
 interestingasfuck
 InterestingVideoClips
@@ -2498,6 +2505,7 @@ LancerRPG
 LandlordLove
 LandoftheLustrous
 landscaping
+languagelearningjerk
 LaStalla
 lastimages
 lastpodcastontheleft
@@ -2572,6 +2580,7 @@ LilPeep
 liluzivert
 LiminalSpace
 lincoln
+LindsayEllis
 lingling40hrs
 linguisticshumor
 Link_Dies
@@ -2647,6 +2656,7 @@ lululemon
 LumineMains
 Lumity
 lupinthe3rd
+Lustig
 Luthier
 LV426
 LycorisRecoil
@@ -3579,8 +3589,10 @@ rct
 RDR2
 Re_Zero
 reactiongifs
+reactjs
 readanotherbook
 ReadyOrNotGame
+ReadyToStudy
 real_China_irl
 RealDayTrading
 reallifedoodles
@@ -4623,6 +4635,7 @@ Virginia
 virginvschad
 virtualreality
 Visiblemending
+Vivy
 VocabWordOfTheDay
 void_memes
 VoidCake
@@ -4831,6 +4844,7 @@ Xcom
 Xenoblade_Chronicles
 XFiles
 xfl
+XiaoMains
 xkcd
 xmen
 xqcow
