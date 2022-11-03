@@ -295,6 +295,7 @@ arcticmonkeys
 arduino
 Argaming
 argentina
+ArgentinaBenderStyle
 ArianaGrande
 arielwinter
 Aritzia
@@ -349,6 +350,7 @@ Astroneer
 Astronomy
 astrophotography
 Astros
+ATAAE
 ATBGE
 AteistTurk
 AteTheOnion
@@ -437,6 +439,7 @@ badMovies
 BadMUAs
 badUIbattles
 bakchodi
+bakeoff
 Baking
 bald
 BaldursGate3
@@ -1078,6 +1081,7 @@ CrackheadCraigslist
 CrackWatch
 craftsnark
 Crainn
+crappyanimalcrossing
 CrappyDesign
 crappyoffbrands
 CrazyFuckingVideos
@@ -1442,6 +1446,7 @@ DrillCats
 Drizzy
 DrStone
 DRSyourGME
+drugmemes
 Drugs
 drugstoreMUA
 drums
@@ -1543,6 +1548,7 @@ EpicSeven
 equelMemes
 Equestrian
 Eragon
+ErectCockroachCrib
 ErgoMechKeyboards
 EscapefromTarkov
 esist
@@ -1736,6 +1742,7 @@ ForShub
 FORTnITE
 FortNiteBR
 FortniteLeaks
+FortniteMemes
 forwardsfromgrandma
 ForwardsFromKlandma
 forza
@@ -1920,6 +1927,7 @@ girlsfrontline
 GirlsLastTour
 GirlsMirin
 girlswithbigmuscles
+GirlsWithHugePussies
 givemeinteligens
 glasgow
 glitch_art
@@ -2100,6 +2108,7 @@ herpetology
 heyUK
 HFY
 hiddenrooms
+HighHeels
 HighQualityGifs
 HighQualityReloads
 HighStrangeness
@@ -2409,6 +2418,7 @@ italy
 Itasha
 ITCareerQuestions
 ItemShop
+ItHadToBeBrazil
 IThinkYouShouldLeave
 itookapicture
 itrunsdoom
@@ -2503,6 +2513,7 @@ Juve
 k_on
 KaeyaMains
 KaguyaShinomiya
+kaisamains
 Kaiserposting
 Kaiserreich
 KaIT
@@ -2530,6 +2541,7 @@ KDRAMA
 Keep_Track
 KellyBrook
 kelowna
+keming
 kendalljenner
 Kengan_Ashura
 KenM
@@ -2594,6 +2606,7 @@ kpics
 kpop
 kpophelp
 kpopthoughts
+KristinSmart
 kroger
 ksi
 KSPMemes
@@ -3133,6 +3146,7 @@ nbacirclejerk
 Nbamemes
 NBASpurs
 NCAAgirls
+NCSU
 NdFlex
 ndp
 nebelung
@@ -3209,6 +3223,7 @@ nintendo
 NintendoMemes
 NintendoStitch
 NintendoSwitch
+NintendoSwitchDeals
 Nirvana
 NLBest
 NLSSCircleJerk
@@ -3912,6 +3927,7 @@ sandiego
 Sandman
 sanfrancisco
 SanJose
+saopaulo
 SapphoAndHerFriend
 saskatchewan
 saskatoon
@@ -3923,6 +3939,7 @@ satisfying
 Satisfyingasfuck
 SatoshiBets
 SavageGarden
+SavannahDemers
 SAVEBRENDAN
 savedyouaclick
 sbeve
@@ -4274,6 +4291,7 @@ stevenuniverse
 sticknpokes
 StLouis
 stlouisblues
+sto
 StockMarket
 stocks
 StoicMemes
@@ -4563,6 +4581,7 @@ TimPool
 Tinder
 tinyanimalsonfingers
 Tinycatsinbigspaces
+tinyorangekittens
 TinyUnits
 tippytaps
 Tiresaretheenemy
@@ -4781,6 +4800,7 @@ UsernameChecksOut
 USMC
 USPS
 ussoccer
+Utah
 UtahJazz
 UTAustin
 UzakiChan
