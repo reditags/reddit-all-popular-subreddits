@@ -291,6 +291,7 @@ ApexLore
 ApexOutlands
 ApexUncovered
 apexuniversity
+aphextwin
 apolloapp
 AppalachianTrail
 apple
@@ -397,6 +398,7 @@ Audi
 Audiomemes
 audiophile
 Augenbleiche
+Aurelion_Sol_mains
 auroramusic
 AusFinance
 auslaw
@@ -561,6 +563,7 @@ benshapiro
 berkeley
 berlin
 bernesemountaindogs
+BernieSanders
 Berserk
 bertstrips
 bestconspiracymemes
@@ -963,6 +966,7 @@ chemistrymemes
 Chennai
 chernobyl
 chessbeginners
+chessmemes
 CHIBears
 chicagobulls
 chickengifs
@@ -1324,6 +1328,7 @@ de_IAmA
 deadbydaylight
 deadcells
 deadlockpw
+deadmeatjames
 DeadSpace
 deathbattle
 Deathcore
@@ -2724,10 +2729,12 @@ KidsAreFuckingStupid
 KiernanShipka
 killedthecameraman
 KillLaKill
+killsixbilliondemons
 killteam
 killthecameraman
 Killtony
 KimetsuNoYaiba
+kindle
 Kingdom
 kingdomcome
 KingdomHearts
@@ -3300,6 +3307,7 @@ MyChemicalRomance
 mycology
 myfavoritemurder
 mylittlepony
+myog
 MyouiMina
 MyPeopleNeedMe
 MysteryDungeon
@@ -3869,6 +3877,7 @@ porterrobinson
 portugal
 PORTUGALCARALHO
 Possums
+postrock
 POTCmemes
 pottedcats
 Pottery
@@ -4090,6 +4099,7 @@ rimesegate
 rimjob_steve
 Rimuru
 RimWorld
+Rings_Of_Power
 RingsofPower
 ripcity
 risa
@@ -4645,6 +4655,7 @@ sweden
 swedishproblems
 SWGalaxyOfHeroes
 Switzerland
+SwitzerlandIsFake
 SWlegion
 swolesomememes
 swoletariat
@@ -5255,6 +5266,7 @@ ween
 weeviltime
 weezer
 weightlifting
+WeightLossAdvice
 Weird
 weirdcore
 weirddalle
@@ -5312,6 +5324,7 @@ wholesomevandalism
 wholesomeviolence
 whothefuckup
 WhyWomenLiveLonger
+Wicca
 wien
 WiggleButts
 wikipedia
