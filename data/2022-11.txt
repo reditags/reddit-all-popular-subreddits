@@ -100,6 +100,7 @@ ACMilan
 acotar
 ACPocketCamp
 acrylicpainting
+acting
 ActionFigures
 ActivationSound
 ActLikeYouBelong
@@ -901,6 +902,7 @@ catsarealiens
 CatsAreAssholes
 catsareliquid
 CatsAreMuslim
+catsbeingbanks
 CatsBeingCats
 CatsCalledFood
 catscarryingstuffies
@@ -1568,6 +1570,7 @@ duck
 DuelLinks
 DuggarsSnark
 Duklock
+dumbasseswithlighters
 DumpsterDiving
 DunderMifflin
 dune
@@ -2114,6 +2117,7 @@ goodyearwelt
 google
 GooglePixel
 gorillaz
+goth
 GothamKnights
 GothGirls
 GothStyle
@@ -2325,6 +2329,7 @@ HonkaiStarRail
 hopeposting
 Horimiya
 horizon
+HorizonForbiddenWest
 Hornyjail
 horror
 Horses
@@ -2383,6 +2388,7 @@ Iamactuallyverybadass
 iamatotalpieceofshit
 IAmTheMainCharacter
 iamverybadass
+iamveryculinary
 iamverysmart
 IASIP
 IBEW
@@ -3536,6 +3542,7 @@ NUFC
 nukedmemes
 nursing
 nus
+nutrition
 NuxTakuSubmissions
 nuzlocke
 nvidia
@@ -3881,6 +3888,7 @@ PokemonUnite
 poker
 poland
 polandball
+Polandballart
 Poldersocialisme
 poledancing
 policeuk
@@ -4259,6 +4267,7 @@ science
 ScienceFacts
 sciencememes
 ScienceNcoolThings
+sciences
 scifi
 SCJerk
 Scoobydoo
@@ -4900,6 +4909,7 @@ Thigh_Fantasy
 ThingsCutInHalfPorn
 thingsforants
 thinkpad
+ThirdLifeSMP
 thirdsentenceworse
 Thisismylifemeow
 thisismylifenow
@@ -5084,6 +5094,7 @@ tzuyu
 UBC
 Ubiquiti
 ubius
+UCDavis
 UCI
 ucla
 UCSC
@@ -5507,6 +5518,7 @@ YouniquePresenterMS
 YourRAGE
 yourturntodie
 YouSeeComrade
+youseeingthisshit
 YouShouldKnow
 youtube
 youtubehaiku
