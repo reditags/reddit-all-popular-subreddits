@@ -103,6 +103,7 @@ ActionFigures
 ActivationSound
 ActLikeYouBelong
 ActualPublicFreakouts
+AdachiToShimamura
 AddisonRae
 Adelaide
 AdeptusMechanicus
@@ -1536,6 +1537,7 @@ Edmonton
 educationalgifs
 Eesti
 egg_irl
+Egypt
 EightySix
 Eldar
 EldenBling
@@ -1636,6 +1638,7 @@ ExtremeCarCrashes
 extremelyinfuriating
 Eyebleach
 f150
+F1FeederSeries
 F1Game
 F1Manager
 F1NN5TER
@@ -1891,6 +1894,7 @@ G2eSports
 G59
 gachagaming
 gadgets
+GakiNoTsukai
 GalaxyWatch
 GalGadot
 Gambiarra
@@ -2534,6 +2538,7 @@ JennaOrtega_
 jennie
 JenniferAniston
 JenniferLawrence
+JenniferLopez
 jenniferlovehewitt
 Jeopardy
 jerma985
@@ -2786,6 +2791,7 @@ libsofreddit
 lies
 lifehacks
 lifeisstrange
+LifeofBoris
 LifeProTips
 LigaMX
 lightsabers
@@ -3371,6 +3377,7 @@ NoSanaNoLife
 nosleep
 nostalgia
 NoStupidQuestions
+Notakeonlythrow
 NotAnotherDnDPodcast
 notdisneyvacation
 nothingeverhappens
@@ -3745,6 +3752,7 @@ PoliticalComebacks
 PoliticalCompassMemes
 PoliticalHumor
 politics
+PoliticsDownUnder
 PoliticsPeopleTwitter
 polls
 Polska
@@ -4165,6 +4173,7 @@ ShamelesslyStolen
 Shark_Park
 sharks
 sharpening
+sheffield
 SheGotHands
 shehulk
 sheltie
@@ -4369,6 +4378,7 @@ sploot
 spongebob
 SpongebobMemes
 spooktober
+SportingCP
 sports
 sportsarefun
 sportsbetting
@@ -4936,6 +4946,7 @@ UniversalOrlando
 unixporn
 unket
 unlikelyfriends
+UnnecessaryInventions
 unOrdinary
 Unorthodog
 unpopularopinion
@@ -5238,6 +5249,7 @@ WutheringWaves
 ww2
 ww2memes
 WWE
+WWEGames
 WWII
 wwiipics
 WWIIplanes
