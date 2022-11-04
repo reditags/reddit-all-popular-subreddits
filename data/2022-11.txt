@@ -932,6 +932,7 @@ CatTaps
 CatTrap
 CCW
 celebrities
+celebrity_soles
 CelebrityFeet
 celebritylegs
 CelebsPH
@@ -1071,6 +1072,7 @@ coins
 CoinStats
 Coldmirror
 Coldplay
+college
 CollegeBasketball
 ColleiMains
 Colombia
@@ -1139,10 +1141,12 @@ CoolGadgetsTube
 coolguides
 copypasta
 coral_sharon
+cordcutters
 corgi
 Coronavirus
 CorporateFacepalm
 Corridor
+Corvette
 Cosmere
 cosplayers
 cosplayprops
@@ -1245,6 +1249,7 @@ customhearthstone
 custommagic
 CustomPlayerCutscene
 cute
+cutegayshit
 cuteguys
 cuteguyswithcats
 CutestOfThemAll
@@ -2243,6 +2248,7 @@ heep
 HeidiKlum
 Heizou_Mains
 Helicopters
+HellenicMemes
 HellLetLoose
 hellsomememes
 Helltaker
@@ -2290,6 +2296,7 @@ hoi4modding
 holdmycosmo
 holdmyfeedingtube
 holdmyfries
+HoldMyKibble
 holdmyredbull
 HollowKnight
 HollowKnightArt
@@ -2352,6 +2359,7 @@ humansarespaceorcs
 HumansBeingBros
 HumansForScale
 HumanTippyTaps
+humblebrag
 humor
 hungary
 Hungergames
@@ -2657,6 +2665,7 @@ JordanPeterson
 JoshuaWeissman
 Journaling
 jovemnerd
+jpegmafia
 Jreg
 JRPG
 jschlatt
@@ -3329,6 +3338,7 @@ MyouiMina
 MyPeopleNeedMe
 MysteryDungeon
 mysticmessenger
+MyTeam
 mythologymemes
 n64
 N_N_N
@@ -3451,6 +3461,7 @@ NinaDobrev
 Ningen
 NingguangMains
 Ninjago
+NinjagoMemes
 NinomaeInanis
 nintendo
 NintendoMemes
@@ -3885,6 +3896,7 @@ polls
 Polska
 Polska_wpz
 polymerclay
+Polytopia
 Pomeranians
 poodles
 popculturechat
@@ -4263,6 +4275,7 @@ Scrubs
 scrungycats
 scuba
 scuderiaferrari
+SDRUntucked
 seals
 Seaofthieves
 seaporn
@@ -4886,6 +4899,7 @@ theyknew
 Thigh_Fantasy
 ThingsCutInHalfPorn
 thingsforants
+thinkpad
 thirdsentenceworse
 Thisismylifemeow
 thisismylifenow
@@ -5070,6 +5084,7 @@ tzuyu
 UBC
 Ubiquiti
 ubius
+UCI
 ucla
 UCSC
 UCSD
@@ -5282,6 +5297,7 @@ watercooling
 waterloo
 WattsonMains
 Wavyhair
+WayOfTheBern
 WeaponsMoe
 WeatherGifs
 webcomics
