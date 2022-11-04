@@ -108,6 +108,7 @@ AdeptusMechanicus
 adhdmeme
 ADHDmemes
 AdorableDragons
+adorableoldpeople
 AdPorn
 AdultHood
 Adulting
@@ -546,6 +547,7 @@ beyondwholesome
 bi_irl
 bicycling
 BicyclingCirclejerk
+BidenIsNotMyPresident
 bigbangtheory
 bigboobproblems
 bigboye
@@ -571,6 +573,7 @@ biologymemes
 bioniclelego
 bioniclememes
 Bioshock
+BipolarMemes
 Birates
 Birbs
 birding
@@ -1008,6 +1011,7 @@ CoinStats
 Coldmirror
 Coldplay
 CollegeBasketball
+ColleiMains
 Colombia
 Colorado
 ColoradoAvalanche
@@ -1077,6 +1081,7 @@ CorporateFacepalm
 Corridor
 Cosmere
 cosplayers
+cosplayprops
 Costco
 cottagecore
 counterstrike
@@ -1726,6 +1731,7 @@ Flamepoints
 flashlight
 FlexinLesbians
 flightsim
+flipperzero
 Flipping
 floggit
 Floof
@@ -1858,6 +1864,7 @@ FUTMobile
 futurama
 futureporn
 Futurology
+FWFBThinkTank
 G2eSports
 G59
 gachagaming
@@ -1901,6 +1908,7 @@ GaySoundsShitposts
 geek
 gekte
 GemmaArterton
+genderfluid_irl
 genestealercult
 Genshin_Impact
 Genshin_Impact_Leaks
@@ -1975,6 +1983,7 @@ GodofWar
 godot
 godtiersuperpowers
 GODZILLA
+Gold
 Goldendoodles
 goldenknights
 goldenretrievers
@@ -2034,6 +2043,7 @@ gtaonline
 GTAorRussia
 GTAV
 GuardianTales
+GuerrillaGardening
 guichon
 Guildwars2
 GuiltyDogs
@@ -2301,6 +2311,7 @@ ImaginaryElementals
 ImaginaryElves
 ImaginaryFashion
 ImaginaryFeels
+imaginarygatekeeping
 ImaginaryHorrors
 ImaginaryImmortals
 ImaginaryInteriors
@@ -2355,6 +2366,7 @@ india
 indiadiscussion
 indiameme
 Indiana
+indianapolis
 IndianBoysOnTinder
 IndianCountry
 IndianDankMemes
@@ -2457,6 +2469,7 @@ Izlam
 JaackMaate
 jackass
 jackrussellterrier
+JacksFilms
 Jaguarland
 Jaguars
 jaidenanimations
@@ -2472,6 +2485,7 @@ japanesepeopletwitter
 japanlife
 japanpics
 Jazz
+Jcole
 JDM
 jedicouncilofelrond
 JEENEETards
@@ -2704,6 +2718,7 @@ legodeal
 legodnd
 Legoleak
 legostarwars
+legostarwarsmemes
 LEMMiNO
 leopardgeckos
 LeopardsAteMyFace
@@ -2944,6 +2959,7 @@ Megaten
 Megumin
 meirl
 melbourne
+MelissaBenoist
 meme
 memecoinmoonshots
 MemeEconomy
@@ -3167,6 +3183,7 @@ nashville
 NataliaDyer
 natalieportman
 nathanforyou
+nationalguard
 NationalPark
 nattyorjuice
 nature
@@ -3434,6 +3451,7 @@ OrganizationPorn
 orioles
 orks
 orlando
+OrlandoMagic
 ornnmains
 OrphanCrushingMachine
 OSHA
@@ -3464,6 +3482,7 @@ Overwatch
 overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
+OverwatchLeague
 OverwatchTMZ
 OverwatchUniversity
 OWConsole
@@ -3551,6 +3570,7 @@ persona4golden
 Persona5
 PersonalFinanceCanada
 perth
+PERU
 PetAfterVet
 PetiteFitness
 PetsareAmazing
@@ -3867,6 +3887,7 @@ rentnerzeigenaufdinge
 Repaintings
 Repsneakers
 reptiles
+RepublicaArgentina
 Republican
 RepublicanValues
 rescuedogs
@@ -3875,6 +3896,7 @@ residentevil
 restofthefuckingowl
 retailhell
 retardedcornfieldcum
+RetroAR
 retrobattlestations
 RetroBowl
 RetroFuturism
@@ -3899,6 +3921,7 @@ RoastMe
 RoAww
 ROBLOXmemes
 robotics
+Rochester
 rock
 RocketLeague
 RocketLeagueEsports
@@ -4271,6 +4294,7 @@ Splatoon_3
 Splintercell
 Splitgate
 sploot
+SpongebobMemes
 spooktober
 sports
 sportsarefun
@@ -4302,6 +4326,7 @@ starbucks
 starcitizen
 starcraft
 starcraft2
+StardewHomeDesign
 StardewMemes
 StardewValleyExpanded
 StardustCrusaders
@@ -4566,6 +4591,7 @@ TheLeftCantMeme
 TheLib
 thelongdark
 TheMagnusArchives
+TheMajorityReport
 TheMandalorianTV
 TheMemersClub
 TheMonkeysPaw
@@ -4675,6 +4701,7 @@ TopGear
 TopMindsOfReddit
 toradora
 Torontobluejays
+TorontoDriving
 torontoraptors
 torties
 tortoise
@@ -4871,6 +4898,7 @@ VampireSurvivors
 vancouver
 vancouverwa
 vandwellers
+VanessaHudgens
 VanLife
 vaporents
 VaporwaveAesthetics
@@ -5121,11 +5149,13 @@ writingcirclejerk
 WritingPrompts
 WRX
 WTF
+WTFgaragesale
 wtfstockphotos
 WTFwish
 ww2
 ww2memes
 WWE
+WWII
 wwiipics
 WWIIplanes
 xbiking
