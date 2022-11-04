@@ -150,6 +150,7 @@ alberta
 Albuquerque
 AlchemyStarsEN
 alcoholism
+Alderwood
 aldi
 AlexaBliss
 alexandradaddario
@@ -168,6 +169,7 @@ AlzheimersGroup
 Alzwards_Corner
 amateurradio
 amazingmemes
+AmazonFC
 amazonreviews
 ambien
 amcstock
@@ -453,6 +455,7 @@ badmathematics
 badMovies
 BadMUAs
 badUIbattles
+baduk
 bakchodi
 bakeoff
 Baking
@@ -637,6 +640,7 @@ blurrypicturesofcats
 blurrypicturesofdogs
 blursed_memes
 blursed_videos
+Blursedcomments
 blursedimages
 bmbmbm
 BMW
@@ -1036,6 +1040,7 @@ combinedgifs
 comedyamputation
 ComedyCemetery
 comedyepilepsy
+ComedyFlogging
 comedyheaven
 ComedyHell
 comedyhomicide
@@ -1049,6 +1054,7 @@ commandandconquer
 Commanders
 CommunismMemes
 community
+CompanyOfHeroes
 CompetitiveApex
 Competitiveoverwatch
 CompetitiveTFT
@@ -1240,6 +1246,7 @@ dankvideos
 DanMachi
 DannyGonzalez
 Daredevil
+dark_Gang666
 DarkAcademia
 DarkBRANDON
 darkestdungeon
@@ -2143,6 +2150,7 @@ harrypotter
 HarryPotterBooks
 harvestmoon
 Hasan_Piker
+hate_dcxr
 hatsune
 Hawaii
 HayleyAtwell
@@ -2578,6 +2586,7 @@ Jujutsushi
 Jungle_Mains
 junjiito
 JurassicMemes
+JurassicPark
 jurassicworldevo
 justa
 JustBootThings
@@ -2977,6 +2986,7 @@ MayaHawke
 maybemaybemaybe
 MayDayStrike
 MBMBAM
+mbti
 mbtimemes
 Mcat
 MCFC
@@ -3005,6 +3015,7 @@ MeganFox
 Megaten
 Megumin
 meirl
+Melanime
 melbourne
 MelissaBenoist
 meme
@@ -3237,6 +3248,7 @@ nashville
 NataliaDyer
 natalieportman
 nathanforyou
+nathanwpyle
 nationalguard
 NationalPark
 nattyorjuice
@@ -3521,6 +3533,7 @@ OrphanCrushingMachine
 OSHA
 OshiNoKo
 osp
+osubuddyretard
 osugame
 othepelican
 OTMemes
@@ -3863,6 +3876,7 @@ QAnonCasualties
 QanonKaren
 Qdpay
 Quebec
+queensland
 quilting
 quityourbullshit
 Qult_Headquarters
@@ -4208,6 +4222,7 @@ ShittyAnimalFacts
 shittyaquariums
 Shittyaskflying
 shittyaskscience
+shittybattlestations
 shittybloodborne
 shittyeldenring
 shittyfoodporn
@@ -4253,6 +4268,7 @@ shylily
 Siamesecats
 SiberianCats
 Sidemen
+SigmaCinema
 Sigmarxism
 SigSauer
 silenthill
@@ -4362,6 +4378,7 @@ SpeedOfLobsters
 speedrun
 spelunky
 sphynx
+SpiceandWolf
 spicy
 spicypillows
 spiderbro
@@ -4896,6 +4913,7 @@ tylerthecreator
 Tyranids
 tzuyu
 UBC
+Ubiquiti
 ucla
 UCSC
 UCSD
