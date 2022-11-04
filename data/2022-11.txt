@@ -1338,6 +1338,7 @@ DestinyLore
 DestinyMemes
 DestinyTheGame
 DestroyedTanks
+DestroyLonely
 DetailCraft
 detrans
 DeTrashed
@@ -1371,6 +1372,7 @@ dioramas
 Dipcifica
 DiretoDoZapZap
 Dirtbikes
+disability
 discgolf
 DiscoElysium
 discord_irl
@@ -1622,6 +1624,7 @@ ExposurePorn
 ExtremeCarCrashes
 extremelyinfuriating
 Eyebleach
+f150
 F1Game
 F1Manager
 F1NN5TER
@@ -2907,6 +2910,7 @@ MapPorn
 mapporncirclejerk
 MapsWithoutNZ
 MarchAgainstNazis
+marchingband
 MargotRobbie
 marijuanaenthusiasts
 Marijuanagreenhouse
@@ -3152,10 +3156,12 @@ mtg
 mtgfinance
 MtvChallenge
 MuayThai
+muglife
 MultiVersus
 MultiVersusTheGame
 mumbai
 MurderBuns
+MurderedByAOC
 MurderedByWords
 murdermittens
 murdochsucks
@@ -3262,6 +3268,7 @@ NewsOfTheStupid
 NewVegasMemes
 newworldgame
 newyorkcity
+NewYorkIslanders
 NewYorkMets
 newzealand
 NewZealandWildlife
@@ -3568,6 +3575,7 @@ penguin
 penguins
 PenmanshipPorn
 Pennsylvania
+PennyLaneIsTheName
 pennystocks
 penpals
 PeopleBeingJerks
@@ -3903,6 +3911,7 @@ regularshow
 relationship_advice
 RelationshipMemes
 religiousfruitcake
+RenderedComment
 Reno
 rentnerzeigenaufdinge
 Repaintings
@@ -4257,6 +4266,7 @@ snes
 snowboarding
 snowrunner
 SNSD
+soapmaking
 soccercirclejerk
 socialanxiety
 socialism
