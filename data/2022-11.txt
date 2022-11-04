@@ -305,6 +305,7 @@ araragi
 arbeitsleben
 arcane
 ArcherFX
+Archery
 ArchitecturalRevival
 architecture
 ArchitecturePorn
@@ -549,11 +550,13 @@ benfica
 bengalcats
 bengals
 BenGarrisonCumEdits
+benshapiro
 berkeley
 berlin
 bernesemountaindogs
 Berserk
 bertstrips
+bestconspiracymemes
 bestof
 bestoflegaladvice
 BestofRedditorUpdates
@@ -642,6 +645,7 @@ Blink182
 BloodAngels
 Bloomer
 blop
+BlueJackets
 BlueLock
 BlueMidterm2018
 bluey
@@ -677,6 +681,7 @@ BoneAppleTea
 bonecollecting
 bonehurtingjuice
 BONELAB
+bonjour
 BonneBouffe
 BookOfBobaFett
 books
@@ -1744,6 +1749,7 @@ FFXVI
 FierceFlow
 FIFA
 FifaCareers
+FiftyFifty
 Fighters
 FightingFakeNews
 fightporn
@@ -1785,6 +1791,7 @@ flipperzero
 Flipping
 floggit
 Floof
+floofyboop
 florida
 FloridaMan
 FlorkofCowsOfficial
@@ -2016,6 +2023,7 @@ GirlsMirin
 GirlsUndShitposts
 girlswithbigmuscles
 GirlsWithHugePussies
+gis
 givemeinteligens
 glasgow
 glitch_art
@@ -2326,6 +2334,7 @@ iamverybadass
 iamverysmart
 IASIP
 IBEW
+icecoast
 IceCreamWaifu
 ich_iel
 ichbin40undlustig
@@ -2551,6 +2560,7 @@ jakeandamir
 jakertown
 JamesBond
 jameswebb
+janeausten
 January6
 japan
 JapaneseFood
@@ -2598,6 +2608,7 @@ jordan
 Jordan_Peterson_Memes
 jordanbeckham_nsfw
 JordanPeterson
+JoshuaWeissman
 Journaling
 jovemnerd
 Jreg
@@ -2989,6 +3000,7 @@ Mariners
 Mario
 mariokart
 MarioKartTour
+MarioKartWii
 Market76
 marketing
 Markiplier
@@ -3052,6 +3064,7 @@ Melanime
 melbourne
 MelissaBenoist
 meme
+MemeAlleyway
 memecoinmoonshots
 MemeEconomy
 memeframe
@@ -3119,6 +3132,7 @@ mildlyterrifying
 MildlyVandalised
 mildyinfuriating
 mildyinteresting
+milesprower
 Military
 MilitaryARClones
 MilitaryPorn
@@ -3253,6 +3267,7 @@ MxRMods
 MXRplays
 MyChemicalRomance
 mycology
+myfavoritemurder
 mylittlepony
 MyouiMina
 MyPeopleNeedMe
@@ -3493,6 +3508,7 @@ OkBrudiMongo
 OkBubbyRetard
 okbuddybaka
 okbuddycapitalist
+OkBuddyCatra
 okbuddycinephile
 OkBuddyFresca
 okbuddygenshin
@@ -3742,6 +3758,7 @@ pitbulls_in_partyhats
 pitbullsinjammies
 pittsburgh
 PixelArt
+PixelDungeon
 PixelWatch
 Pizza
 PizzaCrimes
@@ -4052,6 +4069,7 @@ RocketLeagueEsports
 rockets
 rockhounds
 rodentintercourse
+RodriguesFamilySnark
 RoleReversal
 rolex
 rollercoasterjerk
@@ -4390,6 +4408,7 @@ SonyAlpha
 sophieturner
 SoulCalibur
 SoulKnight
+Soulnexus
 SoundsLikeMusic
 soup
 Sourdough
@@ -4538,6 +4557,7 @@ submarines
 submechanophobia
 subnautica
 SUBREDDITNAME
+SubsIFellFor
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
 SubsTakenLiterally
@@ -4638,6 +4658,7 @@ Teachers
 TeamfightTactics
 TeamSESH
 tearsofthekingdom
+TearsOfThemis
 tech
 tech1e
 technews
@@ -4908,6 +4929,7 @@ triathlon
 trippieredd
 trippinthroughtime
 Trishyland
+TrishylandWifeys
 TrollCoping
 TrollYChromosome
 Trophies
@@ -4991,6 +5013,7 @@ UnearthedArcana
 UnethicalLifeProTips
 Unexpected
 unexpectedcommunism
+UnexpectedCommunity
 unexpectedfuturama
 unexpectedhogwarts
 UnexpectedJoJo
@@ -5166,6 +5189,7 @@ Watercolor
 watercolorcats
 watercolorpractice
 watercooling
+waterloo
 WattsonMains
 Wavyhair
 WeaponsMoe
@@ -5357,6 +5381,7 @@ yo_ctm
 YofukashiNoUta
 yoga
 Yoimiya_Mains
+yorickmains
 Yorkies
 Yosemite
 Yotsubros
