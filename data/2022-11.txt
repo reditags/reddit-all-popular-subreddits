@@ -137,6 +137,7 @@ agedtattoos
 ageofsigmar
 aggies
 AHomeForPlagueRats
+AhriMains
 AIDKE
 aigreentext
 Aikuros
@@ -172,6 +173,7 @@ altdogelore
 AlternateAngles
 AlternateHistory
 alternativeart
+AlternativeHistory
 AlzheimersGroup
 Alzwards_Corner
 amateurradio
@@ -344,6 +346,7 @@ ArtisanVideos
 artmemes
 ArtOfRolling
 ArtPorn
+AsaCumEramOdata
 asaprocky
 AsbestosRemovalMemes
 Asexual
@@ -622,6 +625,7 @@ birding
 birds
 BirdsArentReal
 BirdsForScale
+birdstakingthetrain
 birdswitharms
 Birmingham
 BisexualTeens
@@ -1183,6 +1187,7 @@ CrazyIdeas
 crazystairs
 CreateMod
 creepy
+CreepyArt
 creepyasterisks
 creepydesign
 creepypasta
@@ -1307,6 +1312,7 @@ dark_Gang666
 DarkAcademia
 DarkBRANDON
 darkestdungeon
+DarkGothicArt
 Darkhumorandjokes
 DarkSouls2
 darksoulsmemes
@@ -1598,6 +1604,7 @@ EDC
 eddit10yearsago
 Edelgard
 EdensZero
+edgarwrightmemes
 Edgerunners
 EDH
 Edinburgh
@@ -1834,6 +1841,7 @@ flightsim
 flipperzero
 Flipping
 floggit
+flonkers
 Floof
 floofyboop
 florida
@@ -2032,6 +2040,7 @@ GenshinImpactTips
 gentlemanboners
 GenUsa
 GenX
+GenZ
 GenZHumor
 geography
 geoguessr
@@ -2305,6 +2314,7 @@ holdmyredbull
 HollowKnight
 HollowKnightArt
 HollowKnightMemes
+holocure
 Hololive
 HololiveYuri
 Holostars
@@ -2832,6 +2842,7 @@ LandoftheLustrous
 landscaping
 languagelearning
 languagelearningjerk
+LaserCleaningPorn
 LaStalla
 lastimages
 lastpodcastontheleft
@@ -3010,6 +3021,7 @@ mac
 macarons
 macbookpro
 macgaming
+MachikadoMazoku
 MachinePorn
 Machinists
 MacMiller
@@ -3996,6 +4008,7 @@ punk
 Punny
 PunPatrol
 puns
+puppersheckingdying
 puppies
 PuppyBellies
 PuppySmiles
@@ -4606,6 +4619,7 @@ StarWarsleftymemes
 starwarsmemes
 starwarsrebels
 staryuukiiii
+StassieBaby
 StateOfDecay
 stateofMN
 steak
@@ -4865,6 +4879,7 @@ thelastofus
 TheLastOfUs2
 ThelastofusHBOseries
 TheLeftCantMeme
+TheLetterH
 TheLib
 thelongdark
 TheMagnusArchives
@@ -4916,6 +4931,7 @@ thisismylifenow
 ThisLooksFun
 ThisYouComebacks
 thomastheplankengine
+Thorgasm
 ThotBeatdowns
 ThriftGrift
 ThriftStoreCats
@@ -5246,6 +5262,7 @@ Visiblemending
 Vivy
 vizsla
 VocabWordOfTheDay
+Vocaloid
 void_memes
 VoidCake
 VoidCats
@@ -5391,6 +5408,7 @@ wien
 WiggleButts
 wikipedia
 WildernessBackpacking
+Wildfire
 wildhockey
 wildlifephotography
 wildrift
