@@ -361,6 +361,7 @@ Astroneer
 Astronomy
 astrophotography
 Astros
+ASX_Bets
 ATAAE
 ATBGE
 AteistTurk
@@ -1283,6 +1284,7 @@ deathbattle
 Deathcore
 deathgrips
 deathguard40k
+deathnote
 DeathrattlePorn
 DeathStranding
 DebateVaccines
@@ -1325,6 +1327,7 @@ DenverCirclejerk
 denvernuggets
 DeppDelusion
 depression_memes
+DerryGirls
 DerScheisser
 desabafos
 Design
@@ -1354,6 +1357,7 @@ DetroitPistons
 DetroitRedWings
 Deusex
 deutschememes
+developersIndia
 DevilMayCry
 devils
 Dexter
@@ -1684,6 +1688,7 @@ fatestaynight
 FateWinxSaga
 fatpeoplestories
 FatuiHQ
+FCInterMilan
 fcporto
 feedthebeast
 feedthememes
@@ -2094,6 +2099,7 @@ haikyuu
 HaileeSteinfeld
 hailhortler
 Hair
+HairDye
 hajimenoippo
 HalfLife
 halifax
@@ -2696,6 +2702,7 @@ labrador
 labrats
 LAClippers
 LadiesOfWrestling
+laidbackcamp
 Lain
 lakers
 Lalisa
@@ -3266,6 +3273,7 @@ networkingmemes
 Neverbrokeabone
 neverchangejapan
 nevertellmetheodds
+newcastle
 NewDealAmerica
 Newfoundlander
 NewGirl
@@ -3629,6 +3637,7 @@ PeytonList
 PhantomForces
 pharmacy
 PhasmophobiaGame
+phclassifieds
 PHGamers
 philadelphia
 Philippines
@@ -3996,6 +4005,7 @@ rosin
 Rotterdam
 Rottweiler
 RoughRomanMemes
+RoundAnimals
 Rowing
 RPClipsGTA
 RPDR_UK
@@ -4605,6 +4615,7 @@ thatHappened
 ThatLookedExpensive
 ThatPeelingFeeling
 Thatsabooklight
+ThatsHowThingsWork
 ThatsInsane
 The10thDentist
 the1975
@@ -5217,6 +5228,7 @@ WTF
 WTFgaragesale
 wtfstockphotos
 WTFwish
+WutheringWaves
 ww2
 ww2memes
 WWE
