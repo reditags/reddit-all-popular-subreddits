@@ -1713,6 +1713,7 @@ EtikaRedditNetwork
 eu4
 eu_nvr
 Eugene
+EUGENIACOONEY
 EulaMains
 euphoria
 EUR_irl
@@ -2466,6 +2467,7 @@ IllegalLifeProTips
 illegallybigcats
 IllegallySmol
 illegallysmolbirbs
+IllegallySmolBunnies
 IllegallySmolCats
 IllegallySmolDogs
 illinois
@@ -4238,6 +4240,7 @@ RoleReversal
 rolex
 rollercoasterjerk
 rollercoasters
+Rollerskating
 rolltide
 RomanceClub
 Romania
