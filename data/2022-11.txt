@@ -791,6 +791,7 @@ bridezillas
 BridgertonNetflix
 BrieLarson
 BringingUpBates
+BringMeTheHorizon
 brisbane
 bristol
 britishcolumbia
@@ -1371,6 +1372,7 @@ dating_advice
 datingoverthirty
 Davie504
 DaysGone
+Daytrading
 dayz
 DayzXbox
 dbxv
@@ -1689,6 +1691,7 @@ Emuwarflashbacks
 EnculerLesVoitures
 ender3
 energy
+ENFP
 EngagementRings
 engineeringmemes
 EngineeringPorn
@@ -2042,6 +2045,7 @@ G59
 gachagaming
 gadgets
 GakiNoTsukai
+galatasaray
 GalaxyWatch
 GalGadot
 Gambiarra
@@ -2378,6 +2382,7 @@ Hololive
 HololiveYuri
 Holostars
 HolUp
+HolyGrailMemes
 homeassistant
 HomeDecorating
 HomeDepot
@@ -2652,6 +2657,7 @@ iPhoneography
 ipod
 iRacing
 ireland
+irezumi
 IRLEasterEggs
 irlsmurfing
 IronFrontUSA
@@ -2680,6 +2686,7 @@ itookapicture
 itrunsdoom
 IttoMains
 ITZY
+IWantToLearn
 iwoulddiefornoodle
 Izlam
 iZone
@@ -2797,6 +2804,7 @@ kansascity
 KansasCityChiefs
 Kanye
 karengillan
+karens
 KarmaRoulette
 KatDennings
 katebeckinsale
@@ -2874,6 +2882,7 @@ korea
 KoreanFood
 korrasami
 Kosmiczna_Flota
+kosovo
 KotakuInAction
 kotor
 KOTORmemes
@@ -3240,6 +3249,7 @@ memes
 Memes_Of_The_Dank
 memesdecentralises
 memesITA
+MemeSmiet
 memeuniverse
 MemeVideos
 memexico
@@ -4200,6 +4210,7 @@ recipes
 reclaimedbynature
 recruitinghell
 Recursion
+RedBullRacing
 reddeadfashion
 RedDeadOnline
 reddeadredemption
@@ -4462,6 +4473,7 @@ Sham_Sharma_Show
 ShamelesslyStolen
 Shantae
 ShaqHoldingThings
+SharedBPM
 Shark_Park
 sharks
 sharpening
@@ -4481,6 +4493,7 @@ Shihtzu
 ShingekiNoKyojin
 ShinyPokemon
 Shinypreciousgems
+shitcaptions
 shitcoinmoonshots
 ShitCrusaderKingsSay
 shitduolingosays
@@ -4648,6 +4661,7 @@ space
 SpaceCannibalism
 spaceengineers
 spacefrogs
+spacemarines
 spaceporn
 spacex
 SpaceXLounge
@@ -4721,6 +4735,7 @@ StardewValleyExpanded
 StardustCrusaders
 Starfield
 Stargate
+Starlink
 starsector
 starterpacks
 StartledCats
@@ -4921,6 +4936,7 @@ teenagers
 teenagersbuthot
 teenagersnew
 TeenMomOGandTeenMom2
+teentitans
 Tekken
 TempleofMarianne
 Tendies
@@ -5066,6 +5082,7 @@ ThriftGrift
 ThriftStoreCats
 thumbcats
 Thunder
+tianguancifu
 tiedye
 Tierzoo
 tifu
@@ -5551,6 +5568,7 @@ wildrift
 WildWestPics
 willwood
 wimmelbilder
+windows
 Windows10
 Windows11
 wine
