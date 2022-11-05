@@ -193,6 +193,7 @@ AmericanHorrorStory
 AMG
 amibeingdetained
 Amigurumi
+amiibo
 AmITheAngel
 amiugly
 amogus
@@ -278,6 +279,7 @@ AntiHateCommunities
 antimeme
 antiMLM
 antinatalism
+Antiques
 AntiTaff
 antitheistcheesecake
 antitrampo
@@ -335,6 +337,7 @@ arknights
 ArlecchinoMains
 arma
 army
+AroAllo
 aromantic
 aromanticasexual
 arresteddevelopment
@@ -463,6 +466,7 @@ babyanimals
 BabyBumps
 BabyCorgis
 babyelephantgifs
+babygoats
 babylon5
 Back4Blood
 Backcountry
@@ -978,6 +982,7 @@ Chaser
 cheemsburbgerlore
 Cheese
 Cheetahs
+Chefit
 chefknives
 chelseafc
 chemicalreactiongifs
@@ -1223,6 +1228,7 @@ crtgaming
 CrucibleGuidebook
 CrusadeMemes
 CrusaderKings
+CryptidDogs
 cryptids
 CryptoCurrency
 CryptoCurrencyClassic
@@ -1244,6 +1250,7 @@ CuddlyKitties
 CulinaryPlating
 CultOfTheLamb
 CulturalLayer
+Cuphead
 CuratedTumblr
 curb
 curledfeetsies
@@ -1513,6 +1520,7 @@ dogmemes
 dogpictures
 dogs
 dogs_getting_dogs
+DogsAndPlants
 dogslookingdown
 DogsMirin
 dogswithjobs
@@ -1539,6 +1547,7 @@ DottoreMains
 doughboys
 doughertydozen
 DoveCameron
+DowntonAbbey
 DownvotedToOblivion
 DragaliaLost
 dragonballfighterz
@@ -1569,6 +1578,7 @@ DRSyourGME
 drugmemes
 Drugs
 drugstoreMUA
+drumcorps
 drums
 drumstick
 drunk
@@ -1750,6 +1760,7 @@ falloutnewvegas
 falloutsettlements
 familyguy
 FamousLatinas
+FancyFeet
 FanFiction
 fangies
 FansHansenvsPredator
@@ -1800,6 +1811,7 @@ ffxiv
 FFXIVGlamours
 FFXV
 FFXVI
+fiaustralia
 FierceFlow
 FIFA
 FifaCareers
@@ -2262,6 +2274,7 @@ hearthstonecirclejerk
 HeartstopperAO
 heat
 HeavyFuckingWind
+Heavymind
 HeavySeas
 Hedgehog
 heep
@@ -2951,6 +2964,7 @@ linuxmemes
 Listenbourg
 listentothis
 lithuania
+litrpg
 LittleNightmares
 LittleNuns
 LittleWitchAcademia
@@ -2998,6 +3012,7 @@ LOTRholygrailmemes
 lotrmemes
 lotro
 Louisville
+Louisvuitton
 Lovecraft
 LoveDeathAndRobots
 LoveForLandlords
@@ -3056,6 +3071,8 @@ majonotabitabi
 Makeup101
 MakeupAddiction
 MakeupLounge
+makeuporganization
+makinghiphop
 MalayalamMovies
 malaysia
 malcolminthemiddle
@@ -3311,6 +3328,7 @@ MortalKombat
 Mosses
 MostBeautiful
 moths
+motivation
 MotoDANK
 motogp
 motorboat
@@ -3727,6 +3745,7 @@ Paladins
 Paleontology
 Palestine
 pamibabyy
+pamiOF
 PandR
 panelshow
 panicatthedisco
@@ -4030,6 +4049,7 @@ purrkour
 pussypassdenied
 PutAnEggOnIt
 puzzles
+PvZGardenWarfare
 PvZHeroes
 pykemains
 pyrocynical
@@ -4138,6 +4158,7 @@ RenderedComment
 Reno
 rentnerzeigenaufdinge
 Repaintings
+repbudgetsneakers
 Repsneakers
 reptiles
 RepTime
@@ -4216,6 +4237,7 @@ RTGameCrowd
 rugbyunion
 runescape
 running
+RunningShoeGeeks
 rupaulsdragrace
 rush
 RussiaLago
@@ -4290,6 +4312,7 @@ schnauzers
 school_memes
 science
 ScienceFacts
+sciencefiction
 sciencememes
 ScienceNcoolThings
 sciences
@@ -4552,6 +4575,7 @@ SpaceXMasterrace
 spain
 SpanishHistoryMemes
 SpanishMeme
+SpecArt
 specializedtools
 SpecialSnowflake
 SpeculativeEvolution
@@ -4600,6 +4624,7 @@ SSBM
 sskfjkhwerjkghwerijh
 StableDiffusion
 Stadia
+StainedGlass
 stalker
 standardissuecat
 StandUpComedy
@@ -4723,8 +4748,10 @@ surrealmemes
 survivinginfidelity
 survivor
 sushi
+SushiAbomination
 suspiciouslyspecific
 suspiciousquotes
+sustainability
 svenskpolitik
 sw5e
 SWARJE
@@ -5013,6 +5040,7 @@ ToothpasteBoys
 TopGear
 TopMindsOfReddit
 toradora
+tornado
 Torontobluejays
 TorontoDriving
 torontoraptors
