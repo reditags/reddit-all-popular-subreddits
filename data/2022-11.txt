@@ -139,6 +139,7 @@ AgainstHateSubreddits
 agedlikemilk
 agedlikewine
 agedtattoos
+agender
 ageofsigmar
 aggies
 AHomeForPlagueRats
@@ -570,6 +571,7 @@ bayarea
 Bayonetta
 BBBY
 BBQ
+beadsprites
 beagle
 BeAmazed
 BeamNG
@@ -636,6 +638,7 @@ BigBrother
 BigCatGifs
 bigfloppa
 biggboss
+BigIsland
 BigMouth
 bikecommuting
 bikepacking
@@ -1513,6 +1516,7 @@ dezwo
 DHHMemes
 DHMIS
 diabetes
+diabetes_t1
 Diablo
 diablo2
 Diablo_2_Resurrected
@@ -1770,6 +1774,7 @@ EskiMemes
 espresso
 estoration
 ethereum
+EthereumClassic
 ethfinance
 ethtrader
 EtikaRedditNetwork
@@ -1875,6 +1880,7 @@ Feic
 FellowKids
 FeltGoodComingOut
 FemaleDatingStrategy
+femalehairadvice
 femalelivingspace
 femboy
 femboy_irl
@@ -3271,6 +3277,7 @@ marvelmemes
 MarvelSnap
 MarvelStrikeForce
 Marxism_Memes
+MaryElizabethWinstead
 maryland
 mash
 massachusetts
@@ -3392,6 +3399,7 @@ mildlyinteresting
 mildlysatisfying
 MildlyStartledCats
 mildlyterrifying
+mildlyvagina
 MildlyVandalised
 mildyinfuriating
 mildyinteresting
@@ -3619,6 +3627,7 @@ Netherlands
 netsec
 NettHier
 networkingmemes
+NeutralPolitics
 Neverbrokeabone
 neverchangejapan
 nevertellmetheodds
@@ -3651,6 +3660,7 @@ NFCNorthMemeWar
 NFCWestMemeWar
 nflmemes
 NFT
+NFTExchange
 NFTsMarketplace
 nhl
 Ni_Bondha
@@ -4376,6 +4386,7 @@ reverseanimalrescue
 RheaRipley
 RhodeIsland
 rickandmorty
+rickygervais
 RidiculousRealEstate
 rienabranler
 RighteousGemstones
@@ -4458,6 +4469,7 @@ Sadiesink
 sadposting
 SafelyEndangered
 SafeMoon
+SAGAcomic
 sailing
 sailormoon
 SaimanSays
@@ -4520,6 +4532,7 @@ sciences
 scifi
 SCJerk
 Scoobydoo
+Scotch
 Scotland
 ScottishFootball
 ScottishPeopleTwitter
@@ -4591,6 +4604,7 @@ ShaqHoldingThings
 SharedBPM
 Shark_Park
 sharks
+sharpcutting
 sharpening
 sheffield
 SheGotHands
@@ -4683,6 +4697,7 @@ SigSauer
 silenthill
 silentmoviegifs
 SiliconValleyHBO
+Silksong
 Silmarillionmemes
 Silverbugs
 silverhair
@@ -5189,6 +5204,7 @@ TheTryGuys
 thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
+TheWeeklyRoll
 TheWeeknd
 thewestwing
 TheWire
