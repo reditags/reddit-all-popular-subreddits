@@ -182,6 +182,7 @@ alternativeart
 AlternativeHistory
 AlzheimersGroup
 Alzwards_Corner
+AmanitaMuscaria
 amateurradio
 AmateurRoomPorn
 amazingmemes
@@ -307,6 +308,7 @@ Apandah
 ape
 aPeoplesCalendar
 apexcirclejerk
+ApexConsole
 apexlegends
 ApexLore
 ApexOutlands
@@ -454,6 +456,7 @@ Autos
 AutumnPorn
 Avatar
 AvatarMemes
+avatarprequelmemes
 avatartrading
 Avengers
 AveragePicsOfNZ
@@ -574,6 +577,7 @@ BeautifulIndianWomen
 BeautyGuruChatter
 BeavisAndButthead
 beeandpuppycat
+beebutts
 Beekeeping
 BeelcitosMemes
 beetlejuicing
@@ -604,6 +608,7 @@ bestconspiracymemes
 bestof
 bestoflegaladvice
 BestofRedditorUpdates
+BestOfReports
 bestoftheinternet
 BethesdaSoftworks
 bettafish
@@ -667,6 +672,7 @@ blackcats
 Blackcelebrity
 BlackClover
 BlackCountryNewRoad
+blackdesertonline
 BlackHair
 blacklagoon
 BlackLivesMatter
@@ -1198,6 +1204,7 @@ Cosmere
 cosplayers
 cosplayprops
 Costco
+costumeporn
 cottagecore
 counterstrike
 CountOnceADay
@@ -1605,6 +1612,7 @@ dreamsmp
 DreamWasTaken
 DreamWasTaken2
 DrewDurnil
+DrewGooden
 Drifting
 DrillCats
 Drizzy
@@ -1691,6 +1699,7 @@ EmmaStone
 Emo
 Emoney
 EmpireDidNothingWrong
+EmreMains
 ems
 emulation
 Emuwarflashbacks
@@ -1825,6 +1834,7 @@ fasting
 FastWorkers
 fatestaynight
 FateWinxSaga
+fatherted
 fatpeoplestories
 FatuiHQ
 FCInterMilan
@@ -1906,6 +1916,7 @@ floggit
 flonkers
 Floof
 floofyboop
+Floppa
 florida
 FloridaGators
 FloridaMan
@@ -2191,6 +2202,7 @@ goodomens
 goodyearwelt
 google
 GooglePixel
+GooglyEyes
 gorillaz
 GoRVing
 goth
@@ -2352,6 +2364,7 @@ HighHeels
 HighQualityGifs
 HighQualityReloads
 HighStrangeness
+HikaruNakamura
 HilariaBaldwin
 HIMYM
 hinduism
@@ -2514,6 +2527,7 @@ ImaginaryAngels
 ImaginaryArchitecture
 ImaginaryArmor
 ImaginaryAww
+ImaginaryAzeroth
 ImaginaryBeasts
 ImaginaryBehemoths
 ImaginaryBestOf
@@ -2552,6 +2566,7 @@ ImaginaryNecronomicon
 ImaginaryNobles
 ImaginaryOrcs
 ImaginaryPathways
+ImaginaryRuins
 ImaginaryScholars
 ImaginarySliceOfLife
 ImaginarySoldiers
@@ -2760,6 +2775,7 @@ Jordan_Peterson_Memes
 jordanbeckham_nsfw
 JordanPeterson
 JoshuaWeissman
+joueurdugrenier
 Journaling
 jovemnerd
 jpegmafia
@@ -3751,6 +3767,7 @@ olympics
 Omaha
 OmniscientReader
 OMORI
+Omorimemes
 oneanddone
 onejob
 onejoke
@@ -3868,7 +3885,9 @@ PastAndPresentPics
 Patchuu
 Pathfinder2e
 Pathfinder_Kingmaker
+pathfindermemes
 pathofexile
+PathOfExileBuilds
 PathToNowhere
 PatMcAfeeShowOfficial
 Patriots
@@ -4235,6 +4254,7 @@ reddit
 RedditAndChill
 RedditForGrownups
 RedditLaqueristas
+redditmobile
 redditsings
 redditsync
 RedheadedGoddesses
@@ -4674,6 +4694,7 @@ southcarolina
 Southerncharm
 SovietWomble
 space
+SpaceballsMemes
 SpaceCannibalism
 spaceengineers
 spacefrogs
@@ -4956,6 +4977,7 @@ teentitans
 Tekken
 TempleofMarianne
 Tendies
+tenet
 Tennessee
 Tennesseetitans
 tennis
@@ -5076,6 +5098,7 @@ thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
 TheWeeknd
+thewestwing
 TheWire
 thewitcher3
 TheYardPodcast
@@ -5231,6 +5254,7 @@ trucksim
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
+TrueFilm
 TrueReddit
 trump
 Trumpgret
@@ -5459,6 +5483,7 @@ walmart
 WalmartCelebrities
 WaltDisneyWorld
 WANDAVISION
+wankil
 war
 WarAndPeas
 Warframe
