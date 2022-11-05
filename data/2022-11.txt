@@ -394,6 +394,7 @@ AskThe_Donald
 askTO
 asktransgender
 AskUK
+asl
 Asmongold
 asoiaf
 asoiafcirclejerk
@@ -753,6 +754,7 @@ bookshelf
 Boomerhumour
 BoomersBeingFools
 boottoobig
+borbs
 BorderCollie
 Borderlands2
 borderlands3
@@ -1249,6 +1251,7 @@ creepy
 CreepyArt
 creepyasterisks
 creepydesign
+creepyencounters
 creepypasta
 creepyPMs
 cremposting
@@ -1914,6 +1917,7 @@ FireEmblemThreeHouses
 Firefighting
 firefly
 firefox
+FirePunch
 firstimpression
 FirstTimeHomeBuyer
 firstworldanarchists
@@ -2326,6 +2330,7 @@ Hamilton
 hamiltonmemes
 hamsters
 hanakokun
+HandfulOfKitten
 handholding
 HandOfMemes
 handtools
@@ -2993,6 +2998,7 @@ latvia
 LaurenCohan
 law
 lawncare
+lawofattraction
 LawSchool
 lawschooladmissions
 LazyCats
@@ -3549,6 +3555,7 @@ nathanforyou
 nathanwpyle
 nationalguard
 NationalPark
+NativePlantGardening
 nattyorjuice
 nature
 Natureisbrutal
@@ -4306,6 +4313,7 @@ redneckengineering
 redpandas
 redrising
 Reds
+RedshirtsUnite
 redsox
 redstone
 RedvsBlue
@@ -4505,6 +4513,7 @@ seaporn
 Seattle
 SeattleKraken
 SeattleWA
+secondsketch
 secretcompartments
 securityguards
 see
@@ -4687,6 +4696,7 @@ Slovakia
 Slovenia
 slowcooking
 smalllebowsky
+smallstreetbets
 smashbros
 SmashBrosUltimate
 SmashingPumpkins
@@ -4713,6 +4723,7 @@ socialism
 SocialismIsCapitalism
 SocialistRA
 socialskills
+SofiaVergara
 sofistock
 softwaregore
 solar
@@ -4975,6 +4986,7 @@ tallyhall
 TameImpala
 TamilNadu
 tampa
+Tampere
 tankiejerk
 TankiesAndTankinis
 TankPorn
@@ -5117,6 +5129,7 @@ thelongdark
 TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
+TheMcDojoLife
 TheMemersClub
 TheMonkeysPaw
 THEMONUMENTMYTHOS
@@ -5531,6 +5544,7 @@ WalkableStreets
 walkaway
 wallpaper
 wallstreetbets
+Wallstreetbetsnew
 Wallstreetsilver
 walmart
 WalmartCelebrities
@@ -5594,6 +5608,7 @@ weezer
 weightlifting
 WeightLossAdvice
 Weird
+weirdal
 weirdcore
 weirddalle
 weirdvideosfor3am
@@ -5681,10 +5696,12 @@ wismichu
 Witch
 witcher
 Witcher3
+WitcherMemes
 WitchesVsPatriarchy
 Wizard101
 WKUK
 woahdude
+WojakCompass
 wokekids
 wolves
 WolvesAreBigYo
@@ -5717,6 +5734,7 @@ wotv_ffbe
 WouldYouRather
 wow
 wowthanksimcured
+Wrangler
 Wrasslin
 wrestling
 writers
