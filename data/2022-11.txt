@@ -436,6 +436,7 @@ ATLA
 Atlanta
 AtlantaHawks
 AtlantaTV
+AtlantaUnited
 Atlantology
 AtomicPorn
 atrioc
@@ -619,6 +620,7 @@ belowdeck
 beltalowda
 Ben10
 Bend
+BendyAndTheInkMachine
 benfica
 bengalcats
 bengals
@@ -718,6 +720,7 @@ Blacksmith
 BlackTemplars
 BladeAndSorcery
 bladerunner
+Bladesmith
 BLAHAJ
 blankies
 BlatantMisogyny
@@ -1012,6 +1015,7 @@ CatsPlayingDnd
 CatsStandingUp
 catsvstechnology
 CatsWhoChirp
+catswhocrochet
 CatsWhoSmoke
 CatsWhoSqueak
 Catswhoyell
@@ -1128,6 +1132,7 @@ civilengineering
 Civilization6
 CivVI
 CK2GameOfthrones
+CK3AGOT
 ClashOfClans
 ClashRoyale
 ClassConscienceMemes
@@ -1750,6 +1755,7 @@ ElectricalEngineering
 electricians
 ElectroBOOM
 electronics
+Elephants
 EliteDangerous
 EliteWeebs
 ElizabethOlsen
@@ -2046,6 +2052,7 @@ ForShub
 FORTnITE
 FortNiteBR
 FortniteCompetitive
+FortniteCreative
 FortniteLeaks
 FortniteMemes
 FortWorth
@@ -2065,6 +2072,7 @@ FoxFiction
 foxholegame
 fpv
 fragilecommunism
+FragileMaleRedditor
 FragileWhiteRedditor
 fragrance
 FragReddit
@@ -2082,6 +2090,7 @@ FreeGamesOnSteam
 FreeKarma4You
 freemagic
 freemasonry
+FreeSpeech
 FreeTheRodlets
 FreezingFuckingCold
 Frenchbulldogs
@@ -2135,6 +2144,7 @@ FunnyDogVideos
 Funnymemes
 funnysigns
 funnyvideos
+FurnitureForCats
 furry
 FurryArtSchool
 furrymemes
@@ -2241,6 +2251,7 @@ ghostoftsushima
 GhostRecon
 Ghosts
 ghostswithjobs
+gif
 GifRecipes
 gifs
 gifsthatendtoosoon
@@ -2368,6 +2379,7 @@ Gunpla
 gunpolitics
 GunPorn
 guns
+GuysBeingDudes
 GwenMains
 gwent
 GYM
@@ -2414,6 +2426,7 @@ HappyPitbull
 HappyTrees
 HappyWoofGifs
 Hardcore
+hardcoreaww
 HardcoreNature
 hardstyle
 hardware
@@ -3821,6 +3834,7 @@ Nordichistorymemes
 NorfFc
 norge
 NormMacdonald
+Norse
 NorthCarolina
 northcounty
 northernireland
@@ -5002,6 +5016,7 @@ StarVStheForcesofEvil
 StarWars
 StarWarsAndor
 StarWarsBattlefront
+starwarsblackseries
 StarWarsCantina
 starwarscollecting
 StarWarsEU
