@@ -119,6 +119,7 @@ ADHDinos
 adhdmeme
 ADHDmemes
 AdmiralCloudberg
+AdobeIllustrator
 AdorableDragons
 adorableoldpeople
 AdPorn
@@ -395,6 +396,7 @@ AskMen
 AskMiddleEast
 AskNYC
 AskOuija
+askpublicsafety
 AskReddit
 askscience
 AskScienceFiction
@@ -641,6 +643,8 @@ BetterEveryLoop
 beyonce
 beyondwholesome
 bi_irl
+bicla
+bicycletouring
 bicycling
 BicyclingCirclejerk
 BidenIsNotMyPresident
@@ -1236,6 +1240,7 @@ Cooking
 CoolAmericaFacts
 CoolGadgetsTube
 coolguides
+copaganda
 copypasta
 coral_sharon
 cordcutters
@@ -1812,6 +1817,7 @@ EthereumClassic
 ethfinance
 ethtrader
 EtikaRedditNetwork
+etymology
 eu4
 eu_nvr
 Eugene
@@ -3071,6 +3077,7 @@ landscaping
 languagelearning
 languagelearningjerk
 lansing
+LARP
 LaserCleaningPorn
 LaStalla
 lastimages
@@ -3322,6 +3329,7 @@ MandJTV
 MandyRose
 MangaCollectors
 manhwa
+Manitoba
 ManufacturingPorn
 Maplestory
 mapmaking
@@ -3404,6 +3412,7 @@ meirl
 Melanime
 melbourne
 MelissaBenoist
+MelissaFumero
 meme
 MemeAlleyway
 memecoinmoonshots
@@ -3456,6 +3465,7 @@ MichaelJackson
 MichaelReeves
 Michigan
 MichiganWolverines
+microbiology
 microbork
 microdosing
 microgrowery
@@ -4630,6 +4640,7 @@ school_memes
 science
 ScienceFacts
 sciencefiction
+ScienceHumour
 sciencememes
 ScienceNcoolThings
 sciences
@@ -5840,6 +5851,7 @@ wholesomeromance
 WholesomeSliceOfLife
 wholesomevandalism
 wholesomeviolence
+whoosh
 whoselineisitanyway
 whothefuckup
 WhyWomenLiveLonger
@@ -5882,6 +5894,7 @@ wokekids
 wolves
 WolvesAreBigYo
 womensstreetwear
+wonderdraft
 Woodcarving
 woodworking
 woof_irl
