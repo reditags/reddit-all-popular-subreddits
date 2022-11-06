@@ -941,8 +941,10 @@ CasualConversation
 CasualIreland
 casualknitting
 casualnintendo
+CasualRO
 CasualUK
 cat
+Catan
 CatastrophicFailure
 catbellies
 catbongos
@@ -1749,6 +1751,7 @@ EmpressEvolution
 EmreMains
 ems
 emulation
+EmulationOnAndroid
 Emuwarflashbacks
 EnculerLesVoitures
 ender3
@@ -2404,6 +2407,7 @@ HazbinHotel
 headpats
 headphones
 Health
+Healthygamergg
 hearthstone
 hearthstonecirclejerk
 HeartstopperAO
@@ -2444,6 +2448,7 @@ HildaTheSeries
 HIMYM
 hinduism
 hiphop101
+HipHopImages
 HistoricalCostuming
 history
 HistoryAnimemes
@@ -3742,6 +3747,7 @@ NLBest
 NLSSCircleJerk
 NMSCoordinateExchange
 NoahGetTheBoat
+NoahGetTheDeathStar
 NobodyAsked
 nocontextpics
 Noctor
@@ -3889,6 +3895,7 @@ OldSchoolCool
 OldSchoolRidiculous
 OliveMUA
 olivertree
+oliviadunne
 OliviaMunn
 OliviaRodrigo_
 oliviawilde
@@ -5862,6 +5869,7 @@ writingcirclejerk
 WritingPrompts
 WRX
 WTF
+WTFaucet
 WTFgaragesale
 wtfstockphotos
 WTFwish
