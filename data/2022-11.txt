@@ -572,6 +572,7 @@ bayarea
 Bayonetta
 BBBY
 BBQ
+BeachCity
 beadsprites
 beagle
 BeAmazed
@@ -1061,6 +1062,7 @@ ChineseLanguage
 Chipotle
 Chiraqology
 Chivalry2
+ChloeBennet
 chloegracemoretz
 Choices
 chomsky
@@ -1326,6 +1328,7 @@ CursedGuns
 cursedimages
 cursedmemes
 CursedMinecraft
+CursedTanks
 cursedvideos
 CurseofStrahd
 customhearthstone
@@ -1967,6 +1970,7 @@ florida
 FloridaGators
 FloridaMan
 FlorkofCowsOfficial
+Flyers
 flyfishing
 flying
 fnki
@@ -2321,6 +2325,7 @@ Gunpla
 gunpolitics
 GunPorn
 guns
+GwenMains
 gwent
 GYM
 GymMemes
@@ -3224,6 +3229,7 @@ MadeMeSmile
 Madisonbeer
 MadisonPettis
 madisonwi
+MadisynShipmann
 madlads
 MadMax
 madnesscombat
@@ -3372,6 +3378,7 @@ Metalcore
 metaldetecting
 MetalGearInMyAss
 metalgearrising
+Metallica
 MetalMemes
 metalworking
 Methany
@@ -4577,6 +4584,7 @@ secretcompartments
 securityguards
 see
 SeeYaLaterLosers
+SEGA
 Seiko
 seinfeld
 SeishunButaYarou
@@ -4800,6 +4808,7 @@ SonoBisqueDoll
 SonyAlpha
 sophieturner
 SoulCalibur
+souleater
 SoulKnight
 Soulnexus
 SoundsLikeMusic
@@ -5154,6 +5163,7 @@ TheAdventureZone
 TheAstraMilitarum
 TheBatmanFilm
 TheBear
+TheBeatles
 TheBidenshitshow
 thebindingofisaac
 TheBonfire
@@ -5161,6 +5171,7 @@ TheBoys
 TheBullWins
 TheCapeRevolution
 TheCatTrapIsWorking
+thechallengemtv
 thechurchofpeanut
 TheClickOwO
 TheCloneWars
