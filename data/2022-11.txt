@@ -492,6 +492,7 @@ AZCardinals
 aznidentity
 Azoozkie
 AZURE
+babies
 babushkadogs
 babyanimals
 BabyBumps
@@ -1983,6 +1984,7 @@ FondantHate
 food
 Foodforthought
 foodhacks
+FoodLosAngeles
 FoodPorn
 Foofighters
 football
@@ -2063,6 +2065,7 @@ FrostGiant
 Frugal
 frugalmalefashion
 Fruitbatcats
+fsusports
 ft86
 ftlgame
 fuckcars
@@ -3195,6 +3198,7 @@ LowQualityMemes
 LPOTL
 LSAT
 LSD
+LSUFootball
 LTB_iel
 LubaTv
 LudwigAhgren
@@ -3604,6 +3608,7 @@ nathanforyou
 nathanwpyle
 nationalguard
 NationalPark
+Nationals
 NativePlantGardening
 nattyorjuice
 nature
@@ -3768,6 +3773,7 @@ notmycat
 NotMyJob
 notopbutok
 notreallyfamous
+notredamefootball
 nottheonion
 NotTimAndEric
 nottingham
@@ -3797,6 +3803,7 @@ NYGiants
 nyjets
 NYKnicks
 NYYankees
+OaklandAthletics
 obeyme
 oblivion
 ObsidianMD
@@ -5447,6 +5454,7 @@ ubius
 UCDavis
 UCI
 ucla
+ucr
 UCSC
 UCSD
 udub
