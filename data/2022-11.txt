@@ -375,6 +375,7 @@ army
 AroAllo
 aromantic
 aromanticasexual
+AroundTheNFL
 arresteddevelopment
 Arrowheads
 ArsenalFC
@@ -519,6 +520,7 @@ babyelephantgifs
 babygoats
 babyhippogifs
 babylon5
+BabyYoda
 Back4Blood
 Backcountry
 backrooms
@@ -1050,6 +1052,7 @@ CentralChurch
 centuryhomes
 Ceramics
 CertifiedWriters
+CFA
 CFB
 cfbmemes
 Chadposting
@@ -1245,6 +1248,7 @@ Construction
 consulting
 ContagiousLaughter
 ContestOfChampions
+continuityporn
 ContraPoints
 controlgame
 ConvenientCop
@@ -1618,6 +1622,7 @@ DiWHYNOT
 DIY
 dji
 DMAcademy
+DMDadJokes
 DMT
 DnD
 DnDGreentext
@@ -2200,6 +2205,7 @@ Gamingcirclejerk
 GamingDetails
 GamingLeaksAndRumours
 gamingpc
+gangplankmains
 gangstaswithwaifus
 gangweed
 gank
@@ -3762,6 +3768,7 @@ Nepal
 Nerf
 nervysquervies
 netflix
+NetflixBestOf
 netflixwitcher
 Netherlands
 netsec
@@ -4043,6 +4050,7 @@ OrphanCrushingMachine
 OSHA
 OshiNoKo
 osp
+OSU
 osubuddyretard
 osugame
 othepelican
@@ -4460,6 +4468,7 @@ rareinsults
 rarepuppers
 Rarethreats
 raspberry_pi
+RatchetAndClank
 Ratorix
 RATS
 ravens
@@ -5574,11 +5583,13 @@ tuckedinfishies
 tuckedinkitties
 TuckedInPuppies
 Tucson
+Tufting
 tumblr
 TumblrDraws
 Turkey
 TurkeyJerky
 TurkishCats
+turtleswithjobs
 TuxedoCats
 TVDetails
 TVGRYpl
@@ -5952,6 +5963,7 @@ witcher
 Witcher3
 WitcherMemes
 WitchesVsPatriarchy
+WithoutThePunchline
 Wizard101
 WKUK
 woahdude
