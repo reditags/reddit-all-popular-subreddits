@@ -1104,6 +1104,7 @@ Charlotte
 Chaser
 cheemsburbgerlore
 Cheese
+cheesemaking
 Cheetahs
 Chefit
 chefknives
@@ -2197,6 +2198,7 @@ FrostGiant
 Frugal
 frugalmalefashion
 Fruitbatcats
+FruitsBasket
 fsusports
 ft86
 ftlgame
@@ -2810,6 +2812,7 @@ ImaginaryNecronomicon
 ImaginaryNobles
 ImaginaryOrcs
 ImaginaryPathways
+ImaginaryRobotics
 ImaginaryRuins
 ImaginaryScholars
 ImaginarySliceOfLife
@@ -3411,6 +3414,7 @@ LSD
 LSUFootball
 LTB_iel
 LubaTv
+LucidDreaming
 LudwigAhgren
 luigi_irl
 lululemon
@@ -3834,6 +3838,7 @@ NamFlashbacks
 NamiMains
 NanashiMumei
 NanatsunoTaizai
+nancydrew
 Naruto
 narutomemes
 nasa
@@ -4438,6 +4443,7 @@ policeuk
 politecats
 Political_Revolution
 PoliticalComebacks
+PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
 politics
@@ -5533,6 +5539,7 @@ TheFence
 thefighterandthekid
 TheForest
 TheGirlSurvivalGuide
+TheGlassCannonPodcast
 theGoldenGirls
 TheGoodPlace
 thegrandtour
