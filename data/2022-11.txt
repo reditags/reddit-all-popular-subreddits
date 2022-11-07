@@ -2479,6 +2479,7 @@ hardcoreaww
 HardcoreNature
 hardstyle
 hardware
+hardwaregore
 HarFEET
 Harley
 HarleyQuinn
@@ -3833,6 +3834,7 @@ NewRoryNMalPodcast
 news
 NewsAroundYou
 NewsOfTheStupid
+NewsWithJingjing
 NewVegasMemes
 newworldgame
 newyorkcity
@@ -4082,6 +4084,7 @@ orangecounty
 orangetheory
 orchids
 oregon
+OregonCoast
 OrganizationPorn
 origami
 orioles
@@ -5668,6 +5671,7 @@ TwoXADHD
 TwoXChromosomes
 TwoXIndia
 tylerthecreator
+typography
 Tyranids
 tzuyu
 UBC
@@ -5722,6 +5726,7 @@ UnexpectedTF2
 UnexpectedThanos
 Unextexted
 unionsolidarity
+UniSwap
 unitedkingdom
 unitedstatesofindia
 Unity3D
