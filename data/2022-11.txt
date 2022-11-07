@@ -117,6 +117,7 @@ AdachiToShimamura
 AdamDriverCats
 AddisonRae
 Adelaide
+AdeptusCustodes
 AdeptusMechanicus
 ADHDinos
 adhdmeme
@@ -1656,6 +1657,7 @@ DMAcademy
 DMDadJokes
 DMT
 DnD
+DnDart
 DnDGreentext
 DnDHomebrew
 DnDIY
@@ -2591,6 +2593,7 @@ holdmycatnip
 holdmycosmo
 holdmyfeedingtube
 holdmyfries
+holdmyjuicebox
 HoldMyKibble
 holdmyredbull
 HollowKnight
@@ -2700,6 +2703,7 @@ ididthejobboss
 IdiotsFightingThings
 IdiotsInBoats
 IdiotsInCars
+IdiotsNearlyDying
 IdiotsOnBikes
 Idiotswithguns
 idiotwastingtime
@@ -2784,6 +2788,7 @@ ImaginaryStarships
 ImaginarySteampunk
 ImaginaryTamriel
 ImaginaryTechnology
+ImaginaryUndead
 ImaginaryVehicles
 ImaginaryWarhammer
 ImaginaryWastelands
@@ -2906,6 +2911,7 @@ ironscape
 IrrationalMadness
 Isekai
 Ishowspeed
+IsItBullshit
 islam
 IslamicHistoryMeme
 isopods
@@ -4091,6 +4097,7 @@ oneanddone
 onednd
 onejob
 onejoke
+oneliners
 OneOrangeBraincell
 OnePiece
 OnePunchMan
@@ -4296,6 +4303,7 @@ physicsmemes
 PickleFinancial
 pics
 PicsOfUnusualBirds
+piebaldcats
 pigeon
 Pigifs
 pigs
@@ -4674,6 +4682,7 @@ rodentintercourse
 RodriguesFamilySnark
 RoleReversal
 rolex
+Roll20
 rollercoasterjerk
 rollercoasters
 Rollerskating
