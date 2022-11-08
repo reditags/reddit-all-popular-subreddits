@@ -527,6 +527,7 @@ aznidentity
 Azoozkie
 AZURE
 babies
+BabiesReactingToStuff
 babushkadogs
 Babushkats
 babyanimals
@@ -2616,6 +2617,7 @@ HIMYM
 hinduism
 hiphop101
 HipHopImages
+HistoriaEmPortugues
 HistoricalCostuming
 history
 HistoryAnimemes
@@ -2964,6 +2966,7 @@ IRLEasterEggs
 irlsmurfing
 IronFrontUSA
 ironicsigns
+ironmaiden
 ironmouse
 ironscape
 IrrationalMadness
@@ -3705,6 +3708,7 @@ Minecraft
 Minecraftbuilds
 MinecraftChampionship
 MinecraftCommands
+MinecraftDungeons
 Minecrafthmmm
 MinecraftMemes
 minecraftseeds
@@ -3722,6 +3726,7 @@ minnesotatwins
 minnesotavikings
 miraculousladybug
 miragemains
+mirrorsedge
 Mirrorsforsale
 Misato
 miscatculations
@@ -4312,6 +4317,7 @@ PcBuild
 pcgaming
 pchaltv
 pcmasterrace
+pcmasterraceFR
 pcx99
 PeakyBlinders
 PeanutWhiskers
@@ -4576,6 +4582,7 @@ psx
 psych
 Psychedelics
 psychology
+Psychonaut
 PUBATTLEGROUNDS
 PublicFreakout
 pukicho
@@ -5067,6 +5074,7 @@ shouldercats
 ShouldIbuythisgame
 ShowerOrange
 Showerthoughts
+ShowMeta
 Shrek
 Shrekmemes
 Shrimping
@@ -5619,6 +5627,7 @@ theocho
 theofficememes
 TheOnion
 TheOrville
+theouterworlds
 TheRandomest
 therapists
 TheRatEmpire
@@ -5849,6 +5858,7 @@ TwistedWonderland
 Twitch
 twittermoment
 Twokinds
+twomad
 TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
@@ -5972,6 +5982,7 @@ VaporwaveAesthetics
 VaushV
 vaxxhappened
 vce
+vdm
 Veep
 vegan
 vegancirclejerk
