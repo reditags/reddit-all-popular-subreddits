@@ -1737,6 +1737,7 @@ DogsAndPlants
 dogsenjoyingnature
 dogslookingdown
 DogsMirin
+dogsonroofs
 dogswearinghats
 dogswithjobs
 Dogtraining
@@ -2048,6 +2049,7 @@ feedthememes
 feemagers
 Feic
 FellowKids
+fellowshipofthebib
 FeltGoodComingOut
 FemaleDatingStrategy
 femalehairadvice
@@ -2853,6 +2855,7 @@ ImaginaryJedi
 ImaginaryKanto
 ImaginaryKnights
 ImaginaryLandscapes
+ImaginaryLesbians
 ImaginaryLeviathans
 ImaginaryLovers
 ImaginaryMaids
@@ -5203,6 +5206,7 @@ skyrimmods
 SkyrimPorn
 slammywhammies
 SlavaUkrayini
+slavs_squatting
 slayeasleaked
 slaythespire
 slimerancher
@@ -5992,6 +5996,7 @@ Unexpected
 UnexpectedAvatar
 unexpectedcommunism
 UnexpectedCommunity
+unexpectedfactorial
 unexpectedfuturama
 unexpectedhogwarts
 UnexpectedJoJo
