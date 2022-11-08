@@ -255,6 +255,7 @@ Animal_Sanctuary
 AnimalCrossing
 animalcrossingmeme
 AnimalCrossingNewHor
+animalid
 AnimalsBeingBros
 AnimalsBeingConfused
 AnimalsBeingDerps
@@ -2520,6 +2521,7 @@ hamsters
 hanakokun
 HandfulOfKitten
 handholding
+handmade
 HandOfMemes
 handtools
 Handwriting
@@ -3062,6 +3064,7 @@ Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
 jumpingspiders
+Jung
 Jungle_Mains
 junjiito
 JurassicMemes
@@ -4372,6 +4375,7 @@ pigs
 Pikabu
 Pikmin
 PikminBloomApp
+pinball
 Pineapplebrat
 pinkfloyd
 PinkFloydCircleJerk
@@ -4721,6 +4725,7 @@ RetroFuturism
 retrogaming
 revancedapp
 reverseanimalrescue
+Revolvers
 RheaRipley
 RhodeIsland
 rickandmorty
@@ -5793,6 +5798,7 @@ tuckedinkitties
 TuckedInPuppies
 Tucson
 Tufting
+tulsa
 tumblr
 TumblrDraws
 Turkey
