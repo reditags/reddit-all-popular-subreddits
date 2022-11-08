@@ -1223,6 +1223,7 @@ CloneHero
 clonehigh
 clonewars
 CloneWarsMemes
+Cloud9
 CloudPorn
 CLOUDS
 ClumsyAnimals
@@ -3860,6 +3861,7 @@ mountandblade
 MouseReview
 Movie_Trivia
 MovieDetails
+MovieLeaksAndRumors
 MovieMistakes
 MoviePosterPorn
 movies
@@ -5190,6 +5192,7 @@ SisterWives
 SixtySecondsInAfrica
 Sjokz
 skamtebord
+skaven
 sketches
 skiing
 Skincare_Addiction
@@ -5778,6 +5781,7 @@ timelapse
 TimPool
 Tinder
 tinyanimalsonfingers
+tinyawoos
 Tinycatsinbigspaces
 TinyHouses
 tinyorangekittens
@@ -5924,6 +5928,7 @@ Tufting
 tulsa
 tumblr
 TumblrDraws
+TumblrWrites
 Turkey
 TurkeyJerky
 TurkishCats
@@ -6064,6 +6069,7 @@ ValorantMemes
 ValveIndex
 VampireSurvivors
 vancouver
+VancouverIsland
 vancouverwa
 vandwellers
 VanessaHudgens
