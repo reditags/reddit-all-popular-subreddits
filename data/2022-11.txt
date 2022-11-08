@@ -106,6 +106,7 @@ AchillesAndHisPal
 ACMilan
 acotar
 ACPocketCamp
+ACQR
 acrylicpainting
 acting
 ActionFigures
@@ -1097,6 +1098,7 @@ ChainsawMan
 chairsunderwater
 Challenger
 Championship
+ChantelJeffries
 Chaos40k
 chaoticgood
 characterarcs
@@ -1792,6 +1794,7 @@ dunememes
 dungeondraft
 DungeonsAndDaddies
 DungeonsAndDragons
+DunksNotDead
 duolingo
 dvdcollection
 dwarffortress
@@ -5501,6 +5504,7 @@ tesdcares
 teslainvestorsclub
 TeslaLounge
 TeslaModel3
+TeslaModelY
 teslamotors
 TESOfashion
 Texans
@@ -6327,5 +6331,6 @@ zillakami
 zillowgonewild
 zlibrary
 ZoeyDeutch
+ZombielandSaga
 Zoomies
 zurich
