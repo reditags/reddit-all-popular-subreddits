@@ -903,6 +903,7 @@ btd6
 bts7
 Buddhism
 BudgetAudiophile
+budgetcooking
 budgetfood
 budgies
 Buffalo
@@ -1935,6 +1936,7 @@ EvilDead
 EvilDeadTheGame
 excatholic
 Exercise
+existentialcrisiscat
 exjw
 exmormon
 exmuslim
