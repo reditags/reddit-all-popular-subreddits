@@ -3,6 +3,7 @@
 100gecs
 100Kanojo
 100yearsago
+10yearsatleast
 11foot8
 1200isjerky
 13or30
@@ -550,10 +551,12 @@ backrooms
 BacktotheFuture
 BackYardChickens
 Bad_Cop_No_Donut
+badassanimals
 BadChoicesGoodStories
 badcode
 BadDesigns
 Badfaketexts
+badhistory
 badmathematics
 badMovies
 BadMtgCombos
@@ -2088,6 +2091,7 @@ FilthyFrank
 FinalDestinationShit
 FinalFantasy
 finalfantasytactics
+FinalFantasyVII
 finalfantasyx
 finance
 financialindependence
@@ -3179,6 +3183,7 @@ Kayaking
 KazuhaMains
 kde
 KDRAMA
+KeanuBeingAwesome
 Keep_Track
 KellyBrook
 kelowna
@@ -3342,6 +3347,7 @@ Leeds
 LeedsUnited
 left_urbanism
 LeftistGamersUnion
+LeftTheBurnerOn
 LeftWingMaleAdvocates
 LegalAdviceUK
 legalcatadvice
@@ -5594,6 +5600,7 @@ teenagersnew
 TeenMomOGandTeenMom2
 teentitans
 Tekken
+telecaster
 telescopes
 TempleofMarianne
 Tendies
@@ -5909,6 +5916,7 @@ TrueCrime
 TrueCrimeDiscussion
 TrueDetective
 TrueFilm
+truegaming
 TrueReddit
 trump
 Trumpgret
@@ -6262,6 +6270,7 @@ whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
 whenthe
+whenwomenrefuse
 wheredidthesodago
 WhiskerFireworks
 whiskey
