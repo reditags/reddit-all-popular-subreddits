@@ -1223,6 +1223,7 @@ clonewars
 CloneWarsMemes
 CloudPorn
 CLOUDS
+ClumsyAnimals
 cna
 cobrakai
 cockatiel
@@ -2439,6 +2440,7 @@ goldenknights
 goldenretrievers
 GoldenSun
 golf
+Golf_R
 GolfGTI
 GoNets
 goodanimemes
@@ -2730,6 +2732,7 @@ hoyas
 HPHogwartsMystery
 hrvatska
 httyd
+hudsonvalley
 HUEstation
 hulaween
 HumanBeingBros
@@ -2768,6 +2771,7 @@ iamveryculinary
 iamveryrandom
 iamverysmart
 IASIP
+iastate
 IBEW
 IBO
 ibs
@@ -3246,6 +3250,7 @@ kpics
 kpop
 kpophelp
 kpopthoughts
+kristenstewart
 KristinSmart
 kroger
 KSanteMains
@@ -3321,6 +3326,7 @@ learnpython
 learntodraw
 LearnUselessTalents
 Leathercraft
+leaves
 lebowski
 ledzeppelin
 Leeds
@@ -3399,6 +3405,7 @@ linuxmemes
 Listenbourg
 listentothis
 litecoin
+literaciafinanceira
 lithuania
 litrpg
 LittleNightmares
@@ -4553,6 +4560,7 @@ porterrobinson
 portugal
 PORTUGALCARALHO
 Possums
+postprocessing
 postrock
 POTCmemes
 pottedcats
@@ -4714,6 +4722,7 @@ RatchetAndClank
 Ratorix
 RATS
 ravens
+rawdenim
 RBI
 RCB
 rct
@@ -5225,6 +5234,7 @@ socialism
 SocialismIsCapitalism
 SocialistRA
 socialskills
+SofiaGomez
 SofiaVergara
 sofistock
 softwaregore
@@ -6407,6 +6417,7 @@ YoungRoyals
 YoungThug
 YouniquePresenterMS
 YouOnLifetime
+YourJokeButWorse
 YourRAGE
 yourturntodie
 YouSeeComrade
