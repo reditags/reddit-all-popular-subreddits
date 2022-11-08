@@ -2884,6 +2884,7 @@ IndianMeyMeys
 IndiaNostalgia
 IndianSkincareAddicts
 IndianStockMarket
+IndianStreetBets
 IndianTeenagers
 indiasocial
 IndiaSpeaks
@@ -5408,6 +5409,7 @@ swtor
 SWTOR_memes
 sydney
 SympatheticMonsters
+synthesizercirclejerk
 synthesizers
 sysadmin
 systemofadown
@@ -5418,6 +5420,7 @@ tacticalgear
 TacticalIssueCat
 TacticalUrbanism
 Takagi_san
+talesfromcallcenters
 TalesFromDF
 TalesFromRetail
 talesfromtechsupport
