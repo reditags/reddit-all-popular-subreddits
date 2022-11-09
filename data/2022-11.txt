@@ -3718,6 +3718,7 @@ megaconstrux
 Megadeth
 megalophobia
 Megaman
+megamindmemes
 megane
 MeganFox
 Megaten
@@ -4173,6 +4174,7 @@ NormMacdonald
 Norse
 NorthCarolina
 northcounty
+northdakota
 northernireland
 northernlion
 Norway
@@ -4975,6 +4977,7 @@ RPClipsGTA
 RPDR_UK
 RPDRDRAMA
 rpg
+rpg_gamers
 rpghorrorstories
 rsloshredit
 RTGameCrowd
@@ -5577,6 +5580,7 @@ SuperMegaShow
 SupermodelCats
 SupermodelDogs
 SuperModelIndia
+supermoto
 Supernatural
 supersentai
 Superstonk
@@ -5625,6 +5629,7 @@ tacticalgear
 TacticalIssueCat
 TacticalUrbanism
 Takagi_san
+tales
 talesfromcallcenters
 TalesFromDF
 TalesFromRetail
@@ -6089,6 +6094,7 @@ ukraina
 ukraine
 UkraineConflict
 UkraineInvasionVideos
+UkraineRussiaReport
 UkraineWarVideoReport
 UkrainianConflict
 Ultrakill
