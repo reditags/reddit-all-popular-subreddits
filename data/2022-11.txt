@@ -421,6 +421,7 @@ ask
 AskBalkans
 AskCulinary
 AskDocs
+AskFrance
 AskHistorians
 AskMechanics
 AskMen
@@ -925,6 +926,7 @@ BSCMoonShots
 BSG
 btd6
 bts7
+budapest
 Buddhism
 BudgetAudiophile
 budgetcooking
@@ -2287,6 +2289,7 @@ FuckYouChiChan
 FUCKYOUINPARTICULAR
 FuckYouKaren
 fujifilm
+fujix
 FullmetalAlchemist
 fullpops
 FullScorpion
@@ -2930,6 +2933,7 @@ ImFinnaGoToHell
 ImmaterialScience
 ImmutableX
 Impeach_Trump
+ImperialKnights
 ImpracticalArmour
 ImpracticalJokers
 Impression_Kits
@@ -4106,6 +4110,7 @@ NintendoMemes
 NintendoStitch
 NintendoSwitch
 NintendoSwitchDeals
+Nioh
 Nirvana
 njpw
 NLBest
@@ -4297,6 +4302,7 @@ onejoke
 oneliners
 OneOrangeBraincell
 OnePiece
+oneplus
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
@@ -4359,6 +4365,7 @@ Outlander
 outofcontextcomics
 OutOfTheLoop
 outrun
+outside
 overclocking
 overemployed
 overlord
@@ -6212,6 +6219,7 @@ void_memes
 VoidCake
 VoidCats
 voidpunk
+VolibearMains
 Volksverpetzer
 Volkswagen
 volleyball
