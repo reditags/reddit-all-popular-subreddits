@@ -1987,6 +1987,7 @@ eu4
 eu_nvr
 Eugene
 EUGENIACOONEY
+eulalia
 EulaMains
 euphoria
 EUR_irl
@@ -3540,6 +3541,7 @@ lossofalovedone
 lost
 Lost_Architecture
 lostarkgame
+lostmedia
 lostpause
 lostredditors
 lotr
@@ -5593,6 +5595,7 @@ sunraybee
 suns
 sunset
 Suomi
+SuperAthleteGifs
 superautopets
 Superbowl
 superjueves
