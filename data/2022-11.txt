@@ -1735,6 +1735,7 @@ DiWHY
 DiWHYNOT
 DIY
 diyelectronics
+DIYUK
 dji
 DMAcademy
 DMDadJokes
@@ -1870,6 +1871,7 @@ Earwolf
 EatCheapAndHealthy
 EatCheapAndVegan
 eatsandwiches
+Eberron
 ebikes
 EbonyImagination
 Economics
@@ -3479,6 +3481,7 @@ litecoin
 literaciafinanceira
 lithuania
 litrpg
+LitterboxComics
 LittleNightmares
 LittleNuns
 LittlePeopleBigWorld
@@ -4637,6 +4640,7 @@ PoliticalComebacks
 PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
+PoliticalMemes
 politics
 PoliticsDownUnder
 PoliticsPeopleTwitter
@@ -4983,6 +4987,7 @@ rsloshredit
 RTGameCrowd
 RubeGoldbergFails
 rugbyunion
+RuinedMyDay
 runescape
 running
 RunningShoeGeeks
