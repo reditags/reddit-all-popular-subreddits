@@ -57,6 +57,7 @@
 676
 691
 6thForm
+70sdesign
 7daystodie
 80s
 80sdesign
@@ -569,6 +570,7 @@ backrooms
 BacktotheFuture
 BackYardChickens
 Bad_Cop_No_Donut
+BadAchievements
 badassanimals
 BadChoicesGoodStories
 badcode
@@ -1659,6 +1661,7 @@ DEMONDICE
 DemonSchoolIrumakun
 DemonSlayerAnime
 demonssouls
+Demotivational
 Denmark
 DenseGifs
 Denton
@@ -2330,6 +2333,7 @@ FuckGregAbbott
 fuckHOA
 FuckImOld
 FuckJoshHawley
+fucklawns
 FuckNestle
 FuckPierre
 Fuckt
@@ -3351,6 +3355,7 @@ KnitHacker
 knives
 knolling
 KnowledgeFight
+Knoxville
 KoboldLegion
 Kokomi_Mains
 kolkata
@@ -3547,6 +3552,7 @@ LittleWitchAcademia
 LiveFromNewYork
 LiverpoolFC
 LivestreamFail
+LiveStreamFR
 LivMorgan
 lizgillies
 LMDShow
@@ -5649,6 +5655,7 @@ SUBREDDITNAME
 SubsIFellFor
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
+subsithoughtifellfor
 SubsTakenLiterally
 Suburbanhell
 SubwayCreatures
