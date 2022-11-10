@@ -456,6 +456,7 @@ assettocorsa
 assholedesign
 assholetax
 Assistance
+astoria
 astramilitarum
 astrologymemes
 Astroneer
@@ -1289,6 +1290,7 @@ Columbus
 CombatFootage
 combinedgifs
 comedyamputation
+ComedyArchaeology
 comedybangbang
 ComedyCemetery
 comedydamnation
@@ -1647,6 +1649,7 @@ DenverBroncos
 DenverCirclejerk
 denvernuggets
 DeogieComics
+Depop
 DeppDelusion
 depression_memes
 DerryGirls
@@ -1907,6 +1910,7 @@ elderscrollsonline
 ElectricalEngineering
 electricians
 ElectroBOOM
+electronicmusic
 electronics
 Elephants
 EliteDangerous
@@ -2037,6 +2041,7 @@ Faces
 factorio
 Factoriohno
 Fahrrad
+fail_gifs
 failarmy
 FairytaleasFuck
 FaithLiane
@@ -2124,6 +2129,7 @@ FighterJets
 Fighters
 FightingFakeNews
 fightporn
+FightsGoneWildpt2
 fightsticks
 FigureSkating
 Filmmakers
@@ -2800,6 +2806,7 @@ HUEstation
 hulaween
 HumanBeingBros
 HumanForScale
+Humanoidencounters
 HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
@@ -3549,6 +3556,7 @@ LOTR_on_Prime
 LOTRholygrailmemes
 lotrmemes
 lotro
+Louisiana
 Louisville
 Louisvuitton
 loveafterlockup
@@ -4008,6 +4016,7 @@ NAFO
 nagatoro
 Nahida_Mains
 NailArt
+nailedit
 Nails
 NakeyJakey
 NameNerdCirclejerk
@@ -4072,6 +4081,7 @@ Nepal
 nerdfighters
 Nerf
 nervysquervies
+nes
 netflix
 NetflixBestOf
 netflixwitcher
@@ -4259,6 +4269,7 @@ oceans
 OceansAreFuckingLit
 ockytop
 octopathtraveler
+octopus
 oculus
 OculusQuest
 oddlymesmerizing
@@ -5371,6 +5382,7 @@ SofiaGomez
 SofiaVergara
 sofistock
 softwaregore
+solana
 solar
 solaropposites
 solarpunk
@@ -5389,6 +5401,7 @@ SoulCalibur
 souleater
 SoulKnight
 Soulnexus
+SoundersFC
 SoundsLikeMusic
 soup
 Sourdough
@@ -6356,6 +6369,7 @@ WeatherGifs
 WeatherPorn
 webcomics
 webdev
+webtoons
 wec
 WECcirclejerk
 wedding
