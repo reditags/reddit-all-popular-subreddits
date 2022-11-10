@@ -1371,6 +1371,7 @@ ContraPoints
 controlgame
 Conures
 ConvenientCop
+convenientdoctor
 cookiedecorating
 Cookierun
 CookieRunKingdoms
@@ -1389,6 +1390,7 @@ Cornell
 Coronavirus
 CorporateFacepalm
 Corridor
+Corsair
 Corvette
 Cosmere
 cosplayers
@@ -2844,6 +2846,7 @@ HPHogwartsMystery
 hrvatska
 httyd
 hudsonvalley
+Hue
 HUEstation
 hulaween
 HumanBeingBros
@@ -3565,6 +3568,7 @@ LiveFromNewYork
 LiverpoolFC
 LivestreamFail
 LiveStreamFR
+LivingMas
 LivMorgan
 lizgillies
 LMDShow
@@ -5199,6 +5203,7 @@ scifi
 scihub
 SCJerk
 Scoobydoo
+ScoobyDooMemes
 Scotch
 Scotland
 ScottishFootball
@@ -5324,6 +5329,7 @@ Shittyaskflying
 shittyaskscience
 shittybattlestations
 shittybloodborne
+ShittyCarMod
 shittyeldenring
 shittyfoodporn
 shittygamedetails
@@ -6667,6 +6673,7 @@ YaeMiko
 YagateKiminiNaru
 Yahaha_IRL
 yakuzagames
+YAlit
 yandere
 YAPms
 YarnAddicts
