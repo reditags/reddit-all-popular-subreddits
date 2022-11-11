@@ -537,6 +537,7 @@ avatartrading
 Avengers
 AveragePicsOfNZ
 aves
+avesNYC
 avfc
 aviation
 aviationmaintenance
@@ -2880,6 +2881,7 @@ hotones
 HotPaper
 HotPeppers
 hotsauce
+hottoys
 HotWheels
 houkai3rd
 HouseMD
@@ -6022,6 +6024,7 @@ TheClickOwO
 TheCloneWars
 TheCrownNetflix
 TheCuddlePuddle
+TheDarkTower
 thedavidpakmanshow
 TheDeprogram
 TheDepthsBelow
@@ -6751,6 +6754,7 @@ worldjerking
 worldnews
 worldnewsvideo
 worldofgothic
+worldofpvp
 WorldofTanks
 WorldOfWarships
 WorldWar2
