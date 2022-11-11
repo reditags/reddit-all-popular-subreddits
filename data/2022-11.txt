@@ -1386,6 +1386,7 @@ CoolAmericaFacts
 CoolGadgetsTube
 coolguides
 copaganda
+copenhagen
 copypasta
 coral_sharon
 cordcutters
@@ -2513,6 +2514,7 @@ GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
+ginacarano
 gingercats
 GingerMafia
 Gintama
@@ -3018,6 +3020,7 @@ ImaginaryTamriel
 ImaginaryTechnology
 ImaginaryUndead
 ImaginaryVehicles
+ImaginaryVillages
 ImaginaryWarhammer
 ImaginaryWastelands
 ImaginaryWeaponry
@@ -3702,6 +3705,7 @@ MadeInAbyss
 MadelainePetsch
 MadelynCline
 MadeMeCry
+mademehappycry
 MadeMeSmile
 Madisonbeer
 MadisonPettis
@@ -4078,6 +4082,7 @@ Multicopter
 MultiVersus
 MultiVersusTheGame
 mumbai
+Munich
 MurderBuns
 MurderedByAOC
 MurderedByWords
@@ -4086,6 +4091,7 @@ murdochsucks
 MURICA
 Muse
 MuseumOfCheating
+MuseumOfReddit
 MushroomGrowers
 Mushrooms
 Music
@@ -6321,6 +6327,7 @@ unitedkingdom
 unitedstatesofindia
 Unity2D
 Unity3D
+UniUK
 UniversalOrlando
 unixporn
 unket
