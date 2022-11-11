@@ -586,6 +586,7 @@ BadChoicesGoodStories
 badcode
 BadDesigns
 Badfaketexts
+badfriendspod
 badhistory
 badmathematics
 badMovies
@@ -2795,6 +2796,7 @@ HistoryPorn
 HitBoxPorn
 HiTMAN
 hitmanimals
+HitoriBocchiOfficial
 hmm
 hmmm
 hmmmgifs
@@ -3492,6 +3494,7 @@ lawncare
 lawofattraction
 LawSchool
 lawschooladmissions
+LaylaMains
 LazyCats
 lcfc
 leafs
@@ -4015,6 +4018,7 @@ MobileLegendsGame
 Mobpsycho100
 modeltrains
 Modern_Family
+ModernAncientWarriors
 ModernistArchitecture
 modernwarfare
 modernwarfare2
@@ -5119,6 +5123,7 @@ ROBLOXmemes
 robotics
 Rochester
 rock
+rocketbeans
 RocketLeague
 RocketLeagueEsports
 rockets
@@ -5995,6 +6000,7 @@ TheGlassCannonPodcast
 theGoldenGirls
 TheGoodPlace
 thegrandtour
+TheGreatWarChannel
 TheGriffonsSaddlebag
 TheGrittyPast
 TheHandmaidsTale
@@ -6366,6 +6372,7 @@ unrealengine
 UnresolvedMysteries
 UnsentLetters
 UnsolvedMysteries
+unstirredpaint
 UNSUBSCRIBEpodcast
 untrustworthypoptarts
 unturned
@@ -6479,6 +6486,7 @@ volleyball
 VolleyballGirls
 Volumeeating
 Volvo
+Vonnegut
 VoteBlue
 VoteDEM
 VRchat
