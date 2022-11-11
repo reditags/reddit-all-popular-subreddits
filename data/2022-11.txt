@@ -1774,6 +1774,7 @@ Dislyte
 disney
 DisneyDiamonds
 DisneyEyes
+disneygifs
 Disneyland
 disneyparks
 DisneyPlus
@@ -1786,6 +1787,7 @@ DivinityOriginalSin
 DivorcedBirds
 DiWHY
 DiWHYNOT
+DIwhYthough
 DIY
 diyelectronics
 DIYUK
@@ -2348,6 +2350,7 @@ FrenchMemes
 FreyaAllan
 FridayNightFunkin
 fridaythe13th
+FridgeDetective
 friendlyjordies
 friends_tv_show
 frogs
@@ -3144,6 +3147,7 @@ interstellar
 inthenews
 intj
 IntoTheBreach
+intotheradius
 intotheshadowrealm
 INTP
 introvert
@@ -4248,6 +4252,7 @@ NewRoryNMalPodcast
 news
 NewsAroundYou
 newsbloopers
+NewSkaters
 NewsOfTheStupid
 NewsWithJingjing
 NewVegasMemes
@@ -5497,6 +5502,7 @@ Skookum
 skoolies
 Skullgirls
 SkweezyJibbs
+skyblivion
 SkyGame
 skylanders
 SkyPorn
@@ -6313,6 +6319,7 @@ UCSD
 udub
 ufc
 ufl
+ufo
 UFOs
 uglyduckling
 UIUC
