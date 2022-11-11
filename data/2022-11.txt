@@ -571,6 +571,7 @@ babylon5
 BabyYoda
 Back4Blood
 Backcountry
+BackpackingDogs
 backrooms
 BacktotheFuture
 BackYardChickens
@@ -1754,6 +1755,7 @@ disability
 discgolf
 DiscoElysium
 discord_irl
+DiscordAdvertising
 discordapp
 Discordmemes
 discordVideos
@@ -1905,6 +1907,7 @@ DungeonsAndDragons
 DunksNotDead
 duolingo
 dustkitties
+dutch
 dvdcollection
 dwarffortress
 dyinglight
@@ -2278,6 +2281,7 @@ FormulaE
 forsen
 ForShub
 FORTnITE
+FortniteBattleRoyale
 FortNiteBR
 FortniteCompetitive
 FortniteCreative
@@ -6448,6 +6452,7 @@ VRchat
 VRGaming
 VShojo
 vtm
+vtmb
 vtolvr
 vultureculture
 VuvuzelaIPhone
