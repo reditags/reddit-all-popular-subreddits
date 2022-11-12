@@ -3882,6 +3882,7 @@ MCPE
 me_irl
 me_irlgbt
 MealPrepSunday
+mealtimevideos
 meat
 MeatCanyon
 meatcrayon
@@ -6298,6 +6299,7 @@ TruckerCats
 Truckers
 Trucks
 trucksim
+True_reddit
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
@@ -6872,6 +6874,7 @@ YoungThug
 YouniquePresenterMS
 YouOnLifetime
 YourJokeButWorse
+YourLieinApril
 YourRAGE
 yourturntodie
 YouSeeComrade
