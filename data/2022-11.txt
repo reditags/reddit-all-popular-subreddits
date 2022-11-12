@@ -875,6 +875,7 @@ BookOfBobaFett
 bookporn
 books
 bookshelf
+BoomerangSquad
 Boomerhumour
 BoomersBeingFools
 boottoobig
@@ -1238,6 +1239,7 @@ ChronicIllness
 ChronicPain
 chronotrigger
 ChuckleSandwich
+ChurchofAigis
 ChurchOfCat
 ChurchOfDorothea
 churchoffutaba
@@ -3807,6 +3809,7 @@ MalayalamMovies
 malaysia
 malcolminthemiddle
 malegrooming
+malehairadvice
 malelivingspace
 malepolish
 MaliciousCompliance
@@ -4500,6 +4503,7 @@ okbuddyrintard
 okbuddyvowsh
 okc
 okcopainattard
+okdraugedebile
 okemakkermaloot
 okhavermugbal
 okkamaraderetarde
@@ -4592,6 +4596,7 @@ OstrichPlug
 OSU
 osubuddyretard
 osugame
+OT_Memes
 othepelican
 OTMemes
 otomegames
@@ -5015,6 +5020,7 @@ quityourbullshit
 Qult_Headquarters
 quotes
 QuotesPorn
+r4r
 R6ProLeague
 Rabbits
 Raccoons
@@ -5540,6 +5546,7 @@ SipsTea
 sistersofbattle
 SisterWives
 SISwimsuitGirls
+sixfacedworld
 SixtySecondsInAfrica
 Sjokz
 skamtebord
@@ -5713,6 +5720,7 @@ StableDiffusion
 Stadia
 StainedGlass
 stalker
+StallmanWasRight
 standardissuecat
 Standup
 StandUpComedy
@@ -5918,6 +5926,7 @@ TalesFromYourServer
 talk_hunfluencers
 tall
 tallyhall
+tamamahbapengelli
 TameImpala
 TamilNadu
 tampa
