@@ -3840,6 +3840,7 @@ MangaCollectors
 manhwa
 Manitoba
 MannausSachsen
+ManorLords
 ManufacturingPorn
 Maplestory
 mapmaking
@@ -3912,6 +3913,7 @@ meatcrayon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
+mechwarrior
 Mechwarrior5
 MedicalGore
 Medievalart
@@ -4329,6 +4331,7 @@ NFA
 NFCEastMemeWar
 NFCNorthMemeWar
 NFCWestMemeWar
+nffc
 nflmemes
 nfrealmusic
 NFT
@@ -4916,6 +4919,7 @@ Portal
 porterrobinson
 portugal
 PORTUGALCARALHO
+PORTUGALCYKABLYAT
 Possums
 PostHardcore
 postprocessing
@@ -5708,6 +5712,7 @@ spiders
 Spielstopp
 spikes
 Spiritfarer
+spirituality
 Splatoon_3
 Splintercell
 Splitgate
@@ -5752,6 +5757,7 @@ Standup
 StandUpComedy
 standupshots
 StanleyKubrick
+Star_Trek
 starbound
 starbucks
 starcitizen
