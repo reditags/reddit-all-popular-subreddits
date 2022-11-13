@@ -1743,6 +1743,7 @@ dessert
 DessertPorn
 Destiny
 destiny2
+DestinyChildGlobal
 DestinyFashion
 DestinyLore
 DestinyMemes
@@ -3417,6 +3418,7 @@ karengillan
 karens
 KarmaConspiracy
 KarmaRoulette
+KatanaZero
 KatDennings
 katebeckinsale
 Katemara
@@ -5658,6 +5660,7 @@ smalllebowsky
 smallstreetbets
 smashbros
 SmashBrosUltimate
+smashgifs
 SmashingPumpkins
 smashmemes
 SMG4
