@@ -213,6 +213,7 @@ aliens
 alinity
 AlisonBrie
 AllCryptoBets
+AllTomorrows
 altdogelore
 AlternateAngles
 AlternateHistory
@@ -1097,6 +1098,7 @@ CasualRO
 CasualUK
 cat
 cataclysmdda
+catalunya
 Catan
 CatastrophicFailure
 catbellies
@@ -1427,6 +1429,7 @@ corgibutts
 cork
 Cornell
 Coronavirus
+CoronavirusDownunder
 CorporateFacepalm
 Corridor
 Corsair
@@ -3457,6 +3460,7 @@ kfeets
 KGATLW
 KGBTR
 khajiithaswares
+KhopdiTodSaaleKi
 Kibbe
 KidCudi
 KidsAreFuckingEvil
@@ -3532,6 +3536,7 @@ KSanteMains
 ksi
 KSPMemes
 kubernetes
+KujouSaraMains
 KukiShinobuMains
 KumoDesu
 kurtisconner
@@ -3798,6 +3803,7 @@ lupinthe3rd
 LushCosmetics
 Lustig
 Luthier
+Luxembourg
 LV426
 LWIAY
 LycorisRecoil
