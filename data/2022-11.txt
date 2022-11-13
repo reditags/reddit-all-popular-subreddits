@@ -776,6 +776,7 @@ Birbs
 birding
 birds
 BirdsArentReal
+Birdsfacingforward
 BirdsForScale
 birdstakingthetrain
 birdswitharms
@@ -2717,6 +2718,7 @@ Gunpla
 gunpolitics
 GunPorn
 guns
+Guns_Guns_Guns
 gurrenlagann
 GuysBeingDudes
 GwenMains
@@ -3546,6 +3548,7 @@ Lalisa
 laminarflow
 lanadelrey
 LancerRPG
+LandCruisers
 LandlordLove
 LandoftheLustrous
 landscaping
