@@ -933,6 +933,7 @@ Bozeman
 BPD
 BPDmemes
 brakebills
+BrandNewAnimal
 BrandNewSentence
 brandonherrara
 brandonsanderson
@@ -1692,6 +1693,7 @@ deadmalls
 deadmeatjames
 DeadSpace
 deathbattle
+DeathBattleMatchups
 DeathByMillennial
 Deathcore
 deathgrips
@@ -4680,6 +4682,7 @@ OooBigStretch
 oopsotherhand
 OopsThatsDeadly
 OOTP
+OPBR
 opensea
 opensource
 openttd
