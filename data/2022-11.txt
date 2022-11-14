@@ -532,6 +532,7 @@ AusRenovation
 AussieCasual
 australia
 AustralianCattleDog
+AustralianMilitary
 AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
@@ -1225,6 +1226,7 @@ Charcuterie
 Chargers
 charlixcx
 Charlotte
+Charlottesville
 Chaser
 Chattanooga
 cheemsburbgerlore
@@ -3799,6 +3801,7 @@ LooneyTunesLogic
 loopringorg
 lorde
 lordoftherings
+Lore_Olympus
 loreofleague
 losangeleskings
 LosAngelesRams
