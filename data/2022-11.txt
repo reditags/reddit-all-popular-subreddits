@@ -2592,6 +2592,7 @@ gamegrumps
 gameofthrones
 GamePhysics
 gamernews
+GamersBeingBros
 GamerSupremeRace
 GameStop
 GameTheorists
@@ -6918,6 +6919,7 @@ VoteBlue
 VoteDEM
 VRchat
 VRGaming
+VRtoER
 VShojo
 vtm
 vtmb
@@ -7174,6 +7176,7 @@ WTFwish
 WutheringWaves
 ww2
 ww2memes
+ww3memes
 WWE
 WWEGames
 WWII
