@@ -293,6 +293,7 @@ AnimalCrossing
 animalcrossingmeme
 AnimalCrossingNewHor
 animalid
+AnimalsBeingAnimals
 AnimalsBeingBros
 AnimalsBeingConfused
 AnimalsBeingDerps
@@ -384,6 +385,7 @@ ApexConsole
 apexlegends
 ApexLore
 ApexOutlands
+Apexrollouts
 ApexUncovered
 apexuniversity
 aphextwin
@@ -631,6 +633,7 @@ bakchodi
 bakeoff
 Baking
 bald
+baldursgate
 BaldursGate3
 balkans_irl
 ballpython
@@ -1425,6 +1428,7 @@ CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
 composting
+computers
 computerscience
 conan
 ConanBeingAwesome
@@ -1682,6 +1686,7 @@ DarkBRANDON
 darkestdungeon
 DarkGothicArt
 Darkhumorandjokes
+darknetdiaries
 DarkSouls2
 darksoulsmemes
 darkstockphotos
