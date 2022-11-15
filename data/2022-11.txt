@@ -15,6 +15,7 @@
 19684
 197
 198
+199
 2007scape
 2137
 21stCenturyHumour
@@ -2206,6 +2207,7 @@ exocomics
 ExpandDong
 ExpectationVsReality
 ExperiencedDevs
+explainitpeter
 explainlikeimfive
 ExposurePorn
 ExtinctionRebellion
@@ -3553,6 +3555,7 @@ kde
 KDRAMA
 KeanuBeingAwesome
 Keep_Track
+KeiraKnightley
 KellyBrook
 kelowna
 keming
@@ -3721,6 +3724,7 @@ leanfire
 LearmannTwins
 learndota2
 learndutch
+learnfrench
 learningtocat
 LearnJapanese
 learnmachinelearning
@@ -5440,6 +5444,7 @@ ROBLOXmemes
 robotics
 Rochester
 rock
+Rockband
 rocketbeans
 RocketLeague
 RocketLeagueEsports
@@ -5898,6 +5903,7 @@ SomeOrdinaryGmrs
 somewhereithappened
 SommerRay
 somnivexillology
+sonamains
 sonarears
 SonicTheHedgehog
 SonoBisqueDoll
@@ -6865,6 +6871,7 @@ vintagejapaneseautos
 VintageLadyBoners
 vinyl
 vinyljerk
+VinylReleases
 VioletEvergarden
 ViralFun
 Virginia
@@ -7161,6 +7168,7 @@ XboxGamePass
 xboxone
 XboxSeriesX
 Xcom
+Xennials
 Xenoblade_Chronicles
 XFiles
 xfl
