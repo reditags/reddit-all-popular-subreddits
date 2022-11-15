@@ -951,6 +951,7 @@ Bozeman
 BPD
 BPDmemes
 brakebills
+brandnew
 BrandNewAnimal
 BrandNewSentence
 brandonherrara
@@ -2355,6 +2356,7 @@ FixedGearBicycle
 FixedPoliticalMemes
 FixMyPrint
 FL_Studio
+Flagstaff
 Flamepoints
 flashlight
 FlashTV
@@ -5045,6 +5047,7 @@ PokeMedia
 pokememes
 pokemon
 pokemonanime
+PokemonArceus
 Pokemonart
 PokemonBDSP
 pokemongo
