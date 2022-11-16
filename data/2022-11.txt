@@ -1603,6 +1603,7 @@ CryptoMoonShots
 cryptostreetbets
 Cryptozoology
 Crystals
+csbundestag
 cscareerquestions
 cscareerquestionsEU
 csgo
@@ -5106,6 +5107,7 @@ Pixiv
 Pizza
 PizzaCrimes
 PKA
+PlanetCoaster
 Planetside
 PlanetZoo
 PlanningMemes
@@ -6269,6 +6271,7 @@ sweden
 swedishproblems
 SWGalaxyOfHeroes
 SwiftieMerch
+Switch
 Switzerland
 SwitzerlandIsFake
 SWlegion
@@ -6731,6 +6734,7 @@ TrueDetective
 TrueFilm
 truegaming
 TrueReddit
+TrueUnpopularOpinion
 trump
 Trumpgret
 Trumpvirus
@@ -7301,6 +7305,7 @@ YarnAddicts
 YarnPunk
 YasmineNigiotti
 yayfoxxo
+yeat_
 yeezys
 Yeji
 YelanMains
