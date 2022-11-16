@@ -283,6 +283,7 @@ anchorage
 AncientCivilizations
 AncientCoins
 ancientegypt
+Ancientknowledge
 ancientrome
 andor
 Androgynoushotties
@@ -2366,6 +2367,7 @@ financialindependence
 Finanzen
 findfashion
 FindTheSniper
+Fingerboards
 FingMemes
 Finland
 Fire
@@ -5273,6 +5275,7 @@ PS4
 PS5
 psg
 PSLF
+PSO2
 PSP
 PSVR
 psx
