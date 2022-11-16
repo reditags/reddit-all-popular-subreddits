@@ -3375,6 +3375,7 @@ ipod
 iRacing
 IranRevolutionReport
 ireland
+IreliaMains
 irezumi
 IRLEasterEggs
 irlsmurfing
@@ -5354,6 +5355,7 @@ Re_Zero
 reactiongifs
 reactionpics
 reactjs
+reactnative
 readanotherbook
 ReadyOrNotGame
 ReadyToStudy
@@ -5587,6 +5589,7 @@ sandyalexg
 sanepolitics
 sanfrancisco
 SanJose
+SanJoseSharks
 sanrio
 santacruz
 SAOAbridged
