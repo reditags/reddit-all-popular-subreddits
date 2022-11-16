@@ -2759,6 +2759,7 @@ GODZILLA
 Gold
 GoldenAgeMinecraft
 Goldendoodles
+GoldenKamuy
 goldenknights
 goldenretrievers
 GoldenSun
@@ -5571,6 +5572,7 @@ RussiaLago
 russian
 RussiaUkraineWar2022
 rustjerk
+rustyrails
 rutgers
 rva
 RVLiving
@@ -5777,6 +5779,7 @@ ShenheMains
 sheranetflix
 Sherlock
 ShermanPosting
+SHFiguarts
 shiba
 SHIBADULTS
 SHIBArmy
@@ -6288,6 +6291,7 @@ Tacoma
 tacticalgear
 TacticalIssueCat
 TacticalUrbanism
+Tactics_Ogre
 Takagi_san
 TakaMori
 tales
@@ -7265,6 +7269,7 @@ wyoming
 xayahmains
 xbiking
 xbox
+xbox360
 XboxGamePass
 xboxone
 XboxSeriesX
