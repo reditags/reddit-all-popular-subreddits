@@ -815,6 +815,7 @@ Bioshock
 bipolar
 BipolarMemes
 Birates
+birb
 Birbs
 birding
 birds
@@ -3401,6 +3402,7 @@ Ishowspeed
 IsItBullshit
 islam
 IslamicHistoryMeme
+ISO8601
 isopods
 Israel
 israelexposed
@@ -3938,6 +3940,7 @@ LoveIsBlindJapan
 LoveIsBlindOnNetflix
 LoveIslandTV
 LoveIslandUSA
+lovejoyband
 LoveLive
 LoveNikki
 low_poly
@@ -4375,6 +4378,7 @@ MoviePosterPorn
 movies
 Moviesinthemaking
 mrballen
+MrBeast
 mrgirlreturns
 mrlovenstein
 MrRobot
@@ -4810,6 +4814,7 @@ onejoke
 oneliners
 OneOrangeBraincell
 OnePiece
+OnePieceTC
 oneplus
 OnePunchMan
 OneSecondBeforeDisast
@@ -4950,6 +4955,7 @@ PastorArrested
 Patchuu
 Pathfinder2e
 Pathfinder_Kingmaker
+Pathfinder_RPG
 pathfindermemes
 pathofexile
 PathOfExileBuilds
@@ -5470,6 +5476,7 @@ RheaRipley
 rhettandlink
 RhodeIsland
 rickandmorty
+rickroll
 rickygervais
 RidiculousRealEstate
 rienabranler
@@ -5760,6 +5767,7 @@ sheranetflix
 Sherlock
 ShermanPosting
 shiba
+SHIBADULTS
 SHIBArmy
 shid_and_camed
 shield
@@ -5775,6 +5783,7 @@ shitcoinmoonshots
 ShitCrusaderKingsSay
 shitduolingosays
 shitfascistssay
+shitguncontrollerssay
 ShitKonfaSays
 ShitLiberalsSay
 ShitLibSafari
@@ -6995,6 +7004,7 @@ Wallstreetsilver
 walmart
 WalmartCelebrities
 WaltDisneyWorld
+Waluigi
 WANDAVISION
 wankil
 war
