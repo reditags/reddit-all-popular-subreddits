@@ -3284,6 +3284,7 @@ ImaginaryNecronomicon
 ImaginaryNobles
 ImaginaryOrcs
 ImaginaryPathways
+ImaginaryPortals
 ImaginaryRobotics
 ImaginaryRuins
 ImaginaryScholars
@@ -3303,6 +3304,7 @@ ImaginaryWastelands
 ImaginaryWeaponry
 ImaginaryWeather
 ImaginaryWesteros
+ImaginaryWildlands
 ImaginaryWitcher
 ImaginaryWitches
 ImaginaryWizards
@@ -6023,6 +6025,7 @@ sneakerreps
 SneakyAnimals
 Sneks
 snes
+SNKRS
 snowboarding
 snowing
 snowrunner
@@ -7429,6 +7432,7 @@ ZeldaIsCute
 ZeLink
 Zendaya
 Zentreya
+ZeroEscape
 ZeroWaste
 ZhongliMains
 ZileanMains
