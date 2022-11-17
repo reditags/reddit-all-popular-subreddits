@@ -97,6 +97,7 @@ AbsoluteWeapons
 AbstractArt
 ac_newhorizons
 ACAB
+AcademicBiblical
 Acceleracers
 AccidentalAlly
 AccidentalArtGallery
@@ -2121,6 +2122,7 @@ EDH
 Edinburgh
 EDM
 Edmonton
+edmproduction
 educationalgifs
 Eesti
 egg_irl
@@ -3608,6 +3610,7 @@ Justrolledintotheshop
 JustUnsubbed
 Juve
 k_on
+kadena
 KaeyaMains
 KaguyaShinomiya
 kaisamains
@@ -7211,6 +7214,7 @@ WhiteHouseDinners
 whiteknighting
 whitepeoplegifs
 WhitePeopleTwitter
+WhiteRooms
 whitesox
 WhiteWolfRPG
 wholesome
@@ -7332,6 +7336,7 @@ WTFaucet
 WTFgaragesale
 wtfstockphotos
 WTFwish
+WtWFotMJaJtRAtCaB
 WutheringWaves
 ww2
 ww2memes
@@ -7398,6 +7403,7 @@ Yotsubros
 YouBelongWithMemes
 youdontmattergiveup
 youdontsurf
+YouFellForItFool
 YoujoSenki
 youngjustice
 youngpeoplereddit
