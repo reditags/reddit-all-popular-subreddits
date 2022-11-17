@@ -63,6 +63,7 @@
 6thForm
 70sdesign
 7daystodie
+7vsWild
 80s
 80sdesign
 80sfastfood
@@ -102,6 +103,7 @@ AccidentalArtGallery
 AccidentalCamouflage
 AccidentalComedy
 AccidentalGreenhouses
+AccidentalKubrick
 accidentallycommunist
 accidentallyliberian
 AccidentalRacism
@@ -1154,6 +1156,7 @@ CartoonGangsters
 CartoonMoment
 cartoons
 casio
+cassetteculture
 cassettefuturism
 castiron
 castles
@@ -1459,6 +1462,7 @@ CompetitiveApex
 CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
+CompetitiveWoW
 composting
 computers
 computerscience
@@ -5378,6 +5382,7 @@ RachelMcAdams
 radiohead
 radioheadcirclejerk
 Radiology
+RaftTheGame
 ragdolls
 rage
 RaidenMains
@@ -7031,6 +7036,7 @@ virginvschad
 virtualreality
 Visiblemending
 vita
+VitaPiracy
 Vivy
 vizsla
 VocabWordOfTheDay
