@@ -2,6 +2,7 @@
 1000lbsisters
 100gecs
 100Kanojo
+100thieves
 100yearsago
 10yearsatleast
 11foot8
@@ -2139,6 +2140,7 @@ ekinde
 Eldar
 EldenBling
 Eldenring
+eldercactus
 ElderKings
 ElderScrolls
 elderscrollsonline
@@ -3776,6 +3778,7 @@ LAFC
 lagoloaf
 laidbackcamp
 Lain
+LakeErieBros
 LakeLaogai
 lakers
 LaLiga
@@ -5728,6 +5731,7 @@ SAVEBRENDAN
 savedyouaclick
 SaveThePostalService
 saw
+SBCGaming
 sbeve
 sbubby_NL
 scambait
@@ -7321,6 +7325,7 @@ worldofpvp
 WorldofTanks
 WorldOfWarships
 WorldWar2
+worldwatch
 WormMemes
 WorshipMiafitz
 wortwitzkasse
