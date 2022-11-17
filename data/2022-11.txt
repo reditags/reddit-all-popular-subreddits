@@ -668,6 +668,7 @@ BarBattlestations
 Barber
 Barcelona
 bardmains
+barista
 barkour
 Barotrauma
 barrie
@@ -703,6 +704,7 @@ battlewagon
 batty
 bavaria
 bayarea
+BayleyBooty
 Bayonetta
 BBBY
 BBQ
@@ -1270,6 +1272,7 @@ Chargers
 charlixcx
 Charlotte
 Charlottesville
+CharteredAccountants
 Chaser
 chats
 Chattanooga
@@ -1715,6 +1718,7 @@ darkestdungeon
 DarkGothicArt
 Darkhumorandjokes
 darknetdiaries
+DarkPicturesAnthology
 DarkSouls2
 darksoulsmemes
 darkstockphotos
@@ -2240,6 +2244,7 @@ ExpectationVsReality
 ExperiencedDevs
 explainitpeter
 explainlikeimfive
+ExplosionsAndFire
 ExposurePorn
 ExtinctionRebellion
 ExtraFabulousComics
@@ -3090,6 +3095,7 @@ hotsauce
 hottoys
 HotWheels
 houkai3rd
+HouseFlipper
 HouseMD
 HouseOfTheDragon
 houseplants
@@ -3420,6 +3426,7 @@ IsaacArthur
 Isekai
 Ishowspeed
 IsItBullshit
+ISKbets
 islam
 IslamicHistoryMeme
 ISO8601
@@ -4443,6 +4450,7 @@ Mushrooms
 Music
 musicaljenga
 MusicBattlestations
+musictheory
 Mustang
 mwo
 MxRMods
