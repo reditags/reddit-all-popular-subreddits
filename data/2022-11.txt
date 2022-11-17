@@ -648,6 +648,7 @@ Baking
 bald
 baldursgate
 BaldursGate3
+balisong
 balkans_irl
 ballpython
 BalticStates
@@ -742,6 +743,7 @@ BeginnerWoodWorking
 behindthebastards
 behindthegifs
 beholdthemasterrace
+BeidouMains
 belarus
 BelgianMalinois
 belgium
@@ -5395,6 +5397,7 @@ rally
 ralsei
 ramen
 Rammstein
+Ranboo
 rance
 rance_iel
 randomactsofmusic
