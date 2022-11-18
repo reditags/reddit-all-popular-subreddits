@@ -708,6 +708,7 @@ BattlefieldV
 BattleJackets
 battlemaps
 BattleNetwork
+BattlePaintings
 battles2
 battlestations
 battletech
@@ -1247,6 +1248,7 @@ Catswithjobs
 CatsWithSocks
 CatTaps
 CatTrap
+cattwitter
 CatWasHere
 Cawwsplay
 CBSE
@@ -1983,6 +1985,7 @@ doctorwho
 DoctorWhumour
 Documentaries
 DocumentedFights
+doener
 DOG
 DogAdvice
 Dogberg
@@ -2404,6 +2407,7 @@ fightporn
 FightsGoneWildpt2
 fightsticks
 FigureSkating
+filecoin
 filipinofood
 Filmmakers
 FilthyFrank
@@ -2473,6 +2477,7 @@ FloridaGators
 FloridaMan
 FlorkofCowsOfficial
 FluentInFinance
+Flume
 Flyers
 flyfishing
 flying
@@ -3167,6 +3172,7 @@ hulaween
 HumanBeingBros
 HumanForScale
 Humanoidencounters
+HumanPorn
 HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
@@ -4055,6 +4061,7 @@ lululemon
 Lumine_Mains
 LumineMains
 Lumity
+LunaClassic
 lupinthe3rd
 LushCosmetics
 Lustig
@@ -4224,6 +4231,7 @@ MechanicalKeyboards
 mechwarrior
 Mechwarrior5
 MedicalGore
+MedicalMeme
 Medievalart
 MedievalCats
 MedievalHistoryMemes
@@ -4685,6 +4693,7 @@ NightInTheWoods
 nightvale
 NightVision
 Nightwing
+nightwish
 nihilism
 Nijisanji
 NikkeMobile
@@ -5608,6 +5617,7 @@ rimesegate
 rimjob_steve
 Rimuru
 RimWorld
+RimWorldPorn
 Rings_Of_Power
 RingsofPower
 RioGrandeValley
@@ -6510,6 +6520,7 @@ TeosGame
 TerminallyStupid
 TerrainBuilding
 TerraInvicta
+terraluna
 Terraria
 TerrariaDesign
 TerrariaMemes
