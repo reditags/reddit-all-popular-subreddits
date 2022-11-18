@@ -5626,6 +5626,7 @@ RetroFuturism
 retrogaming
 revancedapp
 reverseanimalrescue
+ReversePinterest
 Revolvers
 RheaRipley
 rhettandlink
@@ -6403,6 +6404,7 @@ SuperModelIndia
 supermoto
 Supernatural
 supersentai
+supersmashbros
 Superstonk
 superstore
 SuperStructures
@@ -6679,6 +6681,7 @@ theouterworlds
 TheoVon
 ThePalaceOfMiruko
 TheRandomest
+Theranos
 therapists
 TheRatEmpire
 TheRealJoke
