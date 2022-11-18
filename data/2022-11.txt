@@ -5062,6 +5062,7 @@ pcx99
 PeacemakerShow
 PeakyBlinders
 PeanutWhiskers
+pearljam
 PeepingPooch
 peloton
 pelotoncycle
@@ -5785,6 +5786,7 @@ SCP
 SCPMemes
 SCPSecretLab
 Scream
+Screenwriting
 scriptedasiangifs
 Scrubs
 scrungycats
@@ -6887,6 +6889,7 @@ UBC
 UberEATS
 Ubiquiti
 ubius
+UBreddit
 UCDavis
 ucf
 UCI
@@ -7113,6 +7116,7 @@ vultureculture
 VuvuzelaIPhone
 WackyTicTacs
 Wales
+WalgreensStores
 walkablecities
 WalkableStreets
 walkaway
@@ -7285,6 +7289,7 @@ windows
 Windows10
 Windows11
 wine
+Wings
 WingsOfFire
 winnipegjets
 WinStupidPrizes
