@@ -5064,6 +5064,7 @@ PeakyBlinders
 PeanutWhiskers
 pearljam
 PeepingPooch
+pelletgrills
 peloton
 pelotoncycle
 penguin
@@ -6094,6 +6095,7 @@ soulcrushingjuice
 souleater
 SoulKnight
 Soulnexus
+SoulsSliders
 SoundersFC
 SoundsLikeMusic
 soup
@@ -6955,6 +6957,7 @@ UnexpectedSCP
 unexpectedskyrim
 UnexpectedTF2
 UnexpectedThanos
+unexpectedute
 Unextexted
 union
 UnionizeTesla
