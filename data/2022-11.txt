@@ -312,6 +312,7 @@ AnimalsBeingConfused
 AnimalsBeingDerps
 AnimalsBeingGeniuses
 AnimalsBeingJerks
+AnimalsBeingLoveable
 AnimalsBeingMoms
 AnimalsBeingSleepy
 AnimalsBeingStrange
@@ -4689,6 +4690,7 @@ NinjaSexParty
 NinomaeInanis
 nintendo
 NintendoMemes
+NintendoPH
 NintendoStitch
 NintendoSwitch
 NintendoSwitchDeals
