@@ -292,6 +292,7 @@ AncientCoins
 ancientegypt
 Ancientknowledge
 ancientrome
+ancientshitposts
 andor
 Androgynoushotties
 Android
@@ -3433,6 +3434,7 @@ insanepeoplefacebook
 InsanePeopleQuora
 InsaneProtestors
 insanereality
+InsaneVideo
 inscryption
 insects
 InsideJob
@@ -6135,6 +6137,7 @@ snowing
 snowrunner
 SNSD
 soapmaking
+socalhiking
 soccercirclejerk
 socialanxiety
 socialism
