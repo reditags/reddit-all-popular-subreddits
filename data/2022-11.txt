@@ -648,6 +648,7 @@ BadDesigns
 Badfaketexts
 badfriendspod
 badhistory
+badlinguistics
 badmathematics
 badMovies
 BadMtgCombos
@@ -1237,6 +1238,7 @@ CatsLivingAndWell
 CatSmiles
 Catsmirin
 CatsNamedToothless
+catsofrph
 CatsOnCats
 catsonglass
 CatsOnKeyboards
@@ -2082,6 +2084,7 @@ Drifting
 dril
 DrillCats
 Drizzy
+DrMartens
 drones
 DrStone
 DRSyourGME
@@ -3502,6 +3505,7 @@ ironicsigns
 ironmaiden
 ironmouse
 ironscape
+IronWarriors
 IrrationalMadness
 IsaacArthur
 Isekai
@@ -5713,6 +5717,7 @@ Rotterdam
 Rottweiler
 RoughRomanMemes
 RoundAnimals
+roundtablefate
 Rowing
 RPClipsGTA
 RPDR_UK
