@@ -1414,6 +1414,7 @@ ClassConscienceMemes
 ClassicalMemes
 classicalmusic
 classiccars
+ClassicRock
 classicsoccer
 classicwow
 ClassPoliticsTwitter
@@ -2671,6 +2672,7 @@ funkopop
 funny
 FunnyandSad
 FunnyAnimals
+FunnyAtheistMemes
 FunnyDogVideos
 Funnymemes
 funnysigns
@@ -5088,6 +5090,7 @@ outrun
 outside
 overclocking
 overemployed
+overlanding
 overlord
 OverSimplified
 overthegardenwall
@@ -7082,6 +7085,7 @@ Ultrakill
 Ultralight
 ultralight_jerk
 Ultraman
+ultrarunning
 ultrawidemasterrace
 UmbrellaAcademy
 UMD
