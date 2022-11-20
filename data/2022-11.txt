@@ -2520,6 +2520,7 @@ floggit
 flonkers
 Floof
 floofyboop
+floorplan
 Floppa
 florida
 FloridaGators
@@ -5016,6 +5017,7 @@ okpolarncp
 okprietenretardat
 Old_Recipes
 oldbabies
+oldfreefolk
 Oldhouses
 OldLadiesBakingPies
 OldManDog
@@ -7503,6 +7505,7 @@ WhyWomenLiveLonger
 Wicca
 wien
 WiggleButts
+wii
 wiiu
 wikipedia
 wildbeef
