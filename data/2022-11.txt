@@ -498,6 +498,7 @@ AskCulinary
 AskDocs
 AskFrance
 AskHistorians
+asklatinamerica
 AskMechanics
 AskMen
 AskMiddleEast
@@ -593,6 +594,7 @@ AutisticWithADHD
 autobloed
 AutoDetailing
 Autoflowers
+AutomatiCautionDoor
 Autos
 AutumnPorn
 AvakinOfficial
@@ -2118,6 +2120,7 @@ drugmemes
 Drugs
 drugstoreMUA
 drumcorps
+Drumming
 drums
 drumstick
 drunk
@@ -2590,6 +2593,7 @@ fountainpens
 fourthwavewomen
 FoxBrain
 foxes
+foxfanclub
 FoxFiction
 foxholegame
 fpv
