@@ -1492,6 +1492,7 @@ Colombia
 Colorado
 ColoradoAvalanche
 ColoradoSprings
+ColorCafe
 Colorization
 ColorizedHistory
 Colts
@@ -6783,6 +6784,7 @@ theadamfriedlandshow
 TheAdventureZone
 TheArcana
 TheAstraMilitarum
+thebadbatch
 TheBatmanFilm
 TheBear
 TheBeatles
