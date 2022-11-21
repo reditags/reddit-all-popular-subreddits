@@ -865,6 +865,7 @@ Birates
 birb
 Birbs
 birding
+BirdLoaf
 birds
 BirdsArentReal
 Birdsfacingforward
@@ -2215,6 +2216,7 @@ ElderKings
 ElderScrolls
 elderscrollsonline
 ElectricalEngineering
+electricdaisycarnival
 electricians
 ElectroBOOM
 electronicmusic
@@ -3555,6 +3557,7 @@ Invisalign
 ios
 iOSBeta
 iosgaming
+Iota
 Iowa
 ipad
 iphone
@@ -3910,6 +3913,7 @@ LadiesOfDisneyChannel
 ladiesofthemcu
 LadiesOfWrestling
 Ladybonersgonecuddly
+Laesterschwestern
 LAFC
 lagoloaf
 laidbackcamp
@@ -4716,6 +4720,7 @@ NativeAmerican
 NativePlantGardening
 nattyorjuice
 nature
+NatureGifs
 Natureisbrutal
 NatureIsFuckingCute
 NatureIsFuckingLit
@@ -7105,6 +7110,7 @@ twinpeaks
 TwistedWonderland
 Twitch
 twitchasians
+TwitchMains
 Twitter
 twitterbluecheck
 twitterbluetick
