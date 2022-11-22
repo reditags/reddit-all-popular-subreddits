@@ -2133,6 +2133,7 @@ DrakeTheType
 DramaticHouseplants
 Draven
 Drawfee
+DrawForMe
 drawing
 DrDisrespectLive
 Dreadlocks
@@ -6542,6 +6543,7 @@ steak
 Stealthbombers
 Steam
 steam_giveaway
+steamdeals
 SteamDeck
 steampunk
 Steelbooks
