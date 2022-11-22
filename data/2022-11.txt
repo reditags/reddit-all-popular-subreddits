@@ -2680,6 +2680,7 @@ fromscratch
 fromsoftware
 FromTheDepths
 FrostGiant
+Frostpunk
 Frugal
 Frugal_Jerk
 frugalmalefashion
@@ -3108,6 +3109,7 @@ HarryPotterBooks
 HarryPotterGame
 harvestmoon
 Hasan_Piker
+haskell
 hate_dcxr
 hatsune
 HauntedMound
@@ -4932,6 +4934,7 @@ noodlebones
 Noom
 nope
 Nordichistorymemes
+NordicMemes
 NorfFc
 norge
 NormMacdonald
@@ -7089,6 +7092,7 @@ TransLater
 transmasc_irl
 Transmatfiring
 Transmogrification
+transylveon
 trap
 trashpandas
 TrashTaste
@@ -7223,6 +7227,7 @@ Ukraine_UA
 UkraineConflict
 UkraineInvasionVideos
 UkraineRussiaReport
+UkraineWarRoom
 UkraineWarVideoReport
 UkrainianConflict
 Ulta
