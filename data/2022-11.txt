@@ -4139,6 +4139,7 @@ LivingMas
 LivMorgan
 lizgillies
 LMDShow
+lmGoingToHellForThis
 LNPCorruption
 loadingicon
 loadingreadyrun
@@ -6336,6 +6337,7 @@ Smite
 smoking
 smoobypost
 SmugIdeologyMan
+Smugs
 snails
 snakes
 SnakesWithHats
