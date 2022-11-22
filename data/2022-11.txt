@@ -295,6 +295,7 @@ AnarchyChess
 Anbennar
 AncestryDNA
 anchorage
+AnchovyAtAnzio
 AncientCivilizations
 AncientCoins
 ancientegypt
@@ -1968,6 +1969,7 @@ diabetes_t1
 Diablo
 diablo2
 Diablo_2_Resurrected
+diamondpainting
 DianaMains
 DicePorn
 DidntKnowIWantedThat
@@ -3792,6 +3794,7 @@ katyperry
 Kawasaki
 kawoshin
 Kayaking
+kayascodelario
 KaynMains
 KazuhaMains
 kde
@@ -5303,6 +5306,7 @@ Pete_Buttigieg
 Petioles
 PetiteFashionAdvice
 PetiteFitness
+PetMice
 Pets
 PetsareAmazing
 Petscop
@@ -6796,6 +6800,7 @@ thebindingofisaac
 TheBlock
 TheBonfire
 TheBoys
+TheBrewery
 TheBullWins
 TheCapeRevolution
 thecatdimension
