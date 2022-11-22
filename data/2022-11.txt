@@ -1430,6 +1430,7 @@ CityPorn
 civ
 civ5
 civic
+Civic_Type_R
 civilengineering
 Civilization6
 CivVI
@@ -3124,6 +3125,7 @@ HeavyFuckingWind
 Heavymind
 HeavySeas
 HecklerKoch
+HeckThisIsWholesome
 Hedgehog
 heep
 HeidiKlum
@@ -3718,6 +3720,7 @@ joinsquad
 Joji
 Jojo
 JoJoMemes
+jokercringe
 Jokes
 JonTron
 jordan
@@ -4896,6 +4899,7 @@ nocontextxboxmessages
 Noctor
 Noearthsociety
 Noellemains
+noelmiller
 NoFap
 NoFuckingComment
 NoisyCats
@@ -6274,6 +6278,7 @@ SlavaUkrayini
 slavs_squatting
 slayeasleaked
 slaythespire
+SleepingCats
 slimerancher
 Slipknot
 sloths
