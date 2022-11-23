@@ -1842,6 +1842,7 @@ DarthJarJar
 DarwinAwards
 Dashcam
 dashcamgifs
+dashcams
 data_irl
 DataHoarder
 dataisbeautiful
@@ -2384,6 +2385,7 @@ exmormon
 exmuslim
 exocomics
 ExpandDong
+expats
 ExpectationVsReality
 ExperiencedDevs
 explainitpeter
@@ -6108,6 +6110,7 @@ scrungycats
 scuba
 scuderiaferrari
 SDRUntucked
+SDSGrandCross
 seals
 Seaofthieves
 seaporn
@@ -6175,6 +6178,7 @@ shameless
 ShamelesslyStolen
 ShaneDawson
 Shantae
+ShantelVanSanten
 ShaqHoldingThings
 SharedBPM
 Shark_Park
