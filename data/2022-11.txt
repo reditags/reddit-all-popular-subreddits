@@ -2362,6 +2362,7 @@ ethfinance
 ethoslab
 ethtrader
 EtikaRedditNetwork
+Etoro
 etymology
 eu4
 eu_nvr
@@ -3981,6 +3982,7 @@ KSanteMains
 ksi
 KSPMemes
 kubernetes
+kucoin
 KujouSaraMains
 KukiShinobuMains
 KumoDesu
@@ -4695,6 +4697,7 @@ Morrowind
 MortalKombat
 Mortytown
 MoscowMurders
+MosinNagant
 Mosses
 MostBeautiful
 moths
@@ -5088,6 +5091,7 @@ octopathtraveler
 octopus
 oculus
 OculusQuest
+OddlyCreative
 oddlymesmerizing
 oddlysatisfying
 oddlyspecific
@@ -5868,6 +5872,7 @@ RenderedComment
 renecblockchain
 ReneeMurden
 RenewableEnergy
+renfaire
 Reno
 rentnerzeigenaufdinge
 Repaintings
@@ -6936,6 +6941,7 @@ TheDonaldTrump2024
 thedoors
 TheDragonPrince
 TheEminenceInShadow
+TheeOhSees
 TheEricAndreShow
 TheExpanse
 TheFence
@@ -7384,6 +7390,7 @@ unstirredpaint
 UNSUBSCRIBEpodcast
 untrustworthypoptarts
 unturned
+UnusualArt
 UnusualVideos
 unwholesomememes
 uofm
@@ -7866,6 +7873,7 @@ youdontmattergiveup
 youdontsurf
 YouFellForItFool
 YoujoSenki
+Youmo
 youngjustice
 youngpeoplereddit
 youngpeopleyoutube
