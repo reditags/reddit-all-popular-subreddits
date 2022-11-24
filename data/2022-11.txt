@@ -1035,6 +1035,7 @@ boston
 BostonBruins
 bostonceltics
 BostonTerrier
+BostonU
 BotanicalPorn
 Botchedsurgeries
 botecodoreddit
@@ -1652,6 +1653,7 @@ coys
 cozy
 CozyPlaces
 CPA
+cpp
 Cr1TiKaL
 crabcats
 CrackheadCraigslist
@@ -3397,6 +3399,7 @@ ichbin40undlustig
 IchikaFanclub
 ICleanedMyRoom
 Idaho
+idahomurders
 IdentityV
 ididnthaveeggs
 ididthejobboss
@@ -4288,6 +4291,7 @@ lupinthe3rd
 LushCosmetics
 Lustig
 Luthier
+lux
 Luxembourg
 LV426
 LWIAY
@@ -5592,6 +5596,7 @@ popculturechat
 popheadscirclejerk
 popping
 poppunkers
+PoppyMains
 Popular_Science_Ru
 PornIsMisogyny
 porramauricio
@@ -5704,6 +5709,7 @@ PUBATTLEGROUNDS
 PublicFreakout
 publix
 pukicho
+punchableface
 PunchNeedle
 pune
 PunishingGrayRaven
@@ -6896,6 +6902,7 @@ TF2fashionadvice
 tf2memes
 tf2shitposterclub
 tf_irl
+tfc
 thalassophobia
 ThanksCyno
 thanksihateit
@@ -7484,6 +7491,7 @@ vexillology
 vexillologycirclejerk
 veYakinEvren
 vfx
+VGC
 VHS
 victoria2
 victoria3
@@ -7752,6 +7760,7 @@ WithoutThePunchline
 Wizard101
 WKUK
 wma
+wmnf
 woahdude
 WojakCompass
 wokekids
@@ -7920,6 +7929,7 @@ ZBrush
 ZeinClub
 zelda
 ZeldaIsCute
+ZeldaMemes
 ZeLink
 Zendaya
 Zentreya
