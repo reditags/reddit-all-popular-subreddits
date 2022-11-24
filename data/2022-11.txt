@@ -770,6 +770,7 @@ Bayonetta
 BBBY
 BBQ
 BeachCity
+BeachHouse
 beadsprites
 beagle
 BeAmazed
@@ -1214,6 +1215,7 @@ cannabiscultivation
 CannedSardines
 Canning
 canoeing
+canon
 canucks
 capitalism_in_decay
 CapitalismSux
@@ -2633,6 +2635,7 @@ Flume
 Flyers
 flyfishing
 flying
+fnafcringe
 fnatic
 fnki
 fnv
@@ -3024,6 +3027,7 @@ GooglyEyes
 GoosetheBand
 gorillaz
 GoRVing
+GossipDK
 GossipGirl
 goth
 GothamKnights
@@ -6335,6 +6339,7 @@ shittyrainbow6
 shittyreactiongifs
 ShittyRestrictionFood
 shittyrobots
+ShittyShittyRainbow6
 shittysimulated
 shittyskylines
 shittysuperpowers
@@ -7537,6 +7542,7 @@ veYakinEvren
 vfx
 VGC
 VHS
+vi
 victoria2
 victoria3
 VictoriaBC
