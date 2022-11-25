@@ -931,6 +931,7 @@ Blackcelebrity
 BlackClover
 BlackCountryNewRoad
 blackdesertonline
+blackfriday
 BlackHair
 Blacklabs
 blacklagoon
@@ -6634,6 +6635,7 @@ sports
 sportsarefun
 sportsbetting
 sportsbook
+spotify
 spotted
 spqrposting
 spreadytoes
@@ -7300,6 +7302,7 @@ transit
 TransitDiagrams
 transitiongoals
 TransLater
+TransMasc
 transmasc_irl
 Transmatfiring
 Transmogrification
