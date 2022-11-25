@@ -1382,6 +1382,7 @@ characterarcs
 characterdrawing
 CharacterRant
 Charcuterie
+CharcuterieBoard
 Chargers
 chargetheyphone
 charlixcx
@@ -2026,6 +2027,7 @@ devils
 devinbrugman
 devpt
 Dexter
+Dextools_Trending
 dezwo
 DHHMemes
 DHMIS
@@ -2955,6 +2957,7 @@ Getdownmrpresident
 GetMotivated
 GetStudying
 GettingShredded
+GFLNeuralCloud
 GFRIEND
 GharKeKalesh
 GhettoStreetFights
@@ -4832,6 +4835,7 @@ murdermittens
 murdochsucks
 MURICA
 Muse
+MuseDash
 MuseumOfCheating
 MuseumOfReddit
 MushroomGrowers
@@ -6094,6 +6098,7 @@ rva
 RVLiving
 rvnxmango
 RWBY
+RWBYcritics
 RWTH_memes
 RX7
 ryujin
@@ -6733,6 +6738,7 @@ Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
 StoppedWorking
+stopperpacks
 stopsmoking
 StoriesAboutKevin
 Stormlight_Archive
@@ -7640,6 +7646,7 @@ Vonnegut
 VoteBlue
 VoteDEM
 voyager
+vpnnetwork
 VRchat
 VRGaming
 VRtoER
