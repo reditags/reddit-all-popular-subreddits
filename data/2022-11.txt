@@ -362,6 +362,7 @@ AnimeFunny
 animegifs
 AnimeHoodies
 animehotbeverages
+animeindian
 AnimeInOurWorld
 animemaids
 AnimeMeme
@@ -454,6 +455,7 @@ arbeitsleben
 arcane
 Archaeology
 ArcherFX
+Archero
 Archery
 ArchitecturalRevival
 architecture
@@ -3798,6 +3800,7 @@ JeffArcuri
 JeilaDizon
 JellesMarbleRuns
 jellybeantoes
+jellyfin
 JennaFischer
 JennaLouiseColeman
 Jennamarbles
