@@ -2162,6 +2162,7 @@ doordash_drivers
 Dorohedoro
 DotA2
 DottoreMains
+DoubanGoosegroup
 DougDoug
 doughboys
 doughertydozen
@@ -2661,6 +2662,7 @@ fnv
 fo4
 fo76
 fo76FilthyCasuals
+FoggyPics
 FolkPunk
 FondantHate
 food
@@ -3217,6 +3219,7 @@ Hawaii
 hawks
 hawwkey
 HayDay
+haydenpanettiere
 HayleyAtwell
 hayleywilliams
 HazbinHotel
@@ -4852,6 +4855,7 @@ mycology
 MyDressUpDarlingAnime
 myfavoritemurder
 mylittlepony
+MyNameIsBat
 myog
 MyouiMina
 MyPeopleNeedMe
@@ -6808,6 +6812,7 @@ Supernatural
 supersentai
 supersmashbros
 Superstonk
+superstonkuk
 superstore
 SuperStructures
 supplychain
@@ -7511,6 +7516,7 @@ usajobs
 USC
 usefulredcircle
 uselessredcircle
+usenet
 UsernameChecksOut
 USMC
 usmnt
