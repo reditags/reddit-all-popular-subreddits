@@ -980,6 +980,7 @@ Blursedcomments
 blursedimages
 bmbmbm
 BMW
+bmx
 bnbchainofficial
 Boardgamedeals
 boardgames
@@ -1728,6 +1729,7 @@ crows
 CRT_so_scary
 crtgaming
 CrucibleGuidebook
+CrueltySquad
 Cruise
 CrusadeMemes
 CrusaderKings
@@ -5263,6 +5265,7 @@ oneshot
 OneTopicAtATime
 OneTrueEmilia
 onetruegod
+OneTruthPrevails
 onewheel
 OneyPlays
 onguardforthee
@@ -7582,6 +7585,7 @@ ViewPorn
 vikingstv
 Vilebrequin
 VillagePorn
+vim
 Vindicta
 Vinesauce
 VinlandSaga
