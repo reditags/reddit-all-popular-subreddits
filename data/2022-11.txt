@@ -1486,6 +1486,7 @@ CitiesSkylines
 CityPorn
 civ
 civ5
+civ_memes
 civic
 Civic_Type_R
 civilengineering
@@ -1890,6 +1891,7 @@ Dashcam
 dashcamgifs
 dashcams
 data_irl
+DataArt
 DataHoarder
 dataisbeautiful
 dataisugly
@@ -3253,6 +3255,7 @@ HeavySeas
 HecklerKoch
 HeckThisIsWholesome
 Hedgehog
+heels
 heep
 HeidiKlum
 Heizou_Mains
@@ -5003,6 +5006,7 @@ NewGirl
 NewGreentexts
 newhampshire
 NewIran
+NewJeans
 newjersey
 NewOrleans
 NewParents
@@ -5247,6 +5251,7 @@ okbuddyredacted
 okbuddyreiner
 okbuddyreze
 okbuddyrintard
+okbuddytankie
 okbuddyvowsh
 okc
 okcopainattard
@@ -5569,6 +5574,7 @@ physicsgifs
 physicsmemes
 PhysicsStudents
 piano
+pic
 PickleFinancial
 picrew
 pics
@@ -7042,6 +7048,7 @@ thanksimcured
 ThanksWorldGen
 thanosdidnothingwrong
 That70sshow
+ThatChapter
 thatHappened
 ThatLookedExpensive
 ThatPeelingFeeling
