@@ -784,6 +784,7 @@ beadsprites
 beagle
 BeAmazed
 BeamNG
+BeansInStrangePlaces
 BeansInThings
 BeardedDragons
 beards
@@ -3609,6 +3610,7 @@ IndiaInvestments
 indiameme
 Indiana
 indianajones
+IndianaJonesMemes
 indianapolis
 indianbikes
 IndianBoysOnTinder
@@ -4496,6 +4498,7 @@ masterduel
 masterhacker
 MasterReturns
 Mastodon
+mathematics
 MathJokes
 mathmemes
 mattcolville
@@ -4513,6 +4516,7 @@ MayTheForceBeWithU
 mazda
 mazda3
 MB2Bannerlord
+MBA
 MBMBAM
 mbti
 mbtimemes
@@ -4802,6 +4806,7 @@ mountaindew
 Mountaineering
 mountandblade
 MouseReview
+Moustache
 Movie_Trivia
 MovieDetails
 MovieLeaksAndRumors
@@ -6849,6 +6854,7 @@ sustainability
 susu_jpg
 svenskpolitik
 Sverige
+SVU
 sw5e
 SwainMains
 SWARJE
