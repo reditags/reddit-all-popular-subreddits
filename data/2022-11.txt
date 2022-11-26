@@ -5441,6 +5441,7 @@ Patchuu
 Pathfinder2e
 Pathfinder_Kingmaker
 Pathfinder_RPG
+pathfindermains
 pathfindermemes
 pathofexile
 PathOfExileBuilds
@@ -7709,6 +7710,7 @@ WANDAVISION
 wankil
 war
 WarAndPeas
+warcraft3
 Warframe
 WarframeRunway
 wargame
