@@ -1493,6 +1493,7 @@ Civilization6
 CivVI
 CK2GameOfthrones
 CK3AGOT
+CKTinder
 ClashMini
 ClashOfClans
 ClashRoyale
