@@ -610,6 +610,7 @@ AusRenovation
 AussieCasual
 AustinFC
 australia
+AustralianBirds
 AustralianCattleDog
 AustralianMilitary
 AustralianNostalgia
@@ -1103,6 +1104,7 @@ BreathingBuddies
 breathinginformation
 BrecBassinger
 Brewers
+BrexitMemes
 BRF
 brick_expressionism
 bridezillas
@@ -2377,6 +2379,7 @@ engineering
 engineeringmemes
 EngineeringPorn
 EngineeringStudents
+england
 engrish
 EnjiNight
 ENLIGHTENEDCENTRISM
@@ -3944,6 +3947,7 @@ Kaiserposting
 kaiserredux
 Kaiserreich
 KaIT
+Kakegurui
 kalam_army
 kaleycuoco
 kallmekris
@@ -4440,6 +4444,7 @@ magicbuilding
 MagicEye
 magicthecirclejerking
 magnetfishing
+mahluna
 maidsonskates
 Maine
 mainecoons
@@ -4483,6 +4488,7 @@ MandyRose
 MangaCollectors
 Manhua
 manhwa
+ManifestNBC
 Manitoba
 MannausSachsen
 ManorLords
@@ -5804,6 +5810,7 @@ ProfessorLayton
 progmetal
 programacion
 programare
+programiranje
 ProgrammerAnimemes
 ProgrammerHumor
 programming
