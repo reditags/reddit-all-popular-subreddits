@@ -73,6 +73,7 @@
 80s
 80sdesign
 80sfastfood
+80smusic
 8DollarTweets
 8passengersnark
 90DayFiance
@@ -760,6 +761,7 @@ bathandbodyworks
 BathroomShrooms
 batman
 BatmanArkham
+BattleBrothers
 Battlecars
 battlecats
 Battlefield
@@ -1394,6 +1396,7 @@ Challenger
 Championship
 ChantelJeffries
 Chaos40k
+ChaosKnights
 chaoticgood
 characterarcs
 characterdrawing
@@ -5203,6 +5206,7 @@ NovelAi
 noveltranslations
 nowmycat
 noworking
+NPPfunny
 NPR
 nrl
 NTU
