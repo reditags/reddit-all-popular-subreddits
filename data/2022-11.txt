@@ -1613,6 +1613,7 @@ community
 CompanyBattles
 CompanyOfHeroes
 CompetitiveApex
+CompetitiveEDH
 CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
@@ -1821,6 +1822,7 @@ cursedimages
 cursedmemes
 CursedMinecraft
 CursedTanks
+cursedterraria
 cursedvideos
 CurseofStrahd
 customhearthstone
@@ -1927,6 +1929,7 @@ dating_advice
 datingoverthirty
 Datsun
 Davie504
+davinciresolve
 DaysGone
 Daytrading
 dayz
@@ -6677,6 +6680,7 @@ SommerRay
 somnivexillology
 sonamains
 sonarears
+SonicFrontiers
 SonicTheHedgehog
 SonoBisqueDoll
 SonyAlpha
@@ -7744,6 +7748,7 @@ videogames
 videography
 videomemes
 videos
+vidid
 VietNam
 ViewPorn
 vikingstv
