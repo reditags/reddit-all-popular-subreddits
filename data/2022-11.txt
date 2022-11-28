@@ -3793,6 +3793,7 @@ ironscape
 IronWarriors
 IrrationalMadness
 IsaacArthur
+IsabelaMerced
 Isekai
 Ishowspeed
 IsItBullshit
@@ -5022,6 +5023,7 @@ NdFlex
 ndp
 nebelung
 NeckbeardNests
+neckbeardRPG
 necoarc
 necromunda
 Necrontyr
@@ -6153,6 +6155,7 @@ RocketLeague
 RocketLeagueEsports
 rockets
 rockhounds
+rockstar
 rodentintercourse
 RodriguesFamilySnark
 RoleReversal
