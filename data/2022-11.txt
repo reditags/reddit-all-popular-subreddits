@@ -5044,6 +5044,7 @@ Nemz
 neoncities
 NeonGenesisEvangelion
 neopets
+neovim
 Nepal
 nerdfighters
 Nerf
