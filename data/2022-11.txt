@@ -717,6 +717,7 @@ BadMUAs
 badtaxidermy
 badUIbattles
 baduk
+badwomensanatomy
 baeirene
 bakchodi
 bakeoff
@@ -1919,6 +1920,7 @@ DarkGothicArt
 Darkhumorandjokes
 darknetdiaries
 DarkPicturesAnthology
+Darkroom
 Darksiders
 DarkSouls2
 darksoulsmemes
@@ -1966,6 +1968,7 @@ de
 de_EDV
 de_IAmA
 DeadAhead
+deadandcompany
 deadbydaylight
 deadcells
 deadlockpw
@@ -4930,6 +4933,7 @@ movies
 Moviesinthemaking
 mrballen
 MrBeast
+MrFruit
 mrgirlreturns
 mrlovenstein
 MrRobot
@@ -7601,6 +7605,7 @@ UberEATS
 Ubiquiti
 ubius
 UBreddit
+Ubuntu
 UCDavis
 ucf
 UCI
