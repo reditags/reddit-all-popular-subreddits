@@ -1104,6 +1104,7 @@ Braves
 BravoRealHousewives
 Brawlhalla
 Brawlstars
+BrawlStarsCompetitive
 brdev
 Breadit
 BreadStapledToTrees
@@ -1785,6 +1786,7 @@ Cruise
 CrusadeMemes
 CrusaderKings
 crusaderkings3
+Crushes
 CryptidDogs
 cryptids
 Crypto_com
@@ -2982,6 +2984,7 @@ gaybrosfitness
 gaybrosgonemild
 GaylorSwift
 gaymemes
+gaymers
 GayRateMe
 GaySoundsShitposts
 GCSE
@@ -5340,6 +5343,7 @@ OkBuddyFresca
 okbuddygenshin
 okbuddyguardian
 OKbuddyHalfLife
+okbuddyheretic
 okbuddyholly
 okbuddyhololive
 okbuddyHRetard
