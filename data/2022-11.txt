@@ -714,6 +714,7 @@ badmathematics
 badMovies
 BadMtgCombos
 BadMUAs
+badroommates
 badtaxidermy
 badUIbattles
 baduk
@@ -2427,6 +2428,7 @@ engineeringmemes
 EngineeringPorn
 EngineeringStudents
 england
+EnglishLearning
 engrish
 EnjiNight
 ENLIGHTENEDCENTRISM
@@ -4208,6 +4210,7 @@ LaserCleaningPorn
 lasercutting
 LaserEyedCats
 LaStalla
+LastEpoch
 lastimages
 lastpodcastontheleft
 lastweektonight
