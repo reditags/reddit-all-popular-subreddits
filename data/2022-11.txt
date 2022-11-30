@@ -3071,6 +3071,7 @@ GetStudying
 GettingShredded
 GFLNeuralCloud
 GFRIEND
+GFUEL
 GharKeKalesh
 GhettoStreetFights
 ghibli
@@ -4015,6 +4016,7 @@ Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
 juliensolomita
+July2023BumpGroup
 jumpingspiders
 Jung
 Jungle_Mains
@@ -4069,6 +4071,7 @@ KatanaZero
 KatDennings
 katebeckinsale
 Katemara
+kateupton
 KatherineMcNamara
 KatherynWinnick
 katyperry
@@ -6587,6 +6590,7 @@ ShitpostBR
 ShitPostCrusaders
 shitposting
 shitposting_inc
+ShitpostTC
 ShitpostXIV
 ShitRimworldSays
 Shitstatistssay
