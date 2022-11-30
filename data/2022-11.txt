@@ -719,6 +719,7 @@ Badfaketexts
 badfriendspod
 badhistory
 badlinguistics
+Badlyinjured
 badmathematics
 badMovies
 BadMtgCombos
