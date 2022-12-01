@@ -133,6 +133,7 @@ AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
 AnimalsOnReddit
+Animalsthatlovemagic
 AnimalTextGifs
 animation
 anime_irl
@@ -481,6 +482,7 @@ canadaguns
 canadaleft
 CanadaSoccer
 CanadianInvestor
+canberra
 canucks
 CapitalismSux
 CapitolConsequences
@@ -556,6 +558,7 @@ Chaser
 chefknives
 chelseafc
 chemistrymemes
+chessbeginners
 ChevyTrucks
 CHIBears
 chicagobulls
@@ -574,6 +577,7 @@ christinahendricks
 christmas
 ChronicIllness
 ChurchofChie
+ChurchofMarnie
 CICO
 circlejerk
 cirkeltrek
@@ -585,6 +589,7 @@ civic
 CivVI
 CK2GameOfthrones
 ClashOfClans
+ClashOfClansLeaks
 ClashRoyale
 ClassConscienceMemes
 classiccars
@@ -739,6 +744,7 @@ Damnthatsinteresting
 Dandadan
 danganronpa
 danglers
+DaniDev
 DanielTigerConspiracy
 dank_meme
 DankAndrastianMemes
@@ -748,6 +754,7 @@ dankinindia
 dankmark
 dankmemes
 DankMemesFromSite19
+DankPods
 dankrishu
 dankruto
 danktintinmemes
@@ -762,7 +769,9 @@ darksoulsmemes
 DarkTide
 DarkViperAU
 darkwingsdankmemes
+DarlingInTheFranxx
 DarwinAwards
+dashcamgifs
 data_irl
 DataHoarder
 dataisbeautiful
@@ -778,6 +787,7 @@ DCEUleaks
 DDintoGME
 DDLC
 de
+de_IAmA
 deadbydaylight
 deadcells
 deadmeatjames
@@ -810,6 +820,7 @@ DenverBroncos
 DenverCirclejerk
 denvernuggets
 depression_memes
+DerScheisser
 DesignDesign
 DesignPorn
 desimemes
@@ -921,9 +932,11 @@ Edgerunners
 EDH
 EDM
 Edmonton
+Eesti
 egg_irl
 EightySix
 Eldenring
+ElderKings
 ElderScrolls
 elderscrollsonline
 electricians
@@ -962,6 +975,7 @@ EscapefromTarkov
 esist
 espresso
 estoration
+ethfinance
 ethtrader
 eu4
 eu_nvr
@@ -990,6 +1004,7 @@ facepalm
 Faces
 factorio
 Factoriohno
+Fahrrad
 FairytaleasFuck
 fakealbumcovers
 fakedisordercringe
@@ -1018,6 +1033,7 @@ fednews
 feedthebeast
 FellowKids
 FeltGoodComingOut
+FemaleDatingStrategy
 femalelivingspace
 femboy
 femboy_irl
@@ -1121,6 +1137,7 @@ Fuckthealtright
 fucktheccp
 FUCKYOUINPARTICULAR
 FuckYouKaren
+fujix
 fulbo
 FullmetalAlchemist
 functionalprint
@@ -1159,6 +1176,7 @@ GamingDetails
 GamingLeaksAndRumours
 Ganyu
 GarandThumb
+GardeningAustralia
 garfieldminusgarfield
 GarlicBreadMemes
 gatekeeping
@@ -1329,6 +1347,7 @@ hmmm
 hockey
 hockeymemes
 hoggit
+hogrida
 hoi4
 holdmycosmo
 holdmyfeedingtube
@@ -1349,6 +1368,7 @@ Honda
 HondoOhnaka_Memes
 HongKong
 hopeposting
+Horimiya
 horizon
 Hornyjail
 horror
@@ -1444,6 +1464,7 @@ indianews
 IndianGaming
 Indiangirlsontinder
 IndiaNostalgia
+IndianTeenagers
 indiasocial
 IndiaSpeaks
 indonesia
@@ -1475,6 +1496,8 @@ iRacing
 ireland
 IRLEasterEggs
 IronFrontUSA
+Italia
+ItaliaMeme
 italy
 ItemShop
 ItHadToBeBrazil
@@ -1496,6 +1519,7 @@ JEENEETards
 JeffArcuri
 jellybeantoes
 JennaOrtega_
+jennie
 JenniferLawrence
 JenniferLopez
 jerma985
@@ -1530,6 +1554,7 @@ Justrolledintotheshop
 k_on
 Kaiserreich
 KaIT
+kalam_army
 kaleycuoco
 KamenRider
 KamikazeByWords
@@ -1567,6 +1592,7 @@ kings
 Kirby
 Kitler
 Kitten
+kittengifs
 kittens
 Kitting
 KittyPupperLove
@@ -1596,6 +1622,7 @@ labrador
 labrats
 LadiesOfWrestling
 lakers
+Lalisa
 laminarflow
 lanadelrey
 LancerRPG
@@ -1609,6 +1636,7 @@ LatinoPeopleTwitter
 LaurenCohan
 law
 lawschooladmissions
+LaylaMains
 leafs
 leagueoflegends
 LeagueOfMemes
@@ -1692,6 +1720,7 @@ LowQualityMemes
 LowSodiumDestiny
 LPOTL
 LSD
+LTB_iel
 LTSLS
 LudwigAhgren
 lululemon
@@ -1814,6 +1843,7 @@ Michigan
 MichiganWolverines
 microgrowery
 MicrosoftFlightSim
+MicrosoftRewards
 Mid_Century
 MiddleEarthMiniatures
 midjourney
@@ -1870,6 +1900,7 @@ MonsterHigh
 MonsterHunter
 MonsterHunterWorld
 Montana
+Mordhau
 moreplatesmoredates
 Morrowind
 MortalKombat
@@ -2032,6 +2063,7 @@ OddSatisfying
 ofcoursethatsathing
 offbeat
 OfflinetvGirls
+OffMyChestPH
 Ohio
 okaybuddyretard
 OkBrudiMongo
@@ -2049,8 +2081,10 @@ okbuddyvowsh
 OkCupid
 okkolegauposledzony
 okmatewanker
+okoidawappler
 Old_Recipes
 OldManDog
+oldpeoplefacebook
 OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
@@ -2069,6 +2103,7 @@ oneshot
 OneyPlays
 onguardforthee
 ontario
+oompasubs
 Optifine
 orangecats
 orangetheory
@@ -2082,6 +2117,7 @@ osp
 OSU
 osugame
 OTMemes
+otomegames
 OtomeIsekai
 Otonokizaka
 ottawa
@@ -2099,6 +2135,7 @@ overlord
 Overwatch
 overwatch2
 Overwatch_Memes
+OverwatchCirclejerk
 OWConsole
 Owls
 Padres
@@ -2137,6 +2174,7 @@ PeopleFuckingDying
 peopleofwalmart
 Perfectfit
 PerfectlyCutBooms
+PerfectlyCutMeows
 perfectlycutscreams
 Persecutionfetish
 PERSoNA
@@ -2151,6 +2189,7 @@ PetTheDamnCat
 PetTheDamnDog
 pettyrevenge
 PewdiepieSubmissions
+PhasmophobiaGame
 philadelphia
 Philippines
 philosophy
@@ -2209,6 +2248,7 @@ poker
 poland
 polandball
 Polandballart
+policeuk
 politecats
 Political_Revolution
 PoliticalComebacks
@@ -2237,6 +2277,7 @@ povertyfinance
 powerrangers
 powerwashingporn
 ppnojutsu
+PraiseTheCameraMan
 PrehistoricMemes
 premed
 PremierLeague
@@ -2265,6 +2306,7 @@ psych
 psychology
 PublicFreakout
 pukicho
+pune
 PunishingGrayRaven
 punk
 Punny
@@ -2416,6 +2458,7 @@ Satisfyingasfuck
 savedyouaclick
 ScaramoucheMains
 ScarySigns
+scheissepfostieren
 SchittsCreek
 schizoposters
 schkreckl
@@ -2453,6 +2496,7 @@ seniorkitties
 Sephora
 SequelMemes
 serbia
+serbiancringe
 seriouseats
 Serverlife
 Seulgi
@@ -2544,6 +2588,7 @@ Slovakia
 Slovenia
 slowcooking
 Slycooper
+smalllebowsky
 smashbros
 SmashBrosUltimate
 smashmemes
@@ -2564,10 +2609,12 @@ SofiaGomez
 softwaregore
 solarpunk
 sololeveling
+SomeOrdinaryGmrs
 SonicFrontiers
 SonicTheHedgehog
 SonoBisqueDoll
 SonyAlpha
+souleater
 SoulKnight
 southafrica
 SovietWomble
@@ -2791,6 +2838,7 @@ TheLeftCantMeme
 TheLegitBoss
 TheLib
 thelongdark
+TheMandalorianTV
 thenetherlands
 TheNightFeeling
 TheNinthHouse
@@ -2850,6 +2898,7 @@ todayilearned
 toddlers
 ToiletPaperUSA
 tokkiefeesboek
+TomAndJerryMemes
 tomorrow
 tonightsdinner
 TonyHawkitecture
@@ -2978,6 +3027,7 @@ VanLife
 VaporwaveAesthetics
 VaushV
 vaxxhappened
+vdm
 vegan
 vegancirclejerk
 VeganDE
@@ -2998,6 +3048,7 @@ videogamedunkey
 videogames
 videos
 Vinesauce
+vintage
 vintageads
 VintageFashion
 vintagejapaneseautos
@@ -3014,6 +3065,7 @@ Volumeeating
 Volvo
 VoteBlue
 VoteDEM
+VRchat
 VRGaming
 vtm
 VuvuzelaIPhone
@@ -3091,6 +3143,7 @@ WhyWomenLiveLonger
 WiggleButts
 WildernessBackpacking
 wildlifephotography
+wildrift
 WingsOfFire
 WinStupidPrizes
 wirklichgutefrage
@@ -3115,6 +3168,7 @@ worldcup
 worldjerking
 worldnews
 worldnewsvideo
+worldofgothic
 WorldofTanks
 WoT
 wow
@@ -3156,6 +3210,7 @@ YouBelongWithMemes
 youdontsurf
 YoujoSenki
 youngpeopleyoutube
+YouniquePresenterMS
 YouShouldKnow
 youtube
 youtubehaiku
