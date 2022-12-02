@@ -427,6 +427,7 @@ bartenders
 baseball
 baseballcards
 baseballcirclejerk
+basset
 bassfishing
 bathandbodyworks
 batman
@@ -577,6 +578,7 @@ BocchiTheRock
 bodybuilding
 bodymods
 bodyweightfitness
+Bogleheads
 BoJackHorseman
 BokuNoHeroAcademia
 BokuNoMetaAcademia
@@ -1127,6 +1129,8 @@ dataisbeautiful
 dataisugly
 datascience
 dating_advice
+DaysGone
+Daytrading
 dayz
 dbz
 DBZDokkanBattle
@@ -1303,6 +1307,7 @@ drawing
 DrDisrespectLive
 Dreadlocks
 DreamlightValley
+dreamsmp
 DreamWasTaken
 DrewGooden
 Drifting
@@ -1373,6 +1378,7 @@ ElizabethOlsen
 ellacervetto
 elonmusk
 ElvenFood
+ElysianEclipse
 Embroidery
 EmiliaClarke
 Eminem
@@ -1655,6 +1661,7 @@ FundieSnarkUncensored
 funhaus
 funkopop
 funny
+FunnyAnaesthesia
 FunnyandSad
 FunnyAnimals
 FunnyDogVideos
@@ -1808,6 +1815,7 @@ granturismo
 graphic_design
 graphicnovels
 Grapplerbaki
+GrassDoggos
 gratefuldead
 gratefuldoe
 gravityfalls
@@ -1931,6 +1939,7 @@ HFY
 hiddenrooms
 HighQualityGifs
 HighStrangeness
+Higurashinonakakoroni
 HilariaBaldwin
 Hilary_Duff
 HIMYM
@@ -2123,6 +2132,7 @@ InclusiveOr
 Incorgnito
 IncreasinglyVerbose
 IncrediblesMemes
+incremental_games
 india
 indiadiscussion
 indiameme
@@ -2216,6 +2226,7 @@ jackrussellterrier
 jaidenanimations
 jakertown
 JamesBond
+JamesHoffmann
 JamesTurnerYT
 jameswebb
 January6
@@ -2310,6 +2321,7 @@ KellyBrook
 kendalljenner
 KendrickLamar
 Kengan_Ashura
+KenM
 Kenshi
 Kenya
 KeqingMains
@@ -2321,6 +2333,7 @@ kfeets
 KGATLW
 KGBTR
 khajiithaswares
+KidCudi
 KidsAreFuckingEvil
 KidsAreFuckingSmart
 KidsAreFuckingStupid
@@ -2375,6 +2388,7 @@ KOTORmemes
 kpics
 kpop
 kpopthoughts
+kristenbell
 kristenstewart
 ksi
 KSPMemes
@@ -2465,6 +2479,7 @@ Libertarian
 libertarianmeme
 LibHumor
 librandu
+Libraries
 libsofreddit
 lies
 lifehacks
@@ -2525,6 +2540,7 @@ lordoftherings
 loreofleague
 loseit
 lossofalovedone
+lost
 Lost_Architecture
 lostarkgame
 lostpause
@@ -2998,6 +3014,7 @@ nonononoyes
 NonPoliticalTwitter
 noodlebones
 nope
+Nordichistorymemes
 norge
 Norse
 NorthCarolina
@@ -3163,6 +3180,7 @@ overemployed
 overlanding
 overlord
 OverSimplified
+overthegardenwall
 Overwatch
 overwatch2
 Overwatch_Memes
@@ -3312,6 +3330,7 @@ PokeLeaks
 PokeMedia
 pokememes
 pokemon
+pokemonanime
 PokemonBDSP
 pokemongo
 PokemonGoFriends
@@ -3333,6 +3352,7 @@ policeuk
 politecats
 Political_Revolution
 PoliticalComebacks
+PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
 politics
@@ -3484,6 +3504,7 @@ reactionpics
 readanotherbook
 ReadyOrNotGame
 real_China_irl
+reallifedoodles
 RealLifeShinies
 realmadrid
 RealTesla
@@ -3891,6 +3912,7 @@ Spiderman
 SpidermanPS4
 spiders
 Spielstopp
+Splatoon_3
 Splitgate
 sploot
 Spokane
@@ -4123,6 +4145,7 @@ terriblefandommemes
 TerrifyingAsFuck
 teslainvestorsclub
 TeslaLounge
+TeslaModel3
 teslamotors
 Texans
 texas
@@ -4316,12 +4339,14 @@ transit
 TransLater
 Transmogrification
 transtrans
+transylveon
 trap
 trashpandas
 TrashTaste
 trashy
 travel
 travisscott
+trebuchetmemes
 treedibles
 trees
 Treknobabble
@@ -4414,6 +4439,7 @@ Unexpected
 unexpectedfuturama
 unexpectedhogwarts
 UnexpectedJoJo
+UnexpectedLetterkenny
 UnexpectedlyWholesome
 unexpectedMontyPython
 UnexpectedMulaney
@@ -4437,6 +4463,7 @@ UnresolvedMysteries
 UnsolvedMysteries
 untrustworthypoptarts
 UnusualVideos
+uofm
 upcycling
 UpliftingNews
 UpvoteBecauseButt
@@ -4492,6 +4519,7 @@ videos
 vidid
 VietNam
 Vilebrequin
+Vindicta
 Vinesauce
 vintage
 vintageads
@@ -4660,6 +4688,7 @@ woof_irl
 woooosh
 woosh
 wordington
+workaholics
 WorkersStrikeBack
 WorkReform
 Workspaces
@@ -4732,6 +4761,8 @@ youdontmattergiveup
 youdontsurf
 YoujoSenki
 Youmo
+youngjustice
+youngpeoplereddit
 youngpeopleyoutube
 YoungThug
 YouniquePresenterMS
@@ -4756,3 +4787,4 @@ Zillennials
 zillowgonewild
 Zoomies
 zootopia
+Zwift
