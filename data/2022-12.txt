@@ -319,6 +319,7 @@ AssassinsCreedMemes
 AssassinsCreedValhala
 assholedesign
 astoria
+astramilitarum
 astrologymemes
 Astroneer
 Astronomy
@@ -412,6 +413,7 @@ bakchodi
 Baking
 bald
 BaldursGate3
+balisong
 balkans_irl
 BALLET
 ballpython
@@ -572,6 +574,7 @@ blessedcomments
 blessedimages
 Blink182
 blop
+BlueCollarWomen
 BlueLock
 BlueMidterm2018
 bluey
@@ -898,6 +901,7 @@ ClashRoyale
 ClassConscienceMemes
 classicalmusic
 classiccars
+ClassicRock
 classicwow
 ClassPoliticsTwitter
 ClassroomOfTheElite
@@ -1023,6 +1027,7 @@ crazystairs
 CreateMod
 creepy
 creepyasterisks
+creepyencounters
 creepypasta
 CreepyWikipedia
 cremposting
@@ -1344,6 +1349,7 @@ Drizzy
 DRSyourGME
 drugmemes
 Drugs
+drugstoreMUA
 drums
 drunkencookery
 dualipa
@@ -1831,6 +1837,7 @@ GoNets
 goodboomerhumor
 GoodFakeTexts
 GoodGoodMemes
+google
 GooglePixel
 GooglyEyes
 gorillaz
@@ -2332,6 +2339,7 @@ Justfuckmyshitup
 JustGuysBeingDudes
 JusticeForJohnnyDepp
 JusticeServed
+JustMonika
 justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
@@ -2486,6 +2494,7 @@ learningtocat
 LearnJapanese
 learnprogramming
 learntodraw
+LearnUselessTalents
 Leathercraft
 lebowski
 LeedsUnited
@@ -2531,6 +2540,7 @@ Libraries
 libsofreddit
 lies
 lifehacks
+lifeisstrange
 LifeofBoris
 LifeProTips
 LigaMX
@@ -2846,6 +2856,7 @@ missbricosplay
 missouri
 Mistborn
 MitchellAndWebb
+Mizkif
 MkeBucks
 mlb
 MLBTheShow
@@ -3037,6 +3048,7 @@ nightwish
 nihilism
 Nijisanji
 NikkeMobile
+NikkeOutpost
 NilouMains
 nin
 NinaDobrev
@@ -3047,6 +3059,7 @@ nintendo
 NintendoMemes
 NintendoStitch
 NintendoSwitch
+Nirvana
 njpw
 NLBest
 NLSSCircleJerk
@@ -3297,6 +3310,7 @@ Pennsylvania
 PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
+PercyJacksonMemes
 Perfectfit
 perfectloops
 PerfectlyCutBooms
@@ -3426,6 +3440,7 @@ polymerclay
 Pomeranians
 poodles
 poolrooms
+PoorHammer
 PopArtNouveau
 popculturechat
 popheadscirclejerk
@@ -3448,6 +3463,7 @@ povertyfinance
 powerrangers
 powerwashingporn
 ppnojutsu
+PragerUrine
 PraiseTheCameraMan
 PredecessorGame
 PrehistoricMemes
@@ -3620,6 +3636,7 @@ Residency
 residentevil
 restofthefuckingowl
 RetroAR
+retrobattlestations
 RetroFuturism
 retrogaming
 revancedapp
@@ -3657,6 +3674,7 @@ Roll20
 rollercoasterjerk
 rollercoasters
 Rollerskating
+rolltide
 RomanceClub
 Romania
 RomaniaPorn
@@ -3680,6 +3698,7 @@ rugbyunion
 runefactory
 runescape
 running
+runthejewels
 rupaulsdragrace
 RussiaUkraineWar2022
 rva
@@ -3715,6 +3734,7 @@ sandiego
 Sandman
 sanepolitics
 sanfrancisco
+SanJose
 sanrio
 SapphoAndHerFriend
 Satan
@@ -3950,6 +3970,7 @@ SonyAlpha
 souleater
 SoulKnight
 SoulsSliders
+SoundersFC
 SoundsLikeMusic
 soup
 southafrica
@@ -4152,6 +4173,7 @@ tacticalgear
 TacticalIssueCat
 Takagi_san
 TakaMori
+tales
 talesfromcallcenters
 talesfromtechsupport
 TalesFromTheCustomer
@@ -4231,6 +4253,7 @@ thalassophobia
 thanksihateit
 thanksimcured
 thanosdidnothingwrong
+That70sshow
 thatHappened
 ThatLookedExpensive
 ThatsInsane
@@ -4345,6 +4368,7 @@ tinyanimalsonfingers
 Tinycatsinbigspaces
 TinyHouses
 TinyUnits
+tipofmytongue
 tippytaps
 Tiresaretheenemy
 titanfall
@@ -4643,6 +4667,7 @@ WalmartCelebrities
 WaltDisneyWorld
 WANDAVISION
 wankil
+war
 WarAndPeas
 Warframe
 Warhammer
@@ -4670,6 +4695,7 @@ Watercolor
 watercolorcats
 Waterdogs
 WayOfTheBern
+wde
 WeaponsMoe
 WeatherGifs
 webcomics
@@ -4748,6 +4774,7 @@ wildlifephotography
 wildrift
 willwood
 wimmelbilder
+Windows10
 Windows11
 WingsOfFire
 WinStupidPrizes
@@ -4792,6 +4819,7 @@ worldwatch
 WormMemes
 wortwitzkasse
 WoT
+WouldYouRather
 wow
 wowthanksimcured
 Wrasslin
