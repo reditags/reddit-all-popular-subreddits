@@ -149,6 +149,7 @@ ambien
 amcstock
 AMCSTOCKS
 Amd
+AmericaBad
 americandad
 AmericanFascism2020
 AmericanHorrorStory
@@ -437,6 +438,7 @@ baseballcards
 baseballcirclejerk
 basset
 bassfishing
+BassGuitar
 bathandbodyworks
 batman
 BatmanArkham
@@ -807,6 +809,7 @@ CelebrityFeet
 celebritylegs
 CelebsPH
 celestegame
+Celiac
 cellbits
 CelticFC
 CemeteryPorn
@@ -832,6 +835,7 @@ Chargers
 Charlotte
 Chaser
 chats
+Cheetahs
 chefknives
 chelseafc
 chemistry
@@ -1416,6 +1420,7 @@ ems
 EnculerLesVoitures
 ender3
 EnemaEndorsement
+EngagementRings
 engineeringmemes
 EngineeringPorn
 EngineeringStudents
@@ -1464,6 +1469,7 @@ Everton
 EverythingFoxes
 EverythingScience
 evilbuildings
+EvilDead
 existentialcrisiscat
 exjw
 exmormon
@@ -1493,6 +1499,7 @@ fakealbumcovers
 fakedisordercringe
 fakehistoryporn
 fakemon
+Falcom
 falcons
 FallenOrder
 FallGuysGame
@@ -2001,6 +2008,7 @@ Hololive
 HololiveYuri
 Holostars
 HolUp
+homeassistant
 homeautomation
 HomeDecorating
 HomeDepot
@@ -2380,6 +2388,7 @@ KillLaKill
 killsixbilliondemons
 killteam
 killthecameraman
+Killtony
 KimetsuNoYaiba
 KimiNoNaWa
 kindafunny
@@ -2673,6 +2682,7 @@ Mariners
 Mario
 mariokart
 MarioKartTour
+Market76
 Markham
 Markiplier
 Marriage
@@ -3527,6 +3537,7 @@ railroading
 raimimemes
 Rainbow6
 RainbowEverything
+RainbowHigh
 raining
 rainworld
 raleigh
@@ -3744,6 +3755,7 @@ ScrapMechanic
 Screenwriting
 Scrubs
 scrungycats
+scuba
 Seaofthieves
 seaporn
 Seattle
@@ -4046,6 +4058,7 @@ StoicMemes
 stolendogbeds
 StolenSeats
 StonerEngineering
+Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
 StoppedWorking
@@ -4062,6 +4075,7 @@ straykids
 StreetFighter
 StreetMartialArts
 strength_training
+Stuck10YearsBehind
 StuffOnCats
 StumbleGuysOfficial
 stunfisk
@@ -4224,6 +4238,7 @@ The10thDentist
 the1975
 The8BitRyanReddit
 the_darnold
+The_Dennis
 The_Leftorium
 The_Mueller
 THE_PACK
@@ -4461,6 +4476,7 @@ TwoSentenceSadness
 TwoXChromosomes
 TwoXIndia
 twrmod
+tyingherhairup
 tylerthecreator
 typography
 Tyranids
@@ -4748,6 +4764,7 @@ Wizard101
 woahdude
 WojakCompass
 wokekids
+wolves
 womensstreetwear
 Woodcarving
 woodworking
