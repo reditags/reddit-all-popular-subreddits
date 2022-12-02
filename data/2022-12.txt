@@ -308,11 +308,13 @@ asktransgender
 AskUK
 Asmongold
 asoiaf
+asoiafcirclejerk
 aspergers
 assassinscreed
 AssassinsCreedMemes
 AssassinsCreedValhala
 assholedesign
+astoria
 astrologymemes
 Astroneer
 Astronomy
@@ -321,10 +323,12 @@ Astros
 Asuka
 ASX_Bets
 ATBGE
+AteistTurk
 AteTheOnion
 atheism
 ATLA
 Atlanta
+AtlantaHawks
 AtlantaTV
 AtlantaUnited
 atrioc
@@ -397,6 +401,7 @@ Badfaketexts
 badhistory
 Badlyinjured
 BadMUAs
+badroommates
 badwomensanatomy
 baeirene
 bakchodi
@@ -505,6 +510,7 @@ BigBrother
 BigCatGifs
 BigChungusReligion
 bigfloppa
+bigfoot
 bikecommuting
 BikiniBottomTwitter
 billieeilish
@@ -664,6 +670,7 @@ Buddhism
 BudgetAudiophile
 budgetfood
 budgies
+BuenosAires
 BUENZLI
 Buffalo
 buffalobills
@@ -894,6 +901,7 @@ ClipStudio
 clonewars
 CloneWarsMemes
 CLOUDS
+cobrakai
 cockatiel
 cocktails
 CoDCompetitive
@@ -1112,9 +1120,11 @@ DanMachi
 DannyGonzalez
 Daredevil
 DarK
+DarkAcademia
 DarkBRANDON
 darkestdungeon
 DarkGothicArt
+darknet
 DarkSouls2
 darksoulsmemes
 DarkTide
@@ -1122,6 +1132,7 @@ DarkViperAU
 darkwingsdankmemes
 DarlingInTheFranxx
 DarwinAwards
+Dashcam
 dashcamgifs
 data_irl
 DataHoarder
@@ -1145,6 +1156,7 @@ de_EDV
 de_IAmA
 deadbydaylight
 deadcells
+deadmalls
 deadmeatjames
 DeadSpace
 Deathcore
@@ -1217,6 +1229,7 @@ DHHMemes
 DHMIS
 diabetes_t1
 Diablo
+Diamonds
 DidntKnowIWantedThat
 digimon
 DigimonCardGame2020
@@ -1253,6 +1266,7 @@ DIY
 DMAcademy
 DnD
 DnDGreentext
+DnDHomebrew
 dndmaps
 dndmemes
 dndnext
@@ -1378,6 +1392,7 @@ ElizabethOlsen
 ellacervetto
 elonmusk
 ElvenFood
+Elysia
 ElysianEclipse
 Embroidery
 EmiliaClarke
@@ -1871,6 +1886,7 @@ h3h3productions
 Habs
 hacking
 HadesTheGame
+HadToHurt
 HaileeSteinfeld
 hailhortler
 hajimenoippo
@@ -2013,6 +2029,7 @@ howtonotgiveafuck
 howyoudoin
 httyd
 HUEstation
+HumanBeingBros
 HumanForScale
 Humanoidencounters
 HumansAreMetal
@@ -2205,11 +2222,13 @@ IronFrontUSA
 ironscape
 IrrationalMadness
 IsabelaMerced
+IsItBullshit
 islam
 israelexposed
 Italia
 ItaliaMeme
 italy
+Itasha
 ItemShop
 ItHadToBeBrazil
 IThinkYouShouldLeave
@@ -2314,6 +2333,7 @@ KatherineMcNamara
 KatherynWinnick
 katyperry
 KaynMains
+kde
 KDRAMA
 KeanuBeingAwesome
 Keep_Track
@@ -2333,6 +2353,7 @@ kfeets
 KGATLW
 KGBTR
 khajiithaswares
+Kibbe
 KidCudi
 KidsAreFuckingEvil
 KidsAreFuckingSmart
@@ -2397,6 +2418,7 @@ kurzgesagt
 KusanaliMains
 kutautos
 KUWTKsnark
+l4d2
 LabourUK
 labrador
 labrats
@@ -2449,6 +2471,7 @@ legendofkorra
 LegendsOfRuneterra
 LegendsOfTomorrow
 lego
+legodeal
 legogaming
 Legoleak
 legostarwars
@@ -2820,6 +2843,7 @@ MomForAMinute
 Mommit
 monarchism
 MonicaBellucci
+Monke
 MonorailCats
 Monstera
 MonsterHigh
@@ -3010,6 +3034,7 @@ nonbinarymemes
 NonCredibleDiplomacy
 NonCredibleOffense
 NoneHumanMoe
+nononono
 nonononoyes
 NonPoliticalTwitter
 noodlebones
@@ -3142,6 +3167,7 @@ oompasubs
 OooBigStretch
 OopsThatsDeadly
 opossum_irl
+Opossums
 Optifine
 orangecats
 orangecounty
@@ -3395,6 +3421,7 @@ premed
 PremierLeague
 PrequelMemes
 PrettyGirls
+PrettyGirlsUglyFaces
 PrettyOlderWomen
 Priconne
 PrimeiraLiga
@@ -3488,6 +3515,7 @@ RandomThoughts
 rangers
 rap
 RapFars
+Rardit
 rareinsults
 rarepuppers
 Rarethreats
@@ -3535,6 +3563,7 @@ redneckengineering
 redpandas
 redsox
 redstone
+RedvsBlue
 ReefTank
 regretfulparents
 regularcarreviews
@@ -3875,6 +3904,7 @@ solotravel
 SomeOrdinaryGmrs
 SommerRay
 somnivexillology
+sonarears
 SonicFrontiers
 SonicTheHedgehog
 SonoBisqueDoll
@@ -4288,6 +4318,7 @@ todayilearned
 toddlers
 Toefeathers
 ToiletPaperUSA
+tokipona
 tokkiefeesboek
 tollywood
 TomAndJerryMemes
@@ -4445,6 +4476,7 @@ unexpectedMontyPython
 UnexpectedMulaney
 unexpectedoffice
 UnexpectedSCP
+UnexpectedTF2
 unexpectedute
 Unextexted
 union
@@ -4524,6 +4556,7 @@ Vinesauce
 vintage
 vintageads
 VintageApple
+vintageaudio
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
@@ -4554,6 +4587,7 @@ vtm
 VuvuzelaIPhone
 VV11
 WackyTicTacs
+Wales
 walkaway
 wallpaper
 wallstreetbets
@@ -4601,6 +4635,7 @@ Weddingsunder10k
 WednesdayTVSeries
 WeDoALittlePosting
 weed
+weedstocks
 weeviltime
 weezer
 weightlifting
@@ -4627,6 +4662,7 @@ whatisthiscar
 whatsthisbird
 whatsthisbug
 whatsthisplant
+whatsthisrock
 whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
@@ -4656,6 +4692,7 @@ WhyWomenLiveLonger
 Wicca
 wien
 WiggleButts
+WikiLeaks
 wikipedia
 wildbeef
 WildernessBackpacking
