@@ -263,6 +263,7 @@ AskDocs
 AskHistorians
 AskMen
 AskMiddleEast
+AskNYC
 AskOuija
 AskReddit
 askscience
@@ -334,6 +335,7 @@ awwnverts
 awwtf
 Awww
 awwwtf
+AyakaMains
 AyyMD
 AZCardinals
 aznidentity
@@ -342,6 +344,7 @@ babybigcatgifs
 BabyBumps
 BabyCorgis
 babyelephantgifs
+babylon5
 Back4Blood
 Backcountry
 backrooms
@@ -595,6 +598,7 @@ Brochet
 brockhampton
 Brogress
 brooklynninenine
+bropill
 Browns
 brushybrushy
 btd6
@@ -791,6 +795,7 @@ CitiesSkylines
 citypop
 CityPorn
 civ
+civ5
 civic
 CivVI
 CK2GameOfthrones
@@ -1408,6 +1413,7 @@ fireemblem
 FireEmblemHeroes
 FireEmblemThreeHouses
 firefly
+firefox
 firstimpression
 FirstTimeHomeBuyer
 firstworldanarchists
@@ -1437,6 +1443,7 @@ fo76FilthyCasuals
 FondantHate
 food
 Foodforthought
+foodhacks
 FoodLosAngeles
 FoodPorn
 Foofighters
@@ -1789,6 +1796,7 @@ HiTMAN
 hitmanimals
 hmm
 hmmm
+hmmmgifs
 HobbyDrama
 hockey
 hockeymemes
@@ -1860,6 +1868,7 @@ HuskyTantrums
 HuTao_Mains
 HVAC
 HydroHomies
+hyouka
 IAmA
 iamatotalpieceofshit
 IAmTheMainCharacter
@@ -1873,6 +1882,7 @@ idahomurders
 ididthejobboss
 IdiotsFightingThings
 IdiotsInCars
+IdiotsOnBikes
 Idiotswithguns
 IDONTGIVEASWAG
 IDontWorkHereLady
@@ -2092,6 +2102,7 @@ kalam_army
 kaleycuoco
 KamenRider
 KamikazeByWords
+KanojoOkarishimasu
 kansascity
 KansasCityChiefs
 Kanye
@@ -2209,6 +2220,7 @@ LearnJapanese
 learnprogramming
 learntodraw
 Leathercraft
+lebowski
 LeedsUnited
 LegalAdviceUK
 legalcatadvice
@@ -2351,6 +2363,7 @@ mainecoons
 maisiewilliams
 MakeupAddiction
 MakeupLounge
+makeyourchoice
 MalayalamMovies
 malaysia
 malelivingspace
@@ -2409,6 +2422,7 @@ Mcat
 MCFC
 McKaylaMaroney
 McMansionHell
+McMaster
 me_irl
 me_irlgbt
 MealPrepSunday
@@ -2701,7 +2715,9 @@ NintendoMemes
 NintendoStitch
 NintendoSwitch
 njpw
+NLBest
 NoahGetTheBoat
+NobodyAsked
 nocontextpics
 NoFap
 noita
@@ -2946,6 +2962,7 @@ PetTheDamnDog
 PetTheDamnKitty
 pettyrevenge
 PewdiepieSubmissions
+PeytonList
 PhantomForces
 pharmacy
 PhasmophobiaGame
@@ -3074,6 +3091,7 @@ Priconne
 PrimitiveTechnology
 PrincessesOfPower
 PrintedMinis
+PrintedWarhammer
 privacy
 PrivacyGuides
 ProCreate
@@ -3323,6 +3341,7 @@ schizoposters
 schkreckl
 schnauzers
 science
+sciencefiction
 sciencememes
 ScienceNcoolThings
 scifi
@@ -3383,6 +3402,7 @@ SharedBPM
 Shark_Park
 sharks
 SheGotHands
+ShenheMains
 sheranetflix
 ShermanPosting
 shiba
@@ -3789,6 +3809,7 @@ TheBidenshitshow
 TheBonfire
 TheBoys
 TheBullWins
+TheCallistoProtocol
 thecatdimension
 TheCatTrapIsWorking
 TheCuddlePuddle
@@ -3877,6 +3898,7 @@ TinyUnits
 tippytaps
 Tiresaretheenemy
 titanfall
+titanic
 TitansTV
 titleporn
 tjournal_refugees
@@ -3907,6 +3929,7 @@ ToothpasteBoys
 TopGear
 TopMindsOfReddit
 toptoots
+toradora
 Torontobluejays
 torontoraptors
 torties
@@ -3962,6 +3985,7 @@ TrueSTL
 trump
 Trumpgret
 Trumpvirus
+truscum
 TRUTHsocialWatch
 TTSverse
 tuckedinkitties
@@ -4147,6 +4171,7 @@ WatchDogsWoofInside
 watcherentertainment
 Watches
 Watchexchange
+Watchmen
 WatchPeopleDieInside
 watchpeoplesurvive
 watchthingsfly
@@ -4330,5 +4355,6 @@ yvonnestrahovski
 ZanClan
 zelda
 ZeroWaste
+Zillennials
 zillowgonewild
 Zoomies
