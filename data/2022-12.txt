@@ -28,6 +28,7 @@
 30PlusSkinCare
 30ROCK
 3amjokes
+3d6
 3Dmodeling
 3Dprinting
 3DS
@@ -81,6 +82,7 @@ AchillesAndHisPal
 ACMilan
 ACPocketCamp
 ActionFigures
+ActivationSound
 ActLikeYouBelong
 ActualPublicFreakouts
 AddisonRae
@@ -247,6 +249,7 @@ apple
 AppleMusic
 AppleWatch
 ApplyingToCollege
+AquariumMemes
 Aquariums
 AquaSama
 AquaticAsFuck
@@ -467,6 +470,7 @@ BeautifulFemales
 BeautifulIndianWomen
 BeautyGuruChatter
 bee_irl
+beeandpuppycat
 Beekeeping
 BeelcitosMemes
 beer
@@ -707,6 +711,7 @@ CalicoKittys
 California
 California_Politics
 Calligraphy
+CallMeCarson
 CallOfDuty
 CallOfDutyMobile
 calvinandhobbes
@@ -734,6 +739,7 @@ CarryMinati
 carscirclejerk
 Cartalk
 CarTalkUK
+cassetteculture
 cassettefuturism
 castiron
 castles
@@ -850,6 +856,7 @@ Chiraqology
 Chivalry2
 chloe
 chloegracemoretz
+Choices
 Chonkers
 ChoosingBeggars
 Christianity
@@ -1012,6 +1019,7 @@ crazystairs
 CreateMod
 creepy
 creepyasterisks
+creepypasta
 CreepyWikipedia
 cremposting
 CrestedGecko
@@ -1139,6 +1147,7 @@ DataHoarder
 dataisbeautiful
 dataisugly
 datascience
+datealive
 dating_advice
 DaysGone
 Daytrading
@@ -1328,6 +1337,7 @@ Drifting
 dril
 DrillCats
 Drizzy
+DRSyourGME
 drugmemes
 Drugs
 drums
@@ -1445,6 +1455,7 @@ EulaMains
 euphoria
 EUR_irl
 europe
+eurovision
 EvaGreen
 evangelion
 evangelionmemes
@@ -1669,6 +1680,7 @@ fujifilm
 fujix
 fulbo
 FullmetalAlchemist
+fullpops
 FullScorpion
 FullShrimp
 functionalprint
@@ -1822,6 +1834,7 @@ GothGirls
 GothStyle
 GradSchool
 Graffiti
+GrandBlue
 grandorder
 grandpajoehate
 grandrapids
@@ -2052,6 +2065,7 @@ HydroHomies
 hyouka
 HypixelSkyblock
 IAmA
+Iamactuallyverybadass
 iamatotalpieceofshit
 IAmTheMainCharacter
 iamverysmart
@@ -2093,6 +2107,7 @@ ImaginaryBattlefields
 ImaginaryBeasts
 ImaginaryBehemoths
 ImaginaryBestOf
+ImaginaryCastles
 ImaginaryCharacters
 ImaginaryCityscapes
 ImaginaryCybernetics
@@ -2444,6 +2459,7 @@ LateShow
 LateStageCapitalism
 LateStageImperialism
 LatinoPeopleTwitter
+LaughJokes
 LaurenCohan
 law
 LawSchool
@@ -2559,6 +2575,7 @@ lookismcomic
 LOONA
 LooneyTunesLogic
 loopringorg
+lorde
 lordoftherings
 loreofleague
 loseit
@@ -2647,6 +2664,7 @@ mapmaking
 MapPorn
 mapporncirclejerk
 MapsWithoutNZ
+MaraudersGame
 MarchAgainstNazis
 MarchAgainstTrump
 MargotRobbie
@@ -2708,6 +2726,7 @@ MedievalCats
 MedievalHistoryMemes
 Meditation
 medizzy
+MegalithPorn
 megalophobia
 Megaman
 MeganFox
@@ -2975,7 +2994,9 @@ NewIran
 newjersey
 NewOrleans
 NewParents
+NewPatriotism
 news
+NewsAroundYou
 NewVegasMemes
 newworldgame
 newyorkcity
@@ -3018,6 +3039,7 @@ NintendoStitch
 NintendoSwitch
 njpw
 NLBest
+NLSSCircleJerk
 NoahGetTheBoat
 NoahGetTheDeathStar
 NobodyAsked
@@ -3025,6 +3047,7 @@ nocontextpics
 Noctor
 NoFap
 noita
+NoJumper
 NolanBatmanMemes
 NOLAPelicans
 NoLawns
@@ -3279,6 +3302,7 @@ PersonalFinanceNZ
 perth
 PERU
 PetAfterVet
+Pete_Buttigieg
 Petioles
 Pets
 PetsareAmazing
@@ -3299,6 +3323,7 @@ phillies
 philosophy
 PhilosophyMemes
 Philza
+phish
 phoenix
 PhoenixSC
 PhonesAreBad
@@ -3677,6 +3702,7 @@ Sanderson
 SanDiegan
 sandiego
 Sandman
+sanepolitics
 sanfrancisco
 sanrio
 SapphoAndHerFriend
@@ -4026,6 +4052,7 @@ StoppedWorking
 Stormlight_Archive
 Stormworks
 StPetersburgFL
+straightenedfeetsies
 StraightsBeingOK
 StrangeAndFunny
 StrangeEarth
@@ -4119,6 +4146,7 @@ TalesFromYourServer
 talk_hunfluencers
 tall
 tallyhall
+TameImpala
 tampa
 TampaBayLightning
 tankiejerk
@@ -4537,6 +4565,7 @@ velvethippos
 venturebros
 Vermintide
 vermont
+VersusSeries
 VeteransBenefits
 vexillology
 vexillologycirclejerk
@@ -4626,6 +4655,7 @@ watercolorcats
 Waterdogs
 WayOfTheBern
 WeaponsMoe
+WeatherGifs
 webcomics
 webdev
 WECcirclejerk
@@ -4732,6 +4762,7 @@ Workspaces
 Worldbox
 worldbuilding
 worldcup
+worldcupqatarstrophy
 worldjerking
 worldnews
 worldnewsvideo
@@ -4773,6 +4804,7 @@ XenobladeChronicles2
 XFiles
 xmen
 xqcow
+XXXTENTACION
 YaeMiko
 YagateKiminiNaru
 Yahaha_IRL
@@ -4788,6 +4820,7 @@ yesyesyesno
 yesyesyesyesno
 ynab
 YofukashiNoUta
+yoga
 Yoimiya_Mains
 yorickmains
 Yorkies
