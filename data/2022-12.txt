@@ -331,6 +331,7 @@ AskHistorians
 AskMen
 AskMiddleEast
 AskNYC
+AskOldPeople
 AskOuija
 AskReddit
 askscience
@@ -538,6 +539,7 @@ BenGarrisonCumEdits
 berkeley
 berlin
 bernesemountaindogs
+BernieSanders
 Berserk
 bertstrips
 bestof
@@ -607,6 +609,7 @@ blackopscoldwar
 blackpeoplegifs
 BlackPeopleTwitter
 BlackPink
+blacksabbath
 Blacksmith
 BladeAndSorcery
 bladerunner
@@ -801,6 +804,7 @@ CaraDelevingne
 carcrash
 cardano
 cardsagainsthumanity
+careerguidance
 carmemes
 carporn
 CarryMinati
@@ -847,6 +851,7 @@ CatsBeingDerps
 CatsBitingThings
 catscarryingstuffies
 CatsEnjoyingPets
+catsinboxes
 CatsInBusinessAttire
 catsinpants
 CatsInSinks
@@ -945,6 +950,7 @@ christianmemes
 christinahendricks
 christmas
 ChronicIllness
+ChronicPain
 chronotrigger
 ChuckleSandwich
 ChurchofChie
@@ -1089,6 +1095,7 @@ cottagecore
 CounterSide
 CountOnceADay
 CoupleMemes
+CourtneyMiller
 covidlonghaulers
 cowboybebop
 cowboys
@@ -1590,6 +1597,7 @@ EulaMains
 euphoria
 EUR_irl
 europe
+EuropeanFederalists
 eurovision
 EvaGreen
 evangelion
@@ -1696,6 +1704,7 @@ FightLibrary
 fightporn
 FigureSkating
 Filmmakers
+FinalDestinationShit
 FinalFantasy
 finance
 Finanzen
@@ -1731,6 +1740,7 @@ Flipping
 floggit
 flonkers
 Floof
+Florence_Pugh
 florida
 FloridaGators
 FloridaMan
@@ -1774,6 +1784,7 @@ FORTnITE
 FortNiteBR
 FortniteLeaks
 FortniteMemes
+FortWorth
 forwardsfromgrandma
 ForwardsFromKlandma
 forza
@@ -1869,6 +1880,7 @@ GalaxyFold
 GalGadot
 Gameboy
 gamecollecting
+Gamecube
 gamedev
 gamegrumps
 gameofthrones
@@ -2305,6 +2317,7 @@ ImaginaryFallout
 ImaginaryFeels
 ImaginaryFutureWar
 ImaginaryFuturism
+ImaginaryHellscapes
 ImaginaryHorrors
 ImaginaryHumans
 ImaginaryImmortals
@@ -2659,6 +2672,7 @@ LAClippers
 ladiesofthemcu
 LadiesOfWrestling
 ladyladyboners
+LAFC
 lakers
 LaLiga
 Lalisa
@@ -2718,6 +2732,7 @@ LEMMiNO
 LeniKlum
 leopardgeckos
 LeopardsAteMyFace
+lepin
 LesbianActually
 LesbianInsectBrothel
 lesbianmemes
@@ -2932,6 +2947,7 @@ mathmemes
 matrix
 matureplants
 mauerstrassenwetten
+MauLer
 Mavericks
 MawInstallation
 MayaHawke
@@ -2965,6 +2981,7 @@ medizzy
 MegalithPorn
 megalophobia
 Megaman
+megamindmemes
 MeganFox
 Megaten
 Megumin
@@ -3060,6 +3077,7 @@ MinecraftMemes
 minecraftseeds
 MineIslam
 MineralPorn
+MINI
 miniatures
 minimalcatart
 miniminter
@@ -3118,6 +3136,7 @@ Montana
 MoonKnight
 Moonmoon
 Morbius
+MordekaiserMains
 Mordhau
 moreplatesmoredates
 MoriCalliope
@@ -3180,6 +3199,7 @@ MyouiMina
 MyPeopleNeedMe
 MySingingMonsters
 MysteryDungeon
+mythology
 mythologymemes
 n64
 nagatoro
@@ -3297,10 +3317,12 @@ nintendo
 NintendoMemes
 NintendoStitch
 NintendoSwitch
+Nioh
 Nirvana
 njpw
 NLBest
 NLSSCircleJerk
+NMSCoordinateExchange
 NoahGetTheBoat
 NoahGetTheDeathStar
 NobodyAsked
@@ -3519,6 +3541,7 @@ Palestine
 PallasCats
 PandR
 panelshow
+PanPorn
 pansexual
 pansexualfleabrothel
 PantheonMains
@@ -3618,6 +3641,7 @@ pics
 PicsOfUnusualBirds
 piercing
 Pigifs
+pigs
 Pikabu
 Pikmin
 Pineapplebrat
@@ -3697,6 +3721,7 @@ Polska
 Polska_wpz
 polydactyl
 polymerclay
+Polytopia
 Pomeranians
 poodles
 poolrooms
@@ -4061,6 +4086,7 @@ SCPMemes
 SCPSecretLab
 ScrapMechanic
 Screenwriting
+ScritchTheDamnBird
 Scrubs
 scrungycats
 scuba
@@ -4491,6 +4517,7 @@ TalesFromTheFrontDesk
 TalesFromYourServer
 talk_hunfluencers
 tall
+TallGirls
 tallyhall
 TameImpala
 tampa
@@ -4524,6 +4551,7 @@ tech
 tech1e
 technews
 technicallythetruth
+technicallytrue
 Technoblade
 technology
 TechNope
@@ -4642,6 +4670,7 @@ TheTryGuys
 thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
+TheWeeklyRoll
 TheWeeknd
 thewestwing
 TheWhiteLotusHBO
@@ -4730,6 +4759,8 @@ toradora
 Torontobluejays
 torontoraptors
 torties
+tortoise
+Totaldrama
 totallynotrobots
 totalwar
 totalwarhammer
@@ -4779,6 +4810,7 @@ TrollYChromosome
 TruckerCats
 Truckers
 trucksim
+True_reddit
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
