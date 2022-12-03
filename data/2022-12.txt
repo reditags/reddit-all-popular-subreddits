@@ -95,6 +95,7 @@ Adelaide
 AdeptusMechanicus
 adhdmeme
 ADHDmemes
+Adirondacks
 AdobeIllustrator
 AdorableDragons
 adorableoldpeople
@@ -150,6 +151,7 @@ AlHaithamMains
 aliandjohnjamesagain
 aliens
 AliensFireteamElite
+alinity
 AlisonBrie
 AllTomorrows
 AlternateAngles
@@ -328,6 +330,7 @@ AskAGerman
 AskBalkans
 AskDocs
 AskHistorians
+asklatinamerica
 AskMen
 AskMiddleEast
 AskNYC
@@ -349,6 +352,7 @@ aspergers
 assassinscreed
 AssassinsCreedMemes
 AssassinsCreedValhala
+assettocorsa
 assholedesign
 astoria
 astramilitarum
@@ -837,6 +841,7 @@ Catholicism
 CatholicMemes
 cathostage
 Catloaf
+CatMechanics
 Catmemes
 catpics
 catpictures
@@ -953,6 +958,7 @@ ChronicIllness
 ChronicPain
 chronotrigger
 ChuckleSandwich
+ChurchOfCat
 ChurchofChie
 ChurchOfDorothea
 churchoffutaba
@@ -1074,6 +1080,7 @@ cookiedecorating
 Cookierun
 CookieRunKingdoms
 Cooking
+CoolCollections
 CoolGadgetsTube
 coolguides
 copenhagen
@@ -1457,6 +1464,7 @@ Dreadlocks
 DreamlightValley
 dreamsmp
 DreamWasTaken
+DreamWasTaken2
 DrewGooden
 Drifting
 dril
@@ -1466,6 +1474,7 @@ DRSyourGME
 drugmemes
 Drugs
 drugstoreMUA
+Drukhari
 drums
 drumstick
 drunk
@@ -1501,6 +1510,7 @@ Earwolf
 EatCheapAndHealthy
 EatCheapAndVegan
 eatsandwiches
+ebikes
 EbonyImagination
 Economics
 economy
@@ -1673,6 +1683,7 @@ FastWorkers
 fatbee
 fatestaynight
 fatsquirrelhate
+FCInterMilan
 fednews
 feedthebeast
 feedthememes
@@ -1732,6 +1743,7 @@ FixedGearBicycle
 FL_Studio
 Flamepoints
 flashlight
+FlashTV
 FleetwoodMac
 FlexinLesbians
 flightsim
@@ -1870,6 +1882,7 @@ fuslie
 fut
 futebol
 futurama
+future
 futureporn
 Futurology
 G59
@@ -1939,6 +1952,7 @@ geology
 Geologymemes
 geometrydash
 Georgia
+georgiabulldogs
 germanshepherds
 GermanWW2photos
 germany
@@ -2099,6 +2113,7 @@ HandOfMemes
 Handwriting
 happy
 happycowgifs
+happycrowds
 Happydogs
 HappyPitbull
 HappyWoofGifs
@@ -2177,6 +2192,7 @@ hoggit
 hogrida
 hoi4
 HOI4memes
+hoi4modding
 holdmycosmo
 holdmyfeedingtube
 holdmyfries
@@ -2300,6 +2316,7 @@ Im15AndThisIsYeet
 ImaginaryAngels
 ImaginaryArchitecture
 ImaginaryArmor
+ImaginaryAzeroth
 ImaginaryBattlefields
 ImaginaryBeasts
 ImaginaryBehemoths
@@ -2484,6 +2501,7 @@ japanpics
 java
 Jazz
 jazzcirclejerk
+Jcole
 JDM
 JeanMains
 jedicouncilofelrond
@@ -2499,7 +2517,9 @@ Jeopardy
 jerma985
 jerseyshore
 jessicaalba
+jesuschristouija
 Jewdank
+jewelrymaking
 Jewish
 JimCornette
 jisoo
@@ -2727,6 +2747,7 @@ legogaming
 Legoleak
 legostarwars
 legostarwarsmemes
+LegoStarWarsVideoGame
 LEGOtrains
 LEMMiNO
 LeniKlum
@@ -2974,6 +2995,7 @@ MechanicalKeyboards
 mechmarket
 Mechwarrior5
 MedicalGore
+medicalschoolanki
 MedievalCats
 MedievalHistoryMemes
 Meditation
@@ -3050,6 +3072,7 @@ migraine
 Miitopia
 Mikahlynnishot
 MikuNakano
+mildlyevangelion
 mildlyinfuriating
 mildlyinteresting
 mildlysatisfying
@@ -3171,6 +3194,7 @@ mtg
 mtgfinance
 MtvChallenge
 MuayThai
+muglife
 Muln
 Multicopter
 MultiVersus
@@ -3329,6 +3353,7 @@ NobodyAsked
 nocontextpics
 Noctor
 NoFap
+NoisyCats
 noita
 NoJumper
 NolanBatmanMemes
@@ -3385,6 +3410,7 @@ NuxTakuSubmissions
 nuzlocke
 nvidia
 nwordington
+NYCbike
 NYCinfluencersnark
 nycrail
 NYGiants
@@ -3396,6 +3422,7 @@ obeyme
 oblivion
 ObviousPlant
 OceansAreFuckingLit
+ockytop
 oculus
 OculusQuest
 OddlyCreative
@@ -3459,6 +3486,7 @@ OmniscientReader
 OMORI
 Omorimemes
 OnCinemaAtTheCinema
+oneanddone
 onebag
 onednd
 onejob
@@ -3679,6 +3707,7 @@ playboicarti
 playrust
 playstation
 PlayStationPlus
+PLC
 Plumbing
 PlusSizeFashion
 Poetry
@@ -3761,6 +3790,7 @@ PrequelMemes
 PrettyGirls
 PrettyGirlsUglyFaces
 PrettyOlderWomen
+preyingmantis
 Priconne
 PrimeiraLiga
 PrimitiveTechnology
@@ -4117,7 +4147,9 @@ serbia
 serbiancringe
 seriouseats
 Serverlife
+settmains
 Seulgi
+seventeen
 SeveranceAppleTVPlus
 SewayakiKitsune
 Sewerslvt
@@ -4353,6 +4385,7 @@ StableDiffusion
 StainedGlass
 stalker
 StallmanWasRight
+Stance
 standardissuecat
 StandUpComedy
 standupshots
@@ -4390,6 +4423,7 @@ Stealthbombers
 Steam
 SteamDeck
 steampunk
+Steelbooks
 steelers
 steinsgate
 Stellaris
@@ -4475,6 +4509,7 @@ survivinginfidelity
 survivor
 suselle
 sushi
+SushiAbomination
 suspiciouslyspecific
 suspiciousquotes
 sustainability
@@ -4507,6 +4542,7 @@ tacobell
 Tacoma
 tacticalgear
 TacticalIssueCat
+TacticalUrbanism
 Takagi_san
 TakaMori
 tales
@@ -4972,6 +5008,7 @@ veYakinEvren
 VGC
 victoria2
 victoria3
+VictoriaBC
 victoriajustice
 videogamedunkey
 videogames
@@ -5042,6 +5079,7 @@ Warhammer40kEsp
 WarhammerCompetitive
 WarhammerFantasy
 WarplanePorn
+WarriorCats
 WarriorNun
 warriors
 warsaw
@@ -5060,6 +5098,7 @@ watchpeoplesurvive
 watchthingsfly
 Watercolor
 watercolorcats
+watercooling
 Waterdogs
 WayOfTheBern
 wde
@@ -5067,8 +5106,10 @@ WeaponsMoe
 WeatherGifs
 webcomics
 webdev
+wec
 WECcirclejerk
 wedding
+weddingdress
 weddingshaming
 Weddingsunder10k
 WednesdayTVSeries
