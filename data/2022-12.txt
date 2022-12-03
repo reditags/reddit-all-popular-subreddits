@@ -185,9 +185,11 @@ AnarchyChess
 AnarchyMemeCollective
 Anbennar
 ancientegypt
+ancientrome
 andor
 Androgynoushotties
 Android
+AndroidGaming
 angelsbaseball
 angrycatpics
 Angryupvote
@@ -232,6 +234,7 @@ AnimeSketch
 AnimeTomboys
 AnimeWallpapersSFW
 AnimeYogaPants
+Annabananaxdddd
 annakendrick
 ANormalDayInRussia
 antiarbeit
@@ -307,6 +310,7 @@ Art
 ArtDeco
 ArtefactPorn
 ArtisanVideos
+ArtNouveau
 ArtOfRolling
 ArtPorn
 asaprocky
@@ -597,6 +601,7 @@ BladeAndSorcery
 bladerunner
 Bladesmith
 BLAHAJ
+blakelively
 blankies
 BlatantMisogyny
 bleach
@@ -769,6 +774,7 @@ canadaguns
 canadahousing
 canadaleft
 CanadaSoccer
+CanadianForces
 CanadianInvestor
 canberra
 canes
@@ -779,6 +785,7 @@ CapitolConsequences
 CaptainSparrowmemes
 capybara
 carcrash
+cardano
 cardsagainsthumanity
 carmemes
 carporn
@@ -952,6 +959,7 @@ ClassConscienceMemes
 classicalmusic
 classiccars
 ClassicRock
+classicsoccer
 classicwow
 ClassPoliticsTwitter
 ClassroomOfTheElite
@@ -966,6 +974,7 @@ ClipStudio
 clonewars
 CloneWarsMemes
 CLOUDS
+cluj
 cna
 cobrakai
 cockatiel
@@ -1101,6 +1110,7 @@ criticalblunder
 criticalrole
 croatia
 cromch
+croppingishard
 crossdressing
 CrossfitGirls
 CrossStitch
@@ -1219,6 +1229,7 @@ dataisbeautiful
 dataisugly
 datascience
 datealive
+dating
 dating_advice
 DaysGone
 Daytrading
@@ -1306,6 +1317,7 @@ DetroitPistons
 DetroitRedWings
 deutschememes
 Deuxmoi
+DevelEire
 developersIndia
 DevilMayCry
 devils
@@ -1348,6 +1360,7 @@ DivorcedBirds
 DiWHY
 DiWHYNOT
 DIY
+DIYUK
 DMAcademy
 DnD
 DnDGreentext
@@ -1507,6 +1520,7 @@ Emuwarflashbacks
 EnculerLesVoitures
 ender3
 EnemaEndorsement
+energy
 EngagementRings
 engineering
 engineeringmemes
@@ -1837,6 +1851,7 @@ gamindustri
 gaming
 Gamingcirclejerk
 GamingDetails
+GamingLaptops
 GamingLeaksAndRumours
 gamingpc
 gangstaswithwaifus
@@ -1862,6 +1877,7 @@ GaySoundsShitposts
 GCSE
 geek
 gekte
+genderfluid_irl
 genestealercult
 Genshin_Impact
 Genshin_Impact_Leaks
@@ -1926,6 +1942,7 @@ GME
 gme_meltdown
 GMEJungle
 gmod
+goats
 goblincore
 GoblinSlayer
 GodofWar
@@ -2009,6 +2026,7 @@ GunPorn
 guns
 Guns_Guns_Guns
 gurrenlagann
+GuyCry
 GuysBeingDudes
 gwent
 GYM
@@ -2200,6 +2218,7 @@ iamveryrandom
 iamverysmart
 IASIP
 IBEW
+IBO
 IceCreamWaifu
 ich_iel
 ichbin40undlustig
@@ -2246,6 +2265,7 @@ ImaginaryCybernetics
 ImaginaryDarkSouls
 ImaginaryDemons
 ImaginaryDragons
+ImaginaryElementals
 ImaginaryElves
 ImaginaryFallout
 ImaginaryFeels
@@ -2413,6 +2433,7 @@ java
 Jazz
 jazzcirclejerk
 JDM
+JeanMains
 jedicouncilofelrond
 JEENEETards
 JeffArcuri
@@ -2579,6 +2600,7 @@ kristenbell
 kristenstewart
 ksi
 KSPMemes
+KukiShinobuMains
 KumoDesu
 kurtisconner
 kurzgesagt
@@ -2768,6 +2790,7 @@ lucifer
 LudwigAhgren
 luigi_irl
 lululemon
+Lumine_Mains
 LumineMains
 Lumity
 Lustig
@@ -3045,6 +3068,7 @@ MonsterHunterWorld
 Montana
 MoonKnight
 Moonmoon
+Morbius
 Mordhau
 moreplatesmoredates
 MoriCalliope
@@ -3250,6 +3274,7 @@ NonPoliticalTwitter
 noodlebones
 nope
 Nordichistorymemes
+NorfFc
 norge
 Norse
 NorthCarolina
@@ -3820,6 +3845,7 @@ RepsneakersDogs
 reptiles
 RepTime
 Republican
+RepublicanValues
 rescuedogs
 Residency
 residentevil
@@ -3961,6 +3987,7 @@ science
 sciencefiction
 sciencememes
 ScienceNcoolThings
+sciences
 scifi
 SCJerk
 Scotland
@@ -4204,6 +4231,7 @@ speedrun
 sphynx
 SpiceandWolf
 spicy
+SpicyKittens
 spicypillows
 spiderbro
 Spiderman
@@ -4459,6 +4487,7 @@ TerrifyingAsFuck
 teslainvestorsclub
 TeslaLounge
 TeslaModel3
+TeslaModelY
 teslamotors
 Testosterone
 Texans
@@ -4913,6 +4942,7 @@ Warhammer40kEsp
 WarhammerCompetitive
 WarhammerFantasy
 WarplanePorn
+WarriorNun
 warriors
 warsaw
 WarshipPorn
@@ -4997,6 +5027,7 @@ wholesomememes
 wholesomemes
 wholesomeromance
 WholesomeSliceOfLife
+wholesomevandalism
 whoosh
 whothefuckup
 WhyWomenLiveLonger
