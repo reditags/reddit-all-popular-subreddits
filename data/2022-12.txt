@@ -119,6 +119,7 @@ AFCSouthMemeWar
 afkarena
 AFL
 AfterTheEndFanFork
+AgainstHateSubreddits
 AgainstHinduphobia
 Agedlikehoney
 agedlikemilk
@@ -414,6 +415,7 @@ AutumnPorn
 AvatarMemes
 avatarprequelmemes
 Avengers
+AverageBattlestations
 aves
 avfc
 aviation
@@ -461,6 +463,7 @@ badroommates
 badwomensanatomy
 baeirene
 bakchodi
+bakeoff
 Baking
 bald
 BaldursGate3
@@ -951,6 +954,7 @@ chessbeginners
 ChevyTrucks
 CHIBears
 chicagobulls
+Chicken_Thoughts
 chickengifs
 chickens
 CHICubs
@@ -1614,6 +1618,7 @@ EntitledPeople
 Entomology
 Entrepreneur
 entwives
+EpicGamesPC
 EpicSeven
 equestriaatwar
 Equestrian
@@ -1732,6 +1737,7 @@ fempark
 fender
 Ferrari
 ferrets
+fffffffuuuuuuuuuuuu
 FFVIIRemake
 ffxiv
 FFXIVGlamours
@@ -1826,6 +1832,7 @@ FORTnITE
 FortNiteBR
 FortniteLeaks
 FortniteMemes
+FortniteSeasonalHype
 FortWorth
 forwardsfromgrandma
 ForwardsFromKlandma
@@ -1946,6 +1953,7 @@ GardeningAustralia
 garfieldminusgarfield
 GarlicBreadMemes
 Gary_The_Cat
+Gatcat
 gatekeeping
 GatekeepingYuri
 gatesopencomeonin
@@ -1983,6 +1991,7 @@ Geologymemes
 geometrydash
 Georgia
 georgiabulldogs
+gerbil
 germanshepherds
 GermanWW2photos
 germany
@@ -2147,6 +2156,7 @@ handholding
 handmade
 HandOfMemes
 Handwriting
+HannibalTV
 happy
 happycowgifs
 happycrowds
@@ -2269,6 +2279,7 @@ horror
 Horses
 HostileArchitecture
 hot_reporters
+hotdudeswithplants
 HotlineMiami
 hottoys
 HotWheels
@@ -2367,12 +2378,14 @@ ImaginaryCybernetics
 ImaginaryDarkSouls
 ImaginaryDemons
 ImaginaryDragons
+imaginaryelections
 ImaginaryElementals
 ImaginaryElves
 ImaginaryFallout
 ImaginaryFeels
 ImaginaryFutureWar
 ImaginaryFuturism
+imaginarygatekeeping
 ImaginaryHellscapes
 ImaginaryHorrors
 ImaginaryHumans
@@ -2739,6 +2752,7 @@ ladiesofthemcu
 LadiesOfWrestling
 ladyladyboners
 LAFC
+Lain
 lakers
 LaLiga
 Lalisa
@@ -3206,6 +3220,7 @@ MonsterHigh
 MonsterHunter
 MonsterHunterWorld
 Montana
+montypython
 MontyPythonMemes
 MoonKnight
 Moonmoon
@@ -4362,6 +4377,7 @@ snails
 snakes
 SnakesWithHats
 SnapChad
+sneakerreps
 Sneks
 SNKRS
 snooker
@@ -4670,6 +4686,7 @@ teenagersbuthot
 teenagersnew
 TeenMomOGandTeenMom2
 Tekken
+Tendies
 Tennesseetitans
 tennis
 TenseiSlime
@@ -5038,6 +5055,7 @@ UpvoteBecauseButt
 upvoteexeggutor
 urbanexploration
 UrbanHell
+UrinatingTree
 uruguay
 UrvinFinance
 uselessredcircle
@@ -5049,6 +5067,7 @@ ussoccer
 Utah
 utahfootball
 UzakiChan
+vagabond
 vagabondmanga
 valheim
 VALORANT
