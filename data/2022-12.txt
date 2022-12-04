@@ -201,6 +201,7 @@ analog
 AnalogCommunity
 Anarchism
 Anarcho_Capitalism
+Anarchopunks
 Anarchy4Everyone
 AnarchyChess
 AnarchyMemeCollective
@@ -738,6 +739,7 @@ BotW_memes
 boulder
 bouldering
 BoutinelaBabes
+bowhunting
 Boxer
 Boxing
 boyslove
@@ -900,6 +902,7 @@ Catmemes
 catpics
 catpictures
 cats
+CatsAndDogsBFF
 catsarealiens
 CatsAreAssholes
 catsarefuckingstupid
@@ -1133,6 +1136,7 @@ conservatives
 ConservativesOnly
 conspiracy
 conspiracy_commons
+conspiracytheories
 Construction
 consulting
 ContagiousLaughter
@@ -1476,6 +1480,7 @@ DiWHYNOT
 DIY
 DIYUK
 DMAcademy
+DMDadJokes
 DMZ
 DnD
 DnDGreentext
@@ -1629,6 +1634,7 @@ electronics
 EliteDangerous
 EliteWeebs
 ElizabethOlsen
+ElizabethTurner
 ellacervetto
 elonmusk
 ElvenFood
@@ -1685,6 +1691,7 @@ EskiMemes
 espresso
 estoration
 ethereum
+EtherMining
 ethfinance
 ethoslab
 ethtrader
@@ -2288,6 +2295,7 @@ HelpMeFind
 HermanCainAward
 HermitCraft
 hermitcraftmemes
+heroes3
 heroesofthestorm
 HeroForgeMinis
 herpetology
@@ -2300,6 +2308,7 @@ Higurashinonakakoroni
 HikaruNakamura
 HilariaBaldwin
 Hilary_Duff
+HildaTheSeries
 HIMYM
 hinduism
 HistoricalCostuming
@@ -2462,6 +2471,7 @@ ImaginaryCastles
 ImaginaryCharacters
 ImaginaryCityscapes
 ImaginaryCybernetics
+ImaginaryCyberpunk
 ImaginaryDarkSouls
 ImaginaryDemons
 ImaginaryDragons
@@ -2494,6 +2504,7 @@ ImaginaryMonsters
 ImaginaryNecronomicon
 ImaginaryNobles
 ImaginaryOrcs
+ImaginarySeascapes
 ImaginarySliceOfLife
 ImaginarySoldiers
 ImaginaryStarships
@@ -2664,6 +2675,7 @@ jellybeantoes
 JennaLouiseColeman
 JennaOrtega_
 jennie
+JenniferConnelly
 JenniferLawrence
 JenniferLopez
 jenniferlovehewitt
@@ -2909,6 +2921,7 @@ LegendsOfRuneterra
 LegendsOfTomorrow
 lego
 legodeal
+legodnd
 legogaming
 Legoleak
 legostarwars
@@ -3820,6 +3833,7 @@ pelotonmemes
 penguins
 PenmanshipPorn
 Pennsylvania
+pennystocks
 PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
@@ -3842,6 +3856,7 @@ PersonalFinanceCanada
 PersonalFinanceNZ
 perth
 PERU
+PeruanasHott
 Pet_Renaissance
 PetAfterVet
 Pete_Buttigieg
@@ -3903,6 +3918,7 @@ pisscommenting
 pitbulls
 pitbulls_in_partyhats
 pitbullsinjammies
+PittieSmiles
 pittsburgh
 PixelArt
 Pizza
@@ -4086,6 +4102,7 @@ quotes
 QuotesPorn
 R6ProLeague
 Rabbits
+rabbitswithjobs
 Raccoons
 radiohead
 radioheadcirclejerk
@@ -4171,6 +4188,7 @@ redsox
 redstone
 RedvsBlue
 ReefTank
+ReevesBatmanmemes
 regretfulparents
 regularcarreviews
 regularshow
@@ -4374,6 +4392,7 @@ selfhosted
 selfie
 selfimprovement
 selfreliance
+SeniorCats
 seniorkitties
 Sephora
 SequelMemes
@@ -4725,6 +4744,7 @@ SubsTakenLiterally
 Suburbanhell
 SubwayCreatures
 SuccessionTV
+succshaming
 suddenlybi
 suddenlycaralho
 SuddenlyCommunist
@@ -5077,6 +5097,7 @@ TowerofGod
 TownofSalemgame
 Toyota
 ToyotaTacoma
+TPoseMemes
 traadustCrusaders
 TrackMania
 traderjoes
@@ -5114,6 +5135,7 @@ trippinthroughtime
 TrishylandWifeys
 TrollCoping
 TrollYChromosome
+Trophies
 TruckerCats
 Truckers
 Trucks
@@ -5274,6 +5296,7 @@ vegancirclejerk
 VeganDE
 veganfitness
 VeganFoodPorn
+vegangifrecipes
 veganrecipes
 vegetablegardening
 vegetarian
@@ -5339,6 +5362,7 @@ VRtoER
 vsauce
 VShojo
 vtm
+vtmb
 vultureculture
 VuvuzelaIPhone
 VV11
@@ -5538,6 +5562,7 @@ writingcirclejerk
 WritingPrompts
 WRX
 WTF
+WTFaucet
 WTFgaragesale
 wtfstockphotos
 ww2
@@ -5595,6 +5620,7 @@ youngpeopleyoutube
 YoungThug
 YouniquePresenterMS
 YouOnLifetime
+YourJokeButWorse
 YouSeeComrade
 youseeingthisshit
 YouShouldKnow
