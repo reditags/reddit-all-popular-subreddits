@@ -686,6 +686,7 @@ BollywoodUHQonly
 Bondedpairs
 boneachingjuice
 BoneAppleTea
+bonehealingjuice
 bonehurtingjuice
 BONELAB
 booknooks
@@ -1089,6 +1090,7 @@ community
 CompetitiveApex
 Competitiveoverwatch
 CompetitiveTFT
+CompetitiveWoW
 compsci
 computers
 conan
@@ -2285,6 +2287,7 @@ holdmyredbull
 HollowKnight
 HollowKnightArt
 HollowKnightMemes
+holocure
 Hololive
 HololiveYuri
 Holostars
@@ -3011,6 +3014,7 @@ madlads
 MadokaMagica
 MagicArena
 magicthecirclejerking
+magnetfishing
 Mahouka
 MaiaKnightSnark2
 Maine
@@ -3997,6 +4001,7 @@ QuestBridge
 quilting
 quityourbullshit
 Qult_Headquarters
+quotes
 QuotesPorn
 R6ProLeague
 Rabbits
@@ -4520,6 +4525,7 @@ spooktober
 SportingCP
 sports
 sportsbetting
+sportsbook
 spotted
 spqrposting
 spreadytoes
@@ -4750,6 +4756,7 @@ technology
 TechNope
 techsupportgore
 techsupportmacgyver
+techwearclothing
 TeddyFresh
 TedLasso
 teefies
@@ -4897,6 +4904,7 @@ ThriftGrift
 ThriftStoreCats
 thumbcats
 Thunder
+tianguancifu
 TibiaMMO
 Ticos
 tiedye
@@ -5134,6 +5142,7 @@ UnresolvedMysteries
 UnsolvedMysteries
 untrustworthypoptarts
 UnusualVideos
+unwholesomememes
 uofm
 upcycling
 UpliftingNews
@@ -5153,6 +5162,7 @@ ussoccer
 Utah
 utahfootball
 UzakiChan
+v8supercars
 vagabond
 vagabondmanga
 valheim
@@ -5230,6 +5240,7 @@ Volumeeating
 Volvo
 VoteBlue
 VoteDEM
+vpnnetwork
 VRchat
 VRGaming
 VRtoER
