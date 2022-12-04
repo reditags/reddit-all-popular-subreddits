@@ -1025,6 +1025,7 @@ classicwow
 ClassPoliticsTwitter
 ClassroomOfTheElite
 CleaningTips
+Cleveland
 clevelandcavs
 ClevelandGuardians
 clevercomebacks
@@ -1112,6 +1113,7 @@ cookiedecorating
 Cookierun
 CookieRunKingdoms
 Cooking
+CoolAmericaFacts
 CoolCollections
 CoolGadgetsTube
 coolguides
@@ -1445,6 +1447,7 @@ DnDIY
 dndmaps
 dndmemes
 dndnext
+DobermanPinscher
 doctorwho
 DoctorWhumour
 Documentaries
@@ -1457,6 +1460,7 @@ dogelore
 doggos
 dogpictures
 dogs
+DogsAndPlants
 dogsenjoyingnature
 dogslookingdown
 DogsMirin
@@ -1465,6 +1469,7 @@ dogswearinghats
 dogswithjobs
 Dogtraining
 dogue
+dogvideos
 DokkanBattleCommunity
 Dolls
 donaldglover
@@ -1612,6 +1617,7 @@ EngineeringPorn
 EngineeringStudents
 engrish
 ENLIGHTENEDCENTRISM
+enlistedgame
 Enough_Sanders_Spam
 EnoughCommieSpam
 EnoughLibertarianSpam
@@ -1661,6 +1667,7 @@ EverythingFoxes
 EverythingScience
 evilbuildings
 EvilDead
+excgarated
 existentialcrisiscat
 exjw
 exmormon
@@ -1764,6 +1771,7 @@ Filmmakers
 FinalDestinationShit
 FinalFantasy
 finance
+financialindependence
 Finanzen
 FindTheSniper
 FingMemes
@@ -1803,6 +1811,7 @@ florida
 FloridaGators
 FloridaMan
 FlorkofCowsOfficial
+FluentInFinance
 flyfishing
 flying
 fnatic
@@ -2106,6 +2115,7 @@ greenday
 greenville
 Greyhounds
 greysanatomy
+GriefSupport
 grilledcheese
 grilling
 Grimdank
@@ -2329,6 +2339,7 @@ husky
 HuskyTantrums
 HuTao_Mains
 HVAC
+HybridAnimals
 hyderabad
 HydroHomies
 hyouka
@@ -2532,6 +2543,7 @@ IsabelaMerced
 Ishowspeed
 IsItBullshit
 islam
+isopods
 israelexposed
 Italia
 ItaliaMeme
@@ -2551,6 +2563,7 @@ iwoulddiefornoodle
 IWW
 Izlam
 jackrussellterrier
+jacksonville
 jag_ivl
 Jaguars
 jaidenanimations
@@ -3460,6 +3473,7 @@ nope
 Nordichistorymemes
 NorfFc
 norge
+NormMacdonald
 Norse
 NorthCarolina
 northernireland
@@ -3792,6 +3806,7 @@ PlanningMemes
 PlantBasedDiet
 plantclinic
 PlantedTank
+PlantGoths
 plants
 plantsandpots
 PlantsVSZombies
@@ -3960,6 +3975,7 @@ Rabbits
 Raccoons
 radiohead
 radioheadcirclejerk
+Radiology
 ragdolls
 RaidenMains
 raiders
@@ -4062,6 +4078,7 @@ residentevil
 restofthefuckingowl
 RetroAR
 retrobattlestations
+RetroBowl
 RetroFuturism
 retrogaming
 revancedapp
@@ -4269,6 +4286,7 @@ ShaneDawson
 SharedBPM
 Shark_Park
 sharks
+sharpcutting
 SheGotHands
 ShenheMains
 sheranetflix
@@ -4529,6 +4547,7 @@ Steelbooks
 steelers
 steinsgate
 Stellaris
+Stepdadreflexes
 stephenking
 stevencrowder
 stevenuniverse
@@ -4560,6 +4579,7 @@ stray
 straykids
 StreetFighter
 StreetMartialArts
+streetphotography
 strength_training
 Stuck10YearsBehind
 StudentLoans
@@ -4784,6 +4804,7 @@ TheHandmaidsTale
 TheKittyKingdom
 TheLastAirbender
 thelastofus
+TheLastOfUs2
 ThelastofusHBOseries
 TheLeftCantMeme
 TheLegitBoss
@@ -5311,6 +5332,7 @@ willwood
 wimmelbilder
 Windows10
 Windows11
+wine
 WingsOfFire
 WinStupidPrizes
 winterporn
