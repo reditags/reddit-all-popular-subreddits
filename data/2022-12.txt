@@ -124,6 +124,7 @@ AEWOfficial
 AFCSouthMemeWar
 afkarena
 AFL
+AfterEffects
 AfterTheEndFanFork
 AgainstHateSubreddits
 AgainstHinduphobia
@@ -435,6 +436,7 @@ autobloed
 AutoDetailing
 Autos
 AutumnPorn
+Avatar
 AvatarMemes
 avatarprequelmemes
 Avengers
@@ -582,6 +584,7 @@ bengals
 BenGarrisonCumEdits
 berkeley
 berlin
+Bernadetta
 bernesemountaindogs
 BernieSanders
 Berserk
@@ -677,6 +680,7 @@ Blessed_Images
 blessedcomments
 blessedimages
 Blink182
+BloodAngels
 blop
 BlueCollarWomen
 BlueLock
@@ -1508,6 +1512,7 @@ dogbridges
 dogcatlover
 dogecoin
 dogelore
+Doggles
 doggos
 Dogloaf
 dogpictures
@@ -2112,6 +2117,7 @@ gifsthatkeepongiving
 Gintama
 Giraffesdontexist
 girlsfrontline
+GirlsMirin
 GirlsUndShitposts
 girlswithbigmuscles
 GirlsWithHugePussies
@@ -2282,6 +2288,7 @@ Hasan_Piker
 hatsune
 HauntedMound
 Hawaii
+HayleyAtwell
 hayleywilliams
 HazbinHotel
 hbomberguy
@@ -2770,6 +2777,7 @@ KanojoOkarishimasu
 kansascity
 KansasCityChiefs
 Kanye
+karengillan
 KarmaRoulette
 KatDennings
 katebeckinsale
@@ -2937,6 +2945,7 @@ leaves
 lebowski
 LeedsUnited
 LeftistGamersUnion
+legaladviceofftopic
 LegalAdviceUK
 legalcatadvice
 legendofkorra
@@ -3071,6 +3080,7 @@ LoveIslandTV
 lovejoyband
 LoveLive
 LoveNikki
+low_poly
 LowQualityMemes
 LowSodiumDestiny
 LowSodiumHalo
@@ -3313,6 +3323,7 @@ Milking
 Millennials
 MillieBobbyBrown2
 milwaukee
+MilwaukeeTool
 mina_irl
 Mindfulness
 Minecraftbuilds
@@ -3359,6 +3370,7 @@ MobKitchen
 Mobpsycho100
 MobuSeka
 MoDaoZuShi
+modeltrains
 Modern_Family
 ModernistArchitecture
 modernwarfare
@@ -4183,6 +4195,7 @@ readanotherbook
 ReadyOrNotGame
 real_China_irl
 RealBeesFakeTopHats
+RealDayTrading
 realfishfaketophats
 reallifedoodles
 RealLifeShinies
@@ -4667,6 +4680,7 @@ Splitgate
 sploot
 Spokane
 spongebob
+SpongebobMemes
 spooktober
 SportingCP
 sports
@@ -4844,6 +4858,7 @@ sydney
 SydneySweeney
 SymmetraMains
 SympatheticMonsters
+synthesizercirclejerk
 synthesizers
 sysadmin
 Sysadminhumor
@@ -5121,6 +5136,7 @@ TooMeIrlForMeIrl
 ToothpasteBoys
 TopGear
 TopMindsOfReddit
+toptalent
 toptoots
 toradora
 Torontobluejays
@@ -5626,6 +5642,7 @@ XboxSeriesX
 Xcom
 Xenoblade_Chronicles
 XenobladeChronicles2
+Xenonion
 XFiles
 XiaoMains
 xkcd
