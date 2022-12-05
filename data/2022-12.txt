@@ -160,6 +160,7 @@ AJR
 ak47
 akagas
 akita
+AkutsuSan
 alaska
 albania
 Albany
@@ -176,6 +177,7 @@ AlexisRen
 AlfaRomeo
 AlHaithamMains
 aliandjohnjamesagain
+alicenfern2
 aliens
 AliensFireteamElite
 alinity
@@ -1524,6 +1526,7 @@ DHMIS
 diabetes
 diabetes_t1
 Diablo
+diablo2
 Diablo_2_Resurrected
 Diamonds
 DidntKnowIWantedThat
@@ -2503,6 +2506,7 @@ hotdudeswithplants
 HotlineMiami
 hottoys
 HotWheels
+Houdini
 houkai3rd
 HouseOfTheDragon
 houseplants
@@ -2848,6 +2852,7 @@ Jojo
 JoJoMemes
 Jokes
 JonTron
+Jord627_
 Jordan_Peterson_Memes
 JordanPeterson
 Journaling
@@ -3076,6 +3081,7 @@ legaladviceofftopic
 LegalAdviceUK
 legalcatadvice
 legendofkorra
+LegendsMemes
 LegendsOfRuneterra
 LegendsOfTomorrow
 lego
@@ -4207,6 +4213,7 @@ polydactyl
 polymerclay
 Polytopia
 Pomeranians
+ponds
 poodles
 poolrooms
 PoorHammer
@@ -4238,6 +4245,7 @@ pozilei
 ppnojutsu
 PragerUrine
 PraiseTheCameraMan
+precognition
 PredecessorGame
 PrehistoricMemes
 Prematurecelebration
@@ -4514,6 +4522,7 @@ RSA
 rsloshredit
 RTGameCrowd
 rugbyunion
+RuinedMyDay
 runefactory
 runescape
 running
@@ -4626,6 +4635,7 @@ SeattleWA
 secondsketch
 secretcompartments
 seculartalk
+see
 seinfeld
 seinfeldgifs
 SeishunButaYarou
@@ -5804,6 +5814,7 @@ Wicca
 wien
 WiggleButts
 wii
+wiiu
 WikiLeaks
 wikipedia
 wildbeef
