@@ -184,6 +184,7 @@ AllTomorrows
 AlternateAngles
 AlternateHistory
 AlternativeHistory
+alvvays
 AlzheimersGroup
 AmateurRoomPorn
 amazingmemes
@@ -1086,6 +1087,7 @@ cigars
 cincinnati
 Cinemagraphs
 cinematography
+CineShots
 circlejerk
 CirclejerkSopranos
 cirkeltrek
@@ -1462,6 +1464,7 @@ DemEyesDoe
 demisexuality
 DemocraticSocialism
 democrats
+DEMONDICE
 DemonSchoolIrumakun
 DemonSlayerAnime
 demonssouls
@@ -1524,6 +1527,7 @@ dioramas
 DiovanaKoni
 DiretoDoZapZap
 dirtgame
+discdyeing
 discgolf
 DiscoElysium
 discord_irl
@@ -1580,6 +1584,7 @@ dogsenjoyingnature
 dogslookingdown
 DogsMirin
 dogsonroofs
+dogsusingpillows
 dogswearinghats
 dogswithjobs
 Dogtraining
@@ -1621,6 +1626,7 @@ dragrace
 Dragula
 DrakeTheType
 Draven
+Drawfee
 drawing
 DrDisrespectLive
 Dreadlocks
@@ -1729,6 +1735,7 @@ Emoney
 EmperorsNewMemes
 EmpireDidNothingWrong
 ems
+EmulationOnAndroid
 Emuwarflashbacks
 EnculerLesVoitures
 ender3
@@ -2023,6 +2030,7 @@ freefolk
 freefromwork
 FreeGameFindings
 FreeKarma4You
+freemagic
 freemasonry
 FreezingFuckingCold
 Frenchbulldogs
@@ -2291,6 +2299,7 @@ gtaonline
 GTAorRussia
 GTAV
 GuardianTales
+GuildWars
 Guildwars2
 GuiltyDogs
 Guiltygear
@@ -2543,6 +2552,7 @@ IdiotsInCars
 IdiotsNearlyDying
 IdiotsOnBikes
 Idiotswithguns
+idiotwastingtime
 IDONTGIVEASWAG
 IDontWorkHereLady
 IDOWORKHERELADY
@@ -3220,6 +3230,7 @@ MadeInAbyss
 MadelainePetsch
 MadelynCline
 MadeMeCry
+mademehappycry
 MadeMeSmile
 Madisonbeer
 madisonwi
@@ -3323,6 +3334,7 @@ me_irlgbt
 MealPrepSunday
 meat
 MechanicAdvice
+mechanical_gifs
 MechanicalKeyboards
 mechmarket
 Mechwarrior5
@@ -3970,6 +3982,7 @@ PanPorn
 pansexual
 pansexualfleabrothel
 PantheonMains
+panthers
 papermario
 papertowns
 ParadoxExtra
@@ -4692,8 +4705,10 @@ Shortsqueeze
 Shotguns
 shouldercats
 Showerthoughts
+Shrek
 Shrimping
 shrimptank
+shrinkflation
 shrooms
 Shunbun
 ShuumatsuNoValkyrie
@@ -5123,6 +5138,7 @@ TerminallyStupid
 TerrainBuilding
 TerraInvicta
 Terraria
+TerrariaDesign
 TerrariaMemes
 terrariums
 terriblefandommemes
@@ -5422,6 +5438,7 @@ TuxedoCats
 TVDetails
 TVTooHigh
 twentyonepilots
+TWEWY
 twicemedia
 twicememes
 TwinCities
