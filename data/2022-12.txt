@@ -953,6 +953,7 @@ CatSmiles
 Catsmirin
 CatsNamedToothless
 CatsOnCats
+catsonglass
 CatsOnKeyboards
 CatsOnPizza
 CatsPlayingDnd
@@ -1346,6 +1347,7 @@ dankmark
 dankmemes
 DankMemesFromSite19
 DankPods
+DankPrecolumbianMemes
 dankrishu
 dankruto
 danktintinmemes
@@ -1858,6 +1860,7 @@ FFXVI
 FierceFlow
 FIFA
 FifaCareers
+FiftyFifty
 FighterJets
 Fighters
 FightingFakeNews
@@ -2100,6 +2103,7 @@ gaymers
 GayRateMe
 GaySoundsShitposts
 GCSE
+GearsOfWar
 geek
 gekte
 genderfluid_irl
@@ -2801,6 +2805,7 @@ justforsocialmedia
 Justfuckmyshitup
 JustGuysBeingDudes
 JusticeForJohnnyDepp
+JusticePorn
 JusticeServed
 JustMonika
 justneckbeardthings
@@ -3405,6 +3410,7 @@ Mirrorsforsale
 MisleadingPuddles
 misleadingthumbnails
 misLED
+MisreadSprites
 missbricosplay
 missouri
 Mistborn
@@ -3439,6 +3445,7 @@ MoldyMemes
 MomForAMinute
 Mommit
 monarchism
+Monero
 MonicaBellucci
 Monke
 MonorailCats
@@ -3519,6 +3526,7 @@ MyouiMina
 MyPeopleNeedMe
 MySingingMonsters
 MysteriousFacts
+mystery
 MysteryDungeon
 MySummerCar
 mythology
@@ -4058,6 +4066,7 @@ PlayStationPlus
 PLC
 Plumbing
 PlusSizeFashion
+pocketpussy
 Poetry
 pointlesslygendered
 PointlessStories
@@ -5429,6 +5438,7 @@ Utah
 utahfootball
 UtahJazz
 UTAustin
+uvic
 UzakiChan
 v8supercars
 vagabond
