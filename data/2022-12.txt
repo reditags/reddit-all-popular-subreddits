@@ -335,6 +335,7 @@ ArgentinaBenderStyle
 Argnime
 ArianaGrande
 arielwinter
+Aritzia
 arizona
 ARK
 arkhamhorrorlcg
@@ -950,6 +951,7 @@ CatSlaps
 CatsLivingAndWell
 CatSmiles
 Catsmirin
+CatsNamedToothless
 CatsOnCats
 CatsOnKeyboards
 CatsOnPizza
@@ -1212,6 +1214,7 @@ cowcats
 coys
 cozy
 CozyPlaces
+Cr1TiKaL
 crabcats
 CrackedColdCases
 CrackheadCraigslist
@@ -3836,6 +3839,8 @@ orangeisthenewblack
 orangetheory
 orchids
 oregon
+OregonCoast
+organization
 OrganizationPorn
 OriAndTheBlindForest
 orks
@@ -4018,6 +4023,7 @@ PinkWug
 Piracy
 PiratedGames
 Piratefolk
+PirateHole
 PirateKitties
 PiratePets
 piratesofthecaribbean
@@ -4345,6 +4351,7 @@ RingsofPower
 ripcity
 risa
 riskofrain
+rit
 Rivian
 RLFashionAdvice
 Roadcam
@@ -4867,6 +4874,7 @@ submarines
 submechanophobia
 subnautica
 Subnautica_Below_Zero
+SUBREDDITNAME
 SubSimulatorGPT2
 SubsTakenLiterally
 Suburbanhell
@@ -4899,6 +4907,7 @@ Superstonk
 superstore
 SuperStructures
 supportlol
+supremeclothing
 surrealism
 surrealmemes
 survivinginfidelity
@@ -5332,6 +5341,7 @@ typography
 Tyranids
 tzuyu
 UBC
+Ubuntu
 UCDavis
 UCI
 ucla
@@ -5417,6 +5427,7 @@ USPS
 ussoccer
 Utah
 utahfootball
+UtahJazz
 UTAustin
 UzakiChan
 v8supercars
