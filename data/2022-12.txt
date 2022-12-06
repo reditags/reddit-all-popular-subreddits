@@ -249,6 +249,7 @@ AnimalsBeingBros
 AnimalsBeingConfused
 AnimalsBeingDerps
 AnimalsBeingGeniuses
+AnimalsBeingHappy
 AnimalsBeingJerks
 AnimalsBeingLoveable
 AnimalsBeingMoms
@@ -515,6 +516,7 @@ BadMtgCombos
 BadMUAs
 badroommates
 badtaxidermy
+badUIbattles
 badwomensanatomy
 baeirene
 bakchodi
@@ -648,6 +650,7 @@ BigChungusReligion
 bigfloppa
 bigfoot
 BigMouth
+BigNoseLadies
 bih
 bikecommuting
 bikepacking
@@ -1050,6 +1053,7 @@ chats
 cheating_stories
 Cheese
 Cheetahs
+CheetoTheCat
 Chefit
 chefknives
 chelseafc
@@ -1120,6 +1124,7 @@ civic
 Civilization6
 CivVI
 CK2GameOfthrones
+CK3AGOT
 ClashOfClans
 ClashOfClansLeaks
 ClashRoyale
@@ -1836,6 +1841,7 @@ EverythingFoxes
 EverythingScience
 evilbuildings
 EvilDead
+excatholic
 excgarated
 existentialcrisiscat
 exjw
@@ -2054,6 +2060,7 @@ FoxFiction
 foxholegame
 fpv
 fragilecommunism
+FragileMaleRedditor
 FragileWhiteRedditor
 FragReddit
 france
@@ -5070,6 +5077,7 @@ subnautica
 Subnautica_Below_Zero
 SUBREDDITNAME
 SubSimulatorGPT2
+SubSimulatorGPT2Meta
 SubsTakenLiterally
 Suburbanhell
 SubwayCreatures
@@ -5457,6 +5465,7 @@ traadustCrusaders
 TrackMania
 traderjoes
 traditionaltattoos
+Traeger
 trailerparkboys
 trailrunning
 TrainPorn
