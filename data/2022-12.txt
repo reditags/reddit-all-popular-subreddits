@@ -765,6 +765,7 @@ bmbmbm
 BMW
 boardgames
 BobsBurgers
+BobsTavern
 boburnham
 BocchiTheRock
 bodegacats
@@ -2895,6 +2896,7 @@ Ishowspeed
 IsItBullshit
 ISKbets
 islam
+IslamicHistoryMeme
 isopods
 Israel
 israelexposed
@@ -3318,6 +3320,7 @@ LOAM_LOVERS
 LockdownSkepticism
 LodedDiper
 LoFiAesthetic
+LofiGirl
 logodesign
 Lolirefugees
 london
@@ -3772,12 +3775,14 @@ MushroomPorn
 Mushrooms
 Music
 musicaljenga
+MuslimLounge
 Mustang
 MVIS
 MxRMods
 MXRplays
 MyChemicalRomance
 mycology
+myfavoritemurder
 mylittlepony
 myog
 MyouiMina
@@ -3884,6 +3889,7 @@ NewYorkMets
 newzealand
 nextfuckinglevel
 nextfuckinglevelmoron
+Nezuko
 NFA
 NFCEastMemeWar
 NFCNorthMemeWar
@@ -4478,6 +4484,7 @@ ProperAnimalNames
 proplifting
 ProRevenge
 protogen
+prusa3d
 ps2
 PS3
 PS4
@@ -4570,6 +4577,7 @@ RatchetAndClank
 Ratorix
 RATS
 ravens
+razer
 razorbacks
 RBI
 rct
@@ -4949,6 +4957,7 @@ shortscarystories
 Shortsqueeze
 Shotguns
 shouldercats
+ShowerOrange
 Showerthoughts
 Shrek
 Shrekmemes
@@ -5452,6 +5461,7 @@ TheCallistoProtocol
 thecatdimension
 TheCatTrapIsWorking
 thechurchofpeanut
+TheCinemassacreTruth
 TheClickOwO
 TheCrownNetflix
 TheCuddlePuddle
