@@ -2,6 +2,7 @@
 100gecs
 100Kanojo
 100yearsago
+10yearsatleast
 11foot8
 1200isjerky
 13or30
@@ -112,6 +113,7 @@ AdamDriverCats
 AddisonRae
 Adelaide
 AdeptusMechanicus
+ADHD_Programmers
 ADHDinos
 adhdmeme
 ADHDmemes
@@ -257,6 +259,7 @@ AnimalsBeingMoms
 AnimalsBeingSleepy
 AnimalsBeingStrange
 animalsdoingstuff
+animalslookingatfood
 AnimalsMonching
 AnimalsOnReddit
 Animalsthatlovemagic
@@ -358,6 +361,7 @@ Aritzia
 arizona
 ARK
 arkhamhorrorlcg
+arkisuomi
 arknights
 arma
 armenia
@@ -2159,6 +2163,7 @@ fuseboxgames
 fuslie
 fut
 futebol
+FUTMobile
 futurama
 future
 Futuremoe
@@ -2917,6 +2922,7 @@ JonTron
 Jord627_
 Jordan_Peterson_Memes
 JordanPeterson
+joueurdugrenier
 Journaling
 jovemnerd
 jpegmafia
@@ -3219,6 +3225,7 @@ linux
 linux_gaming
 linuxmasterrace
 linuxmemes
+lisboa
 listentothis
 lithuania
 LitterboxComics
@@ -3339,6 +3346,7 @@ MaiaKnightSnark2
 Maine
 mainecoons
 maisiewilliams
+majonotabitabi
 MakeMeSuffer
 MakeMeSufferMore
 MakeupAddiction
@@ -3595,6 +3603,7 @@ MobuSeka
 MoDaoZuShi
 modeltrains
 Modern_Family
+ModernAncientWarriors
 ModernistArchitecture
 modernwarfare
 modernwarfare2
@@ -3683,6 +3692,7 @@ musicaljenga
 Mustang
 MVIS
 MxRMods
+MXRplays
 MyChemicalRomance
 mycology
 mylittlepony
@@ -3892,6 +3902,7 @@ notopbutok
 nottheonion
 nottingham
 nova
+noveltranslations
 nowmycat
 noworking
 Npchate
@@ -4289,6 +4300,7 @@ PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
 politics
+PoliticsDownUnder
 PoliticsPeopleTwitter
 polls
 Polska
@@ -4457,6 +4469,7 @@ rangers
 rap
 RapFars
 Rardit
+rarecompliments
 rareinsults
 rarepuppers
 Rarethreats
@@ -4472,6 +4485,7 @@ RDR2
 Re_Zero
 reactiongifs
 reactionpics
+reactjs
 readanotherbook
 ReadyOrNotGame
 real_China_irl
@@ -4787,6 +4801,7 @@ ShinyPokemon
 Shinypreciousgems
 ShitCrusaderKingsSay
 shitduolingosays
+ShitKonfaSays
 ShitLiberalsSay
 ShitLibSafari
 ShitMomGroupsSay
@@ -4995,6 +5010,7 @@ Spokane
 spongebob
 SpongebobMemes
 spooktober
+Spore
 SportingCP
 sports
 sportsbetting
@@ -5323,6 +5339,7 @@ TheBullWins
 TheCallistoProtocol
 thecatdimension
 TheCatTrapIsWorking
+thechurchofpeanut
 TheClickOwO
 TheCrownNetflix
 TheCuddlePuddle
