@@ -181,6 +181,7 @@ alberta
 Albuquerque
 AlchemyStarsEN
 Alderwood
+aldi
 Aleague
 AlexaBliss
 alexandradaddario
@@ -437,6 +438,7 @@ asushin
 ASX_Bets
 ATAAE
 ATBGE
+ATC
 AteistTurk
 AteTheOnion
 atheism
@@ -877,6 +879,7 @@ Brunei
 brushybrushy
 btd6
 bts7
+buccos
 budapest
 Buddhism
 BudgetAudiophile
@@ -1605,6 +1608,7 @@ Dinosaurs
 dioramas
 DiovanaKoni
 DiretoDoZapZap
+Dirtbikes
 dirtgame
 discdyeing
 discgolf
@@ -1735,6 +1739,7 @@ drumstick
 drunk
 drunkencookery
 dualipa
+Dualsport
 dubai
 Dublin
 Ducati
@@ -2205,6 +2210,7 @@ FunnyDogVideos
 Funnymemes
 funnysigns
 funnyvideos
+FurnitureForCats
 furry
 FurryArtSchool
 furrymemes
@@ -3055,6 +3061,7 @@ kateupton
 KatherineMcNamara
 KatherynWinnick
 katyperry
+Kayaking
 KaynMains
 KazuhaMains
 Kazumin
@@ -3103,6 +3110,7 @@ kindle
 Kingdom
 kingdomcome
 KingdomHearts
+KingkillerChronicle
 KingOfTheHill
 kings
 Kirby
@@ -3525,6 +3533,7 @@ me_irl
 me_irlgbt
 MealPrepSunday
 meat
+meatcrayon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
@@ -3661,6 +3670,7 @@ minipainting
 Miniworlds
 Minneapolis
 minnesota
+minnesotatwins
 minnesotavikings
 miraculousladybug
 miragemains
@@ -3742,6 +3752,7 @@ motorcycle
 MotorcyclePorn
 motorcycles
 mountainbiking
+mountaindew
 Mountaineering
 mountandblade
 MouseReview
@@ -4151,6 +4162,7 @@ OrthodoxChristianity
 OSHA
 OshiNoKo
 osp
+OstrichPlug
 OSU
 osubuddyretard
 osugame
@@ -4204,6 +4216,7 @@ PantheonMains
 panthers
 Papaplatte
 papermario
+papermoney
 papertowns
 ParadoxExtra
 paradoxplaza
@@ -4443,6 +4456,7 @@ PourPainting
 pouts
 povertyfinance
 powerrangers
+PowerShell
 powerwashingporn
 pozilei
 ppnojutsu
@@ -5149,6 +5163,7 @@ Spunchbob
 SpyxFamily
 SquaredCircle
 SquarePosting
+squidgame
 squirrels
 squishmallow
 squishypuppers
@@ -5283,6 +5298,7 @@ summonerswar
 SunlitUplands
 sunraybee
 suns
+sunset
 Suomi
 superautopets
 Superbowl
@@ -5477,6 +5493,7 @@ TheClickOwO
 TheCrownNetflix
 TheCuddlePuddle
 TheDarkTower
+thedavidpakmanshow
 TheDeprogram
 TheDepthsBelow
 thedivision
@@ -6005,6 +6022,7 @@ watercolorcats
 watercolorpractice
 watercooling
 Waterdogs
+waterloo
 WattsonMains
 Wavyhair
 WayOfTheBern
