@@ -1275,6 +1275,7 @@ ContraPoints
 controlgame
 Conures
 ConvenientCop
+CookieClicker
 cookiedecorating
 Cookierun
 CookieRunKingdoms
@@ -3839,6 +3840,7 @@ NameNerdCirclejerk
 namenerds
 namethatcar
 NamFlashbacks
+NamiMains
 NanatsunoTaizai
 Nanny
 Naruto
