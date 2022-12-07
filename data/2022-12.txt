@@ -15,6 +15,7 @@
 198
 199
 2007scape
+2137
 21stCenturyHumour
 2624
 2american4you
@@ -465,6 +466,7 @@ auslaw
 AusMemes
 AusRenovation
 AussieCasual
+AusSkincare
 australia
 AustralianCattleDog
 AustralianNostalgia
@@ -798,6 +800,7 @@ bonehealingjuice
 bonehurtingjuice
 BONELAB
 boniver
+bonjour
 booknooks
 BookOfBobaFett
 bookporn
@@ -1085,6 +1088,7 @@ chainsawmancirclejerk
 chairsunderwater
 Championship
 Chang_Gang
+ChantelJeffries
 Chaos40k
 chaoticgood
 characterarcs
@@ -1628,6 +1632,7 @@ discordapp
 Discordmemes
 discordVideos
 discworld
+disenchantment
 dishonored
 Dislyte
 disney
@@ -1721,6 +1726,7 @@ dragonquest
 DragonsDogma
 dragonutopia
 dragrace
+DragRaceDownUnder
 Dragula
 DrakeTheType
 DramaticHouseplants
@@ -1889,6 +1895,7 @@ EscapefromTarkov
 esist
 EskiMemes
 espresso
+essay_helpers
 estoration
 ethereum
 EtherMining
@@ -4135,6 +4142,7 @@ OldSkaters
 OldWorldBlues
 oliviadunne
 OliviaMunn
+oliviawilde
 Omaha
 OmniscientReader
 OMORI
@@ -4826,6 +4834,7 @@ saltierthancrait
 saltierthankrayt
 SaltLakeCity
 SaltsAnime
+SamayRaina
 samharris
 SamONellaAcademy
 samoyeds
@@ -4954,6 +4963,7 @@ sharpcutting
 sharpening
 SheGotHands
 ShenheMains
+SheraMemes
 sheranetflix
 ShermanPosting
 shiba
@@ -5358,6 +5368,7 @@ suspiciouslyspecific
 suspiciousquotes
 sustainability
 Svenska
+svenskpolitik
 Sverige
 SVU
 SwainMains
@@ -6215,6 +6226,7 @@ WouldYouRather
 wow
 wowthanksimcured
 Wrasslin
+WRC
 wrestling
 writers
 writing
