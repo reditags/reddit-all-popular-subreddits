@@ -1702,6 +1702,7 @@ dndmemes
 dndnext
 DobermanPinscher
 doctorwho
+DoctorWhoNews
 DoctorWhumour
 Documentaries
 DOG
@@ -3449,6 +3450,7 @@ LooneyTunesLogic
 loopringorg
 lorde
 lordoftherings
+Lore_Olympus
 loreofleague
 LosAngelesRams
 loseit
@@ -3836,6 +3838,7 @@ MordekaiserMains
 Mordhau
 moreplatesmoredates
 MoriCalliope
+mormon
 Morocco
 Morrowind
 MortalKombat
@@ -3987,6 +3990,7 @@ neutralnews
 Nevada
 Neverbrokeabone
 nevertellmetheodds
+NevilleGoddard
 newcastle
 NewcastleUponTyne
 NewDealAmerica
@@ -4218,6 +4222,7 @@ OldSkaters
 OldWorldBlues
 oliviadunne
 OliviaMunn
+OliviaRodrigo_
 oliviawilde
 Omaha
 OmniscientReader
@@ -5593,6 +5598,7 @@ TeslaModel3
 TeslaModelY
 teslamotors
 Testosterone
+TestosteroneKickoff
 Texans
 texas
 texashistory
@@ -6415,6 +6421,7 @@ Youmo
 youngjustice
 youngpeoplereddit
 youngpeopleyoutube
+YoungRoyals
 YoungThug
 YouniquePresenterMS
 YouOnLifetime
