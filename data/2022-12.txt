@@ -246,6 +246,7 @@ Anarchy4Everyone
 AnarchyChess
 AnarchyMemeCollective
 Anbennar
+anchorage
 ancientegypt
 Ancientknowledge
 ancientrome
@@ -773,6 +774,7 @@ Blink182
 BloodAngels
 blop
 BlueCollarWomen
+BlueJackets
 BlueLock
 BlueMidterm2018
 BluePeriod
@@ -1565,6 +1567,7 @@ declutter
 DecreasinglyVerbose
 dedreviil
 deepdream
+DeepFuckingValue
 DeepIntoYouTube
 DeepRockGalactic
 deepseacreatures
@@ -2443,6 +2446,7 @@ Goldendoodles
 goldenknights
 goldenretrievers
 golf
+Golf_R
 GolfGTI
 GoNets
 GoodAssSub
@@ -3061,6 +3065,7 @@ JenniferLopez
 jenniferlovehewitt
 Jeopardy
 jerma985
+jerseycity
 jerseyshore
 jessicaalba
 jesuschristouija
@@ -3135,6 +3140,7 @@ Kakegurui
 kalam_army
 kaleycuoco
 KamenRider
+KamenRiderMemes
 KamikazeByWords
 KanojoOkarishimasu
 kansascity
@@ -3288,6 +3294,7 @@ LaserCleaningPorn
 LaStalla
 lastfm
 lastimages
+lastpodcastontheleft
 LasVegas
 LateShow
 LateStageCapitalism
@@ -3501,6 +3508,7 @@ MAAU
 mac
 macbookpro
 macdemarco
+MachE
 MachikadoMazoku
 MachineLearning
 MachinePorn
@@ -3897,6 +3905,7 @@ MushroomPorn
 Mushrooms
 Music
 musicaljenga
+MusicBattlestations
 MuslimLounge
 Mustang
 MVIS
@@ -4672,6 +4681,7 @@ QanonKaren
 qatar
 Qdpay
 Quadeca
+QualityTacticalGear
 Quebec
 QuebecLibre
 QueerVexillology
@@ -5514,6 +5524,7 @@ TacticalIssueCat
 TacticalUrbanism
 Takagi_san
 TakaMori
+TakeaPlantLeaveaPlant
 tales
 talesfromcallcenters
 TalesFromDF
@@ -5556,6 +5567,7 @@ Teachers
 teaching
 teachinginjapan
 TeamfightTactics
+TeamFourStar
 teamliquid
 tearsofthekingdom
 TearsOfThemis
@@ -6442,6 +6454,7 @@ yvonnestrahovski
 ZanClan
 zedaparat
 zelda
+ZeldaIsCute
 Zendaya
 ZeroContextJoJo
 ZeroWaste
