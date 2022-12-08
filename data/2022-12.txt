@@ -466,6 +466,7 @@ AteistTurk
 AteTheOnion
 atheism
 atheismindia
+Athens
 ATLA
 Atlanta
 AtlantaHawks
@@ -1139,6 +1140,7 @@ CharacterRant
 Chargers
 Charlotte
 Chaser
+ChatGPT
 chats
 cheating_stories
 Cheese
@@ -1194,6 +1196,7 @@ churchoffutaba
 churchofharu
 ChurchOfJirou
 ChurchOfKasumi
+ChurchofLucy
 ChurchofMarnie
 churchofskadi
 chuunibyou
@@ -1249,6 +1252,7 @@ CloneWarsMemes
 CLOUDS
 cluj
 cna
+Coachella
 cobrakai
 cockatiel
 cocktails
@@ -1686,6 +1690,7 @@ DigitalPainting
 Dimension20
 DINgore
 Dinosaurs
+dionysus
 dioramas
 DiovanaKoni
 DiretoDoZapZap
@@ -2548,6 +2553,7 @@ GriseldaxFR
 Grishaverse
 GroundedGame
 GrowBuddy
+GrowingMarijuana
 GTA
 gtaonline
 GTAorRussia
@@ -3056,6 +3062,7 @@ istanbul
 Italia
 ItaliaMeme
 italy
+italygames
 Itasha
 ITCareerQuestions
 ItemShop
@@ -3486,6 +3493,7 @@ LivestreamFail
 LiveStreamFR
 LivMorgan
 LMDShow
+lmGoingToHellForThis
 loadingicon
 LOAM_LOVERS
 LockdownSkepticism
@@ -4134,6 +4142,7 @@ nintendo
 NintendoMemes
 NintendoStitch
 NintendoSwitch
+NintendoSwitchDeals
 Nioh
 Nirvana
 njpw
@@ -4230,6 +4239,7 @@ oblivion
 ObviousPlant
 OceansAreFuckingLit
 ockytop
+octolism
 octopus
 oculus
 OculusQuest
@@ -4747,6 +4757,7 @@ puppy101
 PuppyBellies
 PuppySmiles
 Purdue
+pureasoiaf
 Purrito
 purrkour
 pussypassdenied
@@ -5194,6 +5205,7 @@ Shittyaskflying
 shittyaskscience
 shittybattlestations
 shittybloodborne
+ShittyDaystrom
 shittyeldenring
 shittyfoodporn
 shittygamedetails
@@ -5230,6 +5242,7 @@ Shrekmemes
 Shrimping
 shrimptank
 shrinkflation
+ShroomID
 shrooms
 shubreddit
 Shunbun
@@ -5565,6 +5578,7 @@ SuperModelIndia
 SuperMorbidlyObese
 supermoto
 Supernatural
+supersmashbros
 Superstonk
 superstore
 SuperStructures
@@ -5634,6 +5648,7 @@ TalesFromTheCustomer
 TalesFromTheFrontDesk
 TalesFromYourServer
 talk_hunfluencers
+TalkTherapy
 tall
 TallGirls
 tallyhall
@@ -6180,6 +6195,7 @@ vancouverwa
 vandwellers
 VanessaHudgens
 VanLife
+Vans
 VaporwaveAesthetics
 VaushV
 vaxxhappened
