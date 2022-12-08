@@ -18,6 +18,7 @@
 2007scape
 2137
 21stCenturyHumour
+240sx
 2624
 2american4you
 2anatolia4you
@@ -1585,6 +1586,7 @@ deadmalls
 deadmeatjames
 DeadSpace
 deathbattle
+DeathCabforCutie
 Deathcore
 deathgrips
 deathguard40k
@@ -2886,6 +2888,7 @@ ImaginaryBestOf
 ImaginaryCastles
 ImaginaryCharacters
 ImaginaryCityscapes
+imaginarycosmere
 ImaginaryCybernetics
 ImaginaryCyberpunk
 ImaginaryDarkSouls
@@ -3684,6 +3687,7 @@ Mastiff
 Mastodon
 mastodonband
 mathmemes
+mathsmemes
 matrix
 matureplants
 mauerstrassenwetten
@@ -3699,6 +3703,7 @@ MBMBAM
 mbti
 mbtimemes
 Mcat
+McFarlaneFigures
 MCFC
 McKaylaMaroney
 McMansionHell
@@ -3866,6 +3871,7 @@ misLED
 MisreadSprites
 missbo
 missbricosplay
+missoula
 missouri
 Mistborn
 MitchellAndWebb
@@ -3990,6 +3996,7 @@ Mustang
 MVIS
 MxRMods
 MXRplays
+MyBigFatFabulousLife
 MyChemicalRomance
 mycology
 myfavoritemurder
@@ -4371,6 +4378,7 @@ OrthodoxChristianity
 OSHA
 OshiNoKo
 osp
+osr
 OstrichPlug
 OSU
 osubuddyretard
@@ -4454,6 +4462,7 @@ PathOfExileBuilds
 PathToNowhere
 PatMcAfeeShowOfficial
 Patriots
+Pauper
 paydaytheheist
 PaymoneyWubby
 PcBuild
@@ -4654,6 +4663,7 @@ PopArtNouveau
 popculturechat
 popheadscirclejerk
 popping
+poppunkers
 Popular_Science_Ru
 PornIsMisogyny
 porramauricio
@@ -5112,6 +5122,7 @@ ScritchTheDamnBird
 Scrubs
 scrungycats
 scuba
+seaglass
 seals
 Seaofthieves
 seaporn
@@ -5482,6 +5493,7 @@ starwarsrebels
 starwarsspeculation
 staryuukiiii
 stateball
+StateOfDecay
 stateofMN
 steak
 Stealthbombers
@@ -5630,6 +5642,7 @@ SymmetraMains
 SympatheticMonsters
 synthesizercirclejerk
 synthesizers
+Syracuse
 sysadmin
 Sysadminhumor
 SystemsCringe
@@ -6365,6 +6378,7 @@ ween
 weeviltime
 weezer
 weightlifting
+WeightLossAdvice
 Weird
 weirddalle
 weirdspotifyplaylists
@@ -6408,6 +6422,7 @@ whitepeoplegifs
 WhitePeopleTwitter
 whitesox
 wholesome
+wholesome40k
 wholesomebpt
 WholesomeComics
 WholesomeFantasyArt
