@@ -62,6 +62,7 @@
 676
 691
 6thForm
+70sdesign
 7daystodie
 7vsWild
 80s
@@ -355,6 +356,7 @@ ape
 aPeoplesCalendar
 apexlegends
 ApexOutlands
+Apexrollouts
 ApexUncovered
 apexuniversity
 ApheliosMains
@@ -367,6 +369,7 @@ apple
 AppleMusic
 AppleWatch
 ApplyingToCollege
+AquaJail
 AquariumMemes
 Aquariums
 AquaSama
@@ -433,6 +436,7 @@ askcarsales
 AskDocs
 AskHistorians
 asklatinamerica
+AskLosAngeles
 AskMechanics
 AskMen
 AskMiddleEast
@@ -812,6 +816,7 @@ BluePeriod
 BlueProtocolPC
 bluey
 blunderyears
+blur
 blurrypicturesofcats
 blurrypicturesofdogs
 blursed_memes
@@ -1232,6 +1237,7 @@ cinematography
 CineShots
 circlejerk
 CirclejerkSopranos
+circojeca
 cirkeltrek
 CitiesSkylines
 citypop
@@ -1322,6 +1328,7 @@ comicbooks
 comics
 commandandconquer
 Commanders
+CommercialsIHate
 communism
 CommunismMemes
 community
@@ -2401,6 +2408,7 @@ gamegrumps
 gameofthrones
 GamePhysics
 gamernews
+GameStop
 GameTheorists
 gamindustri
 gaming
@@ -2661,6 +2669,7 @@ halo
 HaloCirclejerk
 haloinfinite
 HaloMemes
+HaloStory
 halsey
 Hamilton
 hamiltonmusical
@@ -2723,6 +2732,7 @@ HelicopterAddict
 Helicopters
 HellenicMemes
 HellLetLoose
+HelloInternet
 HelloKitty
 HellsKitchen
 hellsomememes
@@ -2841,6 +2851,7 @@ howtokeepanidiotbusy
 howtonotgiveafuck
 howyoudoin
 hoyas
+HPHogwartsMystery
 hrvatska
 httyd
 Hue
@@ -3158,6 +3169,7 @@ jaimelescartes
 jakanddaxter
 jakeandamir
 jakertown
+jambands
 JamesBond
 JamesFridman
 JamesHoffmann
@@ -3381,6 +3393,7 @@ kotor
 KOTORmemes
 kpics
 kpop
+kpoprants
 kpopthoughts
 kraut
 kristenbell
@@ -4365,6 +4378,7 @@ OkBuddyFresca
 okbuddygenshin
 okbuddyguardian
 OKbuddyHalfLife
+okbuddyhasan
 okbuddyhololive
 okbuddyHRetard
 okbuddyjotard
@@ -4451,6 +4465,7 @@ OregonCoast
 organization
 OrganizationPorn
 OriAndTheBlindForest
+orioles
 orks
 orlando
 Ornithology
@@ -4915,6 +4930,7 @@ rance
 rance_iel
 RandomThoughts
 rangers
+rant
 rap
 RapFars
 Raphtalia
@@ -4928,6 +4944,7 @@ RatchetAndClank
 Ratorix
 RATS
 ravens
+rawdenim
 razer
 razorbacks
 RBI
@@ -5013,6 +5030,7 @@ rescuedogs
 Residency
 residentevil
 restofthefuckingowl
+retard
 RetroAR
 retrobattlestations
 RetroBowl
@@ -5129,6 +5147,7 @@ SadHorseShow
 Sadiesink
 sadlygokarts
 sadposting
+SafelyEndangered
 SafeMoon
 sailing
 sailormoon
@@ -5143,6 +5162,7 @@ saltierthancrait
 saltierthankrayt
 SaltLakeCity
 SaltsAnime
+Samadhi_Zendejas
 SamayRaina
 samharris
 SamONellaAcademy
@@ -5238,6 +5258,7 @@ Sekiro
 SelenaGomez
 self
 SelfAwarewolves
+selfharm_memes
 selfhosted
 selfie
 selfimprovement
@@ -5878,6 +5899,7 @@ That70sshow
 thatHappened
 ThatLookedExpensive
 Thatsabooklight
+ThatsHowThingsWork
 ThatsInsane
 The10thDentist
 the1975
@@ -6232,6 +6254,7 @@ UKPersonalFinance
 ukraina
 ukraine
 Ukraine_UA
+UkraineConflict
 UkraineInvasionVideos
 UkraineRussiaReport
 UkraineWarVideoReport
@@ -6398,6 +6421,7 @@ virtualreality
 Visiblemending
 VisitingIceland
 visualnovels
+vizsla
 VocabWordOfTheDay
 Vocaloid
 void_memes
@@ -6693,6 +6717,7 @@ YelanMains
 Yellowjackets
 YellowstonePN
 yesyesyesno
+yesyesyesnoyes
 yesyesyesyesno
 yimby
 YMS
