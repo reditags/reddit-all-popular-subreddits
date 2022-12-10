@@ -3420,6 +3420,7 @@ kotor
 KOTORmemes
 kpics
 kpop
+kpophelp
 kpoprants
 kpopthoughts
 kraut
@@ -5848,10 +5849,12 @@ TalkTherapy
 tall
 TallGirls
 tallyhall
+TamannaBhatia
 TameImpala
 TamilNadu
 tampa
 TampaBayLightning
+Tampere
 tankiejerk
 TankPorn
 tanks
@@ -5946,6 +5949,7 @@ thanosdidnothingwrong
 That70sshow
 thatHappened
 ThatLookedExpensive
+ThatPeelingFeeling
 Thatsabooklight
 ThatsHowThingsWork
 ThatsInsane
