@@ -16,6 +16,7 @@
 197
 198
 199
+1inch
 2007scape
 2137
 21stCenturyHumour
@@ -406,6 +407,7 @@ Arkansas
 arkhamhorrorlcg
 arkisuomi
 arknights
+ArlecchinoMains
 arma
 armenia
 armoredcore
@@ -1661,6 +1663,7 @@ deepseacreatures
 DeepSpaceNine
 DeFranco
 deftones
+degoogle
 Degrassi
 Dehyamains
 Delaware
@@ -2024,6 +2027,7 @@ EntitledPeople
 Entomology
 Entrepreneur
 entwives
+eos
 EpicGamesPC
 EpicMounts
 EpicSeven
@@ -2146,7 +2150,9 @@ FastWorkers
 fatbee
 fatestaynight
 fatsquirrelhate
+FatuiHQ
 fayetteville
+fcbayern
 FCInterMilan
 fednews
 feedthebeast
@@ -2358,6 +2364,7 @@ ft86
 ftlgame
 fuckcars
 fuckepic
+fuckgravel
 FuckGregAbbott
 fuckHOA
 FuckImOld
@@ -2762,6 +2769,7 @@ Helltaker
 HelluvaBoss
 Helluvabossmemes
 HelpMeFind
+heraldry
 HermanCainAward
 HermitCraft
 hermitcraftmemes
@@ -2940,6 +2948,7 @@ idiotwastingtime
 IDONTGIVEASWAG
 IDontWorkHereLady
 IDOWORKHERELADY
+Idubbbz
 IfIFitsISits
 ifyoulikeblank
 ihadastroke
@@ -3057,6 +3066,7 @@ IncreasinglyVerbose
 IncrediblesMemes
 incremental_games
 india
+IndiaCricket
 indiadiscussion
 indiameme
 Indiana
@@ -3152,6 +3162,7 @@ ironicsigns
 ironscape
 IrrationalMadness
 IsabelaMerced
+Isekai
 Ishowspeed
 IsItBullshit
 ISKbets
@@ -3166,6 +3177,7 @@ Italia
 ItaliaMeme
 italy
 italygames
+ItalyInformatica
 Itasha
 ITCareerQuestions
 ItemShop
@@ -3238,6 +3250,7 @@ jeuxvideo
 Jewdank
 jewelrymaking
 Jewish
+JhinMains
 JimCornette
 jisoo
 JLeague
@@ -4019,6 +4032,7 @@ modular
 moedred
 MoeMorphism
 Moescape
+moi_dlvv
 Moissanite
 MoldlyInteresting
 moldova
@@ -4128,6 +4142,7 @@ MySingingMonsters
 MysteriousFacts
 mystery
 MysteryDungeon
+mysticmessenger
 MySummerCar
 mythology
 mythologymemes
@@ -4314,6 +4329,7 @@ NonPoliticalTwitter
 noodlebones
 nope
 Nordichistorymemes
+NordicMemes
 NorfFc
 norge
 normaldayinrussia
@@ -4485,6 +4501,7 @@ OooBigStretch
 OopsThatsDeadly
 OPBR
 opensea
+opensource
 openttd
 OpIsFuckingStupid
 opossum_irl
@@ -4625,6 +4642,7 @@ pepethefrog
 PercyJacksonMemes
 Perfectfit
 perfectloops
+perfectlycatscreams
 PerfectlyCutBonks
 PerfectlyCutBooms
 perfectlycutfucks
@@ -5189,6 +5207,7 @@ sadcringe
 SadHorseShow
 Sadiesink
 sadlygokarts
+sadmemes
 sadposting
 SafelyEndangered
 SafeMoon
@@ -5721,6 +5740,7 @@ StreetMartialArts
 streeto
 streetphotography
 strength_training
+StressFreeSeason
 Stretched
 Stuck10YearsBehind
 StudentLoans
@@ -6227,6 +6247,7 @@ TrishylandWifeys
 TrollCoping
 TrollYChromosome
 Trophies
+TrophyWives
 TruckerCats
 Truckers
 Trucks
@@ -6538,6 +6559,7 @@ warwickmains
 Warzone
 wasletztepreis
 wasletztestern
+WastedGifs
 watchcatsdieinside
 WatchDogsWoofInside
 watcherentertainment
@@ -6676,6 +6698,7 @@ Witcher3
 WitchesVsPatriarchy
 WithoutThePunchline
 Wizard101
+wmnf
 wnba
 woahdude
 WojakCompass
@@ -6802,6 +6825,7 @@ YouSeeComrade
 youseeingthisshit
 YouShouldKnow
 youtube
+YouTube_startups
 youtubehaiku
 yugioh
 YuGiOhMemes
@@ -6823,6 +6847,7 @@ zillowgonewild
 zlibrary
 ZoeyDeutch
 ZombielandSaga
+zooeydeschanel
 Zoomies
 zootopia
 zurich
