@@ -1544,6 +1544,7 @@ cursedvideos
 CurseofStrahd
 customhearthstone
 CustomKeyboards
+CustomLoR
 custommagic
 CustomPlayerCutscene
 cute
@@ -3549,6 +3550,7 @@ LearmannTwins
 learningtocat
 LearnJapanese
 learnprogramming
+learnpython
 learntodraw
 LearnUselessTalents
 Leathercraft
@@ -5930,6 +5932,7 @@ talk_hunfluencers
 TalkTherapy
 tall
 TallGirls
+Tallships
 tallyhall
 TamannaBhatia
 TameImpala
