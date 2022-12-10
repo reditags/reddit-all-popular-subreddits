@@ -579,6 +579,7 @@ Badfaketexts
 badhistory
 Badlyinjured
 BadMensAnatomy
+badMovies
 BadMtgCombos
 BadMUAs
 badredman
@@ -2802,6 +2803,7 @@ holdmycatnip
 holdmycosmo
 holdmyfeedingtube
 holdmyfries
+holdmyjuicebox
 holdmyredbull
 HollowKnight
 HollowKnightArt
@@ -2897,9 +2899,11 @@ HVAC
 HybridAnimals
 hyderabad
 HydroHomies
+hydrokitties
 hyenas
 hyouka
 HypixelSkyblock
+hysterectomy
 IAmA
 Iamactuallyverybadass
 iamatotalpieceofshit
@@ -3813,6 +3817,7 @@ MCPE
 mcservers
 me_irl
 me_irlgbt
+mead
 MealPrepSunday
 meat
 MeatCanyon
@@ -4468,6 +4473,7 @@ ontheledgeandshit
 oompasubs
 OooBigStretch
 OopsThatsDeadly
+OPBR
 opensea
 openttd
 OpIsFuckingStupid
@@ -4670,6 +4676,7 @@ PhotoshopRequest
 Physics
 physicsgifs
 physicsmemes
+pic
 PickleFinancial
 pics
 PicsOfUnusualBirds
@@ -5204,6 +5211,7 @@ sanrio
 saopaulo
 SapphoAndHerFriend
 SarahHyland
+sarcasm
 saskatchewan
 saskatoon
 Sat
@@ -6031,6 +6039,7 @@ thevoice
 thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
+TheWayWeWereOnVideo
 TheWeeklyRoll
 TheWeeknd
 thewestwing
