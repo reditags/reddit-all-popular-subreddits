@@ -399,6 +399,7 @@ architecture
 ArchitecturePorn
 arcticmonkeys
 arduino
+AreTheStraightsOkay
 Argaming
 argentina
 ArgentinaBenderStyle
@@ -1338,6 +1339,7 @@ Columbina_Mains
 Columbus
 CombatFootage
 combinedgifs
+comedy
 comedyamputation
 ComedyArchaeology
 ComedyCemetery
@@ -2004,6 +2006,7 @@ Emiru_Lewd
 EmKay
 EmmaRoseKenney
 EmmaStone
+Emo
 Emoney
 EmperorsNewMemes
 EmpireDidNothingWrong
@@ -2161,6 +2164,7 @@ fasting
 FastWorkers
 fatbee
 fatestaynight
+fatherted
 fatsquirrelhate
 FatuiHQ
 fayetteville
@@ -2835,6 +2839,7 @@ holdmycosmo
 holdmyfeedingtube
 holdmyfries
 holdmyjuicebox
+HoldMyKibble
 holdmyredbull
 HollowKnight
 HollowKnightArt
@@ -3231,6 +3236,7 @@ JamesFridman
 JamesHoffmann
 JamesTurnerYT
 jameswebb
+janeausten
 January6
 japan
 japanese
@@ -3286,6 +3292,7 @@ JoJoMemes
 Jokes
 JonTron
 Jord627_
+jordan
 Jordan_Peterson_Memes
 JordanPeterson
 joueurdugrenier
@@ -3436,6 +3443,7 @@ knolling
 KnowledgeFight
 KoboldLegion
 Kochen
+kof
 KokkoroNatsume
 Kokomi_Mains
 kolkata
@@ -3536,6 +3544,7 @@ learntodraw
 LearnUselessTalents
 Leathercraft
 leaves
+lebanon
 lebowski
 ledzeppelin
 LeedsUnited
@@ -3964,6 +3973,7 @@ migraine
 Miitopia
 Mikahlynnishot
 MikuNakano
+MilaKunis
 milanavayntrub
 mildlyevangelion
 mildlyinfuriating
@@ -4513,6 +4523,7 @@ OnePunchMan
 OneSecondBeforeDisast
 oneshot
 OneTopicAtATime
+onetruegod
 OneTruthPrevails
 OneyPlays
 onguardforthee
@@ -4531,6 +4542,7 @@ openttd
 OpIsFuckingStupid
 opossum_irl
 Opossums
+opticalillusions
 Optifine
 orangecats
 orangecounty
@@ -5189,6 +5201,7 @@ RoomPorn
 roosterteeth
 ror2
 rose
+rosesarered
 RotMG
 Rottweiler
 RoughRomanMemes
@@ -5381,6 +5394,7 @@ sexandthecity
 SexySportsBabes
 sffpc
 SFGiants
+SFM
 SFWmonstergirls
 SFWNextDoorGirls
 SFWRedheads
@@ -5630,6 +5644,7 @@ spectacularmemes
 SpeculativeEvolution
 SpeedOfLobsters
 speedrun
+spelunky
 sphynx
 SpiceandWolf
 spicy
@@ -6506,6 +6521,7 @@ videomemes
 videos
 vidid
 VietNam
+ViewPorn
 Vilebrequin
 VillagePorn
 vim
@@ -6715,6 +6731,7 @@ wildlifephotography
 wildrift
 willwood
 wimmelbilder
+windows
 Windows10
 Windows11
 wine
