@@ -121,6 +121,7 @@ acecombat
 Achievement_Hunter
 AchillesAndHisPal
 ACMilan
+acnh
 acotar
 ACPocketCamp
 ACQR
@@ -156,6 +157,7 @@ adventurecats
 adventuretime
 AdviceAnimals
 aeiou
+AerospaceEngineering
 Aespa
 aesthetic
 aestheticrain
@@ -1223,6 +1225,7 @@ chaoticgood
 characterarcs
 characterdrawing
 CharacterRant
+CharcuterieBoard
 Chargers
 Charlotte
 charmed
@@ -3782,6 +3785,7 @@ lossofalovedone
 lost
 Lost_Architecture
 lostarkgame
+lostlostredditors
 lostpause
 lostredditors
 lotr
@@ -4684,6 +4688,7 @@ OSU
 osubuddyretard
 osugame
 OT_Memes
+othepelican
 OTMemes
 otomegames
 OtomeIsekai
