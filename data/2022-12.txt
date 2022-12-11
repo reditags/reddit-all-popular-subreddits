@@ -156,6 +156,7 @@ adventuretime
 AdviceAnimals
 aeiou
 Aespa
+aesthetic
 aestheticrain
 Aether_Mains
 AEWOfficial
@@ -446,6 +447,7 @@ AskAGerman
 AskBalkans
 askcarsales
 AskDocs
+AskFrance
 AskHistorians
 asklatinamerica
 AskLosAngeles
@@ -939,6 +941,7 @@ breakingbad
 breakingbadmemes
 BreakUps
 Breath_of_the_Wild
+BreathingBuddies
 breathinginformation
 BRF
 briandavidgilbert
@@ -1196,6 +1199,7 @@ characterdrawing
 CharacterRant
 Chargers
 Charlotte
+charmed
 Chaser
 ChatGPT
 chats
@@ -1566,6 +1570,7 @@ czech
 czechmemes
 CZFirearms
 D2memes
+DACA
 Dachschaden
 Dachshund
 DadForAMinute
@@ -2447,6 +2452,7 @@ gadgets
 GalaxyFold
 GalaxysEdge
 GalGadot
+gallifrey
 galway
 Gambiarra
 Gameboy
@@ -3070,6 +3076,7 @@ ImaginaryTechnology
 ImaginaryUndead
 ImaginaryVillages
 ImaginaryWarhammer
+ImaginaryWastelands
 ImaginaryWeaponry
 ImaginaryWeather
 ImaginaryWesteros
@@ -3451,6 +3458,7 @@ knives
 Knockout
 knolling
 KnowledgeFight
+KobeniHigashiyama
 KoboldLegion
 Kochen
 kof
@@ -3746,6 +3754,7 @@ LV426
 LycorisRecoil
 MAAU
 mac
+macarons
 macbookpro
 macdemarco
 MachE
@@ -6073,6 +6082,7 @@ thedavidpakmanshow
 TheDeprogram
 TheDepthsBelow
 thedivision
+TheDollop
 TheDonaldTrump2024
 TheDragonPrince
 TheEminenceInShadow
@@ -6496,6 +6506,7 @@ VALORANT
 ValorantCompetitive
 ValorantMemes
 valve
+ValveIndex
 VampireSurvivors
 vancouver
 vancouverwa
