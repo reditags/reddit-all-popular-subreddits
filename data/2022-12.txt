@@ -525,6 +525,7 @@ AussieCasual
 AusSkincare
 australia
 AustralianCattleDog
+AustralianMilitary
 AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
@@ -1239,6 +1240,7 @@ chile
 China_irl
 chinchilla
 ChineseLanguage
+Chinesium
 Chipotle
 Chiraqology
 Chivalry2
@@ -4325,6 +4327,7 @@ newyorkcity
 NewYorkIslanders
 NewYorkMets
 newzealand
+next_time_eat_a_salad
 nextfuckinglevel
 nextfuckinglevelmoron
 Nezuko
@@ -6728,6 +6731,7 @@ Wellington
 Wellthatsucks
 Wellworn
 wendigoon
+wesanderson
 WestSubEver
 WestVirginia
 westworld
