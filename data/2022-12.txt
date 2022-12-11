@@ -720,6 +720,7 @@ belgium
 Belgium2
 Bellapoarch
 belowdeck
+beltalowda
 Ben10
 Bend
 BendyAndTheInkMachine
@@ -773,6 +774,7 @@ billieeilish
 BillieEilish1
 billsimmons
 billwurtzmemes
+BillyStrings
 binance
 bindingofisaac
 bingbongtheorem
@@ -1172,6 +1174,7 @@ Catswhoyell
 CatsWithDogs
 Catswithjobs
 CatsWithSocks
+catsyawning
 CatTaps
 CatWasHere
 Cawwsplay
@@ -1327,6 +1330,7 @@ clevercomebacks
 climate
 ClimateActionPlan
 ClimateMemes
+ClimateOffensive
 climbergirls
 climbing
 ClimbingCircleJerk
@@ -1971,6 +1975,7 @@ dune
 dunememes
 DungeonsAndDaddies
 DungeonsAndDragons
+DunksNotDead
 duolingo
 dustkitties
 dutch
@@ -2025,6 +2030,7 @@ ElectricalEngineering
 ElectricForest
 electricians
 ElectroBOOM
+electronicmusic
 electronics
 EliteDangerous
 EliteWeebs
@@ -2539,6 +2545,7 @@ GCSE
 GearsOfWar
 geckos
 geek
+GeekyCrochet
 gekte
 genderfluid_irl
 Genealogy
@@ -2824,6 +2831,7 @@ hearthstone
 hearthstonecirclejerk
 HeartstopperAO
 heat
+Heavymind
 HeavySeas
 HEB
 heck
@@ -3478,6 +3486,7 @@ KimetsuNoYaiba
 KimiNoNaWa
 kindafunny
 kindle
+KingCrimson
 Kingdom
 kingdomcome
 KingdomHearts
@@ -4498,6 +4507,7 @@ NuxTakuSubmissions
 nuzlocke
 nvidia
 nwordington
+nyanners
 NYCbike
 NYCinfluencersnark
 nycrail
@@ -4695,6 +4705,7 @@ Padres
 pagan
 PaigeSpiranac
 painting
+Paintings
 pakistan
 Paladins
 Paleontology
@@ -4759,6 +4770,7 @@ PenmanshipPorn
 Pennsylvania
 pennystocks
 penpals
+pens
 PeopleBeingJerks
 PeopleFuckingDying
 PeopleLiveInCities
@@ -6672,6 +6684,7 @@ virtualreality
 Visiblemending
 VisitingIceland
 visualnovels
+Vivy
 vizsla
 VocabWordOfTheDay
 Vocaloid
