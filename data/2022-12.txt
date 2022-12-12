@@ -2157,6 +2157,7 @@ EverythingFoxes
 EverythingScience
 evilbuildings
 EvilDead
+EvilDeadTheGame
 excatholic
 excgarated
 existentialcrisiscat
@@ -2227,6 +2228,7 @@ FanTheories
 farcry
 farialimabets
 FarmersStealingTanks
+farming
 farmingsimulator
 farpeoplehate
 FaruzanMains
@@ -2746,6 +2748,7 @@ GriefSupport
 grilledcheese
 grilling
 Grimdank
+Grimdawn
 Grimes
 GriseldaxFR
 Grishaverse
@@ -3306,6 +3309,7 @@ ispeakthelanguage
 Israel
 israelexposed
 istanbul
+ITAGLIA
 Italia
 ItaliaMeme
 italy
@@ -3539,6 +3543,7 @@ KingOfTheHill
 kings
 Kirby
 Kitboga
+kitchener
 Kitler
 Kitten
 kittengifs
@@ -3729,6 +3734,7 @@ librandu
 Libraries
 libraryofruina
 libsofreddit
+LibsOfSocialMedia
 lies
 lifehacks
 lifeisstrange
@@ -4135,6 +4141,7 @@ milwaukee
 MilwaukeeTool
 mina_irl
 Mindfulness
+Mindustry
 Minecraftbuilds
 MinecraftChampionship
 MinecraftCommands
@@ -4256,6 +4263,7 @@ Mountaineering
 mountandblade
 MouseReview
 Moustache
+Movie_Trivia
 MovieDetails
 MovieLeaksAndRumors
 MovieMistakes
@@ -5250,6 +5258,7 @@ reclaimedbynature
 recruitinghell
 Recursion
 red_velvet
+RedBullRacing
 reddeadfashion
 reddeadmysteries
 RedDeadOnline
@@ -5850,6 +5859,7 @@ SpidermanPS4
 spiders
 Spielstopp
 Spiritfarer
+Spiritual_Talk
 Splatoon_3
 Splitgate
 sploot
@@ -6500,6 +6510,7 @@ triplej
 TripodCats
 trippinthroughtime
 trishahershberger
+TrishStratus
 TrishylandWifeys
 TrollCoping
 TrollYChromosome
