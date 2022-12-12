@@ -496,6 +496,7 @@ astramilitarum
 astrologymemes
 Astroneer
 Astronomy
+AstronomyMemes
 astrophotography
 Astros
 Asuka
@@ -1181,6 +1182,7 @@ Catswithjobs
 CatsWithSocks
 catsyawning
 CatTaps
+CatTeamBrotherhood
 CatWasHere
 Cawwsplay
 CCW
@@ -2271,6 +2273,7 @@ FilthyFrank
 FinalDestinationShit
 FinalFantasy
 FinalFantasyIX
+FinalFantasyVII
 FinalFantasyVIII
 finalfantasyx
 finance
@@ -3023,6 +3026,7 @@ IAmA
 Iamactuallyverybadass
 iamatotalpieceofshit
 IAmTheMainCharacter
+iamverybadass
 iamveryrandom
 iamverysmart
 IASIP
@@ -3744,6 +3748,7 @@ LiverpoolFC
 LivestreamFail
 LiveStreamFR
 LivMorgan
+lizgillies
 LMDShow
 lmGoingToHellForThis
 loadingicon
@@ -3966,6 +3971,7 @@ McMansionHell
 McMaster
 MCPE
 mcservers
+MDMA
 me_irl
 me_irlgbt
 mead
@@ -4196,6 +4202,7 @@ MorbidWaysToDie
 Morbius
 MordekaiserMains
 Mordhau
+morenabaccarin
 moreplatesmoredates
 MoriCalliope
 mormon
@@ -5269,6 +5276,7 @@ retrogaming
 Returnal
 revancedapp
 reverseanimalrescue
+ReversePinterest
 Revolvers
 RheaRipley
 RhodeIsland
@@ -5768,6 +5776,7 @@ spaceengineers
 spaceflight
 SpaceflightSimulator
 spacefrogs
+SpaceLaunchSystem
 spacemarines
 spaceporn
 SpaceWolves
