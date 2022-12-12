@@ -613,6 +613,7 @@ BadDesigns
 Badfaketexts
 badhistory
 Badlyinjured
+badmathematics
 BadMensAnatomy
 badMovies
 BadMtgCombos
@@ -1166,6 +1167,7 @@ CatsLivingAndWell
 CatSmiles
 Catsmirin
 CatsNamedToothless
+catsofrph
 CatsOnCats
 catsonglass
 CatsOnKeyboards
@@ -2375,6 +2377,7 @@ forhonormemes
 formalwaifus
 FormerPizzaHuts
 formula1
+Formula1Point5
 FormulaBuddyRetard
 formuladank
 FormulaE
@@ -3202,6 +3205,7 @@ IndianMemeTemplates
 IndianMeyMeys
 IndianModelsActress
 IndiaNostalgia
+IndianSkincareAddicts
 IndianStreetBets
 IndianTeenagers
 indiantiktok
@@ -4496,6 +4500,7 @@ nononono
 nonononoyes
 NonPoliticalTwitter
 noodlebones
+Nootropics
 nope
 Nordichistorymemes
 NordicMemes
@@ -4804,6 +4809,7 @@ pcmusic
 PeakyBlinders
 peanutbutterisoneword
 PeanutWhiskers
+PedroPeepos
 PeepingPooch
 PeepShowQuotes
 pelletgrills
@@ -5985,6 +5991,7 @@ SUBREDDITNAME
 SubsIFellFor
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
+subsithoughtifellfor
 SubsTakenLiterally
 Suburbanhell
 SubwayCreatures
