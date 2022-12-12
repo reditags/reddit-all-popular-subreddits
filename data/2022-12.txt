@@ -3590,6 +3590,7 @@ kutautos
 Kuwa_Oracle
 KUWTKsnark
 l4d2
+Labour
 LabourUK
 labrador
 labrats
@@ -6644,6 +6645,7 @@ UPSC
 UpvoteBecauseButt
 upvoteexeggutor
 uraniumglass
+urbandesign
 urbanexploration
 UrbanHell
 urbanplanning
@@ -6728,6 +6730,7 @@ VillagePorn
 vim
 Vindicta
 Vinesauce
+VinlandSaga
 vintage
 vintageads
 VintageApple
