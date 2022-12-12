@@ -1065,6 +1065,7 @@ California
 California_Politics
 Calligraphy
 CallMeCarson
+callofcthulhu
 CallOfDuty
 CallOfDutyMobile
 calvinandhobbes
@@ -1702,6 +1703,7 @@ datealive
 dating
 dating_advice
 datingoverforty
+DaveChappelle
 davidlynch
 Davie504
 DaysGone
@@ -1965,6 +1967,7 @@ Drawfee
 drawing
 DrDisrespectLive
 Dreadlocks
+dreamcast
 DreamlightValley
 Dreams
 dreamsmp
@@ -3000,6 +3003,7 @@ hot_dog
 hot_reporters
 hotdudeswithplants
 HotlineMiami
+hotones
 HotPeppers
 hotsauce
 hottoys
@@ -3783,6 +3787,7 @@ lithuania
 LitterboxComics
 LittleNightmares
 LittleNuns
+LittlePeopleBigWorld
 LittleWitchAcademia
 LiveFromNewYork
 Liverpool
@@ -4019,6 +4024,7 @@ me_irl
 me_irlgbt
 mead
 MealPrepSunday
+mealtimevideos
 meat
 MeatCanyon
 meatcrayon
@@ -4215,6 +4221,7 @@ ModernistArchitecture
 modernwarfare
 modernwarfare2
 ModernWarfareII
+modnews
 modular
 moedred
 MoeMorphism
@@ -6987,6 +6994,7 @@ wimmelbilder
 windows
 Windows10
 Windows11
+windsorontario
 wine
 WingsOfFire
 winnipegjets
