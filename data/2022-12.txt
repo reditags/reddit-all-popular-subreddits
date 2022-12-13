@@ -144,6 +144,7 @@ AdeptusCustodes
 AdeptusMechanicus
 AdeptusRidiculous
 ADHD_Programmers
+ADHDers
 ADHDinos
 adhdmeme
 ADHDmemes
@@ -3611,6 +3612,7 @@ kindle
 KingCrimson
 Kingdom
 kingdomcome
+KingdomDeath
 KingdomHearts
 KingkillerChronicle
 KingOfTheHill
@@ -6008,6 +6010,7 @@ SQL
 SquaredCircle
 SquarePosting
 squidgame
+squirrelproblems
 squirrels
 squishmallow
 squishypuppers
