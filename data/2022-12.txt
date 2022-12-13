@@ -133,6 +133,7 @@ ActivationSound
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
+AdachiToShimamura
 AdamDriverCats
 ADCMains
 Addisoneasterling
@@ -758,6 +759,7 @@ BernieSanders
 Berserk
 bertstrips
 Best_tattoos
+bestconspiracymemes
 bestof
 bestoflegaladvice
 BestofRedditorUpdates
@@ -1322,6 +1324,7 @@ ChurchOfJirou
 ChurchOfKasumi
 ChurchofLucy
 ChurchofMarnie
+ChurchOfNejire
 churchofskadi
 chuunibyou
 CICO
@@ -2902,6 +2905,7 @@ HauntedMound
 HauntingOfHillHouse
 Hawaii
 HayDay
+haydenpanettiere
 HayleyAtwell
 hayleywilliams
 HazbinHotel
@@ -3172,6 +3176,7 @@ ImaginaryCyberpunk
 ImaginaryDarkSouls
 ImaginaryDemons
 ImaginaryDragons
+ImaginaryDwarves
 imaginaryelections
 ImaginaryElementals
 ImaginaryElves
@@ -4664,6 +4669,7 @@ NYYankees
 obeyme
 oblivion
 ObviousPlant
+oceans
 OceansAreFuckingLit
 ockytop
 octolism
@@ -7190,6 +7196,7 @@ YanfeiMains
 YarnAddicts
 yarntrolls
 yayfoxxo
+YDHBSnark
 yeat_
 Yeen_irl
 yeezys
