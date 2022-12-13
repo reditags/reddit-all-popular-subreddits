@@ -1302,6 +1302,7 @@ ChronicIllness
 ChronicPain
 chronotrigger
 ChuckleSandwich
+chuggaaconroy
 ChurchOfCat
 ChurchofChie
 ChurchOfDorothea
@@ -2152,6 +2153,7 @@ EtherMining
 ethfinance
 ethoslab
 ethtrader
+EtsySellers
 etymology
 eu4
 eu_nvr
@@ -2470,6 +2472,7 @@ frogs
 Fromis
 FromKittenToCat
 FromPuppyToDog
+fromscratch
 fromsoftware
 FromTheDepths
 Frostpunk
@@ -2706,6 +2709,7 @@ Goldendoodles
 goldenknights
 goldenretrievers
 GoldenSun
+Goldfish
 golf
 Golf_R
 GolfGTI
@@ -4977,6 +4981,7 @@ pinkfloyd
 PinkFloydCircleJerk
 PinkOmega
 PinkWug
+PinoyProgrammer
 Piracy
 PiratedGames
 Piratefolk
