@@ -134,6 +134,7 @@ ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
 AdamDriverCats
+ADCMains
 Addisoneasterling
 AddisonRae
 Adelaide
@@ -453,6 +454,7 @@ artmemes
 ArtNouveau
 ArtOfRolling
 ArtPorn
+AsaCumEramOdata
 asaprocky
 AsbestosRemovalMemes
 Asexual
@@ -1430,6 +1432,7 @@ CompetitiveTFT
 CompetitiveWoW
 composting
 compsci
+CompTIA
 computers
 conan
 conceptart
@@ -2085,6 +2088,7 @@ ElvenGirls
 ElvenInspiration
 Elysia
 ElysianEclipse
+emacs
 embedded
 Embroidery
 emergencymedicine
