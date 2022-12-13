@@ -270,6 +270,7 @@ Amtrak
 AmyAdams
 AnadeArmas
 analog
+AnalogCircleJerk
 AnalogCommunity
 AnaloguePocket
 Anarchism
@@ -1253,6 +1254,7 @@ CharacterRant
 CharcuterieBoard
 Chargers
 Charlotte
+CharlotteAnime
 charmed
 Chaser
 ChatGPT
@@ -3822,6 +3824,7 @@ linuxmemes
 lisboa
 listentothis
 lithuania
+litrpg
 LitterboxComics
 LittleNightmares
 LittleNuns
@@ -4835,6 +4838,7 @@ overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
 OverwatchLeague
+OverwatchTMZ
 OverwatchUniversity
 OWConsole
 Owls
