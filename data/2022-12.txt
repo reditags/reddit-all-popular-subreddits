@@ -259,6 +259,7 @@ AmericanHorrorStory
 AMG
 amibeingdetained
 Amigurumi
+amiibo
 AmITheAngel
 AmItheButtface
 amiugly
@@ -969,6 +970,7 @@ Boxing
 boyslove
 BPD
 BPDmemes
+brakebills
 BrandNewAnimal
 BrandNewSentence
 brandonherrara
@@ -1448,6 +1450,7 @@ compsci
 CompTIA
 computers
 conan
+ConanExiles
 conceptart
 confession
 confessions
@@ -1709,6 +1712,7 @@ DarkTide
 DarkViperAU
 darkwingsdankmemes
 DarlingInTheFranxx
+DarthJarJar
 DarwinAwards
 Dashcam
 dashcamgifs
@@ -1758,6 +1762,7 @@ deathguard40k
 deathnote
 DeathrattlePorn
 DeathStranding
+DebateVaccines
 DebtStrike
 dechonkers
 DecidingToBeBetter
@@ -2423,6 +2428,7 @@ forbiddenboops
 forbiddensnacks
 FordBronco
 FordMaverickTruck
+fordranger
 Forest
 ForFashion
 forgottenfilm
@@ -3516,6 +3522,7 @@ JustMonika
 justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
+justwriterthings
 Juve
 k_on
 kaamelott
@@ -4231,6 +4238,7 @@ MinecraftMemes
 minecraftseeds
 minecraftsuggestions
 MineIslam
+MineralGore
 MineralPorn
 MINI
 miniatures
@@ -6705,6 +6713,7 @@ uberdrivers
 Ubiquiti
 Ubuntu
 UCDavis
+ucf
 UCI
 ucla
 UCSC
@@ -7061,6 +7070,7 @@ WhiteLotusHBO
 whitepeoplegifs
 WhitePeopleTwitter
 whitesox
+WhiteWolfRPG
 wholesome
 wholesome40k
 wholesomebpt
