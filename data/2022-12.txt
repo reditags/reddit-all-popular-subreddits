@@ -1992,6 +1992,7 @@ drugmemes
 Drugs
 drugstoreMUA
 Drukhari
+drumcorps
 drums
 drumstick
 drunk
@@ -3567,6 +3568,7 @@ kings
 Kirby
 Kitboga
 kitchener
+KitchenNightmares
 Kitler
 Kitten
 kittengifs
@@ -6842,6 +6844,7 @@ Volumeeating
 Volvo
 VoteBlue
 VoteDEM
+voyager
 vpnnetwork
 VRchat
 VRGaming
