@@ -2528,6 +2528,8 @@ fsusports
 ft86
 ftlgame
 FTMMen
+FTX_Official
+FTXOfficial
 fuckcars
 fuckepic
 fuckgravel
@@ -3684,6 +3686,7 @@ krakow
 kraut
 kristenbell
 kristenstewart
+KritiSanon
 kroger
 ksi
 KSPMemes
