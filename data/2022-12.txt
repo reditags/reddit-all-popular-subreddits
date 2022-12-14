@@ -1756,6 +1756,7 @@ DDLC
 de
 de_EDV
 de_IAmA
+DeadAhead
 deadbydaylight
 deadcells
 deadmalls
@@ -2064,6 +2065,7 @@ Dyson_Sphere_Program
 E30
 EA_NHL
 earfurnishings
+earlsweatshirt
 earthbound
 Earthchan
 EarthPorn
