@@ -1436,6 +1436,7 @@ comedy
 comedyamputation
 ComedyArchaeology
 ComedyCemetery
+comedydamnation
 comedyepilepsy
 ComedyFlogging
 comedyheaven
@@ -2186,6 +2187,7 @@ eos
 EpicGamesPC
 EpicMounts
 EpicSeven
+equelMemes
 equestriaatwar
 Equestrian
 Eragon
@@ -6873,6 +6875,7 @@ unitedstatesofindia
 Unity2D
 Unity3D
 UniversalOrlando
+Universitaly
 unixporn
 unket
 unlikelyfriends
