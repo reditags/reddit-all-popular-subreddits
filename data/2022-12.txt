@@ -1883,6 +1883,7 @@ Dinosaurs
 dionysus
 dioramas
 DiovanaKoni
+Dipcifica
 DiretoDoZapZap
 Dirtbikes
 dirtgame
@@ -2074,6 +2075,7 @@ Earwolf
 EatCheapAndHealthy
 EatCheapAndVegan
 eatsandwiches
+Eberron
 ebikes
 EbonyImagination
 echoes_eve
@@ -2991,6 +2993,7 @@ Hilary_Duff
 HildaTheSeries
 himikotoga
 HIMYM
+HindiMemes
 hinduism
 HipHopImages
 HistoricalCostuming
@@ -4522,6 +4525,7 @@ NelliesNest
 nem
 NeonGenesisEvangelion
 neopets
+neovim
 Nepal
 nerdfighters
 Nerf
