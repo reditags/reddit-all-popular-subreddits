@@ -313,6 +313,7 @@ animalid
 AnimalPorn
 AnimalsBeingBros
 AnimalsBeingConfused
+AnimalsBeingDemons
 AnimalsBeingDerps
 AnimalsBeingGeniuses
 AnimalsBeingHappy
@@ -1125,6 +1126,7 @@ cardano
 Cardinals
 cardsagainsthumanity
 careerguidance
+CarlaMedrano
 CarletonU
 carmemes
 carporn
@@ -6928,6 +6930,7 @@ vintagecomputing
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
+vintagesewing
 vinyl
 VinylCollectors
 vinyljerk
@@ -6980,6 +6983,7 @@ walkaway
 wallpaper
 wallstreetbets
 WallStreetbetsELITE
+wallstreetbetsOGs
 Wallstreetsilver
 walmart
 WalmartCelebrities
