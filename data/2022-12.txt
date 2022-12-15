@@ -2489,6 +2489,7 @@ FordBronco
 FordMaverickTruck
 fordranger
 Forest
+foreverbox
 ForFashion
 forgottenfilm
 ForgottenWeapons
@@ -4178,6 +4179,7 @@ mastodonband
 mathmemes
 mathsmemes
 matrix
+mattcolville
 matureplants
 mauerstrassenwetten
 MauLer
@@ -4777,6 +4779,7 @@ notmycat
 NotMyJob
 notopbutok
 nottheonion
+NotTimAndEric
 nottingham
 nova
 NovelAi
@@ -5397,6 +5400,7 @@ Purrito
 purrkour
 pussypassdenied
 PutAnEggOnIt
+PvZGardenWarfare
 PvZHeroes
 pykemains
 pyrocynical
@@ -6783,6 +6787,7 @@ transgender
 transit
 TransLater
 translator
+TransMasc
 Transmogrification
 transprogrammer
 transtrans
