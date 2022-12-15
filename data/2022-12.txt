@@ -2831,6 +2831,7 @@ GooglePixel
 GooglyEyes
 GoosetheBand
 gorillaz
+GossipDK
 goth
 GothamKnights
 Gothenburg
@@ -2845,6 +2846,7 @@ GrandBlue
 grandorder
 grandpajoehate
 grandrapids
+GrandTheftAutoV
 GrandTourTopgearFans
 granturismo
 graphic_design
@@ -3675,6 +3677,7 @@ kettlebell
 kfeets
 KGATLW
 KGBTR
+KGBTRNSFW2
 khajiithaswares
 KhopdiTodSaaleKi
 Khruangbin
@@ -5479,6 +5482,7 @@ RDR2
 Re_Zero
 reactiongifs
 reactionpics
+reactivedogs
 reactjs
 reactnative
 readanotherbook
@@ -7142,6 +7146,7 @@ warcraftlore
 WarCry
 Warframe
 WarframeRunway
+wargame
 Warhammer
 Warhammer30k
 Warhammer40kEsp
