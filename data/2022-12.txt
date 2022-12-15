@@ -238,6 +238,7 @@ aliens
 AliensFireteamElite
 alinity
 AlisonBrie
+AlissaViolet
 AllTomorrows
 AlternateAngles
 AlternateHistory
@@ -5839,6 +5840,7 @@ ShinyPokemon
 Shinypreciousgems
 ShitCrusaderKingsSay
 shitduolingosays
+shitfascistssay
 shitguncontrollerssay
 ShitKonfaSays
 ShitLiberalsSay
