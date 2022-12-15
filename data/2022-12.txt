@@ -2694,6 +2694,7 @@ Genealogy
 GeneralSam
 generative
 genestealercult
+GeniusInvokationTCG
 Genshin_Impact
 Genshin_Impact_Leaks
 Genshin_Lore
@@ -2751,6 +2752,7 @@ gingercats
 Gintama
 Giraffesdontexist
 girlsfrontline
+GirlsInaGif
 GirlsLastTour
 GirlsMirin
 GirlsUndShitposts
@@ -3807,6 +3809,7 @@ law
 LawSchool
 lawschooladmissions
 LaylaMains
+lcfc
 LeaEluiGinet
 leafs
 leagueofjinx
@@ -3924,6 +3927,8 @@ linuxmemes
 lisboa
 listentothis
 litecoin
+LitecoinMarkets
+litecoinmining
 lithuania
 litrpg
 LitterboxComics
@@ -5428,6 +5433,7 @@ rap
 rapedwarflore
 RapFars
 Raphtalia
+raptoreum
 Rardit
 rarecompliments
 rareinsults
@@ -5437,6 +5443,7 @@ raspberry_pi
 RatchetAndClank
 Ratorix
 RATS
+Ravencoin
 ravens
 rawdenim
 razer
