@@ -6903,6 +6903,7 @@ uberdrivers
 Ubiquiti
 ubius
 Ubuntu
+UCalgary
 UCDavis
 ucf
 UCI
