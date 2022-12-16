@@ -1279,6 +1279,7 @@ CentralChurch
 centrist
 centuryhomes
 Ceramics
+cf4cf
 CFB
 cfbmemes
 CGPGrey
@@ -1984,6 +1985,7 @@ DnB
 DnD
 DnDart
 DnDBehindTheScreen
+DnDcirclejerk
 DnDGreentext
 DnDHomebrew
 DnDIY
@@ -5097,6 +5099,7 @@ ParlerWatch
 parrots
 PartyParrot
 pasta
+PastAndPresentPics
 Patchuu
 Pathfinder2e
 Pathfinder_Kingmaker
@@ -6777,6 +6780,7 @@ titleporn
 tjournal_refugees
 TLCsisterwives
 TMNT
+tmobile
 TNOmod
 toarumajutsunoindex
 toastme
