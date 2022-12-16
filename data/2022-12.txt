@@ -2868,6 +2868,7 @@ GossipDK
 goth
 GothamKnights
 Gothenburg
+GothFashion
 GothGirls
 GothStyle
 gradadmissions
@@ -3676,6 +3677,7 @@ KanojoOkarishimasu
 kansascity
 KansasCityChiefs
 Kanye
+karen
 karengillan
 KarmaRoulette
 Karting
@@ -7214,6 +7216,7 @@ walkaway
 wallpaper
 wallstreetbets
 WallStreetbetsELITE
+Wallstreetbetsnew
 wallstreetbetsOGs
 Wallstreetsilver
 walmart
