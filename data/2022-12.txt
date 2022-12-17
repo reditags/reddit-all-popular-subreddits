@@ -442,6 +442,7 @@ Archery
 ArchitecturalRevival
 architecture
 ArchitecturePorn
+archlinux
 arcticmonkeys
 arduino
 ArduinoProjects
@@ -725,6 +726,7 @@ BattlefieldV
 BattleJackets
 battlemaps
 BattleNetwork
+BattlePaintings
 battlestations
 battletech
 batty
@@ -2380,6 +2382,7 @@ farmingsimulator
 farpeoplehate
 FaruzanMains
 fashionhistory
+fashionph
 fashionporn
 FashionReps
 fashionsouls
@@ -3391,6 +3394,7 @@ ImagineThisView
 ImFinnaGoToHell
 ImmaterialScience
 ImmutableX
+imOnlyFans
 Impeach_Trump
 ImperialFists
 ImpracticalArmour
@@ -3829,6 +3833,7 @@ kpoprants
 kpopthoughts
 krakow
 kraut
+KrisCollins
 kristenbell
 kristenstewart
 krita
@@ -4079,6 +4084,7 @@ loreofleague
 losangeleskings
 LosAngelesRams
 loseit
+Loserfruit
 lossofalovedone
 lost
 Lost_Architecture
@@ -5755,6 +5761,7 @@ runefactory
 runescape
 running
 RunningCirclejerk
+runningman
 RunningShoeGeeks
 runthejewels
 rupaulsdragrace
@@ -7294,6 +7301,7 @@ washingtonwizards
 wasletztepreis
 wasletztestern
 WastedGifs
+WatchandLearn
 WatchAnimalsDieInside
 watchcatsdieinside
 WatchDogsWoofInside
