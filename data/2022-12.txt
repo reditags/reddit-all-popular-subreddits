@@ -1434,6 +1434,7 @@ CloneHero
 clonewars
 CloneWarsMemes
 CLOUDS
+ClubPenguin
 cluj
 ClumsyAnimals
 cna
@@ -3103,6 +3104,7 @@ hinduism
 HipHopImages
 HistoricalCostuming
 history
+HistoryAnecdotes
 HistoryAnimemes
 HistoryPorn
 HitBoxPorn
@@ -3392,6 +3394,7 @@ ImTheMainCharacter
 InclusiveOr
 Incorgnito
 IncreasinglyVerbose
+IncredibleIndia
 IncrediblesMemes
 incremental_games
 india
@@ -3913,6 +3916,7 @@ ledzeppelin
 LeedsUnited
 left_urbanism
 LeftistGamersUnion
+leftistvexillology
 LeftTheBurnerOn
 legaladviceofftopic
 LegalAdviceUK
