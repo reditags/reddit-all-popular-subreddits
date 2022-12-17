@@ -5899,6 +5899,7 @@ schweiz
 science
 ScienceBasedParenting
 sciencefiction
+ScienceHumour
 sciencememes
 ScienceNcoolThings
 sciences
@@ -7113,6 +7114,7 @@ unexpectedsabaton
 UnexpectedSCP
 unexpectedskyrim
 UnexpectedTF2
+UnexpectedThanos
 unexpectedute
 Unextexted
 UnfunnyHellhole
