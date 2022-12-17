@@ -444,6 +444,7 @@ architecture
 ArchitecturePorn
 arcticmonkeys
 arduino
+ArduinoProjects
 AreTheStraightsOkay
 Argaming
 argentina
@@ -578,6 +579,7 @@ AussieCasual
 AusSkincare
 AustinFC
 australia
+AustralianBirds
 AustralianCattleDog
 AustralianMilitary
 AustralianNostalgia
@@ -3748,6 +3750,7 @@ KidsAreFuckingEvil
 KidsAreFuckingSmart
 KidsAreFuckingStupid
 KiernanShipka
+kilian
 killedthecameraman
 killingfloor
 KillLaKill
@@ -4862,6 +4865,7 @@ Npchate
 NPPfunny
 nrl
 NSFWPublicFreakout
+nuclear
 NuclearRevenge
 NuclearThrone
 NUFC
