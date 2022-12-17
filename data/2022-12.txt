@@ -788,6 +788,7 @@ bengalcats
 bengals
 BenGarrisonCumEdits
 benhoward
+benshapiro
 berkeley
 berlin
 Bernadetta
@@ -1508,6 +1509,7 @@ Compound
 compsci
 CompTIA
 computers
+computerscience
 conan
 ConanExiles
 conceptart
@@ -2048,6 +2050,7 @@ dontflinch
 DontFundMe
 donthelpjustfilm
 dontputyourdickinthat
+DontSubscribeDumbAss
 dontyouknowwhoiam
 DonutMedia
 doodles
@@ -2751,6 +2754,7 @@ GearsOfWar
 geckos
 geek
 GeekyCrochet
+GeForceNOW
 gegenewtt
 gekte
 genderfluid_irl
@@ -3507,6 +3511,7 @@ Iowa
 ipad
 iphone
 iPhoneography
+ipl
 iRacing
 ireland
 IreliaMains
@@ -3997,6 +4002,7 @@ lifeisstrange
 LifeofBoris
 LifeProTips
 LigaMX
+lightcannon
 Lightning
 lightsabers
 LightsCameraPodcast
@@ -5553,6 +5559,7 @@ Rammstein
 Ranboo
 rance
 rance_iel
+RandomActsOfGaming
 RandomThoughts
 rangers
 rangersfc
@@ -5665,6 +5672,7 @@ rescuedogs
 Residency
 residentevil
 ResinCasting
+resinprinting
 restofthefuckingowl
 resumes
 retailhell
