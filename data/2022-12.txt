@@ -1040,6 +1040,7 @@ BreathingBuddies
 breathinginformation
 BRF
 briandavidgilbert
+brick_expressionism
 bridezillas
 BridgertonNetflix
 BrieLarson
@@ -2891,6 +2892,7 @@ GooglyEyes
 GoosetheBand
 gorillaz
 GossipDK
+GossipGirl
 goth
 GothamKnights
 Gothenburg
@@ -7073,6 +7075,7 @@ UnearthedArcana
 UnethicalLifeProTips
 Unexpected
 UnexpectedAvatar
+UnexpectedB99
 unexpectedbrooklyn99
 unexpectedcommunism
 unexpectedfactorial
