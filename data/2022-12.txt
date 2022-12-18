@@ -4583,6 +4583,7 @@ mountandblade
 MouseReview
 Moustache
 Movie_Trivia
+moviecritic
 MovieDetails
 MovieLeaksAndRumors
 MovieMistakes
@@ -5652,6 +5653,7 @@ redditsync
 RedditTopUpvotes
 RedditWritesSeinfeld
 RedDwarf
+RedheadBeauties
 RedheadedGoddesses
 RedHotChiliPeppers
 RedLetterMedia
@@ -7093,6 +7095,7 @@ ultrawidemasterrace
 UmbrellaAcademy
 UMD
 umineko
+UmisFriends
 UNBGBBIIVCHIDCTIICBG
 Uncensoredminecraft
 UnchainedMelancholy
