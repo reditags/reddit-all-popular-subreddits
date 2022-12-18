@@ -1849,6 +1849,7 @@ DeathCabforCutie
 Deathcore
 deathgrips
 deathguard40k
+Deathkorpsofkrieg
 deathnote
 DeathrattlePorn
 DeathStranding
@@ -3402,6 +3403,7 @@ ImaginaryUndead
 ImaginaryVehicles
 ImaginaryVillages
 ImaginaryWarhammer
+ImaginaryWarriors
 ImaginaryWastelands
 ImaginaryWeaponry
 ImaginaryWeather
@@ -3450,6 +3452,7 @@ indianews
 IndianGaming
 Indiangirlsontinder
 IndianHipHopHeads
+IndianMakeupAddicts
 indianmemer
 IndianMemeTemplates
 IndianMeyMeys
@@ -3913,6 +3916,7 @@ languagelearning
 languagelearningjerk
 lansing
 LaserCleaningPorn
+LaserEyedCats
 LaStalla
 lastfm
 lastimages
@@ -4166,6 +4170,7 @@ Lustig
 Luthier
 LV426
 LycorisRecoil
+Lyon
 MAAU
 mac
 macarons
@@ -6963,6 +6968,7 @@ Transformemes
 transformers
 transgender
 transit
+TransitDiagrams
 transitiongoals
 TransLater
 translator
