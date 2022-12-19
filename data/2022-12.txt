@@ -2887,6 +2887,7 @@ glitch_art
 Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
+GlobalTribe
 GlockMod
 Glocks
 Gloomhaven
@@ -3618,6 +3619,7 @@ itstheyak
 ItsukiClassroom
 IttoMains
 ITZY
+IvanaKnoll
 IVE
 iwoulddiefornoodle
 IWW
@@ -3665,6 +3667,7 @@ Jeep
 JeffArcuri
 JellesMarbleRuns
 jellybeantoes
+jellyfin
 JennaLouiseColeman
 Jennamarbles
 JennaOrtega_
@@ -4680,6 +4683,7 @@ Munich
 Muppets
 MurderBuns
 MurderDrones
+MurderedByAOC
 MurderedByWords
 murdermittens
 murdochsucks
@@ -7052,6 +7056,7 @@ transitiongoals
 TransLater
 translator
 TransMasc
+Transmatfiring
 Transmogrification
 transprogrammer
 transtrans
@@ -7230,6 +7235,7 @@ UnexpectedTF2
 UnexpectedThanos
 unexpectedute
 Unextexted
+unfortunateplacement
 UnfunnyHellhole
 union
 unionsolidarity
