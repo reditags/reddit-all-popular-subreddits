@@ -427,6 +427,7 @@ apolloapp
 AppalachianTrail
 appiememes
 apple
+AppleCard
 AppleMusic
 AppleWatch
 ApplyingToCollege
@@ -2224,6 +2225,7 @@ egg_irl
 Egypt
 EightySix
 EizaGonzalez
+EL_Radical
 Eldar
 EldenBling
 Eldenring
@@ -6492,6 +6494,7 @@ StoicMemes
 stolendogbeds
 StolenSeats
 StonerEngineering
+StonerThoughts
 Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
@@ -6655,6 +6658,7 @@ TalesFromTheCustomer
 TalesFromTheFrontDesk
 TalesFromTheKitchen
 TalesFromThePharmacy
+TalesFromThePizzaGuy
 TalesFromYourServer
 talk_hunfluencers
 TalkTherapy
@@ -6798,6 +6802,7 @@ TheBidenshitshow
 thebindingofisaac
 TheBonfire
 TheBoys
+TheBrewery
 TheBullWins
 TheCallistoProtocol
 thecatdimension
