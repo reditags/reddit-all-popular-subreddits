@@ -1535,6 +1535,7 @@ compsci
 CompTIA
 computers
 computerscience
+computervision
 conan
 ConanExiles
 conceptart
@@ -7704,6 +7705,7 @@ yimby
 YMS
 ynab
 yo_ctm
+yo_elvr
 YofukashiNoUta
 yoga
 Yoimiya_Mains
