@@ -459,6 +459,7 @@ architecture
 ArchitecturePorn
 archlinux
 arcticmonkeys
+Ardor
 arduino
 ArduinoProjects
 AreTheStraightsOkay
@@ -1603,6 +1604,7 @@ CoronavirusDownunder
 CoronavirusUS
 CorporateFacepalm
 Corridor
+Corsair
 Corvette
 corvids
 Cosmere
@@ -1677,6 +1679,7 @@ CringetopiaRM
 criterion
 criticalblunder
 criticalrole
+Crittersoncapybaras
 croatia
 CrohnsDisease
 cromch
@@ -3761,6 +3764,7 @@ JustCause
 justdependathings
 justforsocialmedia
 Justfuckmyshitup
+justgamedevthings
 JustGuysBeingDudes
 JusticeForJohnnyDepp
 JusticePorn
@@ -3959,6 +3963,7 @@ ladiesofthemcu
 LadiesOfWrestling
 Ladybonersgonecuddly
 ladyladyboners
+Laesterschwestern
 LAFC
 lagoloaf
 laidbackcamp
@@ -4321,6 +4326,7 @@ ManifestNBC
 ManorLords
 mantids
 ManufacturingPorn
+ManyATrueNerd
 Maplestory
 mapmaking
 MapPorn
@@ -5150,6 +5156,7 @@ oompasubs
 OooBigStretch
 OopsThatsDeadly
 OPBR
+OpenAI
 opensea
 OpenSignups
 opensource
@@ -5931,6 +5938,7 @@ RX7
 ryujin
 Ryumimi
 S2000
+saab
 sabaton
 SabatonMemes
 Saber
@@ -7465,6 +7473,7 @@ walkablecities
 WalkableStreets
 walkaway
 wallpaper
+wallpaperengine
 wallstreetbets
 WallStreetbetsELITE
 Wallstreetbetsnew
@@ -7726,6 +7735,7 @@ wwehotdivas
 WWFC
 wwiipics
 WWIIplanes
+WynnCraft
 xbiking
 xbox
 XboxGamePass
