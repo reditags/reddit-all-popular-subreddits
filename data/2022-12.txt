@@ -682,6 +682,7 @@ BadChoicesGoodStories
 badcode
 BadDesigns
 Badfaketexts
+badfriendspod
 badhistory
 Badlyinjured
 badmathematics
@@ -4036,6 +4037,7 @@ left_urbanism
 LeftistGamersUnion
 leftistvexillology
 LeftTheBurnerOn
+LeftWingMaleAdvocates
 LeftyPiece
 legaladviceofftopic
 LegalAdviceUK
@@ -4363,6 +4365,7 @@ marymouser_
 mash
 massachusetts
 masseffect
+MassEffectAndromeda
 MassEffectMemes
 massivefangs
 masterduel
@@ -5736,6 +5739,7 @@ reactnative
 readanotherbook
 ReadyOrNotGame
 real_China_irl
+realasians
 RealBeesFakeTopHats
 RealDayTrading
 realfishfaketophats
