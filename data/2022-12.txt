@@ -1705,6 +1705,7 @@ CryptoArt
 CryptoCurrency
 cryptocurrencymemes
 CryptoCurrencyTrading
+CryptoGemDiscovery
 CryptoMarkets
 CryptoMoonShots
 cryptostreetbets
@@ -2929,6 +2930,7 @@ godtiersuperpowers
 GODZILLA
 gojira
 Gold
+GoldandBlack
 GoldenAgeMinecraft
 Goldendoodles
 goldenknights
@@ -7023,6 +7025,7 @@ Toefeathers
 ToiletPaperUSA
 tokipona
 tokkiefeesboek
+tokkiemarktplaats
 Tokyo
 TokyoGhoul
 TokyoRevengers
