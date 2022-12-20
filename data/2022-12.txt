@@ -3393,6 +3393,7 @@ ImaginaryBestOf
 ImaginaryCastles
 ImaginaryCharacters
 ImaginaryCityscapes
+ImaginaryColorscapes
 imaginarycosmere
 ImaginaryCybernetics
 ImaginaryCyberpunk
