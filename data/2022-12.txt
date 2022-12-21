@@ -1896,6 +1896,7 @@ DeadAhead
 deadbydaylight
 deadcells
 deadmalls
+deadmau5
 deadmeatjames
 DeadSpace
 deathbattle
@@ -2820,6 +2821,7 @@ GamingLeaksAndRumours
 gamingpc
 gangstaswithwaifus
 gangweed
+gank
 Ganyu
 garageporn
 GarandThumb
@@ -4184,6 +4186,7 @@ linux
 linux_gaming
 linuxmasterrace
 linuxmemes
+lisa_joyman
 lisboa
 listentothis
 litecoin
@@ -7261,6 +7264,7 @@ TurkeyJerky
 TurkishCats
 turku
 turtle
+turtleswithjobs
 TuxedoCats
 TVDetails
 TVTooHigh
@@ -7830,6 +7834,7 @@ WWFC
 wwiipics
 WWIIplanes
 WynnCraft
+X4Foundations
 xbiking
 xbox
 XboxGamePass
