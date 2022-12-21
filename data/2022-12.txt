@@ -435,6 +435,7 @@ APlagueTale
 ApocalypseProblems
 apolloapp
 AppalachianTrail
+AppHookup
 appiememes
 apple
 AppleCard
@@ -2568,6 +2569,7 @@ Fishingmemes
 Fit_babes
 FitAndNatural
 fitness30plus
+FitToFat
 fivenightsatfreddys
 fivethirtyeight
 fixedbytheduet
@@ -6060,6 +6062,7 @@ SanJose
 SanJoseSharks
 sanpedrocactus
 sanrio
+SantaBarbara
 santacruz
 SantaFe
 saopaulo
@@ -7352,6 +7355,7 @@ unexpectedfactorial
 unexpectedfuturama
 UnexpectedHamilton
 unexpectedhogwarts
+unexpectedjihad
 UnexpectedJoJo
 UnexpectedLetterkenny
 UnexpectedlyWholesome
