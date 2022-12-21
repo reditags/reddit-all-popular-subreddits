@@ -4307,6 +4307,7 @@ madlads
 madnesscombat
 MadokaMagica
 Madrid
+MafiaTheGame
 MagicArena
 magicbuilding
 MagicEye
