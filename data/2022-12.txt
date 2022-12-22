@@ -2144,6 +2144,7 @@ doordash
 doordash_drivers
 Dorohedoro
 DotA2
+dotnet
 DottoreMains
 DoubanGoosegroup
 doughboys
@@ -7804,6 +7805,7 @@ WitchesVsPatriarchy
 WithoutThePunchline
 Wizard101
 WKUK
+wma
 wmnf
 wnba
 woahdude
@@ -7954,6 +7956,7 @@ YouShouldKnow
 youtube
 YouTube_startups
 youtubehaiku
+youtubetv
 YuB
 yugioh
 YuGiOhMasterDuel
