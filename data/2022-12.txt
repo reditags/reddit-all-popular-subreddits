@@ -3133,6 +3133,7 @@ Hamilton
 hamiltonmusical
 Hammers
 hamsters
+hanakokun
 HandfulOfKitten
 handholding
 handmade
@@ -3943,6 +3944,7 @@ KingOfTheHill
 kings
 kintsugi
 Kirby
+Kitbash
 Kitboga
 kitchener
 KitchenNightmares
@@ -7655,6 +7657,7 @@ WattsonMains
 Wavyhair
 WayOfTheBern
 wde
+We_are_weeb
 WeaponsMoe
 WeatherGifs
 web_design
