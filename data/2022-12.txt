@@ -779,6 +779,7 @@ BattleNetwork
 BattlePaintings
 battlestations
 battletech
+battlewagon
 batty
 bayarea
 BayleyBooty
