@@ -386,6 +386,7 @@ Animemes
 AnimeMirchi
 animenews
 animenocontext
+animepiracy
 AnimeSketch
 AnimeTomboys
 AnimeWallpapersSFW
@@ -2799,6 +2800,7 @@ FurnitureForCats
 furry
 FurryArtSchool
 furrymemes
+fursedimages
 fursuit
 fuseboxgames
 fuslie
