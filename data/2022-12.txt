@@ -1337,6 +1337,7 @@ CatTeamBrotherhood
 CatWasHere
 Cawwsplay
 CBSE
+cbum
 CCW
 Cd_collectors
 CDrama
@@ -1843,6 +1844,7 @@ danglers
 DaniDev
 Daniellarson
 DanielTigerConspiracy
+Dank
 dank_meme
 DankAndrastianMemes
 dankchristianmemes
@@ -2000,6 +2002,7 @@ desimemes
 DesiMeta
 DesirePath
 DesirePaths
+desksetup
 desmoines
 DesperateHousewives
 dessert
@@ -3280,6 +3283,7 @@ HIMYM
 HindiMemes
 hinduism
 HipHopImages
+hiphopvinyl
 HistoricalCostuming
 history
 HistoryAnecdotes
@@ -4612,6 +4616,7 @@ menwritingwomen
 meormyson
 MEOW_IRL
 meowsertrousers
+Mercari
 mercedes_benz
 merlinbbc
 mesi
@@ -6117,6 +6122,7 @@ rustylake
 rutgers
 rva
 RVLiving
+rvnxmango
 RWBY
 RWBYcritics
 RWTH_memes
@@ -6720,6 +6726,7 @@ stevenuniverse
 STFUitsadragon
 stfuretard
 sticknpokes
+Stims
 StLouis
 stlouisblues
 sto
@@ -7946,6 +7953,7 @@ wortwitzkasse
 WoT
 WouldYouRather
 wow
+wownoob
 wowthanksimcured
 Wrangler
 Wrasslin
