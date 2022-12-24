@@ -2626,6 +2626,7 @@ Fleabag
 FleetwoodMac
 FleshPitNationalPark
 FlexinLesbians
+flightradar24
 flightsim
 flipperzero
 Flipping
@@ -6060,6 +6061,7 @@ Rochester
 rock
 RocketLeague
 RocketLeagueEsports
+rocketry
 rockets
 rockhounds
 rockstar
@@ -7495,6 +7497,7 @@ unexpectedfactorial
 unexpectedfuturama
 UnexpectedHamilton
 unexpectedhogwarts
+unexpecteditcrowd
 unexpectedjihad
 UnexpectedJoJo
 UnexpectedLetterkenny
