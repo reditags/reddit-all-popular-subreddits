@@ -202,6 +202,7 @@ agedlikewine
 agedtattoos
 agender
 AgeOfCivilizations
+ageofempires
 AgeofMythology
 ageofsigmar
 aggies
@@ -536,6 +537,7 @@ AskBalkans
 askcarsales
 AskCulinary
 AskDocs
+AskElectronics
 AskEngineers
 AskFrance
 AskHistorians
@@ -1867,6 +1869,7 @@ danktintinmemes
 dankvideos
 DanLeBatardShow
 DanMachi
+DanmeiNovels
 DannyGonzalez
 DanTDM
 Daredevil
@@ -2924,6 +2927,7 @@ Genshin_Impact_Leaks
 Genshin_Lore
 Genshin_Wallpaper
 GenshinGaysE
+GenshinHimpact
 GenshinHomeworld
 GenshinImpact
 GenshinImpactTips
@@ -3044,6 +3048,7 @@ goodboomerhumor
 GoodFakeTexts
 GoodGoodMemes
 goodmythicalmorning
+goodnews
 goodrestrictionfood
 goodyearwelt
 google
@@ -4014,6 +4019,7 @@ KingdomHearts
 KingkillerChronicle
 KingOfTheHill
 kings
+KingstonOntario
 kintsugi
 Kirby
 Kitbash
@@ -6013,6 +6019,7 @@ RepsneakersDogs
 reptiles
 RepTime
 RepublicaArgentina
+RepublicadeChile
 Republican
 RepublicanValues
 repurposedbuildings
@@ -7003,6 +7010,7 @@ telescopes
 TempleofMarianne
 Tendies
 tenet
+TenKen
 Tennessee
 Tennesseetitans
 tennis
