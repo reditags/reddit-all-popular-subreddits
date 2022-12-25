@@ -3052,6 +3052,7 @@ GODZILLA
 gojira
 Gold
 GoldandBlack
+GoldCoast
 GoldenAgeMinecraft
 Goldendoodles
 GoldenKamuy
@@ -3232,6 +3233,7 @@ HappyWoofGifs
 Hardcore
 hardcoreaww
 HardcoreNature
+hardimages
 hardstyle
 hardware
 hardwaregore
@@ -8049,6 +8051,7 @@ WTFjusthappened
 wtfstockphotos
 WTFwish
 wunkus
+WutheringWaves
 ww2
 ww2memes
 ww3memes
