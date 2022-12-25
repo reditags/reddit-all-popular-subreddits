@@ -1608,6 +1608,7 @@ computers
 computerscience
 computervision
 conan
+ConanBeingAwesome
 ConanExiles
 conceptart
 confession
