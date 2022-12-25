@@ -1154,6 +1154,7 @@ BUENZLI
 Buffalo
 buffalobills
 buffy
+buildabear
 buildapc
 buildapcsales
 bujo
@@ -4555,6 +4556,7 @@ massivefangs
 masterduel
 masterhacker
 MasterReturns
+MastersOfTheUniverse
 Mastiff
 Mastodon
 mastodonband
@@ -7209,6 +7211,7 @@ TheTrumpZone
 TheTryGuys
 theumbrellaacademy
 theunforgiven
+TheVampireDiaries
 thevoice
 thewalkingdead
 TheWalkingDeadGame
