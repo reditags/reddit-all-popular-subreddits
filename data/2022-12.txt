@@ -1591,6 +1591,7 @@ comicbookcollecting
 comicbookmovies
 comicbooks
 comics
+comingout
 commandandconquer
 Commanders
 CommercialsIHate
@@ -2163,6 +2164,7 @@ dogs
 dogs_getting_dogs
 DogsAndPlants
 dogsenjoyingnature
+dogsgettingdogs
 dogslookingdown
 DogsMirin
 dogsonroofs
