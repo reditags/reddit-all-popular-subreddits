@@ -3883,6 +3883,7 @@ Jewdank
 jewelry
 jewelrymaking
 Jewish
+Jewpiter
 JhinMains
 JIDSV
 jigokuraku
@@ -6465,6 +6466,7 @@ Shittyaskflying
 shittyaskscience
 shittybattlestations
 shittybloodborne
+ShittyCarMod
 ShittyDaystrom
 shittyeldenring
 shittyfoodporn
