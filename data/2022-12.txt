@@ -2812,6 +2812,7 @@ FromPuppyToDog
 fromscratch
 fromsoftware
 FromTheDepths
+Frontend
 Frostpunk
 Frugal
 Frugal_Jerk
@@ -5963,6 +5964,7 @@ RaftTheGame
 ragdolls
 rage
 RaidenMains
+RaidenMei
 raiders
 raidsecrets
 RaidShadowLegends
