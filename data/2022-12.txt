@@ -1088,6 +1088,7 @@ BPD
 BPDmemes
 brakebills
 Brampton
+brandnew
 BrandNewAnimal
 BrandNewSentence
 brandonherrara
@@ -1952,6 +1953,7 @@ de
 de_EDV
 de_IAmA
 DeadAhead
+deadandcompany
 deadbydaylight
 deadcells
 deadmalls
@@ -2660,6 +2662,7 @@ fivethirtyeight
 fixedbytheduet
 FixedGearBicycle
 fixit
+FixMyPrint
 FL_Studio
 Flamepoints
 flashlight
@@ -4925,6 +4928,7 @@ movies
 Moviesinthemaking
 mrballen
 MrBeast
+MrJoeNobody
 mrlovenstein
 MrRobot
 MrTechnodad
@@ -6594,6 +6598,7 @@ skyrimvr
 skywind
 slammywhammies
 SlavaUkrayini
+slavs_squatting
 slayeasleaked
 slaythespire
 Slayypoint
