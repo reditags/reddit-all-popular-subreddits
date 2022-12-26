@@ -455,6 +455,7 @@ appiememes
 apple
 AppleCard
 AppleMusic
+appletv
 AppleWatch
 ApplyingToCollege
 APStudents
@@ -7956,6 +7957,7 @@ Whatcouldgowrong
 whatintarnation
 whatismycookiecutter
 whatisthiscar
+whatisthisthing
 whatsthisbird
 whatsthisbug
 whatsthisplant
