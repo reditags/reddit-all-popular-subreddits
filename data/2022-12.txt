@@ -189,6 +189,7 @@ aesthetic
 aestheticrain
 Aether_Mains
 AEWOfficial
+AFCEastMemeWar
 AFCSouthMemeWar
 afkarena
 AFL
@@ -5290,6 +5291,7 @@ NYguns
 nyjets
 NYKnicks
 NYYankees
+O_PACOTE
 OaklandAthletics
 oasis
 obeyme
@@ -6093,6 +6095,7 @@ remnantgame
 remoteplaces
 RenderedComment
 ReneeMurden
+RenewableEnergy
 renfaire
 Reno
 rentnerzeigenaufdinge
@@ -7800,6 +7803,7 @@ Visiblemending
 VisitingIceland
 visualnovels
 VitaPiracy
+ViviWinkler
 Vivy
 vizsla
 VocabWordOfTheDay
