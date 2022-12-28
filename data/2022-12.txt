@@ -2151,6 +2151,7 @@ disenchantment
 dishonored
 Dislyte
 disney
+DisneyDiamonds
 DisneyEyes
 Disneyland
 disneyparks
@@ -2422,6 +2423,7 @@ Eminem
 Emiru_Lewd
 EmKay
 EmmaBrooks
+EmmaMyers
 EmmaRoseKenney
 EmmaStone
 EmmyRossum
@@ -3842,6 +3844,7 @@ IronWarriors
 IrrationalMadness
 IsabelaMerced
 Isekai
+IsekaiOjisan
 IsekaiQuartet
 Ishowspeed
 IsItBullshit
@@ -7500,6 +7503,7 @@ Tools
 TooMeIrlForMeIrl
 toontownrewritten
 ToothpasteBoys
+top_waifus
 TopGear
 TopMindsOfReddit
 TopSecretRecipes
@@ -7544,6 +7548,7 @@ TransClones
 Transformemes
 transformers
 transgender
+transhumanism
 transit
 TransitDiagrams
 transitiongoals
