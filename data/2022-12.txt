@@ -2366,6 +2366,7 @@ EDM
 Edmonton
 educationalgifs
 Eesti
+eFootball
 egg_irl
 EggsInStrangePlaces
 Egypt
@@ -3730,6 +3731,7 @@ IndianStockMarket
 IndianStreetBets
 IndianTeenagers
 indiantiktok
+IndiaRises
 indiasocial
 IndiaSpeaks
 IndieDev
@@ -5115,6 +5117,7 @@ NCSU
 NCT
 NdFlex
 ndp
+nearprotocol
 nebelung
 Nebraska
 NeckbeardNests
@@ -5835,6 +5838,7 @@ polls
 Polska
 Polska_wpz
 polydactyl
+polygonnetwork
 polymerclay
 polyphia
 Polytopia
