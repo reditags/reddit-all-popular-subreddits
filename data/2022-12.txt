@@ -810,6 +810,7 @@ BBBY
 BBIG
 BBQ
 BeachCity
+BeachHouse
 Beading
 beadsprites
 beagle
