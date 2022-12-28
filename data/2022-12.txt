@@ -737,6 +737,7 @@ badMovies
 BadMtgCombos
 BadMUAs
 badparents
+BadReads
 badredman
 badroommates
 badtaxidermy
@@ -4045,6 +4046,7 @@ kaisamains
 kaiserredux
 Kaiserreich
 KaIT
+KaitlynDever
 kakarot
 Kakegurui
 kalam_army
@@ -4446,6 +4448,7 @@ LodedDiper
 LoFiAesthetic
 LofiGirl
 LofiHipHop
+logh
 logodesign
 loki
 LokiTV
