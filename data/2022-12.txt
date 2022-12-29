@@ -1709,6 +1709,7 @@ CoronavirusDownunder
 CoronavirusUS
 CorporateFacepalm
 Corridor
+CorrinConclave
 Corsair
 Corvette
 corvids
@@ -6249,6 +6250,7 @@ Rimuru
 RimWorld
 RimWorldPorn
 RingFitAdventure
+Rings_Of_Power
 RingsofPower
 ripcity
 risa
