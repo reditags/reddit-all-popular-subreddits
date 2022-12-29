@@ -219,6 +219,7 @@ aiArt
 AIDKE
 aigreentext
 Aikuros
+aimdownsights
 aircrashinvestigation
 airfryer
 airplaneears
@@ -7138,6 +7139,7 @@ TalesFromTheFrontDesk
 TalesFromTheKitchen
 TalesFromThePharmacy
 TalesFromThePizzaGuy
+TalesFromTheSquadCar
 TalesFromYourServer
 talk_hunfluencers
 TalkTherapy
@@ -8119,6 +8121,7 @@ whybrows
 WhyWereTheyFilming
 WhyWomenLiveLonger
 Wicca
+wicked_edge
 wiedzmin
 wien
 WiggleButts
