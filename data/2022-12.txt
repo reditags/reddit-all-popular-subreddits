@@ -865,6 +865,7 @@ BelgianMalinois
 belgium
 Belgium2
 Bellapoarch
+bellepatisserie
 belowdeck
 beltalowda
 Ben10
@@ -2524,6 +2525,7 @@ euphoria
 EUR_irl
 europe
 EuropeanFederalists
+europeanunion
 eurovision
 EvaCudmore
 EvaGreen
@@ -2968,6 +2970,7 @@ gamecollecting
 Gamecube
 gamedev
 gamegrumps
+Gamemeneersubmissies
 gameofthrones
 GamePhysics
 gamernews
@@ -3957,6 +3960,7 @@ jedicouncilofelrond
 JEENEETards
 Jeep
 JeffArcuri
+JeilaDizon
 JellesMarbleRuns
 jellybeantoes
 jellyfin
@@ -8318,6 +8322,7 @@ xfl
 XiaoMains
 xkcd
 xmen
+xmrtrader
 xqcow
 XRP
 XXXTENTACION
