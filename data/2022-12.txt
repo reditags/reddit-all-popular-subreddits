@@ -1839,6 +1839,7 @@ Cryptozoology
 Crystals
 csbundestag
 cscareerquestions
+cscareerquestionsEU
 csgo
 csharp
 CSHFans
@@ -2276,6 +2277,7 @@ DoubanGoosegroup
 DougDoug
 doughboys
 doughertydozen
+DoughertySnarkety
 DoveCameron
 DowntonAbbey
 DownvotedToOblivion
