@@ -2014,6 +2014,7 @@ DeadAhead
 deadandcompany
 deadbydaylight
 deadcells
+deadlockpw
 deadmalls
 deadmau5
 deadmeatjames
@@ -4691,6 +4692,7 @@ Mariners
 Mario
 mariokart
 MarioKartTour
+MarioKartWii
 Market76
 marketing
 Markham
