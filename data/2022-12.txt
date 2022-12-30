@@ -5662,6 +5662,7 @@ PampamilyangPaoLUL
 pan
 PandR
 panelshow
+Panera
 PanganaySupportGroup
 panischerigel
 PanPorn
@@ -6268,6 +6269,7 @@ Republican
 RepublicanValues
 repurposedbuildings
 rescuedogs
+ReservationDogs
 Residency
 residentevil
 ResinCasting
@@ -7420,6 +7422,7 @@ thelastofus
 TheLastOfUs2
 ThelastofusHBOseries
 TheLeftCantMeme
+TheLeftovers
 TheLegitBoss
 TheLetterH
 TheLib
@@ -8143,6 +8146,7 @@ weirdvideosfor3am
 WeirdWheels
 WeirdWings
 WelcomeToGilead
+WelcomeToPlathville
 Welding
 Wellington
 WellTextSucks
