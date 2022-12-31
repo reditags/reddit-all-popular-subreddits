@@ -2025,6 +2025,7 @@ deadpool
 DeadSpace
 deaf
 deathbattle
+DeathBattleMatchups
 DeathByMillennial
 DeathCabforCutie
 Deathcore
@@ -6930,6 +6931,7 @@ Spielstopp
 Spiritfarer
 Spiritual_Talk
 SpiritualAwakening
+Splatoon_2
 Splatoon_3
 Splitgate
 sploot
@@ -8131,6 +8133,7 @@ wec
 WeCantStudy
 WECcirclejerk
 wedding
+weddingdrama
 weddingdress
 weddingshaming
 Weddingsunder10k
