@@ -2185,6 +2185,7 @@ Dislyte
 disney
 DisneyDiamonds
 DisneyEyes
+disneygifs
 Disneyland
 disneyparks
 DisneyPlus
@@ -2568,6 +2569,7 @@ exjw
 exmormon
 exmuslim
 ExNoContact
+exo
 exocomics
 ExpandDong
 ExpectationVsReality
@@ -4357,6 +4359,7 @@ LearmannTwins
 learndota2
 learningtocat
 LearnJapanese
+learnjavascript
 learnprogramming
 learnpython
 learntodraw
