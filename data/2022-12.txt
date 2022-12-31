@@ -6080,6 +6080,7 @@ psychology
 Psychonaut
 PUBATTLEGROUNDS
 PublicFreakout
+PublicFreakoutX
 publix
 PuertoRico
 pukicho
@@ -8426,6 +8427,7 @@ Yorkies
 yorkshire
 yorku
 Yosemite
+yotsuba
 Yotsubros
 YouBelongWithMemes
 youdontmattergiveup
