@@ -124,6 +124,7 @@ AccidentalRenaissance
 accidentalrockwell
 AccidentalSlapStick
 accidentalswastika
+accidentaltopgear
 AccidentalWesAnderson
 ACCompetizione
 Accounting
@@ -6178,6 +6179,7 @@ raspberry_pi
 RatchetAndClank
 Ratorix
 RATS
+Ratschlag
 Ravencoin
 ravens
 rawdenim
@@ -6344,6 +6346,7 @@ ROBLOXmemes
 robotics
 Rochester
 rock
+rocketbeans
 RocketLeague
 RocketLeagueEsports
 rocketry
