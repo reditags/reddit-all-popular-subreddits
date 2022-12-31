@@ -1085,6 +1085,7 @@ bookofthemonthclub
 bookporn
 books
 bookshelf
+booksuggestions
 BoomerangSquad
 Boomerhumour
 BoomersBeingFools
@@ -2709,6 +2710,7 @@ FinalFantasyIX
 FinalFantasyVII
 FinalFantasyVIII
 finalfantasyx
+FinalSpace
 finance
 FinancialCareers
 financialindependence
@@ -3950,6 +3952,7 @@ JackSucksAtLife
 jadecargill
 jag_ivl
 Jaguars
+Jaharia
 jaidenanimations
 jailbreak
 jaimelescartes
@@ -6625,6 +6628,7 @@ SGExams
 shadowofmordor
 Shadowrun
 Shadowtherat
+ShaileneWoodley
 Sham_Sharma_Show
 shameless
 ShamelesslyStolen
