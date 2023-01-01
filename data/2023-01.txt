@@ -55,6 +55,7 @@ AccidentalWesAnderson
 Accounting
 AceAttorney
 acecombat
+ActionFigures
 ActLikeYouBelong
 Adelaide
 AdeptusMechanicus
@@ -146,6 +147,7 @@ antiwork
 AO3
 AOC
 aoe2
+ape
 aPeoplesCalendar
 apexlegends
 ApexOutlands
@@ -180,6 +182,7 @@ asexuality
 ask
 AskBalkans
 AskHistorians
+asklatinamerica
 AskMen
 AskOuija
 AskReddit
@@ -200,9 +203,11 @@ AteTheOnion
 atheism
 ATLA
 AtlantaHawks
+AtlantaTV
 atrioc
 attackeyes
 attackontitan
+AubreyPlaza
 auckland
 Audi
 Audiomemes
@@ -263,6 +268,7 @@ Barotrauma
 bartenders
 baseball
 baseballcards
+BassGuitar
 batman
 BatmanArkham
 Battlecars
@@ -273,6 +279,7 @@ battlefield_4
 battlefield_one
 battlestations
 battletech
+batty
 bayarea
 Bayonetta
 BBBY
@@ -378,6 +385,7 @@ BostonTerrier
 Botchedsurgeries
 botw
 Boxer
+Boxing
 BPD
 BPDmemes
 BrandNewSentence
@@ -387,6 +395,7 @@ brasil
 brasilivre
 Braves
 BravoRealHousewives
+Brawlhalla
 Brawlstars
 Breadit
 breakingbad
@@ -411,6 +420,7 @@ bulgaria
 Bulldogs
 bulletjournal
 bullybackfire
+Bumble
 buncomfortable
 BunniesStandingUp
 Buttcoin
@@ -497,6 +507,7 @@ CheetoTheCat
 Chefit
 chelseafc
 chemistry
+Chennai
 CHIBears
 chicagobulls
 chickens
@@ -553,6 +564,7 @@ Colts
 Columbus
 CombatFootage
 combinedgifs
+comedyamputation
 ComedyCemetery
 comedyhomicide
 ComedyNecrophilia
@@ -647,6 +659,7 @@ czechmemes
 Dachshund
 dadjokes
 DaftPunk
+Dallas
 dalle2
 Damnthatsinteresting
 danganronpa
@@ -697,6 +710,7 @@ DeepRockGalactic
 deepseacreatures
 Degrassi
 Dehyamains
+delhi
 deliciouscompliance
 Deltarune
 DemEyesDoe
@@ -724,6 +738,7 @@ DetroitBecomeHuman
 deutschememes
 Deuxmoi
 DevilMayCry
+DHMIS
 Diablo
 diablo2
 DidntKnowIWantedThat
@@ -817,6 +832,7 @@ ElizabethTurner
 ElleFanning
 Embroidery
 EmiliaClarke
+EmKay
 Emoney
 EmpireDidNothingWrong
 ems
@@ -924,6 +940,7 @@ FitAndNatural
 fivenightsatfreddys
 fixedbytheduet
 Flamepoints
+FlashTV
 FlexinLesbians
 floggit
 Floof
@@ -979,10 +996,12 @@ Frenchbulldogs
 FrenchMemes
 FridayNightFunkin
 frogs
+FromKittenToCat
 fromsoftware
 Frugal
 fuckcars
 fuckHOA
+FuckImOld
 FuckNestle
 Fuckthealtright
 fucktheccp
@@ -1009,6 +1028,7 @@ futebol
 futurama
 Futurology
 gadgets
+GalaxyWatch
 GalGadot
 Gambiarra
 Gameboy
@@ -1058,6 +1078,7 @@ GhettoStreetFights
 ghibli
 Ghostbc
 ghostoftsushima
+Ghosts
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
@@ -1091,6 +1112,7 @@ GothGirls
 GothStyle
 Graffiti
 grandorder
+grandpajoehate
 grandrapids
 granturismo
 graphicnovels
@@ -1135,6 +1157,7 @@ halloween
 halo
 HaloMemes
 hamsters
+HandfulOfKitten
 handholding
 happy
 happycowgifs
@@ -1149,6 +1172,7 @@ HauntedMound
 HazbinHotel
 headpats
 hearthstone
+heat
 HellLetLoose
 hellsomememes
 Helltaker
@@ -1211,6 +1235,7 @@ houseplants
 houston
 howtonotgiveafuck
 howyoudoin
+Hue
 HUEstation
 HumanForScale
 HumansAreMetal
@@ -1254,6 +1279,7 @@ ImaginaryDragons
 ImaginaryHorrors
 ImaginaryLandscapes
 ImaginaryLesbians
+ImaginaryLeviathans
 imaginarymaps
 ImaginaryMonsters
 ImaginarySliceOfLife
@@ -1364,6 +1390,7 @@ Kerala
 KerbalSpaceProgram
 KGATLW
 KGBTR
+khajiithaswares
 KidsAreFuckingStupid
 KiernanShipka
 KillLaKill
@@ -1375,6 +1402,7 @@ KingOfTheHill
 kings
 Kirby
 Kitten
+kittens
 kittyhasaquestion
 KittyPupperLove
 KneadyCats
@@ -1401,6 +1429,7 @@ ladyladyboners
 lakers
 lanadelrey
 LancerRPG
+landscaping
 lastimages
 lastpodcastontheleft
 LateStageCapitalism
@@ -1424,6 +1453,7 @@ LegendsOfRuneterra
 lego
 Legoleak
 legostarwars
+leopardgeckos
 LeopardsAteMyFace
 lesbianfashionadvice
 LesbianInsectBrothel
@@ -1488,6 +1518,7 @@ LoveNikki
 LowQualityMemes
 LPOTL
 LSD
+LudwigAhgren
 lululemon
 LV426
 LycorisRecoil
@@ -1571,6 +1602,7 @@ Mensmittenwithkittens
 MensRights
 menwritingwomen
 MEOW_IRL
+Metalcore
 metalgearrising
 Metallica
 MetalMemes
@@ -1630,6 +1662,7 @@ modeltrains
 Modern_Family
 modernwarfare
 ModernWarfareII
+ModestMouse
 moedred
 MoeMorphism
 Moescape
@@ -1651,6 +1684,7 @@ MortalKombat
 MoscowMurders
 MostBeautiful
 motogp
+motorcycle
 motorcycles
 mountainbiking
 mountandblade
@@ -1679,6 +1713,7 @@ MyouiMina
 MyPeopleNeedMe
 MySingingMonsters
 MysteryDungeon
+mythologymemes
 n64
 nagatoro
 NailArt
@@ -1780,6 +1815,7 @@ nova
 nukedmemes
 nursing
 NuxTakuSubmissions
+nuzlocke
 nvidia
 nwordington
 NYGiants
@@ -1815,6 +1851,7 @@ OkBuddyPersona
 okbuddyphd
 OkBuddyPoliceOfficer
 okbuddyreiner
+okbuddyvowsh
 okemakkermaloot
 okkolegauposledzony
 okmatewanker
@@ -1934,6 +1971,8 @@ physicsmemes
 piano
 pics
 piercing
+pinaytiktokhotties
+Piracy
 PiratedGames
 Piratefolk
 PirateKitties
@@ -1955,10 +1994,12 @@ Poetry
 pointlesslygendered
 PointyTailedKittens
 PokeMedia
+pokememes
 pokemon
 pokemongo
 PokemonGoFriends
 PokemonLegendsArceus
+PokemonMasters
 pokemonmemes
 PokemonROMhacks
 PokemonScarletViolet
@@ -2034,6 +2075,7 @@ pyrocynical
 Python
 Quebec
 quilting
+quityourbullshit
 Qult_Headquarters
 QuotesPorn
 R6ProLeague
@@ -2042,6 +2084,7 @@ radioheadcirclejerk
 ragdolls
 RaidenMains
 raiders
+raidsecrets
 raimimemes
 Rainbow6
 RainbowEverything
@@ -2093,6 +2136,7 @@ Residency
 residentevil
 restofthefuckingowl
 RetroAR
+retrobattlestations
 RetroFuturism
 retrogaming
 reverseanimalrescue
@@ -2189,6 +2233,7 @@ SequelMemes
 serbia
 seriouseats
 SeveranceAppleTVPlus
+SewayakiKitsune
 sewing
 SFGiants
 SFWNextDoorGirls
@@ -2225,7 +2270,9 @@ shittymoviedetails
 shittyrainbow6
 shittyreactiongifs
 shittyrobots
+shittysimulated
 shittyskylines
+shittysuperpowers
 shittytattoos
 shittytechnicals
 ShokugekiNoSoma
@@ -2292,6 +2339,7 @@ spaceporn
 spain
 SpanishMeme
 specializedtools
+SpecOpsArchive
 SpeculativeEvolution
 SpeedOfLobsters
 sphynx
@@ -2322,6 +2370,7 @@ StardewMemes
 StardustCrusaders
 Starfield
 Stargate
+StarshipPorn
 starterpacks
 StartledCats
 startrekmemes
@@ -2332,6 +2381,7 @@ StarWarsCantina
 StarWarsEU
 starwarsmemes
 starwarsspeculation
+steak
 Steam
 SteamDeck
 steelers
@@ -2345,6 +2395,7 @@ Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
 StoppedWorking
+Stormlight_Archive
 StraightsBeingOK
 StrangePlanet
 StrangerThings
@@ -2406,6 +2457,7 @@ TattooDesigns
 Tau40K
 TaylorSwift
 TaylorSwiftPictures
+tea
 Teachers
 TeamfightTactics
 TeamFourStar
@@ -2450,6 +2502,7 @@ THE_PACK
 theadamfriedlandshow
 TheAdventureZone
 TheAstraMilitarum
+TheBidenshitshow
 TheBoys
 TheBrewery
 TheBullWins
@@ -2503,6 +2556,8 @@ TIGHTPUSSY
 TIHI
 TikTokCringe
 TILI
+timberwolves
+TimPool
 Tinder
 tinyorangekittens
 TinyUnits
@@ -2569,6 +2624,7 @@ TRUTHsocialWatch
 TTSverse
 tuckedinkitties
 TuckedInPuppies
+Tucson
 tumblr
 Turkey
 TurkeyJerky
@@ -2630,6 +2686,7 @@ valheim
 VALORANT
 ValorantCompetitive
 vancouver
+vandwellers
 VanessaHudgens
 VaporwaveAesthetics
 VaushV
@@ -2645,6 +2702,7 @@ venturebros
 vexillology
 vexillologycirclejerk
 victoria3
+victoriajustice
 videogamedunkey
 videos
 vintage
@@ -2654,6 +2712,7 @@ vinyljerk
 Virginia
 virginvschad
 Visiblemending
+VitaPiracy
 Vocaloid
 void_memes
 voidpunk
@@ -2761,6 +2820,7 @@ WorldOfWarships
 WorldWar2
 wortwitzkasse
 WoT
+WouldYouRather
 wow
 Wrasslin
 writing
@@ -2785,6 +2845,7 @@ xqcow
 YaeMiko
 yakuzagames
 yandere
+Yellowjackets
 yesyesyesno
 yesyesyesyesno
 yo_ctm
