@@ -103,6 +103,7 @@ afkarena
 AFL
 aftergifted
 AgainstHateSubreddits
+AgainstHinduphobia
 agedlikemilk
 agedlikewine
 agedtattoos
@@ -184,6 +185,7 @@ AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
 AnimalsOnReddit
+Animalsthatlovemagic
 AnimalTextGifs
 animation
 anime_irl
@@ -693,6 +695,7 @@ CatSlaps
 CatsLivingAndWell
 CatSmiles
 Catsmirin
+CatsNamedToothless
 CatsOnCats
 catsonglass
 CatsOnKeyboards
@@ -711,6 +714,7 @@ Cawwsplay
 CCW
 celebrities
 CelebrityFeet
+CelebsPH
 celestegame
 celestememes
 CelestialBodies
@@ -790,6 +794,7 @@ CleaningTips
 Cleveland
 clevercomebacks
 climate
+ClimateActionPlan
 climbing
 ClimbingCircleJerk
 clonewars
@@ -872,6 +877,7 @@ Costco
 cottagecore
 CountOnceADay
 CoupleMemes
+CourtneyMiller
 covidlonghaulers
 cowboybebop
 cowboys
@@ -1069,6 +1075,7 @@ deutschememes
 Deuxmoi
 developersIndia
 DevilMayCry
+DHHMemes
 DHMIS
 Diablo
 diablo2
@@ -1101,6 +1108,7 @@ DivinityOriginalSin
 DivorcedBirds
 DiWHY
 DIY
+DIYUK
 DMAcademy
 DMZ
 DnD
@@ -1158,6 +1166,7 @@ Dreadlocks
 DreamlightValley
 Dreams
 dreamsmp
+DrStone
 Drueandgabe
 drugmemes
 Drugs
@@ -1464,6 +1473,7 @@ fuckHOA
 FuckImOld
 fucklawns
 FuckNestle
+fuckpongkrell
 Fuckthealtright
 fucktheccp
 fuckwasps
@@ -1755,6 +1765,7 @@ Hololive
 HololiveYuri
 Holostars
 HolUp
+homeassistant
 HomeDecorating
 HomeDepot
 homegym
@@ -1997,6 +2008,7 @@ Jewdank
 jewelry
 jewelrymaking
 Jewish
+JhinMains
 Jigsawpuzzles
 jisoo
 jobs
@@ -2246,6 +2258,7 @@ LookatMyHalo
 LOONA
 LooneyTunesLogic
 lordoftherings
+loreofleague
 LosAngelesRams
 loseit
 Loserfruit
@@ -2419,12 +2432,14 @@ MichiganWolverines
 microgrowery
 MicroPorn
 MicrosoftFlightSim
+MicrosoftRewards
 Mid_Century
 MiddleEarthMiniatures
 midjourney
 MightyHarvest
 Mikahlynnishot
 MikuNakano
+milanavayntrub
 mildlyevangelion
 mildlyinfuriating
 mildlyinteresting
@@ -2603,6 +2618,7 @@ NewGirl
 NewGreentexts
 newhampshire
 NewIran
+NewJeans
 newjersey
 NewOrleans
 NewParents
@@ -2765,6 +2781,7 @@ onejob
 onejoke
 OneOrangeBraincell
 OnePiece
+oneplus
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
@@ -2896,6 +2913,7 @@ PewdiepieSubmissions
 pharmacy
 PhasmophobiaGame
 phclassifieds
+PhD
 philadelphia
 Philippines
 philosophy
@@ -3400,6 +3418,7 @@ singularity
 Sino
 SipsTea
 SisterWives
+SixtySecondsInAfrica
 skamtebord
 sketches
 skiing
@@ -3578,6 +3597,7 @@ SubsTakenLiterally
 SubwayCreatures
 SuccessionTV
 suddenlybi
+SuddenlyCommunism
 SuddenlyCommunist
 SuddenlyLesbian
 SuddenlyTrans
