@@ -1,6 +1,7 @@
 0sanitymemes
 100Kanojo
 100yearsago
+11foot8
 13or30
 1500isplenty
 15minutefood
@@ -124,6 +125,7 @@ aggies
 AHatInTime
 AIDKE
 Aikuros
+airfryer
 airplaneears
 airpods
 airsoft
@@ -215,6 +217,7 @@ animecirclejerk
 AnimeFunny
 animegifs
 AnimeHoodies
+animehotbeverages
 animemaids
 AnimeMeme
 animememes
@@ -271,6 +274,7 @@ architecture
 ArchitecturePorn
 archlinux
 arcticmonkeys
+arduino
 argentina
 ArianaGrande
 arielwinter
@@ -562,6 +566,7 @@ blunderyears
 blurrypicturesofcats
 blursed_videos
 blursedimages
+blursedmoviedetails
 bmbmbm
 BMW
 boardgames
@@ -607,6 +612,7 @@ Botchedsurgeries
 botecodoreddit
 bottlebrush
 botw
+boulder
 BoutinelaBabes
 Boxer
 Boxing
@@ -875,6 +881,7 @@ classicwow
 ClassroomOfTheElite
 CleaningTips
 Cleveland
+clevelandcavs
 clevercomebacks
 climate
 ClimateActionPlan
@@ -882,6 +889,7 @@ climbing
 ClimbingCircleJerk
 clonewars
 CloneWarsMemes
+Coachella
 cobrakai
 cockatiel
 cocktails
@@ -1287,6 +1295,7 @@ Drugs
 Drukhari
 drumcorps
 drums
+drumstick
 drunkencookery
 dualipa
 dubai
@@ -1336,6 +1345,7 @@ ElderScrolls
 elderscrollsonline
 electricians
 ElectroBOOM
+electronicmusic
 EliteDangerous
 ElizabethOlsen
 ElizabethTurner
@@ -1577,6 +1587,7 @@ FoxFiction
 foxholegame
 fpv
 fragilecommunism
+FragileWhiteRedditor
 FragReddit
 france
 FranceDetendue
@@ -1711,6 +1722,7 @@ GenZHumor
 geography
 geology
 geometrydash
+GeometryIsNeat
 geopolitics
 Georgia
 georgiabulldogs
@@ -1825,6 +1837,7 @@ guitarporn
 guitars
 Gundam
 GundamEvolution
+gundeals
 Gunime
 Gunners
 Gunpla
@@ -1970,6 +1983,7 @@ houseplants
 houseplantscirclejerk
 Houseporn
 houston
+howto
 howtonotgiveafuck
 howyoudoin
 Hue
@@ -2153,6 +2167,7 @@ ironmaiden
 ironscape
 IrrationalMadness
 IsabelaMerced
+IsekaiQuartet
 Ishowspeed
 islam
 isopods
@@ -2471,6 +2486,7 @@ LongDistance
 longhair
 LonghornNation
 longisland
+longmeow
 longrange
 lookatmydog
 LookatMyHalo
@@ -3079,6 +3095,7 @@ othepelican
 OTMemes
 otomegames
 OtomeIsekai
+Otonokizaka
 ottawa
 OttawaSenators
 Otters
@@ -3703,6 +3720,7 @@ ShokugekiNoSoma
 shorthairedhotties
 shortscarystories
 shouldercats
+ShovelKnight
 Showerthoughts
 Shrimping
 shrimptank
@@ -3978,6 +3996,7 @@ tacticalgear
 TacticalIssueCat
 tahoe
 Takagi_san
+tales
 TalesFromRetail
 talesfromtechsupport
 TalesFromTheCustomer
@@ -4087,6 +4106,7 @@ TheGoodPlace
 thegrandtour
 TheGriffonsSaddlebag
 TheHandmaidsTale
+theisle
 TheLastAirbender
 thelastofus
 TheLeftCantMeme
@@ -4096,6 +4116,7 @@ TheMandalorianTV
 TheMonkeysPaw
 thenetherlands
 TheNightFeeling
+TheOA
 theocho
 TheOnion
 TheoVon
@@ -4158,6 +4179,8 @@ toarumajutsunoindex
 toastme
 todayilearned
 toddlers
+toebeans
+Toefeathers
 ToiletPaperUSA
 tokkiefeesboek
 TokyoGhoul
@@ -4492,6 +4515,7 @@ WhatsWrongWithYourCat
 WhatsWrongWithYourDog
 wheeloftime
 whenthe
+wheredidthesodago
 WhiskerFireworks
 whiskey
 WhiteHouseDinners
@@ -4619,6 +4643,7 @@ youngpeoplereddit
 youngpeopleyoutube
 YouniquePresenterMS
 YourJokeButWorse
+YouSeeComrade
 youseeingthisshit
 YouShouldKnow
 youtube
