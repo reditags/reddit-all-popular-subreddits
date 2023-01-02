@@ -99,6 +99,7 @@ aestheticrain
 Aether_Mains
 AEWOfficial
 AFCSouthMemeWar
+afkarena
 AFL
 aftergifted
 AgainstHateSubreddits
@@ -941,6 +942,7 @@ cybersecurity
 CynoMains
 czech
 czechmemes
+Dachschaden
 Dachshund
 DadForAMinute
 dadjokes
@@ -1160,6 +1162,7 @@ Drueandgabe
 drugmemes
 Drugs
 Drukhari
+drumcorps
 drums
 drunkencookery
 dualipa
@@ -1326,6 +1329,7 @@ fashionsouls
 fasting
 FastWorkers
 fatestaynight
+FCInterMilan
 Fedora
 feedthebeast
 feedthememes
@@ -1378,6 +1382,7 @@ Flamepoints
 flashlight
 FlashTV
 FlexinLesbians
+flightsim
 flipperzero
 floggit
 flonkers
@@ -1758,6 +1763,7 @@ homelab
 homestead
 homestuck
 hometheater
+homeworld
 HongKong
 honkaiimpact3
 HonkaiStarRail
@@ -1815,6 +1821,7 @@ ichbin40undlustig
 Idaho4
 idahomurders
 IdentityV
+ididnthaveeggs
 IdiotsFightingThings
 IdiotsInBoats
 IdiotsInCars
@@ -1913,6 +1920,7 @@ insanereality
 inscryption
 InsideJob
 inspirobot
+InstaCelebsGossip
 Instagramreality
 instant_regret
 instantbarbarians
@@ -2015,6 +2023,7 @@ Jujutsufolk
 JuJutsuKaisen
 JuliaBeautxNEW
 jumpingspiders
+Jung
 Jungle_Mains
 JurassicMemes
 justa
@@ -2141,6 +2150,7 @@ LateStageImperialism
 LatinoPeopleTwitter
 LaughJokes
 law
+lawofattraction
 LawSchool
 leafs
 leagueoflegends
@@ -2291,8 +2301,10 @@ magnetfishing
 Mahouka
 Maine
 mainecoons
+maisiewilliams
 MakeupAddiction
 MakeupLounge
+MalayalamMovies
 malaysia
 malelivingspace
 MaliciousCompliance
@@ -2778,6 +2790,7 @@ OshiNoKo
 oslo
 osp
 OSU
+osubuddyretard
 osugame
 othepelican
 OTMemes
@@ -2855,6 +2868,7 @@ pelotoncycle
 penguins
 PenmanshipPorn
 Pennsylvania
+PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
 Perfectfit
@@ -3203,6 +3217,7 @@ runthejewels
 rupaulsdragrace
 russian
 RussiaUkraineWar2022
+rustjerk
 rva
 RWBY
 ryujin
@@ -3598,6 +3613,7 @@ SWTOR_memes
 sydney
 SydneySweeney
 SympatheticMonsters
+synthesizers
 sysadmin
 tacobell
 tacticalgear
@@ -3875,6 +3891,7 @@ tzuyu
 UBC
 UCDavis
 UCI
+udub
 ufc
 ufo
 UFOs
@@ -4061,6 +4078,7 @@ weirdvideosfor3am
 WeirdWheels
 WeirdWings
 Welding
+Wellington
 Wellthatsucks
 Wellworn
 wendigoon
@@ -4125,6 +4143,7 @@ Wizard101
 woahdude
 WojakCompass
 wokekids
+WolvesWithWatermelons
 womensstreetwear
 Woodcarving
 woodworking
