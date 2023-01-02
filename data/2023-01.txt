@@ -81,6 +81,7 @@ ACMilan
 acotar
 ACPocketCamp
 ACQR
+acrylicpainting
 ActionFigures
 ActivationSound
 ActLikeYouBelong
@@ -291,6 +292,7 @@ ArtefactPorn
 ArtPorn
 Asexual
 asexuality
+AshesofCreation
 asheville
 ask
 AskBalkans
@@ -531,6 +533,7 @@ BitchImATrain
 bizarrebuildings
 bizarrelife
 blackcats
+Blackcelebrity
 BlackClover
 blacklagoon
 blackmagicfuckery
@@ -758,6 +761,7 @@ catshuggingcats
 CatsInBusinessAttire
 catsinpants
 CatsInSinks
+CatsISUOTTATFO
 CatSlaps
 CatsLivingAndWell
 CatSmiles
@@ -887,6 +891,7 @@ CODWarzone
 codyko
 CODZombies
 Coffee
+coilerayy
 coins
 ColdOnes
 ColleenBallingerSnark
@@ -1069,6 +1074,7 @@ dankinindia
 dankmark
 dankmemes
 DankMemesFromSite19
+DankPrecolumbianMemes
 dankrishu
 dankruto
 DanMachi
@@ -1287,6 +1293,7 @@ dubai
 DubFrostSnark
 Dublin
 dubstep
+duck
 DuelLinks
 DuggarsSnark
 Duklock
@@ -1548,6 +1555,7 @@ ForgottenWeapons
 forhonor
 forhonormemes
 formula1
+FormulaBuddyRetard
 formuladank
 forsen
 ForShub
@@ -1593,6 +1601,7 @@ FromPuppyToDog
 fromsoftware
 Frostpunk
 Frugal
+Frugal_Jerk
 frugalmalefashion
 Fruitbatcats
 fryup
@@ -1692,6 +1701,7 @@ Genshin_Impact
 Genshin_Impact_Leaks
 Genshin_Lore
 Genshin_Wallpaper
+GenshinHomeworld
 GenshinImpact
 GenshinImpactTips
 gentlemanboners
@@ -1739,6 +1749,7 @@ Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
 Glocks
+gloomspitegitz
 gluesniffer
 GME
 gme_meltdown
@@ -1801,6 +1812,7 @@ gtaonline
 GTAorRussia
 GTAV
 gtavcustoms
+GTBAE
 GuardianTales
 guichon
 Guildwars2
@@ -1851,6 +1863,7 @@ hardimages
 hardstyle
 hardware
 hardwaregore
+Harley
 HarleyQuinn
 Harpo
 harrypotter
@@ -2312,6 +2325,7 @@ Komi_san
 Konosuba
 korea
 KoreanFood
+korrasami
 kosovo
 KotakuInAction
 kotakuinaction2
@@ -2550,6 +2564,7 @@ MargotRobbie
 marijuanaenthusiasts
 Mariners
 Mario
+marioandluigi
 mariokart
 Markiplier
 Marriage
@@ -2638,6 +2653,7 @@ mexico
 MexicoFinanciero
 Mexicowave
 mfdoom
+MHRise
 Miami
 miamidolphins
 Miata
@@ -2745,6 +2761,7 @@ MoscowMurders
 MostBeautiful
 motivation
 motogp
+motorboat
 motorcycle
 motorcycles
 mountainbiking
@@ -2773,6 +2790,7 @@ MurderBuns
 MurderedByWords
 murdermittens
 MURICA
+MushroomGrowers
 Mushrooms
 Music
 musicaljenga
@@ -2804,6 +2822,7 @@ nasa
 NASCAR
 nashville
 nathanforyou
+nathanwpyle
 NationalPark
 NationalServiceSG
 NativePlantGardening
@@ -2856,6 +2875,7 @@ NewOrleans
 NewParents
 news
 NewsOfTheStupid
+NewsWithJingjing
 NewVegasMemes
 newworldgame
 newyorkcity
@@ -2894,6 +2914,7 @@ NintendoSwitch
 NintendoSwitchDeals
 Nirvana
 njpw
+NLBest
 NLSSCircleJerk
 NMSCoordinateExchange
 NoahGetTheBoat
@@ -2920,6 +2941,7 @@ nope
 Nordichistorymemes
 norge
 NormalDayInArabia
+NormMacdonald
 NorthCarolina
 northernireland
 northernlion
@@ -3232,6 +3254,7 @@ PokeLeaks
 PokeMedia
 pokememes
 pokemon
+Pokemonart
 PokemonBDSP
 pokemongo
 PokemonGoFriends
@@ -3475,6 +3498,7 @@ Rivian
 Roadcam
 roadtrip
 RoastMe
+RoastMyCar
 roblox
 ROBLOXmemes
 Rochester
@@ -3558,6 +3582,7 @@ satisfying
 Satisfyingasfuck
 SatoshiStreetBets
 saudiarabia
+SAVEBRENDAN
 savedyouaclick
 sbeve
 sbubby_NL
@@ -4007,6 +4032,7 @@ TenseiSlime
 TerrainBuilding
 Terraria
 TerrariaMemes
+terrariums
 terriblefacebookmemes
 terriblefandommemes
 TerrifyingAsFuck
@@ -4170,6 +4196,7 @@ ToyotaTacoma
 TrackMania
 traderjoes
 trailerparkboys
+trailrunning
 TrainPorn
 trains
 trans
@@ -4434,6 +4461,7 @@ weddingshaming
 WednesdayTVSeries
 WeDoALittlePosting
 weed
+weedstocks
 weeklyplanetpodcast
 weeviltime
 weezer
