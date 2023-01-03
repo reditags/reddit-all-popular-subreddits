@@ -111,6 +111,7 @@ Aespa
 aestheticrain
 Aether_Mains
 AEWOfficial
+AFCEastMemeWar
 AFCSouthMemeWar
 afkarena
 AFL
@@ -192,6 +193,7 @@ ancientrome
 andor
 Androgynoushotties
 Android
+angelsbaseball
 angrycatpics
 Angryupvote
 ani_bm
@@ -591,6 +593,7 @@ boburnham
 BocchiTheRock
 bodegacats
 bodybuilding
+bodyweightfitness
 Bogleheads
 BoJackHorseman
 Bokoen1
@@ -1462,6 +1465,7 @@ EverythingFoxes
 EverythingScience
 evilbuildings
 existentialcrisiscat
+Existentialism
 exjw
 exmormon
 exmuslim
@@ -1508,8 +1512,10 @@ FanFiction
 fangies
 FansHansenvsPredator
 fantanoforever
+Fantasy_Football
 fantasybball
 fantasyfootball
+fantasyhockey
 FantasyPL
 fantasywriters
 FanTheories
@@ -1759,6 +1765,7 @@ gaymemes
 gaymers
 GayRateMe
 GaySoundsShitposts
+geek
 geekygirls
 gekte
 genderfluid_irl
@@ -1821,6 +1828,7 @@ GlobalOffensive
 Glocks
 gloomspitegitz
 gluesniffer
+glutenfree
 GME
 gme_meltdown
 GMECanada
@@ -1852,6 +1860,7 @@ GoodGoodMemes
 goodmythicalmorning
 GooglePixel
 gorillaz
+GothamKnights
 GothGirls
 GothStyle
 Graffiti
@@ -1960,6 +1969,7 @@ HazbinHotel
 headpats
 headphones
 Health
+HealthyFood
 hearthstone
 HeartstopperAO
 heat
@@ -2057,6 +2067,7 @@ howardstern
 howto
 howtonotgiveafuck
 howyoudoin
+httyd
 Hue
 HUEstation
 HumanForScale
@@ -2436,6 +2447,7 @@ kpop
 kpoprants
 kpopthoughts
 KreekCraft
+kroger
 ksi
 KSPMemes
 KumoDesu
@@ -2821,6 +2833,7 @@ MisleadingPuddles
 misleadingthumbnails
 misLED
 missbricosplay
+missouri
 Mistborn
 MitchellAndWebb
 MixedRaceGirls
@@ -3245,6 +3258,7 @@ ParadoxExtra
 paradoxplaza
 Parahumans
 Paramore
+Paranormal
 ParanormalEncounters
 parasnailing
 PardonMyTake
@@ -3897,6 +3911,7 @@ slowcooking
 Slycooper
 smashbros
 SmashBrosUltimate
+SmashingPumpkins
 SmilingFriends
 Smite
 smoking
@@ -4574,6 +4589,7 @@ walkaway
 wallpaper
 wallpaperengine
 wallstreetbets
+Wallstreetbetsnew
 Wallstreetsilver
 walmart
 WalmartCelebrities
@@ -4637,6 +4653,7 @@ Wellthatsucks
 Wellworn
 wendigoon
 WestVirginia
+westworld
 WetlanderHumor
 WeWantPlates
 WhatAWeeb
