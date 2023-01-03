@@ -92,6 +92,7 @@ AddisonRae
 Adelaide
 AdeptusCustodes
 AdeptusMechanicus
+ADHD_Programmers
 ADHDinos
 adhdmeme
 ADHDmemes
@@ -186,6 +187,7 @@ Anarchy4Everyone
 AnarchyChess
 Anbennar
 AncestryDNA
+anchorage
 ancientrome
 andor
 Androgynoushotties
@@ -245,6 +247,7 @@ antitheistcheesecake
 antitrampo
 antiwork
 AntiworkPH
+Anxietyhelp
 anxietymemes
 AnyaTaylorJoy
 AO3
@@ -758,6 +761,7 @@ CatastrophicFailure
 catbellies
 catbongos
 Catbun
+catburnouts
 Catculations
 catdimension
 catfaceplant
@@ -994,6 +998,7 @@ cottagecore
 CountOnceADay
 CoupleMemes
 CourtneyMiller
+CovIdiots
 covidlonghaulers
 cowboybebop
 cowboys
@@ -1043,6 +1048,7 @@ CryptoCurrency
 cryptocurrencymemes
 CryptoGemDiscovery
 CryptoMoonShots
+Cryptozoology
 Crystals
 cscareerquestions
 csgo
@@ -1090,6 +1096,7 @@ Dallas
 DallasStars
 dalle2
 Damnthatsinteresting
+dancemoms
 Dandadan
 danganronpa
 dangerousdesign
@@ -1109,6 +1116,7 @@ DankMemesFromSite19
 DankPrecolumbianMemes
 dankrishu
 dankruto
+DanLeBatardShow
 DanMachi
 DannyGonzalez
 Daredevil
@@ -1257,6 +1265,7 @@ DiWHY
 DIY
 DIYUK
 DMAcademy
+DMT
 DMZ
 DnD
 DnDBehindTheScreen
@@ -1313,11 +1322,13 @@ DrakeTheType
 DramaticHouseplants
 Draven
 drawing
+DrDisrespectLive
 Dreadlocks
 DreamlightValley
 Dreams
 dreamsmp
 DreamWasTaken2
+Drifting
 Drizzy
 DrStone
 Drueandgabe
@@ -1460,6 +1471,7 @@ ExpectationVsReality
 ExperiencedDevs
 explainlikeimfive
 ExposurePorn
+ExtraFabulousComics
 ExtremeCarCrashes
 extremelyinfuriating
 Eyebleach
@@ -1496,6 +1508,7 @@ FanFiction
 fangies
 FansHansenvsPredator
 fantanoforever
+fantasybball
 fantasyfootball
 FantasyPL
 fantasywriters
@@ -1657,6 +1670,7 @@ frugalmalefashion
 Fruitbatcats
 fryup
 fsusports
+ft86
 ftlgame
 fuckcars
 fuckepic
@@ -1835,6 +1849,7 @@ GoodAssSub
 goodboomerhumor
 GoodFakeTexts
 GoodGoodMemes
+goodmythicalmorning
 GooglePixel
 gorillaz
 GothGirls
@@ -2073,6 +2088,7 @@ iamverybadass
 iamveryrandom
 iamverysmart
 IASIP
+IBEW
 IBO
 ibs
 IceCreamWaifu
@@ -2224,6 +2240,7 @@ iphone
 iPhoneography
 iRacing
 ireland
+irezumi
 IRLEasterEggs
 IronFrontUSA
 ironmaiden
@@ -2438,6 +2455,7 @@ ladyladyboners
 lagoloaf
 laidbackcamp
 Lain
+LakeErieBros
 lakers
 Lalisa
 lanadelrey
@@ -2686,6 +2704,7 @@ McMansionHell
 me_irl
 me_irlgbt
 MealPrepSunday
+meat
 MeatCanyon
 meatcrayon
 MechanicAdvice
@@ -2921,6 +2940,7 @@ nature
 NatureIsFuckingCute
 NatureIsFuckingLit
 natureismetal
+NatureofPredators
 natureporn
 Naturewasmetal
 navy
@@ -2936,6 +2956,7 @@ NCSU
 ndp
 nebelung
 NeckbeardNests
+necromunda
 Necrontyr
 needforspeed
 Needlefelting
@@ -2947,6 +2968,7 @@ nerdfighters
 Nerf
 nervysquervies
 netflix
+NetflixBestOf
 Netherlands
 networkingmemes
 Neverbrokeabone
@@ -2996,6 +3018,7 @@ nikkibella
 Nikon
 NilouMains
 nin
+NinaDobrev
 Ningen
 NinomaeInanis
 nintendo
@@ -3255,6 +3278,7 @@ peloton
 pelotoncycle
 penguins
 PenmanshipPorn
+PennStateUniversity
 Pennsylvania
 PeopleBeingJerks
 PeopleFuckingDying
@@ -3328,6 +3352,7 @@ pisscommenting
 pitbulls
 pitbulls_in_partyhats
 pitbullsinjammies
+Pitt
 pittsburgh
 PixelArt
 Pizza
@@ -3644,6 +3669,7 @@ rupaulsdragrace
 russian
 RussiaUkraineWar2022
 rustjerk
+rutgers
 rva
 RWBY
 ryujin
@@ -3859,6 +3885,7 @@ skyrim
 SkyrimMemes
 skyrimmods
 SkyrimPorn
+slammywhammies
 SlavaUkrayini
 slaythespire
 Sleepycabin
@@ -3994,6 +4021,7 @@ SteamDeck
 steelers
 steinsgate
 Stellaris
+Stepdadreflexes
 stephenking
 stevenuniverse
 StLouis
@@ -4101,6 +4129,7 @@ TalesFromTheCustomer
 TalesFromTheFrontDesk
 TalesFromYourServer
 tall
+Tallahassee
 tampa
 TampaBayLightning
 tankiejerk
@@ -4433,6 +4462,7 @@ UnfunnyHellhole
 unitedkingdom
 Unity2D
 Unity3D
+UniversalOrlando
 unixporn
 unket
 unlikelyfriends
@@ -4700,6 +4730,7 @@ wow
 wowthanksimcured
 Wrangler
 Wrasslin
+WRC
 writers
 writing
 writingcirclejerk
@@ -4751,6 +4782,7 @@ yorkshire
 Yotsubros
 YouBelongWithMemes
 youdontmattergiveup
+youdontsurf
 YoujoSenki
 youngpeoplereddit
 youngpeopleyoutube
