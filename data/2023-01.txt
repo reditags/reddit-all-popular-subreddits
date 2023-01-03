@@ -142,6 +142,7 @@ aldi
 Aleague
 AlexaBliss
 alexandradaddario
+AlexisRen
 AlfaRomeo
 AlHaithamMains
 aliandjohnjamesagain
@@ -717,6 +718,7 @@ camphalfblood
 CampingGear
 canada
 canadaguns
+canadahousing
 CanadaSoccer
 CanadianForces
 canberra
@@ -1041,6 +1043,7 @@ CryptoCurrency
 cryptocurrencymemes
 CryptoGemDiscovery
 CryptoMoonShots
+Crystals
 cscareerquestions
 csgo
 csharp
@@ -1239,6 +1242,7 @@ Discordmemes
 discordVideos
 discworld
 dishonored
+dishwashers
 disney
 DisneyEyes
 Disneyland
@@ -1368,6 +1372,7 @@ EizaGonzalez
 Eldar
 EldenBling
 Eldenring
+ElderKings
 ElderScrolls
 elderscrollsonline
 electricians
@@ -1424,6 +1429,7 @@ es
 EscapefromTarkov
 esist
 EskiMemes
+esports
 espresso
 estoration
 ethereum
@@ -1684,6 +1690,7 @@ funnyvideos
 furry
 FurryArtSchool
 furrymemes
+fursuit
 fuslie
 fut
 futbol
@@ -1813,6 +1820,7 @@ GodofWarRagnarok
 godot
 godtiersuperpowers
 GODZILLA
+Gold
 GoldCoast
 Goldendoodles
 goldenknights
@@ -1910,6 +1918,7 @@ Handwriting
 happy
 happycowgifs
 happycrowds
+HappyWoofGifs
 Hardcore
 HardcoreNature
 hardimages
@@ -1997,6 +2006,7 @@ HomeDepot
 homegym
 HomeImprovement
 homelab
+HomeNetworking
 homestead
 homestuck
 hometheater
@@ -2038,6 +2048,7 @@ HumanTippyTaps
 humblebrag
 hungary
 HungryArtists
+hunterxdank
 HunterXHunter
 HuntShowdown
 Huskers
@@ -2201,6 +2212,7 @@ introvert
 introvertmemes
 Invincible
 Invisalign
+ios
 iphone
 iPhoneography
 iRacing
@@ -2213,6 +2225,7 @@ IrrationalMadness
 IsabelaMerced
 IsekaiQuartet
 Ishowspeed
+IsItBullshit
 islam
 isopods
 Israel
@@ -2356,6 +2369,7 @@ killedthecameraman
 KillLaKill
 killsixbilliondemons
 killteam
+killthecameraman
 KimetsuNoYaiba
 Kingdom
 kingdomcome
@@ -3034,6 +3048,7 @@ nowmycat
 noworking
 nrl
 NSCollectors
+NuclearRevenge
 nukedmemes
 nursing
 NuxTakuSubmissions
@@ -3170,6 +3185,7 @@ Overwatch_Memes
 OverwatchCirclejerk
 OverwatchUniversity
 Owls
+Ozempic
 P1ZZ4_M0ZZARELL4
 pacers
 Padres
@@ -3254,6 +3270,7 @@ PetTheDamnCat
 PetTheDamnDog
 pettyrevenge
 PewdiepieSubmissions
+PeytonList
 PhantomForces
 pharmacy
 PhasmophobiaGame
@@ -3555,6 +3572,7 @@ RetroBowl
 RetroFuturism
 retrogaming
 reverseanimalrescue
+ReversePinterest
 RheaRipley
 rhoslc
 rhythmgames
@@ -3712,6 +3730,7 @@ selfie
 selfimprovement
 selfreliance
 seniorkitties
+Sephora
 SequelMemes
 serbia
 serbiancringe
@@ -3834,6 +3853,7 @@ Slipknot
 Slovakia
 Slovenia
 slowcooking
+Slycooper
 smashbros
 SmashBrosUltimate
 SmilingFriends
@@ -4160,6 +4180,7 @@ thecatdimension
 TheCatTrapIsWorking
 TheClickOwO
 TheCuddlePuddle
+TheDarkTower
 TheDeprogram
 TheDepthsBelow
 TheDragonPrince
@@ -4217,6 +4238,7 @@ Thisismylifemeow
 thisismylifenow
 ThisLooksFun
 ThisYouComebacks
+ThomasinMcKenzie
 thomastheplankengine
 ThousandSons
 thumbcats
@@ -4466,6 +4488,7 @@ victoria3
 VictoriaBC
 victoriajustice
 videogamedunkey
+videogames
 videomemes
 videos
 VietNam
@@ -4581,6 +4604,7 @@ whatisthisthing
 whatsthisbird
 whatsthisbug
 whatsthisplant
+whatsthisrock
 whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
