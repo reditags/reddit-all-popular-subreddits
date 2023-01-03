@@ -290,6 +290,7 @@ army
 aromantic
 arresteddevelopment
 Arrowheads
+ArsenalFC
 Art
 ArtDeco
 ArtefactPorn
@@ -302,6 +303,7 @@ asheville
 ask
 AskBalkans
 AskCulinary
+AskDocs
 AskHistorians
 asklatinamerica
 AskMen
@@ -329,6 +331,7 @@ Astronomy
 astrophotography
 Astros
 Asuka
+ASX_Bets
 ATAAE
 ATBGE
 AteistTurk
@@ -391,6 +394,7 @@ AyakaMains
 AyyMD
 AZCardinals
 AZURE
+babushkadogs
 babyanimals
 babybigcatgifs
 BabyBumps
@@ -408,6 +412,7 @@ Badfaketexts
 badhistory
 BadMensAnatomy
 BadMUAs
+badtaxidermy
 badUIbattles
 badwomensanatomy
 baeirene
@@ -541,6 +546,7 @@ bizarrelife
 blackcats
 Blackcelebrity
 BlackClover
+blackdesertonline
 blacklagoon
 blackmagicfuckery
 blackmirror
@@ -563,6 +569,7 @@ Blep
 blessedimages
 Blink182
 BloodAngels
+bloomington
 blop
 BlueLock
 bluey
@@ -591,8 +598,10 @@ BollyBlindsNGossip
 bollywood
 BollywoodUHQonly
 Bondedpairs
+boneachingjuice
 BoneAppleTea
 bonecollecting
+bonehealingjuice
 bonehurtingjuice
 bonjour
 bookporn
@@ -605,6 +614,7 @@ BorderCollie
 Borderlands2
 borderlands3
 boringdystopia
+borussiadortmund
 Boruto
 Bossfight
 boston
@@ -822,6 +832,7 @@ Chaos40k
 CharacterAI
 characterarcs
 characterdrawing
+CharacterRant
 Chargers
 Charlotte
 ChatGPT
@@ -835,6 +846,7 @@ ChemicalEngineering
 chemistry
 chemistrymemes
 Chennai
+chernobyl
 chessbeginners
 chessmemes
 CHIBears
@@ -865,6 +877,7 @@ ChurchOfKasumi
 ChurchofMarnie
 chuunibyou
 CICO
+cigars
 cincinnati
 Cinemagraphs
 cinematography
@@ -1020,6 +1033,7 @@ CrossfitGirls
 CrossStitch
 crowbro
 crows
+crtgaming
 CrusadeMemes
 CrusaderKings
 CryptidDogs
@@ -1291,12 +1305,15 @@ dragonutopia
 dragrace
 Dragula
 DrakeTheType
+DramaticHouseplants
 Draven
 drawing
 Dreadlocks
 DreamlightValley
 Dreams
 dreamsmp
+DreamWasTaken2
+Drizzy
 DrStone
 Drueandgabe
 drugmemes
@@ -1347,6 +1364,7 @@ Eesti
 egg_irl
 Egypt
 EightySix
+EizaGonzalez
 Eldar
 EldenBling
 Eldenring
@@ -1356,6 +1374,7 @@ electricians
 ElectroBOOM
 electronicmusic
 EliteDangerous
+EliteWeebs
 ElizabethOlsen
 ElizabethTurner
 ElleFanning
@@ -1407,6 +1426,7 @@ esist
 EskiMemes
 espresso
 estoration
+ethereum
 ethtrader
 eu4
 eu_nvr
@@ -1490,6 +1510,7 @@ feedthebeast
 feedthememes
 feemagers
 FellowKids
+fellowshipofthebib
 femalelivingspace
 femboy
 femboy_irl
@@ -1519,6 +1540,7 @@ finalfantasyx
 finance
 financialindependence
 Finanzen
+findfashion
 FingMemes
 Finland
 Firearms
@@ -1549,6 +1571,7 @@ Floof
 Florence_Pugh
 FlorenceAndTheMachine
 florida
+FloridaGators
 FloridaMan
 FlorkofCowsOfficial
 flowers
@@ -1670,6 +1693,7 @@ futurama
 future
 futureporn
 Futurology
+FWFBThinkTank
 G59
 gachagaming
 gadgets
@@ -1746,6 +1770,7 @@ GetMotivated
 GetStudying
 GettingShredded
 GFLNeuralCloud
+GFRIEND
 GharKeKalesh
 GhettoStreetFights
 ghibli
@@ -1830,6 +1855,7 @@ grilledcheese
 grilling
 Grimdank
 grime
+grunge
 GTA
 gtaonline
 GTAorRussia
@@ -2055,6 +2081,7 @@ ilikthebred
 IllegalLifeProTips
 illegallybigcats
 IllegallySmol
+illegallysmolanimals
 illegallysmolbirbs
 IllegallySmolCats
 IllegallySmolDogs
@@ -2148,8 +2175,10 @@ insanepeoplefacebook
 InsanePeopleQuora
 insanereality
 inscryption
+insects
 InsideJob
 inspirobot
+InstacartShoppers
 InstaCelebsGossip
 Instagramreality
 instant_regret
@@ -2412,6 +2441,7 @@ leafs
 leagueoflegends
 LeagueOfMemes
 LeaguesofVotann
+leanbeefpatty
 LearmannTwins
 LearnJapanese
 learnprogramming
@@ -2575,6 +2605,7 @@ MakeupAddiction
 MakeupLounge
 MalayalamMovies
 malaysia
+malcolminthemiddle
 malelivingspace
 MaliciousCompliance
 mallninjashit
@@ -2583,6 +2614,7 @@ ManchesterUnited
 MandelaCatalogue
 MandirGang
 MandJTV
+MandyRose
 MangaCollectors
 manhwa
 ManifestNBC
@@ -2753,6 +2785,7 @@ MixedRaceGirls
 Mizkif
 MkeBucks
 mlb
+MLBTheShow
 mlem
 MLS
 MMA
@@ -3228,6 +3261,7 @@ phclassifieds
 PhD
 philadelphia
 Philippines
+phillies
 philosophy
 PhilosophyMemes
 PhilosophyTube
@@ -3348,6 +3382,7 @@ PragerUrine
 PraiseTheCameraMan
 PrehistoricMemes
 Prematurecelebration
+premed
 PremierLeague
 preppers
 PrequelMemes
@@ -3494,6 +3529,7 @@ RedshirtsUnite
 redsox
 redstone
 ReefTank
+regretfulparents
 RegularRevenge
 regularshow
 relationship_advice
@@ -3580,6 +3616,7 @@ rustjerk
 rva
 RWBY
 ryujin
+saab
 sabaton
 SabatonMemes
 Saber
@@ -3708,6 +3745,7 @@ ShingekiNoKyojin
 ShinyPokemon
 ShitCrusaderKingsSay
 ShitLiberalsSay
+ShitLibSafari
 ShitMomGroupsSay
 ShitPoliticsSays
 ShitpostBR
@@ -4033,6 +4071,7 @@ tampa
 TampaBayLightning
 tankiejerk
 TankPorn
+tanks
 TanmayBhatKeDost
 taoism
 tarantulas
@@ -4086,6 +4125,7 @@ teslainvestorsclub
 TeslaLounge
 TeslaModel3
 teslamotors
+Texans
 texas
 tf2
 TF2fashionadvice
@@ -4178,6 +4218,7 @@ thisismylifenow
 ThisLooksFun
 ThisYouComebacks
 thomastheplankengine
+ThousandSons
 thumbcats
 Tierzoo
 tifu
@@ -4242,6 +4283,7 @@ Toughguysholdingpets
 touhou
 TowerofFantasy
 TowerofGod
+Toyota
 ToyotaTacoma
 TrackMania
 traderjoes
@@ -4475,6 +4517,7 @@ Warframe
 WarframeRunway
 Warhammer
 Warhammer30k
+Warhammer40kEsp
 WarhammerCompetitive
 WarhammerFantasy
 WarplanePorn
@@ -4513,6 +4556,7 @@ WeDoALittlePosting
 weed
 weedstocks
 weeklyplanetpodcast
+ween
 weeviltime
 weezer
 Weird
@@ -4574,6 +4618,7 @@ wildrift
 willwood
 wimmelbilder
 windows
+Windows10
 wine
 WingsOfFire
 winnipegjets
@@ -4652,6 +4697,7 @@ YanfeiMains
 YarnAddicts
 yarntrolls
 yayfoxxo
+yeat_
 Yeji
 YelanMains
 Yellowjackets
@@ -4670,6 +4716,7 @@ youdontmattergiveup
 YoujoSenki
 youngpeoplereddit
 youngpeopleyoutube
+YoungThug
 YouniquePresenterMS
 YourJokeButWorse
 YouSeeComrade
