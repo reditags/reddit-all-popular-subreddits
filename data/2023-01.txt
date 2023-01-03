@@ -956,6 +956,7 @@ citypop
 CityPorn
 civ
 civ5
+civic
 CivVI
 CK2GameOfthrones
 ClashOfClans
@@ -971,6 +972,7 @@ clevelandcavs
 clevercomebacks
 climate
 ClimateActionPlan
+climbergirls
 climbing
 ClimbingCircleJerk
 clonewars
@@ -1246,6 +1248,7 @@ deathguard40k
 DeathrattlePorn
 DeathStranding
 DebateVaccines
+DebtStrike
 dechonkers
 DecidingToBeBetter
 DeclineIntoCensorship
@@ -1273,6 +1276,7 @@ DemocraticSocialism
 democrats
 DemonSchoolIrumakun
 DemonSlayerAnime
+Demotivational
 Denmark
 DenverBroncos
 DenverCirclejerk
@@ -1548,6 +1552,7 @@ ethtrader
 etymology
 eu4
 eu_nvr
+Eugene
 EulaMains
 euphoria
 EUR_irl
@@ -1728,6 +1733,7 @@ footballmanagergames
 foraging
 forbiddensnacks
 FordMaverickTruck
+ForgottenBookmarks
 ForgottenWeapons
 forhonor
 forhonormemes
@@ -1899,6 +1905,7 @@ GenUsa
 GenX
 GenZHumor
 geography
+geoguessr
 geology
 geometrydash
 GeometryIsNeat
@@ -2082,6 +2089,7 @@ HarryPotterGame
 harvestmoon
 Hasan_Piker
 hatsune
+hauntedchocolatier
 HauntedMound
 Hawaii
 HayDay
@@ -2896,8 +2904,10 @@ matureplants
 mauerstrassenwetten
 MauLer
 Mavericks
+MawInstallation
 maybemaybemaybe
 maybemaybemaybemaybe
+mazda
 mazda3
 MBMBAM
 mbti
@@ -2957,6 +2967,7 @@ Metalcore
 metalgearrising
 Metallica
 MetalMemes
+metalworking
 metro
 Metroid
 mew_irl
@@ -3539,6 +3550,7 @@ Persona5
 PersonalFinanceCanada
 perth
 pesmobile
+PetAfterVet
 Petioles
 PetiteFashionAdvice
 PetiteFitness
@@ -4153,6 +4165,7 @@ skrillex
 Skullgirls
 SkyChildrenOfLight
 SkyGame
+skylanders
 SkyPorn
 skyrim
 SkyrimMemes
@@ -4886,6 +4899,7 @@ VoteBlue
 VoteDEM
 vpns
 VRchat
+VRGaming
 VShojo
 vultureculture
 VuvuzelaIPhone
