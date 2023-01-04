@@ -197,6 +197,7 @@ AnadeArmas
 analog
 AnalogCircleJerk
 AnalogCommunity
+AnaMains
 Anarchism
 Anarcho_Capitalism
 Anarchy4Everyone
@@ -313,6 +314,7 @@ archlinux
 arcticmonkeys
 arduino
 argentina
+ArgentinaBenderStyle
 ArianaGrande
 arielwinter
 AriFletcherV2
@@ -328,6 +330,7 @@ armoredcore
 army
 aromantic
 arresteddevelopment
+arrow
 Arrowheads
 ArsenalFC
 Art
@@ -760,6 +763,7 @@ buildapc
 buildapcsales
 bujo
 bulgaria
+bullcity
 Bulldogs
 bulletjournal
 Bullshido
@@ -806,6 +810,7 @@ CanadianForces
 CanadianInvestor
 canberra
 canes
+CannedSardines
 canon
 canucks
 capetown
@@ -815,6 +820,7 @@ caps
 CaptainSparklez
 CaptainSparrowmemes
 capybara
+CaraDelevingne
 carcrash
 cardano
 careerguidance
@@ -1176,6 +1182,7 @@ Cubers
 cucina
 CuddlePuddle
 cuddleroll
+CuddlyKitties
 CulinaryPlating
 CultOfTheLamb
 Cuphead
@@ -1565,6 +1572,7 @@ Emo
 Emoney
 EmpireDidNothingWrong
 ems
+EmulationOnAndroid
 EnculerLesVoitures
 ender3
 energy
@@ -1633,6 +1641,7 @@ exmormon
 exmuslim
 exocomics
 ExpandDong
+expats
 ExpectationVsReality
 ExperiencedDevs
 explainlikeimfive
@@ -2452,6 +2461,7 @@ infp
 InfrastructurePorn
 initiald
 inkarnate
+iNoobChannel
 insaneparents
 InsaneParler
 insanepeoplefacebook
@@ -2720,6 +2730,7 @@ kurzgesagt
 KusanaliMains
 KUWTKsnark
 l4d2
+LabourUK
 labrador
 LaBrantFamSnark
 labrats
@@ -3155,6 +3166,7 @@ MMA
 mmababes
 mmamemes
 MobileLegendsGame
+MobileWallpaper
 MobKitchen
 Mobpsycho100
 ModelCars
@@ -3180,6 +3192,7 @@ MonsterHunterWorld
 Montana
 MontyPythonMemes
 Moomins
+MoonKnight
 Moonmoon
 MorbidWaysToDie
 Morbius
@@ -3248,6 +3261,7 @@ MySingingMonsters
 MysteryDungeon
 mythologymemes
 n64
+NaBoaChavaloRetardado
 NAFO
 nagatoro
 Nahida_Mains
@@ -3453,6 +3467,7 @@ OceansAreFuckingLit
 ockytop
 octolism
 OctopathCotC
+oculus
 OculusQuest
 oddlymesmerizing
 oddlysatisfying
@@ -4166,6 +4181,7 @@ Screenwriting
 Scrubs
 scrungycats
 scuba
+sdforall
 SDSGrandCross
 Sea_otters
 seals
@@ -4610,6 +4626,7 @@ Tau40K
 TaylorSwift
 TaylorSwiftPictures
 TaylorSwiftsLegs
+TAZCirclejerk
 tbatenovel
 tea
 teachermemes
@@ -4843,6 +4860,7 @@ trailrunning
 TrainPorn
 trains
 trans
+trans_irl
 transbr
 TransClones
 Transformemes
@@ -4917,6 +4935,7 @@ typography
 Tyranids
 tzuyu
 UBC
+ubius
 UCDavis
 UCI
 UCSD
@@ -4966,6 +4985,7 @@ unixporn
 unket
 unlikelyfriends
 UnnecessaryInventions
+unOrdinary
 unpopularopinion
 unrealengine
 UnresolvedMysteries
@@ -5331,6 +5351,7 @@ YouShouldKnow
 youtube
 youtubehaiku
 yugioh
+YuGiOhMemes
 yumenikki
 yuna
 yunyun
