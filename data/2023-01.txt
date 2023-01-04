@@ -303,6 +303,7 @@ arabfunny
 araragi
 arbeitsleben
 arcane
+Archaeology
 ArcherFX
 Archery
 ArchitecturalRevival
@@ -419,6 +420,7 @@ AvatarMemes
 avatartrading
 avengedsevenfold
 Avengers
+AverageBattlestations
 aves
 avfc
 aviation
@@ -1472,6 +1474,7 @@ Dreams
 dreamsmp
 DreamWasTaken2
 Drifting
+DrillCats
 Drizzy
 DrStone
 DRSyourGME
@@ -2002,6 +2005,7 @@ GirlsLastTour
 GirlsMirin
 GirlsUndShitposts
 girlswithbigmuscles
+GirlsWithHugePussies
 Gittertiere
 givemeinteligens
 glasgow
@@ -2130,6 +2134,7 @@ Halloweenmovies
 halo
 HaloLeaks
 HaloMemes
+Hammers
 hamsters
 HandfulOfKitten
 handholding
@@ -2297,6 +2302,7 @@ HVAC
 hyderabad
 HydroHomies
 hyouka
+hypixel
 HypixelSkyblock
 IAmA
 Iamactuallyverybadass
@@ -2758,6 +2764,7 @@ leanbeefpatty
 LearmannTwins
 learningtocat
 LearnJapanese
+learnpolish
 learnprogramming
 learntodraw
 LearnUselessTalents
@@ -3473,6 +3480,7 @@ okbuddygenshin
 okbuddyguardian
 OKbuddyHalfLife
 okbuddyhasan
+okbuddyheretic
 okbuddyhololive
 okbuddyHRetard
 OkBuddyPersona
@@ -4007,6 +4015,7 @@ RheaRipley
 rhoslc
 rhythmgames
 rickandmorty
+rickygervais
 RidiculousRealEstate
 RightJerk
 Rihanna
@@ -4055,6 +4064,7 @@ RoundAnimals
 RPClipsGTA
 RPDR_UK
 rpg
+rpg_gamers
 rpghorrorstories
 rs2vietnam
 rsloshredit
@@ -4093,6 +4103,7 @@ Sakartvelo
 SalsaSnobs
 saltierthancrait
 SaltLakeCity
+SaltsAnime
 Samadhi_Zendejas
 samharris
 SamONellaAcademy
@@ -4578,6 +4589,7 @@ TalesFromYourServer
 talk_hunfluencers
 tall
 Tallahassee
+tallyhall
 TameImpala
 tampa
 TampaBayLightning
@@ -5207,6 +5219,7 @@ wisconsin
 wismichu
 witcher
 Witcher3
+WitcherMemes
 WitchesVsPatriarchy
 Wizard101
 woahdude
@@ -5310,6 +5323,7 @@ youngpeoplereddit
 youngpeopleyoutube
 YoungThug
 YouniquePresenterMS
+YouOnLifetime
 YourJokeButWorse
 YouSeeComrade
 youseeingthisshit
