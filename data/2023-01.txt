@@ -267,6 +267,7 @@ antitrampo
 antiwork
 AntiworkPH
 Antyklerykalizm
+anuheanihipaliGW
 Anxietyhelp
 anxietymemes
 AnyaTaylorJoy
@@ -947,6 +948,7 @@ ChurchOfJirou
 ChurchOfKasumi
 ChurchofMarnie
 ChurchOfNejire
+ChurchOfSenko
 chuunibyou
 CICO
 cigars
@@ -1395,6 +1397,7 @@ dogswithsocks
 Dogtraining
 dogvideos
 DokkanBattleCommunity
+Dolls
 Dongistan
 dontdeadopeninside
 dontflinch
@@ -2345,6 +2348,7 @@ Impeach_Trump
 ImperialKnights
 ImpracticalArmour
 ImpracticalJokers
+IMSARacing
 imsorryjon
 ImTheMainCharacter
 InclusiveOr
@@ -2710,6 +2714,7 @@ LegendsOfRuneterra
 lego
 Legoleak
 legostarwars
+LegoStarWarsVideoGame
 legotechnic
 lehighvalley
 leopardgeckos
@@ -2973,6 +2978,7 @@ memphisgrizzlies
 memphisrap
 MemriTVmemes
 MenAndFemales
+menkampf
 Menopause
 MensLib
 Mensmittenwithkittens
@@ -3443,6 +3449,7 @@ oompasubs
 OooBigStretch
 OopsThatsDeadly
 opossum_irl
+Opossums
 orangecats
 orangecounty
 orangetheory
@@ -3866,6 +3873,7 @@ RedditForGrownups
 RedditLaqueristas
 RedditWritesSeinfeld
 RedheadedGoddesses
+RedHotChiliPeppers
 RedLetterMedia
 redneckengineering
 redpandas
@@ -4083,6 +4091,7 @@ Serverlife
 SeveranceAppleTVPlus
 SewayakiKitsune
 sewing
+SexySportsBabes
 sffpc
 SFGiants
 SFWNextDoorGirls
@@ -4133,6 +4142,7 @@ shittymobilegameads
 shittymoviedetails
 shittyrainbow6
 shittyreactiongifs
+ShittyRestrictionFood
 shittyrobots
 shittysimulated
 shittyskylines
@@ -4361,6 +4371,7 @@ Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
 StoppedWorking
+stopsmoking
 Stormlight_Archive
 Stormworks
 storyofseasons
@@ -5087,6 +5098,7 @@ Woodcarving
 woodworking
 woof_irl
 woooosh
+woosh
 wordington
 Workbenches
 WorkersStrikeBack
