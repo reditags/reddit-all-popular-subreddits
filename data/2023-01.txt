@@ -182,6 +182,7 @@ AmberMains
 amcstock
 AMCSTOCKS
 Amd
+AmericaBad
 americandad
 AmericanFascism2020
 americangirl
@@ -482,6 +483,7 @@ badwomensanatomy
 baeirene
 bakeoff
 Baking
+baldursgate
 BaldursGate3
 balkans_irl
 ballpython
@@ -950,6 +952,7 @@ characterarcs
 characterdrawing
 CharacterRant
 Chargers
+chargetheyphone
 Charlotte
 ChatGPT
 chats
@@ -975,6 +978,7 @@ childemains
 ChildrenFallingOver
 chile
 China_irl
+chinchilla
 ChineseLanguage
 Chinesium
 Chipotle
@@ -1089,6 +1093,7 @@ CompetitiveApex
 Competitiveoverwatch
 CompetitiveTFT
 CompetitiveWoW
+computers
 conan
 conceptart
 confession
@@ -1222,6 +1227,7 @@ CustomKeyboards
 custommagic
 CustomPlayerCutscene
 cute
+cutegayshit
 Cyberbooty
 Cyberpunk
 cyberpunkgame
@@ -1536,6 +1542,7 @@ DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
 dustkitties
+dutch
 dvdcollection
 dwarffortress
 dyinglight
@@ -1615,6 +1622,7 @@ EnoughCommieSpam
 EnoughMuskSpam
 EnoughPCMSpam
 enoughpetersonspam
+ensemblestars
 entertainment
 EnterTheGungeon
 EntitledBitch
@@ -1882,6 +1890,7 @@ French
 Frenchbulldogs
 FrenchMemes
 FridayNightFunkin
+friends_tv_show
 frogs
 FromKittenToCat
 FromPuppyToDog
@@ -1910,6 +1919,7 @@ fuckwasps
 fuckxavier
 FUCKYOUINPARTICULAR
 FuckYouKaren
+Fudd_Lore
 fujifilm
 fujix
 fulbo
@@ -2096,6 +2106,7 @@ GothamKnights
 GothGirls
 GothStyle
 gradadmissions
+GradualChaos
 Graffiti
 Granblue_en
 grandorder
@@ -2342,6 +2353,7 @@ husky
 HuskyTantrums
 HuTao_Mains
 HVAC
+HybridAnimals
 hyderabad
 HydroHomies
 hyouka
@@ -2708,6 +2720,7 @@ kfeets
 KGATLW
 KGBTR
 khajiithaswares
+KhopdiTodSaaleKi
 KidCudi
 KidsAreFuckingEvil
 KidsAreFuckingStupid
@@ -2788,6 +2801,7 @@ lakers
 Lalisa
 lanadelrey
 LancerRPG
+LandCruisers
 LandlordLove
 LandoftheLustrous
 LandscapePhotography
@@ -3940,6 +3954,7 @@ PSVR
 psych
 Psychedelics
 psychology
+Psychonaut
 PUBATTLEGROUNDS
 PublicFreakout
 publix
@@ -4355,6 +4370,7 @@ ShovelKnight
 Showerthoughts
 Shrimping
 shrimptank
+ShroomID
 shrooms
 shubreddit
 ShuumatsuNoValkyrie
@@ -4659,6 +4675,7 @@ SympatheticMonsters
 synthesizers
 sysadmin
 systemofadown
+SystemsCringe
 tacobell
 Tacoma
 tacticalgear
@@ -4767,6 +4784,7 @@ TheAdventureZone
 TheAstraMilitarum
 thebadbatch
 TheBatmanFilm
+TheBear
 TheBidenshitshow
 thebindingofisaac
 TheBoys
@@ -5086,6 +5104,7 @@ USCIS
 uselessredcircle
 UsernameChecksOut
 USMC
+usmnt
 USPS
 ussoccer
 Utah
