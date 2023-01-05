@@ -370,6 +370,7 @@ ArtefactPorn
 ArtisanVideos
 ArtOfRolling
 ArtPorn
+artstore
 AsaCumEramOdata
 AsbestosRemovalMemes
 Asexual
@@ -436,6 +437,7 @@ Audiomemes
 audiophile
 Augenbleiche
 auntydonna
+Aurelion_Sol_mains
 auroramusic
 AusFinance
 auslaw
@@ -855,6 +857,7 @@ CabinPorn
 cactus
 CAguns
 cakedecorating
+CalamariRaceTeam
 CalamityMod
 Calgary
 CalgaryFlames
@@ -985,6 +988,7 @@ celestememes
 CelestialBodies
 Celiac
 cellbits
+CelsiusNetwork
 CelticFC
 CemeteryPorn
 CentralChurch
@@ -1019,6 +1023,7 @@ ChatGPT
 chats
 Chattanooga
 cheating_stories
+Cheeringstuff
 CheetoTheCat
 Chefit
 chefknives
@@ -1445,6 +1450,7 @@ DerScheisser
 desabafos
 Design
 DesignDesign
+DesignerReps
 DesignPorn
 desimemes
 DesiMeta
@@ -1887,11 +1893,13 @@ FirePunch
 firstimpression
 FirstTimeHomeBuyer
 firstworldanarchists
+firstworldproblems
 Fischl
 Fishingmemes
 FitAndNatural
 fitness30plus
 fittodi
+FitToFat
 fivenightsatfreddys
 fixedbytheduet
 FixedGearBicycle
@@ -2301,6 +2309,7 @@ Hammers
 hamsters
 HandfulOfKitten
 handholding
+handmade
 HandOfMemes
 handtools
 Handwriting
@@ -3254,11 +3263,13 @@ meatcrayon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
+Mechwarrior5
 MedicalGore
 MedievalCats
 MedievalHistoryMemes
 medizzy
 medlabprofessionals
+megafaunarewilding
 MegalithPorn
 megalophobia
 Megaman
@@ -3327,6 +3338,7 @@ MicroPorn
 MicrosoftFlightSim
 MicrosoftRewards
 Mid_Century
+midcenturymodern
 MiddleEarthMiniatures
 midjourney
 midnightsuns
@@ -3409,6 +3421,7 @@ moedred
 MoeMorphism
 Moescape
 moi_dlvv
+MoiraMains
 MoldlyInteresting
 moldova
 MoldyMemes
@@ -3511,6 +3524,7 @@ NamiMains
 NanatsunoTaizai
 nancydrew
 Nanny
+NarcoFootage
 Naruto
 narutomemes
 nasa
@@ -3795,6 +3809,7 @@ oneplus
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
+onetruegod
 OneyPlays
 onguardforthee
 OnionLovers
@@ -4411,6 +4426,7 @@ SaintRampalJi
 Sakartvelo
 SalsaSnobs
 saltierthancrait
+saltierthankrayt
 SaltLakeCity
 SaltsAnime
 Samadhi_Zendejas
@@ -4712,6 +4728,7 @@ SoundsLikeMusic
 soup
 sousvide
 southafrica
+southcarolina
 SouthwestAirlines
 SovietWomble
 space
@@ -5048,6 +5065,7 @@ TheCuddlePuddle
 TheDarkTower
 TheDeprogram
 TheDepthsBelow
+thedivision
 TheDragonPrince
 TheEminenceInShadow
 TheExpanse
@@ -5060,6 +5078,7 @@ TheGriffonsSaddlebag
 TheGrittyPast
 TheHandmaidsTale
 theisle
+theJoeBuddenPodcast
 TheKittyKingdom
 TheLastAirbender
 thelastofus
@@ -5331,6 +5350,8 @@ UnexpectedMulaney
 unexpectedoffice
 unexpectedskyrim
 UnexpectedTF2
+Unexplained
+Unextexted
 UnfunnyHellhole
 union
 unionsolidarity
