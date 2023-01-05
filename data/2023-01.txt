@@ -304,6 +304,7 @@ AppalachianTrail
 apple
 AppleWatch
 ApplyingToCollege
+APStudents
 AquariumMemes
 Aquariums
 AquaSama
@@ -471,6 +472,7 @@ Back4Blood
 Backcountry
 BackpackingDogs
 backrooms
+BackwoodsCreepy
 BackYardChickens
 Bad_Cop_No_Donut
 badassanimals
@@ -2323,6 +2325,7 @@ HomeDecorating
 HomeDepot
 homegym
 HomeImprovement
+HomeKit
 homelab
 HomeNetworking
 homestead
@@ -2775,6 +2778,7 @@ kittengifs
 kittens
 Kitting
 kittyhasaquestion
+kittykankles
 KittyPupperLove
 KittyTailWrap
 KneadyCats
@@ -3196,6 +3200,7 @@ Michigan
 MichiganWolverines
 MicroBikini
 microbork
+microdosing
 microgrowery
 MicroPorn
 MicrosoftFlightSim
@@ -3675,6 +3680,7 @@ OrganizationPorn
 originalxbox
 orioles
 orks
+orlando
 Ornithology
 Orochisegundo
 OrphanCrushingMachine
@@ -4394,6 +4400,7 @@ ShitpostXIV
 ShitRimworldSays
 Shitstatistssay
 Shitty_Car_Mods
+ShittyAnimalFacts
 shittyaquariums
 Shittyaskflying
 shittyaskscience
@@ -4788,6 +4795,7 @@ Teachers
 TeamfightTactics
 TeamFourStar
 tearsofthekingdom
+TearsOfThemis
 tech
 tech1e
 technews
@@ -5079,6 +5087,7 @@ TuxedoCats
 TVDetails
 TVTooHigh
 twentyonepilots
+TWEWY
 twicemedia
 twicememes
 twilight
@@ -5486,6 +5495,7 @@ XboxGamePass
 xboxone
 XboxSeriesX
 Xcom
+Xennials
 Xenoblade_Chronicles
 XFiles
 XiaoMains
