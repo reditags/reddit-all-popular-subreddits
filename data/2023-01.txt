@@ -297,8 +297,10 @@ AO3
 AOC
 aoe2
 aoe4
+Apandah
 ape
 aPeoplesCalendar
+ApexConsole
 apexlegends
 ApexOutlands
 Apexrollouts
@@ -804,6 +806,7 @@ BUENZLI
 Buffalo
 buffalobills
 buffy
+buhaydigital
 buildabear
 buildapc
 buildapcsales
@@ -1595,6 +1598,7 @@ dwarffortress
 dyinglight
 DylanteroYT
 DynastyFF
+Dyson_Sphere_Program
 E30
 earlsweatshirt
 earthbound
@@ -1674,6 +1678,7 @@ entertainment
 EnterTheGungeon
 EntitledBitch
 entitledparents
+entitledparentsmemes
 EntitledPeople
 Entomology
 Entrepreneur
@@ -2544,6 +2549,7 @@ IndianBoysOnTinder
 indiancelebs
 IndianCountry
 IndianDankMemes
+IndianEnts
 indianews
 IndianFootball
 IndianGaming
@@ -2896,6 +2902,7 @@ LawSchool
 lawschooladmissions
 LeaEluiGinet
 leafs
+leagueofjinx
 leagueoflegends
 LeagueOfMemes
 LeaguesofVotann
@@ -4184,6 +4191,7 @@ redsox
 redstone
 RedvsBlue
 ReefTank
+ReevesBatmanmemes
 regretfulparents
 regularcarreviews
 RegularRevenge
@@ -4518,6 +4526,7 @@ sims2
 Sims3
 Simulated
 singapore
+SingaporeRaw
 Singlesinferno2
 singularity
 Sino
