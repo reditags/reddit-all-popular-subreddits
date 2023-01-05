@@ -254,6 +254,7 @@ animearmor
 AnimeART
 AnimeBlush
 animecirclejerk
+Animedubs
 AnimeFunny
 animegifs
 AnimeHoodies
@@ -1054,6 +1055,7 @@ ChurchOfKasumi
 ChurchofMarnie
 ChurchOfNejire
 ChurchOfSenko
+chutyapa
 chuunibyou
 CICO
 cigars
@@ -1072,6 +1074,7 @@ civ5
 civic
 CivVI
 CK2GameOfthrones
+ClashMini
 ClashOfClans
 ClashRoyale
 ClassConscienceMemes
@@ -1180,6 +1183,7 @@ CoolGadgetsTube
 coolguides
 copypasta
 corgi
+Corinthians
 cork
 Cornwall
 Coronavirus
@@ -1274,6 +1278,7 @@ CursedGuns
 cursedimages
 cursedmemes
 CursedMinecraft
+CursedTanks
 cursedvideos
 CurseofStrahd
 customhearthstone
@@ -1529,9 +1534,11 @@ dogpictures
 dogs
 dogs_getting_dogs
 DogsAndPlants
+dogsgettingdogs
 dogslookingdown
 DogsMirin
 dogsonroofs
+dogswearinghats
 dogswithjobs
 dogswithsocks
 Dogtraining
@@ -2052,6 +2059,7 @@ GamingLeaksAndRumours
 gamingpc
 gangstaswithwaifus
 gangweed
+gank
 Ganyu
 garageporn
 GardeningAustralia
@@ -2175,6 +2183,7 @@ goodboomerhumor
 GoodFakeTexts
 GoodGoodMemes
 goodmythicalmorning
+google
 googlemapsshenanigans
 GooglePixel
 gorillaz
@@ -2212,6 +2221,7 @@ grilling
 Grimdank
 grime
 Grimes
+GriseldaxFR
 grunge
 GTA
 GTA6
@@ -2654,6 +2664,7 @@ Ishowspeed
 IsItBullshit
 ISKbets
 islam
+ISO8601
 isopods
 Israel
 IsTodayFridayThe13th
@@ -3947,6 +3958,7 @@ Pineapplebrat
 pinkfloyd
 PinkFloydCircleJerk
 PinkOmega
+PinoyProgrammer
 Piracy
 PiratedGames
 Piratefolk
@@ -4483,6 +4495,7 @@ Shihtzu
 ShingekiNoKyojin
 Shining_Nikki
 ShinyPokemon
+shitcoinmoonshots
 ShitCrusaderKingsSay
 ShitLiberalsSay
 ShitLibSafari
@@ -5005,6 +5018,7 @@ TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
 TheMonkeysPaw
+themummymemes
 thenetherlands
 TheNightFeeling
 TheNinthHouse
@@ -5492,6 +5506,7 @@ WhiskeyTribe
 WhiteHouseDinners
 whiteknighting
 WhiteLotusHBO
+whitepeoplegifs
 WhitePeopleTwitter
 whitesox
 wholesome
