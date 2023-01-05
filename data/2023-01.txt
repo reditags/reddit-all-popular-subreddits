@@ -144,6 +144,7 @@ agedtattoos
 ageofsigmar
 aggies
 AHatInTime
+AhriMains
 AIDKE
 Aikuros
 airfryer
@@ -153,6 +154,7 @@ airsoft
 airsoftcirclejerk
 AITAH
 aiyu
+AJR
 ak47
 akalimains
 AkutsuSan
@@ -593,6 +595,7 @@ Bellapoarch
 belowdeck
 Ben10
 BendyAndTheInkMachine
+benfica
 bengalcats
 bengals
 BenGarrisonCumEdits
@@ -800,6 +803,7 @@ Broadway
 Brochet
 brockhampton
 Brogress
+Bronya
 Brooklyn
 brooklynninenine
 Browns
@@ -982,6 +986,7 @@ centuryhomes
 Ceramics
 CFB
 cfbmemes
+CFL
 cfs
 Chadposting
 chadsriseup
@@ -1228,6 +1233,7 @@ CrestedGecko
 Cricket
 CricketShitpost
 cricut
+CrimeScene
 criminalminds
 cringe
 cringepics
@@ -1258,6 +1264,7 @@ Crystals
 cscareerquestions
 csgo
 csharp
+CSHFans
 csmanime
 Cubers
 cucina
@@ -1630,6 +1637,7 @@ Earwolf
 EatCheapAndHealthy
 EatCheapAndVegan
 eatsandwiches
+ebikes
 EbonyImagination
 ecologie
 Economics
@@ -1853,6 +1861,7 @@ FilthyFrank
 FinalFantasy
 FinalFantasyVII
 finalfantasyx
+finalfantasyxiii
 finance
 financialindependence
 Finanzen
@@ -1909,12 +1918,14 @@ fo76FilthyCasuals
 FocusST
 FondantHate
 food
+Foodforthought
 foodhacks
 FoodPorn
 Foofighters
 football
 footballmanagergames
 foraging
+forbiddenboops
 forbiddensnacks
 FordMaverickTruck
 ForgottenBookmarks
@@ -1970,6 +1981,7 @@ FreezingFuckingCold
 French
 Frenchbulldogs
 FrenchMemes
+FreyaAllan
 FridayNightFunkin
 friendlyjordies
 friends_tv_show
@@ -2039,6 +2051,7 @@ gadgets
 GalaxysEdge
 GalaxyWatch
 GalGadot
+gallifrey
 Gambiarra
 Gameboy
 Gamecocks
@@ -2809,6 +2822,7 @@ kdenlive
 KDRAMA
 KeanuBeingAwesome
 Keep_Track
+KellyBrook
 KellyRohrbach
 keming
 kencarson
@@ -2833,6 +2847,7 @@ KidsAreFuckingEvil
 KidsAreFuckingStupid
 KiernanShipka
 killedthecameraman
+killingfloor
 KillLaKill
 killsixbilliondemons
 killteam
@@ -2885,6 +2900,7 @@ kpoprants
 kpopthoughts
 KreekCraft
 kristenbell
+kristenstewart
 kroger
 ksi
 KSPMemes
@@ -3138,6 +3154,7 @@ maisiewilliams
 MakeupAddiction
 MakeupLounge
 makeuporganization
+MakeupRehab
 makeyourchoice
 MaladaptiveDreaming
 MalayalamMovies
@@ -3564,6 +3581,7 @@ NFA
 NFCEastMemeWar
 NFCNorthMemeWar
 NFCWestMemeWar
+nffc
 nflmemes
 nhl
 Ni_Bondha
@@ -3650,6 +3668,7 @@ notmycat
 NotMyJob
 nottheonion
 NotTimAndEric
+nottingham
 nova
 noveltranslations
 nowmycat
@@ -3702,6 +3721,7 @@ OkBubbyRetard
 okbuddybaka
 okbuddycapitalist
 okbuddycinephile
+okbuddydaylight
 OkBuddyFresca
 okbuddygenshin
 okbuddyguardian
@@ -4330,6 +4350,8 @@ RubeGoldbergFails
 rugbyunion
 runefactory
 runescape
+running
+RunningShoeGeeks
 runthejewels
 rupaulsdragrace
 RussiaLago
