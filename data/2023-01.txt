@@ -1033,6 +1033,7 @@ chessbeginners
 chessmemes
 CHIBears
 chicagobulls
+chickengifs
 chickens
 CHICubs
 Chihuahua
@@ -2214,6 +2215,7 @@ gradadmissions
 GradualChaos
 Graffiti
 Granblue_en
+GrandBlue
 grandorder
 grandpajoehate
 grandrapids
@@ -2537,6 +2539,7 @@ imaginaryelections
 ImaginaryElves
 ImaginaryFashion
 ImaginaryFeels
+ImaginaryFuturism
 ImaginaryHorrors
 ImaginaryHybrids
 ImaginaryImmortals
@@ -2978,6 +2981,7 @@ ledzeppelin
 LeedsUnited
 left_urbanism
 LeftistGamersUnion
+LeftTheBurnerOn
 LeftWingMaleAdvocates
 LegalAdviceUK
 legalcatadvice
@@ -2988,6 +2992,7 @@ legogaming
 Legoleak
 legostarwars
 LegoStarWarsVideoGame
+LegoStorage
 legotechnic
 lehighvalley
 leopardgeckos
@@ -3135,6 +3140,7 @@ Lysithea
 MAAU
 mac
 macdemarco
+MachikadoMazoku
 MachinePorn
 Machinists
 MacMiller
@@ -3256,6 +3262,7 @@ medlabprofessionals
 MegalithPorn
 megalophobia
 Megaman
+megamindmemes
 megane
 MeganFox
 Megaten
@@ -3774,10 +3781,12 @@ OldWorldBlues
 oliviadunne
 OliviaMunn
 OliviaRodrigoNSFW
+olympia
 olympics
 Omaha
 OMORI
 OnCinemaAtTheCinema
+onednd
 onejob
 onejoke
 OneOrangeBraincell
@@ -4137,11 +4146,13 @@ ProRevenge
 PROTECC
 protogen
 providence
+prusa3d
 ps2
 PS3
 PS4
 PS5
 psg
+PsilocybinMushrooms
 PSP
 PSVR
 psx
@@ -4164,6 +4175,7 @@ puns
 PupliftingNews
 puppersheckingdying
 puppies
+puppy101
 PuppyBellies
 PuppySmiles
 Purdue
@@ -4587,6 +4599,7 @@ shubreddit
 ShuumatsuNoValkyrie
 shylily
 Siamesecats
+SiberianCats
 Sidemen
 SiestaKeyMTV
 SigmaCinema
@@ -4941,6 +4954,7 @@ taskmaster
 tattoo
 TattooDesigns
 Tau40K
+TayamillerOF_
 TaylorSwift
 TaylorSwiftPictures
 TaylorSwiftsLegs
