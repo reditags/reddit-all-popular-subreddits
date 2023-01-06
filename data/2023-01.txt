@@ -450,6 +450,7 @@ AusRenovation
 AussieCasual
 australia
 AustralianCattleDog
+AustralianMilitary
 AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
@@ -1959,6 +1960,7 @@ FoodPorn
 Foofighters
 football
 footballmanagergames
+footballmemes
 foraging
 forbiddenboops
 forbiddensnacks
@@ -2999,6 +3001,7 @@ law
 lawofattraction
 LawSchool
 lawschooladmissions
+LaylaMains
 LeaEluiGinet
 leafs
 leagueofjinx
@@ -3925,6 +3928,7 @@ Paladins
 Paleontology
 Palestine
 PallasCats
+PampamilyangPaoLUL
 PandR
 panelshow
 PanPorn
@@ -5394,6 +5398,7 @@ UnearthedArcana
 UnethicalLifeProTips
 Unexpected
 UnexpectedB99
+unexpectedcommunism
 UnexpectedCommunity
 unexpectedfuturama
 unexpectedhogwarts
