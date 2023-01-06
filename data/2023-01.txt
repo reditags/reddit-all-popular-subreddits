@@ -264,6 +264,7 @@ animearmor
 AnimeART
 AnimeBlush
 animecirclejerk
+animecuddling
 Animedubs
 AnimeFunny
 animegifs
@@ -334,6 +335,7 @@ Aquariums
 AquaSama
 Aquascape
 AquaticAsFuck
+AR10
 ar15
 arabfunny
 araragi
@@ -605,6 +607,7 @@ BecomingTheIceman
 beebutts
 Beekeeping
 BeelcitosMemes
+beer
 beetlejuicing
 BeforeNAfterAdoption
 BeginnerWoodWorking
@@ -902,6 +905,7 @@ CampingGear
 canada
 canadaguns
 canadahousing
+canadaleft
 CanadaSoccer
 CanadianForces
 CanadianInvestor
@@ -1121,6 +1125,7 @@ ClashMini
 ClashOfClans
 ClashRoyale
 ClassConscienceMemes
+ClassicalMemes
 classiccars
 classicsoccer
 classicwow
@@ -1645,6 +1650,7 @@ DreamWasTaken2
 Drifting
 DrillCats
 Drizzy
+drones
 DrStone
 DRSyourGME
 Drueandgabe
@@ -2289,6 +2295,7 @@ greatdanes
 greatpyrenees
 greebles
 greece
+GreekMythology
 GreenAndPleasant
 GreenBayPackers
 greenday
@@ -2589,6 +2596,7 @@ illusionporn
 Illustration
 im14andthisisdeep
 Im15AndThisIsYeet
+ImagesAlbum
 ImaginaryArchitecture
 ImaginaryArmor
 ImaginaryAzeroth
@@ -2606,6 +2614,7 @@ ImaginaryElves
 ImaginaryFashion
 ImaginaryFeels
 ImaginaryFuturism
+ImaginaryHellscapes
 ImaginaryHorrors
 ImaginaryHybrids
 ImaginaryImmortals
@@ -2763,6 +2772,7 @@ Israel
 IsTodayFridayThe13th
 Italia
 ItaliaMeme
+ItalianGreyhounds
 ItaliaPersonalFinance
 italy
 ITCareerQuestions
@@ -2879,6 +2889,7 @@ Juve
 k_on
 KaeyaMains
 KaguyaShinomiya
+kaiserredux
 Kaiserreich
 kalam_army
 kaleycuoco
@@ -3021,6 +3032,7 @@ LancerRPG
 LandCruisers
 LandlordLove
 LandoftheLustrous
+LandscapeAstro
 LandscapePhotography
 landscaping
 languagelearning
@@ -3072,9 +3084,11 @@ lego
 legogaming
 Legoleak
 legostarwars
+legostarwarsmemes
 LegoStarWarsVideoGame
 LegoStorage
 legotechnic
+LEGOtrains
 lehighvalley
 leopardgeckos
 LeopardsAteMyFace
@@ -3226,6 +3240,7 @@ MAAU
 mac
 macdemarco
 MachikadoMazoku
+MachineLearning
 MachinePorn
 Machinists
 MacMiller
@@ -3527,6 +3542,7 @@ Morbius
 Mordhau
 mordheim
 moreplatesmoredates
+MoriCalliope
 Morocco
 Morrowind
 MortalKombat
@@ -3747,6 +3763,7 @@ nocontextpics
 Noctor
 Noellemains
 NoFap
+NoisyCats
 noisygifs
 noita
 NoJumper
@@ -4220,6 +4237,7 @@ povertyfinance
 PowerliftingMemes
 powerrangers
 powerwashingporn
+Powerwolf
 ppnojutsu
 PragerUrine
 PraiseTheCameraMan
@@ -4349,6 +4367,7 @@ randomsexiness
 RandomThoughts
 rangers
 rangersfc
+rant
 rap
 RapFars
 Raphtalia
@@ -4485,6 +4504,7 @@ romemes
 ronperlmancats
 RoomPorn
 roosterteeth
+ror2
 rose
 rosesarered
 RotMG
@@ -4685,6 +4705,7 @@ ShitPoliticsSays
 ShitpostBR
 ShitPostCrusaders
 shitposting
+shitposting_inc
 ShitpostTC
 ShitpostXIV
 ShitRimworldSays
@@ -4801,6 +4822,7 @@ smashbros
 SmashBrosUltimate
 SmashingPumpkins
 smashmemes
+SMG4
 SmilingFriends
 Smite
 smoking
@@ -5590,6 +5612,7 @@ VinlandSaga
 vintage
 vintageads
 VintageApple
+vintageaudio
 vintagecomputing
 VintageFashion
 vintagejapaneseautos
@@ -5665,6 +5688,7 @@ watchpeoplesurvive
 watchthingsfly
 Watercolor
 watercolorcats
+watercolorpractice
 watercooling
 Waterdogs
 WattsonMains
@@ -5878,6 +5902,7 @@ YouFellForItFool
 YoujoSenki
 youngpeoplereddit
 youngpeopleyoutube
+YoungRoyals
 YoungThug
 YouniquePresenterMS
 YouOnLifetime
