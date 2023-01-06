@@ -49,6 +49,7 @@
 4trancirclejerk
 4x4
 52book
+52weeksofcooking
 5nafcirclejerk
 5t44t4yf5frt3
 5ToubunNoHanayome
@@ -108,6 +109,7 @@ ActivationSound
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
+AdachiToShimamura
 AddisonRae
 Adelaide
 AdeptusCustodes
@@ -790,6 +792,7 @@ Bowling
 Boxer
 Boxing
 boyslove
+Bozeman
 BPD
 BPDmemes
 BrandNewAnimal
@@ -1059,6 +1062,7 @@ chessbeginners
 chessmemes
 CHIBears
 chicagobulls
+chicagofood
 chickengifs
 chickens
 CHICubs
@@ -1298,6 +1302,7 @@ cryptostreetbets
 Cryptozoology
 Crystals
 cscareerquestions
+cscareerquestionsEU
 csgo
 csharp
 CSHFans
@@ -1675,6 +1680,7 @@ DylanteroYT
 DynastyFF
 Dyson_Sphere_Program
 E30
+EA_NHL
 earlsweatshirt
 earthbound
 EarthPorn
@@ -2284,6 +2290,7 @@ greenday
 greenville
 Greyhounds
 greysanatomy
+GriefSupport
 grilledcheese
 grilling
 Grimdank
@@ -2842,6 +2849,7 @@ judo
 JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
+Jujutsushi
 JuliaBeautxNEW
 juliensolomita
 jumpingspiders
@@ -3027,6 +3035,7 @@ lawofattraction
 LawSchool
 lawschooladmissions
 LaylaMains
+LazyCats
 LeaEluiGinet
 leafs
 leagueofjinx
@@ -3214,6 +3223,7 @@ MachikadoMazoku
 MachinePorn
 Machinists
 MacMiller
+MacOS
 MacroPorn
 macsetups
 Madden
@@ -3996,6 +4006,7 @@ Patchuu
 Pathfinder2e
 Pathfinder_Kingmaker
 Pathfinder_RPG
+pathfindermemes
 pathofexile
 PathOfExileBuilds
 pathologic
@@ -4337,6 +4348,7 @@ Rarethreats
 raspberry_pi
 Ratorix
 RATS
+RavenGuard40k
 ravens
 rawdenim
 razorbacks
@@ -4555,6 +4567,7 @@ sbeve
 sbubby_NL
 scambait
 Scams
+ScandinavianInterior
 ScaramoucheMains
 ScarlettBordeaux
 ScarySigns
@@ -5102,6 +5115,7 @@ teenagersbuthot
 teenagersnew
 TeenMomOGandTeenMom2
 Tekken
+TempleofMarianne
 Tendies
 Tennessee
 Tennesseetitans
@@ -5171,6 +5185,7 @@ TheDragonPrince
 TheEminenceInShadow
 TheExpanse
 thefighterandthekid
+TheForgottenDepths
 TheGirlSurvivalGuide
 TheGlassCannonPodcast
 TheGoodPlace
@@ -5211,6 +5226,7 @@ TheRandomest
 therapists
 TheRatEmpire
 TheRealJoke
+TheRehearsal
 ThereIsnoCat
 therewasanattempt
 TheRightCantMeme
