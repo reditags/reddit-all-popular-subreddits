@@ -352,6 +352,7 @@ archlinux
 arco_iris
 arcticmonkeys
 arduino
+AreTheStraightsOkay
 argentina
 ArgentinaBenderStyle
 ArianaGrande
@@ -1349,6 +1350,7 @@ cybersecurity
 CynoMains
 czech
 czechmemes
+Dabs
 Dachschaden
 Dachshund
 DadForAMinute
@@ -2799,6 +2801,7 @@ jaidenanimations
 jailbreak
 jakeandamir
 jakertown
+jambands
 JamesBond
 jameswebb
 January6
@@ -4362,6 +4365,7 @@ ramen
 Rammstein
 Ranboo
 rance
+rance_iel
 randomactsofmusic
 randomsexiness
 RandomThoughts
@@ -4943,6 +4947,7 @@ starbound
 starbucks
 starcitizen
 starcraft
+StardewHomeDesign
 StardewMemes
 StardustCrusaders
 Starfield
