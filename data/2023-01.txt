@@ -811,6 +811,7 @@ botw
 boulder
 bouldering
 BoutinelaBabes
+bowhunting
 Bowling
 Boxer
 Boxing
@@ -1124,6 +1125,7 @@ churchoffutaba
 ChurchOfJirou
 ChurchOfKasumi
 ChurchofMarnie
+ChurchOfMinaAshido
 ChurchOfNejire
 ChurchOfSenko
 chutyapa
@@ -2292,7 +2294,9 @@ gme_meltdown
 GMECanada
 GMEJungle
 gmod
+Goatparkour
 goats
+GoatsOnTopOfHorses
 goblincore
 GoblinSlayer
 GodDesigns
@@ -3136,6 +3140,7 @@ learningtocat
 LearnJapanese
 learnpolish
 learnprogramming
+learnpython
 learntodraw
 LearnUselessTalents
 Leathercraft
@@ -3173,6 +3178,7 @@ lesserafim
 Letterboxd
 Letterkenny
 LeverGuns
+lewishamilton
 lewronggeneration
 lexapro
 lexfridman
@@ -4009,6 +4015,7 @@ oneplus
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
+OneTrueEmilia
 onetruegod
 OneyPlays
 onguardforthee
@@ -5771,6 +5778,7 @@ VShojo
 Vulfpeck
 vultureculture
 VuvuzelaIPhone
+VV11
 WackyTicTacs
 Wales
 WalgreensStores
@@ -5906,6 +5914,7 @@ wiiu
 wikipedia
 wildbeef
 WildernessBackpacking
+wildhearthstone
 wildhockey
 wildlifephotography
 wildrift
