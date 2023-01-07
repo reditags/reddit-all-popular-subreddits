@@ -383,6 +383,7 @@ ArtDeco
 ArtefactPorn
 ArtHistory
 ArtisanVideos
+ArtNouveau
 ArtOfRolling
 ArtPorn
 artstore
@@ -1586,6 +1587,7 @@ dividends
 DivinityOriginalSin
 DivorcedBirds
 DiWHY
+DiWHYNOT
 DIY
 diypedals
 DIYUK
@@ -1681,6 +1683,7 @@ drumcorps
 drums
 drumstick
 drunkencookery
+DSPD
 dualipa
 dubai
 DubFrostSnark
@@ -1710,6 +1713,7 @@ DynastyFF
 Dyson_Sphere_Program
 E30
 EA_NHL
+earfurnishings
 earlsweatshirt
 earthbound
 EarthPorn
@@ -3657,6 +3661,7 @@ MyouiMina
 MyPeopleNeedMe
 MySingingMonsters
 MysteryDungeon
+mysticmessenger
 MySummerCar
 mythologymemes
 n64
@@ -4564,6 +4569,7 @@ RotMG
 Rottweiler
 RoughRomanMemes
 RoundAnimals
+RoyaleHigh_Roblox
 RPClipsGTA
 RPDR_UK
 RPDRDRAMA
@@ -5215,6 +5221,7 @@ Tennessee
 Tennesseetitans
 tennis
 TenseiSlime
+TerminallyStupid
 TerrainBuilding
 Terraria
 TerrariaMemes
@@ -5427,6 +5434,7 @@ toptalent
 toradora
 tornado
 Torontobluejays
+TorontoDriving
 torontoraptors
 torties
 Totaldrama
@@ -5479,6 +5487,7 @@ TrishylandWifeys
 TrollCoping
 Trophies
 trouduction
+troutfishing
 Truckers
 Trucks
 trucksim
@@ -5950,6 +5959,7 @@ xmen
 xqcow
 YaeMiko
 YagateKiminiNaru
+Yahaha_IRL
 yakuzagames
 yandere
 YanfeiMains
