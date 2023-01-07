@@ -79,6 +79,7 @@ AbruptChaos
 absolutelynotanimeirl
 absolutelynotme_irl
 absolutelynotmeirl
+absoluteunit
 AbsoluteUnits
 AbsoluteWeapons
 AbstractArt
@@ -571,6 +572,7 @@ barstoolsports
 bartenders
 baseball
 baseballcards
+BasicBulletJournals
 basset
 bassfishing
 BassGuitar
@@ -1587,6 +1589,7 @@ DilettaLeotta
 DilucMains
 Dimension20
 DINgore
+Dinkum
 Dinosaurs
 dioramas
 Dipcifica
@@ -1675,6 +1678,7 @@ Dorohedoro
 DotA2
 DottoreMains
 DougDoug
+doughertydozen
 DownvotedToOblivion
 DragaliaLost
 dragonballfighterz
@@ -2079,6 +2083,7 @@ ForwardsFromKlandma
 forza
 ForzaHorizon
 fossilid
+FossilPorn
 FoundPaper
 FoundryVTT
 foundsatan
@@ -2361,6 +2366,7 @@ granturismo
 graphic_design
 graphicnovels
 Grapplerbaki
+grateful_dead
 gratefuldead
 gravelcycling
 gravityfalls
@@ -3133,6 +3139,7 @@ lagoloaf
 laidbackcamp
 Lain
 LakeErieBros
+LakeLaogai
 lakers
 Lalisa
 lanadelrey
@@ -4146,6 +4153,7 @@ pansexualfleabrothel
 panthers
 Papaplatte
 papermario
+papermoney
 papertowns
 papgrappen
 ParadoxExtra
@@ -4369,6 +4377,7 @@ porto
 portugal
 PORTUGALCARALHO
 PORTUGALCYKABLYAT
+Possums
 POTCmemes
 PotionCraft
 pottedcats
@@ -4789,6 +4798,7 @@ SeattleKraken
 SeattleWA
 secondsketch
 secretcompartments
+see
 seinfeld
 seinfeldgifs
 SeishunButaYarou
@@ -5255,6 +5265,7 @@ tahoe
 Takagi_san
 TakaMori
 tales
+TalesFromDF
 TalesFromRetail
 talesfromtechsupport
 TalesFromTheCustomer
@@ -5378,6 +5389,7 @@ thechurchofpeanut
 TheCircleTV
 TheCivilService
 TheClickOwO
+TheCrownNetflix
 TheCuddlePuddle
 TheDarkTower
 TheDeprogram
@@ -5478,6 +5490,7 @@ TighnariMains
 tightdresses
 TIGHTPUSSY
 TIHI
+Tiki
 TikTokCringe
 tiktokgossip
 TikTokSeeThrough
@@ -5817,6 +5830,7 @@ Visiblemending
 visualnovels
 VitaPiracy
 Vivy
+vizsla
 Vocaloid
 void_memes
 voidpunk
