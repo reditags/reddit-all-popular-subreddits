@@ -932,6 +932,7 @@ capybara
 CaraDelevingne
 carcrash
 cardano
+cardsagainsthumanity
 careerguidance
 CarletonU
 carmemes
@@ -1378,6 +1379,7 @@ dancemoms
 Dandadan
 danganronpa
 dangerousdesign
+danglers
 DaniDev
 Daniellarson
 DaniSpeegle
@@ -2408,6 +2410,7 @@ Hasan_Piker
 hatsune
 hauntedchocolatier
 HauntedMound
+HauntingOfHillHouse
 Hawaii
 HayDay
 HayleyAtwell
@@ -2716,6 +2719,7 @@ indieheadscirclejerk
 indonesia
 IndoorGarden
 INDYCAR
+InfinityTrain
 InfluencergossipDK
 Infographics
 InformedTankie
@@ -2873,6 +2877,7 @@ Journaling
 jovemedinamica
 jovemnerd
 jpegmafia
+Jreg
 JRPG
 jschlatt
 jschlattsubmissions
@@ -3209,6 +3214,7 @@ LooneyTunesLogic
 loopringorg
 lorde
 lordoftherings
+Lore_Olympus
 loreofleague
 LosAngelesRams
 loseit
@@ -3681,6 +3687,7 @@ NBA2k
 nbacirclejerk
 nbadiscussion
 Nbamemes
+NBASpurs
 NBAYoungboy
 NCAAFBseries
 NCAAgirls
@@ -3793,6 +3800,7 @@ NolanBatmanMemes
 NOLAPelicans
 NoLawns
 NoMansSkyTheGame
+nonbinarymemes
 NonCredibleDiplomacy
 NoneHumanMoe
 nonmurdermysteries
@@ -5245,6 +5253,7 @@ thedivision
 TheDragonPrince
 TheEminenceInShadow
 TheExpanse
+TheFarSide
 thefighterandthekid
 TheForgottenDepths
 TheGirlSurvivalGuide
@@ -5436,6 +5445,7 @@ treeseatingthings
 TreesSuckingOnThings
 Treknobabble
 tretinoin
+triangle
 triplej
 trippinthroughtime
 TrishylandWifeys
