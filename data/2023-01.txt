@@ -88,6 +88,7 @@ abusiverelationships
 ac_newhorizons
 ACAB
 AccidentalAlly
+AccidentalArtGallery
 AccidentalCamouflage
 AccidentalComedy
 AccidentalRacism
@@ -1194,6 +1195,7 @@ civ5
 civic
 CivVI
 CK2GameOfthrones
+CK3AGOT
 ClashMini
 ClashOfClans
 ClashRoyale
@@ -2545,6 +2547,7 @@ HannibalTV
 happy
 happycowgifs
 happycrowds
+happycryingdads
 HappyPitbull
 HappyWoofGifs
 Hardcore
@@ -3338,6 +3341,7 @@ lexfridman
 Lexus
 lgballt
 lgbt
+lgbthistory
 lgbtmemes
 LGBTnews
 Liberal
@@ -4291,6 +4295,7 @@ Paleontology
 Palestine
 PallasCats
 PampamilyangPaoLUL
+Pandabuy
 PandR
 panelshow
 PanPorn
@@ -5255,6 +5260,7 @@ Spiritfarer
 spirituality
 Splatoon_3
 Splintercell
+Splitgate
 sploot
 Spokane
 spongebob
