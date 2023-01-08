@@ -441,6 +441,7 @@ AssassinsCreedOdyssey
 AssassinsCreedValhala
 assettocorsa
 assholedesign
+astoria
 astramilitarum
 astrologymemes
 Astroneer
@@ -806,7 +807,9 @@ bonehealingjuice
 bonehurtingjuice
 BONELAB
 bonjour
+bonnaroo
 Boob_Physics
+booknooks
 BookOfBobaFett
 bookporn
 books
@@ -1201,6 +1204,7 @@ clevelandcavs
 clevercomebacks
 climate
 ClimateActionPlan
+ClimateShitposting
 climbergirls
 climbing
 ClimbingCircleJerk
@@ -1474,6 +1478,7 @@ DanLeBatardShow
 DanMachi
 DannyGonzalez
 Daredevil
+daria
 DarioMocciaTwitch
 DarK
 DarkAcademia
@@ -2679,6 +2684,7 @@ howto
 howtonotgiveafuck
 howyoudoin
 Hozier
+HPHogwartsMystery
 httyd
 Hue
 HUEstation
@@ -2800,6 +2806,7 @@ ImaginaryMindscapes
 ImaginaryMonsterGirls
 ImaginaryMonsters
 ImaginaryMythology
+ImaginaryNecronomicon
 ImaginaryNobles
 ImaginaryPathways
 ImaginarySliceOfLife
@@ -4083,6 +4090,7 @@ obeyme
 oblivion
 ObsidianMD
 ObviousPlant
+OCDmemes
 OceansAreFuckingLit
 ockytop
 octolism
@@ -4364,6 +4372,7 @@ philosophy
 PhilosophyMemes
 PhilosophyTube
 Philza
+phineasandferb
 phish
 phoebebridgers
 phoenix
@@ -4477,6 +4486,7 @@ Polytopia
 PolyYuri
 Pomeranians
 poodles
+poolrooms
 PoorlyDrawnMW
 popculturechat
 popheadscirclejerk
@@ -4520,6 +4530,7 @@ PrettyGirlsUglyFaces
 PrettyOlderWomen
 preyingmantis
 Priconne
+PrideandPrejudice
 PrimeiraLiga
 PrimitiveTechnology
 PrincessesOfPower
@@ -4791,6 +4802,7 @@ RPClipsGTA
 RPDR_UK
 RPDRDRAMA
 rpg
+rpg_brasil
 rpg_gamers
 rpghorrorstories
 rs2vietnam
@@ -5235,6 +5247,7 @@ sskfjkhwerjkghwerijh
 StableDiffusion
 StainedGlass
 stalker
+StallmanWasRight
 Stance
 standardissuecat
 StandUpComedy
@@ -5751,6 +5764,7 @@ troutfishing
 Truckers
 Trucks
 trucksim
+TruckStopBathroom
 TrueAnon
 truechildfree
 TrueChristian
@@ -5771,6 +5785,7 @@ ttttrans
 tuckedinkitties
 TuckedInPuppies
 Tucson
+tulsa
 tumblr
 TumblrDraws
 Turkey
@@ -5914,6 +5929,7 @@ valheim
 VALORANT
 ValorantCompetitive
 ValorantMemes
+valve
 VampireSurvivors
 vancouver
 vancouverwa
