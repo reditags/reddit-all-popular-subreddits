@@ -133,6 +133,7 @@ adultingph
 adultswim
 AdvancedRunning
 adventofcode
+adventurecats
 adventuretime
 AdviceAnimals
 aeiou
@@ -170,6 +171,7 @@ aiyu
 AJR
 ak47
 akalimains
+AkameGaKILL
 AkutsuSan
 AlanPartridge
 Albany
@@ -415,6 +417,7 @@ AskHistorians
 asklatinamerica
 AskMen
 AskMiddleEast
+AskNYC
 AskOuija
 AskReddit
 askscience
@@ -632,6 +635,7 @@ beebutts
 Beekeeping
 BeelcitosMemes
 beer
+BeeSwarmSimulator
 beetlejuicing
 BeforeNAfterAdoption
 BeginnerWoodWorking
@@ -1243,6 +1247,7 @@ comicbooks
 comics
 commandandconquer
 Commanders
+CommercialsIHate
 CommunismMemes
 community
 CompetitiveApex
@@ -1569,6 +1574,7 @@ DestinyLore
 DestinyMemes
 DestinyTheGame
 DestroyedTanks
+DestroyLonely
 DetailCraft
 detrans
 DeTrashed
@@ -2081,6 +2087,7 @@ foraging
 forbiddenboops
 forbiddensnacks
 FordMaverickTruck
+fordranger
 ForgottenBookmarks
 ForgottenWeapons
 forhonor
@@ -3380,6 +3387,7 @@ LowAltitudeJets
 LowerCaseScreams
 Lowes
 LowQualityMemes
+LowSodiumDestiny
 LowSodiumHalo
 LPOTL
 LSD
@@ -3616,6 +3624,7 @@ mildlyinteresting
 mildlysatisfying
 MildlyStartledCats
 MildlyVandalised
+mildyinfuriating
 mildyinteresting
 Military
 MilitaryARClones
@@ -3729,6 +3738,8 @@ MotorcyclePorn
 motorcycles
 Mounjaro
 mountainbiking
+mountaindew
+Mountaineering
 mountandblade
 MouseReview
 moviecritic
@@ -5010,6 +5021,7 @@ SISwimsuitGirls
 sixfacedworld
 SixtySecondsInAfrica
 Sjokz
+Ska
 skamtebord
 skaven
 sketches
