@@ -1707,6 +1707,7 @@ DottoreMains
 DougDoug
 doughertydozen
 DownvotedToOblivion
+DR_YAKUZA
 DragaliaLost
 dragonballfighterz
 DragonballLegends
@@ -4562,6 +4563,7 @@ Quebec
 QuebecLibre
 queen
 Queens
+queensland
 queensofgenshin
 quilting
 quityourbullshit
