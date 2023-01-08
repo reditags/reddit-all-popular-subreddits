@@ -3361,6 +3361,7 @@ lorde
 lordoftherings
 Lore_Olympus
 loreofleague
+losangeleskings
 LosAngelesRams
 loseit
 Loserfruit
@@ -4681,6 +4682,7 @@ retrobattlestations
 RetroBowl
 RetroFuturism
 retrogaming
+RetroPie
 revancedapp
 reverseanimalrescue
 ReversePinterest
@@ -4844,6 +4846,7 @@ ScienceBasedParenting
 sciencefiction
 sciencememes
 ScienceNcoolThings
+sciences
 scifi
 SCJerk
 Scoobydoo
@@ -5662,6 +5665,7 @@ transgender
 transit
 transitiongoals
 TransLater
+Transmatfiring
 Transmogrification
 transtrans
 transylveon
