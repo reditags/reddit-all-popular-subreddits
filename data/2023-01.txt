@@ -525,6 +525,7 @@ AZCardinals
 aznidentity
 AZURE
 babushkadogs
+Babushkats
 babyanimals
 babybigcatgifs
 BabyBumps
@@ -2740,6 +2741,7 @@ ImaginaryBehemoths
 ImaginaryBestOf
 ImaginaryCharacters
 ImaginaryCityscapes
+ImaginaryColorscapes
 imaginarycosmere
 ImaginaryCybernetics
 ImaginaryCyberpunk
@@ -5821,6 +5823,7 @@ upcycling
 upliftingmews
 UpliftingNews
 UpvoteBecauseButt
+upvoteexeggutor
 urbandesign
 urbanexploration
 UrbanHell
