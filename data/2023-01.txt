@@ -139,6 +139,7 @@ AdviceAnimals
 aeiou
 AerospaceEngineering
 Aespa
+aesthetic
 aestheticrain
 Aether_Mains
 AEWOfficial
@@ -168,6 +169,7 @@ airsoft
 airsoftcirclejerk
 AITAH
 aiyu
+AjaxAmsterdam
 AJR
 ak47
 akalimains
@@ -1856,6 +1858,7 @@ Emiru_Lewd
 EmKay
 EmmaRoseKenney
 EmmaStone
+EmmyRossum
 Emo
 Emoney
 EmpireDidNothingWrong
@@ -2574,6 +2577,7 @@ Heizou_Mains
 Helicopters
 HellenicMemes
 HellLetLoose
+HelloInternet
 hellsomememes
 Helltaker
 HelluvaBoss
@@ -2681,6 +2685,7 @@ HousingUK
 houston
 howardstern
 howto
+HowToBeAMindReaver
 howtonotgiveafuck
 howyoudoin
 Hozier
@@ -3265,6 +3270,7 @@ LeagueOfMemes
 LeaguesofVotann
 leanbeefpatty
 LearmannTwins
+LearnFinnish
 learningtocat
 LearnJapanese
 learnpolish
@@ -3771,6 +3777,7 @@ MoonKnight
 Moonmoon
 MorbidWaysToDie
 Morbius
+MordekaiserMains
 Mordhau
 mordheim
 moreplatesmoredates
@@ -4500,6 +4507,7 @@ portugal
 PORTUGALCARALHO
 PORTUGALCYKABLYAT
 Possums
+postal
 POTCmemes
 PotionCraft
 pottedcats
@@ -5048,6 +5056,7 @@ ShovelKnight
 Showerthoughts
 Shrimping
 shrimptank
+shrinkflation
 ShroomID
 shrooms
 shubreddit
@@ -5563,6 +5572,7 @@ TheGriffonsSaddlebag
 TheGrittyPast
 TheHandmaidsTale
 theisle
+TheJenkins
 theJoeBuddenPodcast
 TheKittyKingdom
 TheKM
@@ -6196,6 +6206,7 @@ woodworking
 woof_irl
 woooosh
 woosh
+WordBearers
 wordington
 Workbenches
 WorkersStrikeBack
