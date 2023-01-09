@@ -1572,6 +1572,7 @@ DeepSpaceNine
 Defenders
 DeFranco
 deftones
+degoogle
 Degrassi
 Dehyamains
 Delaware
@@ -4940,6 +4941,7 @@ sanrio
 santacruz
 saopaulo
 SapphoAndHerFriend
+SarahHyland
 SaraSampaio
 Sardonicast
 saskatchewan
@@ -4982,6 +4984,7 @@ scifi
 SCJerk
 Scoobydoo
 Scotland
+scottishfold
 ScottishFootball
 ScottishPeopleTwitter
 ScottPilgrim
@@ -6092,6 +6095,7 @@ virginvschad
 virtualreality
 Visiblemending
 visualnovels
+vita
 VitaPiracy
 Vivy
 vizsla
