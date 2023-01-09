@@ -1215,6 +1215,7 @@ CityPorn
 civ
 civ5
 civic
+civilengineering
 CivVI
 CK2GameOfthrones
 CK3AGOT
@@ -1307,6 +1308,7 @@ CompetitiveTFT
 CompetitiveWoW
 computers
 conan
+ConanBeingAwesome
 conceptart
 confession
 confessions
@@ -3409,6 +3411,7 @@ lepin
 LesbianActually
 lesbianfashionadvice
 LesbianInsectBrothel
+LesbianInsectBrothel2
 lesbianmemes
 lesserafim
 Letterboxd
@@ -5133,6 +5136,7 @@ shadowofmordor
 Shadowtherat
 Sham_Sharma_Show
 ShamelesslyStolen
+ShaneDawson
 Shantae
 Shark_Park
 sharks
@@ -5532,6 +5536,7 @@ sunset
 Suomi
 superautopets
 Superbowl
+Superligaen
 superman
 SuperMegaShow
 SupermodelCats
@@ -5539,6 +5544,7 @@ SuperModelIndia
 Supernatural
 supersentai
 Superstonk
+superstore
 SuperStructures
 surdev
 surrealmemes
