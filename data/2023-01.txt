@@ -758,6 +758,7 @@ BlackHair
 blacklagoon
 BlackLivesMatter
 blackmagicfuckery
+BlackMetalMemes
 blackmirror
 blackpeoplegifs
 BlackPeopleTwitter
@@ -1338,6 +1339,7 @@ CoolGadgetsTube
 coolguides
 copenhagen
 copypasta
+cordcutters
 corgi
 Corinthians
 cork
@@ -1598,6 +1600,7 @@ delhi
 deliciouscompliance
 Delightfullychubby
 delta
+delta8
 Deltarune
 delusionalartists
 delusionalcraigslist
@@ -2050,6 +2053,7 @@ fashionsouls
 fasting
 FastWorkers
 fatestaynight
+fatherted
 fatsquirrelhate
 FCInterMilan
 Fedora
@@ -2217,6 +2221,7 @@ Frasier
 Frat
 FRC
 FreckledGirls
+fredagain
 freebies
 FreeCompliments
 FreeEBOOKS
@@ -2277,6 +2282,7 @@ fullpops
 FullScorpion
 Fumofumo
 functionalprint
+FundieFashion
 FundieSnarkUncensored
 funhaus
 funkopop
@@ -3579,6 +3585,7 @@ madlads
 MadokaMagica
 Madrid
 MagicArena
+MagicEye
 magicthecirclejerking
 magnetfishing
 Mahouka
@@ -4048,6 +4055,7 @@ Neverbrokeabone
 neverchangejapan
 NeverPauseAvatar
 nevertellmetheodds
+NevilleGoddard
 newcastle
 NewDealAmerica
 Newfoundlander
@@ -4644,6 +4652,7 @@ pozilei
 ppnojutsu
 PragerUrine
 PraiseTheCameraMan
+Predators
 PredecessorGame
 PrehistoricMemes
 Prematurecelebration
@@ -5263,6 +5272,7 @@ SleepToken
 Sleepycabin
 slimerancher
 Slipknot
+SLO
 Slovakia
 Slovenia
 slowcooking
@@ -5284,6 +5294,7 @@ snails
 snakes
 SnakesWithHats
 SnapChad
+SneakyAnimals
 Sneks
 snes
 snowboarding
@@ -5739,6 +5750,7 @@ TheMajorityReport
 TheMandalorianTV
 TheMonkeysPaw
 themummymemes
+TheNational
 thenetherlands
 TheNightFeeling
 TheNinthHouse
@@ -5748,6 +5760,7 @@ theofficememes
 TheOnion
 TheOrville
 TheOther14
+theouterworlds
 TheoVon
 thepromisedneverland
 TheRandomest
@@ -5974,6 +5987,7 @@ Twitch
 twitchasians
 twittermoment
 TwoHotTakes
+Twokinds
 TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
@@ -6245,6 +6259,7 @@ WattsonMains
 Wavyhair
 WeaponsMoe
 WeatherGifs
+web_design
 webcomics
 webdev
 wec
