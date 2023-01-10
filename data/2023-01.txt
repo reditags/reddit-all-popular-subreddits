@@ -4301,6 +4301,7 @@ nrl
 NSCollectors
 nuclear
 NuclearRevenge
+NuclearThrone
 NUFC
 nukedbywords
 nukedmemes
@@ -4454,6 +4455,7 @@ OshiNoKo
 oslo
 osp
 osr
+ossem
 OSU
 osubuddyretard
 osugame
@@ -4485,6 +4487,7 @@ overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
 OverwatchLeague
+OverwatchTMZ
 OverwatchUniversity
 OWConsole
 Owls
@@ -6098,6 +6101,7 @@ triplej
 trippinthroughtime
 TrishylandWifeys
 TrollCoping
+TrollYChromosome
 tron
 Trophies
 TrophyWives
@@ -6273,6 +6277,7 @@ UzakiChan
 vagabond
 vagabondmanga
 valheim
+valkyrae
 VALORANT
 ValorantCompetitive
 ValorantMemes
