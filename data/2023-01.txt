@@ -2153,6 +2153,7 @@ FinalFantasyVII
 finalfantasyx
 finalfantasyxiii
 finance
+Financialchargeback
 financialindependence
 Finanzen
 findfashion
@@ -3147,6 +3148,7 @@ Jaharia
 jaidenanimations
 jailbreak
 jaimelescartes
+jaipaul
 jakeandamir
 jakertown
 jambands
@@ -4562,6 +4564,7 @@ penguins
 PenmanshipPorn
 PennStateUniversity
 Pennsylvania
+pennystocks
 pens
 Pensacola
 Pentiment
@@ -6372,6 +6375,7 @@ VV11
 WackyTicTacs
 Wales
 WalgreensStores
+WalkableStreets
 walkaway
 wallpaper
 wallpaperengine
