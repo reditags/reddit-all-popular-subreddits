@@ -502,6 +502,7 @@ AusMemes
 AusRenovation
 AussieCasual
 australia
+AustralianBirds
 AustralianCattleDog
 AustralianMilitary
 AustralianNostalgia
@@ -711,6 +712,7 @@ beyondwholesome
 bhaiyamemesena
 bi_irl
 bicla
+bicycletouring
 bicycling
 BicyclingCirclejerk
 bigbangtheory
@@ -1123,6 +1125,7 @@ CemeteryPorn
 CentralChurch
 centuryhomes
 Ceramics
+cestunepieencule
 CFB
 cfbmemes
 CFL
@@ -1482,6 +1485,7 @@ CustomPlayerCutscene
 cute
 cutegayshit
 cuteguys
+cutenoobs
 Cyberbooty
 cyberDeck
 Cyberpunk
@@ -2710,6 +2714,7 @@ HipHopImages
 hisdarkmaterials
 HistoricalCostuming
 history
+HistoryAnecdotes
 HistoryAnimemes
 HistoryPorn
 HitBoxPorn
@@ -4161,6 +4166,7 @@ nin
 NinaDobrev
 Ningen
 Ninjago
+NinjagoMemes
 NinomaeInanis
 nintendo
 NintendoMemes
@@ -4377,6 +4383,7 @@ OopsDidntMeanTo
 OopsThatsDeadly
 OPBR
 openttd
+Opeth
 opossum_irl
 Opossums
 OpTicGaming
@@ -4827,6 +4834,7 @@ radioheadcirclejerk
 Radiology
 RaftTheGame
 ragdolls
+rage
 RaidenMains
 raiders
 raidsecrets
@@ -5125,6 +5133,7 @@ sciencememes
 ScienceNcoolThings
 sciences
 scifi
+ScissorSeven
 SCJerk
 Scoobydoo
 Scotland
