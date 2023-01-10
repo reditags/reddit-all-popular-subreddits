@@ -281,6 +281,7 @@ AnimalsBeingConfused
 AnimalsBeingDerps
 AnimalsBeingGeniuses
 AnimalsBeingJerks
+AnimalsBeingLoveable
 AnimalsBeingMoms
 AnimalsBeingStrange
 animalsdoingstuff
@@ -4530,6 +4531,7 @@ PetAfterVet
 Petioles
 PetiteFashionAdvice
 PetiteFitness
+Pets
 PetsareAmazing
 PetTheDamnCat
 PetTheDamnDog
@@ -5540,6 +5542,7 @@ StrangeAndFunny
 StrangePlanet
 StrangerThings
 StrangerThingsMemes
+Strava
 stray
 straykids
 streetart
