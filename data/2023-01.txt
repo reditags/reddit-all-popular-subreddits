@@ -2812,6 +2812,7 @@ HostileArchitecture
 hot_reporters
 HOTDGreens
 HotlineMiami
+HotNewswomen
 HotPaper
 HotPeppers
 HottestFemaleAthletes
@@ -4873,6 +4874,7 @@ PvZGardenWarfare
 PvZHeroes
 pykemains
 pyrocynical
+Pyrography
 Python
 QAnonCasualties
 QanonKaren
@@ -5694,6 +5696,7 @@ Superstonk
 superstore
 SuperStructures
 supportlol
+Supreme
 surdev
 surrealism
 surrealmemes
@@ -5847,6 +5850,7 @@ thanosdidnothingwrong
 That70sshow
 thatHappened
 ThatLookedExpensive
+Thatsabooklight
 ThatsHowThingsWork
 ThatsInsane
 The10thDentist
@@ -6441,6 +6445,7 @@ Waterdogs
 WattsonMains
 Wavyhair
 WeaponsMoe
+WeAreTheMusicMakers
 WeatherGifs
 web_design
 webcomics
@@ -6475,6 +6480,7 @@ Wellington
 Wellthatsucks
 Wellworn
 wendigoon
+Westchester
 WestVirginia
 westworld
 WetlanderHumor
