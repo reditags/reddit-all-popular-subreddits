@@ -416,6 +416,7 @@ armoredcore
 army
 AroAceMemes
 aromantic
+aromanticasexual
 arresteddevelopment
 arrow
 Arrowheads
@@ -766,6 +767,7 @@ Bioshock
 Birates
 Birbs
 birding
+BirdingMemes
 BirdsArentReal
 BirdsForScale
 birdstakingthetrain
@@ -1491,6 +1493,7 @@ CuddlePuddle
 cuddleroll
 CuddlyKitties
 CulinaryPlating
+CultOfEchidna
 CultOfTheLamb
 Cuphead
 CuratedTumblr
@@ -1568,6 +1571,7 @@ DankPrecolumbianMemes
 dankrishu
 dankruto
 danktintinmemes
+dankvideos
 DanLeBatardShow
 DanMachi
 DannyGonzalez
@@ -3366,6 +3370,7 @@ killthecameraman
 Killtony
 KimetsuNoYaiba
 KimiNoNaWa
+kindle
 Kindred
 Kingdom
 kingdomcome
@@ -6517,6 +6522,7 @@ watercolorcats
 watercolorpractice
 watercooling
 Waterdogs
+waterloo
 WattsonMains
 Wavyhair
 WeaponsMoe
