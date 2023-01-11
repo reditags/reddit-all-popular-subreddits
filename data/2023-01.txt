@@ -1275,6 +1275,7 @@ ClassConscienceMemes
 ClassicalMemes
 classicalmusic
 classiccars
+ClassicRock
 classicsoccer
 classicwow
 ClassPoliticsTwitter
@@ -2139,6 +2140,7 @@ FastWorkers
 fatestaynight
 fatherted
 fatsquirrelhate
+Fauxmoi
 FCInterMilan
 fednews
 Fedora
@@ -2172,6 +2174,7 @@ fiaustralia
 FierceFlow
 FIFA
 FifaCareers
+FighterJets
 Fighters
 fightporn
 FightsGoneWildpt2
@@ -3547,6 +3550,7 @@ LegoStorage
 legotechnic
 LEGOtrains
 lehighvalley
+lemondemon
 LeniKlum
 leopardgeckos
 LeopardsAteMyFace
