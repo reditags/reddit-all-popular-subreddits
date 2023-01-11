@@ -158,6 +158,7 @@ afkarena
 AFL
 AfterEffects
 aftergifted
+AfterTheEndFanFork
 AgainstHateSubreddits
 AgainstHinduphobia
 agedlikemilk
@@ -412,6 +413,7 @@ arma
 armenia
 armoredcore
 army
+AroAceMemes
 aromantic
 arresteddevelopment
 arrow
@@ -620,6 +622,7 @@ baseball
 baseballcards
 BasedJustice
 BasicBulletJournals
+basketballcards
 Bass
 basset
 bassfishing
@@ -2067,6 +2070,7 @@ factorio
 Factoriohno
 Fahrrad
 FairytaleasFuck
+FaithLiane
 fakealbumcovers
 fakedisordercringe
 fakehistoryporn
@@ -2095,6 +2099,7 @@ FantasyPL
 fantasywriters
 FanTheories
 farcry
+FargoTV
 farialimabets
 farming
 farmingsimulator
@@ -3895,6 +3900,7 @@ MilitaryStories
 MilitaryVStheUnknown
 Millennials
 MillieBobbyBrown2
+MillyAlcock
 milwaukee
 mimovi
 mina_irl
@@ -5764,6 +5770,7 @@ TargetedShirts
 TarkovMemes
 tarot
 taskmaster
+TastingHistory
 tattoo
 TattooDesigns
 TattooRemoval
@@ -6136,6 +6143,7 @@ Tucson
 tulsa
 tumblr
 TumblrDraws
+TumblrWrites
 Turkey
 TurkeyJerky
 TurkishCats
@@ -6282,6 +6290,7 @@ VALORANT
 ValorantCompetitive
 ValorantMemes
 valve
+ValveIndex
 VampireSurvivors
 Vanced
 vancouver
