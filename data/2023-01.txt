@@ -1146,6 +1146,7 @@ Cawwsplay
 CCW
 CDrama
 Cebu
+CelebPhotoshoots
 celebrities
 celebrity_soles
 CelebrityFeet
@@ -1716,6 +1717,7 @@ DesignPorn
 desimemes
 DesiMeta
 DesirePath
+DesirePaths
 DessertPorn
 Destiny
 destiny2
@@ -5069,6 +5071,7 @@ RDR2
 Re_Zero
 reactiongifs
 reactionpics
+reactjs
 readanotherbook
 ReadyOrNotGame
 real_China_irl
@@ -5291,6 +5294,7 @@ saopaulo
 SapphoAndHerFriend
 SarahHyland
 SaraSampaio
+sarcasm
 Sardonicast
 saskatchewan
 saskatoon
@@ -6278,6 +6282,7 @@ Truckers
 Trucks
 trucksim
 TruckStopBathroom
+true_tj
 TrueAnon
 truechildfree
 TrueChristian
@@ -6551,6 +6556,7 @@ vpns
 VRchat
 VRGaming
 VShojo
+vtm
 vtmb
 Vulfpeck
 vultureculture
