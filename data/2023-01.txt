@@ -2647,6 +2647,7 @@ graphicnovels
 Grapplerbaki
 grateful_dead
 gratefuldead
+gratefuldoe
 gravelcycling
 gravityfalls
 graz
@@ -4664,6 +4665,7 @@ papgrappen
 ParadoxExtra
 paradoxplaza
 Parahumans
+Paralives
 Paramore
 Paranormal
 ParanormalEncounters
@@ -6390,6 +6392,7 @@ ukraina
 ukraine
 UkraineInvasionVideos
 UkraineRussiaReport
+UkraineWarRoom
 UkraineWarVideoReport
 UkrainianConflict
 Ultrakill
