@@ -6316,6 +6316,7 @@ transit
 transitiongoals
 TransLater
 TransMasc
+transmasc_irl
 Transmatfiring
 Transmogrification
 TransPirates
@@ -6386,6 +6387,7 @@ TurkishCats
 TuxedoCats
 TVDetails
 TVTooHigh
+Tweetbot
 twentyonepilots
 TWEWY
 twicemedia
@@ -6699,6 +6701,7 @@ Wavyhair
 WeaponsMoe
 WeAreTheMusicMakers
 WeatherGifs
+WeatherPorn
 web_design
 webcomics
 webdev
