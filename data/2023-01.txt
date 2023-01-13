@@ -1967,6 +1967,7 @@ earlsweatshirt
 earthbound
 EarthPorn
 Earwolf
+EASportsUFC
 EatCheapAndHealthy
 EatCheapAndVegan
 eatsandwiches
@@ -2155,6 +2156,7 @@ FamousLatinas
 FanFiction
 fangies
 FansHansenvsPredator
+fanStands
 fantanoforever
 Fantasy_Football
 fantasybball
@@ -2720,6 +2722,7 @@ guns
 Guns_Guns_Guns
 gurrenlagann
 GuyCry
+GwenMains
 gwent
 GYM
 GymMemes
@@ -2955,6 +2958,7 @@ HunterXHunter
 HuntShowdown
 HuntsvilleAlabama
 Huskers
+huskies
 husky
 HuskyTantrums
 HuTao_Mains
@@ -4701,6 +4705,7 @@ pasta
 PastAndPresentPics
 PastorArrested
 Patchuu
+Pathfinder
 Pathfinder2e
 Pathfinder_Kingmaker
 Pathfinder_RPG
@@ -6172,6 +6177,7 @@ thingsforants
 thinkpad
 ThirdLifeSMP
 thirdsentenceworse
+thisguythisguys
 Thisisimportantpod
 Thisismylifemeow
 thisismylifenow
@@ -6502,6 +6508,7 @@ UtahJazz
 UTAustin
 Utrecht
 uwaterloo
+uwo
 UzakiChan
 vagabond
 vagabondmanga
@@ -6874,6 +6881,7 @@ Xcom
 Xennials
 Xenoblade_Chronicles
 XFiles
+xfl
 XiaoMains
 xkcd
 xmen
@@ -6923,6 +6931,7 @@ YoungThug
 YouniquePresenterMS
 YouOnLifetime
 YourJokeButWorse
+YourRAGE
 YouSeeComrade
 youseeingthisshit
 YouShouldKnow
