@@ -1931,6 +1931,7 @@ DreamWasTaken2
 DrewDurnil
 DrewGooden
 Drifting
+dril
 DrillCats
 Drizzy
 drones
@@ -2927,6 +2928,7 @@ HomeImprovement
 HomeKit
 homelab
 HomeNetworking
+HomeschoolRecovery
 homestead
 Homesteading
 homestuck
@@ -2988,6 +2990,7 @@ HumanTippyTaps
 humblebrag
 humor
 hungary
+Hungergames
 HungryArtists
 hunterxdank
 HunterXHunter
@@ -3652,6 +3655,7 @@ legendofdragoon
 legendofkorra
 LegendsMemes
 LegendsOfRuneterra
+LegendsUltimate
 lego
 legocastles
 legodeal
@@ -5115,6 +5119,7 @@ QAnonCasualties
 QanonKaren
 QiqiMains
 qotsa
+QualityTacticalGear
 Quebec
 QuebecLibre
 queen
@@ -5541,6 +5546,7 @@ ShaneDawson
 Shantae
 Shark_Park
 sharks
+sharpcutting
 sharpening
 SheGotHands
 sheltie
@@ -6864,6 +6870,7 @@ wildhearthstone
 wildhockey
 wildlifephotography
 wildrift
+willow
 willwood
 wimmelbilder
 windows
