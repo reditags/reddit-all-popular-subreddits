@@ -317,6 +317,7 @@ AnimeFunny
 animegifs
 AnimeHoodies
 animehotbeverages
+AnimeInOurWorld
 animemaids
 AnimeMeme
 animememes
@@ -1114,6 +1115,7 @@ Catloaf
 Catmemes
 catpics
 catpictures
+catradora
 cats
 CatsAndDogsBFF
 CatsAndPlants
@@ -1139,6 +1141,7 @@ Catsmirin
 CatsNamedAfterFoods
 CatsNamedToothless
 catsofrph
+catsofukraine
 CatsOnCats
 catsonglass
 CatsOnKeyboards
@@ -5585,6 +5588,7 @@ shrimptank
 shrinkflation
 ShroomID
 shrooms
+shroomstocks
 shubreddit
 Shunbun
 ShuumatsuNoValkyrie
