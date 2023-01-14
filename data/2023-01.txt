@@ -47,6 +47,7 @@
 3Dmodeling
 3Dprinting
 3DS
+3kliksphilip
 3westerneurope4u
 40k
 40kLore
@@ -319,6 +320,7 @@ animegifs
 AnimeHoodies
 animehotbeverages
 AnimeInOurWorld
+AnimeItaly
 animemaids
 AnimeMeme
 animememes
@@ -3943,6 +3945,7 @@ MandyRose
 MangaCollectors
 mangadex
 mangafr
+manganews
 manhwa
 ManifestNBC
 ManufacturingPorn
