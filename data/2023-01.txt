@@ -1572,6 +1572,7 @@ CustomPlayerCutscene
 cute
 cutegayshit
 cuteguys
+cuteguyswithcats
 cutenoobs
 Cyberbooty
 cyberDeck
@@ -1873,6 +1874,7 @@ DOG
 DogAdvice
 Dogberg
 dogbridges
+dogcatlover
 dogecoin
 dogelore
 Doggles
