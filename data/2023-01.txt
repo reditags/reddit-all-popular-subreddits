@@ -511,6 +511,7 @@ ATLA
 Atlanta
 AtlantaHawks
 AtlantaTV
+AtlantaUnited
 Atlantology
 AtomicPorn
 atrioc
@@ -680,6 +681,7 @@ BBQ
 BeachCity
 BeachHouse
 Beading
+beadsprites
 beagle
 BeAmazed
 BeamNG
@@ -1075,6 +1077,7 @@ cardano
 Cardinals
 cardsagainsthumanity
 careerguidance
+CargoBike
 CarletonU
 carmemes
 carporn
@@ -2344,6 +2347,7 @@ football
 footballmanagergames
 footballmemes
 foraging
+ForAllMankindTV
 forbiddenboops
 forbiddensnacks
 FordMaverickTruck
@@ -3315,6 +3319,7 @@ IWW
 Izlam
 iZone
 JaackMaate
+jackass
 jackrussellterrier
 JacksFilms
 jacksonville
@@ -3550,6 +3555,7 @@ KokkoroNatsume
 Kokomi_Mains
 kolkata
 kollywood
+Kombucha
 Komi_san
 Konosuba
 korea
@@ -4637,6 +4643,7 @@ OldSchoolRidiculous
 OldSkaters
 OldWorldBlues
 oliviadunne
+OliviaHolt
 OliviaMunn
 OliviaRodrigo_
 OliviaRodrigoNSFW
@@ -5842,6 +5849,7 @@ sports
 sportsarefun
 sportsbetting
 sportsbook
+spotify
 spotted
 spqrposting
 spreadytoes
