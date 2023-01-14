@@ -258,6 +258,7 @@ AmongUs
 Amouranth
 amphibia
 Amsterdam
+AmusingVideo
 AmyAdams
 AnadeArmas
 analog
@@ -2855,6 +2856,7 @@ hardware
 hardwaregore
 Harley
 HarleyQuinn
+Harmontown
 Harpo
 harrypotter
 HarryPotterGame
@@ -4451,6 +4453,7 @@ newjersey
 NewOrleans
 NewParents
 NewPatriotism
+NewRoryNMalPodcast
 news
 NewSkaters
 NewsOfTheStupid
@@ -4493,6 +4496,7 @@ NilouMains
 nin
 NinaDobrev
 Ningen
+NingguangMains
 Ninjago
 NinjagoMemes
 NinomaeInanis
@@ -6746,6 +6750,7 @@ videomemes
 videos
 vidid
 VietNam
+ViewPorn
 Vilebrequin
 VillagePorn
 Vindicta
