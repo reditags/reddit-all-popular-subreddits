@@ -896,6 +896,7 @@ BookOfBobaFett
 bookporn
 books
 bookshelf
+booksuggestions
 BoomerangSquad
 Boomerhumour
 BoomersBeingFools
@@ -4110,6 +4111,7 @@ mildlyinfuriating
 mildlyinteresting
 mildlysatisfying
 MildlyStartledCats
+mildlyterrifying
 MildlyVandalised
 mildyinfuriating
 mildyinteresting
@@ -5199,6 +5201,7 @@ rant
 rap
 RapFars
 Raphtalia
+RareHouseplants
 rareinsults
 rarepuppers
 Rarethreats
@@ -6209,6 +6212,7 @@ TheDarkTower
 TheDeprogram
 TheDepthsBelow
 thedivision
+TheDollop
 TheDragonPrince
 TheEminenceInShadow
 TheEricAndreShow
