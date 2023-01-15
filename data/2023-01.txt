@@ -389,6 +389,7 @@ apolloapp
 AppalachianTrail
 apple
 AppleMusic
+appletv
 AppleWatch
 ApplyingToCollege
 APStudents
@@ -1205,6 +1206,7 @@ celestegame
 celestememes
 CelestialBodies
 Celiac
+CelineFarach
 cellbits
 CelsiusNetwork
 CelticFC
@@ -1297,6 +1299,7 @@ ChronicPain
 chronotrigger
 chuck
 ChuckleSandwich
+Chucky
 ChurchOfCat
 churchoffutaba
 churchofharu
@@ -1419,6 +1422,7 @@ CommunismMemes
 community
 CompanyOfHeroes
 CompetitiveApex
+CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
 CompetitiveWoW
@@ -2516,6 +2520,7 @@ fuckwasps
 fuckxavier
 FUCKYOUINPARTICULAR
 FuckYouKaren
+fuckyourheadlights
 Fudd_Lore
 fujifilm
 fujix
@@ -2750,6 +2755,7 @@ googlemapsshenanigans
 GooglePixel
 GoosetheBand
 gorillaz
+Got7
 goth
 GothamKnights
 Gothenburg
@@ -5834,6 +5840,7 @@ skrillex
 Skullgirls
 SkullGirlsMobile
 SkweezyJibbs
+skyblivion
 SkyChildrenOfLight
 SkyGame
 skylanders
@@ -5859,6 +5866,7 @@ SlowNewsDay
 Slycooper
 smallbusiness
 smalllebowsky
+smarthome
 smashbros
 SmashBrosUltimate
 SmashingPumpkins
@@ -5906,6 +5914,7 @@ solotravel
 SomeOfYouMayDie
 SomeOrdinaryGmrs
 SommerRay
+somnivexillology
 sonarears
 SonicTheHedgehog
 SonoBisqueDoll
