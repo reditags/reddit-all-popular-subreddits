@@ -625,6 +625,7 @@ baeirene
 BaizhuMains
 bakeoff
 Baking
+bald
 baldursgate
 BaldursGate3
 balkans_irl
@@ -5847,6 +5848,7 @@ snakes
 SnakesWithHats
 SnapChad
 SneakyAnimals
+Snek
 Sneks
 snes
 snooker
@@ -6313,6 +6315,7 @@ TheEminenceInShadow
 TheEricAndreShow
 TheExpanse
 TheFarSide
+TheFence
 thefighterandthekid
 TheForest
 TheForgottenDepths
@@ -6957,6 +6960,7 @@ Wellington
 Wellthatsucks
 Wellworn
 wendigoon
+wesanderson
 Westchester
 WestVirginia
 westworld
