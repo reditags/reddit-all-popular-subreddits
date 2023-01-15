@@ -417,6 +417,7 @@ archlinux
 arco_iris
 arcticmonkeys
 arduino
+ArduinoProjects
 AreTheStraightsOkay
 argentina
 ArgentinaBenderStyle
@@ -1463,6 +1464,7 @@ Cookierun
 CookieRunKingdoms
 Cooking
 cookingforbeginners
+CoolAmericaFacts
 CoolGadgetsTube
 coolguides
 copenhagen
@@ -2441,6 +2443,7 @@ foundsatan
 FoundTheInaAlt
 fountainpens
 fourthwavewomen
+fourthworldproblems
 foxes
 FoxFiction
 foxholegame
@@ -2812,6 +2815,7 @@ GTAorRussia
 GTAV
 gtavcustoms
 GTBAE
+GTFO
 GuardianTales
 GuerrillaGardening
 guessmyage
@@ -3024,6 +3028,7 @@ homestuck
 hometheater
 homeworld
 Honda
+HondoOhnaka_Memes
 HongKong
 honkaiimpact3
 HonkaiImpact3rd
@@ -3063,6 +3068,7 @@ HowToBeAMindReaver
 howtokeepanidiotbusy
 howtonotgiveafuck
 howyoudoin
+hoyas
 Hozier
 HPHogwartsMystery
 httyd
@@ -5609,6 +5615,7 @@ school_memes
 science
 ScienceBasedParenting
 sciencefiction
+ScienceHumour
 sciencememes
 ScienceNcoolThings
 sciences
@@ -6625,6 +6632,7 @@ ttttrans
 tuckedinkitties
 TuckedInPuppies
 Tucson
+Tufting
 tulsa
 tumblr
 TumblrDraws
@@ -6633,6 +6641,7 @@ tunavaisquuntravail
 Turkey
 TurkeyJerky
 TurkishCats
+turtle
 TuxedoCats
 TVDetails
 TVTooHigh
