@@ -4503,6 +4503,7 @@ NFCEastMemeWar
 NFCNorthMemeWar
 NFCWestMemeWar
 nffc
+nflcirclejerk
 nflmemes
 nhl
 NHLHUT
@@ -5836,6 +5837,7 @@ smashmemes
 SMG4
 SmilingFriends
 Smite
+smitepro
 smoking
 smoobypost
 SmugIdeologyMan
