@@ -477,6 +477,7 @@ AskMen
 AskMenOver30
 AskMiddleEast
 AskNYC
+AskOldPeople
 AskOuija
 AskReddit
 askscience
@@ -1625,6 +1626,7 @@ dahyun
 dailydoseofdamn
 DaisyRidley
 dakotajohnson
+Daliban
 Dallas
 DallasStars
 dalle2
@@ -1816,6 +1818,7 @@ DevilMayCry
 devils
 devinbrugman
 devops
+Dexter
 dezwo
 DHHMemes
 DHMIS
@@ -1887,6 +1890,7 @@ DMAcademy
 DMDadJokes
 DMT
 DMZ
+DnB
 DnD
 DnDart
 DnDBehindTheScreen
@@ -4017,6 +4021,7 @@ mangafr
 manganews
 manhwa
 ManifestNBC
+MannausSachsen
 ManorLords
 ManufacturingPorn
 Maplestory
@@ -4596,6 +4601,7 @@ nonononoyes
 nonononoyesno
 NonPoliticalTwitter
 noodlebones
+Noom
 nope
 Nordichistorymemes
 NorfFc
@@ -5268,6 +5274,7 @@ QuotesPorn
 R6ProLeague
 Rabbits
 Raccoons
+RachelMcAdams
 radiohead
 radioheadcirclejerk
 Radiology
@@ -7152,6 +7159,7 @@ XboxSeriesX
 Xcom
 Xennials
 Xenoblade_Chronicles
+Xenonion
 XFiles
 xfl
 XiaoMains
