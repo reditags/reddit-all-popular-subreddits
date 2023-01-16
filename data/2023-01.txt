@@ -1943,6 +1943,7 @@ dogecoin
 dogelore
 Doggles
 doggos
+DoggyDNA
 Dogloaf
 dogpictures
 dogs
@@ -5989,6 +5990,7 @@ sonos
 SonyAlpha
 sophieturner
 SorayorimoTooiBasho
+SoulblightGravelords
 soulcrushingjuice
 souleater
 SoulKnight
@@ -6855,6 +6857,7 @@ ussoccer
 Utah
 UtahJazz
 UTAustin
+utdallas
 Utrecht
 uwaterloo
 uwo
