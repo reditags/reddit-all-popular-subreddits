@@ -160,6 +160,7 @@ aestheticrain
 Aether_Mains
 AEWOfficial
 AFCEastMemeWar
+AFCNorthMemeWar
 AFCSouthMemeWar
 afkarena
 AFL
@@ -6679,6 +6680,7 @@ Turkey
 TurkeyJerky
 TurkishCats
 turtle
+turtleswithjobs
 TuxedoCats
 TVDetails
 TVTooHigh
