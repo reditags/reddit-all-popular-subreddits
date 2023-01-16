@@ -2719,6 +2719,7 @@ GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
+GiftIdeas
 gingercats
 gingerkitty
 Gintama
@@ -5547,6 +5548,7 @@ Rotterdam
 Rottweiler
 RoughRomanMemes
 RoundAnimals
+Rowing
 RoyaleHigh_Roblox
 RPClipsGTA
 RPDR_UK
