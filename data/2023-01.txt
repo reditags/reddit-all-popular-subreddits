@@ -7183,6 +7183,7 @@ worldnewsvideo
 worldofgothic
 worldofpvp
 WorldofTanks
+WorldOfTanksBlitz
 WorldOfWarships
 WorldWar2
 worldwatch
