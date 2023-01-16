@@ -2775,6 +2775,7 @@ GODZILLA
 Gold
 GoldandBlack
 GoldCoast
+GoldenAgeMinecraft
 Goldendoodles
 goldenknights
 goldenretrievers
@@ -5931,6 +5932,7 @@ slammywhammies
 SlavaUkrayini
 slavestodarkness
 slavs_squatting
+Slayer
 slaythespire
 SleepToken
 Sleepycabin
@@ -6783,6 +6785,7 @@ UkrainianConflict
 Ultrakill
 Ultralight
 Ultraman
+Ultramarathon
 Ultramarines
 ultrarunning
 ultrawidemasterrace
