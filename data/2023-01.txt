@@ -121,6 +121,7 @@ ActionFigures
 ActivationSound
 ActLikeYouBelong
 actu_memes
+ActualLesbiansOver25
 ActualPublicFreakouts
 AdachiToShimamura
 AdamDriverCats
@@ -1244,6 +1245,7 @@ CharacterRant
 Charadefensesquad
 Chargers
 chargetheyphone
+charlixcx
 Charlotte
 CharlotteHornets
 Charlottesville
@@ -2280,11 +2282,13 @@ fatsquirrelhate
 FatuiHQ
 Fauxmoi
 FCInterMilan
+fearofflying
 fednews
 Fedora
 feedthebeast
 feedthememes
 feemagers
+Feic
 FellowKids
 fellowshipofthebib
 FeltGoodComingOut
@@ -2980,6 +2984,7 @@ hindumemes
 hingeapp
 HipHopImages
 hisdarkmaterials
+HisDarkMaterialsHBO
 HistoricalCostuming
 history
 HistoryAnecdotes
@@ -3644,6 +3649,7 @@ Klengan
 KneadyCats
 knifeclub
 knifemaking
+KnightsOfPineapple
 KnitHacker
 knives
 KnivesOutMovie
@@ -4564,6 +4570,7 @@ niceguys
 Nichijou
 NichtDieTagespresse
 NicolaCavanis
+NICUParents
 nier
 nietdespeld
 NightInTheWoods
@@ -5791,6 +5798,7 @@ ShittyVeganFoodPorn
 shittywoodworking
 shockwaveporn
 ShoebillStorks
+shoegaze
 ShokugekiNoSoma
 shoresy
 short
@@ -6355,6 +6363,7 @@ TheBatmanFilm
 TheBear
 TheBidenshitshow
 thebindingofisaac
+TheBonfire
 TheBoys
 TheBrewery
 TheBullWins
