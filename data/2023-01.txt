@@ -1528,6 +1528,7 @@ crazywoodworking
 CreateMod
 CreatorsAdvice
 creepy
+CreepyArt
 creepyasterisks
 creepydesign
 creepyencounters
@@ -1843,6 +1844,7 @@ diablo2
 Diablo_2_Resurrected
 DicePorn
 DidntKnowIWantedThat
+DidTheVikingsWinSB
 Diecast
 Diesel
 different_sob_story
