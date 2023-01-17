@@ -2931,6 +2931,7 @@ HaloStory
 Hamilton
 Hammers
 hamsters
+hanakokun
 handbags
 HandfulOfKitten
 handholding
@@ -3810,6 +3811,7 @@ leagueofjinx
 leagueoflegends
 LeagueOfMemes
 LeaguesofVotann
+LeaksDBD
 leanbeefpatty
 LearmannTwins
 learndutch
@@ -3853,6 +3855,7 @@ LegoStorage
 legotechnic
 LEGOtrains
 lehighvalley
+lekkerspelen
 lemondemon
 LeniKlum
 leopardgeckos
@@ -5156,6 +5159,7 @@ plantclinic
 PlantedTank
 PlantGoths
 plants
+plantsandpots
 PlantsVSZombies
 playark
 PlayAvengers
@@ -5837,6 +5841,7 @@ ShitLiberalsSay
 ShitLibSafari
 ShitMomGroupsSay
 ShitPoliticsSays
+shitpostbound
 ShitpostBR
 ShitPostCrusaders
 shitposting
@@ -6779,6 +6784,7 @@ Twokinds
 TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
+TwoXADHD
 TwoXChromosomes
 TwoXIndia
 twrmod
