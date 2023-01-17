@@ -557,8 +557,10 @@ AustralianBirds
 AustralianCattleDog
 AustralianMilitary
 AustralianNostalgia
+australianplants
 AustralianPolitics
 AustralianShepherd
+AustralianTeachers
 Austria
 autism
 Autism_Parenting
@@ -1418,6 +1420,7 @@ Colorization
 ColorizedHistory
 Colts
 Columbina_Mains
+Columbine
 Columbus
 CombatFootage
 combinedgifs
@@ -3434,6 +3437,7 @@ isopods
 ispeakthelanguage
 ISR
 Israel
+israelexposed
 istanbul
 IsTodayFridayThe13th
 Italia
