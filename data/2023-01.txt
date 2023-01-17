@@ -1555,6 +1555,7 @@ CreepyArt
 creepyasterisks
 creepydesign
 creepyencounters
+creepygaming
 creepypasta
 creepyPMs
 CreepyWikipedia
@@ -1885,6 +1886,7 @@ DilucMains
 Dimension20
 DINgore
 Dinkum
+Dinosaure
 Dinosaurs
 diogenes_irl
 dioramas
