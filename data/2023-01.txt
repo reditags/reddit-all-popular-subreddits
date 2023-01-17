@@ -668,6 +668,7 @@ BarBattlestations
 Barcelona
 bardmains
 BariatricSurgery
+barkour
 Barotrauma
 Barry
 Barstoolboners2
@@ -2235,6 +2236,7 @@ EverythingFoxes
 EverythingScience
 evilbuildings
 EvilDead
+ExclusivelyPumping
 existentialcrisiscat
 Existentialism
 exjw
@@ -2931,6 +2933,7 @@ HaloLeaks
 HaloMemes
 HaloStory
 Hamilton
+hammer
 Hammers
 hamsters
 hanakokun
@@ -3086,6 +3089,7 @@ HomeKit
 homelab
 HomeNetworking
 HomeschoolRecovery
+HomestarRunner
 homestead
 Homesteading
 homestuck
@@ -4508,6 +4512,7 @@ nagatoro
 Nahida_Mains
 NailArt
 Nails
+NakedPastor
 NakeyJakey
 NameNerdCirclejerk
 namenerds
@@ -5189,6 +5194,7 @@ pokemon
 pokemonanime
 Pokemonart
 PokemonBDSP
+pokemoncardcollectors
 pokemoncards
 pokemongo
 PokemonGoFriends
@@ -7055,6 +7061,7 @@ wallpaperengine
 wallstreetbets
 WallStreetbetsELITE
 Wallstreetbetsnew
+wallstreetbetsOGs
 Wallstreetsilver
 walmart
 WalmartCelebrities
