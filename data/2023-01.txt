@@ -1060,6 +1060,7 @@ bundeswehr
 BungouStrayDogs
 Bunnies
 BunniesStandingUp
+bunnyshaming
 burdurland
 burgers
 burlington
@@ -3171,6 +3172,7 @@ HVAC
 HybridAnimals
 hyderabad
 HydroHomies
+Hydroponics
 hyouka
 hypixel
 HypixelSkyblock
@@ -3213,6 +3215,7 @@ IDontWorkHereLady
 IDOWORKHERELADY
 Idubbbz
 IfIFitsISits
+iggyazaleaonly
 ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
@@ -4267,6 +4270,7 @@ MexicoCity
 MexicoFinanciero
 Mexicowave
 mfdoom
+mgmt
 MHRise
 Miami
 miamidolphins
@@ -5025,6 +5029,7 @@ pathologic
 PathToNowhere
 PatMcAfeeShowOfficial
 Patriots
+Pauper
 paydaytheheist
 PaymoneyWubby
 PcBuild
