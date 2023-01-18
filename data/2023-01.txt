@@ -1600,6 +1600,7 @@ crowbro
 crows
 crtgaming
 CrucibleGuidebook
+Cruise
 Crunchyroll
 CrusadeMemes
 CrusaderKings
@@ -2378,6 +2379,7 @@ FifaCareers
 FiftyFifty
 FighterJets
 Fighters
+FightingFakeNews
 fightporn
 FightsGoneWildpt2
 FigureSkating
@@ -2556,6 +2558,7 @@ fridaythe13th
 friendlyjordies
 friends_tv_show
 Frieren
+fringe
 Frisson
 frogs
 Fromis
@@ -2601,6 +2604,7 @@ fujix
 fulbo
 fulhamfc
 FullmetalAlchemist
+fullmoviesonyoutube
 fullpops
 FullScorpion
 Fumofumo
@@ -2639,6 +2643,7 @@ g4tv
 G59
 gachagaming
 gadgets
+GakiNoTsukai
 galatasaray
 GalaxysEdge
 GalaxyWatch
@@ -3112,6 +3117,7 @@ HomeImprovement
 HomeKit
 homelab
 HomeNetworking
+HomePod
 HomeschoolRecovery
 HomestarRunner
 homestead
@@ -3271,6 +3277,7 @@ ImaginaryArmor
 ImaginaryAww
 ImaginaryAzeroth
 ImaginaryBattlefields
+ImaginaryBeasts
 ImaginaryBehemoths
 ImaginaryBestOf
 ImaginaryCastles
@@ -3685,6 +3692,7 @@ Kengan_Ashura
 KenM
 Kenshi
 Kentucky
+Kenya
 kep1er
 KeqingMains
 Kerala
@@ -3946,6 +3954,7 @@ LilyChee18
 lilycheeclub
 LilyCollins
 LilyJames
+limerence
 LiminalSpace
 lincoln
 lingling40hrs
@@ -4832,6 +4841,7 @@ oddlymesmerizing
 oddlysatisfying
 oddlyspecific
 oddlyterrifying
+oddlyweird
 OddSatisfying
 ofcoursethatsathing
 offbeat
@@ -5666,6 +5676,7 @@ rugbyunion
 runefactory
 runescape
 running
+RunningCirclejerk
 runningman
 RunningShoeGeeks
 runthejewels
