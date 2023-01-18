@@ -1812,6 +1812,7 @@ deftones
 degoogle
 Degrassi
 Dehyamains
+Deji
 Delaware
 delhi
 deliciouscompliance
@@ -6962,6 +6963,7 @@ unexpectedMontyPython
 UnexpectedMulaney
 unexpectedoffice
 unexpectedpawnee
+unexpectedsabaton
 unexpectedskyrim
 UnexpectedTF2
 UnexpectedThanos
@@ -7362,6 +7364,7 @@ woodworking
 woof_irl
 woooosh
 woosh
+WordAvalanches
 WordBearers
 wordington
 workaholics
