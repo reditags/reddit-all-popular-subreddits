@@ -701,6 +701,7 @@ battlefield2042
 battlefield_4
 battlefield_one
 BattlefieldV
+BattleForDreamIsland
 BattleJackets
 battlemaps
 BattleNetwork
@@ -3087,6 +3088,7 @@ hockeyjerseys
 hockeymemes
 hockeyplayers
 hoggit
+hognosesnakes
 hogrida
 hoi4
 HOI4memes
@@ -3354,6 +3356,7 @@ ImperialKnights
 ImpracticalArmour
 ImpracticalJokers
 IMSARacing
+imsorryeveryone
 imsorryjon
 ImSorryYagoo
 ImTheMainCharacter
@@ -3798,6 +3801,7 @@ kurzgesagt
 KusanaliMains
 KUWTKsnark
 l4d2
+Labour
 LabourUK
 labrador
 LaBrantFamSnark
@@ -5965,6 +5969,7 @@ shoujoai
 shouldercats
 ShovelKnight
 Showerthoughts
+Shrek
 Shrimping
 shrimptank
 shrinkflation
@@ -6368,6 +6373,7 @@ sweden
 swedishproblems
 SWGalaxyOfHeroes
 swift
+Swimming
 Switch
 Switzerland
 SWlegion
@@ -7297,6 +7303,7 @@ wildhearthstone
 wildhockey
 wildlifephotography
 wildrift
+WildWestPics
 willow
 willwood
 wimmelbilder
