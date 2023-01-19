@@ -2048,6 +2048,7 @@ DownvotedToOblivion
 DPH
 DR_YAKUZA
 DragaliaLost
+dragonball
 dragonballfighterz
 DragonballLegends
 Dragonballsuper
@@ -3926,6 +3927,7 @@ left_urbanism
 LeftistGamersUnion
 LeftTheBurnerOn
 LeftWingMaleAdvocates
+legaladvicecanada
 legaladviceofftopic
 LegalAdviceUK
 legalcatadvice
@@ -5994,6 +5996,7 @@ Shittyaskflying
 shittyaskscience
 shittybattlestations
 shittybloodborne
+ShittyDaystrom
 shittyeldenring
 shittyfoodporn
 Shittygamecollecting
@@ -6538,6 +6541,7 @@ TechNope
 techsupportgore
 techsupportmacgyver
 techwearclothing
+TeddyFresh
 TedLasso
 teefies
 teenagers
@@ -7208,6 +7212,7 @@ VuvuzelaIPhone
 VV11
 VWiD4Owners
 VyvanLe
+W2S
 WA_guns
 WackyTicTacs
 WAGuns
