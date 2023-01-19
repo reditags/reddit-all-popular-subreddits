@@ -1432,6 +1432,7 @@ Coldmirror
 ColdOnes
 ColleenBallingerSnark
 college
+collegebaseball
 CollegeBasketball
 ColleiMains
 collingwoodfc
@@ -1623,6 +1624,7 @@ CryptoMoonShots
 cryptostreetbets
 Cryptozoology
 crystalgrowing
+crystalpalace
 Crystals
 csakcsajok
 cscareerquestions
@@ -2838,6 +2840,7 @@ goldenretrievers
 GoldenSun
 goldrush
 golf
+Golf_R
 GolfGTI
 GoNets
 GoodAssSub
@@ -5414,6 +5417,7 @@ Psychedelics
 Psychic
 psychology
 psychologymemes
+psychologystudents
 Psychonaut
 PUBATTLEGROUNDS
 PublicFreakout
@@ -5816,6 +5820,7 @@ ScienceHumour
 sciencememes
 ScienceNcoolThings
 sciences
+ScienceUncensored
 scifi
 ScissorSeven
 SCJerk
@@ -6932,8 +6937,10 @@ UkraineWarRoom
 UkraineWarVideoReport
 UkrainianConflict
 uktrees
+ultimate
 Ultrakill
 Ultralight
+ultralight_jerk
 Ultraman
 Ultramarathon
 Ultramarines
