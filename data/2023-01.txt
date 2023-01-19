@@ -1386,6 +1386,7 @@ citypop
 CityPorn
 civ
 civ5
+civ_memes
 civic
 civilengineering
 CivVI
@@ -2392,6 +2393,7 @@ feminineboys
 Feminism
 fempark
 fender
+fennecfoxes
 fermentation
 Ferrari
 ferrets
@@ -3539,6 +3541,7 @@ ItaliaMeme
 ItalianGreyhounds
 ItaliaPersonalFinance
 italy
+ItalyPhotos
 Itasha
 ITCareerQuestions
 ITcrowd
