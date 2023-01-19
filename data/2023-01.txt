@@ -640,6 +640,7 @@ BadChoicesGoodStories
 badcode
 BadDesigns
 Badfaketexts
+badfriendspod
 badhistory
 badmathematics
 BadMensAnatomy
