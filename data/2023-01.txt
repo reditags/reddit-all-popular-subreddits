@@ -680,6 +680,7 @@ BarBattlestations
 Barcelona
 bardmains
 BariatricSurgery
+barista
 barkour
 Barotrauma
 Barry
@@ -916,6 +917,7 @@ bmbmbm
 BMW
 bmx
 boardgames
+boardgamescirclejerk
 bobdylan
 BobsBurgers
 BobsTavern
@@ -1295,6 +1297,7 @@ Chargers
 chargetheyphone
 charlixcx
 Charlotte
+CharlotteFootballClub
 CharlotteHornets
 Charlottesville
 Chaser
@@ -3870,6 +3873,7 @@ LandscapePhotography
 landscaping
 languagelearning
 languagelearningjerk
+LaRioja
 LARP
 LaserCleaningPorn
 lasercutting
@@ -6428,6 +6432,7 @@ suzerain
 svenskpolitik
 Sverige
 SVU
+swans
 SweatyPalms
 sweden
 swedishproblems
