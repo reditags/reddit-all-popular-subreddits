@@ -573,6 +573,7 @@ AustralianPolitics
 AustralianShepherd
 AustralianTeachers
 Austria
+austriahungary
 autism
 Autism_Parenting
 AutismInWomen
@@ -3501,6 +3502,7 @@ ironmouse
 ironscape
 IrrationalMadness
 IsabelaMerced
+Isekai
 IsekaiQuartet
 Ishowspeed
 IsItBullshit
