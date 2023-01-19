@@ -3761,6 +3761,7 @@ KingdomHearts
 KingkillerChronicle
 KingOfTheHill
 kings
+KiraKosarin
 Kirby
 Kitler
 Kitten
@@ -6560,6 +6561,7 @@ thanosdidnothingwrong
 That70sshow
 thatHappened
 ThatLookedExpensive
+ThatPeelingFeeling
 Thatsabooklight
 ThatsHowThingsWork
 ThatsInsane
