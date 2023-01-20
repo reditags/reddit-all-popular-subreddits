@@ -1247,6 +1247,7 @@ CatTeamBrotherhood
 CatWasHere
 cavaliers
 Cawwsplay
+CBGinfo
 CCW
 CDrama
 Cebu
@@ -2094,6 +2095,7 @@ Drueandgabe
 druggardening
 drugmemes
 Drugs
+drugstoreMUA
 Drukhari
 drumcorps
 drums
@@ -2151,6 +2153,7 @@ EbonyImagination
 ecologie
 Economics
 economy
+eczema
 Edelgard
 EdensZero
 Edgerunners
@@ -4902,6 +4905,7 @@ NYGiants
 NYguns
 nyjets
 NYKnicks
+NyviEstephan
 NYYankees
 O_PACOTE
 OaklandAthletics
@@ -7200,6 +7204,7 @@ vintage
 vintageads
 VintageApple
 vintageaudio
+vintagecgi
 vintagecomputing
 VintageFashion
 vintagejapaneseautos
