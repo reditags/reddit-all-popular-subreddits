@@ -285,6 +285,7 @@ AnalogCircleJerk
 AnalogCommunity
 AnaMains
 Anarchism
+AnarchismZ
 Anarcho_Capitalism
 Anarchy4Everyone
 AnarchyChess
@@ -2957,6 +2958,7 @@ GuardianTales
 GuerrillaGardening
 guessmyage
 guichon
+GuildWars
 Guildwars2
 GuiltyDogs
 Guiltygear
