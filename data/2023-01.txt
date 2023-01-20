@@ -447,6 +447,7 @@ ArgentinaBenderStyle
 ArianaGrande
 arielwinter
 AriFletcherV2
+ariheads
 Aritzia
 arizona
 arizonapolitics
@@ -6483,6 +6484,7 @@ sushi
 suspiciouslyspecific
 sustainability
 suzerain
+sveltejs
 svenskpolitik
 Sverige
 SVU
