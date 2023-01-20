@@ -189,6 +189,7 @@ aggies
 aggretsuko
 Agraelus
 AHatInTime
+AHomeForPlagueRats
 AhriMains
 aiArt
 AIDKE
@@ -5953,6 +5954,7 @@ SDSGrandCross
 Sea_otters
 seals
 Seaofthieves
+seashanties
 Seattle
 SeattleKraken
 SeattleWA
