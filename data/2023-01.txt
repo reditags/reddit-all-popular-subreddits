@@ -986,6 +986,7 @@ BorderCollie
 Borderlands
 Borderlands2
 borderlands3
+Borderporn
 boringdystopia
 borussiadortmund
 Boruto
@@ -1267,6 +1268,7 @@ CatTaps
 CatTeamBrotherhood
 CatWasHere
 cavaliers
+cavesofqud
 Cawwsplay
 CBGinfo
 CBSE
@@ -2060,6 +2062,7 @@ dontdeadopeninside
 dontflinch
 DontFundMe
 donthelpjustfilm
+DontPanic
 dontputyourdickinthat
 dontyouknowwhoiam
 DonutMedia
@@ -4103,6 +4106,7 @@ LMDShow
 lmGoingToHellForThis
 LNPCorruption
 loadingicon
+LOAM_LOVERS
 LobotomyCorp
 LockdownSkepticism
 lockpicking
@@ -6151,6 +6155,7 @@ Siamesecats
 SiberianCats
 Sidemen
 SideProject
+Sierra
 SiestaKeyMTV
 SigmaCinema
 Sigmarxism
@@ -6546,6 +6551,7 @@ sveltejs
 svenskpolitik
 Sverige
 SVU
+SwainMains
 swans
 SweatyPalms
 sweden
@@ -7413,6 +7419,7 @@ weaving
 web_design
 webcomics
 webdev
+Webkinz
 wec
 WECcirclejerk
 wedding
