@@ -1032,6 +1032,7 @@ brdev
 Breadit
 BreadStapledToTrees
 BreadTube
+BreakfastFood
 breakingbad
 breakingbadmemes
 BreakUps
@@ -2186,6 +2187,7 @@ economy
 eczema
 Edelgard
 EdensZero
+edgarwrightmemes
 Edgerunners
 EDH
 Edinburgh
@@ -2919,6 +2921,7 @@ GoodFakeTexts
 GoodGoodMemes
 goodmythicalmorning
 goodrestrictionfood
+goodyearwelt
 google
 googlehome
 googlemapsshenanigans
@@ -5739,6 +5742,7 @@ RepublicaArgentina
 Republican
 RepublicanValues
 repurposedbuildings
+repweidiansneakers
 rescuedogs
 ReservationDogs
 Residency
@@ -5897,6 +5901,7 @@ Samadhi_Zendejas
 samharris
 SamONellaAcademy
 samoyeds
+samsung
 samuraijack
 sanantonio
 SandersForPresident
@@ -7494,6 +7499,7 @@ whitepeoplegifs
 WhitePeopleTwitter
 WhiteRooms
 whitesox
+WhiteWolfRPG
 wholesome
 wholesome40k
 wholesomebpt
@@ -7682,6 +7688,7 @@ youdontmattergiveup
 youdontsurf
 YouFellForItFool
 YoujoSenki
+Youmo
 youngjustice
 youngpeoplereddit
 youngpeopleyoutube
