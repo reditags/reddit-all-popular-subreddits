@@ -2825,6 +2825,7 @@ GenZommunist
 geography
 geoguessr
 geology
+Geologymemes
 geometrydash
 GeometryIsNeat
 geopolitics
@@ -4622,6 +4623,7 @@ MorkBorg
 Morocco
 Morrowind
 MortalKombat
+Mortytown
 MoscowMurders
 Mosses
 MostBeautiful
