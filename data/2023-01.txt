@@ -922,6 +922,7 @@ blessedimages
 BlessYouInParticular
 Blink182
 BloodAngels
+Bloomer
 bloomington
 blop
 bloxfruits
@@ -1613,6 +1614,7 @@ coybig
 coys
 cozy
 CozyPlaces
+Cozyunderbudget
 CPA
 crabcats
 CrackheadCraigslist
@@ -2086,6 +2088,7 @@ DontFundMe
 donthelpjustfilm
 DontPanic
 dontputyourdickinthat
+DontSubscribeDumbAss
 dontyouknowwhoiam
 DonutMedia
 DonutOperator
@@ -2403,6 +2406,7 @@ falloutnewvegas
 falloutsettlements
 familyguy
 FamousLatinas
+fanart
 FancyFeet
 FanFiction
 FanFicWit
@@ -3071,6 +3075,7 @@ hailhortler
 HairDye
 hajimenoippo
 HalfLife
+HalfpintTicTocscammer
 halifax
 halloween
 Halloweenmovies
@@ -3415,6 +3420,7 @@ imaginarycosmere
 ImaginaryCybernetics
 ImaginaryCyberpunk
 ImaginaryDarkSouls
+ImaginaryDemons
 ImaginaryDragons
 ImaginaryDwarves
 ImaginaryDwellings
@@ -5269,6 +5275,7 @@ parasnailing
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
+parentsofmultiples
 paris
 ParkJihyo
 ParlerTrick
@@ -6266,6 +6273,7 @@ SixtySecondsInAfrica
 Sjokz
 Ska
 skamtebord
+skate3
 skaven
 sketches
 skiing
@@ -7680,6 +7688,7 @@ wortwitzkasse
 WoT
 WouldYouRather
 wow
+wowcirclejerk
 wowthanksimcured
 Wrangler
 Wrasslin
