@@ -5435,6 +5435,7 @@ PokemonBDSP
 pokemoncardcollectors
 pokemoncards
 pokemongo
+pokemongobrag
 PokemonGoFriends
 PokemonLegendsArceus
 PokemonMasters
