@@ -815,6 +815,7 @@ bestof
 bestoflegaladvice
 BestofRedditorUpdates
 bestoftheinternet
+BethesdaSoftworks
 bettafish
 betterCallSaul
 BetterEveryLoop
@@ -1551,6 +1552,7 @@ computers
 computerscience
 conan
 ConanBeingAwesome
+ConanExiles
 conceptart
 confession
 confessions
@@ -4910,6 +4912,7 @@ NFCWestMemeWar
 nffc
 nflcirclejerk
 nflmemes
+NFT
 nhl
 NHLHUT
 Ni_Bondha
@@ -6378,6 +6381,7 @@ soccercirclejerk
 socialanxiety
 socialism
 SocialismIsCapitalism
+SocialistEconomics
 SocialistRA
 socialistsmemes
 socialskills
@@ -7065,6 +7069,7 @@ TopMindsOfReddit
 toptalent
 toradora
 tornado
+torontobiking
 Torontobluejays
 TorontoDriving
 torontoraptors
