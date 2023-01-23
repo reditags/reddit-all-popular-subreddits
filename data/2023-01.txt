@@ -333,6 +333,7 @@ AnimalsBeingMoms
 AnimalsBeingSleepy
 AnimalsBeingStrange
 animalsdoingstuff
+animalslookingatfood
 AnimalsMonching
 AnimalsOnReddit
 Animalsthatlovemagic
@@ -3153,6 +3154,7 @@ haydenpanettiere
 HayleyAtwell
 hayleywilliams
 HazbinHotel
+hbomberguy
 heademptycats
 headpats
 headphones
@@ -3296,6 +3298,7 @@ hot_reporters
 HOTDGreens
 HotlineMiami
 HotNewswomen
+hotones
 HotPaper
 HotPeppers
 hotsauce
