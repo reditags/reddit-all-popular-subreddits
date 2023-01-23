@@ -1615,6 +1615,7 @@ cowboybebop
 cowboys
 cowcats
 coybig
+Coyotes
 coys
 cozy
 CozyPlaces
@@ -5771,6 +5772,7 @@ recipes
 reclaimedbynature
 recruitinghell
 RectalStickers
+Recursion
 red_velvet
 RedBullRacing
 reddeadfashion
