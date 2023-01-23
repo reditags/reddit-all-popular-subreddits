@@ -5542,6 +5542,7 @@ polymerclay
 Polytopia
 PolyYuri
 Pomeranians
+ponds
 poodles
 poolrooms
 PoorlyDrawnMW
@@ -5814,6 +5815,7 @@ RedHotChiliPeppers
 RedLetterMedia
 redneckengineering
 redpandas
+Reds
 RedshirtsUnite
 redsox
 redstone
