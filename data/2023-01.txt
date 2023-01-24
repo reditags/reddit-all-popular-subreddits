@@ -2357,6 +2357,7 @@ ethereum
 ethfinance
 ethoslab
 ethtrader
+EtikaRedditNetwork
 etymology
 eu4
 eu_nvr
@@ -2985,6 +2986,7 @@ goodboomerhumor
 GoodFakeTexts
 GoodGoodMemes
 goodmythicalmorning
+goodomens
 goodrestrictionfood
 goodyearwelt
 google
@@ -5359,6 +5361,7 @@ PaymoneyWubby
 PcBuild
 pcgaming
 pcmasterrace
+pcmods
 pcmusic
 PeacemakerShow
 PeakyBlinders
