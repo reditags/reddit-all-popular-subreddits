@@ -881,6 +881,7 @@ Birdsfacingforward
 BirdsForScale
 birdstakingthetrain
 birdswitharms
+birdwatching
 Birmingham
 birthcontrol
 birthofasub
@@ -1394,6 +1395,7 @@ ChildrenFallingOver
 chile
 China_irl
 chinchilla
+chinesefood
 ChineseLanguage
 Chinesium
 Chipotle
@@ -6390,6 +6392,7 @@ snails
 snakes
 SnakesWithHats
 SnapChad
+sneakermarket
 SneakyAnimals
 Snek
 Sneks
