@@ -163,6 +163,7 @@ AdvancedRunning
 ADVChina
 adventofcode
 adventurecats
+AdventuresOfGalder
 adventuretime
 Advice
 AdviceAnimals
@@ -4500,6 +4501,7 @@ MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
 Mechwarrior5
+MedicalCannabisAus
 MedicalGore
 MedievalCats
 MedievalDynasty
