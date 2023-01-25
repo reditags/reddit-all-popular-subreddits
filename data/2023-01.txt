@@ -2166,6 +2166,7 @@ dragonquest
 dragons
 DragonsDogma
 dragonutopia
+dragonvale
 dragrace
 DragRaceTea
 Dragula
@@ -2942,6 +2943,7 @@ GhostRecon
 Ghosts
 GhostsBBC
 gif
+gifextra
 GifRecipes
 gifs
 gifsthatendtoosoon
@@ -3333,6 +3335,7 @@ hoonigan
 hopeposting
 Horimiya
 horizon
+HorizonForbiddenWest
 Hornyjail
 horror
 Horror_stories
@@ -4131,6 +4134,7 @@ LeedsUnited
 leetcode
 left_urbanism
 LeftistGamersUnion
+leftistvexillology
 LeftTheBurnerOn
 LeftWingMaleAdvocates
 legaladvicecanada
@@ -5682,6 +5686,7 @@ pozilei
 ppnojutsu
 PragerUrine
 PraiseTheCameraMan
+predator
 Predators
 PredecessorGame
 PrehistoricMemes
