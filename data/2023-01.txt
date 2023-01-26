@@ -6607,6 +6607,7 @@ SpaceflightSimulator
 spacefrogs
 spacemarines
 spaceporn
+SpaceWolves
 spacex
 SpaceXLounge
 SpaceXMasterrace
@@ -7445,6 +7446,7 @@ UkraineWarRoom
 UkraineWarVideoReport
 UkrainianConflict
 uktrees
+Ulta
 ultimate
 Ultrakill
 Ultralight
@@ -7861,6 +7863,7 @@ wildrift
 WildWestPics
 willow
 willwood
+Wilmington
 wimmelbilder
 windows
 Windows10
