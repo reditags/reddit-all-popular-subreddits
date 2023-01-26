@@ -532,6 +532,7 @@ AskReddit
 askscience
 AskScienceFiction
 askSingapore
+askspain
 AskThe_Donald
 askTO
 asktransgender
@@ -3912,6 +3913,7 @@ kaleycuoco
 KalistaMains
 KamenRider
 KamikazeByWords
+kancolle
 KanojoOkarishimasu
 kansascity
 KansasCityChiefs
