@@ -5050,6 +5050,7 @@ NICUParents
 nier
 nietdespeld
 NightInTheWoods
+Nightshift
 nightvale
 NightVision
 Nightwing
@@ -6412,6 +6413,7 @@ Shotguns
 shoujo
 shoujoai
 shouldercats
+ShouldIbuythisgame
 ShovelKnight
 Showerthoughts
 Shrek
@@ -8039,6 +8041,7 @@ yuna
 YunjinMains
 yunyun
 YUROP
+yuruyuri
 yuumimains
 YuYuHakusho
 yvonnestrahovski
