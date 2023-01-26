@@ -236,6 +236,7 @@ AlexisRen
 AlfaRomeo
 algorand
 AlHaithamMains
+AlHaithamMainsE
 aliandjohnjamesagain
 AlicaSchmidt
 AliceInBorderlandLive
@@ -2514,6 +2515,7 @@ FatuiHQ
 Fauxmoi
 fcbayern
 FCInterMilan
+fcporto
 fearofflying
 fednews
 Fedora
@@ -6779,6 +6781,7 @@ submarines
 submechanophobia
 subnautica
 Subnautica_Below_Zero
+SUBREDDITNAME
 SubsIFellFor
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
