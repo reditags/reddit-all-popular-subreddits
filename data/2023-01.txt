@@ -1534,6 +1534,7 @@ coinmarketcaps
 coins
 Coldmirror
 ColdOnes
+Coldplay
 ColleenBallingerSnark
 college
 collegebaseball
@@ -2524,6 +2525,7 @@ fatherted
 fatsquirrelhate
 FatuiHQ
 Fauxmoi
+Favoritemovielines
 fcbayern
 FCInterMilan
 fcporto
@@ -5998,6 +6000,7 @@ RedHotChiliPeppers
 RedLetterMedia
 redneckengineering
 redpandas
+redrising
 Reds
 RedshirtsUnite
 RedsKilledTrillions
@@ -6676,6 +6679,7 @@ SpidermanPS4
 spiders
 Spielstopp
 Spiritfarer
+Spiritual_Talk
 spirituality
 Splatoon_3
 Splintercell
@@ -7599,6 +7603,7 @@ vagabond
 vagabondmanga
 vaguelythreatening
 valheim
+ValheimBuilds
 valkyrae
 VALORANT
 ValorantCompetitive
