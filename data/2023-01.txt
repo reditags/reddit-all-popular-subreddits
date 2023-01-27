@@ -2686,6 +2686,7 @@ foraging
 ForAllMankindTV
 forbiddenboops
 forbiddensnacks
+Ford
 FordBronco
 FordMaverickTruck
 fordranger
@@ -6624,6 +6625,7 @@ SolanaNFT
 solar
 solaropposites
 solarpunk
+SolarpunkRising
 SolidWorks
 Solo_Roleplaying
 sololeveling
