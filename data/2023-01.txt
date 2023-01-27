@@ -2589,6 +2589,7 @@ FinancialCareers
 Financialchargeback
 financialindependence
 Finanzen
+findapath
 findareddit
 findfashion
 FindTheSniper
@@ -4576,6 +4577,7 @@ MedicalCannabisAus
 MedicalGore
 MedievalCats
 MedievalDynasty
+MedievalHistory
 MedievalHistoryMemes
 Meditation
 medizzy
@@ -5489,6 +5491,7 @@ pcmusic
 PeacemakerShow
 PeakyBlinders
 peanutbutterisoneword
+peanuts
 PeanutWhiskers
 pearljam
 PecsAndPecBouncing
