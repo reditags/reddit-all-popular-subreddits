@@ -3002,6 +3002,7 @@ gis
 Giscardpunk
 Gittertiere
 givemeinteligens
+GivenAnime
 glasgow
 glassheads
 glee
@@ -3236,6 +3237,7 @@ haydenpanettiere
 HayleyAtwell
 hayleywilliams
 HazbinHotel
+HBOMAX
 hbomberguy
 heademptycats
 headpats
@@ -4969,6 +4971,7 @@ NationalPark
 NationalServiceSG
 NativeAmerican
 NativePlantGardening
+NATOWave
 nattyorjuice
 nature
 Natureisbrutal
