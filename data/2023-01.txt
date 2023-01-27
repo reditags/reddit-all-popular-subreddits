@@ -1170,6 +1170,7 @@ ByndoGehk
 ByzantineMemes
 C25K
 C_AT
+C_Programming
 CabinPorn
 cableporn
 cactus
@@ -1354,6 +1355,7 @@ CelsiusNetwork
 CelticFC
 CemeteryPorn
 CentralChurch
+centrist
 centuryhomes
 Ceramics
 cestunepieencule
@@ -2465,6 +2467,7 @@ F1Technical
 Fable
 FacebookScience
 facebookwins
+facehugs
 facepalm
 Faces
 factorio
@@ -4778,6 +4781,7 @@ MLS
 MMA
 mmababes
 mmamemes
+MMAT
 MMORPG
 MMTLP_
 MoaiGreddit
@@ -7001,6 +7005,7 @@ tea
 teachermemes
 Teachers
 teaching
+TeachingUK
 TeamfightTactics
 TeamFourStar
 TeamSESH
