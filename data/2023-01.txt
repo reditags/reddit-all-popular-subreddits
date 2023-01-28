@@ -336,6 +336,7 @@ AnimalPorn
 AnimalsBeingBros
 AnimalsBeingConfused
 AnimalsBeingDerps
+AnimalsBeingFunny
 AnimalsBeingGeniuses
 AnimalsBeingJerks
 AnimalsBeingLoveable
@@ -4598,6 +4599,7 @@ meatcrayon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
+mechmarket
 Mechwarrior5
 MedicalCannabisAus
 MedicalGore
@@ -5368,6 +5370,7 @@ OnionLovers
 onions
 OnlyFans
 OnlyMurdersHulu
+OnPatrolLive
 ontario
 ontheledgeandshit
 oompasubs
