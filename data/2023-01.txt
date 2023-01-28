@@ -479,6 +479,7 @@ arizona
 arizonapolitics
 ARK
 Arkansas
+arkisuomi
 arknights
 Arlecchino_Mains
 ArlecchinoMains
@@ -3356,6 +3357,7 @@ HollowKnightArt
 HollowKnightMemes
 holocure
 Hololive
+hololiveEN
 HololiveYuri
 Holostars
 HolUp
@@ -5132,6 +5134,7 @@ NintendoSwitchDeals
 NintendoSwitchSports
 Nioh
 Nirvana
+Nissan
 NJGuns
 njpw
 NLBest
