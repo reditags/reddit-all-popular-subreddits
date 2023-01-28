@@ -2705,6 +2705,7 @@ FordMaverickTruck
 fordranger
 foreverbox
 ForFashion
+Forgotten_Realms
 ForgottenBookmarks
 forgottenfilm
 ForgottenWeapons
@@ -4433,6 +4434,7 @@ Luthier
 LV426
 LWIAY
 LycorisRecoil
+Lyon
 Lysithea
 MAAU
 mac
@@ -4518,6 +4520,7 @@ mangacoloring
 mangadex
 mangafr
 manganews
+Manhua
 manhwa
 ManifestNBC
 MannausSachsen
@@ -5822,6 +5825,7 @@ PrimitiveTechnology
 PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
+printingtiddy
 Prisonwallet
 privacy
 PrivacyGuides
@@ -6438,6 +6442,7 @@ ShingekiNoKyojin
 Shining_Nikki
 ShinyPokemon
 Shinypreciousgems
+Shipwrecks
 shitcoinmoonshots
 ShitCosmoSays
 ShitCrusaderKingsSay
@@ -7356,6 +7361,7 @@ tornado
 torontobiking
 Torontobluejays
 TorontoDriving
+Torontology
 torontoraptors
 TorontoRealEstate
 torties
