@@ -4644,6 +4644,7 @@ meatcrayon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
+mechanics
 mechmarket
 Mechwarrior5
 MedicalCannabisAus
@@ -5140,6 +5141,7 @@ NFT
 nhl
 NHLHUT
 Ni_Bondha
+Nicedress
 Nicegirls
 niceguys
 Nichijou
@@ -5703,6 +5705,7 @@ PinoyProgrammer
 Piracy
 PiratedGames
 Piratefolk
+PirateHole
 PirateKitties
 PiratePets
 piratesofthecaribbean
