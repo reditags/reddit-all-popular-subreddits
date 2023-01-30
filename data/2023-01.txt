@@ -253,6 +253,7 @@ AliveNamedCats
 AlNassr
 alpaca
 alphalegion
+altcoinforum
 AltcoinTrader
 AlternateAngles
 AlternateHistory
@@ -1700,6 +1701,7 @@ cozy
 CozyPlaces
 Cozyunderbudget
 CPA
+cpp
 crabcats
 CrackheadCraigslist
 CrackWatch
@@ -4855,6 +4857,7 @@ misfits
 MisleadingPuddles
 misleadingthumbnails
 misLED
+MisreadSprites
 missbo
 missbricosplay
 Missing411
@@ -7030,6 +7033,7 @@ SuperModelIndia
 Supernatural
 supersentai
 supersmashbros
+superstarsmtown
 Superstonk
 superstore
 SuperStructures
