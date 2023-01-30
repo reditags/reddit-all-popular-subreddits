@@ -3203,6 +3203,7 @@ GuardianTales
 GuerrillaGardening
 guessmyage
 guichon
+GuildValkyrie
 GuildWars
 Guildwars2
 GuiltyDogs
@@ -8183,6 +8184,7 @@ writers
 writing
 writingcirclejerk
 WritingPrompts
+writteninblood
 WRX
 wrx_vb
 WRXSTi
