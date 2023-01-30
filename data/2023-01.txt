@@ -699,6 +699,7 @@ badmathematics
 BadMensAnatomy
 badMovies
 BadMUAs
+BadReads
 badtaxidermy
 badUIbattles
 badwomensanatomy
@@ -2477,7 +2478,9 @@ evilautism
 evilbuildings
 EvilDead
 EvilDeadTheGame
+excatholic
 ExclusivelyPumping
+Exercise
 existentialcrisiscat
 Existentialism
 exjw
@@ -3291,6 +3294,7 @@ hauntedchocolatier
 HauntedMound
 HauntingOfHillHouse
 Hawaii
+hawks
 HayDay
 haydenpanettiere
 HayleyAtwell
@@ -3918,6 +3922,7 @@ JenniferLopez
 jenniferlovehewitt
 Jeopardy
 jerma985
+jerseycity
 jerseyshore
 jessicaalba
 JessicaHenwick
@@ -4539,6 +4544,7 @@ majonotabitabi
 MakeMeSuffer
 MakeMeSufferMore
 MakeNewFriendsHere
+Makeup
 MakeupAddiction
 MakeupLounge
 makeuporganization
@@ -4603,6 +4609,7 @@ MarioKartTour
 Market76
 marketing
 Markiplier
+Maromba
 Marriage
 martialarts
 MartialMemes
@@ -6054,6 +6061,7 @@ rant
 rap
 RapFars
 Raphtalia
+Rardit
 RareHouseplants
 rareinsults
 rarepuppers
