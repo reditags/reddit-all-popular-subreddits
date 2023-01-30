@@ -2323,6 +2323,7 @@ Edmonton
 edmproduction
 educationalgifs
 Eesti
+eezygang
 eFootball
 egg_irl
 EggsInc
@@ -2358,6 +2359,7 @@ ElvenGirls
 Elvis
 Elysia
 emacs
+embedded
 Embroidery
 emergencymedicine
 EmiliaClarke
@@ -4976,6 +4978,7 @@ MultiVersusTheGame
 mumbai
 Munich
 Muppets
+MurdaughFamilyMurders
 MurderBuns
 MurderDrones
 MurderedByAOC
