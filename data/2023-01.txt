@@ -930,6 +930,7 @@ Bitwarden
 bizarrebuildings
 bizarrelife
 bjork
+blackbookgraffiti
 blackcats
 Blackcelebrity
 BlackClover
@@ -2399,6 +2400,7 @@ EnculerLesVoitures
 ender3
 EndlessSpace
 Endo
+endometriosis
 energy
 energydrinks
 ENFP
@@ -5178,6 +5180,7 @@ NewVegasMemes
 newworldgame
 newyork
 newyorkcity
+NewYorkIslanders
 NewYorkMets
 newzealand
 NewZealandWildlife
@@ -6122,6 +6125,7 @@ recap
 recipes
 reckful
 reclaimedbynature
+Recordsoftherepublic
 RecRoom
 recruitinghell
 RectalStickers
@@ -6245,6 +6249,7 @@ ROBLOXmemes
 robotics
 Rochester
 rock
+Rockband
 rocketbeans
 RocketLeague
 RocketLeagueEsports
@@ -6748,6 +6753,7 @@ snowleopards
 snowpiercer
 snowrunner
 SNSD
+Sober
 socalhiking
 soccercirclejerk
 socialanxiety
