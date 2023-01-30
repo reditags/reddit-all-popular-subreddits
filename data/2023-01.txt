@@ -2246,6 +2246,7 @@ Drifting
 dril
 DrillCats
 Drizzy
+DronedOrc
 drones
 DrStone
 DRSyourGME
@@ -4018,6 +4019,7 @@ karen
 KarenFukuhara
 karengillan
 karens
+karlsruhe
 KarmaRoulette
 KatanaZero
 KatDennings
@@ -7804,6 +7806,7 @@ victoria2
 victoria3
 VictoriaBC
 victoriajustice
+VictorianEra
 victorinox
 videogamedunkey
 videogames
