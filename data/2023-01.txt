@@ -3093,6 +3093,7 @@ gme_meltdown
 GMECanada
 GMEJungle
 gmod
+GNV
 Goatparkour
 goats
 GoatsOnTopOfHorses
@@ -4539,6 +4540,7 @@ madnesscombat
 MadokaMagica
 Madrid
 Mafia
+MafiaTheGame
 MagicArena
 magicbuilding
 MagicEye
@@ -4844,6 +4846,7 @@ MinecraftMemes
 minecraftseeds
 minecraftsuggestions
 MineIslam
+MineralGore
 MineralPorn
 miniatures
 Minilego
@@ -6546,6 +6549,7 @@ SheraMemes
 sheranetflix
 Sherlock
 ShermanPosting
+SHFiguarts
 shib_token
 shiba
 Shibainucoin
@@ -7619,6 +7623,7 @@ turtle
 turtleswithjobs
 TuxedoCats
 TVDetails
+tvPlus
 TVTooHigh
 Tweetbot
 twentyonepilots
@@ -8057,6 +8062,7 @@ whatsthisrock
 whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
+wheelchairrepunzel
 wheeloftime
 whenthe
 whenwomenrefuse
