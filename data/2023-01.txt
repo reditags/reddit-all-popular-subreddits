@@ -2678,6 +2678,7 @@ FirstTimeHomeBuyer
 firstworldanarchists
 firstworldproblems
 Fischl
+Fishing_Gear
 Fishingmemes
 Fit_babes
 FitAndNatural
@@ -5892,6 +5893,7 @@ ponds
 poodles
 poolrooms
 PoorlyDrawnMW
+pop_os
 PopArtNouveau
 popculturechat
 popheadscirclejerk
@@ -6190,6 +6192,7 @@ redstone
 RedvsBlue
 ReefTank
 ReevesBatmanmemes
+Reformed
 regina
 regretfulparents
 regularcarreviews
@@ -7983,6 +7986,7 @@ WANDAVISION
 wankil
 war
 WarAndPeas
+warcraft3
 WarCry
 Warframe
 WarframeRunway
