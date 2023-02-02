@@ -79,6 +79,7 @@ acecombat
 AchillesAndHisPal
 ACMilan
 acnh
+acotar
 ActionFigures
 ActivationSound
 ActLikeYouBelong
@@ -249,6 +250,7 @@ AppleMusic
 AppleWatch
 ApplyingToCollege
 APStudents
+AquaJail
 aquarium
 Aquariums
 AquaSama
@@ -380,6 +382,7 @@ AyakaMains
 Ayato_Mains
 AyyMD
 AZCardinals
+babushkadogs
 Babushkats
 babybigcatgifs
 BabyBumps
@@ -391,6 +394,7 @@ BabyYoda
 Back4Blood
 Backcountry
 backrooms
+BacktotheFuture
 BackYardChickens
 Bad_Cop_No_Donut
 BadChoicesGoodStories
@@ -627,6 +631,7 @@ brasil
 BrasildoB
 brasilivre
 Bratz
+Braves
 BravoRealHousewives
 Brawlhalla
 Brawlstars
@@ -691,6 +696,7 @@ CalamariRaceTeam
 CalamityMod
 Calgary
 CalgaryFlames
+CaliBanging
 CalicoKittys
 California
 Calligraphy
@@ -1000,6 +1006,7 @@ creepydesign
 creepyencounters
 creepyPMs
 cremposting
+CrestedGecko
 Cricket
 CricketShitpost
 CrimeScene
@@ -1056,6 +1063,7 @@ Cyberpunk
 cyberpunkgame
 cybersecurity
 cybertruck
+cycling
 CynoMains
 czech
 czechmemes
@@ -1229,6 +1237,7 @@ DiWHYNOT
 DIY
 DMAcademy
 DMDadJokes
+DMT
 DMZ
 DnD
 DnDart
@@ -1297,6 +1306,7 @@ Drueandgabe
 drugmemes
 Drugs
 Drukhari
+drumcorps
 drums
 drunk
 dryalcoholics
@@ -1395,6 +1405,7 @@ Entomology
 Entrepreneur
 entwives
 EpicClusterfuck
+EpicGamesPC
 EpicSeven
 equelMemes
 equestriaatwar
@@ -1414,6 +1425,7 @@ euphoria
 EUR_irl
 europe
 eurovision
+EvaCudmore
 evangelion
 evangelionmemes
 Eve
@@ -1587,6 +1599,7 @@ forza
 ForzaHorizon
 fossilid
 FoundPaper
+FoundryVTT
 foundsatan
 FoundTheInaAlt
 fountainpens
@@ -1926,6 +1939,7 @@ HighHeels
 HighQualityGifs
 HighStrangeness
 HilariaBaldwin
+HildaTheSeries
 HIMYM
 hinduism
 history
@@ -1998,6 +2012,7 @@ howardstern
 howto
 howtonotgiveafuck
 howyoudoin
+HPHogwartsMystery
 HUEstation
 HumanForScale
 Humanoidencounters
@@ -2021,6 +2036,7 @@ HydroHomies
 hyouka
 HypixelSkyblock
 IAmA
+Iamactuallyverybadass
 iamatotalpieceofshit
 IAmTheMainCharacter
 iamverybadass
@@ -2474,6 +2490,7 @@ linux_gaming
 linuxmasterrace
 linuxmemes
 listentothis
+literaciafinanceira
 lithuania
 LitterboxComics
 LittleNightmares
@@ -2672,12 +2689,14 @@ Memes_Of_The_Dank
 memesdecentralises
 memesITA
 MemeSmiet
+memesopdidnotlike
 MemeVideos
 memexico
 memphis
 memphisgrizzlies
 MenAndFemales
 MenLovingMenMedia
+Menopause
 MensLib
 Mensmittenwithkittens
 MensRights
@@ -2885,9 +2904,11 @@ namethatcar
 NamFlashbacks
 NanashiMumei
 Naruto
+narutomemes
 nasa
 NASCAR
 nashville
+NataliaDyer
 NatalieDormer
 natalieportman
 nathanforyou
@@ -2926,6 +2947,7 @@ nervysquervies
 netflix
 NetflixBestOf
 Netherlands
+NettHier
 networkingmemes
 Neverbrokeabone
 NeverPauseAvatar
@@ -2964,6 +2986,7 @@ NicolaCavanis
 nier
 nietdespeld
 NightInTheWoods
+nightvale
 nihilism
 Nijisanji
 NikkeMobile
@@ -3093,6 +3116,7 @@ okbuddyreze
 okbuddyrintard
 okbuddyvowsh
 okdraugedebile
+okemakkermaloot
 okkamaraderetarde
 okkolegauposledzony
 oklahoma
@@ -3246,6 +3270,7 @@ Perfectfit
 perfectloops
 PerfectlyCutBonks
 PerfectlyCutBooms
+perfectlycutfucks
 perfectlycutscreams
 PerfectTiming
 Permaculture
@@ -3579,6 +3604,7 @@ RingFitAdventure
 ripcity
 risa
 riskofrain
+Roadcam
 roadtrip
 RoastMe
 robbersgettingfucked2
@@ -3765,6 +3791,7 @@ Shitty_Car_Mods
 Shittyaskflying
 shittyaskscience
 shittybattlestations
+shittybloodborne
 shittyfoodporn
 shittygamedetails
 shittyhalolore
@@ -4062,6 +4089,7 @@ SydneySweeney
 SympatheticMonsters
 synthesizers
 sysadmin
+systemofadown
 tacobell
 Tacoma
 tacticalgear
@@ -4289,11 +4317,13 @@ Torontobluejays
 torontoraptors
 torties
 tortoise
+Totaldrama
 totallynotrobots
 totalwar
 TouchThaFishy
 touhou
 TowerofFantasy
+TowerofGod
 Toyota
 ToyotaTacoma
 TraceAnObject
