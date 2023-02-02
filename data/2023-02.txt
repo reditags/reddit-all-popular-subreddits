@@ -159,6 +159,7 @@ Anarchism
 Anarcho_Capitalism
 Anarchy4Everyone
 AnarchyChess
+Anbennar
 Ancient_History_Memes
 ancientegypt
 ancientrome
@@ -539,6 +540,7 @@ BokuNoMetaAcademia
 Bolehland
 bollyarm
 BollyBlindsNGossip
+bollywood
 bollywoodmemes
 BollywoodRealism
 BollywoodUHQonly
@@ -703,6 +705,7 @@ cats
 CatsAreAssholes
 catsarefuckingstupid
 catsareliquid
+CatsAreMuslim
 CatsBeingCats
 CatsCalledFood
 catscarryingstuffies
@@ -875,6 +878,7 @@ conservatives
 Consoom
 conspiracy
 conspiracy_commons
+conspiracytheories
 Construction
 consulting
 ContagiousLaughter
@@ -1026,6 +1030,7 @@ datascience
 datealive
 dating
 dating_advice
+dayz
 dbz
 DBZDokkanBattle
 DC_Cinematic
@@ -1096,6 +1101,7 @@ DeTrashed
 Detroit
 DetroitBecomeHuman
 detroitlions
+Deusex
 deutschememes
 developersIndia
 DevilMayCry
@@ -1189,6 +1195,7 @@ DreamlightValley
 DrewDurnil
 Drifting
 Drizzy
+DrStone
 Drueandgabe
 drugmemes
 Drugs
@@ -1932,9 +1939,11 @@ IncreasinglyVerbose
 india
 IndiaCricket
 indiadiscussion
+IndiaInvestments
 indiameme
 Indiana
 indianapolis
+indianbikes
 IndianBoysOnTinder
 IndianCountry
 IndianDankMemes
@@ -1944,6 +1953,7 @@ IndianFootball
 IndianGaming
 Indiangirlsontinder
 IndianHipHopHeads
+IndianMemeTemplates
 IndianMeyMeys
 IndiaNostalgia
 IndianSkincareAddicts
@@ -2116,6 +2126,7 @@ ketorecipes
 kfeets
 KGATLW
 KGBTR
+khajiithaswares
 KidsAreFuckingStupid
 KiernanShipka
 killedthecameraman
@@ -2378,6 +2389,7 @@ marijuanaenthusiasts
 Mariners
 Mario
 mariokart
+MarioKartTour
 Markiplier
 martialarts
 MartialMemes
@@ -2560,6 +2572,7 @@ Monterrey
 MoonKnight
 Moonmoon
 MorbidWaysToDie
+Morbius
 Mordhau
 moreplatesmoredates
 MoreSexyASMRGirls
@@ -3286,6 +3299,7 @@ RoleReversal
 rolex
 rollercoasters
 rolltide
+RomanceClub
 Romania
 romemes
 RoomPorn
@@ -3372,6 +3386,7 @@ ScottishPeopleTwitter
 scottthewoz
 SCP
 SCPSecretLab
+ScrapMechanic
 Screenwriting
 Scrubs
 scrungycats
@@ -3488,6 +3503,7 @@ Sims3
 Simulated
 singapore
 singularity
+Sino
 SipsTea
 sistersofbattle
 SisterWives
@@ -3529,6 +3545,7 @@ SnapChad
 Sneks
 snowboarding
 snowrunner
+SNSD
 soccercirclejerk
 socialism
 SocialismIsCapitalism
@@ -3555,6 +3572,7 @@ SpaceCannibalism
 spaceengineers
 spacefrogs
 spaceporn
+spacex
 SpaceXMasterrace
 spain
 Spanish
@@ -3689,6 +3707,8 @@ SuperModelIndia
 Supernatural
 supersentai
 Superstonk
+SuperStructures
+supportlol
 surrealmemes
 SurreyBC
 Survival
@@ -3816,6 +3836,7 @@ thecatdimension
 TheCatTrapIsWorking
 thechallengemtv
 TheCivilService
+TheCloneWars
 TheCrownNetflix
 TheCuddlePuddle
 TheDeprogram
@@ -3892,6 +3913,7 @@ timberwolves
 TimPool
 Tinder
 tinyanimalsonfingers
+TinyHouses
 tinyorangekittens
 TinyUnits
 tippytaps
@@ -4006,6 +4028,7 @@ TwoXChromosomes
 TwoXIndia
 tylerthecreator
 Tyranids
+UBC
 UberEATS
 UCalgary
 UCI
@@ -4076,6 +4099,7 @@ valkyrae
 VALORANT
 ValorantCompetitive
 ValorantMemes
+valve
 vancouver
 vandwellers
 VanLife
@@ -4319,6 +4343,7 @@ YMS
 yo_ctm
 YofukashiNoUta
 yoga
+Yoimiya_Mains
 Yorkies
 yorku
 Yosemite
