@@ -101,6 +101,7 @@ agedtattoos
 ageofsigmar
 aggies
 Agraelus
+AHatInTime
 AHomeForPlagueRats
 AhriMains
 AIDKE
@@ -276,6 +277,7 @@ AskOuija
 AskReddit
 askscience
 AskScienceFiction
+AskSF
 askSingapore
 AskThe_Donald
 askTO
@@ -350,6 +352,7 @@ Babushkats
 babybigcatgifs
 BabyBumps
 BabyCorgis
+babyelephantgifs
 babygoats
 babylon5
 BabyYoda
@@ -872,6 +875,7 @@ Construction
 consulting
 ContagiousLaughter
 ContestOfChampions
+ContraPoints
 controlgame
 ConvenientCop
 cookiedecorating
@@ -1025,6 +1029,7 @@ dccomicscirclejerk
 DCEUleaks
 DDLC
 de
+de_EDV
 deadbydaylight
 deadcells
 deadmalls
@@ -1293,6 +1298,7 @@ evangelion
 evangelionmemes
 Eve
 Everton
+EverythingFoxes
 EverythingScience
 evilbuildings
 EvilDead
@@ -1724,6 +1730,7 @@ HarryPotterGame
 Hasan_Piker
 hatsune
 Hawaii
+HayleyAtwell
 HazbinHotel
 headpats
 Health
@@ -1771,6 +1778,7 @@ hockeyjerseys
 hockeymemes
 hoggit
 hoi4
+HOI4memes
 holdmycosmo
 holdmyfries
 holdmyredbull
@@ -1805,6 +1813,7 @@ horizon
 Hornyjail
 horror
 Horses
+HostileArchitecture
 hot_reporters
 HotPaper
 HottestFemaleAthletes
@@ -1863,6 +1872,7 @@ IllegallySmol
 IllegallySmolCats
 IllegallySmolDogs
 illinois
+illnessfakers
 illusionporn
 Illustration
 im14andthisisdeep
@@ -1899,7 +1909,9 @@ ImaginaryWitches
 ImaginaryWorldEaters
 ImFinnaGoToHell
 ImmutableX
+Imperator
 ImpracticalArmour
+ImpracticalJokers
 IMSARacing
 imsorryjon
 ImTheMainCharacter
@@ -1912,6 +1924,7 @@ indiadiscussion
 indiameme
 Indiana
 indianapolis
+IndianBoysOnTinder
 IndianCountry
 IndianDankMemes
 IndianDefense
@@ -2208,10 +2221,12 @@ Liberal
 liberalgunowners
 liberta
 Libertarian
+librandu
 libsofreddit
 lies
 lifehacks
 lifeisstrange
+LifeofBoris
 LifeProTips
 LigaMX
 lightsabers
@@ -2742,6 +2757,8 @@ nova
 nowmycat
 noworking
 NPPfunny
+nrl
+NuclearRevenge
 NUFC
 nukedmemes
 nursing
@@ -3194,6 +3211,7 @@ reddeadredemption2
 reddevils
 reddit
 RedditLaqueristas
+RedditTopUpvotes
 RedheadedGoddesses
 RedLetterMedia
 redneckengineering
@@ -3246,6 +3264,7 @@ rockhounds
 rodentintercourse
 RoleReversal
 rolex
+rollercoasters
 rolltide
 Romania
 romemes
@@ -3461,6 +3480,7 @@ Skookum
 skrillex
 Skullgirls
 SkweezyJibbs
+SkyChildrenOfLight
 SkyGame
 SkyPorn
 skyrim
@@ -3539,6 +3559,7 @@ Spore
 sports
 sportsarefun
 spotted
+spqrposting
 spreadytoes
 springerspaniel
 Spunchbob
@@ -3628,6 +3649,7 @@ submechanophobia
 subnautica
 SubSimulatorGPT2
 SubsTakenLiterally
+Suburbanhell
 SubwayCreatures
 SuccessionTV
 suddenlybi
@@ -3713,6 +3735,7 @@ technicallythetruth
 Technoblade
 technology
 techsupportgore
+techsupportmacgyver
 TedLasso
 teefies
 teenagers
@@ -3752,6 +3775,7 @@ That70sshow
 That90sShowTV
 thatHappened
 ThatLookedExpensive
+ThatPeelingFeeling
 ThatsInsane
 The10thDentist
 the1975
@@ -3826,6 +3850,7 @@ theyknew
 ThingsCutInHalfPorn
 thingsforants
 thinkpad
+ThirdSentenceHappy
 Thisismylifemeow
 thisismylifenow
 ThisLooksFun
@@ -3957,6 +3982,7 @@ TwistedWonderland
 twitchasians
 TwoSentenceHorror
 TwoXChromosomes
+TwoXIndia
 tylerthecreator
 Tyranids
 UberEATS
