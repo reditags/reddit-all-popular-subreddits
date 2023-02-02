@@ -36,6 +36,7 @@
 5ToubunNoHanayome
 676
 691
+6thForm
 7daystodie
 80s
 80sdesign
@@ -159,6 +160,7 @@ Anarcho_Capitalism
 Anarchy4Everyone
 AnarchyChess
 Ancient_History_Memes
+ancientegypt
 ancientrome
 andor
 Androgynoushotties
@@ -180,6 +182,7 @@ AnimalTextGifs
 animation
 anime_irl
 anime_titties
+animearmor
 AnimeART
 animecirclejerk
 animecuddling
@@ -553,6 +556,7 @@ BorderCollie
 Borderlands2
 borderlands3
 boringdystopia
+Boruto
 Bossfight
 boston
 BostonBruins
@@ -958,6 +962,7 @@ cursedcomments
 CursedGuns
 cursedmemes
 CursedMinecraft
+CursedTanks
 cursedvideos
 customhearthstone
 custommagic
@@ -1281,6 +1286,7 @@ EpicSeven
 equelMemes
 equestriaatwar
 Eragon
+ErgoMechKeyboards
 EscapefromTarkov
 esist
 EskiMemes
@@ -1395,6 +1401,7 @@ FireEmblemHeroes
 FireEmblemThreeHouses
 Firefighting
 firefly
+FirePunch
 FIREUK
 firstimpression
 FirstTimeHomeBuyer
@@ -1540,6 +1547,7 @@ GamingDetails
 GamingLaptops
 GamingLeaksAndRumours
 Ganyu
+GardeningUK
 garfieldminusgarfield
 GarlicBreadMemes
 Garmin
@@ -1735,6 +1743,7 @@ HazbinHotel
 headpats
 Health
 hearthstone
+hearthstonecirclejerk
 heat
 HeavySeas
 Hedgehog
@@ -1777,6 +1786,7 @@ hockey
 hockeyjerseys
 hockeymemes
 hoggit
+hogrida
 hoi4
 HOI4memes
 holdmycosmo
@@ -1847,6 +1857,7 @@ HuTao_Mains
 HVAC
 HydroHomies
 hyouka
+HypixelSkyblock
 IAmA
 iamatotalpieceofshit
 IAmTheMainCharacter
@@ -2003,6 +2014,7 @@ itookapicture
 ItsukiClassroom
 IttoMains
 ITZY
+IVE
 iwanttoapologize
 iwoulddiefornoodle
 Izlam
@@ -2010,8 +2022,10 @@ jackass
 jackrussellterrier
 jacksonville
 Jaguars
+Jaharia
 jakertown
 JamesBond
+jameswebb
 January6
 japan
 JapaneseFood
@@ -2110,6 +2124,7 @@ killteam
 killthecameraman
 Killtony
 KimetsuNoYaiba
+KimiNoNaWa
 kingdomcome
 KingdomHearts
 KingkillerChronicle
@@ -2151,6 +2166,7 @@ ksi
 KSPMemes
 KuboSanWontLeaveMeBe
 kurzgesagt
+KusanaliMains
 KUWTKsnark
 LabourUK
 labrador
@@ -2298,6 +2314,7 @@ LSD
 LTB_iel
 luciomains
 LudwigAhgren
+luigi_irl
 lululemon
 LumineMains
 Lumity
@@ -2513,6 +2530,7 @@ Mizkif
 MkeBucks
 mlb
 MLBTheShow
+mlem
 MLS
 MMA
 mmababes
@@ -3015,6 +3033,7 @@ PixelArt
 Pizza
 PizzaCrimes
 Planetside
+PlanetZoo
 PlantBasedDiet
 plantclinic
 PlantedTank
@@ -3062,6 +3081,7 @@ polls
 Polska
 Polska_wpz
 polymerclay
+Polytopia
 PolyYuri
 Pomeranians
 popculturechat
@@ -3293,6 +3313,7 @@ RWBY
 ryujin
 Ryumimi
 sabaton
+SabatonMemes
 Saber
 Sacramento
 sadboys
@@ -4026,6 +4047,7 @@ Unity3D
 unixporn
 unket
 unlikelyfriends
+UnnecessaryInventions
 unpopularopinion
 unrealengine
 UnresolvedMysteries
@@ -4140,6 +4162,7 @@ warthundermemes
 Warzone
 wasletztepreis
 WatchandLearn
+WatchDogsWoofInside
 Watches
 Watchexchange
 WatchPeopleDieInside
@@ -4207,6 +4230,7 @@ WhyWomenLiveLonger
 Wicca
 wien
 WiggleButts
+wiiu
 wikipedia
 WildernessBackpacking
 WildHeartsGame
@@ -4291,6 +4315,7 @@ yeat_
 Yeji
 YelanMains
 yesyesyesyesno
+YMS
 yo_ctm
 YofukashiNoUta
 yoga
