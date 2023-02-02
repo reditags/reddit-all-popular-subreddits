@@ -308,6 +308,7 @@ Audi
 Augenbleiche
 Aurelion_Sol_mains
 AusFinance
+auslaw
 AusMemes
 australia
 AustralianBirds
@@ -533,6 +534,7 @@ Bolehland
 bollyarm
 BollyBlindsNGossip
 bollywoodmemes
+BollywoodRealism
 BollywoodUHQonly
 Bombing
 Bondedpairs
@@ -598,8 +600,10 @@ Brogress
 brooklynninenine
 Browns
 brushybrushy
+BryceDallasHoward
 btd6
 bts7
+Buddhism
 budgetfood
 budgies
 BUENZLI
@@ -874,6 +878,7 @@ cookiedecorating
 CookieRunKingdoms
 Cooking
 cookingforbeginners
+CoolGadgetsTube
 coolguides
 copypasta
 cordcutters
@@ -1253,6 +1258,7 @@ EngineeringPorn
 EngineeringStudents
 engrish
 ENLIGHTENEDCENTRISM
+enlistedgame
 EnoughCommieSpam
 EnoughMuskSpam
 enoughpetersonspam
@@ -1529,6 +1535,7 @@ GamingLaptops
 GamingLeaksAndRumours
 Ganyu
 garfieldminusgarfield
+GarlicBreadMemes
 Garmin
 gatekeeping
 GatekeepingYuri
@@ -1610,6 +1617,7 @@ GoldandBlack
 Goldendoodles
 goldenretrievers
 golf
+GolfGTI
 GoNets
 GoodAssSub
 goodboomerhumor
@@ -2222,6 +2230,7 @@ linux_gaming
 linuxmasterrace
 linuxmemes
 listentothis
+lithuania
 LitterboxComics
 LittleNuns
 LittleWitchAcademia
@@ -2622,6 +2631,7 @@ NelliesNest
 neopets
 Nepal
 nerdfighters
+Nerf
 nervysquervies
 netflix
 NetflixBestOf
@@ -2799,6 +2809,7 @@ OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
 oliviadunne
+OliviaMunn
 OliviaRodrigoNSFW
 Omaha
 OMORI
@@ -3251,6 +3262,7 @@ rpg_gamers
 rpghorrorstories
 rsloshredit
 RTGameCrowd
+RTLSDR
 rugbyunion
 runescape
 rupaulsdragrace
@@ -3472,6 +3484,7 @@ smoobypost
 SmugIdeologyMan
 snakes
 SnakesWithHats
+SnapChad
 Sneks
 snowboarding
 snowrunner
@@ -3582,6 +3595,7 @@ StLouis
 stlouisblues
 StockMarket
 stocks
+Stoicism
 StoicMemes
 stolendogbeds
 StonerEngineering
@@ -3633,6 +3647,7 @@ Supernatural
 supersentai
 Superstonk
 surrealmemes
+SurreyBC
 Survival
 survivor
 sushi
@@ -3647,6 +3662,7 @@ SWGalaxyOfHeroes
 Switzerland
 SWlegion
 SWN
+swolesomememes
 swordartonline
 SWORDS
 SwordsComic
@@ -3669,6 +3685,7 @@ TalesFromYourServer
 tall
 tallyhall
 tamagotchi
+TameImpala
 tankiejerk
 TankPorn
 tanks
@@ -3725,6 +3742,7 @@ TextingTheory
 tf2
 tf2memes
 tf2shitposterclub
+tf_irl
 Thailand
 thalassophobia
 thanksihateit
@@ -3837,6 +3855,7 @@ tjournal_refugees
 TLCsisterwives
 TMNT
 TNOmod
+toastme
 todayilearned
 toddlers
 ToiletPaperUSA
@@ -4258,6 +4277,7 @@ youngpeoplereddit
 youngpeopleyoutube
 YoungThug
 YouniquePresenterMS
+YouSeeComrade
 youseeingthisshit
 YouShouldKnow
 youtube
