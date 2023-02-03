@@ -419,6 +419,7 @@ AwesomeOffBrands
 awfuleverything
 aww
 Awwducational
+awwnimate
 awwnverts
 Awww
 awwwtf
@@ -666,6 +667,7 @@ boringdystopia
 Boruto
 borzoi
 Bossfight
+BossFights
 boston
 BostonBruins
 bostonceltics
@@ -1137,6 +1139,7 @@ CryptoGemDiscovery
 CryptoMoonShots
 cryptostreetbets
 Cryptozoology
+Crystals
 cscareerquestions
 csgo
 csmanime
@@ -1333,6 +1336,7 @@ DINgore
 Dinosaurs
 Dipcifica
 DiretoDoZapZap
+dirtgame
 discgolf
 DiscoElysium
 discord_irl
@@ -1667,6 +1671,7 @@ FFVIIRemake
 ffxiv
 ffxivdiscussion
 FFXIVGlamours
+FFXV
 fiaustralia
 FIFA
 FifaCareers
@@ -1966,6 +1971,7 @@ GlitchInTheMatrix
 GlobalOffensive
 Glocks
 Gloomhaven
+GloriousTomBombadil
 glossier
 gluesniffer
 glutenfree
@@ -2215,6 +2221,7 @@ HostileArchitecture
 hot_reporters
 HotlineMiami
 HotPaper
+HotPeppers
 HottestFemaleAthletes
 hotwebseries_india
 HotWheels
@@ -2517,6 +2524,7 @@ jpegmafia
 JRPG
 jschlatt
 jschlattsubmissions
+JSOCarchive
 Judaism
 JuiceWRLD
 Jujutsufolk
@@ -2814,6 +2822,7 @@ love
 loveafterlockup
 Lovecraft
 LoveDeathAndRobots
+LoveForBoozeCruisers
 LoveForLandchads
 LoveIsBlindOnNetflix
 LoveIslandTV
@@ -2835,6 +2844,7 @@ Lumity
 Lustig
 Luthier
 LV426
+LWIAY
 LycorisRecoil
 Lyon
 MAAU
@@ -3116,6 +3126,7 @@ Montana
 Monterrey
 MoonKnight
 Moonmoon
+MoonPissing
 MorbidWaysToDie
 Morbius
 MordekaiserMains
@@ -3545,6 +3556,7 @@ Overwatch
 overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
+OverwatchTMZ
 OWConsole
 Owls
 Ozark
@@ -3628,7 +3640,9 @@ persona4golden
 Persona5
 PersonalFinanceCanada
 perth
+PetAfterVet
 Peterborough
+Petioles
 PetiteFashionAdvice
 PetiteFitness
 PetsareAmazing
@@ -3907,6 +3921,7 @@ rct
 RDR2
 Re_Zero
 reactiongifs
+readanotherbook
 ReadyOrNotGame
 real_China_irl
 realasians
@@ -3946,6 +3961,7 @@ redsox
 RedvsBlue
 ReefTank
 ReevesBatmanmemes
+regretfulparents
 regularcarreviews
 regularshow
 relationship_advice
@@ -3955,6 +3971,7 @@ reloading
 remoteplaces
 Reno
 Repaintings
+replications
 Repsneakers
 reptiles
 RepTime
@@ -4351,6 +4368,7 @@ SpanishMeme
 SPCE
 SpecArt
 specializedtools
+SpeculativeEvolution
 SpeedOfLobsters
 speedrun
 spelunky
@@ -4371,6 +4389,7 @@ spooktober
 Spore
 sports
 sportsarefun
+sportsbetting
 spotted
 spqrposting
 spreadytoes
@@ -4655,6 +4674,7 @@ TheDarkTower
 TheDeprogram
 TheDepthsBelow
 thedivision
+TheDollop
 TheDragonPrince
 TheEminenceInShadow
 TheExpanse
@@ -4881,6 +4901,7 @@ TwoRedditorsOneCup
 TwoSentenceHorror
 TwoXChromosomes
 TwoXIndia
+tyingherhairup
 tylerthecreator
 typemoon
 Tyranids
@@ -4966,6 +4987,7 @@ ussoccer
 Utah
 UtahJazz
 UTAustin
+utdallas
 uvic
 uwaterloo
 UzakiChan
@@ -5299,3 +5321,4 @@ ZombielandSaga
 Zoomies
 zoophileswelcom
 zootopia
+Zwift
