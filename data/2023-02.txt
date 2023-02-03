@@ -172,6 +172,7 @@ amex
 AMG
 amibeingdetained
 Amigurumi
+amiibo
 AmITheAngel
 amiugly
 amogus
@@ -398,6 +399,7 @@ AvatarMemes
 avatartrading
 avengedsevenfold
 Avengers
+aves
 avfc
 aviation
 aviationmaintenance
@@ -613,6 +615,7 @@ BMW
 boardgames
 boating
 BobsBurgers
+BobsTavern
 boburnham
 BocchiTheRock
 bodegacats
@@ -735,6 +738,7 @@ ByzantineMemes
 CabinPorn
 cableporn
 cactus
+CafeRacers
 CAguns
 cakedecorating
 CalamariRaceTeam
@@ -889,6 +893,7 @@ Cheese
 Chefit
 chefknives
 chelseafc
+chemicalreactiongifs
 chemistry
 chemistrymemes
 Chennai
@@ -996,6 +1001,7 @@ comedyhomicide
 comedynecromancy
 ComedyNecrophilia
 comicbookcollecting
+comicbookmovies
 comicbooks
 comics
 comingout
@@ -1648,6 +1654,7 @@ financialindependence
 Finanzen
 FingMemes
 Finland
+Fire
 Firearms
 fireemblem
 FireEmblemHeroes
@@ -1836,6 +1843,7 @@ GardeningUK
 garfieldminusgarfield
 GarlicBreadMemes
 Garmin
+gastricsleeve
 gatekeeping
 GatekeepingYuri
 gatesopencomeonin
@@ -1843,12 +1851,14 @@ GawrGura
 gay_irl
 gaybros
 gaybrosgonemild
+GaylorSwift
 gaymemes
 gaymers
 GaymersGoneMild
 GayRateMe
 GaySoundsShitposts
 GCSE
+GearsOfWar
 geckos
 geek
 geekygirls
@@ -1891,6 +1901,7 @@ Ghostbc
 ghostoftsushima
 GhostRecon
 Ghosts
+gif
 GifRecipes
 gifs
 gifsthatendtoosoon
@@ -1930,6 +1941,7 @@ godtiersuperpowers
 GODZILLA
 Gold
 GoldandBlack
+GoldenAgeMinecraft
 Goldendoodles
 goldenretrievers
 golf
@@ -1999,6 +2011,7 @@ guitarporn
 guitars
 GunAccessoriesForSale
 Gundam
+GundamEvolution
 gundeals
 Gunime
 Gunners
@@ -2191,6 +2204,7 @@ husky
 HuskyTantrums
 HuTao_Mains
 HVAC
+HybridAnimals
 hyderabad
 HydroHomies
 hyouka
@@ -2212,6 +2226,7 @@ ididnthaveeggs
 IdiotsFightingThings
 IdiotsInCars
 IdiotsNearlyDying
+IdiotsOnBikes
 Idiotswithguns
 IDONTGIVEASWAG
 IDontWorkHereLady
@@ -2221,6 +2236,7 @@ ik_ihe
 IkeaFreshBalls
 IllegalLifeProTips
 illegallifeprotips2
+illegallybigcats
 IllegallySmol
 illegallysmolbirbs
 IllegallySmolBunnies
@@ -2402,6 +2418,7 @@ jacksonville
 Jaguars
 Jaharia
 jailbreak
+jaimelescartes
 jakertown
 JamesBond
 jameswebb
@@ -2448,6 +2465,7 @@ JordanPeterson
 joueurdugrenier
 Journaling
 jovemnerd
+jpegmafia
 JRPG
 jschlatt
 jschlattsubmissions
@@ -2577,6 +2595,7 @@ Kurisutina
 kurzgesagt
 KusanaliMains
 KUWTKsnark
+l4d2
 Labour
 LabourUK
 labrador
@@ -3171,6 +3190,7 @@ Needlefelting
 neekolul
 neekomains
 NelliesNest
+NeonGenesisEvangelion
 neopets
 Nepal
 nerdfighters
@@ -3294,6 +3314,7 @@ notliketheothergirls
 notmycat
 NotMyJob
 nottheonion
+NotTimAndEric
 nottingham
 nova
 nowmycat
@@ -3661,6 +3682,7 @@ polymerclay
 Polytopia
 PolyYuri
 Pomeranians
+PopArtNouveau
 popculturechat
 popheadscirclejerk
 popping
@@ -3706,11 +3728,13 @@ privacy
 ProCreate
 ProductPorn
 ProfessorLayton
+progmetal
 programare
 ProgrammerAnimemes
 ProgrammerHumor
 programming
 programminghorror
+programminghumor
 progun
 Project_Wingman
 projectcar
@@ -4021,6 +4045,7 @@ SCPSecretLab
 ScrapMechanic
 Scream
 Screenwriting
+scriptedasiangifs
 Scrubs
 scrungycats
 scuba
@@ -4086,6 +4111,7 @@ ShitCrusaderKingsSay
 shitduolingosays
 shitfascistssay
 ShitLiberalsSay
+ShitLibSafari
 ShitMomGroupsSay
 ShitPoliticsSays
 ShitpostBR
@@ -4405,6 +4431,7 @@ SushiAbomination
 suspiciouslyspecific
 sustainability
 susu_jpg
+suzerain
 SVU
 SweatyPalms
 sweden
@@ -4761,6 +4788,7 @@ TwistedWonderland
 twitchasians
 twittermoment
 Twokinds
+TwoRedditorsOneCup
 TwoSentenceHorror
 TwoXChromosomes
 TwoXIndia
@@ -4897,6 +4925,7 @@ videos
 vidid
 VietNam
 Vilebrequin
+VillagePorn
 Vindicta
 Vinesauce
 VinlandSaga
@@ -5092,6 +5121,7 @@ WouldYouRather
 wow
 wowthanksimcured
 Wrasslin
+WRC
 WrestleCuties
 wrestling
 writing
