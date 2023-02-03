@@ -215,6 +215,7 @@ AnimalsBeingJerks
 AnimalsBeingMoms
 animalsdoingstuff
 AnimalsMonching
+AnimalsOnReddit
 Animalsthatlovemagic
 AnimalTextGifs
 animation
@@ -999,6 +1000,7 @@ coilerayy
 coins
 Coldmirror
 ColdOnes
+Collectible_Avatars
 ColleenBallingerSnark
 college
 CollegeBasketball
@@ -1231,6 +1233,7 @@ datascience
 datealive
 dating
 dating_advice
+datingoverthirty
 DaysGone
 dayz
 dbz
@@ -1375,6 +1378,7 @@ doctorwho
 DoctorWhumour
 Documentaries
 DOG
+DogAdvice
 Dogberg
 dogecoin
 dogelore
@@ -1864,6 +1868,7 @@ Gameboy
 GameChangerTV
 Gamecocks
 gamecollecting
+Gamecube
 gamedev
 gamegrumps
 gameofthrones
@@ -2495,6 +2500,7 @@ JennaOrtega_
 jennie
 JenniferAniston
 JenniferLawrence
+JenniferLopez
 jenniferlovehewitt
 Jeopardy
 jerma985
@@ -2732,6 +2738,7 @@ lesbianmemes
 lesserafim
 Letterboxd
 Letterkenny
+lexapro
 Lexus
 lgballt
 lgbt
@@ -3535,6 +3542,7 @@ othepelican
 OTMemes
 otomegames
 OtomeIsekai
+Otonokizaka
 ottawa
 OttawaSenators
 Otters
@@ -3783,6 +3791,7 @@ pottedcats
 Pottery
 PouchCatatoes
 PourPainting
+pouts
 povertyfinance
 powerrangers
 powerwashingporn
@@ -3988,6 +3997,7 @@ retrobattlestations
 RetroBowl
 RetroFuturism
 retrogaming
+reverseanimalrescue
 RevolutionaryUnity
 Revolvers
 RheaRipley
@@ -4764,6 +4774,7 @@ tinyanimalsonfingers
 TinyHouses
 tinyorangekittens
 TinyUnits
+tipofmytongue
 tippytaps
 Tiresaretheenemy
 titanfall
@@ -5089,6 +5100,7 @@ wankil
 WarAndPeas
 Warframe
 WarframeRunway
+wargame
 Warhammer
 Warhammer30k
 Warhammer40kEsp
@@ -5100,6 +5112,7 @@ warriors
 WarshipPorn
 warthundermemes
 Warzone
+washingtonwizards
 wasletztepreis
 WatchandLearn
 WatchDogsWoofInside
@@ -5130,6 +5143,7 @@ weedstocks
 weeklyplanetpodcast
 weeviltime
 weezer
+WeightLossAdvice
 weightwatchers
 Weird
 weirdcore
@@ -5204,6 +5218,7 @@ wismichu
 witcher
 Witcher3
 WitchesVsPatriarchy
+WKUK
 wnba
 woahdude
 WojakCompass
