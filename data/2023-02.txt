@@ -91,6 +91,7 @@ ActivationSound
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
+Acura
 AddisonRae
 Adelaide
 AdeptusCustodes
@@ -308,6 +309,7 @@ armoredcore
 army
 aromantic
 arresteddevelopment
+Arrowheads
 ArsenalFC
 Art
 ArtDeco
@@ -801,6 +803,7 @@ CasualRO
 CasualUK
 cat
 cataclysmdda
+CatAdvice
 CatastrophicFailure
 catbellies
 catbongos
@@ -1582,6 +1585,7 @@ eyebombing
 F1Game
 F1NN5TER
 F1Porn
+F1Technical
 FacebookScience
 facebookwins
 facepalm
@@ -1617,6 +1621,7 @@ FanTheories
 farcry
 farialimabets
 farming
+farmingsimulator
 FaruzanMains
 fashionhistory
 fashionporn
@@ -1639,6 +1644,7 @@ femboy_irl
 femboymemes
 feminineboys
 Feminism
+fempark
 Ferrari
 ferrets
 FFVIIRemake
@@ -1699,6 +1705,7 @@ florida
 FloridaGators
 FloridaMan
 FlorkofCowsOfficial
+flowers
 flyfishing
 flying
 fnki
@@ -1823,6 +1830,7 @@ futbol
 futebol
 FUTMobile
 futurama
+futureporn
 Futurology
 G59
 gachagaming
@@ -1848,6 +1856,7 @@ GamingDetails
 GamingLaptops
 GamingLeaksAndRumours
 gangstaswithwaifus
+gank
 Ganyu
 GarandThumb
 GardeningUK
@@ -2035,6 +2044,7 @@ GunPorn
 guns
 gurrenlagann
 GuyCry
+GwenMains
 GYM
 GymMemes
 gymsnark
@@ -2404,6 +2414,7 @@ ireland
 irezumi
 IRLEasterEggs
 IronFrontUSA
+ironmouse
 ironscape
 IrrationalMadness
 IsekaiQuartet
@@ -2586,6 +2597,7 @@ KnowingBetter
 KnowledgeFight
 Knoxville
 KobeniHigashiyama
+KoboldLegion
 Kokomi_Mains
 kolkata
 kollywood
@@ -3008,6 +3020,7 @@ Military
 MilitaryPorn
 MilitaryStories
 MilitaryVStheUnknown
+Millennials
 MillieBobbyBrown2
 milwaukee
 MilwaukeeTool
@@ -3041,6 +3054,7 @@ misLED
 MisreadSprites
 missbo
 missbricosplay
+mississippi
 Mistborn
 MitchellAndWebb
 MixedRaceGirls
@@ -3610,6 +3624,7 @@ Philippines
 phillies
 philosophy
 PhilosophyMemes
+PhilosophyTube
 Philza
 phineasandferb
 phish
@@ -4152,6 +4167,7 @@ ShitpostXIV
 ShitRimworldSays
 Shitstatistssay
 Shitty_Car_Mods
+shittyaquariums
 Shittyaskflying
 shittyaskscience
 shittybattlestations
@@ -4253,6 +4269,7 @@ smitepro
 smoking
 smoobypost
 SmugIdeologyMan
+snails
 snakes
 SnakesWithHats
 SnapChad
@@ -4762,6 +4779,7 @@ Transmogrification
 transnord
 transprogrammer
 transvoice
+transylveon
 trap
 trashpandas
 TrashTaste
@@ -5226,6 +5244,7 @@ youtube
 youtubehaiku
 yugioh
 YuGiOhMemes
+yumenikki
 yuna
 YUROP
 YuYuHakusho
@@ -5239,3 +5258,4 @@ zillowgonewild
 ZombielandSaga
 Zoomies
 zoophileswelcom
+zootopia
