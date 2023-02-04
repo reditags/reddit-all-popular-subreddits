@@ -163,6 +163,7 @@ AmandaHolden
 amateurradio
 AmateurRoomPorn
 amazingmemes
+AmazonDSPDrivers
 AmazonFC
 AmazonFlexDrivers
 amazonreviews
@@ -1064,6 +1065,7 @@ CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
 CompetitiveWoW
+computerscience
 conan
 confession
 confessions
@@ -2168,6 +2170,7 @@ HarryPotterGame
 harvestmoon
 Hasan_Piker
 hatsune
+hauntedchocolatier
 HauntedMound
 Hawaii
 HayleyAtwell
@@ -3898,6 +3901,7 @@ PrintedMinis
 PrintedWarhammer
 privacy
 ProCreate
+productivity
 ProductPorn
 ProfessorLayton
 progmetal
@@ -3976,6 +3980,7 @@ Radiology
 ragdolls
 rage
 RaidenMains
+RaidenMei
 raiders
 raidsecrets
 RaidShadowLegends
@@ -4005,6 +4010,7 @@ Rarethreats
 raspberry_pi
 Ratorix
 RATS
+Ravenfield
 ravens
 rawdenim
 RBI
@@ -4159,6 +4165,7 @@ Sacramento
 sadboys
 sadcats
 sadcringe
+SadHorseShow
 sadiemckenna
 Sadiesink
 sadposting
@@ -4350,6 +4357,7 @@ Shrimping
 shrimptank
 shrinkflation
 shrooms
+shubreddit
 ShuumatsuNoValkyrie
 shylily
 Siamesecats
@@ -4690,6 +4698,7 @@ tarantulas
 Target
 TargetedShirts
 TarkovMemes
+tarot
 taskmaster
 tattoo
 TattooDesigns
@@ -5301,6 +5310,7 @@ whoselineisitanyway
 WhyWereTheyFilming
 WhyWomenLiveLonger
 Wicca
+WidacZabory
 wien
 WiggleButts
 wiiu
