@@ -247,6 +247,7 @@ AnimeNoises
 AnimeSketch
 AnimeTomboys
 AnimeWallpapersSFW
+AnimeYogaPants
 Animorphs
 annakendrick
 AnnArbor
@@ -306,6 +307,7 @@ ArcherFX
 ArchitecturalRevival
 architecture
 ArchitecturePorn
+archlinux
 arcticmonkeys
 arduino
 argentina
@@ -316,6 +318,7 @@ ARK
 arknights
 ArlecchinoMains
 arma
+armenia
 armoredcore
 army
 aromantic
@@ -413,6 +416,7 @@ AutoDetailing
 Autoflowers
 automationgame
 Autos
+AutumnPorn
 Avatar
 AvatarMemes
 avatartrading
@@ -1220,6 +1224,7 @@ DaniDev
 Daniellarson
 Dank
 dank_meme
+DankAndrastianMemes
 dankchristianmemes
 dankgentina
 dankinindia
@@ -1393,6 +1398,7 @@ DMDadJokes
 DMT
 DMZ
 DnD
+DnD5e
 DnDart
 DnDGreentext
 dndmaps
@@ -1979,6 +1985,7 @@ GettingShredded
 GFLNeuralCloud
 ghibli
 Ghostbc
+ghostbusters
 ghostoftsushima
 GhostRecon
 Ghosts
@@ -2018,6 +2025,7 @@ GME
 gme_meltdown
 GMEJungle
 gmod
+gnome
 goats
 goblincore
 GoblinSlayer
@@ -2620,6 +2628,7 @@ katyperry
 Kaylemains
 KazuhaMains
 Kazumin
+kde
 KeanuBeingAwesome
 Keep_Track
 KeepWriting
@@ -2706,6 +2715,7 @@ Kurisutina
 kurzgesagt
 KusanaliMains
 KUWTKsnark
+Kyusha
 l4d2
 Labour
 LabourUK
@@ -2938,6 +2948,7 @@ majonotabitabi
 MakeMeSuffer
 Makeup
 MakeupAddiction
+MakeupLounge
 MakeWay4QueensGuard
 makeyourchoice
 MaladaptiveDreaming
@@ -3397,6 +3408,7 @@ Nirvana
 njpw
 NLBest
 NLSSCircleJerk
+NMSCoordinateExchange
 NoahGetTheBoat
 NoahGetTheDeathStar
 NobodyAsked
@@ -3461,6 +3473,7 @@ NuclearThrone
 NUFC
 nukedmemes
 nursing
+nutrition
 NuxTakuSubmissions
 nuzlocke
 nvidia
