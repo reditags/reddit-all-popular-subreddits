@@ -1027,6 +1027,7 @@ CityPorn
 civ
 civic
 CivVI
+CK2GameOfthrones
 ClashOfClans
 ClashRoyale
 ClassConscienceMemes
@@ -1149,6 +1150,7 @@ cosplayers
 Costco
 cottagecore
 CounterSide
+counterstrike
 CountOnceADay
 countryball_memes
 CourtneyMiller
@@ -1448,6 +1450,7 @@ DivorcedBirds
 DiWHY
 DiWHYNOT
 DIY
+diyelectronics
 dkfinance
 DMAcademy
 DMDadJokes
@@ -1457,6 +1460,7 @@ DnD
 DnD5e
 DnDart
 DnDGreentext
+DnDHomebrew
 dndmaps
 dndmemes
 dndnext
@@ -1863,6 +1867,7 @@ footballmemes
 foraging
 forbiddenboops
 forbiddensnacks
+Forex
 ForFashion
 ForgottenBookmarks
 ForgottenWeapons
@@ -2064,6 +2069,7 @@ GetMotivated
 GetStudying
 GettingShredded
 GFLNeuralCloud
+GFRIEND
 ghibli
 Ghostbc
 ghostbusters
@@ -3604,6 +3610,7 @@ nowmycat
 noworking
 NPPfunny
 nrl
+NSFWPublicFreakout
 NuclearRevenge
 NuclearThrone
 NUFC
@@ -4260,6 +4267,7 @@ RoastMyCar
 RoAww
 robbersgettingfucked2
 roblox
+ROBLOXmemes
 robotics
 Rochester
 rocketbeans
@@ -4980,6 +4988,7 @@ thefighterandthekid
 TheForest
 TheGirlSurvivalGuide
 TheGlassCannonPodcast
+theGoldenGirls
 TheGoodPlace
 thegrandtour
 TheGriffonsSaddlebag
@@ -5385,6 +5394,7 @@ vosfinances
 VoteBlue
 VoteDEM
 VRchat
+VRtoER
 VShojo
 vtmb
 vtolvr
@@ -5437,6 +5447,7 @@ waterloo
 Wavyhair
 WeaponsMoe
 WeatherGifs
+weaving
 webcomics
 webdev
 wec
@@ -5576,6 +5587,7 @@ Wrasslin
 WRC
 WrestleCuties
 wrestling
+writers
 writing
 writingcirclejerk
 WritingPrompts
