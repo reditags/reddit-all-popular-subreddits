@@ -79,6 +79,7 @@ AccidentalRacism
 AccidentalRenaissance
 AccidentalSlapStick
 AccidentalWesAnderson
+ACCompetizione
 Accounting
 AceAttorney
 AceAttorneyCirclejerk
@@ -778,6 +779,7 @@ Buttcoin
 BuyItForLife
 byebyejob
 ByzantineMemes
+byzantium
 C_AT
 CabinPorn
 cableporn
@@ -1200,6 +1202,7 @@ cursedmemes
 CursedMinecraft
 CursedTanks
 cursedvideos
+CurseofStrahd
 customhearthstone
 custommagic
 cute
@@ -1456,6 +1459,7 @@ DotA2
 DottoreMains
 doughertydozen
 DowntonAbbey
+DownvotedToOblivion
 DR_YAKUZA
 DragaliaLost
 dragonballfighterz
@@ -1772,6 +1776,7 @@ FixedGearBicycle
 FL_Studio
 flashlight
 FlashTV
+Fleabag
 FleshPitNationalPark
 FlexinLesbians
 flightradar24
@@ -1817,6 +1822,7 @@ formula1
 Formula1Point5
 FormulaBuddyRetard
 formuladank
+FormulaE
 forsen
 ForShub
 FORTnITE
@@ -2632,6 +2638,7 @@ JustUnsubbed
 juxtaposition
 k_on
 KaguyaShinomiya
+kaisamains
 Kaiserreich
 KaIT
 kalam_army
@@ -3304,6 +3311,7 @@ MyPeopleNeedMe
 myronkoops_
 MySingingMonsters
 mysore
+myst
 mystery
 MysteryDungeon
 MySummerCar
@@ -3733,6 +3741,7 @@ PeanutWhiskers
 PecsAndPecBouncing
 Pedro_Pascal
 PeepShowQuotes
+penguin
 penguins
 PenmanshipPorn
 Pennsylvania
@@ -3773,6 +3782,7 @@ PhantomForces
 pharmacy
 PhasmophobiaGame
 phclassifieds
+PhD
 PHGamers
 philadelphia
 Philippines
@@ -4298,6 +4308,7 @@ serbiancringe
 serialkillers
 seriouseats
 Serverlife
+settmains
 Seulgi
 seventeen
 SeveranceAppleTVPlus
@@ -4495,6 +4506,7 @@ SoulKnight
 SoulsSliders
 SoundersFC
 SoundsLikeMusic
+soup
 sousvide
 southafrica
 SouthDakota
@@ -4510,6 +4522,7 @@ SpaceXLounge
 SpaceXMasterrace
 spain
 Spanish
+SpanishHistoryMemes
 SpanishMeme
 SPCE
 SpecArt
@@ -4824,6 +4837,7 @@ TheCatTrapIsWorking
 thechallengemtv
 TheCinemassacreTruth
 TheCivilService
+TheClickOwO
 TheCloneWars
 TheCrownNetflix
 TheCuddlePuddle
@@ -5352,6 +5366,7 @@ wholesomejojo
 wholesomememes
 wholesomemes
 whoselineisitanyway
+whothefuckup
 WhyWereTheyFilming
 WhyWomenLiveLonger
 Wicca
@@ -5387,6 +5402,7 @@ wnba
 woahdude
 WojakCompass
 wokekids
+wolves
 WolvesAreBigYo
 women
 womensstreetwear
@@ -5483,6 +5499,7 @@ youngpeoplereddit
 youngpeopleyoutube
 YoungThug
 YouniquePresenterMS
+YourJokeButWorse
 YouSeeComrade
 youseeingthisshit
 YouShouldKnow
