@@ -726,6 +726,7 @@ bonecollecting
 bonehealingjuice
 bonehurtingjuice
 BONELAB
+booknooks
 books
 bookshelf
 boopablenosies
@@ -820,6 +821,7 @@ bujo
 bulgaria
 Bulldogs
 bulletjournal
+BullTerrier
 Bumble
 buncomfortable
 Bundesliga
@@ -1392,6 +1394,7 @@ deadlyoops
 deadmalls
 deadpool
 DeadSpace
+deathbattle
 Deathcore
 deathgrips
 deathguard40k
@@ -1591,6 +1594,7 @@ drawing
 Dreadlocks
 DreamlightValley
 Dreams
+Dreamtheater
 dresden
 DrewDurnil
 DrewGooden
@@ -1880,6 +1884,7 @@ FilthyFrank
 FinalFantasy
 finalfantasytactics
 FinalFantasyVII
+FinalFantasyVIII
 finalfantasyx
 FinalSpace
 finance
@@ -1933,6 +1938,7 @@ FlorkofCowsOfficial
 flowers
 flyfishing
 flying
+fnatic
 fnki
 fnv
 fo4
@@ -3221,6 +3227,7 @@ magnetfishing
 Mahouka
 Maine
 mainecoons
+maisiewilliams
 majonotabitabi
 MakeMeSuffer
 Makeup
@@ -3601,6 +3608,7 @@ NanashiMumei
 NanatsunoTaizai
 Nanny
 nanocurrency
+NarcoFootage
 Naruto
 narutomemes
 nasa
@@ -5190,6 +5198,7 @@ That90sShowTV
 thatHappened
 ThatLookedExpensive
 ThatPeelingFeeling
+Thatsabooklight
 ThatsInsane
 The10thDentist
 the1975
@@ -5497,6 +5506,7 @@ UCSD
 udub
 ufc
 ufl
+ufo
 UFOs
 UIUC
 UK_Food
