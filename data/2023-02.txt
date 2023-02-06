@@ -564,6 +564,7 @@ BBBY
 BBQ
 BeachHouse
 Beading
+beadsprites
 beagle
 BeAmazed
 BeamNG
@@ -1023,6 +1024,7 @@ Chaser
 ChatGPT
 chats
 Chattanooga
+chch
 cheating_stories
 Cheese
 CheetoTheCat
@@ -2023,6 +2025,7 @@ fourthwavewomen
 fourthworldproblems
 foxes
 foxholegame
+fpv
 fragilecommunism
 FragileWhiteRedditor
 fragrance
@@ -2249,6 +2252,7 @@ gme_meltdown
 GMEJungle
 gmod
 gnome
+Goatparkour
 goats
 GoatsOnTopOfHorses
 goblincore
@@ -3465,6 +3469,7 @@ mildlyinfuriating
 mildlyinteresting
 mildlysatisfying
 MildlyStartledCats
+mildlyterrifying
 MildlyVandalised
 mildyinfuriating
 mildyinteresting
