@@ -430,6 +430,7 @@ Augenbleiche
 Aurelion_Sol_mains
 AusFinance
 auslaw
+AusLegal
 AusMemes
 AussieCasual
 AustinFC
@@ -680,6 +681,7 @@ blackTattooing
 BlackTemplars
 BladeAndSorcery
 bladerunner
+Bladesmith
 BLAHAJ
 blakelively
 blankies
@@ -864,6 +866,7 @@ callofcthulhu
 CallOfDuty
 CallOfDutyMobile
 calvinandhobbes
+CamilaCabello
 camilamendes
 camphalfblood
 CampingGear
@@ -1139,6 +1142,7 @@ Columbus
 CombatFootage
 combinedgifs
 comedyamputation
+ComedyArchaeology
 comedybangbang
 ComedyCemetery
 comedyepilepsy
@@ -1467,6 +1471,7 @@ DestinyLore
 DestinyMemes
 DestinyTheGame
 DestroyedTanks
+DestroyLonely
 DetailCraft
 DeTrashed
 Detroit
@@ -2041,6 +2046,7 @@ Frugal
 frugalmalefashion
 Fruitbatcats
 fryup
+ft86
 ftlgame
 FTMMen
 fuckcars
@@ -2434,6 +2440,7 @@ HildaTheSeries
 himikotoga
 HIMYM
 hinduism
+HistoricalCostuming
 history
 HistoryAnimemes
 HistoryPorn
@@ -2745,6 +2752,7 @@ iosgaming
 Iowa
 ipad
 iphone
+iPhoneography
 iphonewallpapers
 ipl
 iRacing
@@ -2926,6 +2934,7 @@ KGBTR
 khajiithaswares
 khiphop
 KidCudi
+KidsAreFuckingEvil
 KidsAreFuckingStupid
 KiernanShipka
 killedthecameraman
@@ -3441,6 +3450,7 @@ mildyinfuriating
 mildyinteresting
 Militariacollecting
 Military
+MilitaryGfys
 MilitaryPorn
 MilitaryStories
 MilitaryVStheUnknown
@@ -4198,6 +4208,7 @@ pokemonanime
 Pokemonart
 pokemongo
 pokemongobrag
+PokemonGoFriends
 PokemonLegendsArceus
 PokemonLetsGo
 PokemonMasters
@@ -5092,6 +5103,7 @@ Superstonk
 superstore
 SuperStructures
 supportlol
+Supreme
 surdev
 surrealmemes
 SurreyBC
@@ -5156,6 +5168,7 @@ tankiejerk
 TankPorn
 tanks
 TanmayBhatKeDost
+taoism
 tarantulas
 Target
 TargetedShirts
@@ -5307,6 +5320,7 @@ therapists
 TheRatEmpire
 TheRealJoke
 TheRedDotComic
+thereifixedit
 therewasanattempt
 TheRightCantMeme
 TheSimpsons
