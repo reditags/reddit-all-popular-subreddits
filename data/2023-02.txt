@@ -337,6 +337,7 @@ arcane
 Archaeology
 Archeology
 ArcherFX
+Archery
 ArchitecturalRevival
 architecture
 ArchitecturePorn
@@ -626,6 +627,7 @@ BicyclingCirclejerk
 bigbangtheory
 bigboobproblems
 bigboye
+BigBrother
 BigCatGifs
 BigChungusReligion
 bigfloppa
@@ -940,6 +942,7 @@ catpictures
 CatPOV
 catradora
 cats
+CatsAndDogsBFF
 CatsAndPlants
 catsarealiens
 CatsAreAssholes
@@ -2923,6 +2926,7 @@ Kaylemains
 KazuhaMains
 Kazumin
 kde
+KDRAMA
 KeanuBeingAwesome
 Keep_Track
 KeepWriting
@@ -5077,6 +5081,7 @@ streetwearstartup
 stremtch
 strength_training
 Stretched
+StructuralEngineering
 StuffOnCats
 stunfisk
 StupidFood
