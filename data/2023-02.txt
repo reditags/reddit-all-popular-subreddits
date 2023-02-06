@@ -251,6 +251,7 @@ AnimalsBeingDerps
 AnimalsBeingGeniuses
 AnimalsBeingJerks
 AnimalsBeingMoms
+AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
 AnimalsOnReddit
@@ -600,6 +601,7 @@ BeautifulIndianWomen
 beauty
 BeautyGuruChatter
 beberexha
+BeckyG
 beeandpuppycat
 Beekeeping
 BeelcitosMemes
@@ -632,6 +634,7 @@ Best_tattoos
 bestconspiracymemes
 bestof
 bestoflegaladvice
+BestofRedditorUpdates
 bestoftheinternet
 BethesdaSoftworks
 bettafish
@@ -1251,6 +1254,7 @@ corgibutts
 Cornwall
 Coronavirus
 CoronavirusDownunder
+CorporateFacepalm
 Corridor
 Corvette
 Cosmere
@@ -2037,6 +2041,7 @@ footballmemes
 foraging
 forbiddenboops
 forbiddensnacks
+FordMaverickTruck
 Forex
 ForFashion
 ForgottenBookmarks
@@ -2618,6 +2623,7 @@ HumansBeingBros
 HumanTippyTaps
 humor
 hungary
+Hungergames
 HungryArtists
 hunterxdank
 HunterXHunter
@@ -2631,6 +2637,7 @@ HybridAnimals
 hyderabad
 HydroHomies
 hyouka
+hyperlightdrifter
 HypixelSkyblock
 IAmA
 Iamactuallyverybadass
@@ -2730,6 +2737,7 @@ ImaginaryTechnology
 ImaginaryUndead
 ImaginaryVehicles
 ImaginaryWarhammer
+ImaginaryWastelands
 ImaginaryWeather
 ImaginaryWesteros
 ImaginaryWitcher
@@ -2855,6 +2863,7 @@ IsItBullshit
 ISKbets
 islam
 ISO8601
+isopods
 Israel
 istanbul
 IsTodayFridayThe13th
@@ -3762,6 +3771,7 @@ NataliaDyer
 NatalieDormer
 natalieportman
 nathanforyou
+nathanwpyle
 NationalPark
 NativePlantGardening
 nattyorjuice
@@ -4062,6 +4072,7 @@ OnePieceTC
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
+onetruegod
 OneyPlays
 onguardforthee
 OnionLovers
@@ -4285,6 +4296,7 @@ PietSmiet
 pigeon
 Pikabu
 Pikmin
+PikminBloomApp
 pinkfloyd
 PinkFloydCircleJerk
 PinkOmega
@@ -4444,6 +4456,7 @@ projectzomboid
 prolife
 PropagandaPosters
 ProperAnimalNames
+proplifting
 ProRevenge
 protogen
 prusa3d
@@ -4724,6 +4737,7 @@ sadcringe
 SadHorseShow
 sadiemckenna
 Sadiesink
+sadlygokarts
 sadposting
 sailing
 SailorMood
@@ -4736,6 +4750,7 @@ sales
 saltierthancrait
 SaltLakeCity
 Samadhi_Zendejas
+samharris
 SamONellaAcademy
 samoyeds
 samsung
@@ -5193,6 +5208,7 @@ straightenedfeetsies
 StraightsBeingOK
 StrangeAndFunny
 StrangeEarth
+StrangePlanet
 StrangerThings
 Strava
 stray
