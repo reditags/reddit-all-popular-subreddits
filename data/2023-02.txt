@@ -1168,6 +1168,7 @@ CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
 CompetitiveWoW
+composting
 computerscience
 conan
 ConanExiles
@@ -1239,6 +1240,7 @@ craftsnark
 crappyanimalcrossing
 CrappyDesign
 crappyoffbrands
+cravetv
 CrazyFuckingVideos
 CrazyHuman
 CrazyIdeas
@@ -1522,6 +1524,7 @@ Disneyland
 disneyparks
 DisneyPlus
 disneyvacation
+DissidiaFFOO
 distractible
 distressingmemes
 dividends
@@ -1654,6 +1657,7 @@ dyinglight
 DylanteroYT
 DynastyFF
 earfurnishings
+earlsweatshirt
 earthbound
 EarthPorn
 EatCheapAndHealthy
@@ -1759,6 +1763,7 @@ EskiMemes
 espresso
 essayservice
 estoration
+ethereum
 ethereumnoobies
 ethfinance
 ethoslab
@@ -2818,6 +2823,7 @@ Jeep
 JeffArcuri
 jellybeantoes
 JennaLouiseColeman
+Jennamarbles
 JennaOrtega_
 jennie
 JenniferAniston
@@ -3061,6 +3067,7 @@ learntodraw
 LearnUselessTalents
 Leathercraft
 leaves
+lebanon
 lebowski
 LeDollarBean
 Leeds
@@ -3583,6 +3590,7 @@ Mtf_irl
 MTFSelfieTrain
 mtg
 MtvChallenge
+MUAontheCheap
 MuayThai
 Muln
 MultiVersus
@@ -5296,6 +5304,7 @@ theisle
 theJoeBuddenPodcast
 TheKittyKingdom
 TheLastAirbender
+TheLastKingdom
 thelastofus
 TheLastOfUs2
 ThelastofusHBOseries
@@ -5328,6 +5337,7 @@ thesims
 TheSimsBuilding
 thesopranos
 TheStrokes
+thetagang
 TheTempleOfOchako
 TheTrumpZone
 TheTryGuys
@@ -5523,6 +5533,7 @@ Turkey
 TurkeyJerky
 TurkishCats
 TurkishCeleb
+turtle
 TuxedoCats
 TVDetails
 TVTooHigh
