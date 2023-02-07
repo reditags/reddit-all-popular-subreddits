@@ -205,6 +205,7 @@ AMD_Stock
 AmeliaWatson
 AmericaBad
 americandad
+AmericanFascism2020
 AmericanHorrorStory
 amex
 AMG
@@ -636,6 +637,7 @@ bestconspiracymemes
 bestof
 bestoflegaladvice
 BestofRedditorUpdates
+BestOfReports
 bestoftheinternet
 BethesdaSoftworks
 bettafish
@@ -770,6 +772,7 @@ booknooks
 bookporn
 books
 bookshelf
+BoomersBeingFools
 boopablenosies
 boottoobig
 borbs
@@ -1092,6 +1095,7 @@ Chivalry2
 chloe
 chloegracemoretz
 Choices
+chomsky
 Chonkers
 ChoosingBeggars
 choppers
@@ -1501,6 +1505,7 @@ DemocraticSocialism
 democrats
 DemonSchoolIrumakun
 DemonSlayerAnime
+demonssouls
 Demotivational
 Denmark
 Denton
@@ -1781,6 +1786,7 @@ Emoney
 EmpireDidNothingWrong
 EmpressEvolution
 ems
+emulation
 EmulationOnAndroid
 ENA
 EnculerLesVoitures
@@ -2237,6 +2243,7 @@ geek
 geekygirls
 GeForceNOW
 gekte
+Gemini
 GemmaArterton
 genderfluid_irl
 generative
@@ -2343,6 +2350,7 @@ GoNets
 GoodAssSub
 goodboomerhumor
 GoodFakeTexts
+GoodGoodMemes
 goodmythicalmorning
 google
 googlemapsshenanigans
@@ -2448,6 +2456,7 @@ halo
 HaloCirclejerk
 haloinfinite
 HaloMemes
+HaloStory
 Hamilton
 hamiltonmusical
 hamsters
@@ -3582,6 +3591,7 @@ mildyinfuriating
 mildyinteresting
 Militariacollecting
 Military
+MilitaryARClones
 MilitaryGfys
 MilitaryPorn
 MilitaryStories
@@ -4088,6 +4098,7 @@ OneOrangeBraincell
 OnePiece
 OnePieceLiveAction
 OnePieceTC
+oneplus
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
@@ -4112,6 +4123,7 @@ OopsDidntMeanTo
 OopsThatsDeadly
 OPBR
 OpenAI
+OpenArgs
 opossum_irl
 Opossums
 orangecats
@@ -4497,6 +4509,7 @@ Psychonaut
 ptcgo
 PUBATTLEGROUNDS
 PublicFreakout
+publix
 PuertoRico
 pukicho
 Pulsechain
@@ -4702,6 +4715,7 @@ RocketLeagueEsports
 rockets
 rockhounds
 rodentintercourse
+RodriguesFamilySnark
 RoleReversal
 rolex
 rollercoasterjerk
@@ -6125,6 +6139,7 @@ woosh
 WordAvalanches
 WordBearers
 wordington
+workaholics
 workchronicles
 WorkersStrikeBack
 WorkReform
