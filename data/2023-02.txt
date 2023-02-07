@@ -1299,6 +1299,7 @@ cozy
 CozyFantasy
 CozyPlaces
 CPA
+cpp
 crabcats
 CrackheadCraigslist
 CrackWatch
@@ -2387,6 +2388,7 @@ GothGirls
 GothStyle
 gradadmissions
 GradSchool
+GradualChaos
 Graffiti
 Granblue_en
 GrandBlue
@@ -2433,6 +2435,7 @@ gtavcustoms
 Guadalajara
 GuardianTales
 Guildwars2
+GuildWarsDyeJob
 GuiltyDogs
 Guiltygear
 guineapigs
@@ -2747,6 +2750,7 @@ ImaginaryCyberpunk
 ImaginaryDemons
 ImaginaryDragons
 ImaginaryDwarves
+ImaginaryDwellings
 imaginaryelections
 ImaginaryElves
 ImaginaryFallout
