@@ -191,6 +191,7 @@ alternativeart
 AlternativeHistory
 AlzheimersGroup
 Alzwards_Corner
+AMADisasters
 AmandaHolden
 amateurradio
 AmateurRoomPorn
@@ -451,6 +452,7 @@ AubreyPlaza
 auckland
 Audi
 Augenbleiche
+AujourdhuiJaiAppris
 Aurelion_Sol_mains
 AusFinance
 auslaw
@@ -699,6 +701,7 @@ bisexual
 BisexualTeens
 bitchimabus
 BitchImATrain
+BitLifeApp
 bizarrebuildings
 bizarrelife
 bjork
@@ -3025,6 +3028,7 @@ JustBootThings
 justdependathings
 justforsocialmedia
 Justfuckmyshitup
+justgamedevthings
 JustGuysBeingDudes
 JusticeServed
 JustMonika
@@ -3159,6 +3163,7 @@ kpopthoughts
 kratzbaum
 kristenbell
 kristenstewart
+krita
 kroger
 krystenritter
 ksi
@@ -3642,6 +3647,7 @@ Mindfulness
 Minecraftbuilds
 MinecraftChampionship
 MinecraftCommands
+MinecraftDungeons
 Minecrafthmmm
 MinecraftMemes
 minecraftseeds
@@ -3769,6 +3775,7 @@ mtg
 MtvChallenge
 MUAontheCheap
 MuayThai
+muglife
 Muln
 MultiVersus
 MultiVersusTheGame
@@ -4822,6 +4829,7 @@ sailormoon
 SaimanSays
 SaintMeghanMarkle
 SaintsFC
+saiyanpeopletwitter
 Salamanders40k
 sales
 saltierthancrait
@@ -5954,6 +5962,7 @@ VersusSeries
 VeteransBenefits
 vexillology
 vexillologycirclejerk
+veYakinEvren
 vfx
 VGC
 victoria2
@@ -6026,6 +6035,7 @@ WaltDisneyWorld
 WANDAVISION
 wankil
 WarAndPeas
+warcraftlore
 Warframe
 WarframeRunway
 wargame
@@ -6148,6 +6158,7 @@ wii
 wiiu
 wikipedia
 WildernessBackpacking
+wildhearthstone
 WildHeartsGame
 wildhockey
 wildlifephotography
