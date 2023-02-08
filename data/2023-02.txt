@@ -888,6 +888,7 @@ BSG
 btd6
 bts7
 Buddhism
+BuddyCrossing
 BudgetAudiophile
 budgetcooking
 budgetfood
@@ -1532,6 +1533,7 @@ deadmalls
 deadpool
 DeadSpace
 deathbattle
+DeathByMillennial
 Deathcore
 deathgrips
 deathguard40k
@@ -1601,7 +1603,9 @@ DestinyMemes
 DestinyTheGame
 DestroyedTanks
 DestroyLonely
+DestructionPorn
 DetailCraft
+detrans
 DeTrashed
 Detroit
 DetroitBecomeHuman
@@ -2271,6 +2275,7 @@ futbol
 futebol
 FUTMobile
 futurama
+future
 futureporn
 Futurology
 G59
@@ -2671,6 +2676,7 @@ hockeymemes
 hockeyplayers
 hoggit
 hogrida
+hogwartslegacyJKR
 hoi4
 HOI4memes
 holdmycatnip
@@ -3053,6 +3059,7 @@ japan
 japanese
 JapaneseFood
 japanesepeopletwitter
+japanlife
 japanpics
 Jarrariums
 Jazz
@@ -6163,6 +6170,7 @@ VintageLadyBoners
 vinyl
 vinyljerk
 VioletEvergarden
+ViralFun
 Virginia
 virginvschad
 virtualreality
