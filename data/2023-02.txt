@@ -267,6 +267,7 @@ AnimalsBeingBros
 AnimalsBeingConfused
 AnimalsBeingDerps
 AnimalsBeingGeniuses
+AnimalsBeingHappy
 AnimalsBeingJerks
 AnimalsBeingMoms
 AnimalsBeingStrange
@@ -1416,6 +1417,7 @@ curledfeetsies
 Cursed_Images
 cursed_videomemes
 cursedcomments
+cursedcursedcomments
 Cursedgunimages
 CursedGuns
 cursedmemes
@@ -4280,6 +4282,7 @@ OopsThatsDeadly
 OPBR
 OpenAI
 OpenArgs
+opensource
 Opeth
 opossum_irl
 Opossums
