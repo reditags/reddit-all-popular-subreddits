@@ -76,6 +76,7 @@ absoluteunit
 AbsoluteUnits
 AbsoluteWeapons
 AbstractArt
+Absurdism
 ac_newhorizons
 ACAB
 academia
@@ -1612,6 +1613,7 @@ Dexter
 DHHMemes
 DHMIS
 diabetes
+diabetes_t1
 Diablo
 diablo2
 diamondpainting
@@ -2016,6 +2018,7 @@ feedthememes
 feemagers
 FellowKids
 FeltGoodComingOut
+femalehairadvice
 femalelivingspace
 femboy
 femboy_irl
@@ -3007,6 +3010,7 @@ Itasha
 ITCareerQuestions
 ITcrowd
 ItemShop
+Iteration110Cradle
 ItHadToBeBrazil
 IThinkYouShouldLeave
 itookapicture
@@ -3418,6 +3422,7 @@ LokiTV
 Lolirefugees
 london
 lonely
+longbeach
 longboarding
 longboyes
 longcats
@@ -5445,6 +5450,7 @@ stremtch
 strength_training
 Stretched
 StructuralEngineering
+StudentLoans
 studyboost
 studybooster
 studyup
@@ -6381,6 +6387,7 @@ Wrasslin
 WRC
 WrestleCuties
 wrestling
+WrexhamAFC
 writers
 writing
 writingcirclejerk
