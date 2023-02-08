@@ -104,6 +104,7 @@ acne
 acnh
 acotar
 ACPocketCamp
+ACQR
 ActionFigures
 ActivationSound
 ActLikeYouBelong
@@ -240,6 +241,7 @@ Amoledbackgrounds
 AmongUs
 Amouranth
 amphibia
+AMPToken
 Amsterdam
 AmyAdams
 AnadeArmas
@@ -847,6 +849,7 @@ botw
 boulder
 bouldering
 BoutinelaBabes
+boutiquebluray
 bowhunting
 Boxer
 Boxing
@@ -1538,6 +1541,7 @@ datingoverforty
 datingoverthirty
 Davie504
 DaysGone
+Daytrading
 dayz
 dbz
 DBZDokkanBattle
@@ -4141,6 +4145,7 @@ nintendo
 NintendoMemes
 NintendoStitch
 NintendoSwitch
+NintendoSwitchDeals
 Nirvana
 njpw
 NLBest
@@ -4469,6 +4474,7 @@ pathfindermemes
 PathofChampions
 pathofexile
 PathToNowhere
+PatMcAfeeShowOfficial
 Patriots
 Pauper
 paydaytheheist
@@ -5361,6 +5367,7 @@ SocialistRA
 socialistsmemes
 socialskills
 SocietyLounge
+sociology
 SofiaVergara
 softwaregore
 solarpunk
@@ -6004,6 +6011,7 @@ treeseatingthings
 TreesSuckingOnThings
 tressless
 tretinoin
+triangle
 Trigun
 triplej
 trippinthroughtime
