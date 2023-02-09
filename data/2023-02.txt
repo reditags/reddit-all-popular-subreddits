@@ -489,6 +489,7 @@ Audi
 Augenbleiche
 AujourdhuiJaiAppris
 Aurelion_Sol_mains
+ausents
 AusFinance
 auslaw
 AusLegal
@@ -3081,6 +3082,7 @@ iphonewallpapers
 ipl
 iRacing
 ireland
+IreliaMains
 irezumi
 IrishHistory
 irishpersonalfinance
@@ -4907,6 +4909,7 @@ rareinsults
 rarepuppers
 Rarethreats
 raspberry_pi
+RASPBERRY_PI_PROJECTS
 RatchetAndClank
 Ratorix
 RATS
@@ -5208,6 +5211,7 @@ SeikoMods
 seinfeld
 seinfeldgifs
 SeishunButaYarou
+seiyuu
 Sekiro
 SelenaGomez
 self
@@ -5841,6 +5845,7 @@ TheBear
 TheBidenshitshow
 thebindingofisaac
 TheBoys
+TheBoysChannel
 TheBrewery
 TheBullWins
 thecatdimension
