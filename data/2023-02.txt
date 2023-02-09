@@ -37,6 +37,7 @@
 3Dmodeling
 3Dprinting
 3DS
+3dshacks
 3kliksphilip
 40kLore
 49ers
@@ -1846,6 +1847,7 @@ dungeondraft
 DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
+dustkitties
 dutch
 dvdcollection
 dwarffortress
@@ -2671,6 +2673,7 @@ hatsune
 hauntedchocolatier
 HauntedMound
 Hawaii
+hawwkey
 haydenpanettiere
 HayleyAtwell
 hayleywilliams
@@ -5704,6 +5707,7 @@ Sysadminhumor
 systemofadown
 SystemsCringe
 sza
+TabbyCats
 tacobell
 Tacoma
 tacticalgear
