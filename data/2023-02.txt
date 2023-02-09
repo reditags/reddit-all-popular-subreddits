@@ -746,6 +746,7 @@ Bioshock
 Birates
 Birbs
 birding
+BirdLoaf
 BirdsArentReal
 birdstakingthetrain
 birdswitharms
@@ -1723,6 +1724,7 @@ DiWHY
 DiWHYNOT
 DIY
 diyelectronics
+DJs
 dkfinance
 DMAcademy
 DMDadJokes
@@ -1818,6 +1820,7 @@ DrewGooden
 Drifting
 DrillCats
 Drizzy
+drones
 dropout
 DrStone
 DRSyourGME
@@ -4207,6 +4210,7 @@ NintendoMemes
 NintendoStitch
 NintendoSwitch
 NintendoSwitchDeals
+Nioh
 Nirvana
 njpw
 NLBest
@@ -6392,6 +6396,7 @@ WalmartCelebrities
 WaltDisneyWorld
 WANDAVISION
 wankil
+war
 WarAndPeas
 warcraftlore
 Warframe
