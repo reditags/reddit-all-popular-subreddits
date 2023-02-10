@@ -322,6 +322,7 @@ Animemes
 AnimeMirchi
 animenocontext
 AnimeNoises
+animepiracy
 AnimeSketch
 AnimeTomboys
 AnimeWallpapersSFW
@@ -443,6 +444,7 @@ asiangirlsbeingcute
 ask
 AskAcademia
 AskACanadian
+AskAnAmerican
 AskAnAustralian
 askanelectrician
 AskBalkans
@@ -1232,6 +1234,7 @@ ChurchOfJirou
 ChurchOfKasumi
 ChurchofLucy
 ChurchofMarnie
+ChurchOfMinaAshido
 ChurchOfSenko
 churchofskadi
 chuunibyou
@@ -1318,6 +1321,7 @@ Columbina_Mains
 Columbus
 CombatFootage
 combinedgifs
+comedy
 comedyamputation
 ComedyArchaeology
 comedybangbang
@@ -1615,6 +1619,7 @@ dbxv
 dbz
 DBZDokkanBattle
 DC_Cinematic
+DCAU
 DCcomics
 dccomicscirclejerk
 DCEUleaks
@@ -1806,6 +1811,7 @@ dogs_getting_dogs
 DogsAndPlants
 DogsMirin
 dogsonroofs
+dogsusingpillows
 dogswithjobs
 Dogtraining
 dogvideos
@@ -3542,6 +3548,7 @@ legostarwars
 legostarwarsmemes
 LegoStarWarsVideoGame
 LEGOtrains
+lehrerzimmer
 lele_pons
 lemondemon
 leopardgeckos
@@ -3677,6 +3684,7 @@ LoveLive
 LoveNikki
 low_poly
 LowAltitudeJets
+LowerCaseScreams
 LowQualityMemes
 LowSodiumDestiny
 LowStakesConspiracies
@@ -6237,6 +6245,7 @@ transformers
 transgender
 transit
 TransLater
+TransMasc
 transmasc_irl
 Transmatfiring
 Transmogrification
