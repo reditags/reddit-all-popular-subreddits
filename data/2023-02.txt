@@ -438,6 +438,7 @@ ask
 AskAcademia
 AskACanadian
 AskAnAustralian
+askanelectrician
 AskBalkans
 askcarsales
 AskCulinary
@@ -1385,6 +1386,7 @@ Cornell
 Cornwall
 Coronavirus
 CoronavirusDownunder
+CoronavirusUS
 CorporateFacepalm
 Corridor
 Corvette
@@ -1883,6 +1885,7 @@ DunderMifflin
 dune
 dunememes
 dungeondraft
+Dungeons_and_Dragons
 DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
@@ -2550,6 +2553,7 @@ goats
 GoatsOnTopOfHorses
 goblincore
 GoblinSlayer
+GodDesigns
 GodofWar
 GodofWarRagnarok
 godot
@@ -3596,6 +3600,7 @@ logodesign
 LokiTV
 Lolirefugees
 london
+londonontario
 lonely
 longbeach
 longboarding
