@@ -1619,6 +1619,7 @@ dccomicscirclejerk
 DCEUleaks
 DDintoGME
 DDLC
+DDLCMods
 de
 de_EDV
 de_IAmA
@@ -1651,6 +1652,7 @@ DeepSpaceNine
 deftones
 Degrassi
 Dehyamains
+Delaware
 delhi
 deliciouscompliance
 Delightfullychubby
@@ -2403,6 +2405,7 @@ futebol
 FUTMobile
 futurama
 future
+Futuremoe
 futureporn
 Futurology
 G59
@@ -2938,6 +2941,7 @@ ibs
 IcebergCharts
 icecoast
 IceCreamWaifu
+IceNineKills
 ich_iel
 ichbin14unddasisttief
 ichbin40undlustig
@@ -3160,6 +3164,7 @@ IrishHistory
 irishpersonalfinance
 IRLEasterEggs
 IronFrontUSA
+ironmaiden
 ironmouse
 ironscape
 IronWarriors
@@ -3816,6 +3821,7 @@ MayaHawke
 maybemaybemaybe
 MayDayStrike
 mazda
+mazda3
 MBA
 MBMBAM
 mbti
@@ -4104,6 +4110,7 @@ Mtf_irl
 MTFSelfieTrain
 mtg
 mtgfinance
+mtgvorthos
 MtvChallenge
 MUAontheCheap
 MuayThai
@@ -4369,6 +4376,7 @@ NotTimAndEric
 nottingham
 nova
 NovaScotia
+noveltranslations
 nowmycat
 noworking
 NPPfunny
@@ -4659,6 +4667,7 @@ pearljam
 PecsAndPecBouncing
 Pedro_Pascal
 PeepShowQuotes
+peloton
 pelotoncycle
 pelotonmemes
 penguin
@@ -4840,6 +4849,7 @@ PopArtNouveau
 popculturechat
 popheadscirclejerk
 popping
+poppunkers
 Popular_Science_Ru
 PornIsMisogyny
 porramauricio
@@ -4880,6 +4890,7 @@ PrequelMemes
 PresidentialRaceMemes
 Presidents
 PrettyGirls
+PrettyGirlsUglyFaces
 PrettyLittleLiars
 PrettyOlderWomen
 prey
@@ -5679,6 +5690,7 @@ StardustCrusaders
 Starfield
 starfinder_rpg
 Stargate
+Starlink
 starsector
 StarshipPorn
 StarStable
@@ -6304,6 +6316,7 @@ Twitch
 twitchasians
 Twitter
 twittermoment
+TwoHotTakes
 Twokinds
 TwoRedditorsOneCup
 TwoSentenceHorror
@@ -6405,6 +6418,7 @@ unwholesomememes
 uofm
 upcycling
 UpliftingNews
+upstate_new_york
 UpvoteBecauseButt
 upvoteexeggutor
 urbancarliving
@@ -6492,6 +6506,7 @@ vintage
 vintageads
 VintageApple
 vintageaudio
+vintagecomputing
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
@@ -6685,6 +6700,7 @@ wildlifephotography
 wildrift
 willwood
 wimmelbilder
+windows
 Windows10
 Windows11
 windsorontario
@@ -6823,6 +6839,7 @@ Yotsubros
 YouBelongWithMemes
 youdontmattergiveup
 youdontsurf
+YouFellForItFool
 YoujoSenki
 youngpeoplereddit
 youngpeopleyoutube
