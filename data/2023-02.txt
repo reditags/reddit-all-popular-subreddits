@@ -506,6 +506,7 @@ attackontitan
 AubreyPlaza
 auckland
 Audi
+audible
 Augenbleiche
 AujourdhuiJaiAppris
 Aurelion_Sol_mains
@@ -4239,6 +4240,7 @@ nekoatsume
 NelliesNest
 NeonGenesisEvangelion
 neopets
+neovim
 Nepal
 nerdfighters
 Nerf
@@ -5232,6 +5234,7 @@ RussiaUkraineWar2022
 rustjerk
 rutgers
 rva
+RVLiving
 rvnxmango
 RWBY
 ryujin
