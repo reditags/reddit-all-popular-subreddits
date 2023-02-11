@@ -3798,6 +3798,7 @@ MachineLearning
 MachinePorn
 Machinists
 MacMiller
+MacOS
 MacroPorn
 macsetups
 Madden
@@ -4757,6 +4758,7 @@ Pathfinder_RPG
 pathfindermemes
 PathofChampions
 pathofexile
+pathologic
 PathToNowhere
 PatMcAfeeShowOfficial
 Patriots
@@ -6207,6 +6209,7 @@ thenetherlands
 TheNightFeeling
 TheNinthHouse
 theocho
+TheOfficialPodcast
 TheOldZealand
 TheOnion
 TheOrville
