@@ -463,6 +463,7 @@ AskMiddleEast
 AskNYC
 AskOldPeople
 AskOuija
+AskPhotography
 AskReddit
 askscience
 AskScienceFiction
@@ -788,6 +789,7 @@ BitLifeApp
 Bitwarden
 bizarrebuildings
 bizarrelife
+BJD
 bjork
 blackcats
 Blackcelebrity
@@ -832,6 +834,7 @@ blurrypicturesofcats
 blursed_memes
 blursed_videos
 blursedimages
+bmbmbm
 BMW
 boardgames
 boardsofcanada
@@ -2634,6 +2637,7 @@ granturismo
 graphic_design
 graphicnovels
 Grapplerbaki
+grateful_dead
 gratefuldead
 gratefuldoe
 gravelcycling
@@ -2670,6 +2674,7 @@ gtavcustoms
 Guadalajara
 GuardianTales
 Guelph
+GuildWars
 Guildwars2
 GuildWarsDyeJob
 GuiltyDogs
@@ -3251,6 +3256,7 @@ JeanMains
 jedicouncilofelrond
 JEENEETards
 Jeep
+JeepWrangler
 JeffArcuri
 jellybeantoes
 JennaLouiseColeman
@@ -5333,6 +5339,7 @@ SchizophreniaRides
 schizoposters
 schkreckl
 schnauzers
+schoolfights2
 SchoolIdolFestival
 science
 ScienceBasedParenting
@@ -5928,6 +5935,7 @@ TampaBayLightning
 Tampere
 tankiejerk
 TankPorn
+TankPornMemes
 tanks
 TanmayBhatKeDost
 taoism
@@ -6717,6 +6725,7 @@ wholesomejojo
 wholesomememes
 wholesomemes
 WholesomeSliceOfLife
+wholesometransmemes
 whoselineisitanyway
 whothefuckup
 WhyWereTheyFilming
