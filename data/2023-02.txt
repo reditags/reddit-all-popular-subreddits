@@ -778,6 +778,7 @@ biologymemes
 bioniclelego
 bioniclememes
 Bioshock
+BipolarMemes
 Birates
 Birbs
 birding
@@ -884,6 +885,7 @@ bookporn
 books
 bookshelf
 booksuggestions
+Boomerhumour
 BoomersBeingFools
 boopablenosies
 boottoobig
@@ -1803,6 +1805,7 @@ diyelectronics
 DJs
 dkfinance
 DMAcademy
+DMB
 DMDadJokes
 DMT
 DMZ
@@ -2682,6 +2685,7 @@ GriefSupport
 grilledcheese
 grilling
 Grimdank
+Grimdawn
 Grimes
 GriseldaxFR
 Gronkh
@@ -3197,6 +3201,7 @@ inthenews
 intj
 intotheradius
 intotheshadowrealm
+INTPmemes
 intresseklubben
 introvert
 introvertmemes
@@ -3548,6 +3553,7 @@ languagelearning
 languagelearningjerk
 lansing
 lasercutting
+lastfm
 lastimages
 lastpodcastontheleft
 lastweektonight
@@ -4016,6 +4022,7 @@ MildFemboys
 mildlyevangelion
 mildlyinfuriating
 mildlyinteresting
+Mildlynomil
 mildlysatisfying
 MildlyStartledCats
 mildlyterrifying
@@ -4961,6 +4968,7 @@ PourPainting
 poutine
 pouts
 povertyfinance
+povertyfinancecanada
 PowerBI
 powerrangers
 powerwashingporn
@@ -5069,6 +5077,7 @@ QAnonCasualties
 QanonKaren
 Qdpay
 qotsa
+Quadeca
 Quebec
 QuebecLibre
 queen
@@ -5822,6 +5831,7 @@ starwarsspeculation
 StassieBaby
 stateball
 stateofMN
+StationEleven
 STAYC
 steak
 Stealthbombers
@@ -6374,6 +6384,7 @@ trippinthroughtime
 trippy
 TrishylandWifeys
 TrollCoping
+trolleyproblem
 TrollYChromosome
 tron
 Trophies
@@ -6907,6 +6918,7 @@ ww2
 ww2memes
 WWE
 WWEGames
+WWFC
 wwiipics
 WWIIplanes
 wyldeflowers
