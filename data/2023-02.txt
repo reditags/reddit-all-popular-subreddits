@@ -961,6 +961,7 @@ BrookeMonkLegs
 Brooklyn
 brooklynninenine
 Browns
+Brunei
 brushybrushy
 BryceDallasHoward
 BSG
@@ -3583,6 +3584,7 @@ LEGOtrains
 lehrerzimmer
 lele_pons
 lemondemon
+LeniKlum
 leopardgeckos
 LeopardsAteMyFace
 leotards
@@ -5125,6 +5127,7 @@ recruitinghell
 Recursion
 red_velvet
 reddeadfashion
+reddeadmysteries
 RedDeadOnline
 reddeadredemption
 reddeadredemption2
@@ -5183,6 +5186,7 @@ RetroAR
 RetroArch
 retrobattlestations
 RetroBowl
+RetroCool
 RetroFuturism
 retrogaming
 reverseanimalrescue
@@ -6344,6 +6348,7 @@ TrueAnon
 TrueCrime
 TrueCrimeDiscussion
 TrueFilm
+truegaming
 TrueReddit
 TrueSTL
 truetf2
