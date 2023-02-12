@@ -1104,6 +1104,7 @@ CasualUK
 cat
 cataclysmdda
 CatAdvice
+catalunya
 Catan
 CatastrophicFailure
 catbellies
@@ -3685,6 +3686,7 @@ liberta
 Libertarian
 librandu
 Libraries
+libraryofruina
 libsofreddit
 lies
 lifehacks
@@ -4176,6 +4178,7 @@ moncton
 MoneyDiariesACTIVE
 MonicaBellucci
 Monke
+monkeyspaw
 MonorailCats
 Monstera
 MonsterAnime
@@ -6783,6 +6786,7 @@ WarhammerFantasy
 warhammerfantasyrpg
 WarplanePorn
 WarriorCats
+WarriorNun
 warriors
 warsaw
 WarshipPorn
