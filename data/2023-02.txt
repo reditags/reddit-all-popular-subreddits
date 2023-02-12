@@ -249,6 +249,7 @@ AMCSTOCKS
 Amd
 AMD_Stock
 AmeliaWatson
+AmerExit
 AmericaBad
 americandad
 AmericanFascism2020
@@ -727,6 +728,7 @@ belgium
 Belgium2
 Bellapoarch
 belowdeck
+beltalowda
 Ben10
 Bend
 BendyAndTheInkMachine
@@ -2353,8 +2355,10 @@ ForAllMankindTV
 forbiddenboops
 forbiddensnacks
 FordMaverickTruck
+Forest
 Forex
 ForFashion
+Forgotten_Realms
 ForgottenBookmarks
 ForgottenWeapons
 forhonor
@@ -3735,6 +3739,7 @@ listentothis
 literaciafinanceira
 literature
 lithuania
+litrpg
 LitterboxComics
 LittleNightmares
 LittleNuns
@@ -3854,6 +3859,7 @@ macsetups
 Madden
 MadeInAbyss
 MadelainePetsch
+madelineargy
 MadelineHope
 MadelynCline
 MadeMeCry
@@ -6757,6 +6763,7 @@ virginvschad
 virtualreality
 Visiblemending
 visualnovels
+vizsla
 VocabWordOfTheDay
 Vocaloid
 void_memes
