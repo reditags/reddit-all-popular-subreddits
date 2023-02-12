@@ -444,6 +444,7 @@ ArtHistory
 artificial
 ArtisanVideos
 ArtNouveau
+ArtOfRolling
 ArtPorn
 AsaCumEramOdata
 asaprocky
@@ -2570,6 +2571,7 @@ GeForceNOW
 gekte
 Gemini
 GemmaArterton
+gemmaatkinson
 Gemstones
 genderfluid_irl
 generative
@@ -2860,6 +2862,7 @@ hbomberguy
 headpats
 Health
 Healthygamergg
+heartbreak
 hearthstone
 hearthstonecirclejerk
 HeartstopperAO
@@ -2992,6 +2995,7 @@ hotdudeswithplants
 HotlineMiami
 HotPaper
 HotPeppers
+hotsauce
 HottestFemaleAthletes
 hottoys
 hotwebseries_india
@@ -3050,6 +3054,7 @@ Iamactuallyverybadass
 iamatotalpieceofshit
 IAmTheMainCharacter
 iamverybadass
+iamveryculinary
 iamverysmart
 IASIP
 IBO
@@ -4450,6 +4455,7 @@ NFCEastMemeWar
 NFCNorthMemeWar
 nfcsouthmemewar
 NFCWestMemeWar
+nfl
 nflcirclejerk
 nflmemes
 NFT
@@ -4532,6 +4538,7 @@ NorthCarolina
 northernireland
 northernlion
 Norway
+nosafetysmokingfirst
 NoSanaNoLife
 nosleep
 nostalgia
@@ -5209,6 +5216,7 @@ RaidenMei
 raiders
 raidsecrets
 RaidShadowLegends
+railroading
 raimimemes
 Rainbow6
 RainbowEverything
@@ -5895,6 +5903,7 @@ Spunchbob
 Spyro
 SpyxFamily
 SquaredCircle
+squidgame
 squirrels
 squishmallow
 SRAWeekend
