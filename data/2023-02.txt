@@ -1247,6 +1247,7 @@ ChevyTrucks
 CHIBears
 chicagobulls
 chicagofood
+Chicken_Thoughts
 chickengifs
 chickens
 CHICubs
@@ -2097,6 +2098,7 @@ EpicClusterfuck
 EpicGamesPC
 EpicMounts
 EpicSeven
+Episode
 Epstein
 equelMemes
 equestriaatwar
@@ -3587,6 +3589,7 @@ KSPMemes
 KuboSanWontLeaveMeBe
 KumoDesu
 Kurisutina
+kurtisconner
 Kurumi
 kurzgesagt
 KusanaliMains
@@ -4577,6 +4580,7 @@ nycrail
 NYGiants
 nyjets
 NYKnicks
+NyviEstephan
 NYYankees
 O_PACOTE
 OakIsland
@@ -4913,6 +4917,7 @@ PHgoneMild_2
 philadelphia
 Philippines
 phillies
+PhillyUnion
 philosophy
 PhilosophyMemes
 PhilosophyTube
@@ -5099,6 +5104,7 @@ PRINCE
 PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
+Prisonwallet
 privacy
 PrivacyGuides
 proceduralgeneration
@@ -5924,6 +5930,7 @@ starterpacks
 StartledCats
 startrekgifs
 startrekmemes
+StarTrekStarships
 StarVStheForcesofEvil
 StarWars
 StarWarsAndor
@@ -6199,6 +6206,7 @@ TeslaModelY
 teslamotors
 TESOfashion
 Testosterone
+Tetris
 Texans
 texas
 TexasPolitics
@@ -7063,6 +7071,7 @@ XboxSeriesX
 Xcom
 Xennials
 Xenoblade_Chronicles
+XenobladeChronicles2
 Xenonion
 XenonMains
 XFiles
