@@ -651,6 +651,7 @@ baseballcards
 baseballcirclejerk
 basketballcards
 Bass
+basset
 bassethounds
 bassfishing
 BassGuitar
@@ -1832,6 +1833,7 @@ DiWHY
 DiWHYNOT
 DIY
 diyelectronics
+DIYUK
 DJs
 dkfinance
 DMAcademy
@@ -5072,6 +5074,7 @@ PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
 privacy
+PrivacyGuides
 proceduralgeneration
 ProCreate
 productivity
