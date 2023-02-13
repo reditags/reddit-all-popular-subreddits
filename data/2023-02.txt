@@ -1606,6 +1606,7 @@ CursedTanks
 cursedvideos
 CurseofStrahd
 customhearthstone
+CustomKeyboards
 custommagic
 CustomPlayerCutscene
 cute
@@ -2532,6 +2533,7 @@ future
 Futuremoe
 futureporn
 Futurology
+FWFBThinkTank
 G2eSports
 G59
 gachagaming
@@ -4069,6 +4071,7 @@ MedievalCats
 MedievalHistoryMemes
 Meditation
 medizzy
+medlabprofessionals
 megaconstrux
 Megadeth
 megalophobia
@@ -6866,6 +6869,7 @@ vintagejapaneseautos
 VintageLadyBoners
 vinyl
 vinyljerk
+VinylReleases
 VioletEvergarden
 ViralFun
 Virginia
