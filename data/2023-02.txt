@@ -273,6 +273,7 @@ amphibia
 AMPToken
 Amsterdam
 AmyAdams
+anadanmuhalif
 AnadeArmas
 analog
 AnalogCircleJerk
@@ -6668,6 +6669,7 @@ Ulta
 Ultrakill
 Ultralight
 ultralight_jerk
+Ultraman
 Ultramarathon
 ultrawidemasterrace
 UmbrellaAcademy
