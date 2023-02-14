@@ -1515,6 +1515,7 @@ cowcats
 coys
 cozy
 CozyFantasy
+CozyGrove
 CozyPlaces
 CPA
 cpp
@@ -2801,6 +2802,7 @@ Gronkh
 GroundedGame
 GrowingMarijuana
 grunge
+gshock
 GTA
 GTA6
 gtaonline
@@ -5672,6 +5674,7 @@ Scrubs
 scrungycats
 scuba
 scuderiaferrari
+ScuttleCrabMains
 SDRUntucked
 SDSGrandCross
 seaglass
@@ -5798,6 +5801,7 @@ shittyrainbow6
 shittyreactiongifs
 ShittyRestrictionFood
 shittyrobots
+shittysimulated
 shittyskylines
 shittysuperpowers
 shittytattoos
@@ -6414,6 +6418,7 @@ TheEminenceInShadow
 TheeOhSees
 TheEricAndreShow
 TheExpanse
+thefalconandthews
 TheFarSide
 TheFence
 thefighterandthekid
