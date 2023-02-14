@@ -484,6 +484,7 @@ AskCulinary
 AskDocs
 AskEngineers
 AskFrance
+AskGayMen
 AskHistorians
 asklatinamerica
 AskLosAngeles
@@ -1014,6 +1015,7 @@ BrookeMonkLegs
 Brooklyn
 brooklynninenine
 Browns
+BruceSpringsteen
 Brunei
 brushybrushy
 BryceDallasHoward
@@ -1423,6 +1425,7 @@ ComedyHell
 comedyhomicide
 comedynecromancy
 ComedyNecrophilia
+comfypasta
 comicbookart
 comicbookcollecting
 comicbookmovies
@@ -1985,6 +1988,7 @@ dresden
 DrewDurnil
 DrewGooden
 Drifting
+dril
 DrillCats
 Drizzy
 drones
@@ -2801,6 +2805,7 @@ Grimdank
 Grimdawn
 Grimes
 GriseldaxFR
+Grishaverse
 Gronkh
 GroundedGame
 GrowingMarijuana
@@ -3125,6 +3130,7 @@ ibs
 IcebergCharts
 icecoast
 IceCreamWaifu
+IceFishing
 IceNineKills
 ich_iel
 ichbin14unddasisttief
@@ -3421,6 +3427,7 @@ jambands
 JamesBond
 JamesHoffmann
 jameswebb
+janeausten
 January6
 japan
 japanese
@@ -3736,6 +3743,7 @@ leanbeefpatty
 LearmannTwins
 learningtocat
 LearnJapanese
+learnmachinelearning
 learnprogramming
 learnpython
 learntodraw
@@ -3818,6 +3826,7 @@ liluzivert
 lilycheeclub
 LilyCollins
 LilyJames
+LiminalReality
 LiminalSpace
 lindsayclancy
 lingling40hrs
