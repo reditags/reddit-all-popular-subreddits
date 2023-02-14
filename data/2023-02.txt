@@ -640,6 +640,7 @@ BadChoicesGoodStories
 badcode
 BadDesigns
 Badfaketexts
+badhistory
 BadMensAnatomy
 badMovies
 BadMtgCombos
@@ -2223,6 +2224,7 @@ ExperiencedDevs
 explainlikeimfive
 ExposingTrishaPaytas
 ExposurePorn
+ExtinctionRebellion
 ExtraFabulousComics
 ExtremeCarCrashes
 extremelyinfuriating
