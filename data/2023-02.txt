@@ -887,6 +887,7 @@ Blep
 Blessed_Images
 blessedimages
 Blink182
+BlockedAndReported
 BloodAngels
 blop
 BlueJackets
@@ -4708,6 +4709,7 @@ noveltranslations
 nowmycat
 noworking
 NPPfunny
+NPR
 nrl
 NSFWPublicFreakout
 NTU
@@ -5410,6 +5412,7 @@ RATS
 Ravenfield
 ravens
 rawdenim
+razer
 RBI
 RCB
 rct
@@ -6219,6 +6222,7 @@ SubsTakenLiterally
 Suburbanhell
 SubwayCreatures
 SuccessionTV
+succshaming
 SuchiChristmasDog
 suddenlybi
 suddenlycaralho
