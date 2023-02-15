@@ -121,6 +121,7 @@ acnh
 acotar
 ACPocketCamp
 ACQR
+acrylicpainting
 ActionFigures
 ActivationSound
 ActLikeYouBelong
@@ -4438,6 +4439,7 @@ MushroomGrowers
 Mushrooms
 Music
 musicaljenga
+musicals
 MusicBattlestations
 musicproduction
 Mustang
@@ -4661,6 +4663,7 @@ NonCredibleDiplomacy
 NonCredibleOffense
 NoneHumanMoe
 NonFunctionSlackFill
+nonmurdermysteries
 nononono
 nonononoyes
 NonPoliticalTwitter
@@ -5940,6 +5943,7 @@ SlavaUkrayini
 slavs_squatting
 slaythespire
 SleepToken
+Sleepycabin
 slimerancher
 Slipknot
 sloths
@@ -6867,6 +6871,7 @@ unixporn
 unket
 unlikelyfriends
 UnnecessaryInventions
+unOrdinary
 UnpopularLoreOlympus
 unpopularopinion
 unrealengine
@@ -7124,6 +7129,7 @@ WetlanderHumor
 WeWantPlates
 WGU
 WhatAWeeb
+whatcarshouldIbuy
 whatcouldgoright
 Whatcouldgowrong
 whatintarnation
