@@ -1944,6 +1944,7 @@ dogpictures
 dogs
 dogs_getting_dogs
 DogsAndPlants
+dogsgettingdogs
 dogslookingdown
 DogsMirin
 dogsonroofs
@@ -3278,6 +3279,7 @@ ImaginaryWitcher
 ImaginaryWitches
 ImaginaryWizards
 ImaginaryWorldEaters
+ImaginaryWorlds
 ImagineThisView
 imatotalpeiceofshit
 ImFinnaGoToHell
@@ -5392,6 +5394,7 @@ QuebecLibre
 queen
 queensland
 queensofgenshin
+QuestPro
 quilting
 quityourbullshit
 Qult_Headquarters
@@ -6781,6 +6784,7 @@ trucksim
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
+TrueDetective
 TrueFilm
 truegaming
 TrueReddit
@@ -6920,6 +6924,7 @@ unitedstatesofindia
 Unity3D
 UniUK
 Universitaly
+UniversityOfHouston
 unixporn
 unket
 unlikelyfriends
