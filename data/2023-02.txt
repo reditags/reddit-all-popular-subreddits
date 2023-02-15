@@ -96,6 +96,7 @@ Absurdism
 ac_newhorizons
 ACAB
 academia
+AcademicHelp_net
 AccidentalAlly
 AccidentalCamouflage
 AccidentalComedy
@@ -2584,6 +2585,7 @@ Futurology
 FWFBThinkTank
 G2eSports
 G59
+GachaClub
 gachagaming
 gadgets
 galatasaray
@@ -2996,6 +2998,7 @@ hiddenrooms
 HiFiRush
 HighHeels
 HighQualityGifs
+HighResCelebs
 HighStrangeness
 HikaruNakamura
 HilariaBaldwin
@@ -4804,6 +4807,7 @@ okbuddyreze
 okbuddyrintard
 okbuddyvowsh
 okc
+okcimboraretardalt
 okcopainattard
 okdraugedebile
 okemakkermaloot
@@ -5841,6 +5845,7 @@ shitpostbound
 ShitpostBR
 ShitPostCrusaders
 shitposting
+shitposting_inc
 ShitpostTC
 ShitpostXIV
 ShitRimworldSays
@@ -6285,6 +6290,7 @@ suspiciousquotes
 sustainability
 susu_jpg
 suzerain
+svenskpolitik
 Sverige
 SVU
 SwainMains
@@ -6549,6 +6555,7 @@ thesopranos
 TheStrokes
 thetagang
 TheTempleOfOchako
+thetrans
 thetron
 TheTrumpZone
 TheTryGuys
