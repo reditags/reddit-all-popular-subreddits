@@ -3418,6 +3418,7 @@ ItHadToBeBrazil
 IThinkYouShouldLeave
 itookapicture
 ITookAPicturePH
+itrunsdoom
 itstheyak
 ItsukiClassroom
 IttoMains
@@ -4130,6 +4131,7 @@ meatcrayon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
+mechanics
 mechmarket
 Mechwarrior5
 MedicalGore
@@ -4437,6 +4439,7 @@ Mushrooms
 Music
 musicaljenga
 MusicBattlestations
+musicproduction
 Mustang
 MVIS
 MxRMods
@@ -5828,6 +5831,7 @@ shittyaskscience
 shittybattlestations
 shittybloodborne
 ShittyCarMod
+ShittyDaystrom
 shittyeldenring
 shittyfoodporn
 shittygamedetails
@@ -6343,6 +6347,7 @@ tbatenovel
 TBJZL
 tea
 Teachers
+teaching
 TeamfightTactics
 TeamFourStar
 tearsofthekingdom
