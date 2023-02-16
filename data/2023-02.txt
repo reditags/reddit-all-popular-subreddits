@@ -2777,6 +2777,7 @@ Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
 GlobalTribe
+GlockMod
 Glocks
 Gloomhaven
 gloomspitegitz
@@ -7200,6 +7201,7 @@ WarriorNun
 warriors
 warsaw
 WarshipPorn
+WarTalesGame
 warthundermemes
 Warzone
 washingtonwizards
