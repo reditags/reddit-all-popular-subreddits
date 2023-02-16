@@ -1776,6 +1776,7 @@ de_EDV
 de_IAmA
 deadbydaylight
 deadcells
+deadlockpw
 deadlyoops
 deadmalls
 deadmeatjames
@@ -1961,6 +1962,7 @@ dogecoin
 dogelore
 Doggles
 doggos
+doggrooming
 DoggyDNA
 dogpictures
 dogs
@@ -2127,6 +2129,7 @@ eldercactus
 ElderKings
 ElderScrolls
 elderscrollsonline
+electrical
 ElectricalEngineering
 electricians
 ElectroBOOM
@@ -5244,6 +5247,7 @@ Plumbing
 plushies
 PlusSizeFashion
 pocketpussy
+podcasts
 Poem_for_your_sprog
 Poetry
 pointlesslygendered
@@ -6709,6 +6713,7 @@ TILI
 tiltshift
 TimAndEric
 Timberborn
+timbers
 timberwolves
 TimDillon
 TimPool
@@ -6796,6 +6801,7 @@ traderjoes
 traditionaltattoos
 Traeger
 trailerparkboys
+trailers
 trailrunning
 TrainPorn
 trains
@@ -6915,6 +6921,7 @@ TwoXIndia
 tyingherhairup
 tylerthecreator
 typemoon
+typeonegative
 typography
 Tyranids
 tzuyu
@@ -7126,6 +7133,7 @@ VioletEvergarden
 ViralFun
 Virginia
 virginvschad
+VirtualCosplay
 virtualreality
 Visiblemending
 visualnovels
@@ -7212,6 +7220,7 @@ watchthingsfly
 Watercolor
 watercolorcats
 watercooling
+WaterdeepDragonHeist
 Waterdogs
 waterloo
 waterporn
