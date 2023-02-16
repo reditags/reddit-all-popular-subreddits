@@ -1884,6 +1884,7 @@ diabetes
 diabetes_t1
 Diablo
 diablo2
+Diablo_2_Resurrected
 diamondpainting
 DianeGuerrero
 DicePorn
@@ -4979,6 +4980,7 @@ Opeth
 OpIsFuckingStupid
 opossum_irl
 Opossums
+OpTicGaming
 orangecats
 orangecounty
 orangetheory
@@ -6435,6 +6437,7 @@ systemofadown
 SystemsCringe
 sza
 TabbyCats
+tabletopgamedesign
 tacobell
 Tacoma
 tacticalgear
