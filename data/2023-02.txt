@@ -2913,6 +2913,7 @@ h3h3productions
 H3VR
 Habs
 hacking
+hackintosh
 HadesTheGame
 HadToHurt
 haikyuu
@@ -6096,6 +6097,7 @@ SonsOfTheForest
 SonyAlpha
 SoulCalibur
 SoulKnight
+Soulnexus
 SoulsSliders
 SoundersFC
 SoundsLikeMusic
