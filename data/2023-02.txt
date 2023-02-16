@@ -9,6 +9,7 @@
 13or30
 1500isplenty
 15minutefood
+1899
 1911
 19684
 197
@@ -759,6 +760,7 @@ BEFire
 BeforeNAfterAdoption
 BeginnerWoodWorking
 behindthebastards
+BehindTheClosetDoor
 beholdthemasterrace
 BeidouMains
 BelgianMalinois
@@ -2379,6 +2381,7 @@ finance
 FinancialCareers
 financialindependence
 Finanzen
+findapath
 findfashion
 FindTheSniper
 FingMemes
@@ -3078,6 +3081,7 @@ homeassistant
 homeautomation
 Homebuilding
 HomeDecorating
+homedefense
 HomeDepot
 homegym
 HomeImprovement
@@ -3180,6 +3184,7 @@ iamverybadass
 iamveryculinary
 iamverysmart
 IASIP
+IBEW
 IBO
 ibs
 IcebergCharts
@@ -5095,6 +5100,7 @@ PerfectlyCutMeows
 perfectlycutscreams
 perfectlycutyeets
 perfectlykelseysnark
+PerfectMatchNetflix
 PerfectTiming
 Permaculture
 Persecutionfetish
