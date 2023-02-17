@@ -441,6 +441,7 @@ ArchitecturalRevival
 architecture
 ArchitecturePorn
 archlinux
+arcteryx
 arcticmonkeys
 arduino
 argentina
@@ -2120,6 +2121,7 @@ EDM
 Edmonton
 EDP445
 educationalgifs
+edwinbarnesc
 Eesti
 eezygang
 eFootball
@@ -3757,6 +3759,7 @@ Kokomi_Mains
 kolkata
 kollywood
 Komi_san
+konmari
 Konosuba
 korea
 KoreanFood
@@ -6352,6 +6355,7 @@ stupidpol
 stuttgart
 stylesavvy
 subaru
+Subliminal
 submarines
 submechanophobia
 subnautica
