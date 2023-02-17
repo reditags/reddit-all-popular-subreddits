@@ -1187,6 +1187,7 @@ CatastrophicFailure
 catbellies
 catbongos
 Catbun
+catburnouts
 Catculations
 catdimension
 catfaceplant
@@ -5500,6 +5501,7 @@ pyrocynical
 Python
 QAnonCasualties
 QanonKaren
+Qartn
 Qdpay
 qotsa
 Quadeca
@@ -6423,6 +6425,7 @@ SuperAthleteGifs
 superautopets
 Superbowl
 superman
+SupermanAndLois
 SuperMegaShow
 SupermodelCats
 SuperModelIndia
