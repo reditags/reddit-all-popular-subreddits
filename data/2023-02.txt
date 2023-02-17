@@ -767,6 +767,7 @@ BeginnerWoodWorking
 behindthebastards
 BehindTheClosetDoor
 beholdthemasterrace
+Beichtstuhl
 BeidouMains
 BelgianMalinois
 belgium
@@ -2052,6 +2053,7 @@ Drifting
 dril
 DrillCats
 Drizzy
+DronedOrc
 drones
 dropout
 DrStone
@@ -3989,6 +3991,7 @@ LofiHipHop
 logodesign
 loki
 LokiTV
+lolcats
 Lolirefugees
 loltyler1
 london
@@ -4257,6 +4260,7 @@ Megumin
 meirl
 Melanime
 melbourne
+MelbourneTrains
 MelissaFumero
 MelvorIdle
 meme
