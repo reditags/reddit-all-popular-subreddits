@@ -2855,6 +2855,7 @@ Gothenburg
 GothFashion
 GothGirls
 GothStyle
+GR86
 gradadmissions
 GradSchool
 GradualChaos
@@ -3863,6 +3864,7 @@ LeaguesofVotann
 LeaksDBD
 leanbeefpatty
 LearmannTwins
+learnfrench
 learningtocat
 LearnJapanese
 learnmachinelearning
@@ -4253,6 +4255,7 @@ MedievalHistoryMemes
 Meditation
 medizzy
 medlabprofessionals
+mega64
 megaconstrux
 Megadeth
 megalophobia
@@ -5253,6 +5256,7 @@ pinball
 pinkfloyd
 PinkFloydCircleJerk
 PinkOmega
+PinkWug
 Piracy
 PiratedGames
 Piratefolk
@@ -5643,6 +5647,7 @@ RepublicanValues
 repurposedbuildings
 rescuedogs
 researchpaperwriters
+ReservationDogs
 Residency
 residentevil
 resinprinting
@@ -6326,10 +6331,12 @@ stevenuniverse
 sticknpokes
 StLouis
 stlouisblues
+stlouiscitysc
 sto
 stockholm
 StockMarket
 stocks
+stockstobuytoday
 Stoicism
 StoicMemes
 stolendogbeds
@@ -7533,6 +7540,7 @@ YarnAddicts
 yarntrolls
 yayfoxxo
 yeat_
+Yeen_irl
 yeezys
 Yeji
 YelanMains
