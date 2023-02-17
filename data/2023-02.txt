@@ -448,6 +448,7 @@ arduino
 argentina
 ArgentinaBenderStyle
 Argnime
+AriaKarizma
 ArianaGrande
 arielwinter
 AriFletcherV2
@@ -1719,6 +1720,7 @@ Dank
 dank_meme
 DankAndrastianMemes
 dankchristianmemes
+DankExchange
 dankgentina
 dankinindia
 dankmark
@@ -3126,6 +3128,7 @@ homedefense
 HomeDepot
 homegym
 HomeImprovement
+homeimprovementideas
 HomeKit
 homelab
 homeless
@@ -4528,6 +4531,7 @@ MP5
 mpcusers
 MrBeast
 MrFruit
+mrgirlreturns
 mrlovenstein
 MrRobot
 MrTechnodad
@@ -5257,6 +5261,7 @@ pinkfloyd
 PinkFloydCircleJerk
 PinkOmega
 PinkWug
+PioneerMTG
 Piracy
 PiratedGames
 Piratefolk
@@ -5978,6 +5983,7 @@ shitcoinmoonshots
 ShitCrusaderKingsSay
 shitduolingosays
 shitfascistssay
+shitguncontrollerssay
 ShitKonfaSays
 ShitLiberalsSay
 ShitLibSafari
@@ -7265,6 +7271,7 @@ Warhammer40kEsp
 WarhammerCompetitive
 WarhammerFantasy
 warhammerfantasyrpg
+WarhammerUnderworlds
 WarplanePorn
 WarriorCats
 WarriorNun
