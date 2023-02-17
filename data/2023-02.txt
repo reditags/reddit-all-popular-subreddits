@@ -924,6 +924,7 @@ boardgames
 boardgamescirclejerk
 boardsofcanada
 boating
+bobdylan
 bobmortimer
 BobsBurgers
 BobsTavern
@@ -2753,6 +2754,7 @@ GetStudying
 GettingShredded
 GFLNeuralCloud
 GFRIEND
+ghettowhitegirls
 ghibli
 Ghost_in_the_Shell
 Ghostbc
@@ -4664,6 +4666,7 @@ netflix
 NetflixBestOf
 netflixwitcher
 Netherlands
+Netrunner
 netsec
 NettHier
 networkingmemes
@@ -5618,6 +5621,7 @@ regularcarreviews
 RegularRevenge
 regularshow
 ReiAyanami
+relacionamentos
 relationship_advice
 RelationshipMemes
 religiousfruitcake
