@@ -127,6 +127,7 @@ ACQR
 acrylicpainting
 ActionFigures
 ActivationSound
+ActiveMeasures
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
@@ -3072,6 +3073,7 @@ hitmanimals
 hmm
 hmmm
 hmmmgifs
+hoarding
 Hobbit_Memes
 HobbyDrama
 hobonichi
@@ -4069,6 +4071,7 @@ macarons
 macbook
 macbookpro
 macdemarco
+macgaming
 MachikadoMazoku
 MachineLearning
 MachinePorn
@@ -5612,6 +5615,7 @@ RepTime
 RepublicadeChile
 Republican
 RepublicanValues
+repurposedbuildings
 rescuedogs
 researchpaperwriters
 Residency
@@ -7261,6 +7265,7 @@ weaving
 web_design
 webcomics
 webdev
+Webkinz
 wec
 WECcirclejerk
 wedding
