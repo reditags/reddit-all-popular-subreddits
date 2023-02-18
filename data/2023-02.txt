@@ -1425,6 +1425,7 @@ CloneHero
 clonehigh
 clonewars
 CloneWarsMemes
+Cloud9
 CLOUDS
 Cloverfield1996_fans
 cluj
@@ -1648,6 +1649,7 @@ crystalgrowing
 Crystals
 cscareerquestions
 csgo
+CSHFans
 csMajors
 csmanime
 css_irl
@@ -3011,6 +3013,7 @@ HarFEET
 Harley
 HarleyQuinn
 HarleyQuinnTV
+Harmontown
 Harpo
 harrypotter
 HarryPotterGame
