@@ -2381,6 +2381,7 @@ FatuiHQ
 Fauxmoi
 fcbayern
 FCInterMilan
+fcporto
 fednews
 Fedora
 feedthebeast
@@ -3531,6 +3532,7 @@ ISO8601
 isometric
 isopods
 Israel
+israelexposed
 istanbul
 IsTodayFridayThe13th
 ITAGLIA
