@@ -854,6 +854,7 @@ biologymemes
 bioniclelego
 bioniclememes
 Bioshock
+biotech
 BipolarMemes
 Birates
 Birbs
@@ -1449,6 +1450,7 @@ ColdOnes
 Collectible_Avatars
 ColleenBallingerSnark
 college
+collegebaseball
 CollegeBasketball
 CollegeRant
 ColleiMains
@@ -3500,6 +3502,7 @@ ironmouse
 ironscape
 IronWarriors
 IrrationalMadness
+IRS
 IsabelaMerced
 IsekaiOjisan
 IsekaiQuartet
@@ -6075,6 +6078,7 @@ Shrek
 Shrimping
 shrimptank
 shrinkflation
+ShroomID
 shrooms
 shroomstocks
 shubreddit
@@ -6783,6 +6787,7 @@ Thisismylifemeow
 thisismylifenow
 ThisLooksFun
 ThisYouComebacks
+ThomasinMcKenzie
 thomastheplankengine
 ThousandSons
 threebodyproblem
