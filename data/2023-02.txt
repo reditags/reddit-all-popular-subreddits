@@ -130,6 +130,7 @@ ActivationSound
 ActiveMeasures
 ActLikeYouBelong
 actu_memes
+actualconspiracies
 ActualPublicFreakouts
 actuary
 Acura
@@ -1571,6 +1572,7 @@ covidlonghaulers
 cowboybebop
 cowboys
 cowcats
+CowChop
 coys
 cozy
 CozyFantasy
