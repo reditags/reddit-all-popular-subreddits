@@ -17,6 +17,7 @@
 199
 1Password
 2007scape
+2011
 2137
 21stCenturyHumour
 22lr
@@ -2369,6 +2370,7 @@ farming
 farmingsimulator
 FaruzanMains
 fashionhistory
+FashionOutfitsIdeas
 fashionporn
 FashionReps
 fashionsouls
@@ -3842,6 +3844,7 @@ krystenritter
 ksi
 KSPMemes
 KuboSanWontLeaveMeBe
+kucoin
 KujouSaraMains
 KumoDesu
 Kurisutina
@@ -4302,6 +4305,7 @@ mechmarket
 Mechwarrior5
 MedicalGore
 MedievalCats
+MedievalHistory
 MedievalHistoryMemes
 Meditation
 medizzy
@@ -4593,6 +4597,7 @@ MTB
 Mtf_irl
 MTFSelfieTrain
 mtg
+mtgcube
 mtgfinance
 mtgvorthos
 MtvChallenge
@@ -4900,6 +4905,7 @@ NuclearThrone
 NUFC
 Nujabes
 nukedmemes
+NurembergTwo
 nursing
 nus
 nutrition
@@ -5242,6 +5248,7 @@ persona4golden
 Persona5
 PersonalFinanceCanada
 perth
+PERU
 PeruanasHott
 pesmobile
 Pet_Renaissance
