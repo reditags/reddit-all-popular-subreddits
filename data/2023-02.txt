@@ -1914,6 +1914,7 @@ diabetes
 diabetes_t1
 Diablo
 diablo2
+diablo4
 Diablo_2_Resurrected
 diamondpainting
 DianeGuerrero
@@ -3097,6 +3098,7 @@ HighHeels
 HighQualityGifs
 HighResCelebs
 HighStrangeness
+Higurashinonakakoroni
 HikaruNakamura
 HilariaBaldwin
 Hilary_Duff
