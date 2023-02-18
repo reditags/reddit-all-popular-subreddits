@@ -1541,6 +1541,7 @@ CookieRunKingdoms
 Cooking
 cookingforbeginners
 CoolAmericaFacts
+CoolCollections
 CoolGadgetsTube
 coolguides
 copenhagen
@@ -1881,6 +1882,7 @@ DesignPorn
 DesiMeta
 DesirePath
 desmoines
+dessert
 DessertPorn
 Destiny
 destiny2
@@ -2825,6 +2827,7 @@ Glocks
 Gloomhaven
 gloomspitegitz
 GloriousTomBombadil
+Gloryhammer
 glossier
 gluesniffer
 glutenfree
@@ -2910,6 +2913,7 @@ GreekMythology
 GreenAndPleasant
 GreenBayPackers
 greenday
+Greenhouses
 greenville
 Grey_Knights
 Greyhounds
@@ -4761,6 +4765,7 @@ NFCEastMemeWar
 NFCNorthMemeWar
 nfcsouthmemewar
 NFCWestMemeWar
+nffc
 nfl
 nflcirclejerk
 nflmemes
@@ -5550,6 +5555,7 @@ Python
 QAnonCasualties
 QanonKaren
 Qartn
+qartntoken
 Qdpay
 qotsa
 Quadeca
@@ -5625,6 +5631,7 @@ rct
 RDR2
 Re_Zero
 reactiongifs
+reactionpics
 reactivedogs
 reactjs
 readanotherbook
