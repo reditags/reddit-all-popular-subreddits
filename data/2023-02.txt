@@ -1519,6 +1519,7 @@ CompetitiveTFT
 CompetitiveWoW
 compoface
 composting
+compsci
 computers
 computerscience
 conan
@@ -4861,6 +4862,7 @@ Nioh
 Nirvana
 njpw
 NLBest
+NLCelebs
 NLSSCircleJerk
 NMSCoordinateExchange
 NoahGetTheBoat
@@ -7545,6 +7547,7 @@ whothefuckup
 WhyWereTheyFilming
 WhyWomenLiveLonger
 Wicca
+wicked_edge
 WidacZabory
 wien
 WiggleButts
