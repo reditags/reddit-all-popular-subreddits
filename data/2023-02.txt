@@ -1515,6 +1515,7 @@ CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
 CompetitiveWoW
+compoface
 composting
 computers
 computerscience
@@ -1583,6 +1584,7 @@ CounterSide
 counterstrike
 CountOnceADay
 countryball_memes
+countryballs_comics
 CoupleMemes
 CourtneyMiller
 CovIdiots
@@ -3501,6 +3503,7 @@ intel
 InterdimensionalCable
 interesting
 interestingasfuck
+InterestingVideoClips
 interiordecorating
 InteriorDesign
 intermittentfasting
@@ -5969,6 +5972,7 @@ sciencefiction
 sciencememes
 ScienceNcoolThings
 sciences
+ScienceShitposts
 ScienceUncensored
 scifi
 SCJerk
@@ -7045,6 +7049,7 @@ TruckerConvoys
 Truckers
 Trucks
 trucksim
+trucsmoches
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
@@ -7362,6 +7367,7 @@ VyvanLe
 vzla
 W2S
 WA_guns
+WackyTicTacs
 Wales
 walkablecities
 WalkableStreets
