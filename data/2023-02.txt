@@ -3483,6 +3483,7 @@ initiald
 inkarnate
 Inkmaster
 InlandEmpire
+inlaws
 iNoobChannel
 InRangeTV
 insaneparents
@@ -5110,6 +5111,7 @@ OOTP
 OPBR
 OpenAI
 OpenArgs
+opendirectories
 opensea
 opensource
 openttd
@@ -5445,6 +5447,7 @@ Polaroid
 Polcompball
 Poldersocialisme
 poledancing
+Polestar
 police
 PoliceBrotality
 policeuk
