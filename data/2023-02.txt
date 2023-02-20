@@ -364,6 +364,7 @@ AnimeMeme
 animememes
 Animemes
 AnimeMirchi
+animenews
 animenocontext
 AnimeNoises
 animepiracy
@@ -578,6 +579,7 @@ Augenbleiche
 Augenschmaus
 AujourdhuiJaiAppris
 Aurelion_Sol_mains
+auroramusic
 ausents
 AusFinance
 auslaw
@@ -1391,6 +1393,7 @@ ChromaProfiles
 chromeos
 ChronicIllness
 ChronicPain
+ChronoCross
 chronotrigger
 ChuckleSandwich
 ChurchOfCat
@@ -4239,6 +4242,7 @@ Mahouka
 Maine
 mainecoons
 MaintenancePhase
+Mainz
 maisiewilliams
 majonotabitabi
 makememes_art
@@ -5460,6 +5464,7 @@ PokemonBDSP
 pokemongo
 pokemongobrag
 PokemonGoFriends
+PokemonInfiniteFusion
 PokemonLegendsArceus
 PokemonLetsGo
 PokemonMasters
@@ -5651,6 +5656,7 @@ Qartn
 qartntoken
 Qdpay
 qotsa
+QTN
 Quadeca
 QualityTacticalGear
 Quebec
@@ -6395,6 +6401,7 @@ SpidermanPS4
 spiders
 Spielstopp
 Spiritfarer
+spirituality
 Splendida
 sploot
 Spokane
