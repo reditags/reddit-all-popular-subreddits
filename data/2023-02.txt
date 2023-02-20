@@ -2328,6 +2328,7 @@ EulaMains
 euphoria
 EUR_irl
 europe
+EuropeanFederalists
 eurovision
 EvaCudmore
 EvaGreen
@@ -4528,6 +4529,7 @@ MilwaukeeTool
 mimovi
 mina_irl
 Mindfulness
+MindHunter
 Mindustry
 Minecraftbuilds
 MinecraftChampionship
@@ -6550,6 +6552,7 @@ stopdrinkingfitness
 StoppedWorking
 StoriesAboutKevin
 Stormlight_Archive
+Stormworks
 storyofseasons
 straightenedfeetsies
 StraightsBeingOK
