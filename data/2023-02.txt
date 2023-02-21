@@ -5792,6 +5792,7 @@ RASPBERRY_PI_PROJECTS
 RatchetAndClank
 Ratorix
 RATS
+rav4club
 Ravenfield
 ravens
 rawdenim
