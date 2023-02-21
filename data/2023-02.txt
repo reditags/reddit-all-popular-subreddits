@@ -6776,6 +6776,7 @@ teaching
 TeamfightTactics
 TeamFourStar
 TeamSolomid
+TeardownGame
 tearsofthekingdom
 TearsOfThemis
 tech
@@ -6932,6 +6933,7 @@ TheMandalorianTV
 TheMassive
 TheMemersClub
 themole
+TheMonkeysPaw
 THEMONUMENTMYTHOS
 themummymemes
 thenetherlands
