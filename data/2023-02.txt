@@ -419,6 +419,7 @@ aoe4
 Apandah
 ape
 aPeoplesCalendar
+ApexConsole
 apexlegends
 ApexLore
 ApexOutlands
@@ -2194,6 +2195,7 @@ Dynavap
 Dyson_Sphere_Program
 E30
 e46
+E90
 earfurnishings
 earlsweatshirt
 earthbound
@@ -3729,6 +3731,7 @@ Jewish
 JhinMains
 Jigsawpuzzles
 jihyo
+JimmyDoreGrifter
 jisoo
 jiujitsu
 jjdandfamily
@@ -5561,6 +5564,7 @@ polinamalinovskaya
 politecats
 Political_Revolution
 PoliticalComebacks
+PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
 politics
@@ -6822,6 +6826,7 @@ teenagersnew
 teenfemboy
 TeenMomOGandTeenMom2
 Tekken
+telecaster
 telescopes
 Temple
 TempleofMarianne
