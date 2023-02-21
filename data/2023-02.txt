@@ -2424,6 +2424,7 @@ fanStands
 fantanoforever
 fantasybball
 fantasyfootball
+fantasyhockey
 fantasylife
 FantasyPL
 FanTheories
@@ -3116,6 +3117,7 @@ Harmontown
 Harpo
 harrypotter
 HarryPotterGame
+Haruhi
 harvestmoon
 Hasan_Piker
 hatsune
@@ -3777,6 +3779,7 @@ justgalsbeingchicks
 justgamedevthings
 JustGuysBeingDudes
 JusticeForJohnnyDepp
+JusticePro
 JusticeServed
 JustMonika
 justneckbeardthings
@@ -6763,6 +6766,7 @@ TarkovMemes
 tarot
 taskmaster
 tasmania
+TastingHistory
 tattoo
 TattooArt
 TattooDesigns
