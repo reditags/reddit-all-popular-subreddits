@@ -3343,6 +3343,7 @@ howto
 howtonotgiveafuck
 howyoudoin
 hoyas
+Hozier
 HPHogwartsMystery
 hrvatska
 htgawm
@@ -5732,6 +5733,7 @@ proplifting
 ProRevenge
 PROTECC
 protogen
+providence
 prusa3d
 ps2
 PS3
@@ -6576,6 +6578,7 @@ springfieldMO
 Spunchbob
 Spyro
 SpyxFamily
+SQL
 SquaredCircle
 SquarePosting
 squidgame
