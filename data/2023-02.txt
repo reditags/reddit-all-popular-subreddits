@@ -5780,6 +5780,7 @@ Qdpay
 qotsa
 QTN
 Quadeca
+quake
 QualityTacticalGear
 Quebec
 QuebecLibre
@@ -6312,6 +6313,7 @@ ShittyCarMod
 ShittyDaystrom
 shittyeldenring
 shittyfoodporn
+Shittygamecollecting
 shittygamedetails
 ShittyGifRecipes
 shittyhalolore
