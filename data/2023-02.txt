@@ -1516,6 +1516,7 @@ collegebaseball
 CollegeBasketball
 CollegeRant
 ColleiMains
+cologne
 Colombia
 Colorado
 ColoradoAvalanche
@@ -1985,6 +1986,7 @@ diabetes
 diabetes_t1
 Diablo
 diablo2
+diablo3
 diablo4
 Diablo_2_Resurrected
 diamondpainting
@@ -3989,6 +3991,7 @@ KSPMemes
 KuboSanWontLeaveMeBe
 kucoin
 KujouSaraMains
+KukiShinobuMains
 KumoDesu
 Kurisutina
 kurtisconner
@@ -5676,6 +5679,7 @@ prey
 preyingmantis
 Pricefield
 Priconne
+PrideAndPinion
 PrimeiraLiga
 PrimitiveTechnology
 PRINCE
@@ -7332,6 +7336,7 @@ typeonegative
 typography
 Tyranids
 tzuyu
+UAE
 UBC
 uberdrivers
 UberEATS
