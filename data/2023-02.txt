@@ -1350,6 +1350,7 @@ CFB
 cfbmemes
 CFL
 cfs
+CGPGrey
 Chadposting
 Chadtopia
 chaeyoung
@@ -3203,6 +3204,7 @@ HeavySeas
 heavyvinyl
 HEB
 HecklerKoch
+HeckThisIsWholesome
 Hedera
 Hedgehog
 heep
@@ -3456,6 +3458,7 @@ illinois
 illnessfakers
 illusionporn
 Illustration
+Illyasviel
 iLuTV
 im14andthisisdeep
 Im15AndThisIsYeet
@@ -4666,6 +4669,7 @@ minnesota
 minnesotatwins
 minnesotaunited
 minnesotavikings
+Minoxbeards
 miraculousladybug
 miragemains
 MirandaCosgrove
@@ -6712,6 +6716,7 @@ StoriesAboutKevin
 Stormlight_Archive
 Stormworks
 storyofseasons
+StPetersburgFL
 straightenedfeetsies
 StraightsBeingOK
 StrangeAndFunny
@@ -7074,6 +7079,7 @@ themole
 TheMonkeysPaw
 THEMONUMENTMYTHOS
 themummymemes
+TheNational
 thenetherlands
 TheNightFeeling
 TheNinthHouse
@@ -7474,6 +7480,7 @@ UniSwap
 unitedairlines
 unitedkingdom
 unitedstatesofindia
+Unity2D
 Unity3D
 UniUK
 UniversalOrlando
@@ -7613,6 +7620,7 @@ VirtualCosplay
 virtualreality
 Visiblemending
 visualnovels
+ViviWinkler
 vizsla
 VocabWordOfTheDay
 Vocaloid
