@@ -6106,6 +6106,7 @@ roguelikes
 RoHiking
 RoleReversal
 rolex
+Roll20
 rollercoasterjerk
 rollercoasters
 Rollerskating
