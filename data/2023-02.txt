@@ -1567,6 +1567,7 @@ comedyepilepsy
 ComedyFlogging
 comedyheaven
 ComedyHell
+ComedyHitmen
 comedyhomicide
 comedynecromancy
 ComedyNecrophilia
@@ -5492,6 +5493,7 @@ pchaltv
 pcmasterrace
 pcmods
 pcmusic
+PCOS
 PCOSloseit
 PeacemakerShow
 PeakyBlinders
@@ -6021,6 +6023,7 @@ remoteplaces
 ReneeMurden
 renfaire
 Reno
+RentnerfahreninDinge
 rentnerzeigenaufdinge
 Repaintings
 repbudgetsneakers
@@ -6815,6 +6818,7 @@ subaru
 Subliminal
 submarines
 submechanophobia
+submergedanimatronic
 subnautica
 Subnautica_Below_Zero
 SubsIFellFor
