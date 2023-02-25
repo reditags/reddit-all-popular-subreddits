@@ -1047,6 +1047,7 @@ BorderCollie
 Borderlands2
 borderlands3
 boringdystopia
+BorrowerDefense
 borussiadortmund
 Boruto
 borzoi
@@ -5794,6 +5795,7 @@ Prague
 PraiseTheCameraMan
 precognition
 predaddit
+Predators
 PredecessorGame
 PrehistoricMemes
 Prematurecelebration
