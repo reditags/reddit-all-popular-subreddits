@@ -1624,6 +1624,7 @@ ContagiousLaughter
 ContamFam
 ContestOfChampions
 ContraPoints
+contrepeterie
 controlgame
 Conures
 ConvenientCop
@@ -3810,6 +3811,7 @@ JEENEETards
 Jeep
 JeepWrangler
 JeffArcuri
+JeilaDizon
 jellybeantoes
 jellyfin
 JennaLouiseColeman
@@ -4454,6 +4456,7 @@ MandirGang
 MandJTV
 MangaCollectors
 mangadex
+mangafr
 Manhua
 manhwa
 Manitoba
@@ -6074,6 +6077,7 @@ Revolvers
 RGBProfiles
 RheaRipley
 RhodeIsland
+RICE
 richmondbc
 rickygervais
 RidiculousRealEstate
