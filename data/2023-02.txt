@@ -2964,6 +2964,7 @@ GeometryIsNeat
 geopolitics
 Georgia
 georgiabulldogs
+gerbil
 German
 GermanRap
 germanshepherds
@@ -3587,6 +3588,7 @@ ImaginaryOrcs
 ImaginaryPathways
 imaginarypets
 ImaginaryPirates
+ImaginaryRobotics
 ImaginaryScholars
 ImaginarySliceOfLife
 ImaginarySoldiers
@@ -4219,6 +4221,7 @@ legostarwarsmemes
 LegoStarWarsVideoGame
 LEGOtrains
 lehrerzimmer
+Leica
 lele_pons
 LEMMiNO
 lemondemon
@@ -6787,6 +6790,7 @@ starbucks
 starcitizen
 starcraft
 starcraft2
+starcraft2coop
 StardewMemes
 stardomjoshi
 StardustCrusaders
@@ -7008,6 +7012,7 @@ tabletopgamedesign
 tacobell
 Tacoma
 Tacomaworld
+tacos
 tacticalgear
 TacticalIssueCat
 TacticalUrbanism
@@ -7771,6 +7776,7 @@ vintage
 vintageads
 VintageApple
 vintageaudio
+vintagecgi
 vintagecomputing
 VintageFashion
 vintagejapaneseautos
