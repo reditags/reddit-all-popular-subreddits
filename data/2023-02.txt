@@ -1065,6 +1065,7 @@ BostonBruins
 bostonceltics
 BostonTerrier
 BotanicalPorn
+botany
 Botchedsurgeries
 botecodoreddit
 bottlebrush
@@ -1696,6 +1697,7 @@ cowboybebop
 cowboys
 cowcats
 CowChop
+Coyotes
 coys
 cozy
 CozyFantasy
@@ -3524,6 +3526,7 @@ IllegalLifeProTips
 illegallifeprotips2
 illegallybigcats
 IllegallySmol
+illegallysmolanimals
 illegallysmolbirbs
 IllegallySmolBunnies
 IllegallySmolCats
@@ -7645,6 +7648,7 @@ unexpectedpawnee
 unexpectedsabaton
 unexpectedskyrim
 UnexpectedTF2
+UnexpectedThanos
 UnexpectedThugLife
 Unexplained
 Unextexted
