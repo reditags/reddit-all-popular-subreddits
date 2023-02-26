@@ -2420,6 +2420,7 @@ ethstaker
 ethtrader
 EtikaRedditNetwork
 EtrianOdyssey
+Etsy
 EtsySellers
 etymology
 eu4
@@ -5834,6 +5835,7 @@ PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
 Prisonwallet
+prius
 privacy
 PrivacyGuides
 proceduralgeneration
