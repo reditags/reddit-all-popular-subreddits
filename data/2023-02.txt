@@ -1772,6 +1772,7 @@ CryptoCurrency
 CryptocurrencyICO
 CryptoGemDiscovery
 CryptoMarkets
+CryptoMarsShots
 CryptoMoon
 CryptoMoonShots
 cryptostreetbets
