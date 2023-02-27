@@ -3269,6 +3269,7 @@ hbo
 hbomberguy
 headpats
 Health
+HealthyFood
 Healthygamergg
 heartbreak
 hearthstone
@@ -5452,6 +5453,7 @@ Orochisegundo
 OrphanCrushingMachine
 OrthodoxChristianity
 oscarrace
+Oscars
 OSHA
 OshiNoKo
 osp
@@ -7680,6 +7682,7 @@ UnnecessaryInventions
 unOrdinary
 UnpopularLoreOlympus
 unpopularopinion
+Unravelers
 unrealengine
 unrealistick
 UnresolvedMysteries
