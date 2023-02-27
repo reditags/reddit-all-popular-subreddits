@@ -560,6 +560,7 @@ askscience
 AskScienceFiction
 AskSF
 askSingapore
+askspain
 AskThe_Donald
 askTO
 asktransgender
@@ -2355,6 +2356,7 @@ ElleFanning
 ElonJetTracker
 elonmusk
 ElPaso
+Eltern
 ElvenFood
 ElvenGirls
 Elysia
@@ -3966,6 +3968,7 @@ KaIT
 Kakegurui
 kalam_army
 kaleycuoco
+KALIMERAA
 KamenRider
 KamikazeByWords
 KanePixelsBackrooms
@@ -5694,6 +5697,7 @@ piercing
 PietSmiet
 pigeon
 Pigifs
+pihole
 Pikabu
 Pikmin
 PikminBloomApp
