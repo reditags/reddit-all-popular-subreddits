@@ -1918,6 +1918,7 @@ DarwinAwards
 Dashcam
 dashcamgifs
 data_irl
+dataengineering
 DataHoarder
 dataisbeautiful
 dataisugly
@@ -2296,6 +2297,7 @@ e46
 E90
 earfurnishings
 earlsweatshirt
+earrumblersassemble
 earthbound
 EarthPorn
 Earwolf
@@ -3170,6 +3172,7 @@ guitarcirclejerk
 guitarlessons
 guitarporn
 guitars
+gujarat
 GunAccessoriesForSale
 Gundam
 GundamEvolution
@@ -4846,6 +4849,7 @@ MomForAMinute
 Mommit
 monarchism
 moncton
+Monero
 MoneyDiariesACTIVE
 MonicaBellucci
 Monikafandom
@@ -8252,6 +8256,7 @@ ZhongliMains
 zillowgonewild
 zoemains
 ZombielandSaga
+Zoomerchan1
 Zoomies
 zoophileswelcom
 zootopia
