@@ -511,6 +511,7 @@ Arrowheads
 ArsenalFC
 ArsivUnutmaz
 Art
+ArtCrit
 ArtDeco
 ArtefactPorn
 ArtHistory
@@ -7739,6 +7740,7 @@ ValveIndex
 VampireSurvivors
 Vanced
 vancouver
+VancouverIsland
 vancouverwa
 vandwellers
 VanessaHudgens
