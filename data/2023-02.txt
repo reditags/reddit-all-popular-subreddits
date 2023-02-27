@@ -1474,6 +1474,7 @@ ChronicIllness
 ChronicPain
 ChronoCross
 chronotrigger
+ChubbyFIRE
 ChuckleSandwich
 ChurchOfCat
 ChurchofChie
@@ -6767,6 +6768,7 @@ spreadytoes
 springerspaniel
 springfieldMO
 SprocketTankDesign
+SPTarkov
 Spunchbob
 Spyro
 SpyxFamily
