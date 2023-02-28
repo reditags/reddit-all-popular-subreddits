@@ -1981,6 +1981,7 @@ DDLCMods
 de
 de_EDV
 de_IAmA
+deadandcompany
 deadbydaylight
 deadcells
 deadlockpw
