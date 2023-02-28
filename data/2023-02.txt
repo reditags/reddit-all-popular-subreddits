@@ -912,6 +912,7 @@ bigfoot
 biggboss
 BigIsland
 biglaw
+BigMouth
 BigNoseLadies
 bih
 bikecommuting
@@ -6221,6 +6222,7 @@ RetroCool
 RetroFuturism
 retrogaming
 retroid
+Returnal
 revancedapp
 reverseanimalrescue
 ReversePinterest
@@ -7190,6 +7192,7 @@ tech1e
 technews
 technicallythetruth
 technicalminecraft
+Techno
 Technoblade
 technology
 TechNope
