@@ -133,6 +133,7 @@ ACMilan
 acne
 acnh
 acotar
+AcousticGuitar
 ACPocketCamp
 ACQR
 acrylicpainting
@@ -241,6 +242,7 @@ AlchemyStarsEN
 alcoholism
 Alderwood
 aldi
+Aldi_employees
 Aleague
 alessonwaslearnt
 AlexaBliss
@@ -487,6 +489,7 @@ archlinux
 arcteryx
 arcticmonkeys
 arduino
+Argaming
 argentina
 ArgentinaBenderStyle
 Argnime
@@ -621,6 +624,7 @@ audible
 audiobooks
 Augenbleiche
 Augenschmaus
+augmentedreality
 AujourdhuiJaiAppris
 AuliiCravalho
 Aurelion_Sol_mains
@@ -5384,6 +5388,7 @@ okbuddyHRetard
 okbuddyjotard
 OkBuddyPersona
 okbuddyphd
+OkBuddyPilot
 OkBuddyPoliceOfficer
 okbuddyrathalos
 okbuddyreiner
@@ -5941,6 +5946,7 @@ ProfessorLayton
 progmetal
 programare
 ProgrammerAnimemes
+ProgrammerDadJokes
 ProgrammerHumor
 programming
 programminghorror
@@ -7853,6 +7859,7 @@ victoria2
 victoria3
 VictoriaBC
 victoriajustice
+VictorianEra
 videogamedunkey
 videogames
 videography
