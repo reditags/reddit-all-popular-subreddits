@@ -7649,6 +7649,7 @@ UCalgary
 UCDavis
 UCI
 ucla
+ucr
 UCSC
 UCSD
 udub
@@ -7887,6 +7888,7 @@ vosfinances
 VoteBlue
 VoteDEM
 voyager
+vpns
 VRchat
 VRGaming
 VRtoER
