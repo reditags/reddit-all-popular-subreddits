@@ -613,6 +613,7 @@ AubreyPlaza
 auckland
 Audi
 audible
+audiobooks
 Augenbleiche
 Augenschmaus
 AujourdhuiJaiAppris
@@ -3918,6 +3919,7 @@ JoeRogan
 JoeyKing
 johannesburg
 JohnMayer
+JohnMulaney
 joinsquad
 Joji
 Jojo
@@ -5192,6 +5194,7 @@ NintendoSwitch
 NintendoSwitchDeals
 Nioh
 Nirvana
+NJGuns
 njpw
 NLBest
 NLCelebs
