@@ -334,6 +334,7 @@ Ancient_History_Memes
 AncientCivilizations
 AncientCoins
 ancientegypt
+ancientgreece
 ancientrome
 andor
 Androgynoushotties
@@ -590,6 +591,7 @@ Astroneer
 Astronomy
 astrophotography
 Astros
+ASTSpaceMobile
 Asuka
 ASX_Bets
 ATAAE
@@ -4022,6 +4024,7 @@ KatherineMcNamara
 KatherynWinnick
 KathrynNewton
 KatieSigmond_Only
+KatyaSitak
 katyperry
 KavehMains
 kayakfishing
@@ -6754,6 +6757,7 @@ sonos
 SonsOfTheForest
 SonyAlpha
 Soosh
+SorakaMains
 SoulCalibur
 soulcrushingjuice
 SoulKnight
@@ -7502,6 +7506,7 @@ TowerofGod
 TownofSalemgame
 Toyota
 ToyotaTacoma
+TPoseMemes
 traadustCrusaders
 TraceAnObject
 TrackMania
@@ -8285,6 +8290,7 @@ YuB
 yugioh
 YuGiOhMasterDuel
 YuGiOhMemes
+Yugoslavia
 yumenikki
 yuna
 YunjinMains
