@@ -60,6 +60,7 @@ acnh
 ActionFigures
 ActivationSound
 ActLikeYouBelong
+actu_memes
 ActualPublicFreakouts
 AddisonRae
 adhdmeme
@@ -73,6 +74,7 @@ Aespa
 AEWOfficial
 AFCSouthMemeWar
 afkarena
+AFL
 AfterEffects
 agedlikemilk
 agedlikewine
@@ -86,6 +88,7 @@ AIVoiceMemes
 ak47
 akita
 alaska
+AlbedosCreations
 alberta
 Albuquerque
 aldi
@@ -110,6 +113,7 @@ amphibia
 AnadeArmas
 analog
 AnalogCommunity
+Anarchism
 Anarcho_Capitalism
 Anarchy4Everyone
 AnarchyChess
@@ -142,6 +146,7 @@ Animemes
 animenocontext
 AnimeSketch
 Animorphs
+annakendrick
 ANormalDayInRussia
 Anticonsumption
 antifastonetoss
@@ -174,6 +179,7 @@ ArcherFX
 ArchitecturalRevival
 architecture
 ArchitecturePorn
+arcticmonkeys
 arduino
 argentina
 ArianaGrande
@@ -190,6 +196,7 @@ asexuality
 asianamerican
 ask
 AskAnAmerican
+AskBalkans
 AskCulinary
 AskHistorians
 AskMen
@@ -204,11 +211,13 @@ assholedesign
 astrologymemes
 Astronomy
 astrophotography
+ATAAE
 ATBGE
 AteTheOnion
 atheism
 ATLA
 AtlantaHawks
+atomicheart
 attackeyes
 attackontitan
 AubreyPlaza
@@ -287,6 +296,7 @@ BeAmazed
 BeamNG
 BeardedDragons
 beards
+bearsdoinghumanthings
 Beastars
 beatles
 beatlescirclejerk
@@ -298,6 +308,7 @@ beetlejuicing
 BeforeNAfterAdoption
 BeginnerWoodWorking
 behindthebastards
+belgium
 Bellapoarch
 Ben10
 bengals
@@ -503,6 +514,7 @@ CatsInSinks
 CatsISUOTTATFO
 CatSlaps
 Catsmirin
+catsofrph
 CatsOnCats
 catsonglass
 CatsOnKeyboards
@@ -530,6 +542,7 @@ Chainsawfolk
 ChainsawMan
 chainsawmancirclejerk
 chairsunderwater
+characterarcs
 characterdrawing
 Chargers
 Charlotte
@@ -553,6 +566,7 @@ Chivalry2
 chomsky
 Chonkers
 ChoosingBeggars
+ChoujinX
 Christianity
 ChurchofMarnie
 CICO
@@ -570,6 +584,7 @@ CivVI
 CK2GameOfthrones
 ClashOfClans
 ClashRoyale
+ClashRoyaleCirclejerk
 classicalmusic
 classiccars
 classicwow
@@ -585,6 +600,7 @@ cockatiel
 cocktails
 CoDCompetitive
 CodeGeass
+codevein
 CODWarzone
 CODZombies
 coilerayy
@@ -720,6 +736,7 @@ dashcamgifs
 data_irl
 dataisbeautiful
 datascience
+dating_advice
 Daytrading
 dayz
 dbz
@@ -744,6 +761,7 @@ declutter
 DeepRockGalactic
 deftones
 Dehyamains
+delhi
 deliciouscompliance
 Delightfullychubby
 Deltarune
@@ -773,6 +791,7 @@ DetroitPistons
 developersIndia
 DevilMayCry
 devils
+DHHMemes
 Diablo
 DidntKnowIWantedThat
 DigitalArt
@@ -780,9 +799,11 @@ DigitalPainting
 DilettaLeotta
 Dimension20
 Dinosaurs
+Dipcifica
 DiretoDoZapZap
 discgolf
 DiscoElysium
+discord_irl
 discordapp
 Discordmemes
 discordVideos
@@ -847,6 +868,8 @@ drugmemes
 drums
 drunkencookery
 dualipa
+dubai
+Dublin
 duck
 DuggarsSnark
 DumpsterDiving
@@ -855,6 +878,7 @@ dune
 dunememes
 DungeonsAndDaddies
 DungeonsAndDragons
+duolingo
 dwarffortress
 dyinglight
 DynastyFF
@@ -862,6 +886,7 @@ earlsweatshirt
 earthbound
 EarthPorn
 EatCheapAndHealthy
+EatCheapAndVegan
 eatsandwiches
 Economics
 economy
@@ -886,6 +911,8 @@ ElizabethOlsen
 elonmusk
 Embroidery
 Eminem
+EmKay
+Emma_Roberts
 EmmaStone
 Emo
 Emoney
@@ -940,6 +967,7 @@ F1Game
 F1NN5TER
 facepalm
 Faces
+factorio
 FairytaleasFuck
 fakedisordercringe
 fakehistoryporn
@@ -998,6 +1026,7 @@ fixedbytheduet
 flashlight
 FlashTV
 flightsim
+floggit
 flonkers
 Floof
 florida
@@ -1143,6 +1172,7 @@ GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
+Giraffesdontexist
 girlsfrontline
 GirlsLastTour
 GirlsWithHugePussies
@@ -1207,6 +1237,7 @@ guitarporn
 guitars
 Gundam
 gundeals
+Gunime
 Gunners
 Gunpla
 gunpolitics
@@ -1222,6 +1253,7 @@ hacking
 HadesTheGame
 HadToHurt
 HaileeSteinfeld
+hailhortler
 hajimenoippo
 HalfLife
 halifax
@@ -1393,9 +1425,11 @@ Imperator
 ImTheMainCharacter
 Incorgnito
 india
+indiadiscussion
 indiameme
 IndianCountry
 IndianDankMemes
+indianews
 IndianStreetBets
 IndianTeenagers
 indiasocial
@@ -1404,6 +1438,7 @@ indonesia
 IndoorGarden
 INDYCAR
 InfinityTrain
+Infographics
 InformedWarriorRides
 InfowarriorRides
 InfrastructurePorn
@@ -1485,6 +1520,7 @@ Jujutsushi
 Jungle_Mains
 justdependathings
 Justfuckmyshitup
+justgamedevthings
 JustGuysBeingDudes
 JusticeServed
 justneckbeardthings
@@ -1493,6 +1529,7 @@ JustUnsubbed
 k_on
 Kaiserreich
 kalam_army
+kaleycuoco
 KamenRider
 KamikazeByWords
 kansascity
@@ -1520,6 +1557,7 @@ KidsAreFuckingStupid
 KillLaKill
 killteam
 killthecameraman
+Killtony
 KimetsuNoYaiba
 kindle
 Kingdom
@@ -1604,6 +1642,7 @@ lies
 lifehacks
 lifeisstrange
 LifeProTips
+lightsabers
 likeus
 LilGrabbies
 lilireinhart
@@ -1616,6 +1655,7 @@ LinusTechTips
 linux_gaming
 linuxmasterrace
 linuxmemes
+lithuania
 LittleWitchAcademia
 LiveFromNewYork
 LiverpoolFC
@@ -1649,6 +1689,7 @@ low_poly
 LowQualityMemes
 LPOTL
 LSD
+LucyHale
 LudwigAhgren
 lululemon
 Lumity
@@ -1778,6 +1819,7 @@ MildlyVandalised
 mildyinteresting
 Military
 MilitaryPorn
+MilitaryVStheUnknown
 milwaukee
 mina_irl
 Minecraftbuilds
@@ -1838,6 +1880,7 @@ MTFSelfieTrain
 mtg
 mtgfinance
 MuayThai
+mumbai
 Muppets
 MurdaughFamilyMurders
 MurderBuns
@@ -1889,6 +1932,7 @@ Necrontyr
 neopets
 nervysquervies
 netflix
+Netherlands
 Neverbrokeabone
 nevertellmetheodds
 newcastle
@@ -1952,6 +1996,7 @@ nostalgia
 NoStupidQuestions
 Notakeonlythrow
 NotAnotherDnDPodcast
+notdisneyvacation
 nothingeverhappens
 NotHowGirlsWork
 notinteresting
@@ -2008,6 +2053,7 @@ okkamaraderetarde
 okkolegauposledzony
 oklahoma
 okmatewanker
+okoidawappler
 Old_Recipes
 OldManDog
 oldpeoplefacebook
@@ -2078,6 +2124,7 @@ Paladins
 PallasCats
 PancakeswapICO
 PandR
+panicatthedisco
 pansexmothwhorehouse
 panthers
 ParadoxExtra
@@ -2105,6 +2152,7 @@ PenmanshipPorn
 Pennsylvania
 PeopleFuckingDying
 peopleofwalmart
+PercyJacksonMemes
 Perfectfit
 perfectloops
 PerfectlyCutBooms
@@ -2145,11 +2193,14 @@ physicsmemes
 pics
 PicsOfUnusualBirds
 piercing
+PietSmiet
 Pikabu
 Pikmin
+pinaytiktokhotties
 pinkfloyd
 Piracy
 PiratedGames
+Piratefolk
 PirateKitties
 PiratePets
 pitbulls
@@ -2360,6 +2411,7 @@ rva
 RWBY
 ryujin
 sabaton
+Saber
 Sacramento
 sadboys
 sadcats
@@ -2425,6 +2477,7 @@ SequelMemes
 serbia
 seriouseats
 SeveranceAppleTVPlus
+SewayakiKitsune
 sewing
 sexandthecity
 sffpc
@@ -2508,6 +2561,7 @@ slaythespire
 Slipknot
 Slovakia
 slowcooking
+smalllebowsky
 smashbros
 SmashBrosUltimate
 Smite
@@ -2537,6 +2591,7 @@ spaceengineers
 spacefrogs
 spaceporn
 spacex
+SpecArt
 specializedtools
 SpeedOfLobsters
 sphynx
@@ -2769,6 +2824,7 @@ ThisLooksFun
 thomastheplankengine
 ThriftGrift
 thumbcats
+Tierzoo
 tifu
 tightdresses
 TIGHTPUSSY
@@ -2806,6 +2862,7 @@ ToothpasteBoys
 TopChef
 TopMindsOfReddit
 toptalent
+toradora
 torontoraptors
 torties
 totallynotrobots
@@ -2865,6 +2922,7 @@ Twitch
 TwoSentenceHorror
 TwoXChromosomes
 tylerthecreator
+Tyranids
 tzuyu
 UBC
 ufc
@@ -2880,8 +2938,10 @@ Undertale
 UnearthedArcana
 UnethicalLifeProTips
 Unexpected
+unexpectedMontyPython
 UnexpectedMulaney
 unexpectedoffice
+unitedstatesofindia
 unixporn
 unket
 UnpopularLoreOlympus
@@ -2940,6 +3000,7 @@ void_memes
 Volumeeating
 VoteDEM
 vpns
+VRchat
 VShojo
 VuvuzelaIPhone
 walkaway
@@ -2948,6 +3009,7 @@ wallstreetbets
 walmart
 WalmartCelebrities
 Warframe
+wargame
 Warhammer
 Warhammer30k
 WarplanePorn
@@ -3040,6 +3102,7 @@ worldjerking
 worldnews
 worldnewsvideo
 WorldofTanks
+WorldOfWarships
 WormMemes
 wow
 Wrasslin
@@ -3049,6 +3112,7 @@ writers
 WritingPrompts
 WRX
 WTF
+wtfstockphotos
 ww2
 ww2memes
 WWE
@@ -3086,6 +3150,7 @@ YouSeeComrade
 youseeingthisshit
 YouShouldKnow
 youtubehaiku
+yugioh
 ZanClan
 zelda
 ZeroWaste
