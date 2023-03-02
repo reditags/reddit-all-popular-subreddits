@@ -134,6 +134,7 @@ aiyu
 ak47
 akita
 alaska
+Albedomains
 AlbedosCreations
 alberta
 Albuquerque
@@ -253,6 +254,7 @@ apexlegends
 ApexOutlands
 ApexUncovered
 apexuniversity
+aphextwin
 apolloapp
 AppalachianTrail
 apple
@@ -268,6 +270,7 @@ araragi
 arbeitsleben
 arcane
 Archaeology
+Archeology
 ArcherFX
 ArchitecturalRevival
 architecture
@@ -575,6 +578,7 @@ BlingEmpire
 Blink182
 BloodAngels
 blop
+BlueJackets
 BlueLock
 BlueProtocolPC
 bluey
@@ -702,6 +706,7 @@ burdurland
 burgers
 Buttcoin
 BuyItForLife
+BuzzFeedUnsolved
 byebyejob
 ByndoGehk
 CabinPorn
@@ -763,6 +768,7 @@ catbongos
 Catculations
 catfaceplant
 catfruit
+CatGifs
 Catholicism
 CatholicMemes
 cathostage
@@ -795,6 +801,7 @@ CatsOnPizza
 CatsPlayingDnd
 catssittingdown
 CatsStandingUp
+catsvstechnology
 CatsWhoChirp
 CatsWhoSmoke
 CatsWhoSqueak
@@ -807,6 +814,7 @@ CBSE
 CCW
 CDrama
 celebrities
+celebrity_soles
 CelebrityFeet
 CelebsPH
 CelebWivesofNashville
@@ -888,6 +896,7 @@ cirkeltrek
 CitiesSkylines
 CityPorn
 civ
+civ5
 civic
 civilengineering
 CivVI
@@ -912,6 +921,7 @@ ClimbingCircleJerk
 clonewars
 CloneWarsMemes
 CLOUDS
+Coachella
 cobrakai
 cockatiel
 cocktails
@@ -1177,6 +1187,7 @@ delta
 Deltarune
 delusionalartists
 delusionalcraigslist
+DemetriaObilorPics
 DemEyesDoe
 demisexuality
 DemocraticSocialism
@@ -1194,6 +1205,7 @@ DerScheisser
 desabafos
 Design
 DesignDesign
+DesignMyRoom
 DesignPorn
 DesirePath
 desmoines
@@ -1316,6 +1328,7 @@ Drawfee
 drawing
 DrDisrespectLive
 DreamlightValley
+Dreams
 DrewGooden
 DrStone
 DRSyourGME
@@ -1478,9 +1491,11 @@ fakemon
 Falcom
 falcons
 FallenOrder
+FallGuysGame
 Fallout
 FallOutBoy
 FalloutMemes
+FalloutMods
 falloutnewvegas
 falloutsettlements
 familyguy
@@ -1536,6 +1551,7 @@ FightsGoneWildpt2
 FigureSkating
 Filmmakers
 FinalFantasy
+FinalFantasyVII
 FinalFantasyVIII
 finalfantasyx
 finance
@@ -1771,6 +1787,7 @@ GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
+GingerMafia
 Giraffesdontexist
 girlsfrontline
 GirlsLastTour
@@ -1780,6 +1797,7 @@ girlswithbigmuscles
 GirlsWithHugePussies
 givemeinteligens
 glasgow
+glassheads
 GlitchInTheMatrix
 GlobalOffensive
 Glocks
@@ -2156,6 +2174,7 @@ ImaginaryWitches
 ImaginAsian
 ImagineThisView
 ImFinnaGoToHell
+Impeach_Trump
 Imperator
 ImperialFists
 imsorryjon
@@ -2354,6 +2373,7 @@ KansasCityChiefs
 Kanye
 karengillan
 KarmaRoulette
+KatDennings
 katebeckinsale
 Katemara
 kateupton
@@ -2995,7 +3015,9 @@ nerdfighters
 nervysquervies
 netflix
 NetflixBestOf
+netflixwitcher
 Netherlands
+NettHier
 networkingmemes
 neutralnews
 Neverbrokeabone
@@ -3043,6 +3065,7 @@ nihilism
 Nijisanji
 NikkeMobile
 NikkeOutpost
+nikkibella
 Nikon
 NilouMains
 nin
@@ -3205,6 +3228,7 @@ ontario
 ontheledgeandshit
 oompasubs
 OooBigStretch
+OopsThatsDeadly
 OPBR
 OpenArgs
 openttd
@@ -3828,6 +3852,7 @@ seventeen
 SeveranceAppleTVPlus
 SewayakiKitsune
 sewing
+SewingForBeginners
 sexandthecity
 sexyhair
 SexySportsBabes
@@ -4080,6 +4105,7 @@ starwarsrebels
 stateball
 steak
 Steam
+steamdeals
 SteamDeck
 steelers
 steinsgate
@@ -4119,6 +4145,7 @@ strength_training
 Stretched
 StrongerByScience
 StudentLoans
+Studium
 StuffOnCats
 stunfisk
 StupidFood
@@ -4353,6 +4380,7 @@ thomastheplankengine
 ThriftGrift
 thumbcats
 Thunder
+ThunderThots
 Tierzoo
 tifu
 tightdresses
@@ -4394,6 +4422,7 @@ tonightsdinner
 TonikakuCawaii
 TonyZaretOfficial
 toofers
+tookjustenough
 tooktoomuch
 ToolBand
 toolgifs
@@ -4445,6 +4474,7 @@ travisscott
 trebuchetmemes
 treelaw
 trees
+tressless
 tretinoin
 Trigun
 triplej
@@ -4487,6 +4517,7 @@ twinpeaks
 TwistedWonderland
 Twitch
 Twitter
+TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
 TwoXChromosomes
@@ -4495,6 +4526,7 @@ tylerthecreator
 Tyranids
 tzuyu
 UBC
+Ubiquiti
 ubius
 UCalgary
 ucf
@@ -4682,6 +4714,7 @@ washingtonwizards
 wasletztepreis
 watchcatsdieinside
 WatchDogsWoofInside
+watcherentertainment
 Watches
 Watchexchange
 Watchmen
