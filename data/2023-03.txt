@@ -531,6 +531,7 @@ Blink182
 BloodAngels
 blop
 BlueLock
+BlueProtocolPC
 bluey
 blunderyears
 blurrypicturesofcats
@@ -553,6 +554,7 @@ Bolehland
 bollyarm
 BollyBlindsNGossip
 bollywoodmemes
+BollywoodUHQonly
 Bondedpairs
 BoneAppleTea
 bonehurtingjuice
@@ -703,6 +705,7 @@ Catmemes
 catpics
 catpictures
 cats
+CatsAndPlants
 catsarealiens
 CatsAreAssholes
 catsarefuckingstupid
@@ -954,6 +957,7 @@ crtgaming
 CrusadeMemes
 CrusaderKings
 CryptoCurrency
+CryptoCurrencyClassic
 CryptoMoonShots
 CryptoTechnology
 Cryptozoology
@@ -1242,6 +1246,7 @@ EDH
 Edinburgh
 EDM
 Edmonton
+educationalgifs
 Eesti
 egg_irl
 EggsInStrangePlaces
@@ -1318,6 +1323,7 @@ eu4
 eu_nvr
 EulaMains
 euphoria
+EUR_irl
 europe
 eurovision
 EvaGreen
@@ -1341,6 +1347,7 @@ Eyebleach
 eyebombing
 F1Game
 F1NN5TER
+F1Technical
 FacebookScience
 facepalm
 Faces
@@ -1984,6 +1991,7 @@ IndianDefense
 indianews
 IndianGaming
 Indiangirlsontinder
+IndianHipHopHeads
 IndianMemeTemplates
 IndianMeyMeys
 IndiaNostalgia
@@ -2124,6 +2132,7 @@ JusticeServed
 justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
+juxtaposition
 k_on
 kaiserredux
 Kaiserreich
@@ -2471,6 +2480,7 @@ mealtimevideos
 meat
 meatcrayon
 MechanicAdvice
+mechanical_gifs
 MechanicalKeyboards
 mechmarket
 MedicalGore
@@ -2498,6 +2508,7 @@ memesITA
 MemeVideos
 memexico
 memphisgrizzlies
+MemriTVmemes
 MensLib
 Mensmittenwithkittens
 MensRights
@@ -2588,6 +2599,7 @@ mmababes
 mmamemes
 MobileLegendsGame
 ModelsGoneMild
+modeltrains
 Modern_Family
 modernwarfare
 ModernWarfareII
@@ -2609,6 +2621,7 @@ Monsterverse
 Montana
 Monterrey
 Morbius
+MordekaiserMains
 mordheim
 moreplatesmoredates
 Morrowind
@@ -2807,6 +2820,7 @@ notdisneyvacation
 nothingeverhappens
 NotHowGirlsWork
 notinteresting
+Notion
 notjustbikes
 notlikeothergirls
 notliketheothergirls
@@ -3270,6 +3284,7 @@ RATS
 ravens
 rawdenim
 RBI
+RCB
 RDR2
 Re_Zero
 reactiongifs
@@ -3444,6 +3459,7 @@ scottthewoz
 SCP
 SCPMemes
 SCPSecretLab
+ScrapMechanic
 Scream
 screenshots
 Screenwriting
@@ -3917,6 +3933,7 @@ TheLib
 thelongdark
 TheMagnusArchives
 TheMandalorianTV
+TheMonkeysPaw
 TheMorningToastSnark
 thenetherlands
 TheNightFeeling
@@ -4372,6 +4389,7 @@ WrestleCuties
 WrestleWithTheJoshis2
 WrexhamAFC
 writers
+writing
 WritingPrompts
 WRX
 WTF
@@ -4384,6 +4402,7 @@ wwiipics
 xayahmains
 xbiking
 xbox
+XboxGamePass
 xboxone
 XboxSeriesX
 Xcom
