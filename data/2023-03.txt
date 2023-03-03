@@ -198,6 +198,7 @@ Anarchism
 Anarcho_Capitalism
 Anarchy4Everyone
 AnarchyChess
+Anbennar
 anchorage
 AncientCivilizations
 ancientegypt
@@ -339,6 +340,7 @@ AskBalkans
 AskCulinary
 AskEngineers
 AskHistorians
+AskHR
 AskMechanics
 AskMen
 AskMenOver30
@@ -1020,6 +1022,7 @@ CoDCompetitive
 CodeGeass
 codevein
 CODWarzone
+codyko
 CODZombies
 Coffee
 coilerayy
@@ -1055,6 +1058,7 @@ commandandconquer
 Commanders
 CommunismMemes
 community
+CompanyOfHeroes
 CompetitiveApex
 Competitiveoverwatch
 compoface
@@ -1106,6 +1110,7 @@ CovIdiots
 covidlonghaulers
 cowboybebop
 cowboys
+cowcats
 coys
 cozy
 CozyFantasy
@@ -1413,6 +1418,7 @@ dogslookingdown
 DogsMirin
 dogswearinghats
 dogswithjobs
+Dogtraining
 dogvideos
 DokkanBattleCommunity
 donaldglover
@@ -1997,6 +2003,7 @@ googlehome
 googlemapsshenanigans
 gorgc
 gorillaz
+GossipDK
 goth
 Gothenburg
 GothGirls
@@ -2481,6 +2488,7 @@ ItsukiClassroom
 IttoMains
 ITZY
 iwoulddiefornoodle
+IWW
 Izlam
 jackrussellterrier
 jacksonville
@@ -2517,6 +2525,7 @@ JenniferLawrence
 JenniferLopez
 jenniferlovehewitt
 jerma985
+jerseycity
 jerseyshore
 jessicaalba
 jesuschristouija
@@ -3025,6 +3034,7 @@ MEOW_IRL
 meowsertrousers
 mercedes_benz
 Metalcore
+MetalGearInMyAss
 metalgearrising
 Metallica
 MetalMemes
@@ -3152,6 +3162,7 @@ Monterrey
 MorbidWaysToDie
 Morbius
 MordekaiserMains
+Mordhau
 mordheim
 moreplatesmoredates
 MoreTankie196
@@ -3272,6 +3283,7 @@ ndp
 nebelung
 Nebraska
 NeckbeardNests
+neckbeardRPG
 necromunda
 Necrontyr
 nederlands
@@ -3512,6 +3524,7 @@ ontheledgeandshit
 oompasubs
 OooBigStretch
 OopsThatsDeadly
+OOTP
 oots
 OPBR
 OpenArgs
@@ -3524,6 +3537,7 @@ orangetheory
 orchids
 oregon
 OrganizationPorn
+OriAndTheBlindForest
 origami
 orioles
 orks
@@ -4004,6 +4018,7 @@ Revolvers
 RheaRipley
 RICE
 rickygervais
+RighteousGemstones
 Rihanna
 rimesegate
 rimjob_steve
@@ -4383,6 +4398,7 @@ SpeedOfLobsters
 speedrun
 spelunky
 sphynx
+SpiceandWolf
 spicy
 spicypillows
 spiderbro
@@ -4390,6 +4406,7 @@ Spiderman
 SpidermanPS4
 spiders
 Spielstopp
+Spiritfarer
 sploot
 Spokane
 spongebob
@@ -4401,6 +4418,7 @@ spotted
 SpottedonRightmove
 spreadytoes
 springerspaniel
+SprocketTankDesign
 SPTarkov
 Spunchbob
 Spyro
@@ -4480,6 +4498,7 @@ StoppedWorking
 Stormlight_Archive
 straightenedfeetsies
 StraightsBeingOK
+StrangeAndFunny
 StrangeEarth
 StrangerThings
 straykids
@@ -5126,6 +5145,7 @@ watchpeoplesurvive
 Watercolor
 watercolorcats
 Waterdogs
+WattsonMains
 Wavyhair
 WeaponsMoe
 WeatherGifs
