@@ -207,6 +207,7 @@ ani_bm
 Animal_Sanctuary
 AnimalCrossing
 animalcrossingdesign
+animalcrossingmeme
 AnimalCrossingNewHor
 AnimalPorn
 AnimalsBeingBros
@@ -231,6 +232,7 @@ animecuddling
 AnimeFunny
 animegifs
 AnimeHoodies
+animehotbeverages
 animememes
 Animemes
 AnimeMirchi
@@ -375,6 +377,7 @@ AusFinance
 auslaw
 AusMemes
 AusProperty
+AusRenovation
 AussieCasual
 australia
 AustralianBirds
@@ -626,6 +629,7 @@ bodegacats
 bodybuilding
 bodymods
 bodyweightfitness
+BoFuri
 BoJackHorseman
 BokuNoHeroAcademia
 BokuNoMetaAcademia
@@ -1617,6 +1621,7 @@ FifaCareers
 Fighters
 fightporn
 FightsGoneWildpt2
+fightsticks
 FigureSkating
 Filmmakers
 FinalFantasy
@@ -1740,6 +1745,7 @@ Frisson
 frogs
 FromKittenToCat
 fromsoftware
+Frostpunk
 Frugal
 frugalmalefashion
 Fruitbatcats
@@ -1911,6 +1917,7 @@ goodomens
 goodrestrictionfood
 google
 googlehome
+gorgc
 gorillaz
 goth
 Gothenburg
@@ -2049,6 +2056,7 @@ HecklerKoch
 HeckThisIsWholesome
 Hedgehog
 heep
+HeidiKlum
 Helicopters
 HellLetLoose
 hellsomememes
@@ -2138,6 +2146,7 @@ hot_reporters
 hotas
 HotlineMiami
 HotPaper
+HotPeppers
 hotsauce
 HottestFemaleAthletes
 HotWheels
@@ -2654,6 +2663,7 @@ libsofreddit
 lies
 lifehacks
 lifeisstrange
+LifeofBoris
 LifeProTips
 LigaMX
 lightsabers
@@ -2772,6 +2782,7 @@ MadMax
 MadokaMagica
 MAFS_AU
 MagicArena
+magicbuilding
 MagicEye
 magicthecirclejerking
 Maine
@@ -2903,6 +2914,7 @@ metalgearrising
 Metallica
 MetalMemes
 metalworking
+Methany
 metro
 Metroid
 mew_irl
@@ -3379,6 +3391,7 @@ orangetheory
 orchids
 oregon
 OrganizationPorn
+origami
 orks
 orlando
 OrlandoMagic
@@ -3473,6 +3486,7 @@ PeakyBlinders
 PeanutWhiskers
 Pedro_Pascal
 PeepingPooch
+peloton
 pelotonmemes
 penguins
 PenmanshipPorn
@@ -3814,6 +3828,7 @@ RelationshipMemes
 religiousfruitcake
 remoteplaces
 Renovations
+rentnerzeigenaufdinge
 Repaintings
 repbudgetsneakers
 Repsneakers
@@ -4472,6 +4487,7 @@ ThatsInsane
 The10thDentist
 the1975
 The8BitRyanReddit
+The_Dennis
 The_Mueller
 THE_PACK
 theadamfriedlandshow
@@ -5050,6 +5066,7 @@ WorldofTanks
 WorldOfWarships
 WorldWar2
 WormMemes
+wortwitzkasse
 WoT
 wow
 wowthanksimcured
