@@ -143,6 +143,7 @@ aiyu
 ak47
 AkameGaKILL
 akita
+Alabama
 alaska
 Albany
 Albedomains
@@ -393,6 +394,7 @@ Audi
 audiobooks
 Audiomemes
 Augenbleiche
+Aurelion_Sol_mains
 AusFinance
 auslaw
 AusMemes
@@ -568,6 +570,7 @@ bi_irl
 bicycling
 BicyclingCirclejerk
 bigbangtheory
+bigboobproblems
 bigboye
 BigCatGifs
 BigChungusReligion
@@ -798,6 +801,7 @@ CalgaryFlames
 CaliBanging
 CalicoKittys
 California
+Calligraphy
 CallMeCarson
 CallOfDuty
 CallOfDutyMobile
@@ -851,6 +855,7 @@ CatastrophicFailure
 catbellies
 catbongos
 Catculations
+catdimension
 catfaceplant
 catfruit
 CatGifs
@@ -1014,6 +1019,7 @@ clevelandcavs
 ClevelandGuardians
 clevercomebacks
 climate
+ClimateMemes
 climbing
 ClimbingCircleJerk
 clonewars
@@ -1067,6 +1073,7 @@ CompanyOfHeroes
 CompetitiveApex
 Competitiveoverwatch
 compoface
+Compound
 compsci
 CompTIA
 computers
@@ -1166,6 +1173,7 @@ CrusadeMemes
 CrusaderKings
 CryptoCurrency
 CryptoCurrencyClassic
+CryptoGemDiscovery
 cryptomining
 CryptoMoonShots
 CryptoTechnology
@@ -1221,6 +1229,7 @@ DallasStars
 dalle2
 Damnthatsinteresting
 danganronpa
+dangerousdesign
 danglers
 DaniDev
 Daniellarson
@@ -1585,6 +1594,7 @@ Ethelcain
 ethereum
 EtherMining
 ethfinance
+ethoslab
 ethtrader
 etymology
 eu4
@@ -2468,6 +2478,7 @@ inthenews
 intresseklubben
 introvert
 introvertmemes
+inuyasha
 Invincible
 Invisalign
 ios
@@ -2642,6 +2653,7 @@ KiernanBrennanShipka
 KiernanShipka
 killedthecameraman
 KillLaKill
+killsixbilliondemons
 killteam
 killthecameraman
 Killtony
@@ -2711,6 +2723,7 @@ laidbackcamp
 LakeLaogai
 lakers
 Lalisa
+laminarflow
 lanadelrey
 LancerRPG
 LandCruisers
@@ -2985,6 +2998,7 @@ matureplants
 mauerstrassenwetten
 Mavericks
 MawInstallation
+maximalism
 maybemaybemaybe
 maybemaybemaybemaybe
 MayDayStrike
@@ -3549,6 +3563,7 @@ OOTP
 oots
 OPBR
 OpenArgs
+opensea
 openttd
 opossum_irl
 Opossums
@@ -4715,6 +4730,7 @@ TheAstraMilitarum
 thebadbatch
 TheBatmanFilm
 TheBidenshitshow
+thebindingofisaac
 TheBonfire
 TheBoys
 TheBullWins
@@ -4834,6 +4850,7 @@ titanic
 tjournal_refugees
 TLCsisterwives
 TMNT
+tmobile
 TNOmod
 toarumajutsunoindex
 toastme
@@ -5014,6 +5031,7 @@ UnexpectedlyWholesome
 unexpectedMontyPython
 UnexpectedMulaney
 unexpectedoffice
+unexpectedsabaton
 UnexpectedTF2
 Unextexted
 unfortunateplacement
