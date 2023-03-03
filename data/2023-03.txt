@@ -170,6 +170,7 @@ alternativeart
 AlternativeHistory
 AlzheimersGroup
 Alzwards_Corner
+AMADisasters
 AmateurRoomPorn
 amazingmemes
 AmazonDSPDrivers
@@ -824,6 +825,7 @@ canucks
 CapitalismSux
 CapitolConsequences
 caps
+CaptainSparklez
 CaptainSparrowmemes
 capybara
 CaraDelevingne
@@ -1185,6 +1187,7 @@ csgo
 csMajors
 csmanime
 CuddlePuddle
+cuddleroll
 CultOfTheLamb
 Cuphead
 CuratedTumblr
@@ -1441,6 +1444,7 @@ dogswithjobs
 Dogtraining
 dogvideos
 DokkanBattleCommunity
+Dolls
 donaldglover
 dontdeadopeninside
 dontflinch
@@ -1950,6 +1954,7 @@ GenshinImpactTips
 gentlemanboners
 GenUsa
 GenX
+GenZ
 GenZHumor
 geography
 geoguessr
@@ -2595,12 +2600,14 @@ junjiito
 JurassicMemes
 jurassicworldevo
 justa
+justbasketball
 justdependathings
 Justfuckmyshitup
 justgalsbeingchicks
 justgamedevthings
 JustGuysBeingDudes
 JusticeServed
+justlegbeardthings
 JustMonika
 justneckbeardthings
 Justrolledintotheshop
@@ -2646,6 +2653,7 @@ Kenshi
 Kentucky
 KeqingMains
 Kerala
+KerbalAcademy
 KerbalPlanes
 KerbalSpaceProgram
 kerbalspaceprogram_2
@@ -3687,6 +3695,7 @@ Pedro_Pascal
 PeepingPooch
 peloton
 pelotonmemes
+penguin
 penguins
 PenmanshipPorn
 Pennsylvania
@@ -3873,6 +3882,7 @@ PrettyGirls
 PrettyGirlsUglyFaces
 PrettyOlderWomen
 prey
+preyingmantis
 Priconne
 PrincessesOfPower
 PrintedMinis
@@ -4231,6 +4241,7 @@ Sekiro
 SelenaGomez
 self
 SelfAwarewolves
+selfhosted
 selfie
 selfimprovement
 SellingSunset
@@ -4368,6 +4379,7 @@ sketches
 skiing
 Skookum
 skrillex
+Skullgirls
 SkyChildrenOfLight
 SkyGame
 SkyPorn
@@ -4811,6 +4823,7 @@ thesopranos
 TheStrokes
 TheTempleOfOchako
 TheTryGuys
+theumbrellaacademy
 thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
@@ -5053,6 +5066,7 @@ unexpectedsabaton
 UnexpectedTF2
 Unextexted
 unfortunateplacement
+UnfunnyHellhole
 union
 unitedstatesofindia
 Unity3D
@@ -5191,6 +5205,7 @@ WaltDisneyWorld
 WANDAVISION
 wankil
 war
+WarAndPeas
 Warframe
 WarframeRunway
 wargame
