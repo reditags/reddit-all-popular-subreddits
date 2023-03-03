@@ -104,6 +104,7 @@ AdeptusCustodes
 AdeptusMechanicus
 adhdmeme
 ADHDmemes
+AdmiralCloudberg
 AdobeIllustrator
 AdorableDragons
 AdPorn
@@ -221,6 +222,7 @@ animalsdoingstuff
 AnimalsMonching
 AnimalsOnReddit
 Animalsthatlovemagic
+AnimalTextGifs
 AnimalTracking
 animation
 anime_irl
@@ -236,6 +238,7 @@ animehotbeverages
 animememes
 Animemes
 AnimeMirchi
+AnimeMusicians
 animenocontext
 AnimeNoises
 AnimeSketch
@@ -328,6 +331,7 @@ ask
 AskAnAmerican
 AskBalkans
 AskCulinary
+AskEngineers
 AskHistorians
 AskMechanics
 AskMen
@@ -346,6 +350,7 @@ Asmongold
 asoiaf
 aspergers
 assassinscreed
+AssassinsCreedValhala
 assettocorsa
 assholedesign
 astramilitarum
@@ -438,6 +443,7 @@ Badfaketexts
 badfriendspod
 BadMtgCombos
 BadReads
+badUIbattles
 badwomensanatomy
 BaizhuMains
 Baking
@@ -529,6 +535,7 @@ berlin
 bernesemountaindogs
 Berserk
 bertstrips
+Best_tattoos
 Bestbuy
 bestconspiracymemes
 bestof
@@ -852,6 +859,7 @@ catssittingdown
 CatsStandingUp
 catsvstechnology
 CatsWhoChirp
+CatsWhoConverse
 CatsWhoSmoke
 CatsWhoSqueak
 catswhotrill
@@ -951,6 +959,7 @@ CitiesSkylines
 CityPorn
 civ
 civ5
+civ_memes
 civic
 civilengineering
 CivVI
@@ -1707,6 +1716,7 @@ forsen
 ForShub
 FORTnITE
 FortNiteBR
+FortniteCreative
 FortniteLeaks
 FortWorth
 forwardsfromgrandma
@@ -1878,6 +1888,7 @@ gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
 GingerMafia
+Gintama
 Giraffesdontexist
 girlsfrontline
 GirlsLastTour
@@ -1885,6 +1896,7 @@ GirlsMirin
 GirlsUndShitposts
 girlswithbigmuscles
 GirlsWithHugePussies
+Gittertiere
 givemeinteligens
 glasgow
 glassheads
@@ -2277,6 +2289,7 @@ ImaginaryWastelands
 ImaginaryWesteros
 ImaginaryWitcher
 ImaginaryWitches
+ImaginaryWizards
 ImaginAsian
 ImagineThisView
 ImFinnaGoToHell
@@ -2373,6 +2386,7 @@ irezumi
 IrishHistory
 IRLEasterEggs
 IronFrontUSA
+ironicsigns
 ironscape
 IronWarriors
 IrrationalMadness
@@ -2382,6 +2396,7 @@ israelexposed
 IsTodayFridayThe13th
 ITAGLIA
 Italia
+ItaliaMeme
 italy
 ITcrowd
 ItemShop
@@ -2417,6 +2432,7 @@ jedicouncilofelrond
 JEENEETards
 Jeep
 JeffArcuri
+JeilaDizon
 jellybeantoes
 JennaLouiseColeman
 Jennamarbles
@@ -2809,6 +2825,7 @@ malehairadvice
 malelivingspace
 MaliciousCompliance
 mallninjashit
+manchester
 ManchesterUnited
 Mandalorian
 MandalorianMemes
@@ -2835,6 +2852,7 @@ MarioKartTour
 Market76
 Markiplier
 Marriage
+martialarts
 Marvel
 MarvelLegends
 marvelmemes
@@ -2883,6 +2901,7 @@ MechanicalKeyboards
 mechmarket
 MedicalGore
 MedievalCats
+MedievalHistoryMemes
 Meditation
 medizzy
 MegalithPorn
@@ -2958,6 +2977,7 @@ MikuNakano
 MilaKunis
 milanavayntrub
 MildFemboys
+mildlyevangelion
 mildlyinfuriating
 mildlyinteresting
 mildlysatisfying
@@ -3049,6 +3069,7 @@ Morrowind
 MortalKombat
 MoscowMurders
 MostBeautiful
+moths
 motivation
 motogp
 motorcycle
@@ -3296,6 +3317,7 @@ NuxTakuSubmissions
 nuzlocke
 nvidia
 nwordington
+nyanners
 NYCinfluencersnark
 NYGiants
 nyjets
@@ -3303,6 +3325,7 @@ NYKnicks
 NYYankees
 obeyme
 oblivion
+ObsidianMD
 OceansAreFuckingLit
 ockytop
 octopathtraveler
@@ -3484,6 +3507,7 @@ Pathfinder2e
 Pathfinder_Kingmaker
 Pathfinder_RPG
 pathfindermemes
+PathofChampions
 pathofexile
 pathologic
 PathToNowhere
@@ -3596,6 +3620,7 @@ PlantsVSZombies
 playboicarti
 playrust
 playstation
+PlayStationPlus
 PleX
 PlusSizeFashion
 pocketpussy
@@ -3738,12 +3763,14 @@ puzzles
 PvZGardenWarfare
 PvZHeroes
 PygmalionAI
+pykemains
 pyrocynical
 Pyrography
 Python
 QAnonCasualties
 QanonKaren
 QarddenToken
+Qdpay
 Quebec
 queen
 queensofgenshin
@@ -4060,6 +4087,7 @@ Shark_Park
 sharks
 sharpening
 SheGotHands
+Sherlock
 ShermanPosting
 shiba
 shield
@@ -4384,6 +4412,7 @@ Superstonk
 superstore
 SuperStructures
 supportlol
+surdev
 surrealmemes
 Survival
 survivor
@@ -4392,6 +4421,7 @@ suspiciouslyspecific
 sustainability
 SweatyPalms
 sweden
+SWGalaxyOfHeroes
 Switzerland
 SWlegion
 swolesomememes
@@ -4516,6 +4546,7 @@ TheBoys
 TheBullWins
 thecatdimension
 TheCatTrapIsWorking
+TheCinemassacreTruth
 TheClickOwO
 TheCuddlePuddle
 TheDarkTower
@@ -4880,7 +4911,9 @@ videomemes
 videos
 vidid
 VietNam
+vikingstv
 Vilebrequin
+VillagePorn
 Vinesauce
 VinlandSaga
 vintage
@@ -4946,6 +4979,7 @@ warthundermemes
 Warzone
 washingtonwizards
 wasletztepreis
+wasletztestern
 watchcatsdieinside
 WatchDogsWoofInside
 watcherentertainment
@@ -5077,6 +5111,7 @@ WorldEaters40k
 worldjerking
 worldnews
 worldnewsvideo
+worldofgothic
 worldofpvp
 WorldofTanks
 WorldOfWarships
