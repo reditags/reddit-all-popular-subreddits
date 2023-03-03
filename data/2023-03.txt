@@ -50,6 +50,7 @@
 691
 80s
 80sdesign
+80sfastfood
 90DayFiance
 90dayfianceuncensored
 90s
@@ -191,9 +192,11 @@ Anarchism
 Anarcho_Capitalism
 Anarchy4Everyone
 AnarchyChess
+anchorage
 AncientCivilizations
 ancientegypt
 ancientrome
+andor
 Androgynoushotties
 Android
 angelsbaseball
@@ -215,6 +218,7 @@ animalsdoingstuff
 AnimalsMonching
 AnimalsOnReddit
 Animalsthatlovemagic
+AnimalTracking
 anime_irl
 anime_titties
 animearmor
@@ -317,6 +321,7 @@ AskAnAmerican
 AskBalkans
 AskCulinary
 AskHistorians
+AskMechanics
 AskMen
 AskMenOver30
 AskNYC
@@ -412,6 +417,7 @@ babyelephantgifs
 babylon5
 BABYMETAL
 Backcountry
+BackpackingDogs
 backrooms
 BackYardChickens
 Bad_Cop_No_Donut
@@ -429,6 +435,7 @@ baldursgate
 BaldursGate3
 balisong
 balkans_irl
+BALLET
 ballpython
 BalticStates
 BancaDelMeme
@@ -527,6 +534,7 @@ bigbangtheory
 bigboye
 BigCatGifs
 bigfloppa
+bigfoot
 bih
 bikecommuting
 bikepacking
@@ -671,6 +679,7 @@ Brawlhalla
 Brawlstars
 brdev
 Breadit
+BreadStapledToTrees
 breakingbad
 breakingbadmemes
 Breath_of_the_Wild
@@ -842,6 +851,7 @@ CelebrityFeet
 CelebsPH
 CelebWivesofNashville
 celestegame
+celestememes
 Celiac
 CelineFarach
 cellbits
@@ -1325,6 +1335,7 @@ DogAdvice
 Dogberg
 dogecoin
 dogelore
+doggrooming
 dogpictures
 dogs
 dogslookingdown
@@ -1720,6 +1731,7 @@ ft86
 fuckcars
 FUCKFACEPOD
 FuckGregAbbott
+fuckHOA
 FuckImOld
 FuckNestle
 FuckPierre
@@ -2105,6 +2117,7 @@ hot_reporters
 hotas
 HotlineMiami
 HotPaper
+hotsauce
 HottestFemaleAthletes
 HotWheels
 houkai3rd
@@ -2568,6 +2581,7 @@ learnprogramming
 learntodraw
 LearnUselessTalents
 Leathercraft
+leaves
 lebanon
 lebowski
 ledzeppelin
@@ -2580,6 +2594,7 @@ legendofkorra
 LegendsOfRuneterra
 Legitpiercing
 lego
+legodeal
 Legoleak
 legostarwars
 LegoStarWarsVideoGame
@@ -2631,6 +2646,7 @@ linux_gaming
 linuxmasterrace
 linuxmemes
 listentothis
+literature
 lithuania
 LitterboxComics
 LittleWitchAcademia
@@ -2997,6 +3013,7 @@ MovieMistakes
 MoviePosterPorn
 movies
 Moviesinthemaking
+mrballen
 mrlovenstein
 MrTechnodad
 MSsEcReTPoDcAsT
@@ -3045,6 +3062,7 @@ Nahida_Mains
 NailArt
 Nails
 NameNerdCirclejerk
+namenerds
 NamFlashbacks
 NamiMains
 NanatsunoTaizai
@@ -3388,6 +3406,7 @@ paradoxplaza
 Parahumans
 Paralives
 Paramore
+Paranormal
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
@@ -3555,6 +3574,7 @@ Polska
 Polska_wpz
 polymerclay
 Pomeranians
+ponds
 poodles
 poolrooms
 popculturechat
@@ -3943,6 +3963,7 @@ Serverlife
 seventeen
 SeveranceAppleTVPlus
 SewayakiKitsune
+Sewerslvt
 sewing
 SewingForBeginners
 sexandthecity
@@ -4021,6 +4042,7 @@ ShuumatsuNoValkyrie
 shylily
 Siamesecats
 Sidemen
+SiestaKeyMTV
 SigmaCinema
 Sigmarxism
 signalis
@@ -4421,7 +4443,9 @@ thedivision
 TheEminenceInShadow
 TheEricAndreShow
 TheExpanse
+TheFence
 thefighterandthekid
+TheFirstLaw
 TheForest
 TheGirlSurvivalGuide
 TheGoodPlace
@@ -4609,6 +4633,7 @@ TrueReddit
 TrueSTL
 Trumpgret
 Trumpvirus
+TRUTHsocialWatch
 TTSverse
 tuckedinkitties
 TuckedInPuppies
@@ -4707,6 +4732,7 @@ unwholesomememes
 uofm
 upcycling
 UpliftingNews
+UPSers
 UpvoteBecauseButt
 urbanexploration
 UrbanHell
@@ -4892,6 +4918,7 @@ whatisthisthing
 whatsthisbird
 whatsthisbug
 whatsthisplant
+whatsthisrock
 whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
@@ -4912,6 +4939,7 @@ wholesomegifs
 wholesomegreentext
 wholesomememes
 wholesomemes
+whoosh
 whothefuckup
 WhyWereTheyFilming
 WhyWomenLiveLonger
@@ -5042,6 +5070,7 @@ YouShouldKnow
 youtube
 youtubehaiku
 yugioh
+YuGiOhMasterDuel
 YuGiOhMemes
 yuna
 ZanClan
