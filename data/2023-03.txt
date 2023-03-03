@@ -371,6 +371,7 @@ ATAAE
 ATBGE
 AteTheOnion
 atheism
+atheistmemes
 ATLA
 Atlanta
 AtlantaHawks
@@ -624,6 +625,7 @@ blankies
 BlatantMisogyny
 bleach
 blender
+blenderhelp
 Blep
 blessedimages
 BlingEmpire
@@ -820,6 +822,7 @@ CarTalkUK
 CartoonMoment
 casinocat
 casio
+cassettefuturism
 castiron
 castles
 castlevania
@@ -882,6 +885,7 @@ Catswhoyell
 CatsWithDogs
 Catswithjobs
 CatTaps
+Cawwsplay
 CBSE
 CCW
 CDrama
@@ -910,6 +914,7 @@ Chainsawfolk
 ChainsawMan
 chainsawmancirclejerk
 chairsunderwater
+Challenger
 Chang_Gang
 Chaos40k
 chaoticgood
@@ -1016,6 +1021,7 @@ college
 collegebaseball
 CollegeBasketball
 ColleiMains
+Colombia
 Colorado
 ColoradoAvalanche
 Colorization
@@ -1055,6 +1061,7 @@ confessions
 confidentlyincorrect
 confusing_perspective
 confusingperspective
+CongratsLikeImFive
 Connecticut
 Conservative
 ConservativeMemes
@@ -1084,6 +1091,7 @@ Cosmere
 cosplayers
 Costco
 cottagecore
+counterstrike
 CountOnceADay
 CoupleMemes
 CourtneyMiller
@@ -1231,6 +1239,7 @@ DataHoarder
 dataisbeautiful
 datascience
 datealive
+dating
 dating_advice
 davidgoggins
 davidlynch
@@ -1269,6 +1278,7 @@ DecidingToBeBetter
 declutter
 dedreviil
 DeepRockGalactic
+deepseacreatures
 DeepSpaceNine
 Defenders
 deftones
@@ -1463,6 +1473,7 @@ EarthPorn
 EatCheapAndHealthy
 EatCheapAndVegan
 eatsandwiches
+ebikes
 Economics
 economy
 Edelgard
@@ -1556,6 +1567,7 @@ ethtrader
 etymology
 eu4
 eu_nvr
+Eugene
 EulaMains
 euphoria
 EUR_irl
@@ -1622,6 +1634,7 @@ farcry
 fargo
 farialimabets
 farming
+farmingsimulator
 farscape
 fashion
 fashionhistory
@@ -1634,6 +1647,7 @@ FatuiHQ
 Fauxmoi
 fcbayern
 FCCincinnati
+FCInterMilan
 fednews
 Fedora
 feedthebeast
@@ -1865,6 +1879,7 @@ Ganyu
 GarandThumb
 garfieldminusgarfield
 GarlicBreadMemes
+Gary_The_Cat
 Gatcat
 gatekeeping
 GatekeepingYuri
@@ -1954,6 +1969,7 @@ GodofWarRagnarok
 godot
 godtiersuperpowers
 GODZILLA
+gojira
 Gold
 GoldandBlack
 Goldendoodles
@@ -2011,6 +2027,7 @@ grilledcheese
 grilling
 Grimdank
 Grimes
+GriseldaxFR
 Grishaverse
 Groningen
 grunge
@@ -3037,6 +3054,7 @@ mildlyterrifying
 MildlyVandalised
 mildyinteresting
 Military
+MilitaryGfys
 MilitaryPorn
 MilitaryStories
 MilitaryVStheUnknown
@@ -3091,6 +3109,7 @@ MoDaoZuShi
 ModelsGoneMild
 modeltrains
 Modern_Family
+ModernistArchitecture
 modernwarfare
 ModernWarfareII
 ModestMouse
@@ -3198,6 +3217,7 @@ NanatsunoTaizai
 Nanny
 NarcoFootage
 Naruto
+narutomemes
 nasa
 NASCAR
 nashville
@@ -3380,6 +3400,8 @@ NYYankees
 obeyme
 oblivion
 ObsidianMD
+ObviousPlant
+OCDmemes
 OceansAreFuckingLit
 ockytop
 octopathtraveler
@@ -3645,6 +3667,7 @@ PicsOfUnusualBirds
 piercing
 PietSmiet
 pigeon
+Pigifs
 Pikabu
 Pikamee
 Pikmin
@@ -3854,6 +3877,7 @@ RainbowEverything
 RainbowHigh
 raining
 rainworld
+RakanMains
 raleigh
 rally
 ralsei
@@ -3880,6 +3904,7 @@ ravens
 rawdenim
 RBI
 RCB
+rccars
 rct
 RDR2
 Re_Zero
@@ -3910,6 +3935,7 @@ reddevils
 RedditForGrownups
 RedditLaqueristas
 RedDwarf
+RedheadedGoddesses
 RedHotChiliPeppers
 RedLetterMedia
 redneckengineering
@@ -3928,6 +3954,7 @@ RelationshipMemes
 religiousfruitcake
 remoteplaces
 remotework
+ReneeMurden
 Renovations
 rentnerzeigenaufdinge
 Repaintings
@@ -4073,6 +4100,7 @@ Schaffrillas
 SchittsCreek
 schizoposters
 schnauzers
+SchnitzelVerbrechen
 school_memes
 science
 sciencememes
@@ -4118,6 +4146,7 @@ sendinthetanks
 seniorkitties
 Sephora
 SequelMemes
+SeraphineMains
 serbia
 serbiancringe
 serialkillers
@@ -4333,6 +4362,7 @@ speedrun
 spelunky
 sphynx
 spicy
+spicypillows
 spiderbro
 Spiderman
 SpidermanPS4
@@ -4487,6 +4517,7 @@ suspiciouslyspecific
 sustainability
 SweatyPalms
 sweden
+swedishproblems
 SWGalaxyOfHeroes
 Switzerland
 SWlegion
@@ -4496,6 +4527,7 @@ swordartonline
 SWORDS
 SwordsComic
 swtor
+SWTOR_memes
 sydney
 SydneySweeney
 SympatheticMonsters
@@ -4692,12 +4724,14 @@ thisismylifenow
 ThisLooksFun
 ThisYouComebacks
 thomastheplankengine
+ThousandSons
 ThriftGrift
 thumbcats
 Thunder
 ThunderThots
 Tierzoo
 tifu
+TighnariMains
 tightdresses
 TIGHTPUSSY
 TIHI
@@ -4971,6 +5005,7 @@ vermont
 Veterans
 vexillology
 vexillologycirclejerk
+veYakinEvren
 vfx
 VGC
 VHS
@@ -5138,6 +5173,7 @@ WhyWomenLiveLonger
 Wicca
 wien
 WiggleButts
+wiiu
 wikipedia
 WildernessBackpacking
 wildhearthstone
@@ -5196,6 +5232,7 @@ WorldWar2
 WormMemes
 wortwitzkasse
 WoT
+WouldYouRather
 wow
 wowthanksimcured
 Wrasslin
@@ -5226,6 +5263,7 @@ xbiking
 xbox
 XboxGamePass
 xboxone
+XboxSeriesS
 XboxSeriesX
 Xcom
 Xennials
