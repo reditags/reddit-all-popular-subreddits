@@ -404,6 +404,7 @@ Augenbleiche
 Aurelion_Sol_mains
 AusFinance
 auslaw
+AusLegal
 AusMemes
 AusProperty
 AusRenovation
@@ -506,6 +507,7 @@ bassfishing
 BassGuitar
 batman
 BatmanArkham
+BattleBrothers
 Battlecars
 battlecats
 Battlefield
@@ -578,6 +580,7 @@ bestoftheinternet
 bettafish
 betterCallSaul
 BetterEveryLoop
+bevy
 beyondwholesome
 bi_irl
 bicycling
@@ -883,6 +886,7 @@ catdimension
 catfaceplant
 catfruit
 CatGifs
+CatgirlSFW
 Catholicism
 CatholicMemes
 cathostage
@@ -1576,6 +1580,7 @@ EizaGonzalez
 Eldar
 EldenBling
 Eldenring
+ElderKings
 ElderScrolls
 elderscrollsonline
 ElectricalEngineering
@@ -1732,6 +1737,7 @@ FashionReps
 fashionsouls
 fasting
 FastWorkers
+fatcats
 fatestaynight
 FatuiHQ
 Fauxmoi
@@ -1845,6 +1851,7 @@ ForgottenBookmarks
 forgottenpowerade
 ForgottenWeapons
 forhonor
+forhonorknights
 forhonormemes
 formula1
 FormulaBuddyRetard
@@ -2322,6 +2329,7 @@ Honda
 honeypuu_
 HongKong
 honkaiimpact3
+HonkaiImpact3rd
 HonkaiStarRail
 hopeposting
 Horimiya
@@ -2950,6 +2958,7 @@ LookatMyHalo
 lookismcomic
 LOONA
 LooneyTunesLogic
+loopringorg
 lorde
 LordofTheMysteries
 lordoftherings
@@ -4757,6 +4766,7 @@ tacticalgear
 TacticalIssueCat
 tahoe
 Takagi_san
+talesfromcallcenters
 TalesFromDF
 TalesFromRetail
 talesfromtechsupport
