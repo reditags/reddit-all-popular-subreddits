@@ -177,6 +177,7 @@ AMADisasters
 AmateurRoomPorn
 amazingmemes
 AmazonDSPDrivers
+AmazonFC
 amazonreviews
 ambien
 amcstock
@@ -207,6 +208,7 @@ Anarchy4Everyone
 AnarchyChess
 Anbennar
 anchorage
+Ancient_History_Memes
 AncientCivilizations
 ancientegypt
 Ancientknowledge
@@ -263,6 +265,7 @@ Animorphs
 annakendrick
 AnnArbor
 AnneHathaway
+AnniTheDuck___
 ANormalDayInRussia
 antiassholedesign
 Anticonsumption
@@ -309,6 +312,7 @@ arcane
 Archaeology
 Archeology
 ArcherFX
+Archery
 ArchitecturalRevival
 architecture
 ArchitecturePorn
@@ -870,6 +874,7 @@ Cartalk
 CarTalkUK
 CartiCulture
 CartoonMoment
+cartoons
 casinocat
 casio
 cassettefuturism
@@ -1032,6 +1037,7 @@ cigars
 cincinnati
 Cinemagraphs
 cinematography
+CineShots
 circlejerk
 CirclejerkSopranos
 cirkeltrek
@@ -1269,6 +1275,7 @@ DadForAMinute
 dadjokes
 DadReflexes
 dadswhodidnotwantpets
+DaenerysWinsTheThrone
 DaftPunk
 dahyun
 DaisyRidley
@@ -1925,6 +1932,7 @@ Frostpunk
 Frugal
 frugalmalefashion
 Fruitbatcats
+FruitsBasket
 fryup
 ft86
 ftlgame
@@ -2348,6 +2356,7 @@ HonkaiImpact
 honkaiimpact3
 HonkaiImpact3rd
 HonkaiStarRail
+HonzukiNoGekokujou
 hopeposting
 Horimiya
 horizon
@@ -2448,6 +2457,7 @@ ImaginaryAzeroth
 ImaginaryBattlefields
 ImaginaryBehemoths
 ImaginaryBestOf
+ImaginaryCastles
 ImaginaryCharacters
 ImaginaryCityscapes
 ImaginaryCybernetics
@@ -2656,6 +2666,7 @@ JennaLouiseColeman
 Jennamarbles
 JennaOrtega_
 jennie
+JenniferAniston
 JenniferConnelly
 JenniferLawrence
 JenniferLopez
@@ -2765,6 +2776,7 @@ KidsAreFuckingStupid
 KiernanBrennanShipka
 KiernanShipka
 killedthecameraman
+killingfloor
 KillLaKill
 killsixbilliondemons
 killteam
@@ -2973,6 +2985,7 @@ longboarding
 longboyes
 longcats
 LongDistance
+longevity
 longhair
 longisland
 longrange
@@ -3018,6 +3031,7 @@ LPOTL
 LSAT
 LSD
 LTB_iel
+lucifer
 luciomains
 LucyHale
 LudwigAhgren
@@ -3118,6 +3132,7 @@ masterhacker
 MasterReturns
 Mastodon
 mathmemes
+mattcolville
 matureplants
 mauerstrassenwetten
 Mavericks
@@ -3292,6 +3307,7 @@ mmababes
 mmamemes
 MobileLegendsGame
 Mobpsycho100
+MobuSeka
 MoDaoZuShi
 ModelsGoneMild
 modeltrains
@@ -4813,6 +4829,7 @@ TankPornMemes
 tanks
 TanmayBhatKeDost
 taoism
+tappedout
 tarantulas
 Target
 TargetedShirts
@@ -5215,6 +5232,7 @@ unexpectedMontyPython
 UnexpectedMulaney
 unexpectedoffice
 unexpectedsabaton
+unexpectedskyrim
 UnexpectedTF2
 Unextexted
 unfortunateplacement
@@ -5565,6 +5583,7 @@ xboxone
 XboxSeriesS
 XboxSeriesX
 Xcom
+XCOM2
 Xennials
 Xenoblade_Chronicles
 XFiles
