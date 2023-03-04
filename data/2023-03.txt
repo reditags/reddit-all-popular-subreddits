@@ -140,6 +140,7 @@ airsoftcirclejerk
 AITAH
 AIVoiceMemes
 aiyu
+AJR
 ak47
 AkameGaKILL
 akita
@@ -455,6 +456,7 @@ BackpackingDogs
 backrooms
 BackYardChickens
 Bad_Cop_No_Donut
+badassanimals
 BadChoicesGoodStories
 badcode
 BadDesigns
@@ -685,6 +687,7 @@ BoneAppleTea
 bonehurtingjuice
 bonnaroo
 booknooks
+BookOfBobaFett
 bookporn
 books
 bookshelf
@@ -887,6 +890,7 @@ CatsInSinks
 CatsISUOTTATFO
 CatSlaps
 CatsLivingAndWell
+CatSmiles
 Catsmirin
 CatsNamedToothless
 catsofrph
@@ -954,6 +958,7 @@ Chattanooga
 Cheese
 Cheetahs
 Chefit
+chefknives
 chelseafc
 chemicalreactiongifs
 chemistry
@@ -969,6 +974,7 @@ Chihuahua
 childemains
 ChildrenFallingOver
 chile
+chinchilla
 ChineseLanguage
 Chiraqology
 Chivalry2
@@ -1253,6 +1259,7 @@ DanLeBatardShow
 DanMachi
 DannyGonzalez
 Daredevil
+DarK
 DarkAndDarker
 DarkBRANDON
 darkestdungeon
@@ -1367,6 +1374,7 @@ developersIndia
 DevilMayCry
 devils
 DevonUK
+Dexter
 dezwo
 DHHMemes
 DHMIS
@@ -1479,6 +1487,7 @@ DrDisrespectLive
 DreamlightValley
 Dreams
 DrewGooden
+Drizzy
 dropout
 DrStone
 DRSyourGME
@@ -1642,6 +1651,7 @@ F1TV
 Fable
 FacebookScience
 facebookwins
+facehugs
 facepalm
 Faces
 factorio
@@ -1665,6 +1675,7 @@ falloutsettlements
 familyguy
 FamousLatinas
 FanFiction
+FansHansenvsPredator
 fantanoforever
 fantasybball
 fantasyfootball
@@ -1682,6 +1693,7 @@ fashionph
 fashionporn
 FashionReps
 fashionsouls
+fasting
 FastWorkers
 fatestaynight
 FatuiHQ
@@ -2317,6 +2329,7 @@ IAmA
 Iamactuallyverybadass
 iamatotalpieceofshit
 IAmTheMainCharacter
+iamverybadass
 iamveryculinary
 iamverysmart
 IASIP
@@ -2410,6 +2423,7 @@ ImmutableX
 Impeach_Trump
 Imperator
 ImperialFists
+ImpracticalJokers
 imsorryjon
 ImTheMainCharacter
 InclusiveOr
@@ -2535,10 +2549,12 @@ jacksonville
 JackSucksAtLife
 Jaguars
 Jaharia
+jailbreak
 jakeandamir
 jakertown
 JamesBond
 JamesTurnerYT
+jameswebb
 January6
 japan
 JapaneseFood
@@ -2792,6 +2808,7 @@ lego
 legodeal
 Legoleak
 legostarwars
+legostarwarsmemes
 LegoStarWarsVideoGame
 LEGOtrains
 LEMMiNO
@@ -2829,6 +2846,7 @@ likeus
 LilGrabbies
 lilireinhart
 LilliaMains
+LilPeep
 liluzivert
 LilyJames
 limbuscompany
@@ -3309,6 +3327,7 @@ nathanforyou
 nathanwpyle
 NationalPark
 NationalServiceSG
+NativeAmerican
 NativePlantGardening
 nattyorjuice
 nature
@@ -4602,6 +4621,7 @@ Suburbanhell
 SubwayCreatures
 SuccessionTV
 suddenlybi
+SuddenlyCommunist
 SuddenlyLesbian
 SuddenlyTrans
 suggestmeabook
@@ -5028,6 +5048,7 @@ UCSD
 udub
 ufc
 UFOs
+ufyh
 UIUC
 UK_Food
 UKBabes
@@ -5136,6 +5157,7 @@ venturebros
 Vermintide
 vermont
 Veterans
+VeteransBenefits
 vexillology
 vexillologycirclejerk
 veYakinEvren
@@ -5271,6 +5293,7 @@ westies
 WestVirginia
 WetlanderHumor
 WeWantPlates
+WGU
 whales
 WhatAWeeb
 whatcarshouldIbuy
