@@ -248,6 +248,7 @@ AnimeFunny
 animegifs
 AnimeHoodies
 animehotbeverages
+animemaids
 animememes
 Animemes
 AnimeMirchi
@@ -577,6 +578,7 @@ Bestbuy
 bestconspiracymemes
 bestof
 bestoflegaladvice
+BestOfReports
 bestoftheinternet
 bettafish
 betterCallSaul
@@ -1376,6 +1378,7 @@ DenverBroncos
 DenverCirclejerk
 denvernuggets
 depechemode
+DeppDelusion
 depression_memes
 DepthHub
 DerryGirls
@@ -1619,6 +1622,7 @@ engineering
 engineeringmemes
 EngineeringPorn
 EngineeringStudents
+EnglishLearning
 engrish
 ENLIGHTENEDCENTRISM
 enlistedgame
@@ -1886,6 +1890,7 @@ fragilecommunism
 FragileWhiteRedditor
 FragReddit
 france
+FranceDetendue
 FrankOcean
 Frasier
 FreckledGirls
@@ -2786,6 +2791,7 @@ knolling
 KnowledgeFight
 Knoxville
 KobeniHigashiyama
+Kochen
 kof
 Kokomi_Mains
 kolkata
@@ -2803,6 +2809,7 @@ kpics
 kpop
 kpoprants
 kpopthoughts
+kristenbell
 ksi
 KSPMemes
 KuboSanWontLeaveMeBe
@@ -3794,6 +3801,7 @@ pcgaming
 pcmasterrace
 PeakyBlinders
 PeanutWhiskers
+pedale
 Pedro_Pascal
 PeepingPooch
 peloton
@@ -4133,6 +4141,7 @@ reclaimedbynature
 recruitinghell
 red_velvet
 reddeadfashion
+reddeadmysteries
 RedDeadOnline
 reddeadredemption
 reddeadredemption2
@@ -4411,6 +4420,7 @@ ShitPoliticsSays
 ShitpostBR
 ShitPostCrusaders
 shitposting
+ShitpostTC
 ShitpostXIV
 Shitstatistssay
 Shitty_Car_Mods
@@ -4908,7 +4918,9 @@ TheGoodPlace
 thegrandtour
 TheGriffonsSaddlebag
 TheHandmaidsTale
+TheHollyWilloughby
 theJoeBuddenPodcast
+TheKillers
 TheKittyKingdom
 TheKM
 TheLastAirbender
@@ -5184,6 +5196,7 @@ unexpectedhogwarts
 unexpecteditcrowd
 UnexpectedJoJo
 UnexpectedLetterkenny
+unexpectedlotr
 UnexpectedlyWholesome
 unexpectedMontyPython
 UnexpectedMulaney
