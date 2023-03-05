@@ -274,6 +274,7 @@ animegifs
 AnimeHoodies
 animehotbeverages
 AnimeInOurWorld
+AnimeItaly
 animemaids
 AnimeMeme
 animememes
@@ -363,6 +364,7 @@ AroundTheNFL
 arresteddevelopment
 Arrowheads
 ArsenalFC
+ArsenalWFC
 Art
 ArtDeco
 ArtefactPorn
@@ -524,6 +526,7 @@ badUIbattles
 badwomensanatomy
 BaizhuMains
 Baking
+bald
 baldursgate
 BaldursGate3
 balisong
@@ -631,6 +634,7 @@ Bestbuy
 bestconspiracymemes
 bestof
 bestoflegaladvice
+BestofRedditorUpdates
 BestOfReports
 bestoftheinternet
 bettafish
@@ -1143,6 +1147,7 @@ ClevelandGuardians
 clevercomebacks
 climate
 ClimateMemes
+ClimateShitposting
 climbing
 ClimbingCircleJerk
 clonewars
@@ -1313,6 +1318,7 @@ Cruise
 CrusadeMemes
 CrusaderKings
 CryptidDogs
+cryptids
 CryptoCurrency
 CryptoCurrencyClassic
 CryptoGemDiscovery
@@ -1425,6 +1431,7 @@ datascience
 datealive
 dating
 dating_advice
+datingoverthirty
 davidgoggins
 davidlynch
 Davie504
@@ -1738,6 +1745,7 @@ ellacervetto
 ElleFanning
 ElonJetTracker
 elonmusk
+ElvenGirls
 emacs
 embedded
 Embroidery
@@ -1769,6 +1777,7 @@ EnoughLibertarianSpam
 EnoughMuskSpam
 EnoughPCMSpam
 enoughpetersonspam
+ensemblestars
 entertainment
 EnterTheGungeon
 EntitledBitch
@@ -2800,6 +2809,7 @@ IrrationalMadness
 IsItBullshit
 islam
 Israel
+IsraelCrimes
 israelexposed
 IsTodayFridayThe13th
 ITAGLIA
@@ -2886,6 +2896,7 @@ joueurdugrenier
 Journaling
 jovemnerd
 jpegmafia
+Jreg
 JRPG
 jschlatt
 jschlattsubmissions
@@ -3321,6 +3332,7 @@ MandJTV
 MangaCollectors
 manhwa
 ManufacturingPorn
+ManyATrueNerd
 Maplestory
 mapmaking
 MapPorn
@@ -3578,6 +3590,7 @@ Morbius
 MordekaiserMains
 Mordhau
 mordheim
+morenabaccarin
 moreplatesmoredates
 MoreTankie196
 Morocco
@@ -4927,6 +4940,7 @@ soup
 sousvide
 southafrica
 southcarolina
+Southerncharm
 SouthJersey
 SovietWomble
 space
@@ -5227,6 +5241,7 @@ Tennessee
 Tennesseetitans
 tennis
 TenseiSlime
+tensionporn
 TerminallyStupid
 TerrainBuilding
 Terraria
@@ -5294,6 +5309,7 @@ TheDragonPrince
 TheEminenceInShadow
 TheEricAndreShow
 TheExpanse
+TheFarSide
 TheFence
 thefighterandthekid
 TheFirstLaw
@@ -5993,6 +6009,7 @@ YaeMiko
 YagateKiminiNaru
 yakuzagames
 yandere
+YanfeiMains
 YarnAddicts
 yarntrolls
 yayfoxxo
