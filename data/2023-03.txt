@@ -1471,6 +1471,7 @@ Design
 DesignDesign
 DesignMyRoom
 DesignPorn
+DesiMeta
 DesirePath
 desmoines
 dessert
@@ -1916,6 +1917,7 @@ FirePunch
 firstimpression
 FirstTimeHomeBuyer
 firstworldanarchists
+firstworldproblems
 Fischl
 Fit_babes
 FitAndNatural
@@ -2197,6 +2199,7 @@ GME
 gme_meltdown
 GMEJungle
 gmod
+gnome
 Goatparkour
 goats
 goblincore
@@ -3450,6 +3453,7 @@ MisleadingPuddles
 misleadingthumbnails
 misLED
 misophonia
+missbo
 missbricosplay
 mississauga
 missouri
@@ -4058,6 +4062,7 @@ pesmobile
 Petioles
 PetiteFashionAdvice
 PetiteFitness
+Pets
 PetsareAmazing
 PetTheDamnCat
 PetTheDamnDog
@@ -4655,6 +4660,7 @@ ShenheMains
 Sherlock
 ShermanPosting
 shiba
+SHIBArmy
 shield
 shieldbro
 Shihtzu
@@ -4671,6 +4677,7 @@ ShitPostCrusaders
 shitposting
 ShitpostTC
 ShitpostXIV
+ShitRimworldSays
 Shitstatistssay
 Shitty_Car_Mods
 shittyaquariums
@@ -5771,6 +5778,7 @@ wildhearthstone
 WildHeartsGame
 wildhockey
 wildlifephotography
+wildrift
 wimmelbilder
 windows
 Windows10
