@@ -1698,6 +1698,7 @@ Emo
 Emoney
 EmpireDidNothingWrong
 ems
+EmulationOnAndroid
 ender3
 energy
 ENFP
@@ -2838,6 +2839,7 @@ Juve
 juxtaposition
 k_on
 kac
+KaguyaShinomiya
 kaiserredux
 Kaiserreich
 KaIT
@@ -3812,6 +3814,7 @@ okbuddyguardian
 OKbuddyHalfLife
 okbuddyhololive
 okbuddyHRetard
+okbuddyjotard
 OkBuddyPersona
 okbuddyphd
 okbuddyrathalos
@@ -3896,6 +3899,7 @@ ORKZcomic
 orlando
 OrlandoMagic
 OrphanCrushingMachine
+oscarrace
 OSHA
 OshiNoKo
 osp
@@ -5010,6 +5014,7 @@ synthesizercirclejerk
 synthesizers
 sysadmin
 SzarFurik
+TabbyCats
 tacobell
 tacticalgear
 TacticalIssueCat
@@ -5337,6 +5342,7 @@ trashpandas
 TrashTaste
 trashy
 travel
+TravelHacks
 travisscott
 trebuchetmemes
 treelaw
