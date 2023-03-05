@@ -263,6 +263,7 @@ AnimalTextGifs
 AnimalTracking
 animation
 anime_irl
+Anime_Romance
 anime_titties
 animearmor
 AnimeART
@@ -321,6 +322,7 @@ aphextwin
 apolloapp
 AppalachianTrail
 apple
+AppleMusic
 AppleWatch
 ApplyingToCollege
 aquarium
@@ -407,6 +409,7 @@ AssassinsCreedValhala
 assettocorsa
 assholedesign
 assholetax
+AstonMartinFormula1
 astramilitarum
 astrologymemes
 Astroneer
@@ -569,6 +572,7 @@ battlewagon
 batty
 bayarea
 Bayley
+BayleyBooty
 Bayonetta
 BBBY
 BBQ
@@ -768,6 +772,7 @@ BookOfBobaFett
 bookporn
 books
 bookshelf
+BoomersBeingFools
 boottoobig
 borbs
 BorderCollie
@@ -778,6 +783,7 @@ BorrowerDefense
 borussiadortmund
 Boruto
 Bossfight
+BossFights
 boston
 BostonBruins
 bostonceltics
@@ -1269,6 +1275,7 @@ crashbandicoot
 CrazyFuckingVideos
 CrazyHuman
 CrazyIdeas
+crazystairs
 CreateMod
 creepy
 creepyasterisks
@@ -1520,6 +1527,7 @@ deutschememes
 developersIndia
 DevilMayCry
 devils
+devinbrugman
 DevonUK
 Dexter
 dezwo
@@ -3258,6 +3266,7 @@ LycorisRecoil
 MAAU
 mac
 macarons
+macbookpro
 MachineLearning
 MachinePorn
 Machinists
@@ -3366,6 +3375,7 @@ mbtimemes
 McFarlaneFigures
 MCFC
 McKaylaMaroney
+McLarenFormula1
 McMansionHell
 McMaster
 MCPE
@@ -3551,6 +3561,7 @@ MoldyMemes
 MomForAMinute
 Mommit
 monarchism
+Monero
 MonicaBellucci
 Monikafandom
 Monke
@@ -4682,6 +4693,7 @@ Seattle
 SeattleKraken
 SeattleWA
 secretcompartments
+Seiko
 seinfeld
 seinfeldgifs
 SeishunButaYarou
@@ -4791,6 +4803,7 @@ Showerthoughts
 Shrek
 Shrimping
 shrimptank
+shrinkflation
 ShroomID
 shrooms
 ShuumatsuNoValkyrie
@@ -5156,6 +5169,7 @@ talk_hunfluencers
 tall
 TameImpala
 tampa
+tampabayrays
 tankiejerk
 TankPorn
 TankPornMemes
