@@ -357,6 +357,7 @@ ARK
 Arkansas
 arknights
 arma
+armenia
 armoredcore
 army
 aromantic
@@ -646,6 +647,7 @@ beyondwholesome
 bi_irl
 bicycling
 BicyclingCirclejerk
+BidenIsNotMyPresident
 bigbangtheory
 bigboobproblems
 bigboye
@@ -1322,6 +1324,7 @@ cryptids
 CryptoCurrency
 CryptoCurrencyClassic
 CryptoGemDiscovery
+CryptoMarkets
 cryptomining
 CryptoMoonShots
 CryptoTechnology
@@ -1587,6 +1590,7 @@ DiWHY
 DIY
 diyelectronics
 diynz
+diypedals
 DIYUK
 DJ_Peach_Cobbler
 DMAcademy
@@ -1676,6 +1680,7 @@ Drugs
 drugstoreMUA
 drums
 drumstick
+drunk
 drunkencookery
 dsa
 dualipa
@@ -1703,6 +1708,7 @@ DynastyFF
 Dyson_Sphere_Program
 earlsweatshirt
 earthbound
+Earthchan
 EarthPorn
 Earwolf
 EatCheapAndHealthy
@@ -1747,6 +1753,7 @@ ElleFanning
 ElonJetTracker
 elonmusk
 ElvenGirls
+Elysia
 emacs
 embedded
 Embroidery
@@ -2047,6 +2054,7 @@ fountainpens
 fourthwavewomen
 fourthworldproblems
 foxes
+FoxFiction
 foxholegame
 fpv
 fragilecommunism
@@ -2342,6 +2350,7 @@ gtaonline
 GTAV
 gtavcustoms
 GuardianTales
+Guelph
 guichon
 Guildwars2
 GuiltyDogs
@@ -2374,6 +2383,7 @@ h3h3productions
 H3VR
 Habs
 hacking
+Hacking_Tutorials
 HadesTheGame
 HadToHurt
 haikyuu
@@ -2453,6 +2463,7 @@ Helltaker
 HelluvaBoss
 Helluvabossmemes
 HelpMeFind
+herbalism
 HermanCainAward
 HermitCraft
 hermitcraftmemes
@@ -2621,6 +2632,7 @@ ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
 IkeaFreshBalls
+ikeahacks
 iknowtheowner
 IllegalLifeProTips
 IllegallySmol
@@ -2904,6 +2916,7 @@ JRPG
 jschlatt
 jschlattsubmissions
 Judaism
+judo
 JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
@@ -3417,6 +3430,7 @@ Megadeth
 MegalithPorn
 megalophobia
 Megaman
+megamindmemes
 megane
 MeganFox
 Megaten
@@ -3531,6 +3545,7 @@ minnesotatwins
 minnesotavikings
 miraculousladybug
 MirandaCosgrove
+mirrorsedge
 Mirrorsforsale
 Misato
 MisleadingPuddles
@@ -5357,6 +5372,7 @@ TheNightFeeling
 TheNinthHouse
 theocho
 TheOnion
+theouterworlds
 TheRandomest
 TheRatEmpire
 TheRealJoke
@@ -5501,6 +5517,7 @@ TransClones
 Transformemes
 transformers
 transgender
+transguns
 transit
 transitiongoals
 TransLater
