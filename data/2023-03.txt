@@ -1219,6 +1219,7 @@ community
 CompanyOfHeroes
 CompetitiveApex
 Competitiveoverwatch
+CompetitiveTFT
 compoface
 composting
 Compound
@@ -1793,6 +1794,7 @@ Emoney
 EmpireDidNothingWrong
 ems
 EmulationOnAndroid
+EnculerLesVoitures
 ender3
 energy
 ENFP
@@ -3689,6 +3691,7 @@ MoviePosterPorn
 movies
 Moviesinthemaking
 mrballen
+MrBeast
 mrgirlreturns
 mrlovenstein
 MrRobot
@@ -4665,6 +4668,7 @@ RoomPorn
 roosterteeth
 rootgame
 rose
+rosesarered
 Rottweiler
 RoughRomanMemes
 RoundAnimals
