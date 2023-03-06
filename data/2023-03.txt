@@ -1594,6 +1594,7 @@ dioramas
 Dipcifica
 DiretoDoZapZap
 Dirtbikes
+dirtgame
 disability
 discgolf
 DiscoElysium
@@ -1629,6 +1630,7 @@ DMT
 DMZ
 DnD
 DnDart
+DnDcirclejerk
 DnDGreentext
 DnDHomebrew
 DnDIY
@@ -1674,6 +1676,7 @@ dontyouknowwhoiam
 DonutMedia
 doodles
 doodoofard
+doommetal
 doordash
 doordash_drivers
 DotA2
@@ -1979,6 +1982,7 @@ FFXIVGlamours
 FFXV
 FFXVI
 Fibromyalgia
+FiddlesticksMains
 FierceFlow
 FIFA
 FifaCareers
@@ -2069,6 +2073,7 @@ ForgottenWeapons
 forhonor
 forhonorknights
 forhonormemes
+formalwaifus
 formula1
 Formula1Point5
 FormulaBuddyRetard
@@ -2717,6 +2722,7 @@ ImaginaryCybernetics
 ImaginaryDemons
 ImaginaryDragons
 imaginaryelections
+ImaginaryElementals
 ImaginaryElves
 ImaginaryFallout
 ImaginaryFeels
@@ -3269,6 +3275,7 @@ listentothis
 literaciafinanceira
 literature
 lithuania
+litrpg
 LitterboxComics
 LittleNuns
 LittleWitchAcademia
@@ -3659,6 +3666,7 @@ ModestMouse
 moedred
 MoeMorphism
 Moescape
+moi_dlvv
 Moissanite
 MoldlyInteresting
 moldova
@@ -3750,6 +3758,7 @@ Mustang
 MxRMods
 MyChemicalRomance
 mycology
+MyDressUpDarlingAnime
 myfavoritemurder
 mylittlepony
 myog
@@ -4216,6 +4225,7 @@ pcmasterrace
 PeakyBlinders
 peanutbutterisoneword
 PeanutWhiskers
+PecsAndPecBouncing
 pedale
 Pedro_Pascal
 PeepingPooch
@@ -4346,6 +4356,7 @@ PleX
 Plumbing
 plushies
 PlusSizeFashion
+PNVmilitary_community
 pocketpussy
 podcasts
 Poetry
@@ -4812,6 +4823,7 @@ ScrapMechanic
 Scream
 screenshots
 Screenwriting
+scriptedasiangifs
 ScritchTheDamnBird
 Scrubs
 scrungycats
@@ -5826,6 +5838,7 @@ VaultHuntersMinecraft
 VaushV
 vaxxhappened
 vdm
+Vechain
 vegan
 vegancirclejerk
 VeganDE
@@ -6048,6 +6061,7 @@ wildhockey
 wildlifephotography
 wildrift
 WillNE
+willwood
 wimmelbilder
 windows
 Windows10
@@ -6148,6 +6162,7 @@ XiaoMains
 xkcd
 xmen
 xqcow
+XRP
 XXXTENTACION
 YaeMiko
 YagateKiminiNaru
@@ -6182,6 +6197,7 @@ youdontsurf
 YoujoSenki
 YouLookFamiliar
 Youmo
+youngjustice
 youngpeopleyoutube
 YoungThug
 YouniquePresenterMS
