@@ -171,6 +171,7 @@ AlbedosCreations
 alberta
 Albuquerque
 AlchemyStarsEN
+alcoholism
 Alderwood
 aldi
 Aleague
@@ -645,6 +646,7 @@ Bestbuy
 bestconspiracymemes
 bestof
 bestoflegaladvice
+bestofpositiveupdates
 BestofRedditorUpdates
 BestOfReports
 bestoftheinternet
@@ -2037,6 +2039,7 @@ Fit_babes
 FitAndNatural
 fitbit
 fitness30plus
+FitToFat
 FitWomenGifs
 fivenightsatfreddys
 fixedbytheduet
@@ -2140,6 +2143,7 @@ French
 Frenchbulldogs
 FrenchMemes
 FreshBeans
+FreyaAllan
 FridayNightFunkin
 friendlyjordies
 friends_tv_show
@@ -2738,6 +2742,7 @@ ImaginaryCastles
 ImaginaryCharacters
 ImaginaryCityscapes
 ImaginaryCybernetics
+ImaginaryCyberpunk
 ImaginaryDemons
 ImaginaryDragons
 imaginaryelections
@@ -2793,6 +2798,7 @@ ImmutableX
 Impeach_Trump
 Imperator
 ImperialFists
+ImpracticalArmour
 ImpracticalJokers
 imsorryjon
 ImTheMainCharacter
@@ -3758,6 +3764,7 @@ Mtf_irl
 MTFSelfieTrain
 mtg
 mtgfinance
+MTGLegacy
 mtgvorthos
 MtvChallenge
 MUAontheCheap
@@ -4070,6 +4077,7 @@ okbuddyrathalos
 okbuddyreiner
 okbuddyreze
 okbuddyrintard
+okbuddyrosalyn
 okbuddyvowsh
 okc
 okcopainattard
@@ -4760,6 +4768,7 @@ rupaulsdragrace
 rush
 russian
 RussianCircus
+russianwarcrimes
 RussiaUkraineWar2022
 rustjerk
 rustyrails
@@ -5352,6 +5361,7 @@ TalesFromThePharmacy
 TalesFromYourServer
 talk_hunfluencers
 tall
+tamamahbapengelli
 TameImpala
 tampa
 tampabayrays
@@ -5768,6 +5778,7 @@ ucla
 UCSD
 udub
 ufc
+ufl
 ufo
 UFOs
 ufyh
@@ -6119,6 +6130,7 @@ witcher
 Witcher3
 WitchesVsPatriarchy
 Wizard101
+wizardposting
 woahdude
 WojakCompass
 wokekids
@@ -6253,6 +6265,7 @@ yugioh
 YuGiOhMasterDuel
 YuGiOhMemes
 yuna
+yunyun
 yvonnestrahovski
 ZanClan
 ZaraLarsson
