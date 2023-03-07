@@ -546,6 +546,7 @@ badcode
 BadDesigns
 Badfaketexts
 badfriendspod
+badhistory
 BadMensAnatomy
 badMovies
 BadMtgCombos
@@ -675,6 +676,7 @@ bestoftheinternet
 bettafish
 betterCallSaul
 BetterEveryLoop
+BetweenTheBuriedAndMe
 bevy
 Beyblade
 beyondwholesome
@@ -1143,6 +1145,7 @@ chessmemes
 CHIBears
 chicagobulls
 chicagofood
+chickengifs
 chickens
 Chihuahua
 childemains
@@ -1314,6 +1317,7 @@ CoolGadgetsTube
 coolguides
 copenhagen
 copypasta
+coral_sharon
 cordcutters
 corgi
 cork
@@ -1449,6 +1453,7 @@ CynoMains
 czech
 czechmemes
 CZFirearms
+Dabs
 Dachschaden
 Dachshund
 DadForAMinute
@@ -2381,6 +2386,7 @@ GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
+ginacarano
 gingercats
 GingerMafia
 ginnyandgeorgiashow
@@ -2607,6 +2613,7 @@ Health
 Healthygamergg
 hearthstone
 hearthstonecirclejerk
+HeartstopperAO
 heat
 HeavyFuckingWind
 HeavySeas
@@ -3086,6 +3093,7 @@ Jewdank
 jewelrymaking
 Jewish
 JhinMains
+JimCornette
 jisoo
 jobs
 JoeBiden
@@ -3147,6 +3155,7 @@ kalam_army
 kaleycuoco
 KamenRider
 KamikazeByWords
+KanojoMoKanojo
 KanojoOkarishimasu
 kansascity
 KansasCityChiefs
@@ -3248,6 +3257,7 @@ kof
 Kokomi_Mains
 kolkata
 kollywood
+Kombucha
 Komi_san
 Konosuba
 korea
@@ -4017,6 +4027,7 @@ Neverbrokeabone
 neverchangejapan
 NeverPauseAvatar
 nevertellmetheodds
+Newbalance
 newcastle
 NewDealAmerica
 Newfoundlander
@@ -4299,6 +4310,7 @@ Ornithology
 Orochisegundo
 OrphanCrushingMachine
 oscarrace
+Oscars
 OSHA
 OshiNoKo
 osp
@@ -4306,6 +4318,7 @@ OstrichPlug
 OSU
 osubuddyretard
 osugame
+OTCstocks
 othepelican
 OTMemes
 otomegames
@@ -4346,6 +4359,7 @@ Padres
 pagan
 PaigeSpiranac
 painting
+Paintings
 pakistan
 Paladins
 Paleontology
@@ -4758,6 +4772,7 @@ rap
 rapbattles
 RapFars
 Raphtalia
+rarecompliments
 rareinsults
 rarepuppers
 Rarethreats
@@ -5379,6 +5394,7 @@ StarWarsAndor
 StarWarsBattlefront
 starwarsblackseries
 StarWarsCantina
+starwarscollecting
 StarWarsEU
 StarWarsKenobi
 StarWarsleftymemes
@@ -5739,6 +5755,7 @@ TheStrokes
 TheTempleOfOchako
 TheTrumpZone
 TheTryGuys
+TheTwitterEnd
 theumbrellaacademy
 theunforgiven
 thewalkingdead
@@ -6029,6 +6046,7 @@ UnfunnyHellhole
 union
 unionsolidarity
 UniSwap
+unitedairlines
 unitedstatesofindia
 Unity3D
 Universitaly
@@ -6171,6 +6189,7 @@ VyvanLe
 vzla
 W2S
 Wales
+walkablecities
 WalkableStreets
 walkaway
 wallpaper
