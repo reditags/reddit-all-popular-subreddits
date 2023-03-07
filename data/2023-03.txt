@@ -1176,6 +1176,7 @@ chronotrigger
 ChuckleSandwich
 ChurchOfCat
 churchoffutaba
+churchofharu
 ChurchOfKasumi
 ChurchofMarnie
 ChurchOfMinaAshido
@@ -1831,6 +1832,7 @@ ebikes
 EbonyImagination
 Economics
 economy
+eddyburback
 Edelgard
 EdensZero
 edgarwrightmemes
@@ -3669,6 +3671,7 @@ MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
 mechmarket
+mechwarrior
 Mechwarrior5
 MedicalGore
 MedievalCats
@@ -3956,6 +3959,7 @@ MySingingMonsters
 mystery
 MysteryDungeon
 mysticmessenger
+MyTeam
 mythology
 mythologymemes
 n64
@@ -4335,6 +4339,7 @@ Oscars
 OSHA
 OshiNoKo
 osp
+osr
 OstrichPlug
 OSU
 osubuddyretard
@@ -5012,6 +5017,7 @@ sanepolitics
 sanfrancisco
 SanJose
 SanJoseSharks
+sanpedrocactus
 saopaulo
 SapphoAndHerFriend
 saskatchewan
@@ -5499,6 +5505,7 @@ submarines
 submechanophobia
 subnautica
 SubSimulatorGPT2
+SubSimulatorGPT2Meta
 subsithoughtifellfor
 SubsTakenLiterally
 Suburbanhell
@@ -5685,6 +5692,7 @@ thanosdidnothingwrong
 That70sshow
 thatHappened
 ThatLookedExpensive
+ThatPeelingFeeling
 Thatsabooklight
 Thatsactuallyverycool
 ThatsInsane
