@@ -56,6 +56,7 @@
 676
 691
 6thForm
+7daystodie
 80s
 80sdesign
 80sfastfood
@@ -128,6 +129,7 @@ AdPorn
 AdultHood
 Adulting
 adultingph
+adultswim
 adventurecats
 adventuretime
 Advice
@@ -488,6 +490,7 @@ Avatar
 AvatarMemes
 avengedsevenfold
 Avengers
+AverageBattlestations
 aves
 avfc
 aviation
@@ -1021,6 +1024,7 @@ CatsAreAssholes
 catsarefuckingstupid
 catsareliquid
 CatsAreMuslim
+catsbeingbanks
 CatsBeingCats
 CatsBeingDerps
 CatsBitingThings
@@ -1604,6 +1608,7 @@ diabetes
 diabetes_t1
 Diablo
 diablo2
+diablo3
 diablo4
 DiceMaking
 DicePorn
@@ -1723,6 +1728,7 @@ Dragonballsuper
 DragonMaid
 dragonquest
 DragonsDogma
+dragrace
 DragRaceTea
 Dragula
 DrakeTheType
@@ -1768,6 +1774,7 @@ Dungeons_and_Dragons
 DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
+dustkitties
 dvdcollection
 dwarffortress
 dyinglight
@@ -1822,6 +1829,7 @@ ellacervetto
 ElleFanning
 ElonJetTracker
 elonmusk
+ElvenFood
 ElvenGirls
 Elysia
 emacs
@@ -1961,6 +1969,7 @@ falloutsettlements
 familyguy
 FamousLatinas
 FanFiction
+fangies
 FansHansenvsPredator
 fantanoforever
 fantasybball
@@ -2088,6 +2097,7 @@ fnv
 fo4
 fo76
 fo76FilthyCasuals
+FocusST
 FolkPunk
 FondantHate
 food
@@ -2181,6 +2191,7 @@ fromsoftware
 frontfootporn
 Frostpunk
 Frugal
+FrugalFemaleFashion
 frugalmalefashion
 Fruitbatcats
 FruitsBasket
@@ -2242,6 +2253,7 @@ gachagaming
 gadgets
 GalGadot
 Gameboy
+GameChangerTV
 Gamecocks
 gamecollecting
 Gamecube
@@ -2730,6 +2742,7 @@ iamverybadass
 iamveryculinary
 iamverysmart
 IASIP
+IBEW
 IBO
 ibs
 icecoast
@@ -3294,6 +3307,7 @@ leopardgeckos
 LeopardsAteMyFace
 leotards
 LesbianActually
+lesbianfashionadvice
 LesbianInsectBrothel2
 lesbianmemes
 lesserafim
@@ -3843,6 +3857,7 @@ MyChemicalRomance
 mycology
 MyDressUpDarlingAnime
 myfavoritemurder
+MyHeroAcadamia
 mylittlepony
 myog
 MyouiMina
@@ -4125,6 +4140,7 @@ okbuddyHRetard
 okbuddyjotard
 OkBuddyPersona
 okbuddyphd
+OkBuddyPoliceOfficer
 okbuddyrathalos
 okbuddyreiner
 okbuddyreze
@@ -5388,6 +5404,7 @@ Superstonk
 superstore
 SuperStructures
 supportlol
+Supreme
 surdev
 surrealmemes
 Survival
@@ -6053,8 +6070,10 @@ VRtoER
 VShojo
 vtm
 vtolvr
+vultureculture
 VuvuzelaIPhone
 VV11
+VyvanLe
 vzla
 Wales
 WalkableStreets
