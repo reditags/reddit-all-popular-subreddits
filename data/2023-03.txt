@@ -58,6 +58,7 @@
 676
 691
 6thForm
+75HARD
 7daystodie
 80s
 80sdesign
@@ -118,6 +119,7 @@ ActivationSound
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
+actuary
 AdamDriverCats
 AddisonRae
 Adelaide
@@ -1281,6 +1283,7 @@ CommunismMemes
 community
 CompanyOfHeroes
 CompetitiveApex
+CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
 compoface
@@ -1331,6 +1334,7 @@ cormacmccarthy
 Cornwall
 Coronavirus
 CoronavirusUS
+CorporateFacepalm
 Corridor
 Corvette
 corvids
@@ -1375,6 +1379,7 @@ creepygaming
 creepypasta
 creepyPMs
 cremposting
+CrestedGecko
 Cricket
 CricketShitpost
 cricut
@@ -3030,6 +3035,7 @@ IrishHistory
 IRLEasterEggs
 IronFrontUSA
 ironicsigns
+ironmaiden
 ironmouse
 ironscape
 IronWarriors
@@ -3112,6 +3118,7 @@ jerseyshore
 jessicaalba
 jesuschristouija
 Jewdank
+jewelry
 jewelrymaking
 Jewish
 JhinMains
@@ -3877,6 +3884,7 @@ MonsterHunterWorld
 Monsterverse
 Montana
 Monterrey
+MoonKnight
 Moonmoon
 MorbidWaysToDie
 Morbius
@@ -3886,6 +3894,7 @@ mordheim
 morenabaccarin
 moreplatesmoredates
 MoreTankie196
+MoriCalliope
 Morocco
 Morrowind
 MortalKombat
@@ -4122,6 +4131,8 @@ Nirvana
 NJGuns
 njpw
 NLBest
+NLSSCircleJerk
+Nmpx
 NMSCoordinateExchange
 NoahGetTheBoat
 NoahGetTheDeathStar
@@ -5145,6 +5156,7 @@ Shark_Park
 sharks
 sharpening
 SheGotHands
+Shen
 ShenheMains
 Sherlock
 ShermanPosting
@@ -6112,6 +6124,7 @@ UnusualArt
 UnusualVideos
 unwholesomememes
 uofm
+uoguelph
 upcycling
 UpliftingNews
 UPSers
@@ -6269,6 +6282,7 @@ Warzone
 washingtonwizards
 wasletztepreis
 wasletztestern
+watch_dogs
 watchcatsdieinside
 WatchDogsWoofInside
 watcherentertainment
