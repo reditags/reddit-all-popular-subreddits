@@ -422,6 +422,7 @@ AskMechanics
 AskMen
 AskMenOver30
 AskNYC
+AskOldPeople
 AskOuija
 AskReddit
 askscience
@@ -1019,6 +1020,7 @@ cartoons
 casinocat
 casio
 cassettefuturism
+CAStateWorkers
 castiron
 castles
 castlevania
@@ -2742,6 +2744,7 @@ HomeDepot
 homegym
 HomeImprovement
 homelab
+HomestarRunner
 homestead
 Homesteading
 homestuck
