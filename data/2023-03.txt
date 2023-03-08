@@ -1915,6 +1915,7 @@ EmulationOnAndroid
 EnculerLesVoitures
 ender3
 Endo
+endometriosis
 energy
 ENFP
 EngagementRings
@@ -2343,6 +2344,7 @@ gamindustri
 gaming
 Gamingcirclejerk
 GamingDetails
+GamingLaptops
 GamingLeaksAndRumours
 gangstaswithwaifus
 gangweed
@@ -3601,6 +3603,7 @@ MadMax
 MadokaMagica
 Madrid
 MAFS_AU
+Magic
 MagicArena
 magicbuilding
 MagicEye
@@ -6141,6 +6144,7 @@ unionsolidarity
 UniSwap
 unitedairlines
 unitedstatesofindia
+Unity2D
 Unity3D
 Universitaly
 unixporn
