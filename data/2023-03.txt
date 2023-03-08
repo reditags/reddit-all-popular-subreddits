@@ -365,6 +365,7 @@ Aquariums
 AquaSama
 Aquascape
 AquaticAsFuck
+AR10
 ar15
 arabfunny
 araragi
@@ -998,6 +999,7 @@ CanadaSoccer
 CanadianForces
 canberra
 canes
+cannabis
 cannabiscultivation
 CannedSardines
 canoeing
@@ -1449,6 +1451,7 @@ CSHFans
 csMajors
 csmanime
 css_irl
+cucina
 CuddlePuddle
 cuddleroll
 CuddlyKitties
@@ -2053,6 +2056,7 @@ FalloutMods
 falloutnewvegas
 falloutsettlements
 familyguy
+FamosasGifs
 FamousLatinas
 FanFiction
 fangies
@@ -2698,6 +2702,7 @@ Helltaker
 HelluvaBoss
 Helluvabossmemes
 HelpMeFind
+heraldry
 herbalism
 HermanCainAward
 HermitCraft
@@ -3634,6 +3639,7 @@ MadeMeSmile
 Madisonbeer
 MadisonPettis
 madisonwi
+madlad
 madlads
 MadMax
 MadokaMagica
@@ -3952,6 +3958,7 @@ MonsterHunterWorld
 Monsterverse
 Montana
 Monterrey
+MontyPythonMemes
 MoonKnight
 Moonmoon
 MorbidWaysToDie
@@ -4674,6 +4681,7 @@ playstation
 PlayStationPlus
 PLC
 PleX
+PLTR
 Plumbing
 plushies
 PlusSizeFashion
@@ -5456,6 +5464,7 @@ SpanishMeme
 SPb
 SpecArt
 specializedtools
+SpecOpsArchive
 SpeculativeEvolution
 SpeedOfLobsters
 speedrun
@@ -6199,6 +6208,7 @@ UnexpectedTF2
 Unextexted
 unfortunateplacement
 UnfunnyHellhole
+unintentionallydirty
 union
 unionsolidarity
 UniSwap
@@ -6370,6 +6380,7 @@ WarAndPeas
 Warframe
 WarframeRunway
 wargame
+wargroove
 Warhammer
 Warhammer30k
 Warhammer40kEsp
@@ -6666,6 +6677,7 @@ yunyun
 YuYuHakusho
 yvonnestrahovski
 ZanClan
+Zappa
 ZaraLarsson
 ZBrush
 zelda
