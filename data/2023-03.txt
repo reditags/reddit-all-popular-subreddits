@@ -2946,6 +2946,7 @@ ImaginaryCharacters
 ImaginaryCityscapes
 ImaginaryCybernetics
 ImaginaryCyberpunk
+ImaginaryDarkSouls
 ImaginaryDemons
 ImaginaryDragons
 imaginaryelections
@@ -5318,6 +5319,7 @@ Shihtzu
 SHINee
 ShingekiNoKyojin
 ShinyPokemon
+Shinypreciousgems
 ShitCrusaderKingsSay
 shitduolingosays
 shitfascistssay
@@ -6153,6 +6155,7 @@ TrueAnon
 TrueChristian
 TrueCrime
 TrueCrimeDiscussion
+TrueFilm
 TrueReddit
 TrueSTL
 trump
