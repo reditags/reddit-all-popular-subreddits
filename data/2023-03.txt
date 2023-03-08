@@ -166,6 +166,7 @@ AhriMains
 aiArt
 AIDKE
 Aikuros
+aircrashinvestigation
 airplaneears
 AirRage
 airsoft
@@ -2207,6 +2208,7 @@ formula1
 Formula1Point5
 FormulaBuddyRetard
 formuladank
+FormulaE
 forsen
 ForShub
 FORTnITE
@@ -5224,6 +5226,7 @@ ShinyPokemon
 ShitCrusaderKingsSay
 shitduolingosays
 shitfascistssay
+ShitKonfaSays
 ShitLiberalsSay
 ShitMomGroupsSay
 ShitPoliticsSays
