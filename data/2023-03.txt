@@ -1195,6 +1195,7 @@ ChurchOfKasumi
 ChurchofMarnie
 ChurchOfMinaAshido
 ChurchofRise
+churchofskadi
 chuunibyou
 CICO
 cigars
@@ -1968,6 +1969,7 @@ etymology
 eu4
 eu_nvr
 Eugene
+EUGENIACOONEY
 EulaMains
 euphoria
 EUR_irl
@@ -3484,6 +3486,7 @@ LiveFromNewYork
 Liverpool
 LiverpoolFC
 LivestreamFail
+LivingMas
 LivMorgan
 LMDShow
 loadingicon
@@ -4232,6 +4235,7 @@ nycrail
 NYGiants
 nyjets
 NYKnicks
+nyu
 NYYankees
 obeyme
 oblivion
