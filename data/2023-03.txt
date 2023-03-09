@@ -853,6 +853,7 @@ bonecollecting
 bonehealingjuice
 bonehurtingjuice
 bonnaroo
+BonneBouffe
 booknooks
 BookOfBobaFett
 bookporn
@@ -1630,6 +1631,7 @@ DeathrattlePorn
 DeathStranding
 deathwatch40k
 DebtStrike
+decentraland
 dechonkers
 DecidingToBeBetter
 declutter
@@ -1640,6 +1642,7 @@ deepseacreatures
 DeepSpaceNine
 deepwoken
 Defenders
+defi
 deftones
 Degrassi
 Dehyamains
@@ -2017,6 +2020,7 @@ Ethelcain
 ethereum
 EtherMining
 ethfinance
+EthGamers
 ethoslab
 ethtrader
 etymology
@@ -2334,6 +2338,7 @@ FrugalFemaleFashion
 frugalmalefashion
 Fruitbatcats
 FruitsBasket
+FrutigerAero
 fryup
 ft86
 ftlgame
@@ -2393,6 +2398,7 @@ gachagaming
 gadgets
 GalaxysEdge
 GalGadot
+galway
 Gameboy
 GameChangerTV
 Gamecocks
@@ -3426,6 +3432,7 @@ kpop
 kpoprants
 kpopthoughts
 kristenbell
+kristenstewart
 krita
 ksi
 KSPMemes
@@ -4629,6 +4636,7 @@ pearljam
 PecsAndPecBouncing
 pedale
 Pedro_Pascal
+PedroPeepos
 PeepingPooch
 peloton
 pelotoncycle
@@ -6502,6 +6510,7 @@ Warhammer30k
 Warhammer40kEsp
 WarhammerCompetitive
 WarhammerFantasy
+warno
 WarplanePorn
 WarriorCats
 warriors
