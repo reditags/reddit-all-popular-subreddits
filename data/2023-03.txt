@@ -111,6 +111,7 @@ AceAttorney
 AceAttorneyCirclejerk
 acecombat
 Achievement_Hunter
+AchillesAndHisPal
 ACMilan
 acnh
 acotar
@@ -1065,6 +1066,7 @@ CatastrophicFailure
 catbellies
 catbongos
 Catbun
+catburnouts
 Catculations
 catdimension
 catfaceplant
@@ -3749,6 +3751,7 @@ Mariners
 Mario
 marioandluigi
 mariokart
+MarioKart8Deluxe
 MarioKartTour
 Market76
 Markiplier
@@ -5002,6 +5005,7 @@ reactjs
 ReadyOrNotGame
 real_China_irl
 realasians
+RealBeesFakeTopHats
 realestateinvesting
 reallifedoodles
 RealLifeShinies
@@ -5064,6 +5068,7 @@ Republican
 RepublicanPedophiles
 RepublicanValues
 rescuedogs
+ReservationDogs
 Residency
 residentevil
 ResinCasting
@@ -5516,6 +5521,7 @@ sonos
 SonsOfTheForest
 SonyAlpha
 sophieturner
+souleater
 SoulKnight
 Soulnexus
 SoulsSliders
@@ -6636,6 +6642,7 @@ wolongfallendynasty
 wolves
 WolvesAreBigYo
 WolvesWithWatermelons
+womenEngineers
 womensstreetwear
 wonderdraft
 Wonderlands
