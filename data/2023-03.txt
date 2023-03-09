@@ -1732,6 +1732,7 @@ Dinosaurs
 dioramas
 Dipcifica
 DiretoDoZapZap
+dirkjan
 Dirtbikes
 dirtgame
 disability
@@ -4930,6 +4931,7 @@ puppies
 PuppyBellies
 PuppySmiles
 Purdue
+PurplePillDebate
 Purrito
 purrkour
 PussyPass
@@ -6530,6 +6532,7 @@ WattsonMains
 Wavyhair
 WayOfTheBern
 WeaponsMoe
+WeAreAllTurks
 WeAreTheMusicMakers
 WeatherGifs
 web_design
