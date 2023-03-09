@@ -431,6 +431,7 @@ AskAnAmerican
 AskBalkans
 AskCulinary
 AskEngineers
+AskFrance
 AskHistorians
 AskHR
 AskMechanics
@@ -603,6 +604,7 @@ BanPitBulls
 BanVideoGames
 BarbaraPalvin
 Barcelona
+bardmains
 barkour
 Barotrauma
 Barry
@@ -917,6 +919,7 @@ breathinginformation
 BreckieHillLust
 Brewers
 bridezillas
+bridgeporn
 BridgertonNetflix
 BrieLarson
 brighton
@@ -2181,6 +2184,7 @@ finalfantasyx
 finance
 FinancialCareers
 financialindependence
+financije
 Finanzen
 findapath
 findfashion
@@ -2422,6 +2426,7 @@ GamingDetails
 GamingLaptops
 GamingLeaksAndRumours
 gamingpc
+gangplankmains
 gangstaswithwaifus
 gangweed
 gank
@@ -3520,6 +3525,7 @@ LegalAdviceUK
 legalcatadvice
 legendofdragoon
 legendofkorra
+LegendsMemes
 LegendsOfRuneterra
 Legitpiercing
 lego
@@ -4228,6 +4234,7 @@ Neverbrokeabone
 neverchangejapan
 NeverPauseAvatar
 nevertellmetheodds
+nevillegoddardsp
 Newbalance
 newcastle
 NewDealAmerica
@@ -4432,6 +4439,7 @@ okbuddyrintard
 okbuddyrosalyn
 okbuddyvowsh
 okc
+okcimboraretardalt
 okcopainattard
 okdraugedebile
 okeechobeemusicfest
@@ -6226,6 +6234,7 @@ TrueCrimeDiscussion
 TrueFilm
 TrueReddit
 TrueSTL
+truezelda
 trump
 Trumpgret
 Trumpvirus
@@ -6259,6 +6268,7 @@ twinpeaks
 TwistedWonderland
 Twitch
 twitchasians
+TwitchMains
 Twitter
 twittermoment
 TwoHotTakes
