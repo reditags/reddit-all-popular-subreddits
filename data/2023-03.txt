@@ -450,6 +450,7 @@ AskUK
 Asmongold
 asoiaf
 aspergers
+ASRoma
 assassinscreed
 AssassinsCreedMemes
 AssassinsCreedOdyssey
@@ -946,6 +947,7 @@ brussels
 BryceDallasHoward
 BSG
 btd6
+Btechtards
 bts7
 Buddhism
 BuddyCrossing
@@ -958,6 +960,7 @@ BUENZLI
 Buffalo
 buffalobills
 buffy
+bugout
 buildabear
 buildapc
 buildapcsales
@@ -1036,6 +1039,7 @@ capybara
 CaraDelevingne
 carcrash
 cardano
+Cardiff
 Cardinals
 cardsagainsthumanity
 careerguidance
@@ -3849,6 +3853,7 @@ Megumin
 meirl
 Melanime
 melbourne
+MelissaBenoist
 MelissaRauch
 meme
 meme_1ran
@@ -4310,6 +4315,7 @@ NominativeDeterminism
 nonbinarymemes
 NonCredibleDiplomacy
 NoneHumanMoe
+nonmurdermysteries
 nononono
 nonononoyes
 NonPoliticalTwitter
@@ -4354,6 +4360,7 @@ noworking
 nrl
 nuclear
 NuclearRevenge
+NuclearThrone
 NUFC
 nukedmemes
 nursing
@@ -5362,6 +5369,8 @@ Sherlock
 ShermanPosting
 shib
 shiba
+SHIBADULTS
+Shibainucoin
 SHIBArmy
 shield
 shieldbro
@@ -5819,6 +5828,7 @@ tacticalgear
 TacticalIssueCat
 tahoe
 Takagi_san
+tales
 talesfromcallcenters
 TalesFromDF
 TalesFromRetail
@@ -5877,6 +5887,7 @@ technews
 technicallythetruth
 Technoblade
 technology
+TechNope
 techsupportgore
 techsupportmacgyver
 techwearclothing
@@ -6613,6 +6624,7 @@ WhiskeyTribe
 WhiteLotusHBO
 whitepeoplegifs
 WhitePeopleTwitter
+WhiteWolfRPG
 wholesome
 wholesomebpt
 WholesomeComics
@@ -6699,6 +6711,7 @@ worldnewsvideo
 worldofgothic
 worldofpvp
 WorldofTanks
+WorldOfTanksBlitz
 WorldOfWarships
 WorldWar2
 WormMemes
