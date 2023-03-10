@@ -625,6 +625,7 @@ bangtan
 Bannerlord
 BanPitBulls
 BanVideoGames
+bapcsalescanada
 BarbaraPalvin
 Barcelona
 bardmains
@@ -4222,6 +4223,7 @@ mountainbiking
 Mountaineering
 mountandblade
 MouseReview
+Moustache
 moviecritic
 MovieDetails
 MovieLeaksAndRumors
@@ -5433,6 +5435,7 @@ SanJose
 SanJoseSharks
 sanpedrocactus
 sanrio
+santacruz
 saopaulo
 SapphoAndHerFriend
 saskatchewan
@@ -6029,6 +6032,7 @@ synthesizercirclejerk
 synthesizers
 Syracuse
 sysadmin
+Sysadminhumor
 systemofadown
 SzarFurik
 TabbyCats
@@ -6233,6 +6237,7 @@ thenetherlands
 TheNightFeeling
 TheNinthHouse
 theocho
+TheOCS
 TheOldZealand
 TheOnion
 TheOrville
