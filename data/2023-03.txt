@@ -215,6 +215,8 @@ alinity
 AlisonBrie
 AliveNamedCats
 AllTomorrows
+altcoinforum
+AltcoinTrader
 AlternateAngles
 AlternateHistory
 alternativeart
@@ -820,6 +822,7 @@ bladerunner
 Bladesmith
 BLAHAJ
 blankies
+Blasphemous
 BlatantMisogyny
 blaulicht
 bleach
@@ -836,6 +839,7 @@ bloomington
 blop
 BlueJackets
 BlueLock
+BlueMidterm2018
 BlueProtocolPC
 bluey
 blunderyears
@@ -1161,6 +1165,7 @@ Catswhoyell
 CatsWithDogs
 Catswithjobs
 CatTaps
+CatWasHere
 Cawwsplay
 CBSE
 CCW
@@ -1210,6 +1215,7 @@ characterdrawing
 CharacterRant
 Charcuterie
 Chargers
+charlixcx
 Charlotte
 Charlottesville
 Chaser
@@ -1518,6 +1524,7 @@ CryptoGemDiscovery
 CryptoMarkets
 cryptomining
 CryptoMoonShots
+cryptostreetbets
 CryptoTechnology
 Cryptozoology
 Crystals
@@ -2662,8 +2669,10 @@ gorgc
 gorillaz
 Goruck
 GossipDK
+GossipGirl
 goth
 GothamChess
+GothamKnights
 Gothenburg
 GothGirls
 GothStyle
@@ -5415,6 +5424,7 @@ SatisfactoryGame
 SatisfIcing
 satisfying
 Satisfyingasfuck
+SatoshiBets
 saudiarabia
 SavageGarden
 SAVEBRENDAN
@@ -5546,6 +5556,7 @@ ShingekiNoKyojin
 Shining_Nikki
 ShinyPokemon
 Shinypreciousgems
+shitcoinmoonshots
 ShitCrusaderKingsSay
 shitduolingosays
 shitfascistssay
