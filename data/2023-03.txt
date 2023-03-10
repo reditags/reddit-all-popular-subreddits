@@ -3693,6 +3693,7 @@ LivestreamFail
 LivingMas
 LivMorgan
 LMDShow
+LNPCorruption
 loadingartist
 loadingicon
 LOAM_LOVERS
@@ -3742,6 +3743,7 @@ lotr
 LOTR_on_Prime
 lotrmemes
 lotro
+Louisiana
 Louisville
 Louisvuitton
 loveafterlockup
@@ -5017,6 +5019,7 @@ programiranje
 ProgrammerHumor
 programming
 programminghorror
+programminghumor
 ProgressionFantasy
 progun
 Project_Wingman
