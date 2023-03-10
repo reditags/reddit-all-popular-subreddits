@@ -448,6 +448,7 @@ AskBalkans
 askcarsales
 AskCulinary
 AskDocs
+AskElectronics
 AskEngineers
 AskFrance
 AskHistorians
@@ -627,6 +628,7 @@ BanPitBulls
 BanVideoGames
 bapcsalescanada
 BarbaraPalvin
+BarbaraWalters4Scale
 Barcelona
 bardmains
 barkour
@@ -2304,6 +2306,7 @@ FleshPitNationalPark
 FlexinLesbians
 flightsim
 flipperzero
+Flipping
 FLMedicalTrees
 floggit
 flonkers
@@ -3661,6 +3664,7 @@ Legitpiercing
 lego
 legodeal
 legodnd
+legogaming
 Legoleak
 legostarwars
 legostarwarsmemes
@@ -3860,6 +3864,7 @@ madisonwi
 madlad
 madlads
 MadMax
+madnesscombat
 MadokaMagica
 Madrid
 MAFS_AU
