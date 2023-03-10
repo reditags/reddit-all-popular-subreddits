@@ -1241,6 +1241,7 @@ ChoujinX
 Christianity
 christianmemes
 christinahendricks
+christmas
 ChronicIllness
 ChronicPain
 chronotrigger
@@ -2531,6 +2532,7 @@ geology
 geometrydash
 geopolitics
 Georgia
+georgiabulldogs
 German
 GermanRap
 germanshepherds
@@ -2811,6 +2813,7 @@ HeidiLavon
 Helicopters
 HellLetLoose
 HelloInternet
+HelloKitty
 hellsomememes
 Helltaker
 HelluvaBoss
@@ -2896,6 +2899,7 @@ homegym
 HomeImprovement
 homelab
 HomeNetworking
+HomePod
 HomeServer
 HomestarRunner
 homestead
@@ -3538,6 +3542,7 @@ ladiesofthemcu
 LadiesOfWrestling
 Ladybonersgonecuddly
 ladyladyboners
+LAFC
 lagoloaf
 laidbackcamp
 Lain
@@ -3877,6 +3882,7 @@ masterhacker
 MasterReturns
 Mastodon
 mathmemes
+matrix
 mattcolville
 matureplants
 mauerstrassenwetten
@@ -4311,6 +4317,7 @@ NettHier
 networkingmemes
 neutralnews
 NeutralPolitics
+Nevada
 Neverbrokeabone
 neverchangejapan
 NeverPauseAvatar
@@ -5316,6 +5323,7 @@ sadiemckenna
 Sadiesink
 sadposting
 SafelyEndangered
+sailing
 SailorMood
 sailormoon
 SaimanSays
@@ -6404,6 +6412,7 @@ UBC
 UberEATS
 Ubiquiti
 ubius
+UBreddit
 Ubuntu
 UCalgary
 ucf
