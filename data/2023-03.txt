@@ -2197,6 +2197,7 @@ fangies
 FansHansenvsPredator
 fanStands
 fantanoforever
+FantasyArt
 fantasybaseball
 fantasybball
 fantasyfootball
@@ -5620,6 +5621,7 @@ ShitPoliticsSays
 ShitpostBR
 ShitPostCrusaders
 shitposting
+shitposting_inc
 ShitpostTC
 ShitpostXIV
 ShitRimworldSays
