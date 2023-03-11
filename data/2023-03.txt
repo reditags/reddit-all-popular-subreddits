@@ -298,6 +298,7 @@ AnimalsBeingGeniuses
 AnimalsBeingHappy
 AnimalsBeingJerks
 AnimalsBeingMoms
+AnimalsBeingSleepy
 AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
@@ -1149,6 +1150,7 @@ catpictures
 catpranks
 catradora
 cats
+CatsAndDogsBFF
 CatsAndPlants
 catsarealiens
 CatsAreAssholes
@@ -2915,6 +2917,7 @@ HeroForgeMinis
 herpetology
 hessich_iel
 hewillbebaked
+HEXcrypto
 heyUK
 HFY
 HibikeEuphonium
@@ -3152,6 +3155,7 @@ ImaginaryLeviathans
 ImaginaryLovers
 ImaginaryMaids
 imaginarymaps
+ImaginaryMechs
 ImaginaryMiddleEarth
 ImaginaryMindscapes
 ImaginaryMonsterGirls
@@ -5411,6 +5415,7 @@ Rochester
 Rockband
 RocketLeague
 RocketLeagueEsports
+rocketpool
 rockets
 rockhounds
 rockmuzik
@@ -5964,6 +5969,7 @@ StarWarsBattlefront
 starwarsblackseries
 StarWarsCantina
 starwarscollecting
+StarWarsEmpireAtWar
 StarWarsEU
 StarWarsKenobi
 StarWarsleftymemes
@@ -6234,6 +6240,7 @@ Texans
 texas
 TexasPolitics
 TextingTheory
+texts
 tf2
 TF2fashionadvice
 tf2memes
@@ -6441,6 +6448,7 @@ tokkiefeesboek
 tokkiemarktplaats
 TokyoGhoul
 TokyoRevengers
+TolkienArt
 tolkienfans
 tollywood
 TomAndJerryMemes
