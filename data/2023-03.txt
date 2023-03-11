@@ -719,6 +719,7 @@ Bellapoarch
 belowdeck
 beltalowda
 Ben10
+Bend
 BendyAndTheInkMachine
 benfica
 bengalcats
@@ -1706,6 +1707,7 @@ deadlyoops
 deadmalls
 deadmeatjames
 DeadSpace
+deadwood
 deathbattle
 DeathBattleMatchups
 DeathByMillennial
@@ -2525,6 +2527,7 @@ GachaClub
 gachagaming
 gadgets
 GalaxysEdge
+GalaxyWatch
 GalGadot
 gallifrey
 galway
@@ -4327,6 +4330,7 @@ musicaljenga
 musicals
 MusicBattlestations
 MusicBizMarty
+musicmemes
 musicproduction
 MuslimLounge
 Mustang
@@ -5678,6 +5682,7 @@ shittyaskscience
 shittybattlestations
 shittybloodborne
 ShittyCarMod
+ShittyDaystrom
 shittyeldenring
 shittyfoodporn
 Shittygamecollecting
@@ -5710,11 +5715,13 @@ ShovelKnight
 ShowerOrange
 Showerthoughts
 Shrek
+Shrekmemes
 Shrimping
 shrimptank
 shrinkflation
 ShroomID
 shrooms
+Shunbun
 ShuumatsuNoValkyrie
 shylily
 Siamesecats
@@ -6015,6 +6022,7 @@ StrangeAndFunny
 StrangeEarth
 StrangePlanet
 StrangerThings
+stray
 straykids
 streetart
 StreetFighter
