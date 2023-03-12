@@ -134,6 +134,7 @@ Adelaide
 AdeptusCustodes
 AdeptusMechanicus
 AdeptusRidiculous
+adeptustitanicus
 ADHDinos
 adhdmeme
 ADHDmemes
@@ -591,6 +592,8 @@ AyyMD
 AZCardinals
 azdiamondbacks
 AzerbaijanJerky
+AZURE
+AzureCertification
 AzzyLand_Pics
 babies
 BabiesReactingToStuff
@@ -1975,6 +1978,7 @@ dragrace
 DragRaceTea
 Dragula
 DrakeTheType
+Dramione
 Draven
 Drawfee
 drawing
@@ -2009,6 +2013,7 @@ Dublin
 duck
 DuelLinks
 DuggarsSnark
+Duklock
 dumbasseswithlighters
 dumplingmeme
 DumpsterDiving
@@ -2204,6 +2209,7 @@ Eyebleach
 eyebombing
 EyesoftheVoid
 ezrealmains
+f150
 F1FeederSeries
 F1Game
 F1Manager
@@ -2453,6 +2459,7 @@ FoxFiction
 foxholegame
 fpv
 fragilecommunism
+FragileMaleRedditor
 FragileWhiteRedditor
 fragrance
 FragReddit
@@ -2529,6 +2536,7 @@ fulbo
 FullmetalAlchemist
 fullpops
 FullScorpion
+FumetsuNoAnataE
 functionalprint
 FundieSnarkUncensored
 funhaus
@@ -2704,6 +2712,7 @@ GlobalOffensive
 Glocks
 Gloomhaven
 GloriousTomBombadil
+Gloryhammer
 glossier
 gluesniffer
 glutenfree
@@ -5546,6 +5555,7 @@ RWBY
 RX7
 ryujin
 Ryumimi
+saab
 sabaton
 SabatonMemes
 Saber
@@ -5914,6 +5924,7 @@ softwaregore
 solana
 solar
 solarpunk
+soloboardgaming
 sololeveling
 solotravel
 SomeOfYouMayDie
@@ -6217,6 +6228,7 @@ tacobell
 Tacoma
 tacticalgear
 TacticalIssueCat
+TacticalUrbanism
 tahoe
 Takagi_san
 tales
@@ -6350,6 +6362,7 @@ The_Leftorium
 The_Mueller
 THE_PACK
 theadamfriedlandshow
+TheAdventuresofTintin
 TheAdventureZone
 TheAstraMilitarum
 thebadbatch
@@ -6800,6 +6813,7 @@ UpliftingNews
 UPSC
 UPSers
 UpvoteBecauseButt
+urbandesign
 urbanexploration
 UrbanHell
 Urbanism
@@ -6809,6 +6823,7 @@ USDC
 uselessredcircle
 UsernameChecksOut
 USMC
+usmnt
 USPS
 ussoccer
 Utah
