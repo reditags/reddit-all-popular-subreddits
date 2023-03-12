@@ -932,6 +932,7 @@ BostonBruins
 bostonceltics
 BostonTerrier
 BotanicalPorn
+botany
 Botchedsurgeries
 botecodoreddit
 bottlebrush
@@ -1246,6 +1247,7 @@ characterarcs
 characterdrawing
 CharacterRant
 Charcuterie
+CharcuterieBoard
 Chargers
 charlixcx
 Charlotte
@@ -1269,6 +1271,7 @@ chessmemes
 CHIBears
 chicagobulls
 chicagofood
+Chicken_Thoughts
 chickengifs
 chickens
 Chihuahua
@@ -1520,6 +1523,7 @@ creepyencounters
 creepygaming
 creepypasta
 creepyPMs
+CreepyWikipedia
 cremposting
 CrestedGecko
 Cricket
@@ -3382,6 +3386,7 @@ Jaguars
 Jaharia
 jaidenanimations
 jailbreak
+JailbreakCreations
 jakanddaxter
 jakeandamir
 jakertown
@@ -3647,6 +3652,7 @@ Kurumi
 kurzgesagt
 KusanaliMains
 KUWTKsnark
+Kwite
 l4d2
 Labour
 LabourUK
@@ -3771,6 +3777,7 @@ Libraries
 libsofreddit
 LidoFinance
 lies
+LifeAfterSchool
 lifehacks
 lifeisstrange
 LifeofBoris
@@ -4993,6 +5000,7 @@ physicsgifs
 physicsmemes
 piano
 pic
+Picard
 PickleFinancial
 pics
 PicsOfUnusualBirds
@@ -7170,6 +7178,7 @@ yarntrolls
 yayfoxxo
 YDHBSnark
 yeat_
+yeezys
 Yeji
 YelanMains
 Yellowjackets
