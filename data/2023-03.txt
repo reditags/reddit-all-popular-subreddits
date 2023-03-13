@@ -676,6 +676,7 @@ bartenders
 baseball
 baseballcards
 baseballcirclejerk
+BasicBulletJournals
 BasicIncome
 basketballcards
 Bass
@@ -6127,6 +6128,7 @@ Spore
 sports
 sportsarefun
 sportsbetting
+sportsbook
 SportWagon
 spotted
 SpottedonRightmove
