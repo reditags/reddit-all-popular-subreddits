@@ -957,6 +957,7 @@ boston
 BostonBruins
 bostonceltics
 BostonTerrier
+BostonWeather
 BotanicalPorn
 botany
 Botchedsurgeries
@@ -1878,6 +1879,7 @@ DigitalPainting
 DilettaLeotta
 Dimension20
 DINgore
+Dinosaure
 Dinosaurs
 dioramas
 Dipcifica
@@ -2745,6 +2747,7 @@ glitch_art
 Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
+GlobalTribe
 Glocks
 Gloomhaven
 GloriousTomBombadil
@@ -3129,6 +3132,7 @@ howyoudoin
 hoyas
 Hozier
 HPHogwartsMystery
+HQMC
 hrvatska
 httyd
 HUEstation
@@ -3844,6 +3848,7 @@ lesbianfashionadvice
 LesbianInsectBrothel2
 lesbianmemes
 lesserafim
+LetsNotMeet
 Letterboxd
 Letterkenny
 lewishamilton
@@ -4081,6 +4086,7 @@ MandelaCatalogue
 MandirGang
 MandJTV
 MangaCollectors
+mangadex
 manholeporn
 manhwa
 ManufacturingPorn
@@ -4481,6 +4487,7 @@ mylittlepony
 myog
 MyouiMina
 MyPeopleNeedMe
+myriaofficial
 myronkoops_
 MySingingMonsters
 mystery
@@ -6380,6 +6387,7 @@ tech
 tech1e
 technews
 technicallythetruth
+technicalminecraft
 Techno
 Technoblade
 technology
