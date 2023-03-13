@@ -1333,6 +1333,7 @@ ChurchOfCat
 ChurchOfDorothea
 churchoffutaba
 churchofharu
+ChurchOfJirou
 ChurchOfKasumi
 ChurchofMarnie
 ChurchOfMinaAshido
@@ -2081,6 +2082,7 @@ EDM
 Edmonton
 EDRecoverySnark
 educationalgifs
+eeaao
 Eesti
 egg_irl
 EggsInStrangePlaces
