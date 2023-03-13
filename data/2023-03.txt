@@ -688,6 +688,7 @@ battlefield2042
 battlefield_4
 battlefield_one
 BattlefieldV
+battlehawks
 BattleJackets
 battlemaps
 BattleNetwork
@@ -1551,6 +1552,7 @@ creepyPMs
 CreepyWikipedia
 cremposting
 CrestedGecko
+CrewsCrew
 Cricket
 CricketAus
 CricketShitpost
@@ -2324,6 +2326,7 @@ Ferrari
 ferrets
 fffffffuuuuuuuuuuuu
 FFVIIRemake
+ffxi
 ffxiv
 ffxivdiscussion
 FFXIVGlamours
@@ -2825,6 +2828,7 @@ GreekMythology
 GreenAndPleasant
 GreenBayPackers
 greenday
+Grey_Knights
 Greyhounds
 greysanatomy
 GriefSupport
@@ -4838,6 +4842,7 @@ OnlyFans
 OnlyfansAndromeda
 OnlyfansBode
 OnlyfansMilkyWay
+OnlyMurdersHulu
 OnPatrolLive
 ontario
 OntarioGrade12s
@@ -4850,6 +4855,7 @@ oots
 OP1users
 OPBR
 OpenArgs
+opendirectories
 opensea
 opensource
 openttd
@@ -5348,6 +5354,7 @@ QAnonCasualties
 QanonKaren
 QarddenToken
 Qdpay
+qotsa
 QualityTacticalGear
 Quebec
 QuebecLibre
@@ -5882,6 +5889,7 @@ silverhair
 simpleliving
 simplynailogical
 simpsonsdidit
+SimpsonsFaces
 simpsonsshitposting
 simracing
 sims2
@@ -7268,6 +7276,7 @@ WWE
 WWEGames
 wwiipics
 WWIIplanes
+wyomingdoesntexist
 X4Foundations
 xayahmains
 xbiking
@@ -7330,6 +7339,7 @@ Yotsubros
 YouBelongWithMemes
 youdontmattergiveup
 youdontsurf
+YouFellForItFool
 YoujoSenki
 YouLookFamiliar
 Youmo
