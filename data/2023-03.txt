@@ -552,6 +552,7 @@ AustinFC
 australia
 AustralianBirds
 AustralianCattleDog
+AustralianMilitary
 AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
@@ -5100,6 +5101,7 @@ Pennsylvania
 PennyLaneIsTheName
 pennystocks
 PennyStocksDD
+pens
 PeopleBeingJerks
 PeopleFuckingDying
 PeopleLiveInCities
@@ -6997,6 +6999,7 @@ UrbanHell
 Urbanism
 urbanplanning
 UrinatingTree
+uruseiyatsura
 USDC
 uselessredcircle
 UsernameChecksOut
