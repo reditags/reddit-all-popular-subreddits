@@ -16,6 +16,7 @@
 19684
 197
 198
+199
 2007scape
 2137
 21stCenturyHumour
@@ -2933,6 +2934,7 @@ GreekMythology
 GreenAndPleasant
 GreenBayPackers
 greenday
+Greenhouses
 greenville
 Grey_Knights
 Greyhounds
@@ -5568,6 +5570,7 @@ QarddenToken
 Qdpay
 qotsa
 QualityTacticalGear
+quandle
 Quebec
 QuebecLibre
 queen
