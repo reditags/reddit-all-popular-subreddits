@@ -176,6 +176,7 @@ afkarena
 AFL
 AfricanArchitecture
 AfterEffects
+aftergifted
 AgainstHateSubreddits
 agedlikemilk
 agedlikewine
@@ -3396,6 +3397,7 @@ ImaginaryUndead
 ImaginaryVehicles
 ImaginaryVillages
 ImaginaryWarhammer
+ImaginaryWarships
 ImaginaryWastelands
 ImaginaryWeather
 ImaginaryWesteros
@@ -4446,6 +4448,7 @@ mildyinteresting
 MilioMains
 Military
 MilitaryGfys
+MilitaryHistory
 MilitaryPorn
 MilitaryStories
 MilitaryVStheUnknown
@@ -4773,6 +4776,7 @@ Neverbrokeabone
 neverchangejapan
 NeverPauseAvatar
 nevertellmetheodds
+NevilleGoddard
 nevillegoddardsp
 Newbalance
 newcastle
