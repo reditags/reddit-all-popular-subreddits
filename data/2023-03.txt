@@ -1673,6 +1673,7 @@ CryptoGemDiscovery
 CryptoMarkets
 cryptomining
 CryptoMoonShots
+CryptoOffers
 cryptostreetbets
 CryptoTechnology
 Cryptozoology
@@ -2134,6 +2135,7 @@ drunk
 drunkencookery
 Drunkknitting
 dsa
+DSPDiscussion5
 dualipa
 Dualsport
 dubai
@@ -5742,6 +5744,7 @@ RebelChristianity
 REBubble
 recipes
 reclaimedbynature
+recruiting
 recruitinghell
 Recursion
 red_velvet
@@ -6200,6 +6203,7 @@ shrimptank
 shrinkflation
 ShroomID
 shrooms
+Shudder
 Shunbun
 ShuumatsuNoValkyrie
 shylily
@@ -7072,6 +7076,7 @@ TrollYChromosome
 tron
 Tronix
 Trophies
+trouduction
 TruckerCats
 Truckers
 Trucks
