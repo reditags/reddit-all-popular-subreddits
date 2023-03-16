@@ -1668,6 +1668,7 @@ Crystals
 csbundestag
 cscareerquestions
 csgo
+csharp
 CSHFans
 csMajors
 csmanime
@@ -4147,6 +4148,7 @@ lovejoyband
 LoveLive
 LoveNikki
 low_poly
+LowAltitudeJets
 LowerCaseScreams
 LowQualityMemes
 LowSodiumDestiny
@@ -6339,6 +6341,7 @@ spikes
 Spiritfarer
 spirituality
 Splatoon_3
+Splendida
 SplitDepthGIFS
 sploot
 Spokane
