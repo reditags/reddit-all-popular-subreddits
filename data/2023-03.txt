@@ -455,6 +455,7 @@ ArlecchinoMains
 arma
 armenia
 armoredcore
+ArmsandArmor
 army
 AroAceMemes
 aromantic
@@ -1319,6 +1320,7 @@ centuryhomes
 Ceramics
 CFA
 CFB
+cfbmemes
 CFL
 cfs
 Chadposting
@@ -1640,6 +1642,7 @@ creepyencounters
 creepygaming
 creepypasta
 creepyPMs
+creepyvideos
 CreepyWikipedia
 cremposting
 crescentcitysjm
@@ -5063,6 +5066,7 @@ offseasonthickness2
 offset
 Ohio
 oilpainting
+Okami
 OkayBuddyLiterallyMe
 okaybuddyretard
 okbhaibudbak
@@ -5147,6 +5151,7 @@ OneSecondBeforeDisast
 oneshot
 OneTopicAtATime
 onetruegod
+onexindia
 OneyPlays
 onguardforthee
 OniichanOshimai
@@ -5315,6 +5320,7 @@ PcBuild
 pcbuilding
 pcgaming
 pcmasterrace
+PCOS
 PeakyBlinders
 peanutbutterisoneword
 PeanutWhiskers
@@ -5809,6 +5815,7 @@ RedLetterMedia
 redneckengineering
 redpandas
 redrising
+RedshirtsUnite
 redsox
 redstone
 RedvsBlue
@@ -6180,6 +6187,7 @@ shitcoinmoonshots
 ShitCrusaderKingsSay
 shitduolingosays
 shitfascistssay
+shitguncontrollerssay
 ShitKonfaSays
 ShitLiberalsSay
 ShitMomGroupsSay
@@ -6835,6 +6843,7 @@ thebadbatch
 TheBatmanFilm
 TheBear
 TheBidenshitshow
+TheBikiniBottomHorror
 thebindingofisaac
 TheBonfire
 TheBoys
@@ -7336,6 +7345,7 @@ VALORANT
 ValorantCompetitive
 ValorantMemes
 valve
+ValveIndex
 VampireSurvivors
 Vanced
 vancouver
