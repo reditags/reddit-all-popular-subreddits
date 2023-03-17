@@ -4376,6 +4376,7 @@ Mavericks
 MawInstallation
 maximalism
 Maya
+MayaHawke
 maybemaybemaybe
 maybemaybemaybemaybe
 MayDayStrike
@@ -7474,6 +7475,7 @@ WANDAVISION
 wankil
 war
 WarAndPeas
+warcraftlore
 WarCry
 Warframe
 WarframeRunway
