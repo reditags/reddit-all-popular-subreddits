@@ -1496,6 +1496,7 @@ ColoradoSprings
 Colorization
 ColorizedHistory
 Colts
+Columbina_Mains
 Columbus
 CombatFootage
 combinedgifs
@@ -2480,6 +2481,7 @@ FiddlesticksMains
 FierceFlow
 FIFA
 FifaCareers
+FighterJets
 Fighters
 fightporn
 FightsGoneWildpt2
@@ -2816,6 +2818,7 @@ Genealogy
 GeneralMotors
 generative
 genestealercult
+GenEU
 GeniusInvokationTCG
 Genshin_Impact
 Genshin_Impact_Leaks
