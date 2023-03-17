@@ -3026,6 +3026,7 @@ Gronkh
 GroundedGame
 GrowingMarijuana
 grunge
+gshock
 GTA
 GTA6
 gtaonline
@@ -3090,6 +3091,7 @@ HaloCirclejerk
 halodripfinite
 haloinfinite
 HaloMemes
+HaloStory
 halsey
 Hamilton
 Hammers
@@ -5128,6 +5130,7 @@ OldSchoolCool
 OldSchoolRidiculous
 OldSkaters
 OldWorldBlues
+olex
 oliviadunne
 OliviaMunn
 OliviaRodrigo_
@@ -5475,6 +5478,7 @@ PlanetCoaster
 Planetside
 PlanetZoo
 Planned_Pooling
+PlanningMemes
 plano
 PlantBasedDiet
 plantclinic
@@ -6854,6 +6858,7 @@ TheBikiniBottomHorror
 thebindingofisaac
 TheBonfire
 TheBoys
+TheBrewery
 TheBullWins
 TheCapeRevolution
 thecatdimension
