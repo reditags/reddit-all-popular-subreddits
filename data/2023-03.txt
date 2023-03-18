@@ -1847,6 +1847,7 @@ dbxv
 dbz
 DBZDokkanBattle
 DC_Cinematic
+DCAU
 DCcomics
 dccomicscirclejerk
 DCEUleaks
@@ -2278,6 +2279,7 @@ EmpireDidNothingWrong
 ems
 emulation
 EmulationOnAndroid
+Emuwarflashbacks
 ENA
 EnculerLesVoitures
 ender3
@@ -6608,6 +6610,7 @@ Strava
 stray
 straykids
 streetart
+streeteats
 StreetFighter
 streetfighterduel
 StreetMartialArts
