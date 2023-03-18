@@ -2168,6 +2168,7 @@ DrewGooden
 Drifting
 DrillCats
 Drizzy
+DrMartens
 DronedOrc
 drones
 dropout
@@ -2614,6 +2615,7 @@ fnv
 fo4
 fo76
 fo76FilthyCasuals
+FocalorsMains_
 FocusST
 FolkPunk
 FondantHate
@@ -4212,6 +4214,7 @@ loadingicon
 LOAM_LOVERS
 LobotomyCorp
 LockdownSkepticism
+lockpicking
 LodedDiper
 LoFiAesthetic
 LofiHipHop
