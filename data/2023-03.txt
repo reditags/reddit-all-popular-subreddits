@@ -411,6 +411,7 @@ aPeoplesCalendar
 ApexConsole
 apexlegends
 ApexOutlands
+Apexrollouts
 ApexUncovered
 apexuniversity
 ApheliosMains
@@ -1209,6 +1210,7 @@ cardsagainsthumanity
 careerguidance
 CargoBike
 CarlaMedrano
+CarletonU
 carlyraejepsen
 carmemes
 carporn
