@@ -1230,6 +1230,7 @@ CasualRO
 CasualUK
 cat
 cataclysmdda
+CatAdvice
 Catan
 CatastrophicFailure
 catbellies
@@ -1887,6 +1888,7 @@ DeepIntoYouTube
 DeepRockGalactic
 deepseacreatures
 DeepSpaceNine
+DeepThoughts
 deepwoken
 Defenders
 defi
@@ -3958,6 +3960,7 @@ kpics
 kpop
 kpoprants
 kpopthoughts
+kristal_rq
 kristenbell
 kristenstewart
 KristinSmart
@@ -5217,6 +5220,7 @@ orangetheory
 orcas
 orchids
 oregon
+OregonCoast
 organization
 OrganizationPorn
 OriAndTheBlindForest
@@ -6909,6 +6913,7 @@ TheFirstLaw
 TheForest
 TheForgottenDepths
 TheGirlSurvivalGuide
+TheGlassCannonPodcast
 theGoldenGirls
 TheGoodPlace
 thegrandtour
@@ -7372,6 +7377,7 @@ Utah
 UtahJazz
 UTAustin
 Utrecht
+UVA
 uvic
 uwaterloo
 UXDesign
@@ -7591,6 +7597,7 @@ weeklyplanetpodcast
 ween
 weeviltime
 weezer
+WegovyWeightLoss
 weightlifting
 WeightLossAdvice
 weightwatchers
