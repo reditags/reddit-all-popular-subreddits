@@ -716,6 +716,7 @@ BanVideoGames
 bapcsalescanada
 BarbaraPalvin
 BarbaraWalters4Scale
+Barbie
 Barcelona
 bardmains
 barista
@@ -2034,6 +2035,7 @@ Dimension20
 DINgore
 Dinosaure
 Dinosaurs
+dionysus
 dioramas
 Dipcifica
 DiretoDoZapZap
@@ -3380,6 +3382,7 @@ Houseporn
 houston
 howardstern
 howimetyourmother
+HowItWasFilmed
 howto
 howtonotgiveafuck
 howyoudoin
@@ -4004,6 +4007,7 @@ KobeReps
 KoboldLegion
 Kochen
 kof
+KokkoroNatsume
 Kokomi_Mains
 kolkata
 kollywood
@@ -7667,6 +7671,7 @@ washingtonwizards
 wasletztepreis
 wasletztestern
 watch_dogs
+WatchandLearn
 watchcatsdieinside
 WatchDogsWoofInside
 watcherentertainment
