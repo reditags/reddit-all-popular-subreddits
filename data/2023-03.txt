@@ -4226,6 +4226,7 @@ libsofreddit
 LidoFinance
 lies
 LifeAfterSchool
+LifeByYou
 lifehacks
 lifeisstrange
 LifeofBoris
@@ -5103,6 +5104,7 @@ NoahGetTheDeathStar
 NobodyAsked
 nocontextpics
 Noctor
+Noctua
 Noellemains
 NoFap
 NoFeeAC
@@ -5716,6 +5718,7 @@ PoliticalComebacks
 PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
+PoliticalMemes
 politics
 PoliticsPeopleTwitter
 polls
