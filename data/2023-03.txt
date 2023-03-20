@@ -1260,6 +1260,7 @@ CasualUK
 cat
 cataclysmdda
 CatAdvice
+catalunya
 Catan
 CatastrophicFailure
 catbellies
@@ -5059,6 +5060,7 @@ NightInTheWoods
 nightvale
 NightVision
 Nightwing
+nightwish
 nihilism
 Nijisanji
 NikkeMobile
@@ -6561,6 +6563,7 @@ SommerRay
 somnivexillology
 sonamains
 sonarears
+SonicFrontiers
 SonicTheHedgehog
 SonoBisqueDoll
 sonos
@@ -7681,6 +7684,7 @@ Wales
 walkablecities
 WalkableStreets
 walkaway
+WalkScape
 wallpaper
 wallpaperengine
 wallstreetbets
@@ -7690,6 +7694,7 @@ Wallstreetsilver
 walmart
 WalmartCelebrities
 WaltDisneyWorld
+Waluigi
 WANDAVISION
 wankil
 war
