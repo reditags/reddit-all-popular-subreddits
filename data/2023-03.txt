@@ -3133,6 +3133,7 @@ gtaonline
 GTAorRussia
 GTAV
 gtavcustoms
+GTBAE
 GTLive
 GuardianTales
 Guelph
@@ -6068,6 +6069,7 @@ rimjob_steve
 Rimuru
 RimWorld
 RimWorldPorn
+RioGrandeValley
 ripcity
 risa
 riskofrain
