@@ -386,6 +386,7 @@ anna_shumate
 annakendrick
 AnnArbor
 AnneHathaway
+AnnieEdison
 AnniTheDuck___
 anno
 ANormalDayInRussia
@@ -1773,6 +1774,7 @@ Cryptozoology
 Crystals
 csbundestag
 cscareerquestions
+cscareerquestionsEU
 csgo
 csharp
 CSHFans
@@ -1831,6 +1833,7 @@ Dabs
 DACA
 Dachschaden
 Dachshund
+dachshunds
 DadForAMinute
 dadjokes
 DadReflexes
@@ -2551,6 +2554,7 @@ FargoTV
 farialimabets
 farming
 farmingsimulator
+FarmRPG
 farscape
 FaruzanMains
 FASCAmazon
@@ -3035,6 +3039,7 @@ gis
 Giscardpunk
 Gittertiere
 givemeinteligens
+GivenAnime
 glasgow
 glassheads
 glastonbury_festival
@@ -7499,6 +7504,7 @@ turtle
 turtleswithjobs
 TuxedoCats
 TVDetails
+TVGRYpl
 tvPlus
 TVTooHigh
 twentyonepilots
@@ -7912,6 +7918,7 @@ Wellthatsucks
 Wellworn
 wenclair
 wendigoon
+werewolves
 wesanderson
 WesternAustralia
 westies
@@ -7946,6 +7953,7 @@ Whippets
 WhiskerFireworks
 whiskey
 WhiskeyTribe
+WhiteCats
 whiteknighting
 WhiteLotusHBO
 whitepeoplegifs
@@ -8106,6 +8114,7 @@ XCOM2
 Xennials
 Xenoblade_Chronicles
 XenobladeChronicles2
+XenobladeChroniclesX
 Xenonion
 XFiles
 xfl
