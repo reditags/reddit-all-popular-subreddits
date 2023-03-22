@@ -4481,6 +4481,7 @@ MadMax
 madnesscombat
 MadokaMagica
 Madrid
+Mafia
 MAFS_AU
 Magic
 MagicArena
@@ -5653,6 +5654,7 @@ philosophy
 PhilosophyMemes
 PhilosophyTube
 Philza
+phineasandferb
 phish
 phoebebridgers
 phoenix
@@ -6948,6 +6950,7 @@ surrealism
 surrealmemes
 Survival
 survivinginfidelity
+SurvivingMars
 survivor
 survivorau
 sushi
@@ -7410,6 +7413,7 @@ Transformemes
 transformers
 transgender
 transguns
+transhumanism
 transit
 transitiongoals
 TransLater
