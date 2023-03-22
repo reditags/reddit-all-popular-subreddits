@@ -1551,6 +1551,7 @@ coins
 Coldmirror
 ColdOnes
 ColleenBallingerSnark
+colleensheen
 college
 collegebaseball
 CollegeBasketball
@@ -1639,6 +1640,7 @@ contrepeterie
 controlgame
 Conures
 ConvenientCop
+CookieClicker
 cookiedecorating
 Cookierun
 CookieRunKingdoms
@@ -7196,6 +7198,7 @@ TheMandalorianTV
 TheMandemNP
 TheMarvelousMrsMaisel
 TheMassive
+TheMemeCenter
 themiddle
 TheMonkeysPaw
 THEMONUMENTMYTHOS
