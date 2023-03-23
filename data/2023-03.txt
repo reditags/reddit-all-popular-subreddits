@@ -1822,6 +1822,7 @@ cursedcomments
 cursedcursedcomments
 Cursedgunimages
 CursedGuns
+cursedimages
 cursedmemes
 CursedMinecraft
 CursedTanks
@@ -2496,6 +2497,7 @@ evilbuildings
 EvilDead
 EvilDeadTheGame
 excatholic
+excel
 excgarated
 exchristianmemes
 ExclusivelyPumping
@@ -6429,6 +6431,7 @@ scrungycats
 scuba
 ScuttleCrabMains
 SDSGrandCross
+seaglass
 seals
 Seaofthieves
 seaporn
