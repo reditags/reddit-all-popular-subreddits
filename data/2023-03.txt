@@ -3976,6 +3976,7 @@ jurassicworldevo
 justa
 justbasketball
 JustBootThings
+JustCause
 justdependathings
 justforsocialmedia
 Justfuckmyshitup
@@ -4780,6 +4781,7 @@ mildlyterrifying
 MildlyVandalised
 mildyinteresting
 MilioMains
+Militariacollecting
 Military
 MilitaryARClones
 MilitaryGfys
@@ -6516,6 +6518,7 @@ ShitCrusaderKingsSay
 shitduolingosays
 shitfascistssay
 shitguncontrollerssay
+ShitHaloSays
 ShitKonfaSays
 ShitLiberalsSay
 ShitMomGroupsSay
@@ -7272,6 +7275,7 @@ TheNinthHouse
 TheOA
 theocho
 TheOCS
+theofficememes
 TheOldZealand
 TheOnion
 theonlycolors
