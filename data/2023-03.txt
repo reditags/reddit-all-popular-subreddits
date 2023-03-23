@@ -296,6 +296,7 @@ Amoledbackgrounds
 AmongUs
 amphibia
 Amsterdam
+Amtrak
 AmyAdams
 AnadeArmas
 analog
@@ -1045,6 +1046,7 @@ boop
 boottoobig
 borbs
 BorderCollie
+Borderlands
 Borderlands2
 borderlands3
 boringdystopia
@@ -1981,6 +1983,7 @@ decentraland
 dechonkers
 DecidingToBeBetter
 declutter
+DecreasinglyVerbose
 dedreviil
 DeepFuckingValue
 DeepIntoYouTube
@@ -3110,6 +3113,7 @@ GoldenSun
 Goldfish
 GoldMomGroupsSay
 golf
+Golf_R
 GolfGTI
 Golfsimulator
 GoNets
@@ -4909,6 +4913,7 @@ montypython
 MontyPythonMemes
 MoonKnight
 Moonmoon
+MoonPissing
 MorbidWaysToDie
 Morbius
 MordekaiserMains
@@ -4996,6 +5001,7 @@ MusicBattlestations
 MusicBizMarty
 musicmemes
 musicproduction
+musictheory
 MuslimLounge
 Mustang
 MVIS
@@ -6849,6 +6855,7 @@ Stargate
 Starlink
 starsector
 StarshipPorn
+StarStable
 starterpacks
 StartledCats
 startrekgifs
@@ -7798,6 +7805,7 @@ victoria2
 victoria3
 VictoriaBC
 victoriajustice
+VictoriaPedretti
 videogamedunkey
 videogames
 videography
@@ -7870,6 +7878,7 @@ Vulfpeck
 vultureculture
 VuvuzelaIPhone
 VV11
+VXJunkies
 VyvanLe
 vzla
 W2S
