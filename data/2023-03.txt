@@ -1935,6 +1935,7 @@ Dashcam
 dashcamgifs
 DasPodcastUfo
 data_irl
+DataArt
 dataengineering
 DataHoarder
 dataisbeautiful
@@ -6635,6 +6636,7 @@ SiberianCats
 siberianhusky
 Sidemen
 SideProject
+SiegeAcademy
 SiestaKeyMTV
 SigmaCinema
 Sigmarxism
@@ -6766,6 +6768,7 @@ SonoBisqueDoll
 sonos
 SonsOfTheForest
 SonyAlpha
+Soosh
 sophieturner
 SorakaMains
 SoulblightGravelords
@@ -7024,6 +7027,7 @@ Suomi
 SuperAthleteGifs
 superautopets
 Superbowl
+Superbuy
 superjueves
 superman
 SupermanAndLois
@@ -7799,6 +7803,7 @@ VaporwaveAesthetics
 VaultHuntersMinecraft
 VaushV
 vaxxhappened
+vce
 vdm
 Vechain
 vegan
