@@ -1335,6 +1335,7 @@ CatsCalledFood
 catscarryingstuffies
 CatsEnjoyingPets
 catshuggingcats
+catsinboxes
 CatsInBusinessAttire
 catsinpants
 CatsInSinks
@@ -1434,6 +1435,7 @@ ChatGPT
 chats
 Chattanooga
 chch
+cheating_stories
 Cheese
 Cheetahs
 Chefit
@@ -2043,6 +2045,7 @@ depechemode
 Depop
 DeppDelusion
 depression_memes
+depressionmemes
 DepthHub
 DerryGirls
 DerScheisser
@@ -4609,6 +4612,7 @@ MandJTV
 MangaCollectors
 mangadex
 manholeporn
+Manhua
 manhwa
 MannausSachsen
 ManufacturingPorn
@@ -6324,6 +6328,7 @@ RTGameCrowd
 RTLSDR
 rugbyunion
 ruger
+RuinedMyDay
 runefactory
 runescape
 running
