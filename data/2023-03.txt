@@ -1049,6 +1049,7 @@ bonecollecting
 bonehealingjuice
 bonehurtingjuice
 BONELAB
+boniver
 bonnaroo
 BonneBouffe
 booknooks
@@ -2075,6 +2076,7 @@ Design
 DesignDesign
 DesignMyRoom
 DesignPorn
+DesignSystems
 desimemes
 DesiMeta
 DesirePath
@@ -4556,6 +4558,7 @@ LowQualityMemes
 LowSodiumDestiny
 LowSodiumHalo
 LowStakesConspiracies
+Lowtechbrilliance
 LPOTL
 LSAT
 LSD
@@ -7353,6 +7356,7 @@ TheBullWins
 TheCapeRevolution
 thecatdimension
 TheCatTrapIsWorking
+thechallengemtv
 TheCinemassacreTruth
 TheCivilService
 TheClickOwO
