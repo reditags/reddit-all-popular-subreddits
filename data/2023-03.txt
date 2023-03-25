@@ -2353,6 +2353,7 @@ dwarffortress
 dyinglight
 DylanteroYT
 DynastyFF
+Dynavap
 Dyson_Sphere_Program
 E30
 EA_NHL
@@ -8066,6 +8067,7 @@ Warhammer30k
 Warhammer40kEsp
 WarhammerCompetitive
 WarhammerFantasy
+warhammerfantasyrpg
 warno
 WarplanePorn
 WarriorCats
