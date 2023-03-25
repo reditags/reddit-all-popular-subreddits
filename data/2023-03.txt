@@ -1510,6 +1510,7 @@ ChurchOfKasumi
 ChurchofMarnie
 ChurchOfMinaAshido
 ChurchOfNaoto
+ChurchOfNejire
 ChurchofRise
 ChurchOfSenko
 churchofskadi
@@ -2180,6 +2181,7 @@ DivorcedBirds
 DiWHY
 DiWHYNOT
 DIY
+diyaudio
 diyelectronics
 DIYGelNails
 diynz
@@ -2389,6 +2391,7 @@ Eggwick
 Egypt
 EightySix
 EizaGonzalez
+EL_Radical
 Eldar
 EldenBling
 Eldenring
@@ -2900,6 +2903,7 @@ FrutigerAero
 fryup
 ft86
 ftlgame
+FTMMen
 fuckcars
 FuckCarscirclejerk
 fuckepic
@@ -3251,6 +3255,7 @@ Groningen
 Gronkh
 GroundedGame
 GrowingMarijuana
+grumpycats
 grunge
 gshock
 GTA
@@ -6823,6 +6828,7 @@ snes
 SNHU
 SNKRS
 snowboarding
+SnowFall
 snowleopards
 snowrunner
 SNSD
@@ -7183,6 +7189,7 @@ Takagi_san
 TakaMori
 tales
 talesfromcallcenters
+talesfromcavesupport
 TalesFromDF
 TalesFromRetail
 talesfromtechsupport
