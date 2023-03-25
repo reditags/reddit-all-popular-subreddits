@@ -3162,6 +3162,7 @@ GoldandBlack
 GoldCoast
 GoldenAgeMinecraft
 Goldendoodles
+GoldenInuToken
 GoldenKamuy
 goldenknights
 goldenretrievers
@@ -4544,6 +4545,7 @@ LoveIsBlindOnNetflix
 LoveIslandTV
 LoveIslandUSA
 lovejoyband
+loveland
 LoveLive
 LoveNikki
 low_poly
@@ -8204,6 +8206,7 @@ WhyCatHowCat
 WhyWereTheyFilming
 WhyWomenLiveLonger
 Wicca
+wicked_edge
 wiedzmin
 wien
 WiggleButts
