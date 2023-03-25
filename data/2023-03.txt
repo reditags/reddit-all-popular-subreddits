@@ -4344,6 +4344,7 @@ lebowski
 ledzeppelin
 Leeds
 LeedsUnited
+leetcode
 LeftistGamersUnion
 LeftTheBurnerOn
 LeftWingMaleAdvocates
@@ -4557,6 +4558,7 @@ LPOTL
 LSAT
 LSD
 LTB_iel
+lucario
 lucifer
 luciomains
 lucknow
@@ -5719,6 +5721,7 @@ pcbuilding
 pcgaming
 pcmasterrace
 PCOS
+pcx99
 PeakyBlinders
 peanutbutterisoneword
 PeanutWhiskers
@@ -7788,6 +7791,7 @@ ultrarunning
 ultrawidemasterrace
 UmbrellaAcademy
 UMD
+UMF
 UNBGBBIIVCHIDCTIICBG
 UnchainedMelancholy
 uncharted
