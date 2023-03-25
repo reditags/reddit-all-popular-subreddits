@@ -664,6 +664,7 @@ awwnverts
 awwtf
 Awww
 awwwtf
+Axecraft
 AxieInfinity
 axolotls
 AyakaMains
@@ -4081,6 +4082,7 @@ KatyaSitak
 katyperry
 KavehMains
 Kawasaki
+KayAdams
 kayakfishing
 Kayaking
 KazuhaMains
@@ -6305,6 +6307,7 @@ rocketpool
 rockets
 rockhounds
 rockmuzik
+RockOfLove
 rodentintercourse
 RodriguesFamilySnark
 roguelikes
@@ -6580,6 +6583,7 @@ SheGotHands
 sheltie
 Shen
 ShenheMains
+sheranetflix
 Sherlock
 ShermanPosting
 sherwinwilliams
@@ -7979,6 +7983,7 @@ WackyTicTacs
 WagoonLadies
 WAGuns
 Wales
+WalgreensStores
 walkablecities
 WalkableStreets
 walkaway
