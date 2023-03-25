@@ -1588,6 +1588,7 @@ colleensheen
 college
 collegebaseball
 CollegeBasketball
+collegehockey
 CollegeRant
 ColleiMains
 collingwoodfc
@@ -4228,6 +4229,7 @@ KusanaliMains
 Kuwait
 KUWTKsnark
 Kwite
+KyraReneeSivertson
 l4d2
 Labour
 LabourUK
@@ -7610,6 +7612,7 @@ TriangleStrategy
 triathlon
 Trigun
 triplej
+TripodCats
 trippinthroughtime
 trippy
 TrishStratus
@@ -8392,6 +8395,7 @@ zillakami
 Zillennials
 zillowgonewild
 zoemains
+Zoids
 ZombielandSaga
 Zoomies
 zootopia
