@@ -552,6 +552,7 @@ AskThe_Donald
 askTO
 asktransgender
 AskUK
+asl
 Asmongold
 asoiaf
 asoiafcirclejerk
@@ -2221,6 +2222,7 @@ dogs
 dogs_getting_dogs
 DogsAndPlants
 dogsenjoyingnature
+dogsgettingdogs
 dogslookingdown
 DogsMirin
 dogsonroofs
@@ -2790,6 +2792,7 @@ Ford
 FordMaverickTruck
 fordranger
 foreverbox
+Forex
 ForFashion
 ForgottenBookmarks
 forgottenpowerade
@@ -3692,6 +3695,7 @@ ImaginaryLovers
 ImaginaryMaids
 imaginarymaps
 ImaginaryMechs
+ImaginaryMerfolk
 ImaginaryMiddleEarth
 ImaginaryMindscapes
 ImaginaryMonsterGirls
@@ -6752,6 +6756,7 @@ sketches
 skiing
 Skincare_Addiction
 Skookum
+skoolies
 skrillex
 Skullgirls
 SkweezyJibbs
