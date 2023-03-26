@@ -347,6 +347,7 @@ AnimalPorn
 AnimalsBeingBros
 AnimalsBeingConfused
 AnimalsBeingDerps
+AnimalsBeingFunny
 AnimalsBeingGeniuses
 AnimalsBeingHappy
 AnimalsBeingJerks
@@ -1099,6 +1100,7 @@ Bowling
 Boxer
 Boxers
 Boxing
+boxingcirclejerk
 boyslove
 BoysPlanet
 Bozeman
@@ -1363,6 +1365,7 @@ CatsLivingAndWell
 catslookingseductive
 CatSmiles
 Catsmirin
+CatsNamedAfterFoods
 CatsNamedToothless
 catsofrph
 catsofukraine
@@ -2879,6 +2882,7 @@ freemagic
 freemasonry
 FREEMEDIAHECKYEAH
 freepatterns
+FreeSpeech
 FreezingFuckingCold
 French
 Frenchbulldogs
@@ -3047,6 +3051,7 @@ geckos
 geek
 GeekyCrochet
 geekygirls
+Geelong
 GeForceNOW
 gekte
 Gemini
@@ -5068,6 +5073,7 @@ mrgirlreturns
 mrlovenstein
 MrRobot
 MrTechnodad
+mscsmedia
 MSsEcReTPoDcAsT
 MST3K
 msu
