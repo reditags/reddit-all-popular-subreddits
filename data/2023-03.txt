@@ -982,6 +982,7 @@ BladeAndSorcery
 bladerunner
 Bladesmith
 BLAHAJ
+blakelively
 blankies
 Blasphemous
 BlatantMisogyny
@@ -6377,6 +6378,7 @@ RodriguesFamilySnark
 roguelikes
 RoleReversal
 rolex
+Roll20
 rollerblading
 rollercoasterjerk
 rollercoasters
