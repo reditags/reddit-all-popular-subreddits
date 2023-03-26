@@ -1574,6 +1574,7 @@ ClassicalMemes
 classicalmusic
 classiccars
 ClassicDesiCool
+classicfallout
 ClassicRock
 classicsoccer
 classicwow
@@ -6784,6 +6785,7 @@ shylily
 Siamesecats
 SiberianCats
 siberianhusky
+sidegirlies
 Sidemen
 SideProject
 SiegeAcademy
@@ -7319,6 +7321,7 @@ tech
 tech1e
 technews
 technicallythetruth
+technicallytrue
 technicalminecraft
 Techno
 Technoblade
