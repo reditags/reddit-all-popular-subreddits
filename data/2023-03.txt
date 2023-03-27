@@ -4393,6 +4393,7 @@ LeaksDBD
 leanbeefpatty
 leanfire
 LearmannTwins
+learnfrench
 learningtocat
 LearnJapanese
 learnmachinelearning
@@ -4765,6 +4766,7 @@ MarvelLegends
 marvelmemes
 MarvelSnap
 MarvelStrikeForce
+MarvelStudios_Rumours
 Marxism_Memes
 maryland
 marymouser_
@@ -5978,6 +5980,7 @@ plants
 plantsandpots
 PlantsVSZombies
 playark
+PlayAvengers
 playboicarti
 playrust
 playstation
@@ -8368,6 +8371,7 @@ Witcher3
 WitchesVsPatriarchy
 Wizard101
 wizardposting
+wnba
 woahdude
 WojakCompass
 wokekids
