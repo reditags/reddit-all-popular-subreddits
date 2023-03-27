@@ -769,6 +769,7 @@ BarbaraWalters4Scale
 Barbie
 Barcelona
 bardmains
+barexam
 barista
 barkour
 Barotrauma
@@ -6128,6 +6129,7 @@ preyingmantis
 Priconne
 PrideAndPinion
 PrimeiraLiga
+PrimitiveTechnology
 PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
