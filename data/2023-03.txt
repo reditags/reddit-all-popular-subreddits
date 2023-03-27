@@ -4817,6 +4817,7 @@ MechanicalKeyboards
 mechmarket
 mechwarrior
 Mechwarrior5
+MedicalCannabisAus
 MedicalGore
 medicalschoolanki
 MedievalCats
@@ -7984,6 +7985,7 @@ uvic
 uwaterloo
 UXDesign
 UzakiChan
+v8supercars
 vagabond
 vagabondmanga
 valencia
