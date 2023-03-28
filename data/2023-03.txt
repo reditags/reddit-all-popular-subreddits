@@ -1788,6 +1788,7 @@ cozy
 CozyFantasy
 CozyPlaces
 CPA
+cpp
 crabcats
 CrackheadCraigslist
 CrackWatch
@@ -2180,6 +2181,7 @@ diablo4
 Diablo_2_Resurrected
 diamondpainting
 DianeGuerrero
+diannaagron
 DiceMaking
 DicePorn
 DidntKnowIWantedThat
@@ -6382,6 +6384,7 @@ RedditEng
 RedditForGrownups
 RedditLaqueristas
 RedditPHCyclingClub
+redditrequest
 redditsings
 RedditSnarkAwards
 RedditWritesSeinfeld
@@ -6734,6 +6737,7 @@ seraphon
 serbia
 serbiancringe
 serialkillers
+serialpodcast
 seriea
 seriouseats
 Serverlife
@@ -8099,6 +8103,7 @@ Vechain
 vegan
 vegan1200isplenty
 VeganActivism
+VeganBaking
 vegancirclejerk
 VeganDE
 veganfitness
@@ -8443,6 +8448,7 @@ wnba
 woahdude
 WojakCompass
 wokekids
+Wolfenstein
 wolongfallendynasty
 wolves
 WolvesAreBigYo
