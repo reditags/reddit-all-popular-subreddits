@@ -3576,6 +3576,7 @@ HomeDecorating
 HomeDepot
 homegym
 HomeImprovement
+HomeKit
 homelab
 HomeNetworking
 HomePod
@@ -4504,6 +4505,7 @@ lies
 LifeAfterSchool
 LifeByYou
 lifehacks
+lifeisbeautifulLV
 lifeisstrange
 LifeofBoris
 LifeProTips
