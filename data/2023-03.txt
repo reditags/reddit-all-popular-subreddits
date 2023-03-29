@@ -6516,6 +6516,7 @@ ripcity
 risa
 riskofrain
 rit
+Rivenmains
 riverdale
 Rivian
 RLCraft
@@ -7191,6 +7192,7 @@ starfinder_rpg
 Stargate
 Starlink
 starsector
+Starset
 StarshipPorn
 StarStable
 starterpacks
