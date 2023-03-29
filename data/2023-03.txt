@@ -273,6 +273,7 @@ AlternateAngles
 AlternateHistory
 alternativeart
 AlternativeHistory
+alvvays
 AlzheimersGroup
 Alzwards_Corner
 AMADisasters
@@ -1790,6 +1791,7 @@ CozyFantasy
 CozyPlaces
 CPA
 cpp
+Cr1TiKaL
 crabcats
 CrackheadCraigslist
 CrackWatch
@@ -2340,6 +2342,7 @@ dragonball
 dragonballfighterz
 DragonballLegends
 Dragonballsuper
+dragonlance
 DragonMaid
 dragonquest
 dragons
@@ -3043,6 +3046,7 @@ G59
 GachaClub
 gachagaming
 gadgets
+GalaxyFold
 GalaxysEdge
 GalaxyWatch
 GalGadot
