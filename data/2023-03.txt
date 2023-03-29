@@ -525,6 +525,7 @@ ArsenalFC
 ArsenalWFC
 ArsivUnutmaz
 Art
+ArtCrit
 ArtDeco
 ArtefactPorn
 ArtHistory
@@ -7529,6 +7530,7 @@ TexasPolitics
 TexasRangers
 TextingTheory
 texts
+tezos
 tf2
 TF2fashionadvice
 tf2memes
@@ -7804,6 +7806,7 @@ toolgifs
 toolporn
 toolps
 Tools
+TooManyBadApples
 TooMeIrlForMeIrl
 ToothpasteBoys
 TopChef
