@@ -6121,6 +6121,7 @@ PoliticalCompassMemes
 PoliticalHumor
 PoliticalMemes
 politics
+PoliticsDownUnder
 PoliticsPeopleTwitter
 polls
 Polska
@@ -7980,6 +7981,7 @@ UIUC
 UK_Food
 UKBabes
 ukdrill
+UKhiking
 ukmedicalcannabis
 UKPersonalFinance
 ukraina
