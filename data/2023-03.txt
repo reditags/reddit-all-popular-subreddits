@@ -2072,6 +2072,7 @@ dccomicscirclejerk
 DCEUleaks
 DDintoGME
 DDLC
+DDLCMods
 de
 de_EDV
 de_IAmA
@@ -6607,6 +6608,7 @@ roosterteeth
 rootgame
 rose
 rosesarered
+rosin
 RotMG
 Rotterdam
 Rottweiler
@@ -8138,6 +8140,7 @@ unOrdinary
 Unorthodog
 UnpopularLoreOlympus
 unpopularopinion
+unRAID
 unrealengine
 UnresolvedMysteries
 UnsentLetters
