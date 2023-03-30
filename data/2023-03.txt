@@ -2078,6 +2078,7 @@ deadcells
 deadlockpw
 deadlyoops
 deadmalls
+deadmau5
 deadmeatjames
 DeadSpace
 deadwood
@@ -4468,6 +4469,7 @@ Lawyertalk
 LaylaMains
 LazyCats
 lcfc
+LDR
 LeaEluiGinet
 leafs
 leagueoflegends
@@ -5383,6 +5385,7 @@ needforspeed
 Needlefelting
 neekolul
 neekomains
+neighborsfromhell
 neilgaiman
 NelliesNest
 Nendoroid
@@ -6562,6 +6565,7 @@ roblox
 ROBLOXmemes
 robotics
 Rochester
+rock
 Rockband
 RocketLeague
 RocketLeagueEsports
