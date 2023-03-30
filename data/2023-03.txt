@@ -5046,6 +5046,7 @@ MildlyStartledCats
 mildlyterrifying
 MildlyVandalised
 mildyinteresting
+milesprower
 MilioMains
 Militariacollecting
 Military
@@ -8068,6 +8069,7 @@ Ultralight
 Ultraman
 ultrarunning
 ultrawidemasterrace
+umanitoba
 UmbrellaAcademy
 UMD
 UMF
@@ -8304,6 +8306,7 @@ VShojo
 vtm
 vtmb
 vtolvr
+vuejs
 Vulfpeck
 vultureculture
 VuvuzelaIPhone
@@ -8361,6 +8364,7 @@ wasletztepreis
 wasletztestern
 watch_dogs
 WatchandLearn
+WatchAnimalsDieInside
 watchcatsdieinside
 WatchDogsWoofInside
 watcherentertainment
