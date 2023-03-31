@@ -1903,6 +1903,7 @@ CryptoCurrency
 CryptoCurrencyClassic
 CryptoGemDiscovery
 CryptoMarkets
+CryptoMars
 cryptomining
 CryptoMoonShots
 CryptoOffers
@@ -6793,6 +6794,7 @@ schnauzers
 SchnitzelVerbrechen
 school_memes
 SchoolIdolFestival
+schrodingers
 science
 ScienceBasedParenting
 sciencefiction
