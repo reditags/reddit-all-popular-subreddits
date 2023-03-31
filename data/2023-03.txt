@@ -825,6 +825,7 @@ BattleNetwork
 BattlePaintings
 battlestations
 battletech
+Battletechgame
 battlewagon
 batty
 bavaria
@@ -5603,6 +5604,7 @@ NuclearRevenge
 NuclearThrone
 NUFC
 nukedmemes
+NukesTop5
 NurembergTwo
 Nurnberg
 nursing
