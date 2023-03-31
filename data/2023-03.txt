@@ -583,6 +583,7 @@ AskThe_Donald
 askTO
 asktransgender
 AskUK
+AskVet
 asl
 Asmongold
 asoiaf
@@ -1821,6 +1822,7 @@ coys
 cozy
 CozyFantasy
 CozyGamers
+CozyGrove
 CozyPlaces
 CPA
 cpp
