@@ -5943,6 +5943,7 @@ Pathfinder_RPG
 pathfindermemes
 PathofChampions
 pathofexile
+PathOfExileBuilds
 pathoftitans
 pathologic
 PathToNowhere
