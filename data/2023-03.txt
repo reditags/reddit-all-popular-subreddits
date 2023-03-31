@@ -1617,6 +1617,7 @@ CKHeraldry
 CKTinder
 ClarksonsFarm
 ClashOfClans
+ClashOfClansLeaks
 ClashRoyale
 ClashRoyaleCirclejerk
 ClassConscienceMemes
@@ -5469,6 +5470,7 @@ NewsOfTheStupid
 NewsWithJingjing
 NewVegasMemes
 newworldgame
+newyork
 newyorkcity
 NewYorkIslanders
 NewYorkMets
@@ -5873,6 +5875,7 @@ OverwatchUniversity
 OWConsole
 OWLCITY
 Owls
+oxford
 OyasumiPunpun
 Ozark
 Ozempic
