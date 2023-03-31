@@ -3116,6 +3116,7 @@ GamingDetails
 GamingLaptops
 GamingLeaksAndRumours
 gamingmemes
+gamingnews
 gamingpc
 gangplankmains
 gangstaswithwaifus
@@ -3707,6 +3708,7 @@ hrvatska
 httyd
 HubermanLab
 HUEstation
+Hulu
 HumanBeingBros
 HumanForScale
 HumanPorn
