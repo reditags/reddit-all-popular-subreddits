@@ -3767,6 +3767,7 @@ Iceland
 ich_iel
 ich_unzensiert
 ichbin40undlustig
+IchikaFanclub
 ICleanedMyRoom
 ico
 ICSE
@@ -5001,6 +5002,7 @@ memphis
 memphisgrizzlies
 MemriTVmemes
 MenAndFemales
+menkampf
 Menopause
 MensLib
 Mensmittenwithkittens
@@ -6921,6 +6923,7 @@ shitduolingosays
 shitfascistssay
 shitguncontrollerssay
 ShitHaloSays
+ShitJamesSays
 ShitKonfaSays
 ShitLiberalsSay
 ShitMomGroupsSay
@@ -7067,6 +7070,7 @@ SlavaUkrayini
 slavestodarkness
 slavs_squatting
 slaythespire
+SleepingCats
 SleepToken
 Sleepycabin
 Slimemolds
@@ -7169,6 +7173,7 @@ spaceengineers
 spaceflight
 SpaceflightSimulator
 spacefrogs
+Spacegirls
 spaceporn
 SpaceWolves
 spacex
