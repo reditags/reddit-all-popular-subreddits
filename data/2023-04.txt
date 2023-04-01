@@ -47,6 +47,7 @@ aaaaaaacccccccce
 AatroxMains
 abandoned
 AbandonedPorn
+AbbottElementary
 AbolishTheMonarchy
 ABoringDystopia
 AbruptChaos
@@ -91,6 +92,7 @@ Aether_Mains
 AEWOfficial
 afkarena
 AFL
+AfterTheEndFanFork
 agedlikemilk
 agedlikewine
 agender
@@ -307,6 +309,7 @@ Austria
 autism
 AutismInWomen
 AutisticPride
+AutisticWithADHD
 AutoDetailing
 Autos
 AutumnPorn
@@ -709,6 +712,7 @@ CCW
 celebrities
 CelebrityFeet
 celestegame
+Celiac
 cellbits
 centuryhomes
 Ceramics
@@ -1134,6 +1138,7 @@ Dogberg
 dogbridges
 dogecoin
 dogelore
+doggrooming
 Dogloaf
 dogpictures
 dogs
@@ -1210,6 +1215,7 @@ Edmonton
 educationalgifs
 Eesti
 egg_irl
+Egypt
 EightySix
 Eldar
 EldenBling
@@ -1282,6 +1288,7 @@ EverythingFoxes
 EverythingScience
 evilautism
 evilbuildings
+existentialcrisiscat
 exjw
 exmormon
 exmuslim
@@ -1341,6 +1348,7 @@ feedthebeast
 feedthememes
 FellowKids
 FeltGoodComingOut
+FemaleDatingStrategy
 femalehairadvice
 femalelivingspace
 femboy
@@ -1486,6 +1494,7 @@ fullpops
 FullScorpion
 functionalprint
 FundieSnarkUncensored
+funhaus
 funny
 FunnyandSad
 FunnyAnimals
@@ -1775,6 +1784,7 @@ Honda
 HonkaiImpact
 honkaiimpact3
 HonkaiStarRail
+HonzukiNoGekokujou
 hopeposting
 horizon
 horror
@@ -1841,6 +1851,7 @@ IkeaFreshBalls
 IllegalLifeProTips
 illegallybigcats
 IllegallySmol
+illegallysmolbirbs
 IllegallySmolCats
 IllegallySmolDogs
 illinois
@@ -2230,6 +2241,7 @@ lostarkgame
 lostpause
 lostredditors
 lotr
+LOTR_on_Prime
 lotrmemes
 Lovecraft
 LoveForBoozeCruisers
@@ -2306,6 +2318,7 @@ marijuanaenthusiasts
 Mariners
 Mario
 mariokart
+MarioKartTour
 Markiplier
 Marriage
 martialarts
@@ -2464,6 +2477,7 @@ MoldyMemes
 MomForAMinute
 Mommit
 monarchism
+Monstera
 MonsterHigh
 MonsterHunter
 MonsterHunterWorld
@@ -2472,8 +2486,10 @@ MontyPythonMemes
 Moonmoon
 mordheim
 moreplatesmoredates
+mormon
 Morrowind
 MortalKombat
+Mosses
 MostBeautiful
 motivation
 motogp
@@ -2769,6 +2785,7 @@ opossum_irl
 Opossums
 orangecats
 orangecounty
+orangetheory
 orchids
 oregon
 orks
@@ -2878,6 +2895,7 @@ PersonalFinanceCanada
 PersonalFinanceNZ
 perth
 pesmobile
+PetiteFashionAdvice
 PetiteFitness
 PetsareAmazing
 PetTheDamnCat
@@ -3312,6 +3330,7 @@ Sham_Sharma_Show
 ShamelesslyStolen
 Shark_Park
 sharks
+sharpcutting
 ShenheMains
 ShermanPosting
 shiba
@@ -3404,6 +3423,7 @@ smashbros
 SmashBrosUltimate
 SMG4
 Smilepleasse
+SmilingFriends
 Smite
 smoking
 smoobypost
@@ -3606,6 +3626,7 @@ tankiejerk
 TankPorn
 tanks
 TanmayBhatKeDost
+taoism
 tarantulas
 Target
 TargetedShirts
@@ -3688,6 +3709,7 @@ TheEminenceInShadow
 TheeOhSees
 TheExpanse
 TheFarSide
+TheFence
 thefighterandthekid
 TheForest
 TheGirlSurvivalGuide
@@ -3944,6 +3966,7 @@ vagabondmanga
 valheim
 VALORANT
 ValorantCompetitive
+valve
 vancouver
 vandwellers
 VanessaHudgens
@@ -3998,6 +4021,7 @@ VRchat
 VShojo
 VuvuzelaIPhone
 W2S
+Wales
 WalgreensStores
 WalkableStreets
 walkaway
@@ -4056,6 +4080,7 @@ Welding
 Wellington
 Wellthatsucks
 Wellworn
+wendigoon
 WestVirginia
 WetlanderHumor
 WeWantPlates
@@ -4196,6 +4221,7 @@ YoungThug
 Youniqueamua
 YouniquePresenterMS
 YourJokeButWorse
+YourRAGE
 YouSeeComrade
 youseeingthisshit
 YouShouldKnow
