@@ -37,10 +37,12 @@
 676
 691
 80s
+80sdesign
 90DayFiance
 90dayfianceuncensored
 90s
 90s_kid
+A24
 AAAAAAAAAAAAAAAAA
 aaaaaaaarrrrro
 aaaaaaacccccccce
@@ -88,6 +90,7 @@ adultingph
 adventuretime
 AdviceAnimals
 aeiou
+aesthetic
 Aether_Mains
 AEWOfficial
 afkarena
@@ -102,6 +105,7 @@ AhriMains
 AIDKE
 airplaneears
 airsoft
+AITAH
 AIVoiceMemes
 ak47
 Albany
@@ -121,6 +125,7 @@ aliens
 AlisonBrie
 AlternateHistory
 AlzheimersGroup
+amateurradio
 AmateurRoomPorn
 amazingmemes
 amazonreviews
@@ -163,6 +168,7 @@ AnimalsBeingBros
 AnimalsBeingDerps
 AnimalsBeingFunny
 AnimalsBeingGeniuses
+AnimalsBeingHappy
 AnimalsBeingJerks
 AnimalsBeingMoms
 AnimalsBeingStrange
@@ -201,6 +207,7 @@ antimeme
 antiMLM
 Antimoneymemes
 antinatalism
+Antiques
 antitheistcheesecake
 antitrampo
 antiwork
@@ -256,11 +263,13 @@ ArtefactPorn
 ArtNouveau
 ArtPorn
 AsaCumEramOdata
+Asexual
 asexuality
 ask
 AskAnAmerican
 AskBalkans
 AskCulinary
+AskDocs
 AskHistorians
 AskMen
 AskNYC
@@ -276,6 +285,7 @@ AskVet
 asl
 Asmongold
 asoiaf
+aspynovardsnark
 AssassinsCreedOdyssey
 assettocorsa
 assholedesign
@@ -371,6 +381,7 @@ barstoolsports
 bartenders
 baseball
 baseballcards
+baseballcirclejerk
 basset
 BassGuitar
 bathandbodyworks
@@ -411,6 +422,7 @@ BeginnerWoodWorking
 behindthebastards
 beholdthemasterrace
 BeidouMains
+BelgianMalinois
 belgium
 Belgium2
 belowdeck
@@ -538,6 +550,7 @@ boston
 BostonBruins
 bostonceltics
 BostonTerrier
+BotanicalPorn
 Botchedsurgeries
 botecodoreddit
 bottlebrush
@@ -563,6 +576,7 @@ brdev
 Breadit
 breakingbad
 Breath_of_the_Wild
+Brewers
 bridezillas
 BrieLarson
 brisbane
@@ -659,6 +673,7 @@ casualnintendo
 CasualRO
 CasualUK
 cat
+cataclysmdda
 CatastrophicFailure
 catbellies
 catbongos
@@ -714,6 +729,7 @@ CelebrityFeet
 celestegame
 Celiac
 cellbits
+CentralChurch
 centuryhomes
 Ceramics
 CFB
@@ -839,6 +855,7 @@ comics
 CommunismMemes
 community
 CompetitiveApex
+CompetitiveEDH
 Competitiveoverwatch
 CompetitiveTFT
 compoface
@@ -872,6 +889,7 @@ coolguides
 copypasta
 corgi
 Coronavirus
+CorporateFacepalm
 CoryxKenshin
 Cosmere
 cosplayers
@@ -930,6 +948,7 @@ cscareerquestions
 csgo
 csMajors
 CuddlePuddle
+Cuphead
 CuratedTumblr
 curb
 curledfeetsies
@@ -1149,6 +1168,7 @@ dogswithjobs
 Dogtraining
 dogvideos
 DokkanBattleCommunity
+Dolls
 donaldglover
 dontdeadopeninside
 dontflinch
@@ -1157,6 +1177,7 @@ dontputyourdickinthat
 DonutMedia
 doodles
 doodoofard
+doordash
 doordash_drivers
 DotA2
 DottoreMains
@@ -1190,11 +1211,13 @@ DuggarsSnark
 dumplingmeme
 DumpsterDiving
 DunderMifflin
+dune
 dunememes
 DungeonMasters
 DungeonsAndDragons
 duolingo
 dwarffortress
+dyinglight
 DylanteroYT
 DynastyFF
 E90
@@ -1244,6 +1267,7 @@ ems
 EnculerLesVoitures
 ender3
 EngagementRings
+engineering
 engineeringmemes
 EngineeringPorn
 EngineeringStudents
@@ -1288,6 +1312,7 @@ EverythingFoxes
 EverythingScience
 evilautism
 evilbuildings
+EvilDeadTheGame
 existentialcrisiscat
 exjw
 exmormon
@@ -1458,10 +1483,12 @@ foundsatan
 fountainpens
 foxes
 foxholegame
+fragilecommunism
 FragileWhiteRedditor
 france
 FrankOcean
 Frasier
+FRC
 FreckledGirls
 FreeCompliments
 freefolk
@@ -1469,6 +1496,7 @@ freefromwork
 FreeGameFindings
 FreeGamesOnSteam
 FreeTheRodlets
+Frenchbulldogs
 Frenchhistorymemes
 FrenchMemes
 FreshBeans
@@ -1485,6 +1513,7 @@ fuckcars
 FuckImOld
 FuckingOuch
 FuckNestle
+FuckPierre
 Fuckthealtright
 fuckwasps
 FUCKYOUINPARTICULAR
@@ -1532,6 +1561,7 @@ gamingpc
 gangweed
 Ganyu
 GarandThumb
+GardeningAustralia
 garfieldminusgarfield
 Gary_The_Cat
 gatekeeping
@@ -1615,8 +1645,10 @@ goodboomerhumor
 GoodFakeTexts
 google
 GooglePixel
+GoosetheBand
 gorillaz
 goth
+GothamKnights
 GothGirls
 GothStyle
 GR86
@@ -1646,6 +1678,7 @@ grilledcheese
 grilling
 Grimdank
 Grishaverse
+grunge
 GTA
 GTA6
 gtaonline
@@ -1692,6 +1725,7 @@ haloinfinite
 HaloMemes
 hamsters
 handbags
+handholding
 HandOfMemes
 Handwriting
 HannibalTV
@@ -1786,6 +1820,7 @@ honkaiimpact3
 HonkaiStarRail
 HonzukiNoGekokujou
 hopeposting
+Horimiya
 horizon
 horror
 Horses
@@ -1800,6 +1835,7 @@ HouseOfTheDragon
 houseplants
 houseplantscirclejerk
 houston
+howimetyourmother
 howtonotgiveafuck
 howyoudoin
 httyd
@@ -1860,6 +1896,7 @@ Illustration
 im14andthisisdeep
 Im15AndThisIsYeet
 ImaginaryArchitecture
+ImaginaryArmor
 ImaginaryBehemoths
 ImaginaryBestOf
 ImaginaryCharacters
@@ -1927,6 +1964,7 @@ INDYCAR
 InfinityTheGame
 InfinityTrain
 InfowarriorRides
+infp
 InfrastructurePorn
 initiald
 insaneparents
@@ -1979,7 +2017,9 @@ itrunsdoom
 ITZY
 IVE
 Izlam
+IzuOcha
 jackrussellterrier
+JacksFilms
 jacksonville
 JailbreakCreations
 jakanddaxter
@@ -1987,6 +2027,7 @@ jakertown
 JamesBond
 JamesHoffmann
 japan
+JapaneseFood
 japanesepeopletwitter
 japanpics
 Jazz
@@ -2028,6 +2069,7 @@ jschlattsubmissions
 JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
+JulianneHough
 jumpingspiders
 Jungle_Mains
 junjiito
@@ -2153,6 +2195,7 @@ lawschooladmissions
 leafs
 leagueoflegends
 LeagueOfMemes
+LeaguesofVotann
 leanbeefpatty
 learningtocat
 LearnJapanese
@@ -2190,6 +2233,7 @@ libsofreddit
 LibsOfSocialMedia
 lies
 lifehacks
+lifeisstrange
 LifeProTips
 LigaMX
 lightsabers
@@ -2227,6 +2271,7 @@ LongDistance
 longevity
 longhair
 longisland
+longrange
 lookatmydog
 LOONA
 LooneyTunesLogic
@@ -2243,9 +2288,11 @@ lostredditors
 lotr
 LOTR_on_Prime
 lotrmemes
+Louisville
 Lovecraft
 LoveForBoozeCruisers
 LoveForLandchads
+LoveForRedditors
 LoveIsBlindOnNetflix
 LoveIslandTV
 LoveLive
@@ -2258,6 +2305,7 @@ LowStakesConspiracies
 LPOTL
 LSD
 LTB_iel
+lucario
 lucifer
 LudwigAhgren
 lululemon
@@ -2326,6 +2374,7 @@ Marvel
 MarvelLegends
 marvelmemes
 MarvelSnap
+MarvelStudios_Rumours
 Marxism_Memes
 maryland
 massachusetts
@@ -2334,6 +2383,7 @@ MassEffectMemes
 masterduel
 masterforgiveme
 MasterReturns
+Mastiff
 mathmemes
 mattcolville
 matureplants
@@ -2342,6 +2392,7 @@ Mavericks
 maybemaybemaybe
 MayDayStrike
 mazda
+MBMBAM
 mbti
 McFarlaneFigures
 MCFC
@@ -2402,14 +2453,17 @@ miamidolphins
 Miata
 Michigan
 MichiganWolverines
+microbiology
 microbork
 microgrowery
+MicrosoftFlightSim
 MicrosoftRewards
 Mid_Century
 midcenturymodern
 midjourney
 Mikahlynnishot
 MikuNakano
+milanavayntrub
 MildFemboys
 mildlyevangelion
 mildlyinfuriating
@@ -2451,6 +2505,7 @@ MisreadSprites
 missbricosplay
 MissLaineyWilson
 missoula
+Mistborn
 MitchellAndWebb
 MixedRaceGirls
 Mizkif
@@ -2680,6 +2735,7 @@ nosleep
 nostalgia
 NoStupidQuestions
 nosurf
+Notakeonlythrow
 notdisneyvacation
 nothingeverhappens
 NotHowGirlsWork
@@ -2780,6 +2836,7 @@ OnlyMurdersHulu
 OnPatrolLive
 ontario
 OooBigStretch
+OpenAI
 openttd
 opossum_irl
 Opossums
@@ -2788,6 +2845,7 @@ orangecounty
 orangetheory
 orchids
 oregon
+orioles
 orks
 orlando
 Orochisegundo
@@ -2842,6 +2900,7 @@ pansexual
 pansexualfleabrothel
 panthers
 papermario
+papermoney
 papertowns
 ParadoxExtra
 paradoxplaza
@@ -2883,6 +2942,7 @@ PercyJacksonMemes
 Perfectfit
 perfectloops
 PerfectlyCutBooms
+perfectlycutfucks
 PerfectlyCutMeows
 perfectlycutscreams
 PerfectTiming
@@ -2895,6 +2955,7 @@ PersonalFinanceCanada
 PersonalFinanceNZ
 perth
 pesmobile
+Petioles
 PetiteFashionAdvice
 PetiteFitness
 PetsareAmazing
@@ -2955,6 +3016,7 @@ PlantBasedDiet
 PlantedTank
 plants
 PlantsVSZombies
+playark
 playboicarti
 playrust
 playstation
@@ -2975,6 +3037,7 @@ PokemonInfiniteFusion
 PokemonLegendsArceus
 PokemonMasters
 pokemonmemes
+PokemonMisprints
 PokemonScarletViolet
 PokemonSwordAndShield
 PokemonTCG
@@ -3011,6 +3074,7 @@ PORTUGALCARALHO
 Possums
 postprocessing
 POTCmemes
+pottedcats
 Pottery
 PouchCatatoes
 PourPainting
@@ -3130,6 +3194,7 @@ reactiongifs
 real_China_irl
 realasians
 RealBeesFakeTopHats
+reallifedoodles
 RealLifeShinies
 ReallyShittyCopper
 realmadrid
@@ -3176,6 +3241,7 @@ retrobattlestations
 RetroFuturism
 retrogaming
 reverseanimalrescue
+Revolvers
 RheaRipley
 RhodesianRidgebacks
 rickygervais
@@ -3296,6 +3362,7 @@ scriptedasiangifs
 Scrubs
 scrungycats
 SDRUntucked
+SDSU
 seals
 Seaofthieves
 Seattle
@@ -3471,6 +3538,7 @@ spiderbro
 Spiderman
 SpidermanPS4
 Spielstopp
+Splendida
 sploot
 spongebob
 Spore
@@ -3518,6 +3586,7 @@ starwarsrebels
 starwarsspeculation
 stateofMN
 STAYC
+stbernards
 steak
 Steam
 SteamDeck
@@ -3553,6 +3622,7 @@ streetart
 StreetFighter
 StreetMartialArts
 streetphotography
+Stretched
 StuffOnCats
 stunfisk
 stupiddovenests
@@ -3594,6 +3664,7 @@ SweatyPalms
 sweden
 swedishproblems
 SWGalaxyOfHeroes
+Switch
 Switzerland
 SWlegion
 swordartonline
@@ -3622,6 +3693,7 @@ tall
 tallyhall
 TameImpala
 tampa
+tampabayrays
 tankiejerk
 TankPorn
 tanks
@@ -3693,6 +3765,7 @@ the_darnold
 The_Mueller
 THE_PACK
 TheAdventureZone
+TheArcana
 TheAstraMilitarum
 thebadbatch
 TheBatmanFilm
@@ -3800,6 +3873,7 @@ Toefeathers
 ToiletPaperUSA
 tokkiemarktplaats
 TokyoRevengers
+tolkienfans
 tollywood
 TombRaider
 tommyinnit
@@ -3876,6 +3950,7 @@ TrueReddit
 TrueSTL
 Trumpgret
 Trumpvirus
+TRUTHsocialWatch
 TTSverse
 tuckedinkitties
 TuckedInPuppies
@@ -3916,6 +3991,7 @@ ukraine
 UkraineInvasionVideos
 UkraineWarVideoReport
 UkrainianConflict
+Ulta
 Ultrakill
 ultrawidemasterrace
 UmbrellaAcademy
@@ -3928,6 +4004,7 @@ Unexpected
 unexpectedcommunism
 UnexpectedJoJo
 UnexpectedLetterkenny
+UnexpectedlyWholesome
 unexpectedMontyPython
 UnexpectedMulaney
 unexpectedoffice
@@ -3970,6 +4047,7 @@ valve
 vancouver
 vandwellers
 VanessaHudgens
+VanLife
 vaporents
 VaporwaveAesthetics
 VaushV
@@ -4116,6 +4194,7 @@ wholesomegreentext
 wholesomejojo
 wholesomememes
 wholesomemes
+whothefuckup
 WhyWomenLiveLonger
 wichsennnnn
 wien
@@ -4179,6 +4258,7 @@ WWE
 WWEGames
 wwiipics
 WWIIplanes
+wyoming
 xbiking
 xbox
 xbox360
@@ -4193,6 +4273,7 @@ XiaoMains
 xkcd
 xmen
 xqcow
+XXXTENTACION
 YaeMiko
 YagateKiminiNaru
 yakuzagames
@@ -4229,6 +4310,7 @@ youtubehaiku
 yugioh
 YuGiOhMemes
 yuna
+YuYuHakusho
 zelda
 ZeldaIsCute
 Zendaya
