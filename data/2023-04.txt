@@ -64,6 +64,7 @@ AbsoluteUnits
 AbsoluteWeapons
 ac_newhorizons
 ACAB
+academia
 Acceleracers
 AccidentalAlly
 AccidentalCamouflage
@@ -123,6 +124,7 @@ AITAH
 AIVoiceMemes
 aiyu
 ak47
+akita
 Albany
 Albedomains
 AlbedosCreations
@@ -441,6 +443,7 @@ baseball
 baseballcards
 baseballcirclejerk
 basset
+bassfishing
 BassGuitar
 bathandbodyworks
 batman
@@ -722,6 +725,7 @@ CallMeCarson
 CallOfDuty
 CallOfDutyMobile
 calvinandhobbes
+camaro
 CamilaCabello
 camilamendes
 camphalfblood
@@ -790,12 +794,14 @@ catsarealiens
 CatsAreAssholes
 catsarefuckingstupid
 catsareliquid
+catsbeingbanks
 CatsBeingCats
 CatsCalledFood
 catscarryingstuffies
 CatsEnjoyingPets
 catshuggingcats
 CatsInBusinessAttire
+catsinpants
 CatsInSinks
 CatsISUOTTATFO
 CatSlaps
@@ -1005,6 +1011,7 @@ ContraPoints
 controlgame
 Conures
 ConvenientCop
+CookieClicker
 cookiedecorating
 CookieRunKingdoms
 Cooking
@@ -1168,6 +1175,7 @@ DataHoarder
 dataisbeautiful
 dating
 dating_advice
+datingoverforty
 Daytrading
 dayz
 dbz
@@ -1219,6 +1227,7 @@ DenverBroncos
 DenverCirclejerk
 denvernuggets
 depechemode
+Depop
 depression_memes
 DerryGirls
 DerScheisser
@@ -1880,6 +1889,7 @@ googlehome
 GooglePixel
 GoosetheBand
 gorillaz
+GossipGirl
 goth
 GothamKnights
 GothFashion
@@ -1944,6 +1954,7 @@ gurrenlagann
 GuyCry
 GuysBeingDudes
 GwenMains
+gwent
 GYM
 GymMemes
 GymMotivation
@@ -2259,6 +2270,7 @@ InfowarriorRides
 infp
 InfrastructurePorn
 initiald
+InlovewithKarengillan
 insaneparents
 insanepeoplefacebook
 InsanePeopleQuora
@@ -2535,6 +2547,7 @@ learningtocat
 LearnJapanese
 learnprogramming
 learntodraw
+leaves
 lebowski
 LeftTheBurnerOn
 legaladvicecanada
@@ -2543,6 +2556,7 @@ legalcatadvice
 legendofkorra
 LegendsOfRuneterra
 lego
+legocastles
 Legoleak
 legostarwars
 legostarwarsmemes
@@ -2678,6 +2692,7 @@ MacMiller
 MacroPorn
 Madden
 MadeInAbyss
+MadelainePetsch
 MadelynCline
 MadeMeCry
 mademehappycry
@@ -2765,6 +2780,7 @@ McFarlaneFigures
 MCFC
 McLarenFormula1
 McMansionHell
+MCPE
 MCULeaks2
 me_irl
 me_irlgbt
@@ -2939,6 +2955,7 @@ MostBeautiful
 motivation
 motogp
 motorboat
+motorcitykitties
 motorcycle
 MotorcyclePorn
 motorcycles
@@ -3264,6 +3281,7 @@ ontario
 ontheledgeandshit
 oompasubs
 OooBigStretch
+OopsThatsDeadly
 OpenAI
 openttd
 opossum_irl
@@ -3787,6 +3805,7 @@ sadboys
 sadcats
 sadcringe
 SadHorseShow
+Sadiesink
 sadlygokarts
 sadposting
 sailing
@@ -3816,6 +3835,7 @@ SapphoAndHerFriend
 saskatoon
 Satan
 SatanicTemple_Reddit
+satanism
 SatisfactoryGame
 SatisfIcing
 satisfying
@@ -4147,6 +4167,7 @@ Stormlight_Archive
 Stormworks
 straightenedfeetsies
 StraightsBeingOK
+StrangeAndFunny
 StrangePlanet
 StrangerThings
 stray
@@ -4170,6 +4191,7 @@ submarines
 submechanophobia
 submitted
 subnautica
+Subnautica_Below_Zero
 SubsTakenLiterally
 Suburbanhell
 SubwayCreatures
@@ -4306,6 +4328,7 @@ thalassophobia
 ThanksCyno
 thanksihateit
 thanksimcured
+thanosdidnothingwrong
 That70sshow
 thatHappened
 ThatLookedExpensive
@@ -4335,6 +4358,7 @@ TheDepthsBelow
 TheDragonPrince
 TheEminenceInShadow
 TheeOhSees
+TheEricAndreShow
 TheExpanse
 TheFarSide
 TheFence
@@ -4403,6 +4427,7 @@ ThisYouComebacks
 thomastheplankengine
 ThousandSons
 ThriftGrift
+ThriftStoreCats
 thugeshh
 thumbcats
 Thunder
@@ -4485,6 +4510,7 @@ TransClones
 Transformemes
 transformers
 transgender
+transguns
 TransLater
 Transmogrification
 trashpandas
@@ -4539,6 +4565,7 @@ twilight
 TwinCities
 twinpeaks
 TwistedWonderland
+Twitch
 twitchasians
 TwoHotTakes
 Twokinds
@@ -4550,6 +4577,7 @@ Tyranids
 tzuyu
 UBC
 UberEATS
+ucf
 UCI
 UCSD
 ufc
@@ -4802,6 +4830,7 @@ wien
 WiggleButts
 wikipedia
 WildernessBackpacking
+wildhearthstone
 wildhockey
 wildlifephotography
 willwood
