@@ -406,6 +406,7 @@ BattlefieldV
 battlemaps
 battlestations
 battletech
+battlewagon
 bayarea
 Bayley
 BayleyBooty
@@ -572,6 +573,7 @@ botecodoreddit
 bottlebrush
 bottomgear
 botw
+boulder
 bouldering
 BoutinelaBabes
 Boxer
@@ -579,6 +581,7 @@ Boxers
 Boxing
 BPDmemes
 BrandNewSentence
+BrandonDE
 brandonherrara
 brandonsanderson
 brasil
@@ -750,6 +753,7 @@ CCW
 celebrities
 CelebrityFeet
 celestegame
+CelestialBodies
 Celiac
 cellbits
 CemeteryPorn
@@ -1067,6 +1071,7 @@ de
 de_EDV
 deadbydaylight
 deadcells
+deadlockpw
 deadmalls
 deadmau5
 deadmeatjames
@@ -1130,6 +1135,7 @@ deutschememes
 developersIndia
 DevilMayCry
 devils
+Dexter
 dezwo
 DHHMemes
 diabetes_t1
@@ -1381,6 +1387,7 @@ FallGuysGame
 Fallout
 FallOutBoy
 FalloutMemes
+FalloutMods
 falloutnewvegas
 falloutsettlements
 familyguy
@@ -1605,6 +1612,7 @@ Ganyu
 GarandThumb
 GardeningAustralia
 garfieldminusgarfield
+GarlicBreadMemes
 Gary_The_Cat
 gatekeeping
 GatekeepingYuri
@@ -1833,6 +1841,7 @@ hmmmgifs
 Hobbit_Memes
 HobbyDrama
 hockey
+hockeyjerseys
 hockeymemes
 hockeyplayers
 hoggit
@@ -2166,6 +2175,7 @@ Kenshi
 KeqingMains
 Kerala
 KerbalSpaceProgram
+kfeets
 KGATLW
 KGBTR
 khajiithaswares
@@ -2212,6 +2222,7 @@ kpics
 kpop
 kpoprants
 kpopthoughts
+kristenbell
 kroger
 ksi
 KSPMemes
@@ -2629,6 +2640,7 @@ Mountaineering
 mountandblade
 mourningderps
 MouseReview
+moviecritic
 MovieDetails
 MovieLeaksAndRumors
 MovieMistakes
@@ -2680,6 +2692,7 @@ Nails
 NameNerdCirclejerk
 namenerds
 NamFlashbacks
+NanaAnime
 nancydrew
 Naruto
 NASCAR
@@ -3266,6 +3279,7 @@ Raphtalia
 rareinsults
 rarepuppers
 Rarethreats
+raspberry_pi
 RATS
 ravens
 RBI
@@ -3324,6 +3338,7 @@ restofthefuckingowl
 retardedcornfieldcum
 RetroAR
 retrobattlestations
+RetroBowl
 RetroFuturism
 retrogaming
 reverseanimalrescue
@@ -3412,6 +3427,7 @@ sanfrancisco
 SanJose
 sanrio
 saopaulo
+SapphoAndHerFriend
 saskatoon
 Satan
 SatanicTemple_Reddit
@@ -3465,6 +3481,8 @@ self
 SelfAwarewolves
 selfhosted
 selfie
+selfimprovement
+SellingSunset
 seniorkitties
 Sephora
 SequelMemes
@@ -3539,6 +3557,7 @@ shrinkflation
 shrooms
 ShuumatsuNoValkyrie
 Siamesecats
+siberianhusky
 sidegirlies
 Sidemen
 Sigmarxism
@@ -3583,6 +3602,7 @@ slowcooking
 SlowNewsDay
 Slycooper
 smalllebowsky
+Smallville
 smashbros
 SmashBrosUltimate
 SMG4
@@ -3600,6 +3620,7 @@ snowboarding
 snowrunner
 SnyderCut
 soccercirclejerk
+socialanxiety
 socialism
 SocialismIsCapitalism
 SocialistRA
@@ -3607,12 +3628,14 @@ socialskills
 softwaregore
 solarpunk
 sololeveling
+solotravel
 SomeOrdinaryGmrs
 sonarears
 SonicTheHedgehog
 SonoBisqueDoll
 SonsOfTheForest
 SonyAlpha
+SoulKnight
 SoundersFC
 sousvide
 southafrica
@@ -4040,6 +4063,7 @@ trees
 treeseatingthings
 TreesSuckingOnThings
 tretinoin
+triathlon
 Trigun
 trippinthroughtime
 TrishylandWifeys
@@ -4180,6 +4204,7 @@ victoria2
 victoria3
 VictoriaBC
 victoriajustice
+videogamedunkey
 videogames
 videomemes
 videos
@@ -4198,6 +4223,7 @@ vinyljerk
 virginvschad
 virtualreality
 Visiblemending
+visualnovels
 vizsla
 Vocaloid
 void_memes
