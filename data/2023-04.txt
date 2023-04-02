@@ -388,6 +388,7 @@ axolotls
 AyakaMains
 AyyMD
 BabiesReactingToStuff
+babushkadogs
 babybigcatgifs
 BabyBumps
 BabyCorgis
@@ -1088,6 +1089,7 @@ customhearthstone
 custommagic
 cute
 Cutedogsreddit
+cutegayshit
 cuteguys
 Cyberbooty
 cyberDeck
@@ -1143,6 +1145,7 @@ DarkTide
 DarkViperAU
 darkwingsdankmemes
 DarlingInTheFranxx
+DarthJarJar
 Darts
 DarwinAwards
 Dashcam
@@ -1268,6 +1271,7 @@ DisneyDiamonds
 DisneyEyes
 Disneyland
 disneyparks
+DisneyPlus
 disneyvacation
 DisneyWorld
 distractible
@@ -1280,6 +1284,7 @@ DIYGelNails
 DMAcademy
 DMT
 DMZ
+DnB
 DnD
 DnDGreentext
 DnDHomebrew
@@ -1296,6 +1301,7 @@ Dogberg
 dogbridges
 dogecoin
 dogelore
+Doggles
 doggrooming
 Dogloaf
 dogpictures
@@ -1375,6 +1381,7 @@ Earthchan
 EarthPorn
 Earwolf
 EatCheapAndHealthy
+EatCheapAndVegan
 eatsandwiches
 ebikes
 EbonyImagination
@@ -1685,6 +1692,7 @@ friendlyjordies
 friends_tv_show
 frogs
 FromKittenToCat
+FromPuppyToDog
 fromsoftware
 Frostpunk
 Frugal
@@ -1913,6 +1921,7 @@ Gunpla
 gunpolitics
 GunPorn
 guns
+gurrenlagann
 GuyCry
 GuysBeingDudes
 GwenMains
@@ -1967,6 +1976,7 @@ HayleyAtwell
 HazbinHotel
 headpats
 Health
+HealthyFood
 hearthstone
 hearthstonecirclejerk
 heat
@@ -2035,6 +2045,7 @@ HomeDecorating
 HomeDepot
 homegym
 HomeImprovement
+HomeKit
 homelab
 HomestarRunner
 homestead
@@ -2170,6 +2181,7 @@ ImaginaryNobles
 ImaginaryPathways
 ImaginaryPirates
 ImaginarySliceOfLife
+ImaginarySoldiers
 ImaginaryStarscapes
 ImaginaryStarships
 ImaginaryTechnology
@@ -2249,6 +2261,7 @@ intermittentfasting
 internet_funeral
 InternetIsBeautiful
 inthenews
+intresseklubben
 introvert
 introvertmemes
 Invincible
@@ -2454,6 +2467,7 @@ KUWTKsnark
 l4d2
 LabourUK
 labrador
+LaBrantFamSnark
 labrats
 LAClippers
 ladiesofthemcu
@@ -2661,6 +2675,7 @@ makeyourchoice
 MaladaptiveDreaming
 MalayalamMovies
 malaysia
+Malazan
 malcolminthemiddle
 malehairadvice
 malelivingspace
@@ -2719,6 +2734,7 @@ mazda
 MBMBAM
 mbti
 mbtimemes
+Mcat
 McFarlaneFigures
 MCFC
 McLarenFormula1
@@ -3177,6 +3193,7 @@ okbuddyreze
 okbuddyrintard
 okbuddyvowsh
 okc
+okcopainattard
 okkamaraderetarde
 okkolegauposledzony
 oklahoma
@@ -3189,6 +3206,7 @@ oldpeoplefacebook
 OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
+OldSchoolRidiculous
 OldWorldBlues
 oliviadunne
 OliviaRodrigoNSFW
@@ -3202,6 +3220,7 @@ OnePieceLiveAction
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
+OneTopicAtATime
 onetruegod
 OneyPlays
 onguardforthee
@@ -3596,6 +3615,7 @@ rareinsults
 rarepuppers
 Rarethreats
 raspberry_pi
+RatchetAndClank
 RATS
 ravens
 RBI
@@ -3746,6 +3766,7 @@ sales
 SalsaSnobs
 saltierthancrait
 SaltLakeCity
+Samadhi_Zendejas
 SamONellaAcademy
 samoyeds
 samsung
@@ -3996,6 +4017,7 @@ SpaceXLounge
 SpaceXMasterrace
 SpanishMeme
 specializedtools
+SpecOpsArchive
 SpeculativeEvolution
 SpeedOfLobsters
 sphynx
@@ -4008,6 +4030,7 @@ SpidermanPS4
 spiders
 Spielstopp
 Splendida
+Splintercell
 sploot
 Spokane
 spongebob
@@ -4130,6 +4153,7 @@ Supernatural
 supersentai
 Superstonk
 superstonkuk
+superstore
 SuperStructures
 supportlol
 surrealmemes
@@ -4216,7 +4240,9 @@ teenagersnew
 teenmom
 TeenMomOGandTeenMom2
 Tekken
+TempleofMarianne
 Tennessee
+Tennesseetitans
 tennis
 TenseiSlime
 TerrainBuilding
@@ -4676,6 +4702,7 @@ weeviltime
 weezer
 weightlifting
 Weird
+weirdal
 weirdcore
 weirddalle
 WeirdToilets
@@ -4732,6 +4759,7 @@ wikipedia
 WildernessBackpacking
 wildhockey
 wildlifephotography
+willwood
 wine
 WingsOfFire
 WinStupidPrizes
@@ -4846,6 +4874,7 @@ youtube
 youtubehaiku
 yugioh
 YuGiOhMemes
+yumenikki
 yuna
 yunyun
 YuYuHakusho
