@@ -286,6 +286,7 @@ arduino
 argentina
 ArgentinaBenderStyle
 arielwinter
+Aritzia
 arizona
 ARK
 Arkansas
@@ -455,6 +456,7 @@ baseball
 baseballcards
 baseballcirclejerk
 basset
+bassethounds
 bassfishing
 BassGuitar
 bathandbodyworks
@@ -609,6 +611,7 @@ BocchiTheRock
 bodegacats
 bodybuilding
 BoFuri
+Bogleheads
 BoJackHorseman
 Bokoen1
 BokuNoHeroAcademia
@@ -1554,6 +1557,7 @@ ExtremeCarCrashes
 extremelyinfuriating
 Eyebleach
 eyebombing
+f150
 F1FeederSeries
 F1Game
 F1NN5TER
@@ -2048,6 +2052,7 @@ hatsune
 HauntedMound
 Hawaii
 hawkeyes
+hawks
 haydenpanettiere
 HayleyAtwell
 HazbinHotel
@@ -2627,6 +2632,7 @@ lesbianmemes
 lesserafim
 LetsTalkMusic
 Letterboxd
+Letterkenny
 lewishamilton
 lewronggeneration
 lexapro
@@ -3322,6 +3328,7 @@ OldSchoolRidiculous
 OldWorldBlues
 oliviadunne
 OliviaRodrigoNSFW
+olympia
 Omaha
 OMORI
 onejob
@@ -3359,6 +3366,7 @@ oregon
 orioles
 orks
 orlando
+OrlandoMagic
 Ornithology
 Orochisegundo
 OrphanCrushingMachine
@@ -3826,6 +3834,7 @@ Roadcam
 RoadTrafficAccidents
 roadtrip
 RoastMe
+RoastMyCar
 RoAww
 roblox
 robotics
@@ -3945,6 +3954,7 @@ Scream
 scriptedasiangifs
 Scrubs
 scrungycats
+scuba
 SDRUntucked
 SDSU
 seals
@@ -4282,6 +4292,7 @@ SuddenlyLesbian
 SuddenlyTrans
 suicidebywords
 sukka
+summonerswar
 sunraybee
 suns
 sunset
@@ -4454,6 +4465,7 @@ TheGoodPlace
 thegrandtour
 TheGriffonsSaddlebag
 TheGrittyPast
+TheKillers
 TheKittyKingdom
 TheLastAirbender
 thelastofus
