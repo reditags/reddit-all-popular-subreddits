@@ -94,6 +94,7 @@ ActivationSound
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
+AdamDriverCats
 ADCMains
 AddisonRae
 Adelaide
@@ -104,6 +105,7 @@ ADHDinos
 ADHDmemes
 AdmiralCloudberg
 adorableoldpeople
+ADSB
 Adulting
 adultingph
 adultswim
@@ -275,6 +277,7 @@ aoe4
 Apandah
 ape
 aPeoplesCalendar
+ApexConsole
 apexlegends
 ApexLore
 ApexOutlands
@@ -2192,6 +2195,7 @@ HeckThisIsWholesome
 Hedgehog
 heep
 Helicopters
+Hellenism
 HellLetLoose
 hellsomememes
 Helltaker
@@ -3121,6 +3125,7 @@ MikuNakano
 milanavayntrub
 MildFemboys
 mildlyamusing
+mildlycreepy
 mildlyevangelion
 mildlyinfuriating
 mildlyinteresting
@@ -3299,6 +3304,7 @@ NanatsunoTaizai
 nancydrew
 Nanny
 Naruto
+narutomemes
 nasa
 NASCAR
 NatalieDormer
@@ -3586,6 +3592,7 @@ orangecounty
 orangetheory
 orchids
 oregon
+origami
 orioles
 orks
 orlando
@@ -4187,6 +4194,7 @@ sbubby
 Scams
 ScaramoucheMains
 ScarySigns
+Schaffrillas
 SchittsCreek
 schizoposters
 schkreckl
@@ -4264,6 +4272,7 @@ Shark_Park
 sharks
 sharpcutting
 sheffield
+SheGotHands
 sheltie
 ShenheMains
 sheranetflix
@@ -4804,6 +4813,7 @@ TheSimpsons
 thesims
 thesopranos
 TheStrokes
+thetagang
 TheTempleOfOchako
 TheTrumpZone
 TheTryGuys
@@ -4850,6 +4860,7 @@ TimPool
 Tinder
 tinyanimalsonfingers
 TinyUnits
+tiodopave
 tippytaps
 titanfall
 titanic
