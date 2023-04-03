@@ -136,6 +136,7 @@ AlbedosCreations
 alberta
 Albuquerque
 AlchemyStarsEN
+Alderwood
 aldi
 Aleague
 AlexaBliss
@@ -426,6 +427,7 @@ BadChoicesGoodStories
 badcode
 BadDesigns
 Badfaketexts
+badfriendspod
 badhistory
 BadMensAnatomy
 badMovies
@@ -622,6 +624,7 @@ Bokoen1
 BokuNoHeroAcademia
 BokuNoMetaAcademia
 Bolehland
+bollyarm
 BollyBlindsNGossip
 bollywood
 BollywoodFashion
@@ -2095,11 +2098,13 @@ HelluvaBoss
 Helluvabossmemes
 HelpMeFind
 HermanCainAward
+hermitchat
 HermitCraft
 hermitcraftmemes
 heroesofthestorm
 HeroForgeMinis
 herpetology
+hewillbebaked
 HFY
 HighHeels
 HighQualityGifs
@@ -2180,6 +2185,7 @@ houkai3rd
 HouseOfTheDragon
 houseplants
 houseplantscirclejerk
+Houseporn
 houston
 howardstern
 howimetyourmother
@@ -2325,6 +2331,7 @@ IndianGaming
 Indiangirlsontinder
 IndianHipHopHeads
 indianmemer
+IndianMemeTemplates
 IndianMeyMeys
 IndiaNostalgia
 IndianSkincareAddicts
@@ -2423,6 +2430,7 @@ January6
 japan
 JapaneseFood
 japanesepeopletwitter
+japanlife
 japanpics
 jayhawks
 Jazz
@@ -2631,6 +2639,7 @@ leagueoflegends
 LeagueOfMemes
 LeaguesofVotann
 leanbeefpatty
+LearnFinnish
 learningtocat
 LearnJapanese
 learnprogramming
@@ -3608,6 +3617,7 @@ pokemon
 pokemoncards
 pokemongo
 pokemongobrag
+PokemonGoMystic
 PokemonInfiniteFusion
 PokemonLegendsArceus
 PokemonMasters
@@ -4073,6 +4083,8 @@ shittyaquariums
 Shittyaskflying
 shittyaskscience
 shittybattlestations
+shittybloodborne
+shittyeldenring
 shittyfoodporn
 shittygamedetails
 ShittyGifRecipes
@@ -4231,6 +4243,7 @@ sportsbetting
 SportWagon
 spotify
 spotted
+spqrposting
 spreadytoes
 SprocketTankDesign
 SPTarkov
@@ -4394,6 +4407,7 @@ talk_hunfluencers
 tall
 tallyhall
 TameImpala
+TamilNadu
 tampa
 TampaBayLightning
 tampabayrays
@@ -4643,6 +4657,7 @@ TouchThaFishy
 Toughguysholdingpets
 touhou
 TowerofFantasy
+TowerofGod
 Toyota
 ToyotaTacoma
 traadustCrusaders
@@ -4729,6 +4744,7 @@ Tyranids
 tzuyu
 UBC
 UberEATS
+Ubiquiti
 ucf
 UCI
 UCSD
