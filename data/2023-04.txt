@@ -569,6 +569,8 @@ blackcats
 Blackcelebrity
 BlackClover
 BlackCountryNewRoad
+blackdesertonline
+BlackHair
 Blacklabs
 blackmagicfuckery
 blackmirror
@@ -625,6 +627,7 @@ bollywood
 BollywoodFashion
 bollywoodmemes
 BollywoodRealism
+BollywoodUHQonly
 BoltEV
 Bondedpairs
 BoneAppleTea
@@ -1193,6 +1196,7 @@ DarkAcademia
 DarkAndDarker
 DarkBRANDON
 darkestdungeon
+darknet
 DarkSouls2
 darksoulsmemes
 DarkTide
@@ -1337,6 +1341,7 @@ DisneyWorld
 distractible
 distressingmemes
 dividends
+DivinityOriginalSin
 DivorcedBirds
 DiWHY
 DiWHYNOT
@@ -1902,6 +1907,7 @@ GingerMafia
 Gintama
 Giraffesdontexist
 girlsfrontline
+GirlsMirin
 GirlsUndShitposts
 girlswithbigmuscles
 GirlsWithHugePussies
@@ -2628,6 +2634,7 @@ learntodraw
 Leathercraft
 leaves
 lebowski
+ledzeppelin
 LeftTheBurnerOn
 legaladvicecanada
 LegalAdviceUK
@@ -3704,6 +3711,7 @@ psychology
 PublicFreakout
 PuertoRico
 pug
+pukicho
 pune
 PunishingGrayRaven
 punk
@@ -4415,6 +4423,7 @@ Technoblade
 technology
 techsupportgore
 techsupportmacgyver
+techwearclothing
 TedLasso
 teefies
 teenagers
@@ -4697,6 +4706,7 @@ Twitch
 twitchasians
 TwoHotTakes
 Twokinds
+TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
 TwoXChromosomes
@@ -5085,6 +5095,7 @@ YouniquePresenterMS
 YouOnLifetime
 YourJokeButWorse
 YourRAGE
+yourturntodie
 YouSeeComrade
 youseeingthisshit
 YouShouldKnow
