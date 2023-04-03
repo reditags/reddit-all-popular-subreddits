@@ -24,6 +24,7 @@
 30PlusSkinCare
 30ROCK
 3amjokes
+3Dmodeling
 3Dprinting
 3DS
 3dshacks
@@ -60,6 +61,7 @@ AbruptChaos
 absolutelynotanimeirl
 absolutelynotme_irl
 absolutelynotmeirl
+absoluteunit
 AbsoluteUnits
 AbsoluteWeapons
 AbstractArt
@@ -124,6 +126,8 @@ aggies
 AHatInTime
 AhriMains
 AIDKE
+Aikuros
+aircrashinvestigation
 airplaneears
 airsoft
 airsoftcirclejerk
@@ -458,6 +462,7 @@ Bannerlord
 BanPitBulls
 BanVideoGames
 BarbaraPalvin
+barexam
 Barotrauma
 Barry
 barstoolsports
@@ -553,6 +558,7 @@ BillieEilish1
 billsimmons
 bindingofisaac
 bingingwithbabish
+BinIchDasArschloch
 biology
 biologymemes
 bioniclelego
@@ -907,6 +913,7 @@ CharteredAccountants
 ChatGPT
 Chattanooga
 Cheese
+Cheetahs
 Chefit
 chefknives
 chelseafc
@@ -936,6 +943,7 @@ Chonkers
 ChoosingBeggars
 chrissimpsonsartist
 Christianity
+christinahendricks
 christmas
 ChronicIllness
 ChronicPain
@@ -1807,6 +1815,7 @@ Frostpunk
 Frugal
 frugalmalefashion
 Fruitbatcats
+ft86
 ftlgame
 fuckcars
 FuckImOld
@@ -2010,6 +2019,7 @@ greatdanes
 greatpyrenees
 greebles
 greece
+GreekMythology
 GreenAndPleasant
 GreenBayPackers
 greenday
@@ -2349,6 +2359,7 @@ IndiaCricket
 indiadiscussion
 indiameme
 Indiana
+IndianaJonesMemes
 indianapolis
 indianbikes
 IndianBoysOnTinder
@@ -2451,6 +2462,7 @@ jackrussellterrier
 JacksFilms
 jacksonville
 JackSucksAtLife
+jaidenanimations
 JailbreakCreations
 jakanddaxter
 jakeandamir
@@ -2580,6 +2592,7 @@ Killtony
 KimetsuNoYaiba
 KimiNoNaWa
 kindafunny
+kindle
 Kindred
 Kingdom
 kingdomcome
@@ -2772,6 +2785,7 @@ LodedDiper
 london
 londonontario
 lonely
+longboarding
 longboyes
 longcats
 LongDistance
@@ -2883,6 +2897,7 @@ MandJTV
 MangaCollectors
 manhwa
 Manitoba
+ManufacturingPorn
 mapmaking
 MapPorn
 mapporncirclejerk
@@ -2945,6 +2960,7 @@ medicalschoolanki
 MedievalCats
 Meditation
 medizzy
+Megadeth
 megalophobia
 Megaman
 megamindmemes
@@ -3087,6 +3103,7 @@ MoldyMemes
 MomForAMinute
 Mommit
 monarchism
+MonicaBellucci
 Monstera
 MonsterHigh
 MonsterHunter
@@ -3133,6 +3150,7 @@ Mtf_irl
 MTFSelfieTrain
 mtg
 mtgfinance
+mtgvorthos
 MtvChallenge
 MuayThai
 Mujico
@@ -3636,6 +3654,7 @@ PirateKitties
 PiratePets
 pisscommenting
 pitbulls
+pitbulls_in_partyhats
 pitbullsinjammies
 PittieSmiles
 pittsburgh
@@ -3752,6 +3771,7 @@ PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
 privacy
+PrivacyGuides
 ProCreate
 productivity
 ProductManagement
@@ -3816,6 +3836,7 @@ queensland
 quilting
 quityourbullshit
 Qult_Headquarters
+quotes
 QuotesPorn
 R6ProLeague
 Rabbits
@@ -4121,6 +4142,7 @@ sheffield
 sheltie
 ShenheMains
 sheranetflix
+Sherlock
 ShermanPosting
 shiba
 SHIBArmy
@@ -4257,6 +4279,7 @@ SocialistRA
 socialskills
 softwaregore
 solarpunk
+soloboardgaming
 sololeveling
 solotravel
 SomeOfYouMayDie
@@ -4383,6 +4406,7 @@ Stormworks
 straightenedfeetsies
 StraightsBeingOK
 StrangeAndFunny
+StrangeEarth
 StrangePlanet
 StrangerThings
 stray
@@ -4574,6 +4598,7 @@ TheBatmanFilm
 TheBidenshitshow
 thebindingofisaac
 TheBoys
+TheBrewery
 thecampaigntrail
 thecatdimension
 TheCatTrapIsWorking
@@ -4641,6 +4666,7 @@ TheWayWeWere
 TheWeeknd
 TheWire
 thewitcher3
+theworldnews
 TheYardPodcast
 theydidthemath
 theyknew
@@ -5158,6 +5184,7 @@ XboxGamePass
 xboxone
 XboxSeriesX
 Xcom
+XCOM2
 Xennials
 Xenoblade_Chronicles
 XFiles
@@ -5212,6 +5239,7 @@ YuGiOhMemes
 yumenikki
 yuna
 yunyun
+yuumimains
 YuYuHakusho
 ZBrush
 zelda
