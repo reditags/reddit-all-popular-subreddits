@@ -692,6 +692,7 @@ boottoobig
 borbs
 BorderCollie
 Borderlands2
+borderlands3
 boringdystopia
 borussiadortmund
 Boruto
@@ -826,6 +827,7 @@ canadaleft
 CanadianForces
 canberra
 cancunparducsajok
+CaneCorso
 canes
 cannabis
 cannabiscultivation
@@ -837,6 +839,7 @@ CaptainSparklez
 CaptainSparrowmemes
 capybara
 CaraDelevingne
+carcrash
 Cardiff
 Cardinals
 cardsagainsthumanity
@@ -1153,6 +1156,7 @@ cowboys
 cowcats
 coys
 cozy
+CozyFantasy
 CozyGrove
 CozyPlaces
 CPA
@@ -1276,6 +1280,7 @@ dankruto
 dankvideos
 DanLeBatardShow
 DanMachi
+DannyBrown
 DannyGonzalez
 DarceyAndStaceyTLC
 Daredevil
@@ -1781,6 +1786,7 @@ Finanzen
 FindTheSniper
 FingMemes
 Finland
+Fire
 Firearms
 fireemblem
 FireEmblemHeroes
@@ -2177,6 +2183,7 @@ handbags
 HandfulOfKitten
 handholding
 HandOfMemes
+handtools
 Handwriting
 HannibalTV
 happy
@@ -2548,6 +2555,7 @@ IsTodayFridayThe13th
 ITAGLIA
 Italia
 ItaliaMeme
+ItalianGreyhounds
 italy
 Itasha
 ITcrowd
@@ -2640,6 +2648,7 @@ jurassicworldevo
 justa
 JustBootThings
 JustCause
+justforsocialmedia
 Justfuckmyshitup
 JustGuysBeingDudes
 JusticePorn
@@ -2649,6 +2658,7 @@ JustNatsuki
 justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
+juxtaposition
 k_on
 KaeyaMains
 kaiserredux
@@ -2674,6 +2684,7 @@ KatherineMcNamara
 KatherynWinnick
 katyperry
 KavehMains
+Kayaking
 KeanuBeingAwesome
 Keep_Track
 keming
@@ -3255,6 +3266,7 @@ MontyPythonMemes
 MoonKnight
 Moonmoon
 MoonPissing
+morbidlybeautiful
 MorbidWaysToDie
 Mordhau
 mordheim
@@ -3376,6 +3388,7 @@ nbadiscussion
 Nbamemes
 NBASpurs
 NBAYoungboy
+NCAAFBseries
 NCAAgirls
 NCAAW
 NCSU
@@ -3443,6 +3456,7 @@ NierAutomataGallery
 NieRAutomataGame
 nietdespeld
 NightInTheWoods
+NightVision
 Nightwing
 nihilism
 Nijisanji
@@ -3520,6 +3534,7 @@ NotTimAndEric
 nova
 noveltranslations
 nowmycat
+NPR
 nrl
 nuclear
 NUFC
@@ -5016,6 +5031,7 @@ trebuchetmemes
 trees
 treeseatingthings
 TreesSuckingOnThings
+tressless
 tretinoin
 triathlon
 Trigun
@@ -5033,6 +5049,7 @@ TrueAnon
 TrueCrime
 TrueCrimeDiscussion
 truegaming
+truerateme
 TrueReddit
 TrueSTL
 trump
@@ -5079,6 +5096,7 @@ UberEATS
 Ubiquiti
 ucf
 UCI
+UCONN
 UCSD
 ufc
 UFOs
@@ -5237,6 +5255,7 @@ VRGaming
 VShojo
 vtolvr
 VuvuzelaIPhone
+VyvanLe
 W2S
 Wales
 WalgreensStores
@@ -5391,6 +5410,7 @@ woooosh
 woosh
 wordington
 wordsonanimegirls
+workaholics
 WorkersStrikeBack
 WorkReform
 Workspaces
@@ -5476,6 +5496,7 @@ YouBelongWithMemes
 youdontmattergiveup
 youdontsurf
 YoujoSenki
+Youmo
 youngpeoplereddit
 youngpeopleyoutube
 YoungThug
