@@ -770,6 +770,7 @@ brushybrushy
 brussels
 BSCMoonShots
 BSG
+btc
 btd6
 bts7
 buccos
@@ -1144,6 +1145,7 @@ Cookierun
 CookieRunKingdoms
 Cooking
 CoolAmericaFacts
+CoolGadgetsTube
 coolguides
 coonhounds
 copypasta
@@ -1199,6 +1201,7 @@ CringetopiaRM
 criterion
 criticalblunder
 criticalrole
+Crittersoncapybaras
 croatia
 cromch
 Crossdress_Expression
@@ -1892,6 +1895,7 @@ ForzaHorizon
 fossilid
 FoundPaper
 foundsatan
+FoundTheInaAlt
 fountainpens
 fourthwavewomen
 foxes
@@ -2098,6 +2102,7 @@ GoldenAgeMinecraft
 Goldendoodles
 goldenretriever
 goldenretrievers
+GoldenSun
 golf
 Golf_R
 GolfGTI
@@ -2258,6 +2263,7 @@ Helltaker
 HelluvaBoss
 Helluvabossmemes
 HelpMeFind
+heraldry
 HermanCainAward
 hermitchat
 HermitCraft
@@ -2482,6 +2488,7 @@ ImDontai
 ImFinnaGoToHell
 ImmutableX
 Impeach_Trump
+ImperialFists
 imsorryjon
 ImTheMainCharacter
 InclusiveOr
@@ -3362,6 +3369,7 @@ Mustang
 MxRMods
 MXRplays
 My600lbLife
+my_celebrity_crush
 MyChemicalRomance
 mycology
 myfavoritemurder
@@ -3519,6 +3527,7 @@ nocontextpics
 Noctor
 Noellemains
 NoFap
+NoisyCats
 noisygifs
 noita
 NoJumper
@@ -3565,6 +3574,7 @@ notthebeaverton
 nottheonion
 NotTimAndEric
 nova
+NovaScotia
 noveltranslations
 nowmycat
 NPR
@@ -3647,6 +3657,7 @@ OldSchoolRidiculous
 OldWorldBlues
 oliver
 oliviadunne
+OliviaMunn
 OliviaRodrigoNSFW
 olympia
 olympics
@@ -3725,6 +3736,7 @@ overthegardenwall
 Overwatch
 overwatch2
 Overwatch_Memes
+OverwatchCirclejerk
 OverwatchUniversity
 OWConsole
 Owls
@@ -4341,6 +4353,7 @@ Seattle
 SeattleWA
 secondsketch
 secretcompartments
+Seiko
 SeikoMods
 seinfeld
 SeishunButaYarou
@@ -4401,6 +4414,7 @@ ShinyPokemon
 shitcoinmoonshots
 ShitCrusaderKingsSay
 shitduolingosays
+ShitKonfaSays
 ShitLiberalsSay
 ShitMomGroupsSay
 ShitPoliticsSays
@@ -5184,6 +5198,7 @@ UnexpectedlyWholesome
 unexpectedMontyPython
 UnexpectedMulaney
 unexpectedoffice
+UnexpectedSCP
 union
 unitedstatesofindia
 Unity2D
