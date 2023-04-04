@@ -1,4 +1,5 @@
 0sanitymemes
+0xPolygon
 1000lbsisters
 100gecs
 100Kanojo
@@ -185,6 +186,7 @@ amibeingdetained
 Amigurumi
 amiibo
 AmITheAngel
+AmItheButtface
 amiugly
 amogus
 Amoledbackgrounds
@@ -261,6 +263,7 @@ annakendrick
 AnnArbor
 AnneHathaway
 AnnieEdison
+AnniTheDuck___
 anno
 ANormalDayInRussia
 antiarbeit
@@ -768,6 +771,7 @@ breakingbadmemes
 Breath_of_the_Wild
 breathinginformation
 Brewers
+BrexitMemes
 bridezillas
 BridgertonNetflix
 BrieLarson
@@ -950,6 +954,7 @@ CatsOnKeyboards
 CatsOnPizza
 CatsPlayingDnd
 CatsStandingUp
+catsvstechnology
 CatsWhoChirp
 CatsWhoConverse
 CatsWhoSmoke
@@ -982,6 +987,7 @@ Ceramics
 CFB
 CGPGrey
 Chadposting
+chadsriseup
 Chadtopia
 chaeyoung
 Chainsawfolk
@@ -1049,6 +1055,7 @@ ChurchofMarnie
 ChurchOfNejire
 chuunibyou
 CICO
+cigars
 cincinnati
 Cinema4D
 CineShots
@@ -1186,6 +1193,7 @@ Corridor
 Corvette
 CoryxKenshin
 Cosmere
+cosmosnetwork
 cosplayers
 Costco
 cottagecore
@@ -1395,6 +1403,7 @@ DeepIntoYouTube
 DeepRockGalactic
 DeepSpaceNine
 Defenders
+defi
 deftones
 Degrassi
 Dehyamains
@@ -1556,6 +1565,7 @@ doommetal
 doordash
 doordash_drivers
 dopehumor
+Dorohedoro
 DotA2
 DottoreMains
 DougDoug
@@ -1600,6 +1610,7 @@ drums
 drumstick
 drunkencookery
 dualipa
+Dualsport
 dubai
 Dublin
 duck
@@ -1723,6 +1734,7 @@ espresso
 estoration
 ethereum
 EthereumClassic
+EtherMining
 ethfinance
 ethoslab
 ethtrader
@@ -2113,6 +2125,7 @@ GetMotivated
 GettingShredded
 GFLNeuralCloud
 ghibli
+GhostAdventures
 Ghostbc
 ghostoftsushima
 GhostRecon
@@ -2216,6 +2229,7 @@ GriefSupport
 grilledcheese
 grilling
 Grimdank
+GriseldaxFR
 Grishaverse
 GroundedGame
 grunge
@@ -2671,6 +2685,7 @@ italy
 Itasha
 ITcrowd
 ItemShop
+Iteration110Cradle
 ItHadToBeBrazil
 IThinkYouShouldLeave
 itookapicture
@@ -2726,6 +2741,7 @@ jerseyshore
 jessicaalba
 Jewdank
 jewelrymaking
+Jewish
 jigokuraku
 jisoo
 JoannaNewsom
@@ -3130,6 +3146,7 @@ MadokaMagica
 MAFS_AU
 Magic
 MagicArena
+MagicEye
 magicthecirclejerking
 Maine
 mainecoons
@@ -3403,6 +3420,7 @@ mordheim
 moreplatesmoredates
 MoriCalliope
 mormon
+Morocco
 Morrowind
 MortalKombat
 Mosses
@@ -3891,6 +3909,7 @@ PathOfExileBuilds
 pathologic
 PathToNowhere
 Patriots
+Pauper
 paydaytheheist
 PaymoneyWubby
 PcBuild
@@ -4708,6 +4727,7 @@ SpaceXMasterrace
 spain
 Spanish
 SpanishMeme
+SpecArt
 specializedtools
 SpecialSnowflake
 SpecOpsArchive
@@ -4955,6 +4975,7 @@ tea
 Teachers
 TeamfightTactics
 TeamFourStar
+TeamSESH
 TeamSolomid
 tearsofthekingdom
 TearsOfThemis
@@ -5090,6 +5111,7 @@ therewasanattempt
 TheRightCantMeme
 TheSimpsons
 thesims
+TheSimsBuilding
 thesopranos
 TheStrokes
 thetagang
@@ -5464,6 +5486,7 @@ VolleyballGirls
 Volumeeating
 Volvo
 VOMS
+VoteBlue
 VoteDEM
 VRchat
 VRGaming
@@ -5481,6 +5504,7 @@ walkaway
 WalkScape
 wallpaper
 wallstreetbets
+WallStreetbetsELITE
 Wallstreetsilver
 walmart
 WalmartCelebrities
@@ -5622,6 +5646,7 @@ wokekids
 wolves
 WolvesWithWatermelons
 women
+womenEngineers
 womensstreetwear
 Woodcarving
 woodstoving
