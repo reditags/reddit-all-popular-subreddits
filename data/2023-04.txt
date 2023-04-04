@@ -506,6 +506,7 @@ Battlecars
 battlecats
 Battlefield
 battlefield2042
+battlefield_4
 battlefield_one
 BattlefieldV
 battlemaps
@@ -1805,6 +1806,7 @@ fivenightsatfreddys
 fixedbytheduet
 FixedGearBicycle
 FL_Studio
+Flagstaff
 Flamepoints
 flashlight
 FlashTV
@@ -2577,6 +2579,7 @@ JacksFilms
 jacksonville
 JackSucksAtLife
 jaidenanimations
+jailbreak
 JailbreakCreations
 jakanddaxter
 jakeandamir
@@ -4210,6 +4213,7 @@ Ryumimi
 sabaton
 SabatonMemes
 Saber
+SabrinaCarpenter
 Sacramento
 sadboys
 sadcats
@@ -4720,6 +4724,7 @@ sysadmin
 systemofadown
 TabbyCats
 tacobell
+Tacoma
 tacticalgear
 TacticalIssueCat
 TacticalUrbanism
