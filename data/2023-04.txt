@@ -26,6 +26,7 @@
 2meirl42meirl4meirl
 2meirl4meirl
 2nordic4you
+2panelgarfield
 2philippines4u
 2visegrad4you
 2westerneurope4u
@@ -1044,10 +1045,12 @@ celestegame
 celestememes
 CelestialBodies
 Celiac
+CelineFarach
 cellbits
 CelticFC
 CemeteryPorn
 CentralChurch
+centrist
 centuryhomes
 Ceramics
 CFB
@@ -1515,6 +1518,7 @@ dechonkers
 DecidingToBeBetter
 declutter
 dedreviil
+DeepFuckingValue
 DeepIntoYouTube
 DeepRockGalactic
 DeepSpaceNine
@@ -1838,6 +1842,7 @@ engineering
 engineeringmemes
 EngineeringPorn
 EngineeringStudents
+EnglishLearning
 engrish
 ENLIGHTENEDCENTRISM
 enlistedgame
@@ -1847,6 +1852,7 @@ EnoughLibertarianSpam
 EnoughMuskSpam
 EnoughPCMSpam
 enoughpetersonspam
+ensemblestars
 entertainment
 EnterTheGungeon
 EntitledBitch
@@ -2036,6 +2042,7 @@ Fischl
 Fit_babes
 FitAndNatural
 fitness30plus
+FitToFat
 fivenightsatfreddys
 fivethirtyeight
 fixedbytheduet
@@ -2122,6 +2129,7 @@ foxes
 foxholegame
 fpv
 fragilecommunism
+FragileMaleRedditor
 FragileWhiteRedditor
 fragrance
 FragReddit
@@ -2173,6 +2181,7 @@ FuckingOuch
 fucklawns
 FuckNestle
 FuckPierre
+fuckpongkrell
 Fuckthealtright
 fucktheccp
 fuckwasps
@@ -2905,6 +2914,7 @@ IronWarriors
 IrrationalMadness
 ISKbets
 islam
+IslamicHistoryMeme
 ISO8601
 isopods
 Israel
@@ -3488,6 +3498,7 @@ Marriage
 martialarts
 MartialMemes
 Marvel
+MarvelCrisisProtocol
 MarvelLegends
 marvelmemes
 MarvelSnap
@@ -3595,6 +3606,7 @@ MetalMemes
 metalworking
 metro
 Metroid
+metroidvania
 mew_irl
 mexico
 MexicoCity
@@ -3725,6 +3737,7 @@ Moonmoon
 MoonPissing
 morbidlybeautiful
 MorbidWaysToDie
+Morbius
 Mordhau
 mordheim
 moreplatesmoredates
@@ -3937,6 +3950,7 @@ nhl
 Ni_Bondha
 Nicegirls
 niceguys
+Nichijou
 NicolaCavanis
 nier
 NierAutomataGallery
@@ -4048,12 +4062,14 @@ NYGiants
 nyjets
 NYKnicks
 NYYankees
+O_PACOTE
 OaklandAthletics
 obeyme
 oblivion
 ObsidianMD
 ObviousPlant
 OCD
+OCDmemes
 oceans
 OceansAreFuckingLit
 octolism
@@ -4125,6 +4141,7 @@ oliviawilde
 olympia
 olympics
 Omaha
+OmegaWatches
 OmnibusCollectors
 OMORI
 onednd
@@ -4693,6 +4710,7 @@ Reno
 rentnerzeigenaufdinge
 Repaintings
 repbudgetsneakers
+replications
 Repsneakers
 reptiles
 RepTime
@@ -4813,6 +4831,7 @@ Salamanders40k
 sales
 SalsaSnobs
 saltierthancrait
+saltierthankrayt
 SaltLakeCity
 Samadhi_Zendejas
 SamONellaAcademy
@@ -5535,6 +5554,7 @@ TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
 TheMandemNP
+TheMemersClub
 themountaingoats
 themummymemes
 thenetherlands
@@ -5777,6 +5797,7 @@ Twokinds
 TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
+TwoXADHD
 TwoXChromosomes
 TwoXIndia
 twrmod
@@ -5828,6 +5849,7 @@ UnearthedArcana
 UnethicalLifeProTips
 Unexpected
 unexpectedcommunism
+unexpectedfactorial
 unexpectedfuturama
 UnexpectedJoJo
 UnexpectedLetterkenny
