@@ -938,6 +938,7 @@ carscirclejerk
 CarsIndia
 Cartalk
 CarTalkUK
+CartiCulture
 CartoonMoment
 cartoons
 casio
@@ -1358,6 +1359,7 @@ cursedcomments
 cursedcursedcomments
 Cursedgunimages
 CursedGuns
+cursedimages
 cursedmemes
 CursedMinecraft
 cursedvideos
@@ -1862,6 +1864,7 @@ EverythingScience
 evilautism
 evilbuildings
 EvilDeadTheGame
+excel
 existentialcrisiscat
 exjw
 exmormon
@@ -2432,6 +2435,7 @@ hamsters
 handbags
 HandfulOfKitten
 handholding
+handmade
 HandOfMemes
 handtools
 Handwriting
@@ -2863,6 +2867,7 @@ ItsukiClassroom
 IttoMains
 ITZY
 IVE
+iwanttoapologize
 iwoulddiefornoodle
 Izlam
 IzuOcha
@@ -2917,6 +2922,7 @@ jessicaalba
 Jewdank
 jewelrymaking
 Jewish
+JIDSV
 jigokuraku
 jisoo
 JoannaNewsom
@@ -3014,6 +3020,7 @@ KeqingMains
 Kerala
 KerbalSpaceProgram
 keto
+ketorecipes
 kettlebell
 kfeets
 KGATLW
@@ -3165,6 +3172,7 @@ LegalAdviceUK
 legalcatadvice
 legendofdragoon
 legendofkorra
+LegendsMemes
 LegendsOfRuneterra
 lego
 legocastles
@@ -3449,6 +3457,7 @@ me_irl
 me_irlgbt
 MealPrepSunday
 mealtimevideos
+meat
 meatcrayon
 MechanicAdvice
 mechanical_gifs
@@ -3471,6 +3480,7 @@ Megumin
 meirl
 MelanieMartinez
 melbourne
+MelissaBenoist
 meltedguineapigs
 meme
 MemeEconomy
@@ -3932,6 +3942,7 @@ nowmycat
 NPR
 nrl
 nuclear
+NuclearRevenge
 NUFC
 nukedmemes
 nursing
@@ -4061,6 +4072,7 @@ orangecounty
 orangetheory
 orchids
 oregon
+OrganizationPorn
 origami
 orioles
 orks
@@ -4350,6 +4362,7 @@ popheadscirclejerk
 popping
 poppunkers
 Popular_Science_Ru
+PornIsMisogyny
 porramauricio
 Porsche
 Portal
@@ -5364,6 +5377,7 @@ TheBullWins
 thecampaigntrail
 thecatdimension
 TheCatTrapIsWorking
+thechallengemtv
 TheClickOwO
 TheCloneWars
 thedavidpakmanshow
@@ -5491,6 +5505,7 @@ tippytaps
 Tiresaretheenemy
 titanfall
 titanic
+titleporn
 tjournal_refugees
 TLCsisterwives
 TLCUnexpected
@@ -5768,6 +5783,7 @@ veganfitness
 VeganFoodPorn
 veganrecipes
 vegas
+vegaslocals
 vegetablegardening
 vegetarian
 velvethippos
