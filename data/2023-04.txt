@@ -444,6 +444,7 @@ AtlantaUnited
 atomicheart
 attackeyes
 attackontitan
+AubreyPlaza
 auckland
 Audi
 audiobooks
@@ -707,6 +708,7 @@ BlackCountryNewRoad
 blackdesertonline
 BlackHair
 Blacklabs
+blacklagoon
 BlackLivesMatter
 blackmagicfuckery
 blackmirror
@@ -937,6 +939,7 @@ canadaguns
 canadahousing
 canadaleft
 CanadianForces
+CanadianInvestor
 canberra
 cancunparducsajok
 CaneCorso
@@ -3109,6 +3112,7 @@ kansascity
 KansasCityChiefs
 Kanye
 KaoruHanaWaRintoSaku
+karate
 karengillan
 KarmaRoulette
 KatanaZero
@@ -3782,6 +3786,7 @@ MoonPissing
 morbidlybeautiful
 MorbidWaysToDie
 Morbius
+MordekaiserMains
 Mordhau
 mordheim
 moreplatesmoredates
@@ -4663,6 +4668,7 @@ Radiology
 ragdolls
 rage
 RaidenMains
+raiders
 raidsecrets
 RaidShadowLegends
 railroading
@@ -5297,6 +5303,7 @@ starterpacks
 StartledCats
 startrekgifs
 startrekmemes
+startrekpicard
 StarTrekStarships
 StarVStheForcesofEvil
 StarWars
