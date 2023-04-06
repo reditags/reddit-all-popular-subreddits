@@ -88,6 +88,7 @@ AccidentalRenaissance
 accidentalrockwell
 AccidentalSlapStick
 AccidentalWesAnderson
+ACCompetizione
 Accounting
 AccuratelyRateMe
 AceAttorney
@@ -183,6 +184,7 @@ alternativeart
 alternativefashion
 AlternativeHistory
 AlzheimersGroup
+AmandaHolden
 amateurradio
 AmateurRoomPorn
 amazingmemes
@@ -272,6 +274,7 @@ AnimeMeme
 animememes
 Animemes
 AnimeMirchi
+animenews
 animenocontext
 animepiracy
 AnimeSketch
@@ -392,6 +395,7 @@ AskMechanics
 AskMen
 AskMiddleEast
 AskNYC
+AskOldPeople
 AskOuija
 AskReddit
 askscience
@@ -464,6 +468,7 @@ Autoflowers
 Autos
 Autumn
 AutumnPorn
+avali
 Avatar
 AvatarMemes
 avatartrading
@@ -594,6 +599,7 @@ BeautifulFemales
 BeautifulIndianWomen
 BeautyGuruChatter
 beeandpuppycat
+beebutts
 Beekeeping
 BeelcitosMemes
 beer
@@ -2172,6 +2178,7 @@ FullmetalAlchemist
 fullpops
 FullScorpion
 FullShrimp
+Fumofumo
 functionalprint
 FundieSnarkUncensored
 funhaus
@@ -2249,6 +2256,7 @@ GaySoundsShitposts
 GCSE
 geek
 geekygirls
+gegenewtt
 gekte
 genderfluid_irl
 genestealercult
@@ -2368,6 +2376,7 @@ GothFashion
 GothGirls
 GothStyle
 GR86
+GradSchool
 GradualChaos
 Graffiti
 Granblue_en
@@ -2425,6 +2434,7 @@ Gundam
 GundamEvolution
 gundeals
 Gunfighter_Ballads
+Gunime
 Gunners
 Gunpla
 gunpolitics
@@ -2766,6 +2776,7 @@ ImaginaryWeather
 ImaginaryWesteros
 ImaginaryWitcher
 ImaginaryWitches
+ImaginaryWizards
 ImaginaryWorldEaters
 ImaginaryWorlds
 ImDontai
@@ -2783,6 +2794,7 @@ IncreasinglyVerbose
 IncredibleIndia
 IncrediblesMemes
 india
+india_tourism
 IndiaCricket
 indiadiscussion
 indiameme
@@ -2938,6 +2950,7 @@ jayhawks
 Jazz
 Jcole
 JDM
+JeanMains
 jedicouncilofelrond
 JEENEETards
 Jeep
@@ -3815,6 +3828,7 @@ NataliaDyer
 NatalieDormer
 natalieportman
 nathanforyou
+nathanwpyle
 NationalPark
 NativePlantGardening
 NATOWave
@@ -3914,6 +3928,7 @@ nietdespeld
 NightInTheWoods
 NightVision
 Nightwing
+nightwish
 nihilism
 Nijisanji
 NikkeMobile
@@ -4292,6 +4307,7 @@ PhantomForces
 pharmacy
 PhasmophobiaGame
 phclassifieds
+PHCreditCards
 PhD
 philadelphia
 Philippines
@@ -4499,6 +4515,7 @@ ps2
 PS3
 PS4
 PS5
+PsilocybinMushrooms
 PSVR
 psych
 psychology
@@ -4626,6 +4643,7 @@ redditfusion
 RedditLaqueristas
 redditsings
 RedDwarf
+RedFloodMod
 RedheadedGoddesses
 RedHotChiliPeppers
 RedLetterMedia
@@ -5085,6 +5103,7 @@ Soosh
 soulcrushingjuice
 SoulKnight
 SoundersFC
+SoundsLikeMusic
 soup
 sousvide
 southafrica
@@ -5122,6 +5141,7 @@ Spiderman
 SpidermanPS4
 spiders
 Spielstopp
+Spiritfarer
 Splendida
 Splintercell
 sploot
@@ -5693,6 +5713,7 @@ trucksim
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
+TrueDetective
 truegaming
 truerateme
 TrueReddit
@@ -6220,6 +6241,7 @@ yuna
 yunyun
 yuumimains
 YuYuHakusho
+ZaidZIZ
 ZanClan
 ZBrush
 zelda
@@ -6227,6 +6249,7 @@ ZeldaBotW
 ZeldaIsCute
 ZeLink
 Zendaya
+ZephyrusG14
 Zerkaa
 ZeroWaste
 ZhongliMains
