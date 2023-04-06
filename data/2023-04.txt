@@ -1127,6 +1127,7 @@ CityPorn
 civ
 civ5
 civic
+civilengineering
 CivVI
 CK3AGOT
 ClashOfClans
@@ -1970,6 +1971,7 @@ Ferrari
 ferrets
 fffffffuuuuuuuuuuuu
 FFVIIRemake
+ffxi
 ffxiv
 FFXIVGlamours
 FFXV
@@ -2108,6 +2110,7 @@ Frasier
 FRC
 FreckledGirls
 frederickmd
+freebies
 FreeCompliments
 freefolk
 freefromwork
@@ -2263,6 +2266,7 @@ germany
 GeschichtsMaimais
 getdisciplined
 GetMotivated
+GetStudying
 GettingShredded
 GFLNeuralCloud
 ghettowhitegirls
@@ -2296,6 +2300,7 @@ Gittertiere
 givemeinteligens
 glasgow
 glitch_art
+Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
 Glocks
@@ -5017,6 +5022,7 @@ SnapChad
 Sneks
 snes
 snowboarding
+SnowFall
 snowleopards
 snowrunner
 SNSD
@@ -5288,6 +5294,7 @@ TacticalUrbanism
 tahoe
 Takagi_san
 TakaMori
+TalesFromDF
 TalesFromRetail
 talesfromtechsupport
 TalesFromTheFrontDesk
@@ -5516,6 +5523,7 @@ thugeshh
 thumbcats
 Thunder
 ThunderThots
+tianguancifu
 Ticos
 tiedye
 Tierzoo
