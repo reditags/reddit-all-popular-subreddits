@@ -463,6 +463,7 @@ AustralianPolitics
 AustralianShepherd
 australianwildlife
 Austria
+austriahungary
 autism
 Autism_Parenting
 AutismInWomen
@@ -1287,6 +1288,7 @@ CoolGadgetsTube
 coolguides
 coonhounds
 copypasta
+coral_sharon
 corgi
 cork
 Cornwall
@@ -1760,6 +1762,7 @@ drums
 drumstick
 drunk
 drunkencookery
+DSPDiscussion5
 dualipa
 Dualsport
 dubai
@@ -2290,7 +2293,9 @@ gaymers
 GayRateMe
 GaySoundsShitposts
 GCSE
+geckos
 geek
+GeekyCrochet
 geekygirls
 gegenewtt
 gekte
@@ -3778,6 +3783,7 @@ Morrowind
 MortalKombat
 Mosses
 MostBeautiful
+moths
 motivation
 motogp
 motorboat
@@ -4361,6 +4367,7 @@ PersonalFinanceNZ
 perth
 pesmobile
 PetAfterVet
+PeterExplainsTheJoke
 Petioles
 PetiteFashionAdvice
 PetiteFitness
@@ -4548,6 +4555,7 @@ PrequelMemes
 PresidentialRaceMemes
 Presidents
 PrettyGirls
+PrettyGirlsUglyFaces
 prettylights
 PrettyLittleLiars
 PrettyOlderWomen
@@ -5804,6 +5812,7 @@ TruckerCats
 Truckers
 trucksim
 TrueAnon
+truechildfree
 TrueCrime
 TrueCrimeDiscussion
 TrueDetective
@@ -5865,6 +5874,7 @@ UCONN
 UCSD
 udub
 ufc
+ufl
 UFOs
 uh_oh_spaghettios
 UIUC
