@@ -104,6 +104,7 @@ ACPocketCamp
 ACQR
 ActionFigures
 ActivationSound
+ActiveMeasures
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
@@ -3204,6 +3205,7 @@ knolling
 KnowledgeFight
 Knoxville
 KobeniHigashiyama
+KoboldLegion
 Kochen
 kof
 Kokomi_Mains
@@ -4222,6 +4224,7 @@ OMORI
 onednd
 onejob
 onejoke
+oneliners
 OneOrangeBraincell
 OnePiece
 OnePieceLiveAction
@@ -5560,6 +5563,7 @@ Tennessee
 Tennesseetitans
 tennis
 TenseiSlime
+tensionporn
 TerminallyStupid
 terracehouse
 TerrainBuilding
@@ -6261,6 +6265,7 @@ WinStupidPrizes
 winterporn
 wirklichgutefrage
 wisconsin
+WisconsinBadgers
 Wiseposting
 Witch
 witcher
