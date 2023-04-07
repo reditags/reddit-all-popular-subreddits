@@ -667,6 +667,7 @@ BetterEveryLoop
 beyonce
 bi_irl
 BiancaBelair
+bicycletouring
 bicycling
 BicyclingCirclejerk
 bigbangtheory
@@ -1156,6 +1157,7 @@ Chonkers
 ChoosingBeggars
 ChoujinX
 chrissimpsonsartist
+ChristenHarper
 Christian
 Christianity
 christianmemes
@@ -1926,6 +1928,7 @@ EntitledPeople
 Entomology
 Entrepreneur
 entwives
+eos
 EpicGamesPC
 EpicSeven
 equelMemes
@@ -2225,6 +2228,7 @@ Frenchbulldogs
 Frenchhistorymemes
 FrenchMemes
 FreshBeans
+FreyaAllan
 FridayNightFunkin
 friendlyjordies
 friends_tv_show
@@ -2313,6 +2317,7 @@ gamindustri
 gaming
 Gamingcirclejerk
 GamingDetails
+GamingLaptops
 GamingLeaksAndRumours
 gamingnews
 gamingpc
@@ -2378,6 +2383,7 @@ GetMotivated
 GetStudying
 GettingShredded
 GFLNeuralCloud
+GFRIEND
 ghettoglamourshots
 ghettowhitegirls
 ghibli
@@ -2636,6 +2642,7 @@ heroes3
 heroesofthestorm
 HeroForgeMinis
 herpetology
+hessich_iel
 hewillbebaked
 heyUK
 HFY
@@ -2645,6 +2652,7 @@ hiddenrooms
 HiFiRush
 HighHeels
 HighQualityGifs
+Highrepublic
 HighStrangeness
 Higurashinonakakoroni
 HikaruNakamura
@@ -2883,6 +2891,7 @@ ImaginaryWitches
 ImaginaryWizards
 ImaginaryWorldEaters
 ImaginaryWorlds
+ImagineThisView
 ImDontai
 ImFinnaGoToHell
 ImmutableX
@@ -3332,6 +3341,7 @@ learntodraw
 LearnUselessTalents
 Leathercraft
 leaves
+LeBagne
 lebowski
 ledzeppelin
 LeedsUnited
@@ -3372,6 +3382,7 @@ Letterkenny
 lewishamilton
 lewronggeneration
 lexapro
+lexington
 Lexirivera
 Lexus
 lgballt
@@ -5282,6 +5293,7 @@ SocialistRA
 socialskills
 SocietyofHiddenPaint
 softwaregore
+solana
 solarpunk
 soloboardgaming
 sololeveling
@@ -5394,9 +5406,11 @@ startrekpicard
 StarTrekStarships
 StarVStheForcesofEvil
 StarWars
+StarWarsAhsoka
 StarWarsAndor
 StarWarsBattlefront
 starwarsblackseries
+starwarscanon
 StarWarsCantina
 StarWarsEU
 StarWarsKenobi
@@ -5815,6 +5829,7 @@ tiodopave
 tippytaps
 Tiresaretheenemy
 titanfall
+Titanfall_2_
 titanic
 titleporn
 tjournal_refugees
@@ -5834,6 +5849,7 @@ tokkiemarktplaats
 TokyoRevengers
 tolkienfans
 tollywood
+TomAndJerryMemes
 TombRaider
 tommyinnit
 TommyKay
@@ -6320,6 +6336,7 @@ wildlifephotography
 willwood
 Wilmington
 windows
+Windows10
 Windows11
 wine
 Wings
