@@ -206,6 +206,7 @@ AMCsAList
 amcstock
 AMCSTOCKS
 Amd
+AmerExit
 AmericaBad
 americandad
 AmericanFascism2020
@@ -935,6 +936,7 @@ CabinPorn
 cableporn
 cactus
 cade
+CafeRacers
 CAguns
 cakedecorating
 Cakes
@@ -1573,6 +1575,7 @@ deathguard40k
 deathnote
 DeathrattlePorn
 DeathStranding
+deathwatch40k
 DebtStrike
 dechonkers
 DecidingToBeBetter
@@ -1682,6 +1685,7 @@ discord_irl
 discordapp
 Discordmemes
 discordVideos
+DiscoverEarth
 discworld
 disenchantment
 dishonored
@@ -2093,6 +2097,7 @@ Filmmakers
 FinalFantasy
 FinalFantasyVII
 FinalFantasyVIII
+finalfantasyx
 FinalSpace
 finance
 FinancialCareers
@@ -2342,6 +2347,7 @@ gastricsleeve
 gatekeeping
 GatekeepingYuri
 gatesopencomeonin
+Gatineau
 GawrGura
 gay_irl
 gaybros
@@ -2878,6 +2884,7 @@ ImaginaryMindscapes
 ImaginaryMonsterGirls
 ImaginaryMonsters
 ImaginaryMythology
+ImaginaryNecronomicon
 ImaginaryNobles
 ImaginaryPathways
 imaginarypets
@@ -3539,6 +3546,7 @@ lynxpointsiamese
 MAAU
 mac
 macdemarco
+MachE
 MachikadoMazoku
 MachineLearning
 MachinePorn
@@ -4273,6 +4281,7 @@ OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
 OldSchoolRidiculous
+OldSkaters
 OldWorldBlues
 oliver
 oliviadunne
@@ -5022,6 +5031,7 @@ Sandman
 sanepolitics
 sanfrancisco
 SanJose
+SanJoseSharks
 sanpedrocactus
 sanrio
 santacruz
@@ -5223,6 +5233,7 @@ siberianhusky
 sidegirlies
 Sidemen
 SifuGame
+SigmaCinema
 Sigmarxism
 signalis
 SigSauer
@@ -5432,6 +5443,7 @@ StarWarsBattlefront
 starwarsblackseries
 starwarscanon
 StarWarsCantina
+starwarscollecting
 StarWarsEU
 StarWarsKenobi
 StarWarsleftymemes
@@ -5959,6 +5971,7 @@ Trishyland3
 TrishylandWifeys
 Triumph
 TrollCoping
+Tronix
 Trophies
 TrophyWiki
 trouduction
