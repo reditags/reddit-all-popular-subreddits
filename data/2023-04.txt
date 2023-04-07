@@ -384,6 +384,7 @@ ArsenalFC
 ArsenalWFC
 ArsivUnutmaz
 Art
+ArtCrit
 ArtDeco
 ArtefactPorn
 artificial
@@ -1059,6 +1060,7 @@ Catswhoyell
 CatsWithDogs
 Catswithjobs
 CatTaps
+CatWasHere
 cavaliers
 Cawwsplay
 CBSE
@@ -4234,6 +4236,7 @@ olympics
 Omaha
 OmegaWatches
 OmnibusCollectors
+OmniscientReader
 OMORI
 onednd
 onejob
@@ -4472,6 +4475,7 @@ piebaldcats
 piercing
 PietSmiet
 pigeon
+Pigifs
 Pikabu
 Pikamee
 Pikmin
