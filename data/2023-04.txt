@@ -109,6 +109,7 @@ ActiveMeasures
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
+actuary
 AdamDriverCats
 ADCMains
 AddisonRae
@@ -1269,6 +1270,7 @@ ComedyHell
 comedyhomicide
 comedynecromancy
 ComedyNecrophilia
+comicbookcollecting
 comicbookmovies
 comicbooks
 comics
@@ -1649,6 +1651,7 @@ devinbrugman
 Dexter
 dezwo
 DHHMemes
+DHMIS
 diabetes_t1
 Diablo
 diablo2
@@ -1788,6 +1791,7 @@ DreamlightValley
 Dreams
 dreamsmp
 DreamWasTaken2
+drehscheibe
 DrewDurnil
 DrewGooden
 Drifting
@@ -2453,6 +2457,7 @@ GoldenSun
 golf
 Golf_R
 GolfGTI
+Golfwang
 GoNets
 GoodAssSub
 goodboomerhumor
@@ -3098,6 +3103,7 @@ jewelrymaking
 Jewish
 JIDSV
 jigokuraku
+Jigsawpuzzles
 jihyo
 jisoo
 JoannaNewsom
@@ -3273,6 +3279,7 @@ krita
 kroger
 ksi
 KSPMemes
+kucoin
 KujouSaraMains
 KukiShinobuMains
 Kurisutina
@@ -3966,6 +3973,7 @@ namenerds
 namethatcar
 NamFlashbacks
 NanaAnime
+NanashiMumei
 NanatsunoTaizai
 nancydrew
 NANIKPosting
@@ -4278,6 +4286,7 @@ OmegaWatches
 OmnibusCollectors
 OmniscientReader
 OMORI
+onebag
 onednd
 onejob
 onejoke
@@ -4436,6 +4445,7 @@ Pedro_Pascal
 PeepingPooch
 peloton
 pelotonmemes
+penguin
 penguins
 PenmanshipPorn
 Pennsylvania
@@ -5147,6 +5157,7 @@ shiba
 SHIBArmy
 shield
 shieldbro
+ShieldHero
 Shihtzu
 SHINee
 ShingekiNoKyojin
@@ -5472,6 +5483,7 @@ StrangerThings
 stray
 straykids
 streetart
+streeteats
 StreetFighter
 StreetMartialArts
 streetphotography
@@ -5535,6 +5547,7 @@ survivinginfidelity
 survivor
 sushi
 suspiciouslyspecific
+suspiciousquotes
 sustainability
 svenskpolitik
 Sverige
@@ -6087,7 +6100,9 @@ unwholesomememes
 uofm
 upcycling
 UpliftingNews
+upstate_new_york
 UpvoteBecauseButt
+urbandesign
 urbanexploration
 UrbanHell
 urbanplanning
@@ -6330,6 +6345,7 @@ wholesomegreentext
 wholesomejojo
 wholesomememes
 wholesomemes
+WholesomeSliceOfLife
 whothefuckup
 WhyWereTheyFilming
 WhyWomenLiveLonger
@@ -6402,6 +6418,7 @@ WorldWar2
 WormMemes
 wortwitzkasse
 WoT
+WouldYouRather
 wow
 wowthanksimcured
 Wrangler
