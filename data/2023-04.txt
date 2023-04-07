@@ -557,6 +557,7 @@ BadMensAnatomy
 badMovies
 BadMtgCombos
 BadMUAs
+badroommates
 badtaxidermy
 badUIbattles
 badwomensanatomy
@@ -996,6 +997,7 @@ carporn
 CarryMinati
 CarsAustralia
 carscirclejerk
+carshitposting
 CarsIndia
 Cartalk
 CarTalkUK
@@ -1576,6 +1578,7 @@ DeadSpace
 deathbattle
 DeathBattleMatchups
 DeathByMillennial
+Deathcore
 deathgrips
 deathguard40k
 deathnote
@@ -3132,6 +3135,7 @@ jeuxvideo
 Jewdank
 jewelrymaking
 Jewish
+JhinMains
 JIDSV
 jigokuraku
 Jigsawpuzzles
@@ -3358,6 +3362,7 @@ LatinoPeopleTwitter
 latterdaysaints
 latvia
 LaughJokes
+LauraMarano
 LaurenCohan
 law
 lawncare
@@ -4113,6 +4118,7 @@ newyorkcity
 NewYorkIslanders
 NewYorkMets
 newzealand
+NewZealandWildlife
 nextfuckinglevel
 NFA
 NFCEastMemeWar
@@ -5985,6 +5991,7 @@ transguns
 transit
 transitiongoals
 TransLater
+translator
 TransMasc
 Transmatfiring
 Transmogrification
@@ -6004,6 +6011,7 @@ tretinoin
 triangle
 triathlon
 Trigun
+TrillionaireMindsPod
 TripodCats
 trippinthroughtime
 trippy
