@@ -77,6 +77,7 @@ absoluteunit
 AbsoluteUnits
 AbsoluteWeapons
 AbstractArt
+Absurdism
 ac_newhorizons
 ACAB
 academia
@@ -155,6 +156,7 @@ Aikuros
 aircrashinvestigation
 airplaneears
 airpods
+AirRage
 airsoft
 airsoftcirclejerk
 AITAH
@@ -1546,6 +1548,7 @@ deadmau5
 deadmeatjames
 DeadSpace
 deathbattle
+DeathBattleMatchups
 DeathByMillennial
 deathgrips
 deathguard40k
@@ -5590,6 +5593,7 @@ TerrifyingAsFuck
 teslainvestorsclub
 TeslaLounge
 TeslaModel3
+TeslaModelY
 teslamotors
 Testosterone
 texas
@@ -5726,6 +5730,7 @@ ThingsCutInHalfPorn
 thingsforants
 thinkpad
 ThirdLifeSMP
+ThirdSentenceHappy
 thirdsentenceworse
 Thisismylifemeow
 thisismylifenow
@@ -5911,6 +5916,7 @@ TVDetails
 TVGRYpl
 TVTooHigh
 twentyonepilots
+TWEWY
 twicemedia
 twicememes
 twilight
