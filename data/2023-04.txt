@@ -2025,6 +2025,7 @@ eurovision
 evangelion
 evangelionmemes
 Eve
+EvelynnMains
 Everton
 EverythingFoxes
 EverythingScience
@@ -3104,6 +3105,7 @@ ISO8601
 isopods
 Israel
 IsraelCrimes
+israelexposed
 IsraeliBeauty
 IsTodayFridayThe13th
 ITAGLIA
@@ -3322,6 +3324,7 @@ kings
 KingstonOntario
 Kirby
 kiszamolo
+Kitboga
 kitchener
 Kitler
 Kitten
@@ -3377,6 +3380,7 @@ KusanaliMains
 KUWTKsnark
 kybernetwork
 l4d2
+Labour
 LabourUK
 labrador
 LaBrantFamSnark
@@ -3817,6 +3821,7 @@ MensRights
 menwritingwomen
 MEOW_IRL
 meowsertrousers
+MephHeads
 mercedes_benz
 Meshuggah
 Metalcore
@@ -3962,6 +3967,7 @@ Monsterverse
 Montana
 MontereyBay
 MontyPythonMemes
+Moomins
 MoonKnight
 Moonmoon
 MoonPissing
@@ -4161,6 +4167,7 @@ NeverPauseAvatar
 nevertellmetheodds
 Newbalance
 newcastle
+NewcastleUponTyne
 NewDealAmerica
 newfoundland
 Newfoundlander
@@ -4786,6 +4793,7 @@ pozilei
 PragerUrine
 PraiseTheCameraMan
 precognition
+predaddit
 Predators
 PrehistoricMemes
 Prematurecelebration
@@ -6126,6 +6134,7 @@ truechildfree
 TrueCrime
 TrueCrimeDiscussion
 TrueDetective
+TrueFilm
 truegaming
 truerateme
 TrueReddit
@@ -6172,6 +6181,7 @@ TwoXIndia
 twrmod
 tyingherhairup
 tylerthecreator
+typography
 Tyranids
 tzuyu
 UBC
@@ -6374,6 +6384,7 @@ VRchat
 VRGaming
 VShojo
 vtolvr
+vultureculture
 VuvuzelaIPhone
 VyvanLe
 W2S
@@ -6417,6 +6428,7 @@ Warzone
 wasletztepreis
 wasletztestern
 watch_dogs
+watchcatsdieinside
 WatchDogsWoofInside
 Watches
 Watchexchange
@@ -6537,6 +6549,7 @@ wirklichgutefrage
 wisconsin
 WisconsinBadgers
 Wiseposting
+wismichu
 Witch
 witcher
 Witcher3
