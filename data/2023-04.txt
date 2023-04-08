@@ -138,6 +138,7 @@ aeiou
 aerospace
 Aespa
 aesthetic
+aestheticrain
 Aether_Mains
 AEWOfficial
 AFCNorthMemeWar
@@ -2211,6 +2212,7 @@ fnv
 fo4
 fo76
 fo76FilthyCasuals
+FocalorsMains_
 FolkPunk
 FondantHate
 food
@@ -3769,6 +3771,7 @@ Megaten
 Megumin
 meirl
 MelanieMartinez
+Melanime
 melbourne
 MelissaBenoist
 MelissaRauch
@@ -3888,6 +3891,7 @@ minnesotavikings
 mintmobile
 miraculousladybug
 MirandaCosgrove
+MirandaKerr
 Mirrorsforsale
 miscatculations
 misleadingthumbnails
@@ -4117,6 +4121,7 @@ neekolul
 NEET
 NelliesNest
 neoliberal
+NeonGenesisEvangelion
 neopets
 neovim
 Nepal
@@ -5419,6 +5424,7 @@ SocialistGaming
 SocialistRA
 socialskills
 SocietyofHiddenPaint
+SofiaVergara
 softwaregore
 solana
 solarpunk
@@ -6190,6 +6196,7 @@ UnearthedArcana
 UnethicalLifeProTips
 Unexpected
 unexpectedcommunism
+UnexpectedCommunity
 unexpectedfactorial
 unexpectedfuturama
 UnexpectedJoJo
