@@ -6,6 +6,7 @@
 100Kanojo
 100thieves
 100yearsago
+10yearsatleast
 1200isfineIGUESSugh
 1200isjerky
 13or30
@@ -6403,6 +6404,7 @@ VinlandSaga
 vintage
 vintageads
 VintageApple
+vintageaudio
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
