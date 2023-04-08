@@ -225,6 +225,7 @@ amiibo
 AmITheAngel
 AmItheButtface
 amiugly
+amIuglyBrutallyHonest
 amogus
 Amoledbackgrounds
 AmongUs
@@ -359,6 +360,7 @@ Aquascape
 AquaticAsFuck
 ar15
 arabfunny
+ARAM
 araragi
 arbeitsleben
 arcane
@@ -814,6 +816,7 @@ BONELAB
 bonnaroo
 BonsaiPorn
 booknooks
+BookOfBobaFett
 bookporn
 books
 bookshelf
@@ -1144,8 +1147,10 @@ chemicalreactiongifs
 chemistry
 chemistrymemes
 Chennai
+cherylscott
 chessbeginners
 chessmemes
+ChevyTrucks
 CHIBears
 chicagobulls
 chicagofood
@@ -1559,6 +1564,7 @@ datingoverforty
 davidgoggins
 davidlynch
 DaysGone
+DaysofOurLives
 dayton
 Daytrading
 dayz
@@ -1726,6 +1732,7 @@ DivorcedBirds
 DiWHY
 DiWHYNOT
 DIY
+diyelectronics
 DIYGelNails
 DIYUK
 DLAH
@@ -2752,6 +2759,7 @@ homegym
 HomeImprovement
 HomeKit
 homelab
+homeless
 HomeNetworking
 HomestarRunner
 homestead
@@ -3076,6 +3084,7 @@ ItaliaMeme
 ItalianGreyhounds
 italy
 Itasha
+ITCareerQuestions
 ITcrowd
 ItemShop
 Iteration110Cradle
@@ -3960,6 +3969,7 @@ MovieMistakes
 MoviePosterPorn
 movies
 Moviesinthemaking
+MrBeast
 mrlovenstein
 MrRobot
 MrTechnodad
@@ -4590,6 +4600,7 @@ piano
 pic
 Picard
 PickleFinancial
+picrew
 pics
 PicsOfUnusualBirds
 piebaldcats
@@ -4635,6 +4646,7 @@ plantclinic
 PlantedTank
 PlantGoths
 plants
+plantsandpots
 PlantsVSZombies
 playark
 playboicarti
@@ -6116,6 +6128,7 @@ ucf
 UCI
 ucla
 UCONN
+UCSC
 UCSD
 udub
 ufc
