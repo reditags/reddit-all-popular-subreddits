@@ -1082,6 +1082,7 @@ CatsStandingUp
 catsvstechnology
 CatsWhoChirp
 CatsWhoConverse
+catswhocrochet
 CatsWhoSmoke
 CatsWhoSqueak
 catswhotrill
@@ -5255,6 +5256,7 @@ shield
 shieldbro
 ShieldHero
 Shihtzu
+ShikimoriIsntJustCute
 SHINee
 ShingekiNoKyojin
 Shining_Nikki
@@ -6337,6 +6339,7 @@ VyvanLe
 W2S
 WA_guns
 WackyTicTacs
+WAGuns
 Wales
 WalgreensStores
 walkablecities
@@ -6555,6 +6558,7 @@ WRX
 WRXSTi
 WTF
 WTFaucet
+WTFgaragesale
 wtfstockphotos
 WTFwish
 wunkus
