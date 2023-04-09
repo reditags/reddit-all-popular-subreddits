@@ -304,6 +304,7 @@ AnimeFunny
 animegifs
 AnimeHoodies
 animehotbeverages
+AnimeItaly
 animemaids
 AnimeMeme
 animememes
@@ -311,6 +312,7 @@ Animemes
 AnimeMirchi
 animenews
 animenocontext
+AnimeNoises
 animepiracy
 AnimeSketch
 AnimeTomboys
@@ -589,6 +591,7 @@ badUIbattles
 badwomensanatomy
 BaeSuzy
 BaizhuMains
+bakeoff
 Baking
 bald
 baldursgate
@@ -1051,6 +1054,7 @@ CasualConversation
 CasualIreland
 casualknitting
 casualnintendo
+CasualPT
 CasualRO
 CasualUK
 cat
@@ -1430,6 +1434,7 @@ CrackWatch
 craftsnark
 CrappyDesign
 crappyoffbrands
+crashbandicoot
 crazyexgirlfriend
 CrazyFuckingVideos
 CrazyHuman
@@ -2993,6 +2998,7 @@ ImaginaryColorscapes
 imaginarycosmere
 ImaginaryCybernetics
 ImaginaryCyberpunk
+ImaginaryDarkSouls
 ImaginaryDragons
 ImaginaryDwellings
 imaginaryelections
@@ -4274,6 +4280,7 @@ NewOrleans
 NewParents
 NewPatriotism
 news
+NewsAroundYou
 NewSkaters
 NewsOfTheStupid
 NewsWithJingjing
@@ -5645,6 +5652,7 @@ spotify
 spotted
 SpottedonRightmove
 spqrposting
+spreadsmile
 spreadytoes
 springfieldMO
 SprocketTankDesign
@@ -6146,6 +6154,7 @@ Toefeathers
 ToiletPaperUSA
 tokkiefeesboek
 tokkiemarktplaats
+TokyoGhoul
 TokyoRevengers
 tolkienfans
 tollywood
