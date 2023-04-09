@@ -3387,6 +3387,7 @@ Kitboga
 kitchener
 Kitler
 Kitten
+KittenMittens
 kittens
 Kitting
 kittyhasaquestion
@@ -3641,6 +3642,7 @@ LOONA
 LooneyTunesLogic
 loopdaddy
 loopringorg
+lorde
 LordofTheMysteries
 lordoftherings
 loreofleague
@@ -5174,6 +5176,7 @@ RPClipsGTA
 RPDR_UK
 RPDRDRAMA
 rpg
+rpg_gamers
 rpghorrorstories
 rs2vietnam
 rsloshredit
