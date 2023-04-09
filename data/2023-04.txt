@@ -135,6 +135,7 @@ Adulting
 adultingph
 adultswim
 ADVChina
+adventurecats
 adventuretime
 Advice
 AdviceAnimals
@@ -406,6 +407,7 @@ army
 aromantic
 aromanticasexual
 arresteddevelopment
+arrow
 Arrowheads
 ArsenalFC
 ArsenalWFC
@@ -1327,6 +1329,7 @@ comicbookmovies
 comicbooks
 comics
 comingout
+commandandconquer
 Commanders
 CommercialsIHate
 CommunismMemes
@@ -1351,6 +1354,7 @@ confusing_perspective
 confusingperspective
 CongratsLikeImFive
 Connecticut
+ConnorEatsPants
 ConselhosLegais
 Conservative
 ConservativeMemes
@@ -1656,6 +1660,7 @@ DeFranco
 deftones
 Degrassi
 Dehyamains
+Delaware
 delhi
 deliciouscompliance
 Delightfullychubby
@@ -2571,6 +2576,7 @@ goodboomerhumor
 GoodFakeTexts
 GoodGoodMemes
 goodmythicalmorning
+goodnews
 GoodPizzaGreatPizza
 goodyearwelt
 google
@@ -3140,6 +3146,7 @@ ironmouse
 ironscape
 IronWarriors
 IrrationalMadness
+Isekai
 IsItBullshit
 ISKbets
 islam
@@ -3432,6 +3439,7 @@ labrador
 LaBrantFamSnark
 labrats
 LAClippers
+ladiesinsuits
 ladiesofthemcu
 LadiesOfWrestling
 Ladybonersgonecuddly
@@ -3733,6 +3741,7 @@ MaliciousCompliance
 mallninjashit
 malluhorny
 malta
+Maltese
 Maltipoo
 MamaLane
 manchester
@@ -3875,6 +3884,7 @@ MEOW_IRL
 meowsertrousers
 MephHeads
 mercedes_benz
+MergeDragons
 MergeMansion
 Meshuggah
 Metalcore
@@ -4253,6 +4263,7 @@ NFCNorthMemeWar
 NFCWestMemeWar
 nflcirclejerk
 nfrealmusic
+NFT
 nhl
 Ni_Bondha
 Nicegirls
@@ -5413,6 +5424,7 @@ Shortsqueeze
 shouldercats
 ShovelKnight
 Showerthoughts
+Shrek
 shrimptank
 shrinkflation
 shrooms
@@ -5770,6 +5782,7 @@ sushi
 suspiciouslyspecific
 suspiciousquotes
 sustainability
+susu_jpg
 suzerain
 svenskpolitik
 Sverige
@@ -6460,6 +6473,7 @@ VoteDEM
 VRchat
 VRGaming
 VShojo
+vtm
 vtolvr
 vultureculture
 VuvuzelaIPhone
