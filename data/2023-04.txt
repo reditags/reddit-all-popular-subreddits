@@ -112,6 +112,7 @@ acnh
 acotar
 ACPocketCamp
 ACQR
+acrylicpainting
 ActionFigures
 ActivationSound
 ActiveMeasures
@@ -215,6 +216,7 @@ amateurradio
 AmateurRoomPorn
 AmatsukaUto
 amazingmemes
+AmazonFC
 amazonreviews
 ambbabies
 AmberMains
@@ -2152,6 +2154,7 @@ FanTheories
 FantomFoundation
 farcry
 farialimabets
+FarmersStealingTanks
 farming
 farmingsimulator
 FaruzanMains
@@ -3385,6 +3388,7 @@ KendrickLamar
 Kengan_Ashura
 KenM
 Kenshi
+kep1er
 KeqingMains
 Kerala
 KerbalSpaceProgram
@@ -5805,12 +5809,14 @@ submitted
 subnautica
 Subnautica_Below_Zero
 SubsIFellFor
+SubSimulatorGPT2
 SubSimulatorGPT2Meta
 SubsTakenLiterally
 Suburbanhell
 SubwayCreatures
 SuccessionTV
 suddenlybi
+suddenlycaralho
 SuddenlyCommunism
 SuddenlyCommunist
 SuddenlyLesbian
@@ -6280,6 +6286,7 @@ Tronix
 Trophies
 TrophyWiki
 trouduction
+troutfishing
 TruckerCats
 Truckers
 trucksim
