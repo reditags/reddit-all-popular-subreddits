@@ -655,6 +655,7 @@ BayleyBooty
 Bayonetta
 BBBY
 BBQ
+BeachCity
 beadsprites
 beagle
 BeAmazed
@@ -1928,6 +1929,7 @@ dualipa
 Dualsport
 dubai
 Dublin
+dubstep
 duck
 DuelLinks
 DuggarsSnark
@@ -2462,6 +2464,7 @@ GamePhysics
 gamernews
 gamersupps
 gamesEcultura
+GameStop
 GameTheorists
 gamindustri
 gaming
@@ -2622,6 +2625,7 @@ googlehome
 GooglePixel
 GoosetheBand
 gorillaz
+GoRVing
 GossipDK
 GossipGirl
 goth
@@ -5568,6 +5572,7 @@ Slimemolds
 slimerancher
 Slipknot
 SLO
+sloths
 Slovakia
 Slovenia
 slowcooking
