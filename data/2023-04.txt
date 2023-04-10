@@ -487,6 +487,7 @@ asushin
 ASX_Bets
 ATAAE
 ATBGE
+ATC
 AteistTurk
 AteTheOnion
 atheism
@@ -816,6 +817,7 @@ Blep
 Blessed_Images
 blessedimages
 Blink182
+BlockedAndReported
 BloodAngels
 bloomington
 blop
@@ -1293,6 +1295,7 @@ civilengineering
 CivVI
 CK3AGOT
 CKHeraldry
+Clamworks
 ClarksonsFarm
 ClashOfClans
 ClashRoyale
@@ -1839,6 +1842,7 @@ DIY
 diyelectronics
 DIYGelNails
 diynz
+diypedals
 DIYUK
 dkfinance
 DLAH
@@ -3481,6 +3485,7 @@ KingKrule
 KingOfTheHill
 kings
 KingstonOntario
+KiraraMains
 Kirby
 kiszamolo
 Kitboga
@@ -3622,6 +3627,7 @@ LeftTheBurnerOn
 LeftWingMaleAdvocates
 legal
 legaladvicecanada
+legaladviceofftopic
 LegalAdviceUK
 legalcatadvice
 legendofdragoon
@@ -4360,6 +4366,7 @@ Neverbrokeabone
 neverchangejapan
 NeverPauseAvatar
 nevertellmetheodds
+NevilleGoddard
 Newbalance
 newcastle
 NewcastleUponTyne
@@ -4874,6 +4881,7 @@ pinaytiktokhotties
 pinball
 pinkfloyd
 PinkFloydCircleJerk
+PinkOmega
 PinkWug
 PinoyProgrammer
 Piracy
@@ -5243,6 +5251,7 @@ rescuedogs
 researchchemicals
 Residency
 residentevil
+residentevil4
 ResinCasting
 resinprinting
 restofthefuckingowl
@@ -6119,6 +6128,7 @@ TheArcana
 TheAstraMilitarum
 thebadbatch
 TheBatmanFilm
+thebeachboys
 TheBear
 TheBidenshitshow
 thebindingofisaac
