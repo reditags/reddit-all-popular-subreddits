@@ -1409,6 +1409,7 @@ Cookierun
 CookieRunKingdoms
 Cooking
 CoolAmericaFacts
+CoolCollections
 CoolGadgetsTube
 coolguides
 coonhounds
@@ -3026,6 +3027,7 @@ Illustration
 im14andthisisdeep
 Im15AndThisIsYeet
 Images
+ImaginaryAngels
 ImaginaryArchitecture
 ImaginaryArmor
 ImaginaryAzeroth
