@@ -763,6 +763,7 @@ birding
 birdpics
 BirdsArentReal
 BirdsForScale
+birdsofprey
 birdstakingthetrain
 birdswitharms
 birdwatching
@@ -4460,6 +4461,7 @@ nuclear
 NuclearRevenge
 NUFC
 nukedmemes
+NukesTop5
 nursing
 nus
 nutrition
@@ -4780,6 +4782,7 @@ PferdeSindKacke
 Phalanxed
 PhantomForces
 pharmacy
+PharmacyTechnician
 PhasmophobiaGame
 phcareers
 phclassifieds
@@ -6656,6 +6659,7 @@ watercolorcats
 watercooling
 Waterdogs
 Waterfalls
+waterporn
 Wavyhair
 WayOfTheBern
 WeaponsMoe
