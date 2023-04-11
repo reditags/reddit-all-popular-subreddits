@@ -2132,6 +2132,7 @@ esHistoria
 esist
 Espana
 espresso
+essayscammers
 estoration
 ethereum
 EthereumClassic
@@ -2962,6 +2963,7 @@ HolUp
 HolyPrequelMemes
 homeassistant
 homeautomation
+Homebrewing
 HomeDecorating
 HomeDepot
 homegym
@@ -3122,6 +3124,7 @@ ImaginaryCybernetics
 ImaginaryCyberpunk
 ImaginaryDarkSouls
 ImaginaryDragons
+ImaginaryDwarves
 ImaginaryDwellings
 imaginaryelections
 ImaginaryElementals
@@ -3794,6 +3797,7 @@ LockdownSkepticism
 lockpicking
 locs
 LodedDiper
+LoFiAesthetic
 logodesign
 lolcats
 Lolirefugees
@@ -4971,6 +4975,7 @@ pitbullsinjammies
 Pitt
 PittieSmiles
 pittsburgh
+Pixel6
 PixelArt
 PixelDungeon
 Pizza
@@ -5347,6 +5352,7 @@ RetroBowl
 RetroFuturism
 retrogaming
 Returnal
+revancedapp
 reverseanimalrescue
 Revolvers
 RheaRipley
@@ -6009,6 +6015,7 @@ submergedanimatronic
 submitted
 subnautica
 Subnautica_Below_Zero
+SUBREDDITNAME
 SubsIFellFor
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
@@ -6873,6 +6880,7 @@ Wellington
 Wellthatsucks
 Wellworn
 wendigoon
+Westchester
 WesternAustralia
 westies
 WestVirginia
