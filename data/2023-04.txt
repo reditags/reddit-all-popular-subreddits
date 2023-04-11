@@ -3583,6 +3583,7 @@ KleeMains
 KneadyCats
 knifeclub
 knifemaking
+KnightsOfPineapple
 knolling
 KnowledgeFight
 Knoxville
@@ -4717,6 +4718,7 @@ OmegaWatches
 OmnibusCollectors
 OmniscientReader
 OMORI
+OnCinemaAtTheCinema
 onebag
 onednd
 onejob
@@ -4775,6 +4777,7 @@ OSHA
 OshiNoKo
 osp
 osr
+OSU
 osubuddyretard
 osugame
 osvaldo12
@@ -6935,6 +6938,7 @@ whatcarshouldIbuy
 whatcouldgoright
 Whatcouldgowrong
 whatintarnation
+whatisthisanimal
 whatisthisbug
 whatisthiscar
 whatisthisthing
