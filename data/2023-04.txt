@@ -630,6 +630,7 @@ Bannerlord
 BanPitBulls
 BanVideoGames
 BarbaraPalvin
+BarbaraWalters4Scale
 Barbie
 barexam
 Barotrauma
@@ -640,6 +641,7 @@ bartenders
 baseball
 baseballcards
 baseballcirclejerk
+basketballcards
 Bass
 basset
 bassethounds
@@ -1918,6 +1920,7 @@ doommetal
 doordash
 doordash_drivers
 dopehumor
+Doppleganger
 Dorohedoro
 DotA2
 DottoreMains
@@ -2023,6 +2026,7 @@ Edinburgh
 EDM
 Edmonton
 educationalgifs
+edwinbarnesc
 Eesti
 eFreebies
 egg_irl
@@ -3593,6 +3597,7 @@ LadiesOfWrestling
 Ladybonersgonecuddly
 ladyladyboners
 Laesterschwestern
+LAGalaxy
 laidbackcamp
 Lain
 LAinfluencersnark
@@ -5049,6 +5054,7 @@ pottedcats
 Pottery
 PouchCatatoes
 PourPainting
+poutine
 pouts
 povertyfinance
 powerlifting
@@ -5277,6 +5283,7 @@ regularcarreviews
 RegularRevenge
 regularshow
 ReiAyanami
+ReinhardtMains
 relacionamentos
 relationship_advice
 RelationshipIndia
@@ -5744,6 +5751,7 @@ snowleopards
 snowrunner
 SNSD
 SnyderCut
+socalhiking
 soccercirclejerk
 socialanxiety
 socialism
