@@ -166,6 +166,7 @@ agedlikemilk
 agedlikewine
 agedtattoos
 agender
+AgeofMythology
 ageofsigmar
 aggies
 agi
@@ -1764,6 +1765,7 @@ depechemode
 Depop
 DeppDelusion
 depression_memes
+DepthHub
 DerryGirls
 DerScheisser
 desabafos
@@ -4321,6 +4323,7 @@ MxRMods
 MXRplays
 My600lbLife
 my_celebrity_crush
+myanmar
 MyChemicalRomance
 mycology
 myfavoritemurder
@@ -4895,6 +4898,7 @@ PetMice
 Pets
 PetsareAmazing
 PetTheDamnCat
+petthedamncow
 PetTheDamnDog
 PetTheDamnKitty
 pettyrevenge
@@ -5651,6 +5655,7 @@ Shittygamecollecting
 shittygamedetails
 ShittyGifRecipes
 shittyhalolore
+shittylifehacks
 ShittyLifeProTips
 ShittyMapPorn
 shittymobilegameads
@@ -6693,6 +6698,7 @@ VaultHuntersMinecraft
 VaushV
 vaxxhappened
 vdm
+Vechain
 vegan
 vegancirclejerk
 VeganDE
@@ -6751,6 +6757,7 @@ virginvschad
 virtualreality
 Visiblemending
 visualnovels
+vitahacks
 ViviWinkler
 vizsla
 Vocaloid
