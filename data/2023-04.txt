@@ -898,6 +898,7 @@ borbs
 BorderCollie
 Borderlands2
 borderlands3
+Borderporn
 boringdystopia
 borussiadortmund
 Boruto
@@ -1302,6 +1303,7 @@ Cinema4D
 Cinemagraphs
 CineSeries
 CineShots
+circlejerk
 CirclejerkSopranos
 cirkeltrek
 CISDidNothingWrong
@@ -2008,6 +2010,7 @@ dunememes
 DungeonCrawlerCarl
 DungeonMasters
 DungeonMeshi
+Dungeons_and_Dragons
 DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
@@ -3283,6 +3286,7 @@ InternetIsBeautiful
 internetparents
 Interpol
 inthenews
+intotheradius
 intresseklubben
 introvert
 introvertmemes
@@ -4263,6 +4267,7 @@ Morocco
 Morrowind
 MortalKombat
 MoscowMurders
+Mossariums
 Mosses
 MostBeautiful
 moths
@@ -5834,6 +5839,7 @@ sooners
 Soosh
 sophieturner
 soulcrushingjuice
+souleater
 SoulKnight
 SoulsSliders
 SoundersFC
@@ -6863,6 +6869,7 @@ Wavyhair
 WayOfTheBern
 WeaponsMoe
 WeatherGifs
+web_design
 webcomics
 webdev
 wec
