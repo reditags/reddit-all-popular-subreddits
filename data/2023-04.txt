@@ -715,6 +715,7 @@ belgium
 Belgium2
 Bellapoarch
 belowdeck
+beltalowda
 Ben10
 Bend
 benfica
@@ -1803,6 +1804,7 @@ DestinyLore
 DestinyMemes
 DestinyTheGame
 DestroyedTanks
+DestroyLonely
 DetailCraft
 detrans
 DeTrashed
@@ -4516,6 +4518,7 @@ NFCWestMemeWar
 nflcirclejerk
 nfrealmusic
 NFT
+NFTsMarketplace
 nhl
 Ni_Bondha
 Nicegirls
