@@ -777,6 +777,7 @@ bigfoot
 biglaw
 BigNoseLadies
 bih
+bihar
 bikecommuting
 bikepacking
 Bikeporn
@@ -3627,6 +3628,7 @@ KidsAreFuckingEvil
 KidsAreFuckingStupid
 KiernanBrennanShipka
 KiernanShipka
+kilian
 killedthecameraman
 KillLaKill
 killsixbilliondemons
@@ -3791,6 +3793,7 @@ lebanon
 lebowski
 ledgerwallet
 ledzeppelin
+Leeds
 LeedsUnited
 LeftistGamersUnion
 LeftTheBurnerOn
@@ -5701,6 +5704,7 @@ scottthewoz
 scotus
 SCP
 SCPSecretLab
+scratch
 Scream
 SCREENPRINTING
 Screenwriting
@@ -6655,6 +6659,7 @@ trailrunning
 TrainPorn
 trains
 trans
+trans_irl
 TransClones
 Transformemes
 transformers
@@ -7035,6 +7040,7 @@ wasletztestern
 watch_dogs
 watchcatsdieinside
 WatchDogsWoofInside
+watcherentertainment
 Watches
 Watchexchange
 WatchPeopleDieInside
@@ -7049,6 +7055,7 @@ Waterfalls
 waterporn
 Wavyhair
 WayOfTheBern
+We_are_weeb
 WeaponsMoe
 WeAreTheMusicMakers
 WeatherGifs
