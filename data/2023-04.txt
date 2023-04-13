@@ -23,6 +23,7 @@
 2137
 21stCenturyHumour
 240sx
+2624
 2ALiberals
 2american4you
 2Asia4u
@@ -511,6 +512,7 @@ ASX_Bets
 ATAAE
 ATBGE
 ATC
+ATEEZ
 AteistTurk
 AteTheOnion
 atheism
@@ -981,6 +983,7 @@ BreadTube
 BreakfastFood
 breakingbad
 breakingbadmemes
+BreakingPointsNews
 BreakUps
 Breath_of_the_Wild
 breathinginformation
@@ -1504,6 +1507,7 @@ CoolCollections
 CoolGadgetsTube
 coolguides
 coonhounds
+copenhagen
 copypasta
 coral_sharon
 cordcutters
@@ -4533,6 +4537,7 @@ nathanforyou
 nathanwpyle
 nationalguard
 NationalPark
+Nationals
 nationalwomensstrike
 NativeAmerican
 NativePlantGardening
@@ -5767,6 +5772,7 @@ SelfAwarewolves
 selfhosted
 selfie
 selfimprovement
+selfreliance
 SellingSunset
 Semaglutide
 Semenretention
@@ -6754,6 +6760,7 @@ truerateme
 TrueReddit
 TrueSTL
 TrueUnpopularOpinion
+truezelda
 trump
 Trumpgret
 Trumpvirus
@@ -7351,6 +7358,7 @@ Youmo
 youngjustice
 youngpeoplereddit
 youngpeopleyoutube
+YoungRoyals
 YoungThug
 Youniqueamua
 YouniquePresenterMS
