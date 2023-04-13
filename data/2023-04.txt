@@ -2133,6 +2133,7 @@ elderscrollsonline
 ElectricalEngineering
 electricdaisycarnival
 electricians
+ElectricScooters
 ElectroBOOM
 electronicmusic
 electronics
@@ -2340,6 +2341,7 @@ FCInterMilan
 fcporto
 Fedexers
 fednews
+Fedora
 feedthebeast
 feedthememes
 feemagers
