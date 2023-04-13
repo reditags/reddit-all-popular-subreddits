@@ -287,6 +287,7 @@ AncestryDNA
 anchorage
 AncientCoins
 ancientrome
+AncientWorld
 andor
 Androgynoushotties
 Android
@@ -680,6 +681,7 @@ BassGuitar
 bathandbodyworks
 batman
 BatmanArkham
+batonrouge
 BattleBotsRaw
 BattleBrothers
 Battlecars
@@ -1545,6 +1547,7 @@ CozyFantasy
 CozyGrove
 CozyPlaces
 CPA
+Cr1TiKaL
 crabcats
 CrackheadCraigslist
 CrackSupport
@@ -1727,6 +1730,7 @@ DarkAngels40k
 DarkBRANDON
 darkestdungeon
 darknet
+Darkroom
 DarkSouls2
 darksoulsmemes
 DarkTide
@@ -2213,6 +2217,7 @@ EthereumClassic
 EtherMining
 ethfinance
 ethoslab
+ethstaker
 ethtrader
 EtikaRedditNetwork
 etymology
@@ -2601,6 +2606,7 @@ funnysigns
 funnyvideos
 FurryArtSchool
 furrymemes
+fursedimages
 fursuit
 fuslie
 fut
@@ -2845,6 +2851,7 @@ GreenAndPleasant
 GreenBayPackers
 greenday
 gretavanfleet
+Grey_Knights
 Greyhounds
 greysanatomy
 GriefSupport
@@ -4741,6 +4748,7 @@ notlikeothergirls
 notliketheothergirls
 notmycat
 NotMyJob
+notopbutok
 notthebeaverton
 nottheonion
 NotTimAndEric
@@ -5260,6 +5268,7 @@ Possums
 postal
 PostMalone
 postprocessing
+PotasticP
 POTCmemes
 pothos
 pottedcats
@@ -6523,6 +6532,7 @@ TheOrville
 TheOther14
 theouterworlds
 TheoVon
+thepaknarrative
 ThePPShow
 thepromisedneverland
 thepunchlineisracism
@@ -6550,6 +6560,7 @@ theunforgiven
 TheVampireDiaries
 thewalkingdead
 TheWalkingDeadGame
+Thewaywelived
 TheWayWeWere
 TheWayWeWereOnVideo
 TheWeeklyRoll
