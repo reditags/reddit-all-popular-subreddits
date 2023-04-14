@@ -185,6 +185,7 @@ aggretsuko
 agi
 AHatInTime
 AhriMains
+ahsokatano
 aiArt
 AIDKE
 Aikuros
@@ -1751,6 +1752,7 @@ DarwinAwards
 Dashcam
 dashcamgifs
 data_irl
+dataengineering
 DataHoarder
 dataisbeautiful
 dataisugly
@@ -5684,6 +5686,7 @@ sadlygokarts
 sadposting
 SafeMoon
 sailing
+SailorMood
 sailormoon
 SaimanSays
 SaintMeghanMarkle
