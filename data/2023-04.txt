@@ -459,6 +459,7 @@ Art
 ArtCrit
 ArtDeco
 ArtefactPorn
+ArtHistory
 artificial
 ArtNouveau
 ArtOfRolling
@@ -2331,6 +2332,7 @@ falloutsettlements
 familyguy
 FamosasGifs
 FamousLatinas
+fanart
 FanFiction
 fangies
 FansHansenvsPredator
@@ -3089,6 +3091,7 @@ Hobbit_Memes
 HobbyDrama
 hobonichi
 hockey
+hockeycards
 hockeyjerseys
 hockeymemes
 hockeyplayers
@@ -6561,9 +6564,11 @@ thecatdimension
 TheCatTrapIsWorking
 thechallengemtv
 TheCinemassacreTruth
+TheCivilService
 TheClickOwO
 TheCloneWars
 TheCrownNetflix
+TheCuddlePuddle
 TheCure
 TheDarkTower
 thedavidpakmanshow
