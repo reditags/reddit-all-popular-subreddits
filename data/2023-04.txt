@@ -556,6 +556,7 @@ AustralianMilitary
 AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
+AustralianTeachers
 australianwildlife
 Austria
 austriahungary
@@ -1285,6 +1286,7 @@ ChatGPT
 chats
 Chattanooga
 chch
+CheelaiFavs
 Cheese
 Cheetahs
 Chefit
