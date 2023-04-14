@@ -1220,6 +1220,7 @@ catsonglass
 CatsOnKeyboards
 CatsOnPizza
 CatsPlayingDnd
+catssittingdown
 CatsStandingUp
 catsvstechnology
 CatsWhoChirp
@@ -3587,6 +3588,7 @@ johnbrownposting
 JohnMayer
 JohnWick
 joinsquad
+Jojo
 JOJOLANDS
 JoJoMemes
 Jokes
@@ -3726,6 +3728,7 @@ KingKrule
 KingOfTheHill
 kings
 KingstonOntario
+KiraKosarin
 KiraraMains
 Kirby
 kiszamolo
@@ -6501,6 +6504,7 @@ Texans
 texas
 TexasPolitics
 TexasRangers
+TextingTheory
 tezos
 tf2
 TF2fashionadvice
