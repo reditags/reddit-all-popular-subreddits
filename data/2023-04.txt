@@ -482,6 +482,7 @@ AskCulinary
 AskDocs
 AskFrance
 AskHistorians
+AskHR
 AskMechanics
 AskMen
 AskMiddleEast
@@ -976,6 +977,7 @@ bowhunting
 Boxer
 Boxers
 Boxing
+boxoffice
 boyslove
 BPDmemes
 BrandNewAnimal
@@ -1904,6 +1906,7 @@ devinbrugman
 devops
 Dexter
 dezwo
+DGDAG
 DHHMemes
 DHMIS
 diabetes
@@ -2520,6 +2523,7 @@ Forest
 foreverbox
 Forex
 ForFashion
+forgottenpowerade
 ForgottenWeapons
 forhonor
 forhonormemes
@@ -4345,6 +4349,7 @@ Michigan
 MichiganWolverines
 MicroBikini
 microbiology
+microblading
 microbork
 microdosing
 microgrowery
@@ -5132,6 +5137,7 @@ pennystocks
 pens
 Pensacola
 PeopleBeingJerks
+PeopleBeTrippin
 PeopleFuckingDying
 PeopleLiveInCities
 peopleofwalmart
@@ -5392,6 +5398,7 @@ PrimeiraLiga
 PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
+prius
 privacy
 PrivacyGuides
 ProCreate
@@ -5876,6 +5883,7 @@ selfreliance
 SellingSunset
 Semaglutide
 Semenretention
+semtcholas
 sendinthetanks
 SeniorCats
 seniorkitties
@@ -7101,6 +7109,7 @@ victoria2
 victoria3
 VictoriaBC
 victoriajustice
+VictoriaJusticeShine
 videogamedunkey
 videogames
 videography
