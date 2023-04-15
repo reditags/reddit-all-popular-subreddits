@@ -685,6 +685,7 @@ bartenders
 baseball
 baseballcards
 baseballcirclejerk
+BashTheFash
 basketballcards
 Bass
 basset
@@ -5242,6 +5243,7 @@ PinkFloydCircleJerk
 PinkOmega
 PinkWug
 PinoyProgrammer
+PioneerMTG
 Piracy
 PiratedGames
 Piratefolk
@@ -5409,6 +5411,7 @@ PrivacyGuides
 ProCreate
 productivity
 ProductManagement
+ProductPorn
 ProfessorLayton
 progmetal
 ProGolf
@@ -6949,6 +6952,7 @@ ucf
 UCI
 ucla
 UCONN
+ucr
 UCSC
 UCSD
 udub
@@ -7517,6 +7521,7 @@ YouShouldKnow
 youtube
 youtubehaiku
 YoutubeSelfPromotion
+youtubetv
 yugioh
 YuGiOhMemes
 yumenikki
