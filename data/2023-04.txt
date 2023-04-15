@@ -1256,6 +1256,7 @@ CBSE
 CCW
 celeb_blondes
 CelebEvents
+CelebPhotoshoots
 celebrities
 celebrity_soles
 CelebrityDresses
@@ -1957,6 +1958,7 @@ Dipcifica
 DiretoDoZapZap
 Dirtbikes
 dirtgame
+disability
 discgolf
 DiscoElysium
 discord_irl
@@ -2601,6 +2603,7 @@ FreeGamesOnSteam
 FreeKarma4You
 freemagic
 FREEMEDIAHECKYEAH
+freepatterns
 FreeTheRodlets
 FreezingFuckingCold
 FremantleFC
@@ -3718,6 +3721,7 @@ kateupton
 KatherineMcNamara
 KatherynWinnick
 KatieSigmond_Only
+KatyaSitak
 katyperry
 KavehMains
 Kayaking
@@ -4107,6 +4111,7 @@ LoveForUkraine
 LoveIsBlindNetflix
 LoveIsBlindOnNetflix
 LoveIslandTV
+lovejoyband
 LoveLive
 LoveNikki
 LowerCaseScreams
@@ -5249,6 +5254,7 @@ PhoenixSC
 PhonesAreBad
 photocritique
 photographs
+photoshop
 photoshopbattles
 PhotoshopRequest
 Physics
@@ -7380,6 +7386,7 @@ wien
 WiggleButts
 wiiu
 wikipedia
+wildbeef
 WildernessBackpacking
 Wildfire
 wildhearthstone
