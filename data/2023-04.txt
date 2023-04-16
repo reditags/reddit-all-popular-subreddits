@@ -1381,6 +1381,7 @@ ChronicIllness
 ChronicPain
 ChuckleSandwich
 ChurchOfCat
+ChurchofChie
 ChurchOfDorothea
 churchoffutaba
 churchofharu
@@ -2899,6 +2900,7 @@ golf
 Golf_R
 GolfGTI
 Golfwang
+golpe
 GoNets
 GoodAssSub
 goodboomerhumor
@@ -3303,6 +3305,7 @@ IberianHistoryMemes
 IBEW
 IBO
 ibs
+IcebergCharts
 icecoast
 IceCreamWaifu
 Iceland
@@ -3985,6 +3988,7 @@ LegendsMemes
 LegendsOfRuneterra
 lego
 legocastles
+LegoCreations
 legodeal
 legodnd
 Legoleak
@@ -5900,6 +5904,7 @@ SanJose
 SanJoseSharks
 sanpedrocactus
 sanrio
+SantaBarbara
 santacruz
 SaoirseRonan
 saopaulo
@@ -6421,6 +6426,7 @@ StonerEngineering
 stonerfood
 StonerThoughts
 Stonetossingjuice
+stop_the_GOP
 stopdrinking
 stopdrinkingfitness
 StoppedWorking
@@ -6457,6 +6463,7 @@ StupidFood
 stupidpol
 subaru
 Subaru_Outback
+SubaruForester
 Subliminal
 submarines
 submechanophobia
@@ -7380,6 +7387,7 @@ web_design
 webcomics
 webdev
 wec
+WECcirclejerk
 wedding
 weddingdrama
 weddingdress
