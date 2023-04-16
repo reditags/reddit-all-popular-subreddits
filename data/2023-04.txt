@@ -2149,6 +2149,7 @@ DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
 dustkitties
+dutch
 dvdcollection
 dwarffortress
 dydxprotocol
@@ -3963,6 +3964,7 @@ ledzeppelin
 Leeds
 LeedsUnited
 LeftistGamersUnion
+leftistvexillology
 LeftTheBurnerOn
 LeftWingMaleAdvocates
 legal
@@ -7270,6 +7272,7 @@ Virginia
 virginvschad
 virtualreality
 Visiblemending
+VisitingIceland
 visualnovels
 vitahacks
 ViviWinkler
@@ -7658,6 +7661,7 @@ yunyun
 YUROP
 yuumimains
 YuYuHakusho
+yvonnestrahovski
 ZaidZIZ
 ZanClan
 Zappa
