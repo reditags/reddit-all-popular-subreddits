@@ -2026,6 +2026,7 @@ doctorwho
 DoctorWhumour
 Documentaries
 Dodge
+doener
 DOG
 DogAdvice
 Dogberg
@@ -5093,6 +5094,7 @@ OrlandoMagic
 Ornithology
 Orochisegundo
 OrphanCrushingMachine
+OrthodoxChristianity
 oscarrace
 OSHA
 OshiNoKo
@@ -6505,6 +6507,7 @@ SweatyPalms
 sweden
 swedishproblems
 SWGalaxyOfHeroes
+Swimming
 Switch
 Switzerland
 SwitzerlandIsFake
@@ -6818,6 +6821,7 @@ thumbcats
 Thunder
 ThunderThots
 tianguancifu
+TibiaMMO
 Ticos
 tiedye
 Tierzoo
