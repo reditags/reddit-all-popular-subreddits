@@ -1661,6 +1661,7 @@ CrossStitch
 Crosstrek
 crowbro
 crows
+CRT_so_scary
 crtgaming
 CrucibleGuidebook
 CrueltySquad
@@ -4129,6 +4130,7 @@ longboyes
 longcats
 LongDistance
 longevity
+LongFurbies
 longhair
 longisland
 longrange
@@ -6800,6 +6802,7 @@ TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
 TheMandemNP
+TheMarvelousMrsMaisel
 TheMassive
 TheMemersClub
 themiddle
