@@ -494,6 +494,7 @@ AskDocs
 AskFrance
 AskHistorians
 AskHR
+AskLosAngeles
 AskMechanics
 AskMen
 AskMiddleEast
@@ -3368,6 +3369,7 @@ IDmydog
 IDONTGIVEASWAG
 IDontWorkHereLady
 IDOWORKHERELADY
+Idubbbz
 IfIFitsISits
 iggyazaleavault
 ihadastroke
@@ -4161,6 +4163,7 @@ longevity
 LongFurbies
 longhair
 longisland
+Longmont
 longrange
 lookatmydog
 LookatMyHalo
@@ -4997,6 +5000,7 @@ noveltranslations
 nowmycat
 NPR
 nrl
+NSCollectors
 nsw
 nuclear
 NuclearRevenge
@@ -5526,6 +5530,7 @@ Porsche
 Portal
 porterrobinson
 portlandme
+PortlandOR
 portugal
 PORTUGALCARALHO
 PORTUGALCYKABLYAT
@@ -6303,6 +6308,7 @@ SnakesWithHats
 SnapChad
 Sneks
 snes
+snooker
 snowboarding
 SnowFall
 snowleopards
