@@ -499,6 +499,7 @@ AskMiddleEast
 AskNYC
 AskOldPeople
 AskOuija
+AskPhotography
 AskReddit
 askscience
 AskScienceFiction
@@ -4924,6 +4925,7 @@ NominativeDeterminism
 nonbinarymemes
 NonBinaryTalk
 NonCredibleDiplomacy
+NonCredibleERA
 NoneHumanMoe
 nononono
 nonononoyes
@@ -5243,6 +5245,7 @@ ParlerWatch
 parrots
 PartyParrot
 pasadena
+PassportPorn
 pasta
 PastAndPresentPics
 PastorArrested
@@ -5885,6 +5888,7 @@ rugbyunion
 runefactory
 runescape
 running
+RunningShoeGeeks
 rupaulsdragrace
 rush
 RussiaLago
