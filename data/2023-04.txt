@@ -100,6 +100,7 @@ AbsoluteUnits
 AbsoluteWeapons
 AbstractArt
 Absurdism
+abusiverelationships
 ac_newhorizons
 ACAB
 academia
@@ -4448,6 +4449,7 @@ MementoUnusAnnus
 MemePiece
 memes
 Memes_Of_The_Dank
+Memesbuenaonda
 memesdecentralises
 memesITA
 memesopdidnotlike
@@ -6058,6 +6060,7 @@ scotus
 SCP
 SCPMemes
 SCPSecretLab
+ScrapMechanic
 scratch
 Scream
 SCREENPRINTING
@@ -7205,6 +7208,7 @@ udub
 ufc
 ufl
 ufo
+UFOB
 UFOs
 ufyh
 uglyduckling
