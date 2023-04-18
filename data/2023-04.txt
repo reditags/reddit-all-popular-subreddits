@@ -735,6 +735,7 @@ BBQ
 BeachCity
 beadsprites
 beagle
+beagles
 BeAmazed
 BeamNG
 BeansInThings
@@ -971,6 +972,7 @@ bookporn
 books
 bookshelf
 Boomerhumour
+BoomersBeingFools
 boottoobig
 borbs
 BorderCollie
@@ -7639,6 +7641,7 @@ womenEngineers
 WomenSoccerLegs
 womensstreetwear
 wonderdraft
+woodburning
 Woodcarving
 woodstoving
 woodworking
