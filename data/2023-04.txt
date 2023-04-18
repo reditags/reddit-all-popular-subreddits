@@ -5602,6 +5602,7 @@ prey
 preyingmantis
 Priconne
 PrimeiraLiga
+Primus
 PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
@@ -5941,6 +5942,7 @@ rugbyunion
 runefactory
 runescape
 running
+runningman
 RunningShoeGeeks
 rupaulsdragrace
 rush
@@ -6011,6 +6013,7 @@ santacruz
 SaoirseRonan
 saopaulo
 SapphoAndHerFriend
+SarahHyland
 Sardonicast
 saskatchewan
 saskatoon
@@ -6188,6 +6191,7 @@ ShitPoliticsSays
 ShitpostBR
 ShitPostCrusaders
 shitposting
+shitposting_inc
 ShitpostTC
 ShitpostXIV
 Shitstatistssay
@@ -6591,6 +6595,7 @@ SubsTakenLiterally
 Suburbanhell
 SubwayCreatures
 SuccessionTV
+SuchiChristmasDog
 Sudan
 suddenlybi
 suddenlycaralho
