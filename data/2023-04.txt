@@ -492,6 +492,7 @@ AskBalkans
 askcarsales
 AskCulinary
 AskDocs
+AskElectricians
 AskFrance
 AskHistorians
 AskHR
@@ -645,6 +646,7 @@ babygoats
 babyhippogifs
 babylon5
 BABYMETAL
+BabyYoda
 Backcountry
 BacklessCelebs
 backrooms
@@ -4225,6 +4227,7 @@ LoveIslandTV
 lovejoyband
 LoveLive
 LoveNikki
+low_poly
 LowerCaseScreams
 Lowes
 LowQualityMemes
@@ -5855,6 +5858,7 @@ retrogaming
 Returnal
 revancedapp
 reverseanimalrescue
+reversegif
 ReversePinterest
 Revolvers
 RheaRipley
@@ -6803,6 +6807,7 @@ ThatPeelingFeeling
 thatpicofnzfromspace
 Thatsabooklight
 Thatsactuallyverycool
+ThatsHowThingsWork
 ThatsInsane
 The10thDentist
 the1975
@@ -7761,6 +7766,7 @@ yandere
 YanfeiMains
 YarnAddicts
 yarntrolls
+YasuoMains
 yayfoxxo
 YDHBSnark
 yeat_
