@@ -45,6 +45,7 @@
 2westerneurope4u
 30PlusSkinCare
 30ROCK
+321
 370z
 3amjokes
 3d6
@@ -2911,6 +2912,7 @@ GlitchInTheMatrix
 GlobalOffensive
 Glocks
 Gloomhaven
+gloomspitegitz
 GloriousTomBombadil
 Gloryhammer
 gluesniffer
@@ -4260,6 +4262,8 @@ LycorisRecoil
 lynxpointsiamese
 MAAU
 mac
+macbook
+macbookpro
 macdemarco
 MachE
 MachikadoMazoku
@@ -5728,6 +5732,7 @@ RainbowEverything
 RainbowHigh
 raining
 rainworld
+Rajasthan
 raleigh
 rally
 ralsei
@@ -6755,6 +6760,7 @@ technicallytrue
 technicalminecraft
 Technoblade
 technology
+TechNope
 techsupportgore
 techsupportmacgyver
 techtheatre
@@ -7761,6 +7767,7 @@ xboxone
 XboxSeriesX
 Xcom
 XCOM2
+XDefiant
 Xennials
 Xenoblade_Chronicles
 XenoGears
