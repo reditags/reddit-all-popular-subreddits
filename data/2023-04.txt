@@ -2278,6 +2278,7 @@ EmpireDidNothingWrong
 ems
 emulation
 EmulationOnAndroid
+Emuwarflashbacks
 ENA
 EnculerLesVoitures
 ender3
@@ -4059,6 +4060,7 @@ lehrerzimmer
 Leica
 Leipzig
 LEMMiNO
+lemondemon
 LeniKlum
 leopardgeckos
 LeopardsAteMyFace
@@ -7234,6 +7236,7 @@ ultimate
 Ultrakill
 ultrakillmemes
 ultralight_jerk
+Ultraman
 Ultramarines
 ultrawidemasterrace
 umanitoba
