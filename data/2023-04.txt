@@ -944,6 +944,7 @@ bobdylan
 BobsBurgers
 BobsTavern
 boburnham
+BocaJuniors
 BocchiTheRock
 bodegaboys
 bodegacats
@@ -1702,6 +1703,7 @@ CrusaderKings
 crusaderkings3
 CryptidDogs
 cryptids
+crypto_simple
 cryptocurrecny
 CryptoCurrency
 CryptoCurrencyClassic
@@ -1853,6 +1855,7 @@ dating
 dating_advice
 datingoverforty
 datingoverthirty
+DaveChappelle
 davidgoggins
 davidlynch
 Davie504
@@ -1904,6 +1907,7 @@ DeepIntoYouTube
 DeepRockGalactic
 deepseacreatures
 DeepSpaceNine
+DeepThoughts
 Defenders
 defi
 DeFranco
@@ -3100,6 +3104,7 @@ HalfFlops
 HalfLife
 halifax
 halloween
+HalloweenKittyCombo
 Halloweenmovies
 halo
 HaloCirclejerk
@@ -4932,6 +4937,7 @@ nfrealmusic
 NFT
 NFTExchange
 NFTsMarketplace
+nftwalletreddit
 nhl
 Ni_Bondha
 Nicegirls
@@ -6048,6 +6054,7 @@ saopaulo
 SapphoAndHerFriend
 SarahHyland
 sarahmichellegellar
+sarasota
 Sardonicast
 saskatchewan
 saskatoon
@@ -7054,6 +7061,7 @@ tjournal_refugees
 TLCsisterwives
 TLCUnexpected
 TMNT
+tmobile
 TNG
 TNOmod
 toarumajutsunoindex
@@ -7585,6 +7593,7 @@ weeklyplanetpodcast
 ween
 weeviltime
 weezer
+WegovyWeightLoss
 weightlifting
 WeightLossAdvice
 Weird
