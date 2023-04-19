@@ -158,6 +158,7 @@ ADSB
 Adulting
 adultingph
 adultswim
+Advance_Wars
 AdvancedRunning
 ADVChina
 adventurecats
@@ -176,6 +177,7 @@ AFCNorthMemeWar
 AFCSouthMemeWar
 afkarena
 AFL
+AFOL
 AfterEffects
 AfterTheEndFanFork
 AgainstHateSubreddits
@@ -481,6 +483,7 @@ ArtNouveau
 ArtOfRolling
 ArtPorn
 AsaCumEramOdata
+AsbestosRemovalMemes
 Asexual
 asexuality
 asheville
@@ -2013,6 +2016,7 @@ DianeGuerrero
 diannaagron
 DicePorn
 DidntKnowIWantedThat
+Diesel
 dieWildeVeganerin
 DiewildeVeganerinOFS
 digimon
@@ -3723,6 +3727,7 @@ japanesestreetwear
 japanlife
 japanpics
 JapanTravel
+Jarrariums
 jayhawks
 Jazz
 jazzcirclejerk
@@ -5742,6 +5747,7 @@ PuzzleAndDragons
 puzzles
 PvZGardenWarfare
 PvZHeroes
+PVZmemes
 PygmalionAI
 pyrocynical
 Python
@@ -5890,6 +5896,7 @@ RelationshipIndia
 RelationshipMemes
 religiousfruitcake
 reloading
+remnantgame
 ReneeMurden
 renfaire
 Reno
@@ -7034,6 +7041,7 @@ thirdsentenceworse
 Thisisimportantpod
 Thisismylifemeow
 thisismylifenow
+thisiswoke
 ThisLooksFun
 ThisYouComebacks
 ThomasinMcKenzie
@@ -7523,6 +7531,7 @@ VoidCats
 voidpunk
 Volksverpetzer
 Volkswagen
+volleyball
 VolleyballGirls
 Volumeeating
 Volvo
