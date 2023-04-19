@@ -1939,6 +1939,7 @@ depechemode
 Depop
 DeppDelusion
 depression_memes
+depressionmeals
 depressionmemes
 DepthHub
 DerryGirls
@@ -3601,6 +3602,7 @@ internetparents
 Interpol
 inthenews
 intotheradius
+intotheshadowrealm
 intresseklubben
 introvert
 introvertmemes
@@ -4161,6 +4163,7 @@ lithuania
 litrpg
 LitterboxComics
 LittleNuns
+LittlePeopleBigWorld
 LittleRock
 LittleWitchAcademia
 LiveFromNewYork
@@ -6694,6 +6697,7 @@ swoletariat
 swordartonline
 SWORDS
 SwordsComic
+swrpg
 swtor
 SWTOR_memes
 sydnee_goodman
@@ -7604,7 +7608,9 @@ WendyRedVelvet
 wesanderson
 Westchester
 WesternAustralia
+WestHighlandTerriers
 westies
+WestSubEver
 WestVirginia
 westworld
 WetlanderHumor
