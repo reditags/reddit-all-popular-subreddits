@@ -1001,6 +1001,7 @@ boston
 BostonBruins
 bostonceltics
 BostonTerrier
+BostonU
 BotanicalPorn
 botany
 Botchedsurgeries
@@ -7314,6 +7315,7 @@ uncharted
 unclebens
 undelete
 Undertale
+UndertaleMemesReddit
 UnearthedArcana
 UnethicalLifeProTips
 Unexpected
