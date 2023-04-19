@@ -1542,6 +1542,7 @@ ComedyFlogging
 comedyheaven
 ComedyHell
 comedyhomicide
+comedymutation
 comedynecromancy
 ComedyNecrophilia
 comfypasta
@@ -2081,6 +2082,7 @@ DMZ
 DnB
 DnD
 DnDart
+DnDBehindTheScreen
 DnDcirclejerk
 DnDGreentext
 DnDHomebrew
@@ -5083,6 +5085,7 @@ NovaScotia
 noveltranslations
 nowmycat
 NPR
+nreal
 nrl
 NSCollectors
 nsw
@@ -5290,6 +5293,7 @@ Outdoors
 OuterBanksNetflix
 outerwilds
 OUTFITS
+Outlander
 outofcontextcomics
 OutOfTheLoop
 outrun
@@ -7855,6 +7859,7 @@ xbox
 xbox360
 XboxGamePass
 xboxone
+XboxSeriesS
 XboxSeriesX
 Xcom
 XCOM2
