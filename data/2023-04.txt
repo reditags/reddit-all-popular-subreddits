@@ -289,6 +289,7 @@ Amtrak
 AmyAdams
 AnadeArmas
 analog
+AnalogCircleJerk
 AnalogCommunity
 AnaMains
 Anarchism
@@ -2219,6 +2220,7 @@ dydxprotocol
 dyinglight
 DylanteroYT
 DynastyFF
+dynastywarriors
 Dyson_Sphere_Program
 E30
 E90
@@ -5493,6 +5495,7 @@ PioneerMTG
 Piracy
 PiratedGames
 Piratefolk
+PirateHole
 PirateKitties
 PiratePets
 piratesofthecaribbean
