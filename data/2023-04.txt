@@ -1848,6 +1848,7 @@ Darts
 DarwinAwards
 Dashcam
 dashcamgifs
+dashcams
 data_irl
 dataengineering
 DataHoarder
@@ -3952,6 +3953,7 @@ kotor
 KOTORmemes
 kpics
 kpop
+kpophelp
 kpoprants
 kpopthoughts
 KrisCollins
@@ -4125,6 +4127,7 @@ Libertarian
 LibHumor
 librandu
 Libraries
+libraryofruina
 libsofreddit
 LibsOfSocialMedia
 LidoFinance
