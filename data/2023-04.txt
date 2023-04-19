@@ -574,6 +574,7 @@ AusMemes
 AusProperty
 AusRenovation
 AussieCasual
+AussieMemes
 AusSkincare
 austinfood
 australia
@@ -1160,6 +1161,7 @@ camilamendes
 camphalfblood
 CampingGear
 canada
+Canada_sub
 canadaguns
 canadahousing
 canadaleft
@@ -1686,6 +1688,7 @@ criticalblunder
 criticalrole
 Crittersoncapybaras
 croatia
+CrochetBlankets
 cromch
 croppingishard
 croptopgirls
@@ -3648,6 +3651,7 @@ IsabelaMerced
 Isekai
 IsItBullshit
 ISKbets
+islafisher
 islam
 IslamicHistoryMeme
 ISO8601
@@ -4371,6 +4375,7 @@ MangaCollectors
 Manhua
 manhwa
 Manitoba
+MannausSachsen
 ManufacturingPorn
 Maplestory
 mapmaking
@@ -5620,6 +5625,7 @@ PourPainting
 poutine
 pouts
 povertyfinance
+PowerBI
 powerlifting
 PowerMetal
 powerrangers
@@ -6779,6 +6785,7 @@ Target
 TargetedShirts
 TarkovMemes
 tarot
+TascaDoZe
 taskmaster
 TastingHistory
 taterthepufferfish
