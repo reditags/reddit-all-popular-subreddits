@@ -418,6 +418,7 @@ ApexConsole
 apexlegends
 ApexLore
 ApexOutlands
+Apexrollouts
 ApexUncovered
 apexuniversity
 aphextwin
@@ -530,6 +531,7 @@ asl
 Asmongold
 asoiaf
 asoiafcirclejerk
+ASOUE
 aspergers
 aspynovardsnark
 assam
@@ -805,6 +807,7 @@ benfica
 bengalcats
 bengals
 BenGarrisonCumEdits
+benhoward
 benshapiro
 Bento
 Beretta
@@ -822,6 +825,7 @@ bestoflegaladvice
 bestofpositiveupdates
 BestOfReports
 bestoftheinternet
+BethesdaSoftworks
 bettafish
 betterCallSaul
 BetterEveryLoop
@@ -1384,6 +1388,7 @@ CheetoTheCat
 Chefit
 chefknives
 chelseafc
+ChemicalEngineering
 chemicalreactiongifs
 chemistry
 chemistrymemes
@@ -1597,6 +1602,7 @@ ConselhosLegais
 Conservative
 ConservativeMemes
 conservatives
+ConservativesOnly
 conservativeterrorism
 Consoom
 conspiracy
@@ -2190,6 +2196,7 @@ dreamcast
 DreamlightValley
 Dreams
 dreamsmp
+Dreamtheater
 DreamWasTaken2
 drehscheibe
 DrewDurnil
@@ -2261,6 +2268,7 @@ eatsandwiches
 EatTheRich
 ebikes
 EbonyImagination
+ECE
 Economics
 economy
 Edelgard
@@ -2543,6 +2551,7 @@ fffffffuuuuuuuuuuuu
 FFVIIRemake
 ffxi
 ffxiv
+ffxivart
 FFXIVGlamours
 FFXV
 FFXVI
@@ -4080,6 +4089,7 @@ lawofattraction
 LawSchool
 lawschooladmissions
 Lawyertalk
+LaylaMains
 LazyCats
 lcfc
 LeaEluiGinet
@@ -4790,6 +4800,7 @@ MovieMistakes
 MoviePosterPorn
 movies
 Moviesinthemaking
+mrballen
 MrBeast
 mrlovenstein
 MrRobot
@@ -4912,6 +4923,7 @@ natureismetal
 NatureofPredators
 natureporn
 Naturewasmetal
+naturfreunde
 navy
 nayeon
 nba
@@ -5210,6 +5222,7 @@ okbuddyreze
 okbuddyrintard
 okbuddyrosalyn
 okbuddyvowsh
+okbuddyzomboss
 okc
 okcopainattard
 okdraugedebile
@@ -6369,6 +6382,7 @@ shortscarystories
 Shortsqueeze
 Shotguns
 shouldercats
+ShouldIbuythisgame
 ShovelKnight
 Showerthoughts
 Shrek
@@ -6615,6 +6629,7 @@ starbucks
 starcitizen
 starcraft
 starcraft2
+StardewHomeDesign
 StardewMemes
 stardomjoshi
 StardustCrusaders
@@ -6676,6 +6691,7 @@ Stoicism
 StoicMemes
 stolendogbeds
 StolenSeats
+stonedswifties
 StonerEngineering
 stonerfood
 StonerThoughts
@@ -6790,6 +6806,7 @@ suzerain
 svenskpolitik
 Sverige
 SVU
+SwainMains
 SweatyPalms
 sweden
 swedishproblems
