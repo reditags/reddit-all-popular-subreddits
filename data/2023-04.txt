@@ -254,6 +254,7 @@ AlternateHistory
 alternativeart
 alternativefashion
 AlternativeHistory
+althomestuck
 AlzheimersGroup
 Alzwards_Corner
 AmandaHolden
@@ -2336,6 +2337,7 @@ eldercactus
 ElderKings
 ElderScrolls
 elderscrollsonline
+electrical
 ElectricalEngineering
 electricdaisycarnival
 electricians
@@ -2390,6 +2392,7 @@ engineering
 engineeringmemes
 EngineeringPorn
 EngineeringStudents
+england
 EnglishLearning
 EnglishSetter
 engrish
@@ -2882,6 +2885,7 @@ GameChangerTV
 Gamecocks
 gamecollecting
 Gamecube
+gamedesign
 gamedev
 gamegrumps
 gameofthrones
