@@ -1614,6 +1614,7 @@ CompetitiveTFT
 CompetitiveWoW
 compoface
 composting
+compsci
 computers
 computerscience
 conan
@@ -2949,6 +2950,7 @@ GeekyCrochet
 geekygirls
 gegenewtt
 gekte
+Gemstones
 genderfluid_irl
 GeneralSam
 generative
@@ -5811,6 +5813,7 @@ pozilei
 ppwyang18
 PragerUrine
 PraiseTheCameraMan
+PRDAOOfficial
 precognition
 predaddit
 Predators
