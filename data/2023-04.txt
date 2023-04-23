@@ -5177,6 +5177,7 @@ nier
 NierAutomataGallery
 NieRAutomataGame
 nietdespeld
+Nietzsche
 NightInTheWoods
 NightLords
 nightvale
@@ -7642,6 +7643,7 @@ ultralight_jerk
 Ultraman
 Ultramarathon
 Ultramarines
+ultrarunning
 ultrawidemasterrace
 umanitoba
 UmbrellaAcademy
@@ -7685,6 +7687,7 @@ unitedstatesofindia
 Unity2D
 Unity3D
 UniversalOrlando
+Universitaly
 UniversityOfHouston
 unixporn
 unket
