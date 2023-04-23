@@ -530,6 +530,7 @@ AskMechanics
 AskMen
 AskMenOver30
 AskMiddleEast
+AskModerators
 AskNYC
 AskOldPeople
 AskOuija
@@ -3455,6 +3456,7 @@ HostileArchitecture
 hot_reporters
 hotas
 hotdudeswithplants
+HotGermanCelebrities
 HotlineMiami
 hotones
 HotPeppers
