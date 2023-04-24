@@ -2564,6 +2564,7 @@ facingtheirparenting
 factorio
 Factoriohno
 Fahrrad
+failarmy
 FairytaleasFuck
 faithjefferies
 fakealbumcovers
@@ -4032,6 +4033,7 @@ KaIT
 kalam_army
 kaleycuoco
 KamenRider
+KamiJirou
 KamikazeByWords
 kancolle
 kankan
@@ -4485,6 +4487,7 @@ lovejoyband
 LoveLive
 LoveNikki
 low_poly
+LowAltitudeJets
 LowerCaseScreams
 Lowes
 LowQualityMemes
@@ -6458,6 +6461,7 @@ scuba
 Sculpture
 ScuttleCrabMains
 SDRUntucked
+SDSGrandCross
 SDSU
 seaglass
 seals
@@ -7817,6 +7821,7 @@ Utah
 UtahJazz
 UTAustin
 Utrecht
+UtterlyInteresting
 UVA
 UzakiChan
 vagabond
