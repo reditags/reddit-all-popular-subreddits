@@ -6838,6 +6838,7 @@ squarebodies
 SquaredCircle
 SquarePosting
 SQUEEZIE
+squirrelproblems
 squirrels
 squishmallow
 squishypuppers
@@ -6852,6 +6853,7 @@ StainedGlass
 stalker
 Stance
 standardissuecat
+Standup
 StandUpComedy
 standupshots
 stanleyparable
