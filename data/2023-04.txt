@@ -1611,6 +1611,7 @@ CollegeBasketball
 collegehockey
 CollegeRant
 ColleiMains
+collingwoodfc
 cologne
 Colombia
 Colorado
@@ -4178,6 +4179,7 @@ Kochen
 kof
 Kokomi_Mains
 kolkata
+KolkataKnightRiders
 kollywood
 Komi_san
 Konosuba
@@ -5458,6 +5460,7 @@ okbuddyreiner
 okbuddyreze
 okbuddyrintard
 okbuddyrosalyn
+okbuddytankie
 okbuddyvowsh
 okbuddyzomboss
 okc
@@ -6155,6 +6158,7 @@ razorfree
 RBI
 RCB
 rccars
+RCPlanes
 rct
 RDR2
 Re_Zero
