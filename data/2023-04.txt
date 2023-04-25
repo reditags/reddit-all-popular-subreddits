@@ -4939,6 +4939,7 @@ ModernistArchitecture
 ModernMagic
 modernwarfare
 ModernWarfareII
+ModestMouse
 moedred
 MoeMorphism
 Moescape
@@ -5467,6 +5468,7 @@ okoidawappler
 okpolarncp
 okprietenretardat
 Old_Recipes
+oldbabies
 oldhammer
 Oldhouses
 OldManDog
