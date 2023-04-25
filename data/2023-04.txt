@@ -489,6 +489,7 @@ Arkansas
 arknights
 ArlecchinoMains
 arma
+ArmchairExpert
 armenia
 armoredcore
 armwrestling
@@ -3272,6 +3273,7 @@ Gundam
 GundamEvolution
 gundeals
 Gunfighter_Ballads
+GunfireReborn
 Gunime
 Gunners
 Gunpla
@@ -5861,6 +5863,7 @@ PlantsVSZombies
 playark
 playboicarti
 PlayItAgainSam
+playmygame
 playrust
 playstation
 PlayStationPlus
@@ -7236,6 +7239,7 @@ technews
 technicallythetruth
 technicallytrue
 technicalminecraft
+TechnicalTutorials
 Techno
 Technoblade
 technology
