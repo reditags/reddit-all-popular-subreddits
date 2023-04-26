@@ -4327,6 +4327,7 @@ learnfrench
 learningtocat
 LearnJapanese
 learnmachinelearning
+learnpolish
 learnprogramming
 learnpython
 learntodraw
@@ -4458,6 +4459,7 @@ literature
 lithuania
 litrpg
 LitterboxComics
+LittleNightmares
 LittleNuns
 LittlePeopleBigWorld
 LittleRock
@@ -6082,6 +6084,7 @@ psx
 psych
 psychology
 Psychonaut
+psytrance
 PTCGL
 PUBATTLEGROUNDS
 publicdefenders
@@ -8416,6 +8419,7 @@ yokaiwatch
 YomiHustle
 yoojimin
 yopierre
+york
 Yorkies
 Yosemite
 Yotsubros
