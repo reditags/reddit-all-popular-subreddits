@@ -2588,6 +2588,7 @@ F1NN5TER
 f1nOF
 F1Porn
 F1Technical
+Fable
 FacebookScience
 facebookwins
 facehugs
@@ -3495,6 +3496,7 @@ HomeImprovement
 HomeKit
 homelab
 homeless
+HomeMaintenance
 HomeNetworking
 HomePod
 HomestarRunner
