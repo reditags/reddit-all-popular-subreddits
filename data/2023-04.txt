@@ -3315,6 +3315,7 @@ h3h3productions
 H3VR
 Habs
 hacking
+hackintosh
 HadesTheGame
 HadToHurt
 HaggardGarage
@@ -4325,6 +4326,7 @@ LeaguesofVotann
 LeaksDBD
 leanbeefpatty
 LearmannTwins
+learndota2
 learndutch
 LearnFinnish
 learnfrench
@@ -7823,6 +7825,7 @@ Ukraine_UA
 UkraineConflict
 UkraineInvasionVideos
 UkraineRussiaReport
+UkraineWarRoom
 UkraineWarVideoReport
 Ukrainian
 UkrainianConflict
