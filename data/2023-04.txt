@@ -3275,6 +3275,7 @@ gretavanfleet
 Grey_Knights
 Greyhounds
 greysanatomy
+grian
 GriefSupport
 grilledcheese
 grilling
@@ -3396,6 +3397,7 @@ Harley
 HarleyQuinn
 Harpo
 harrypotter
+Haruhi
 harvestmoon
 Hasan_Piker
 Hashimotos
@@ -8106,6 +8108,7 @@ VoteDEM
 voyager
 VRchat
 VRGaming
+vsauce
 VShojo
 vtm
 vtmb
