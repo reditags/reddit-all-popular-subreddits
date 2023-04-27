@@ -2995,6 +2995,7 @@ fut
 futbol
 futebol
 FUTMobile
+futsal
 futurama
 Futuremoe
 futureporn
@@ -3272,6 +3273,7 @@ GreekMythology
 GreenAndPleasant
 GreenBayPackers
 greenday
+greenville
 GregDoucette
 gretavanfleet
 Grey_Knights
@@ -4261,6 +4263,7 @@ Kokomi_Mains
 kolkata
 KolkataKnightRiders
 kollywood
+Komi_memes
 Komi_san
 Konosuba
 korea
@@ -6582,6 +6585,7 @@ schweiz
 science
 ScienceBasedParenting
 sciencefiction
+ScienceHumour
 scienceisdope
 sciencememes
 ScienceNcoolThings
@@ -7877,6 +7881,7 @@ UIUC
 UK_Food
 UK_TV_Girls
 UKBabes
+UKcoins
 ukdrill
 ukmedicalcannabis
 UKPersonalFinance
