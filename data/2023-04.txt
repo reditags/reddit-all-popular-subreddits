@@ -1869,6 +1869,7 @@ cryptocurrecny
 CryptoCurrency
 CryptoCurrencyClassic
 cryptocurrencymemes
+CryptoHorde
 CryptoIndex_io
 cryptoloversclub
 CryptoMarkets
@@ -2608,6 +2609,7 @@ evangelion
 evangelionmemes
 Eve
 EvelynnMains
+EverRise
 Everton
 EveryoneIsGoingToHell
 EverythingFoxes
@@ -3743,6 +3745,7 @@ IDOWORKHERELADY
 Idubbbz
 IfIFitsISits
 ifunnybr
+igcse
 iggyazaleavault
 ihadastroke
 iiiiiiitttttttttttt
@@ -3984,6 +3987,7 @@ ipod
 iRacing
 ireland
 irezumi
+IrishHistory
 IRLEasterEggs
 IronFrontUSA
 IronHands40k
@@ -4978,6 +4982,7 @@ metro
 Metroid
 metroidvania
 mew_irl
+MEXC_official
 mexicanfood
 mexico
 MexicoCity
@@ -5434,6 +5439,8 @@ nfrealmusic
 NFT
 NFTDeepValue
 NFTExchange
+NFTGames
+NFTMarketplaceShop
 NFTsMarketplace
 nftwalletreddit
 nhl
