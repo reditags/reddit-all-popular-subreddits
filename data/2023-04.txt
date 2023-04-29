@@ -270,6 +270,8 @@ ALLTHEANIMALS
 AllThingsDND
 alphalegion
 altcoin
+altcoinforum
+AltcoinTrader
 AlternateAngles
 AlternateHistory
 alternativeart
@@ -712,6 +714,7 @@ Babushkats
 babyanimals
 babybigcatgifs
 BabyBumps
+BabyBUSD
 BabyCorgis
 babyelephantgifs
 babygoats
@@ -1588,6 +1591,7 @@ civ_memes
 civic
 Civic_Type_R
 civilengineering
+Civilization6
 CivVI
 CK2GameOfthrones
 CK3AGOT
@@ -1869,6 +1873,7 @@ cryptocurrecny
 CryptoCurrency
 CryptoCurrencyClassic
 cryptocurrencymemes
+CryptoGemDiscovery
 CryptoHorde
 CryptoIndex_io
 cryptoloversclub
@@ -2584,6 +2589,7 @@ Ethelcain
 ethereum
 EthereumCA
 EthereumClassic
+ethereumnoobies
 EtherMining
 ethfinance
 ethoslab
@@ -4322,6 +4328,7 @@ KittyPupperLove
 KittyTailWrap
 kiwisavengers
 KleeMains
+klokmemes
 KneadyCats
 knifeclub
 knifemaking
@@ -5437,6 +5444,7 @@ NFCWestMemeWar
 nflcirclejerk
 nfrealmusic
 NFT
+nftdawn
 NFTDeepValue
 NFTExchange
 NFTGames
