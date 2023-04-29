@@ -2838,6 +2838,7 @@ Flagstaff
 Flamepoints
 flashlight
 FlashTV
+flatearth
 Fleabag
 FleshandBloodTCG
 FleshPitNationalPark
@@ -5693,6 +5694,7 @@ oldpeoplefacebook
 OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
+oldschoolcreepy
 OldSchoolRidiculous
 OldSkaters
 OldWorldBlues
@@ -6442,6 +6444,7 @@ RedHotChiliPeppers
 RedLetterMedia
 redneckengineering
 redpandas
+RedReader
 redrising
 Reds
 redsox
@@ -6573,6 +6576,7 @@ RoughRomanMemes
 RoundAnimals
 RoverPetSitting
 Rowing
+RoyalAirForce
 royalcaribbean
 RPClipsGTA
 RPDR_UK
