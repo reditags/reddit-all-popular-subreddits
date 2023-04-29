@@ -2931,6 +2931,7 @@ Frat
 FRC
 FreckledGirls
 fredagain
+freddiegibbs
 frederickmd
 fredericton
 freebies
@@ -3301,6 +3302,7 @@ graphicnovels
 Grapplerbaki
 gratefuldead
 gratefuldoe
+gratefulguitar
 gravelcycling
 GraveyardKeeper
 gravityfalls
@@ -5916,6 +5918,7 @@ Persona5
 PersonalFinanceCanada
 PersonalFinanceNZ
 perth
+PERU
 pesmobile
 PetAfterVet
 Peterborough
@@ -7026,6 +7029,7 @@ SommerRay
 somnivexillology
 sonamains
 sonarears
+SonicFrontiers
 SonicTheHedgehog
 SonicTheMovie
 SonoBisqueDoll
@@ -8461,6 +8465,7 @@ WitchesVsPatriarchy
 Wizard101
 wizardposting
 WKUK
+wnba
 woahdude
 WojakCompass
 wokekids
