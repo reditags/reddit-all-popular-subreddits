@@ -2579,6 +2579,7 @@ entwives
 eos
 EpicGamesPC
 EpicSeven
+Episode
 equelMemes
 equestriaatwar
 Equestrian
@@ -6619,6 +6620,7 @@ RSA
 rsloshredit
 RTGameCrowd
 RubeGoldbergFails
+RugbyAustralia
 rugbyunion
 RuinedMyDay
 runefactory
@@ -7111,6 +7113,7 @@ SonicTheMovie
 SonoBisqueDoll
 SonsOfTheForest
 SonyAlpha
+SonyXperia
 sooners
 Soosh
 sophieturner
@@ -8395,6 +8398,7 @@ WaypointVICE
 wch
 We_are_weeb
 WeaponsMoe
+WeAreAllTurks
 WeAreTheMusicMakers
 WeatherGifs
 web_design
