@@ -218,6 +218,7 @@ animecirclejerk
 animecuddling
 AnimeFunny
 animegifs
+AnimeMeme
 animememes
 Animemes
 AnimeMirchi
@@ -309,6 +310,7 @@ AskMiddleEast
 AskNYC
 AskOldPeople
 AskOuija
+AskPhotography
 AskReddit
 askscience
 AskScienceFiction
@@ -853,6 +855,7 @@ Clamworks
 ClashOfClans
 ClashOfClansLeaks
 ClashRoyale
+ClashRoyaleCirclejerk
 ClassConscienceMemes
 classicalmusic
 classiccars
@@ -963,6 +966,7 @@ cowboybebop
 cowcats
 coys
 CozyPlaces
+crabcats
 CrackheadCraigslist
 CrackWatch
 CrappyDesign
@@ -1503,6 +1507,7 @@ FixedGearBicycle
 Flamepoints
 FlexinLesbians
 flightsim
+flipperzero
 flonkers
 Floof
 Florence_Pugh
@@ -2176,6 +2181,7 @@ kaiserredux
 Kaiserreich
 KamenRider
 KamenRiderMemes
+KanojoOkarishimasu
 kansascity
 KansasCityChiefs
 Kanye
@@ -2407,6 +2413,7 @@ LPOTL
 LSD
 LTB_iel
 lucario
+luciomains
 LudwigAhgren
 luigi_irl
 lululemon
@@ -2414,6 +2421,7 @@ LumineMains
 Lumity
 Lustig
 Luthier
+Luxembourg
 LV426
 LycorisRecoil
 lynxpointsiamese
@@ -2491,6 +2499,7 @@ masterhacker
 MasterReturns
 mathmemes
 matureplants
+mauerstrassenwetten
 Mavericks
 MawInstallation
 maybemaybemaybe
@@ -2509,9 +2518,11 @@ me_irl
 me_irlgbt
 MealPrepSunday
 MechanicAdvice
+mechanical_gifs
 MechanicalKeyboards
 MedicalGore
 MedievalCats
+MedievalHistoryMemes
 medizzy
 Megadeth
 megalophobia
@@ -2792,6 +2803,7 @@ nier
 NierAutomataGallery
 nietdespeld
 NightInTheWoods
+nightvale
 nihilism
 Nijisanji
 NikkeMobile
@@ -2835,6 +2847,7 @@ nope
 Nordichistorymemes
 NorfFc
 norge
+NorissaValdezHotel
 NormMacdonald
 NorthCarolina
 northernireland
@@ -3388,6 +3401,7 @@ runefactory
 runescape
 rupaulsdragrace
 rush
+russian
 RussiaUkraineWar2022
 rutgers
 rva
@@ -3708,6 +3722,7 @@ steelers
 steinsgate
 Stellaris
 StellarisMemes
+Stepdadreflexes
 stephenking
 steve1989mreinfo
 stevenuniverse
@@ -3889,6 +3904,7 @@ TheClickOwO
 thedavidpakmanshow
 TheDeprogram
 TheDepthsBelow
+TheDragonPrince
 TheEminenceInShadow
 TheEricAndreShow
 TheFarSide
@@ -3992,6 +4008,7 @@ todoist
 toebeans
 Toefeathers
 ToiletPaperUSA
+tokkiefeesboek
 tollers
 tollywood
 TombRaider
@@ -4437,6 +4454,7 @@ yoga
 Yoimiya_Mains
 Yorkies
 YouBelongWithMemes
+YoujoSenki
 youngjustice
 youngpeopleyoutube
 YouniquePresenterMS
