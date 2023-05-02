@@ -152,6 +152,7 @@ AlisonBrie
 Allsvenskan
 AlternateHistory
 alternativeart
+AlternativeHistory
 AlzheimersGroup
 Alzwards_Corner
 AmateurRoomPorn
@@ -487,6 +488,7 @@ Belgium2
 Bellapoarch
 belowdeck
 Ben10
+benfica
 bengalcats
 bengals
 BenGarrisonCumEdits
@@ -554,6 +556,7 @@ BlackPeopleComedy
 blackpeoplegifs
 BlackPeopleTwitter
 BlackPink
+blackpowder
 Blacksmith
 BlackTemplars
 bladerunner
@@ -644,6 +647,7 @@ BravoRealHousewives
 Brawlstars
 Breadit
 BreadStapledToTrees
+BreadTube
 breakingbad
 breakingbadmemes
 Breath_of_the_Wild
@@ -657,6 +661,7 @@ britishshorthair
 BritishSuccess
 brittanydawnsnark
 brittneyatwood1
+Broadway
 Brochet
 Brogress
 brookemonke_xo
@@ -840,6 +845,7 @@ chicagobulls
 chicagofood
 chickens
 Chihuahua
+childemains
 ChildrenFallingOver
 chile
 China
@@ -1092,6 +1098,7 @@ Dank
 dank_meme
 DankAndrastianMemes
 dankchristianmemes
+DankExchange
 dankgentina
 dankinindia
 dankmark
@@ -1150,6 +1157,7 @@ deathguard40k
 deathnote
 DeathrattlePorn
 DeathStranding
+dechonkers
 declutter
 DeepIntoYouTube
 DeepRockGalactic
@@ -1157,6 +1165,7 @@ DeepSpaceNine
 DeFranco
 Defunctland
 Degrassi
+Dehyamains
 delhi
 deliciouscompliance
 Delightfullychubby
@@ -1164,6 +1173,7 @@ delta
 Deltarune
 delusionalartists
 delusionalcraigslist
+DemEyesDoe
 DemocraticSocialism
 democrats
 DemonSlayerAnime
@@ -1176,6 +1186,7 @@ denvernuggets
 DeppDelusion
 depression_memes
 depressionmeals
+DerryGirls
 DerScheisser
 desabafos
 DesantisJetTracker
@@ -1274,6 +1285,7 @@ DogsMirin
 dogsonroofs
 dogsusingpillows
 dogswithjobs
+Dogtraining
 dogvideos
 DokkanBattleCommunity
 Dominos
@@ -1372,6 +1384,7 @@ EliteDangerous
 EliteWeebs
 ElizabethOlsen
 ElonJetTracker
+elonmusk
 Elysia
 Embroidery
 EmiliaClarke
@@ -1442,6 +1455,7 @@ explainlikeimfive
 ExplainTheJoke
 ExposurePorn
 ExtremeCarCrashes
+extremelyinfuriating
 Eyebleach
 eyebombing
 f150
@@ -1491,6 +1505,7 @@ fashionsouls
 fasting
 fatestaynight
 Fauxmoi
+FCInterMilan
 Fedora
 feedthebeast
 feedthememes
@@ -1504,6 +1519,7 @@ FemboyFashion
 femboymemes
 feminineboys
 Feminism
+Fencing
 fennecfoxes
 fermentation
 ferrets
@@ -1689,9 +1705,11 @@ gamindustri
 gaming
 Gamingcirclejerk
 GamingDetails
+GamingLaptops
 GamingLeaksAndRumours
 gangweed
 Ganyu
+GarandThumb
 GardeningUK
 garfieldminusgarfield
 Garmin
@@ -1799,6 +1817,7 @@ Graffiti
 Granblue_en
 grandorder
 grandpajoehate
+grandrapids
 GrandSeikos
 GrandTheftAutoV
 granturismo
@@ -1851,6 +1870,7 @@ GYM
 GymMemes
 GymPawg
 h3h3productions
+H3VR
 Habs
 HadesTheGame
 HaileeSteinfeld
@@ -1866,6 +1886,7 @@ hamsters
 handbags
 HandfulOfKitten
 handholding
+HandOfMemes
 Handwriting
 HannibalTV
 happy
@@ -2380,6 +2401,7 @@ learningtocat
 LearnJapanese
 learnprogramming
 learnpython
+LearnUselessTalents
 Leathercraft
 leaves
 lebowski
@@ -2395,6 +2417,7 @@ LegendsOfRuneterra
 lego
 legocastles
 Legoleak
+legoRockets
 legostarwars
 LegoStarWarsVideoGame
 legotechnic
@@ -2805,6 +2828,7 @@ mythologymemes
 NaBoaChavaloRetardado
 NAFO
 nagatoro
+Nahida_Mains
 NailArt
 Nails
 NameNerdCirclejerk
@@ -2856,6 +2880,7 @@ neopets
 Nepal
 nerdfighters
 Nerf
+nes
 netflix
 NetflixBestOf
 Netherlands
@@ -3027,6 +3052,7 @@ okbuddyreiner
 okbuddyrintard
 okbuddyvowsh
 okkamaraderetarde
+okkolegauposledzony
 oklahoma
 okmatewanker
 okoidawappler
@@ -3340,6 +3366,7 @@ ProgrammerHumor
 programming
 programminghorror
 programminghumor
+ProgressionFantasy
 progun
 Project_Wingman
 projectcar
@@ -3432,6 +3459,7 @@ real_China_irl
 realasians
 reallifedoodles
 RealLifeShinies
+ReallyAmerican
 ReallyShittyCopper
 realmadrid
 RealTesla
@@ -3445,6 +3473,7 @@ reddeadredemption
 reddeadredemption2
 reddevils
 RedditLaqueristas
+redditsings
 RedDwarf
 redfall
 RedheadBeauties
@@ -3513,11 +3542,13 @@ rose
 Rottweiler
 roughcollies
 RoughRomanMemes
+Rowing
 RPClipsGTA
 rpg
 rpghorrorstories
 RTGameCrowd
 rugbyunion
+RuinedMyDay
 runefactory
 runescape
 rupaulsdragrace
@@ -3656,6 +3687,7 @@ ShitMomGroupsSay
 ShitpostBR
 ShitPostCrusaders
 shitposting
+shitposting_inc
 ShitpostTC
 ShitpostXIV
 Shitstatistssay
@@ -3863,6 +3895,7 @@ stevenuniverse
 sticknpokes
 StLouis
 stlouisblues
+sto
 stockholm
 StockMarket
 stocks
@@ -3880,6 +3913,7 @@ StrangeEarth
 StrangerThings
 stray
 straykids
+streeteats
 StreetFighter
 StreetMartialArts
 streetphotography
@@ -3931,6 +3965,7 @@ swedishproblems
 SWGalaxyOfHeroes
 Switch
 Switzerland
+SwitzerlandIsFake
 SWlegion
 swordartonline
 SWORDS
@@ -3993,6 +4028,7 @@ teefies
 teenagers
 teenagersbuthot
 teenagersnew
+teenmom
 TeenMomOGandTeenMom2
 Tekken
 telecaster
@@ -4175,6 +4211,7 @@ toptalent
 toradora
 tornado
 Torontobluejays
+TorontoDriving
 TorontoMetU
 torontoraptors
 torties
@@ -4214,6 +4251,7 @@ travisscott
 trebuchetmemes
 trees
 treeseatingthings
+TreesSuckingOnThings
 tressless
 tretinoin
 Trigun
@@ -4230,6 +4268,7 @@ trucksim
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
+truegaming
 truerateme
 TrueReddit
 TrueSTL
@@ -4329,6 +4368,7 @@ urbanexploration
 UrbanHell
 urbanplanning
 UrinatingTree
+UsefulCharts
 uselessredcircle
 UsernameChecksOut
 USMC
@@ -4607,6 +4647,7 @@ yandere
 YarnAddicts
 yarntrolls
 yayfoxxo
+yeezys
 Yeji
 YelanMains
 Yellowjackets
