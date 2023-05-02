@@ -112,6 +112,7 @@ AEWOfficial
 AFCSouthMemeWar
 afkarena
 AFL
+afrikaans
 AfterEffects
 AgainstHateSubreddits
 agedlikemilk
@@ -154,6 +155,7 @@ AlzheimersGroup
 Alzwards_Corner
 AmateurRoomPorn
 AmazonDSPDrivers
+AmazonFC
 AmazonFlexDrivers
 ambbabies
 ambien
@@ -289,6 +291,7 @@ Arkansas
 arknights
 ArlecchinoMains
 arma
+ArmchairExpert
 armoredcore
 army
 aromantic
@@ -360,6 +363,7 @@ AustralianShepherd
 australianwildlife
 Austria
 autism
+Autism_Parenting
 AutismInWomen
 autismmemes
 AutisticAdults
@@ -516,8 +520,10 @@ billieeilish
 BillieEilish1
 billsimmons
 bindingofisaac
+bingbongtheorem
 BinIchDasArschloch
 biology
+biologymemes
 bioniclelego
 bioniclememes
 Bioshock
@@ -784,6 +790,7 @@ CatTaps
 cavaliers
 CBSE
 CCW
+celeb_nylons
 CelebEvents
 celebrities
 CelebrityFeet
@@ -960,6 +967,7 @@ ContraPoints
 Conures
 ConvenientCop
 cookiedecorating
+CookieRunKingdoms
 Cooking
 CoolGadgetsTube
 coolguides
@@ -1106,6 +1114,7 @@ DarlingInTheFranxx
 DarthJarJar
 DarwinAwards
 dashcamgifs
+data_irl
 DataHoarder
 dataisbeautiful
 dataisugly
@@ -1193,6 +1202,7 @@ DHHMemes
 Diablo
 diablo2
 diablo4
+diannaagron
 DidntKnowIWantedThat
 Diesel
 digimon
@@ -1305,6 +1315,7 @@ dubai
 Dublin
 duck
 DuelLinks
+dumbasseswithlighters
 dumplingmeme
 DumpsterDiving
 DunderMifflin
@@ -1434,6 +1445,7 @@ facepalm
 Faces
 factorio
 Factoriohno
+Fahrrad
 failarmy
 FairytaleasFuck
 fakealbumcovers
@@ -1450,6 +1462,7 @@ FalloutMemes
 FalloutMods
 falloutnewvegas
 familyguy
+FamosasGifs
 FamousFaces
 FamousLatinas
 fanart
@@ -1526,6 +1539,7 @@ fivethirtyeight
 fixedbytheduet
 FixedGearBicycle
 Flamepoints
+Fleabag
 FlexinLesbians
 flightsim
 flipperzero
@@ -1609,6 +1623,8 @@ frugalmalefashion
 Fruitbatcats
 ft86
 fuckcars
+fuckcarsRomania
+FUCKFACEPOD
 fuckHOA
 FuckImOld
 FuckNestle
@@ -1630,6 +1646,7 @@ funkopop
 funny
 FunnyandSad
 FunnyAnimals
+FunnyAtheistMemes
 FunnyDogVideos
 Funnymemes
 funnysigns
@@ -1701,6 +1718,7 @@ geometrydash
 geopolitics
 Georgia
 germanshepherds
+GermanWW2photos
 germany
 GeschichtsMaimais
 GetMotivated
@@ -1721,6 +1739,7 @@ Giraffesdontexist
 girlsfrontline
 girlswithbigmuscles
 GirlsWithHugePussies
+Gittertiere
 givemeinteligens
 glasgow
 glitch_art
@@ -1794,6 +1813,7 @@ grilledcheese
 grilling
 Grimdank
 GriseldaxFR
+GroundedGame
 GTA
 GTA6
 gtaonline
@@ -1816,6 +1836,7 @@ Gunpla
 gunpolitics
 GunPorn
 guns
+GuyCry
 GuysBeingDudes
 GYM
 GymMemes
@@ -1934,6 +1955,7 @@ HonkaiStarRail
 HonkaiStarRail_leaks
 HonzukiNoGekokujou
 hopeposting
+Horimiya
 horizon
 Hornyjail
 horror
@@ -2048,6 +2070,7 @@ ImaginaryTamriel
 ImaginaryTechnology
 ImaginaryWarhammer
 ImaginaryWesteros
+ImaginaryWitches
 ImFinnaGoToHell
 Imperator
 ImperialKnights
@@ -2068,6 +2091,7 @@ indianbikes
 IndianBoysOnTinder
 IndianCountry
 IndianDankMemes
+IndianFootball
 IndianGaming
 Indiangirlsontinder
 IndianHipHopHeads
@@ -2114,6 +2138,7 @@ internet_funeral
 InternetIsBeautiful
 inthenews
 intotheshadowrealm
+intresseklubben
 introvert
 introvertmemes
 Invincible
@@ -2132,6 +2157,7 @@ IrrationalMadness
 islam
 IsraeliBeauty
 ITAGLIA
+Italia
 ItalianGreyhounds
 italy
 Itasha
@@ -2690,6 +2716,7 @@ ModernWarfareII
 moedred
 MoeMorphism
 MoldlyInteresting
+moldova
 MoldyMemes
 MomForAMinute
 Mommit
@@ -2773,6 +2800,7 @@ Naruto
 nasa
 NASCAR
 nashville
+NatalieDormer
 natalieportman
 nathanforyou
 NationalPark
@@ -2817,6 +2845,7 @@ NettHier
 networkingmemes
 Neverbrokeabone
 nevertellmetheodds
+NevilleGoddard
 NewDealAmerica
 Newfoundlander
 NewGirl
@@ -3036,7 +3065,9 @@ oscarrace
 OSHA
 OshiNoKo
 osp
+osubuddyretard
 osugame
+osvaldo12
 OTMemes
 otomegames
 OtomeIsekai
@@ -3133,6 +3164,7 @@ PersonalFinanceCanada
 perth
 PetAfterVet
 PeterExplainsTheJoke
+PetiteFitness
 PetMice
 PetsareAmazing
 PetTheDamnCat
@@ -3275,6 +3307,7 @@ preyingmantis
 Priconne
 PrideAndPinion
 PrincessesOfPower
+PrintedMinis
 PrintedWarhammer
 privacy
 proceduralgeneration
@@ -3320,6 +3353,7 @@ PvZGardenWarfare
 PvZHeroes
 pyrocynical
 QAnonCasualties
+qotsa
 quandle
 Quebec
 queen
@@ -3425,6 +3459,7 @@ RhodesianRidgebacks
 rickandmorty
 rickygervais
 rienabranler
+RightJerk
 rimjob_steve
 Rimuru
 RimWorld
@@ -3484,6 +3519,7 @@ SaimanSays
 SaintMeghanMarkle
 SaintRampalJi
 saiyanpeopletwitter
+sallyface
 saltierthancrait
 saltierthankrayt
 SaltLakeCity
@@ -3512,6 +3548,7 @@ Scams
 ScaramoucheMains
 ScarySigns
 Schaffrillas
+SchittsCreek
 schizoposters
 schkreckl
 schnauzers
@@ -3680,7 +3717,9 @@ smashbros
 SmashBrosUltimate
 Smite
 smoking
+smoobypost
 SmugIdeologyMan
+snails
 snakes
 SnakesWithHats
 Sneks
@@ -3747,6 +3786,7 @@ SquaredCircle
 SquarePosting
 squirrels
 squishmallow
+SS13
 SSBM
 StableDiffusion
 StainedGlass
@@ -3807,6 +3847,7 @@ stopdrinkingfitness
 StoppedWorking
 Stormlight_Archive
 straightenedfeetsies
+StrangeAndFunny
 StrangeEarth
 StrangerThings
 stray
@@ -3822,6 +3863,7 @@ stupiddovenests
 StupidFood
 stupidpol
 subaru
+submarines
 submechanophobia
 submitted
 subnautica
@@ -4056,6 +4098,7 @@ TikTokCringe
 TikTokSeeThrough
 tiktokthots_2
 TILI
+tiltshift
 Tinder
 tinyanimalsonfingers
 Tinycatsinbigspaces
@@ -4127,6 +4170,7 @@ transformers
 transgender
 transguns
 transit
+transitiongoals
 TransLater
 Transmogrification
 trashpandas
@@ -4227,6 +4271,7 @@ UnexpectedJoJo
 UnexpectedlyWholesome
 unexpectedMontyPython
 unexpectedoffice
+UnexpectedTF2
 unfortunateplacement
 unitedairlines
 unitedkingdom
@@ -4459,10 +4504,12 @@ wokekids
 WolvesAreBigYo
 WomenSoccerLegs
 womensstreetwear
+wonderdraft
 Woodcarving
 woodworking
 woof_irl
 woooosh
+woosh
 wordington
 WorkersStrikeBack
 WorkReform
@@ -4546,6 +4593,7 @@ yugioh
 YuGiOhMemes
 yuna
 YuYuHakusho
+ZaidZIZ
 ZanClan
 ZBrush
 ZeducationSubmissions
@@ -4558,3 +4606,4 @@ zocken
 ZombielandSaga
 Zoomerchan3
 Zoomies
+zootopia
