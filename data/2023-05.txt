@@ -319,6 +319,7 @@ architecture
 ArchitecturePorn
 arcticmonkeys
 arduino
+Argaming
 argentina
 ArgentinaBenderStyle
 Argnime
@@ -809,6 +810,7 @@ CallOfDuty
 CallOfDutyMobile
 calvinandhobbes
 camaro
+Cameras
 camilamendes
 camphalfblood
 canada
@@ -1119,6 +1121,7 @@ copypasta
 coralisland
 cordcutters
 corgi
+Corina_907
 Coronavirus
 CorporateFacepalm
 Corvette
@@ -1867,6 +1870,7 @@ FrankOcean
 Frasier
 FRC
 FreckledGirls
+freebies
 FreeCompliments
 freefolk
 freefromwork
@@ -2148,6 +2152,7 @@ H3VR
 Habs
 hacking
 HadesTheGame
+HadToHurt
 HaileeSteinfeld
 hailhortler
 HalfLife
@@ -2558,6 +2563,7 @@ Jeopardy
 jerma985
 jerseyshore
 jessicaalba
+jesuschristouija
 Jewdank
 Jewish
 jihyo
@@ -2661,6 +2667,7 @@ killthecameraman
 Killtony
 KimetsuNoYaiba
 KimiNoNaWa
+kindafunny
 kingdomcome
 KingdomHearts
 kingofqueens
@@ -3009,6 +3016,7 @@ MDMA
 me_irl
 me_irlgbt
 MealPrepSunday
+MeatCanyon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
@@ -3048,6 +3056,7 @@ MenAndFemales
 MensLib
 MensRights
 menwritingwomen
+meormyson
 MEOW_IRL
 mercedes_benz
 Metalcore
@@ -3172,6 +3181,7 @@ MonsterHunter
 MonsterHunterWorld
 Montana
 Moonmoon
+MoonPissing
 MorbidWaysToDie
 Mordhau
 mordheim
@@ -3628,6 +3638,7 @@ pathfindermemes
 pathofexile
 PathOfExileBuilds
 PathToNowhere
+PatMcAfeeShowOfficial
 Patriots
 paydaytheheist
 PaymoneyWubby
@@ -4038,6 +4049,7 @@ Rollerskating
 RomanceClub
 Romania
 romemes
+ronperlmancats
 RoomPorn
 roosterteeth
 rose
@@ -4078,6 +4090,7 @@ Sacramento
 sadboys
 sadcats
 sadcringe
+SadHorseShow
 Sadiesink
 sadposting
 sailing
@@ -4086,6 +4099,7 @@ SaimanSays
 SaintMeghanMarkle
 SaintRampalJi
 saiyanpeopletwitter
+Salamanders40k
 sallyface
 saltierthancrait
 saltierthankrayt
@@ -4251,6 +4265,7 @@ shockwaveporn
 shorthairedhotties
 shortscarystories
 shouldercats
+ShowerOrange
 Showerthoughts
 Shrek
 Shrimping
@@ -4300,6 +4315,7 @@ Skookum
 skoolies
 skrillex
 Skullgirls
+skyblivion
 SkyChildrenOfLight
 SkyPorn
 skyrim
@@ -4483,6 +4499,7 @@ StrangePlanet
 StrangerThings
 stray
 straykids
+streetart
 streeteats
 StreetFighter
 StreetMartialArts
@@ -4878,6 +4895,7 @@ treeseatingthings
 TreesSuckingOnThings
 tressless
 tretinoin
+triangle
 Trigun
 TripodCats
 trippinthroughtime
@@ -4983,6 +5001,7 @@ UnexpectedJoJo
 UnexpectedLetterkenny
 UnexpectedlyWholesome
 unexpectedMontyPython
+UnexpectedMulaney
 unexpectedoffice
 unexpectedpawnee
 UnexpectedTF2
@@ -5064,6 +5083,7 @@ vexillology
 vexillologycirclejerk
 veYakinEvren
 VHS
+victoria2
 victoria3
 VictoriaBC
 victoriajustice
@@ -5087,6 +5107,7 @@ vintagejapaneseautos
 vinyl
 vinyljerk
 VioletEvergarden
+Viral_Indian
 Virginia
 virginvschad
 virtualreality
@@ -5289,6 +5310,7 @@ WorldofTanks
 WorldOfWarships
 wortwitzkasse
 WoT
+WouldYouRather
 wow
 wowthanksimcured
 Wrasslin
@@ -5376,6 +5398,7 @@ ZBrush
 ZeducationSubmissions
 zelda
 ZeldaIsCute
+ZeldaMemes
 Zendaya
 zerobaseone
 ZeroWaste
