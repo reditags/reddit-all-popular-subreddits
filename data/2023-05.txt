@@ -741,6 +741,7 @@ BreadStapledToTrees
 BreadTube
 breakingbad
 breakingbadmemes
+BreakUps
 Breath_of_the_Wild
 BRF
 bridezillas
@@ -1681,6 +1682,7 @@ F1Game
 F1NN5TER
 F1Porn
 F1Technical
+FacebookScience
 facepalm
 Faces
 factorio
@@ -1713,6 +1715,7 @@ fantasybaseball
 fantasyfootball
 fantasymoe
 FantasyPL
+FanTheories
 farcry
 farialimabets
 farmingsimulator
@@ -1827,6 +1830,7 @@ FoodLosAngeles
 FoodPorn
 Foofighters
 football
+footballcards
 footballmanagergames
 footballmemes
 foraging
@@ -2076,6 +2080,7 @@ GolfGTI
 GoodAssSub
 goodboomerhumor
 GoodFakeTexts
+GoodGoodMemes
 goodmythicalmorning
 goodrestrictionfood
 google
@@ -2879,6 +2884,7 @@ lostarkgame
 lostpause
 lostredditors
 lotr
+LOTR_on_Prime
 lotrmemes
 Louisiana
 Louisville
@@ -3027,6 +3033,7 @@ MeatCanyon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
+Mechwarrior5
 MedicalGore
 MedievalCats
 medievaldoctor
@@ -3711,6 +3718,7 @@ phish
 phoebebridgers
 phoenix
 PhoenixSC
+PhonesAreBad
 photocritique
 photographs
 photoshop
@@ -4634,6 +4642,7 @@ tea
 Teachers
 teaching
 TeamfightTactics
+TeamFourStar
 tearsofthekingdom
 tech
 technews
@@ -5054,6 +5063,7 @@ USMC
 USPS
 ussoccer
 Utah
+UTAustin
 utdallas
 uwo
 UXDesign
@@ -5218,6 +5228,7 @@ Wellington
 Wellthatsucks
 Wellworn
 wendigoon
+WerWieWas
 westies
 WestVirginia
 westworld
