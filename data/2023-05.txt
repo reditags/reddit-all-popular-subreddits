@@ -118,6 +118,7 @@ aeiou
 Aespa
 Aether_Mains
 AEWOfficial
+AFCNorthMemeWar
 AFCSouthMemeWar
 afkarena
 AFL
@@ -366,6 +367,7 @@ asoiaf
 asoiafcirclejerk
 aspergers
 assassinscreed
+AssassinsCreedMemes
 AssassinsCreedOdyssey
 assettocorsa
 assholedesign
@@ -434,6 +436,7 @@ AyakaMains
 AyyMD
 AZCardinals
 AzerbaijanJerky
+Azoozkie
 babushkadogs
 babyanimals
 babybigcatgifs
@@ -453,6 +456,7 @@ badcode
 Badfaketexts
 badhistory
 badmathematics
+BadMensAnatomy
 badMovies
 badwomensanatomy
 BaizhuMains
@@ -698,6 +702,7 @@ Boxers
 Boxing
 boxingcirclejerk
 boxoffice
+boyslove
 BPDmemes
 BrandNewAnimal
 BrandNewSentence
@@ -921,6 +926,7 @@ Chargers
 charlixcx
 Charlotte
 ChatGPT
+Chattanooga
 cheating_stories
 Cheese
 Cheetahs
@@ -1107,6 +1113,7 @@ cowboybebop
 cowboys
 cowcats
 coys
+cozy
 CozyGrove
 CozyPlaces
 Cr1TiKaL
@@ -1142,6 +1149,7 @@ croatia
 CrochetBlankets
 crocheting
 cromch
+croptopgirls
 Crossdress_Expression
 crossdressing
 CrossfitGirls
@@ -1390,6 +1398,7 @@ DiWHY
 DIY
 diynz
 DJs
+Djungelskog
 DMAcademy
 DMDadJokes
 DMT
@@ -1468,6 +1477,7 @@ DronedOrc
 dropout
 DrStone
 DRSyourGME
+druegabebashin
 drugmemes
 Drugs
 drums
@@ -1614,6 +1624,7 @@ existentialcrisiscat
 exjw
 exmormon
 exmuslim
+exo
 exocomics
 ExpandDong
 ExpectationVsReality
@@ -1829,6 +1840,7 @@ frogs
 FromKittenToCat
 fromsoftware
 FromTheDepths
+Frostpunk
 Frugal
 Frugal_Jerk
 frugalmalefashion
@@ -1904,6 +1916,7 @@ GamingDetails
 GamingLaptops
 GamingLeaksAndRumours
 gangweed
+gank
 Ganyu
 GarandThumb
 GardeningUK
@@ -2562,6 +2575,7 @@ keming
 kendalljenner
 KendrickLamar
 Kengan_Ashura
+KenM
 kennyvsspenny
 Kenshi
 Kentucky
@@ -2854,6 +2868,7 @@ magicthecirclejerking
 Maine
 mainecoons
 MaintenancePhase
+MakeMeRichIDC
 MakeMeSuffer
 MakeupAddiction
 MakeupLounge
@@ -2990,6 +3005,7 @@ Michigan
 MichiganWolverines
 microgrowery
 MicroPorn
+microsoft
 MicrosoftFlightSim
 MicrosoftRewards
 Mid_Century
@@ -3080,6 +3096,7 @@ MoldyMemes
 MomForAMinute
 Mommit
 monarchism
+MonicaBarbaro
 MonicaBellucci
 Monk
 Monstera
@@ -3151,6 +3168,7 @@ MysteriousFacts
 MysteryDungeon
 mysticmessenger
 mythologymemes
+N_N_N
 NaBoaChavaloRetardado
 NAFO
 nagatoro
@@ -3410,6 +3428,7 @@ OldSchoolCelebs
 OldSchoolCool
 OldSchoolRidiculous
 oliver
+oliviadunne
 OliviaMunn
 OliviaRodrigoNSFW
 OmegaWatches
@@ -3629,6 +3648,7 @@ PizzaTower
 PKA
 Planetside
 PlantBasedDiet
+plantclinic
 PlantedTank
 PlantGoths
 plants
@@ -3641,6 +3661,7 @@ PleX
 Plumbing
 plushies
 PlusSizeFashion
+PNVmilitary_community
 pocketpussy
 Poetry
 pointlesslygendered
@@ -3734,6 +3755,7 @@ productivity
 ProductManagement
 ProfessorLayton
 progmetal
+ProgrammerAnimemes
 ProgrammerHumor
 programming
 programminghorror
@@ -3993,6 +4015,7 @@ SatanicTemple_Reddit
 SatisfactoryGame
 satisfying
 Satisfyingasfuck
+SavageGarden
 SAVEBRENDAN
 savedyouaclick
 saw
@@ -4112,6 +4135,7 @@ shittyfoodporn
 Shittygamecollecting
 shittygamedetails
 ShittyGifRecipes
+shittyhalolore
 ShittyLifeProTips
 ShittyMapPorn
 shittymobilegameads
@@ -4133,6 +4157,7 @@ Showerthoughts
 Shrek
 Shrimping
 shrimptank
+shrinkflation
 shrooms
 shubreddit
 ShuumatsuNoValkyrie
@@ -4181,6 +4206,7 @@ SkyPorn
 skyrim
 SkyrimMemes
 skyrimmods
+SkyrimPorn
 skywind
 slammywhammies
 SlavaUkrayini
@@ -4255,6 +4281,7 @@ specializedtools
 SpeedOfLobsters
 sphynx
 SpiceandWolf
+spicy
 spicypillows
 spiderbro
 Spiderman
@@ -4382,6 +4409,7 @@ suddenlybi
 SuddenlyCommunist
 SuddenlyLesbian
 SuddenlyTrans
+Sufjan
 suicidebywords
 summerhousebravo
 summonerschool
@@ -4561,6 +4589,7 @@ thegrandtour
 TheGriffonsSaddlebag
 TheGrittyPast
 TheHandmaidsTale
+theJoeBuddenPodcast
 TheKillers
 TheLastAirbender
 TheLastKingdom
@@ -4814,6 +4843,7 @@ UKPersonalFinance
 ukraina
 ukraine
 UkraineConflict
+UkraineInvasionVideos
 UkraineWarVideoReport
 UkrainianConflict
 Ulta
@@ -4840,6 +4870,7 @@ unexpectedoffice
 unexpectedpawnee
 UnexpectedTF2
 unfortunateplacement
+UniSwap
 unitedairlines
 unitedkingdom
 unitedstatesofindia
@@ -4925,6 +4956,7 @@ vidid
 VietNam
 VillagePorn
 Vindicta
+VindictaRateCelebs
 Vinesauce
 VinlandSaga
 vintage
@@ -5016,6 +5048,7 @@ weezer
 weimaraner
 Weird
 weirddalle
+weirdspotifyplaylists
 weirdvideosfor3am
 WeirdWheels
 WeirdWings
