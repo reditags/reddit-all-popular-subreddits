@@ -2,6 +2,7 @@
 1000lbsisters
 100gecs
 100Kanojo
+100thieves
 100yearsago
 11foot8
 1200isjerky
@@ -217,6 +218,7 @@ Anarchism
 Anarcho_Capitalism
 Anarchy4Everyone
 AnarchyChess
+AnarchyMemeCollective
 Anbennar
 ancientrome
 andor
@@ -299,6 +301,7 @@ aoe4
 AOW4
 Apandah
 ape
+aPeoplesCalendar
 apexlegends
 ApexOutlands
 Apexrollouts
@@ -371,6 +374,7 @@ AskCulinary
 AskDocs
 AskHistorians
 AskLosAngeles
+AskMechanics
 AskMen
 AskMenOver30
 AskMiddleEast
@@ -489,6 +493,7 @@ badhistory
 badmathematics
 BadMensAnatomy
 badMovies
+BadMtgCombos
 BadMUAs
 badwomensanatomy
 BaizhuMains
@@ -1062,6 +1067,7 @@ CineShots
 CirclejerkSopranos
 cirkeltrek
 CitiesSkylines
+citypop
 CityPorn
 civ
 civ5
@@ -1111,6 +1117,7 @@ coins
 Coldmirror
 ColdOnes
 college
+collegebaseball
 CollegeBasketball
 CollegeRant
 ColleiMains
@@ -1740,6 +1747,7 @@ EulaMains
 euphoria
 EUR_irl
 europe
+EuropeanFederalists
 eurovision
 evangelion
 evangelionmemes
@@ -1775,6 +1783,7 @@ FacebookScience
 facebookwins
 facepalm
 Faces
+facingtheirparenting
 factorio
 Factoriohno
 Fahrrad
@@ -1977,6 +1986,7 @@ freebies
 FreeCompliments
 freefolk
 freefromwork
+FreeGameFindings
 freemagic
 FREEMEDIAHECKYEAH
 Frenchbulldogs
@@ -2071,6 +2081,7 @@ GamingLeaksAndRumours
 gangstaswithwaifus
 gangweed
 gank
+GannonStauch
 Ganyu
 GarandThumb
 GardeningUK
@@ -2415,6 +2426,7 @@ HottestFemaleAthletes
 hottoys
 HotWheels
 houkai3rd
+HouseFlipper
 HouseMD
 HouseOfTheDragon
 houseplants
@@ -2854,6 +2866,7 @@ kotor
 KOTORmemes
 kpics
 kpop
+kpoprants
 kpopthoughts
 kristalrq2
 kristenbell
@@ -3005,6 +3018,7 @@ LivMorgan
 Lizards
 lizgillies
 LNPCorruption
+lockpicking
 LodedDiper
 loicense
 Lolirefugees
@@ -3435,6 +3449,7 @@ MysteriousFacts
 mystery
 MysteryDungeon
 mysticmessenger
+mythology
 mythologymemes
 n64
 N_N_N
@@ -3506,6 +3521,7 @@ netflix
 NetflixBestOf
 netflixwitcher
 Netherlands
+netsec
 NettHier
 networkingmemes
 neutralmilkhotel
@@ -3632,6 +3648,7 @@ nottheonion
 nova
 noveltranslations
 nowmycat
+noworking
 NPPfunny
 NPR
 nrl
@@ -3691,6 +3708,7 @@ okbuddyhololive
 okbuddyHRetard
 OkBuddyPersona
 okbuddyphd
+OkBuddyPoliceOfficer
 okbuddyrathalos
 okbuddyreiner
 okbuddyreze
@@ -3713,6 +3731,7 @@ OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
 OldSchoolRidiculous
+OLED_Gaming
 oliver
 oliviadunne
 OliviaMunn
@@ -3873,6 +3892,7 @@ PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
 peopleplayground
+PercyJacksonMemes
 Perfectfit
 perfectloops
 PerfectlyCutBooms
@@ -3923,6 +3943,7 @@ photoshop
 photoshopbattles
 PhotoshopRequest
 Physics
+physicsgifs
 physicsmemes
 piano
 Picard
@@ -4019,6 +4040,7 @@ popheadscirclejerk
 popping
 poppunkers
 Popular_Science_Ru
+PornIsMisogyny
 porramauricio
 Porsche
 Portal
@@ -4036,6 +4058,7 @@ PouchCatatoes
 poutine
 pouts
 povertyfinance
+PowerMetal
 powerrangers
 powerwashingporn
 PragerUrine
@@ -4337,6 +4360,7 @@ SaintRampalJi
 saiyanpeopletwitter
 Salamanders40k
 sallyface
+SalsaSnobs
 saltierthancrait
 saltierthankrayt
 SaltLakeCity
@@ -4825,6 +4849,7 @@ SushiAbomination
 suspiciouslyspecific
 suspiciousquotes
 sustainability
+suzerain
 SVU
 swans
 Sweatcicle
@@ -5374,11 +5399,13 @@ VeteransBenefits
 vexillology
 vexillologycirclejerk
 veYakinEvren
+VGC
 VHS
 victoria2
 victoria3
 VictoriaBC
 victoriajustice
+videogamedunkey
 videogames
 videography
 videomemes
@@ -5394,6 +5421,7 @@ vintage
 vintageads
 VintageApple
 vintageaudio
+vintagecomputing
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
@@ -5525,6 +5553,7 @@ WhatsWrongWithYourCat
 WhatsWrongWithYourDog
 whenthe
 whenwomenrefuse
+Whippets
 WhiskerFireworks
 whiskey
 WhiteCats
