@@ -112,6 +112,7 @@ AddisonRae
 Adelaide
 AdeptusCustodes
 AdeptusMechanicus
+adeptustitanicus
 ADHDinos
 ADHDmemes
 AdorableDragons
@@ -498,6 +499,7 @@ BadMensAnatomy
 badMovies
 BadMtgCombos
 BadMUAs
+badtaxidermy
 badwomensanatomy
 BaizhuMains
 Baking
@@ -1158,6 +1160,7 @@ CommunismMemes
 community
 CompetitiveApex
 Competitiveoverwatch
+CompetitiveTFT
 CompetitiveWoW
 compoface
 computers
@@ -1940,6 +1943,7 @@ fo76
 fo76FilthyCasuals
 foals
 FocalorsMains_
+FolkPunk
 FondantHate
 food
 Foodforthought
@@ -1993,6 +1997,7 @@ fragrance
 FragReddit
 framework
 france
+FranceDetendue
 FrankOcean
 Frasier
 FRC
@@ -3089,6 +3094,7 @@ LoveNikki
 Lowes
 LowQualityMemes
 lowriders
+LowSodiumDestiny
 LPOTL
 LSD
 LTB_iel
@@ -3234,6 +3240,7 @@ medievaldoctor
 MedievalHistoryMemes
 medizzy
 medlabprofessionals
+MeetYourMakerGame
 Megadeth
 megalophobia
 Megaman
@@ -3416,6 +3423,7 @@ MortalKombat
 MostBeautiful
 motogp
 motorboat
+motorcitykitties
 motorcycle
 MotorcyclePorn
 motorcycles
@@ -4402,6 +4410,7 @@ samoyeds
 sanantonio
 SandersForPresident
 SanDiegan
+Sandman
 sanfrancisco
 SanitySouthAfrica
 SanJose
@@ -5005,6 +5014,7 @@ ThanksCyno
 thanksihateit
 thanksimcured
 thanosdidnothingwrong
+That70sshow
 thatHappened
 ThatLookedExpensive
 Thatsabooklight
@@ -5084,6 +5094,7 @@ TheRatEmpire
 TheRealJoke
 TheRedDotComic
 thereifixedit
+ThereIsnoCat
 therewasanattempt
 TheRightCantMeme
 TheSimpsons
@@ -5493,6 +5504,7 @@ VRchat
 VShojo
 vtm
 vtolvr
+vultureculture
 VuvuzelaIPhone
 VyvanLe
 W2S
