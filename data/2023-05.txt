@@ -350,6 +350,7 @@ ArsenalWFC
 Art
 ArtDeco
 ArtefactPorn
+ArtisanVideos
 ArtOfRolling
 ArtPorn
 AsaCumEramOdata
@@ -455,6 +456,7 @@ AZCardinals
 AzerbaijanJerky
 Azoozkie
 babushkadogs
+Babushkats
 babyanimals
 babybigcatgifs
 BabyBumps
@@ -1239,6 +1241,7 @@ CurseofStrahd
 customhearthstone
 CustomLoR
 custommagic
+CustomPlayerCutscene
 cute
 cuteguys
 cuteguyswithcats
@@ -2025,6 +2028,7 @@ GaySoundsShitposts
 geek
 geekygirls
 gekte
+Gemstones
 genderfluid_irl
 genestealercult
 Genshin_Impact
@@ -2854,6 +2858,7 @@ lgballt
 lgbt
 lgbtmemes
 LGBTnews
+Liberal
 liberalgunowners
 liberta
 Libertarian
@@ -2999,6 +3004,7 @@ makeyourchoice
 MaladaptiveDreaming
 MalayalamMovies
 malaysia
+Malazan
 malcolminthemiddle
 malegrooming
 malelivingspace
@@ -3364,6 +3370,7 @@ Necrontyr
 nederlands
 needforspeed
 neekolul
+nekoatsume
 NelliesNest
 neography
 neoliberal
@@ -3694,6 +3701,7 @@ Paranormal
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
+parentsofmultiples
 ParkJihyo
 ParlerWatch
 parrots
@@ -3799,6 +3807,7 @@ PiratedGames
 Piratefolk
 PirateKitties
 PiratePets
+PitBullOwners
 pitbulls
 pitbulls_in_partyhats
 pitbullsinjammies
@@ -4195,6 +4204,7 @@ SanDiegan
 sanfrancisco
 SanJose
 SanJoseSharks
+sanpedrocactus
 sanrio
 saopaulo
 SapphoAndHerFriend
@@ -4399,6 +4409,7 @@ skrillex
 Skullgirls
 skyblivion
 SkyChildrenOfLight
+skylanders
 SkyPorn
 skyrim
 SkyrimMemes
@@ -4423,6 +4434,7 @@ smashbros
 SmashBrosUltimate
 Smilepleasse
 Smite
+SmithAndWesson
 smoking
 smokingwomen
 smoobypost
@@ -4671,6 +4683,7 @@ Syracuse
 sysadmin
 TabbyCats
 tacobell
+Tacoma
 tacticalgear
 TacticalIssueCat
 Takagi_san
@@ -4893,6 +4906,7 @@ tiltshift
 TimAndEric
 timberwolves
 TimDillon
+TimHortons
 Tinder
 tinyanimalsonfingers
 tinyawoos
