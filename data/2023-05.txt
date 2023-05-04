@@ -153,6 +153,7 @@ AIVoiceMemes
 aiyu
 AJR
 ak47
+akita
 alaska
 Albany
 AlbedosCreations
@@ -767,6 +768,7 @@ brdev
 Breadit
 BreadStapledToTrees
 BreadTube
+BreakfastFood
 breakingbad
 breakingbadmemes
 BreakUps
@@ -1036,6 +1038,7 @@ Christianity
 christinahendricks
 ChronicIllness
 ChronicPain
+ChurchOfCat
 ChurchOfDorothea
 ChurchofFroppy
 churchoffutaba
@@ -1349,6 +1352,7 @@ dataisugly
 datascience
 dating
 dating_advice
+datingoverfifty
 DaysGone
 Daytrading
 dayz
@@ -1449,6 +1453,7 @@ devinbrugman
 devsarg
 Dexter
 DHHMemes
+diabetes_t1
 Diablo
 diablo2
 diablo4
@@ -1569,6 +1574,7 @@ DragonsDogma
 dragrace
 DrakeTheType
 DramaticHouseplants
+Draven
 Drawfee
 drawing
 Dreadlocks
@@ -1991,6 +1997,7 @@ FuckNestle
 FuckPierre
 Fuckthealtright
 fucktheccp
+fuckxavier
 FUCKYOUINPARTICULAR
 FuckYouKaren
 fuckyourheadlights
@@ -2459,6 +2466,7 @@ IdiotsFightingThings
 IdiotsInBoats
 IdiotsInCars
 IdiotsNearlyDying
+IdiotsOnBikes
 Idiotswithguns
 idiotwastingtime
 IDONTGIVEASWAG
@@ -2751,6 +2759,7 @@ katyperry
 KavehMains
 Kaylemains
 Kazumin
+kcregionalwx
 KDRAMA
 KeanuBeingAwesome
 Keep_Track
@@ -3072,6 +3081,7 @@ MagicArena
 MagicEye
 magicTCG
 magicthecirclejerking
+magnetfishing
 Maine
 mainecoons
 MaintenancePhase
@@ -3257,6 +3267,7 @@ Millennials
 MillieBobbyBrown2
 milwaukee
 MilwaukeeTool
+Mimosa
 mina_irl
 Mindfulness
 MindHunter
@@ -3308,6 +3319,7 @@ mmamemes
 MMAT
 MobileLegendsGame
 Mobpsycho100
+ModelsGoneMild
 modeltrains
 Modern_Family
 modernwarfare
@@ -3365,6 +3377,7 @@ movies
 Moviesinthemaking
 MrRobot
 MrTechnodad
+mscsmedia
 MSsEcReTPoDcAsT
 MST3K
 MTB
@@ -3541,6 +3554,7 @@ njpw
 NLBest
 NLCelebs
 NMIXX
+Nmpx
 NMSCoordinateExchange
 NoahGetTheBoat
 NoahGetTheDeathStar
@@ -3905,6 +3919,7 @@ PiratedGames
 Piratefolk
 PirateKitties
 PiratePets
+pisscommenting
 PitBullOwners
 pitbulls
 pitbulls_in_partyhats
@@ -4189,6 +4204,7 @@ religiousfruitcake
 Reno
 rentnerzeigenaufdinge
 Repaintings
+repbudgetsneakers
 Repsneakers
 reptiles
 RepublicaArgentina
@@ -4339,6 +4355,7 @@ schkreckl
 schnauzers
 SchnitzelVerbrechen
 science
+sciencefiction
 sciencememes
 ScienceNcoolThings
 ScienceUncensored
@@ -4463,6 +4480,7 @@ shittytechnicals
 ShittyVeganFoodPorn
 ShitWehraboosSay
 shockwaveporn
+shoegaze
 shorthairedhotties
 shortscarystories
 shouldercats
@@ -4607,6 +4625,7 @@ specializedtools
 SpeedOfLobsters
 spelunky
 sphynx
+SphynxCats
 SpiceandWolf
 spicy
 spicypillows
@@ -4762,6 +4781,7 @@ superman
 SuperMegaBaseball
 SuperMegaShow
 SupermodelCats
+supermoto
 Supernatural
 supersentai
 Superstonk
@@ -5016,6 +5036,7 @@ thugeshh
 thumbcats
 Thunder
 tifu
+TighnariMains
 tightdresses
 TIGHTPUSSY
 TIHI
@@ -5241,6 +5262,7 @@ UnexpectedMulaney
 unexpectedoffice
 unexpectedpawnee
 UnexpectedTF2
+unexpectedute
 unfortunateplacement
 UniSwap
 unitedairlines
