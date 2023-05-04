@@ -17,6 +17,7 @@
 2american4you
 2Asia4u
 2b2t
+2BALTIC4YOU
 2bharat4you
 2easterneuropean4u
 2greek4you
@@ -412,6 +413,7 @@ Audi
 Augenbleiche
 auroramusic
 AusFinance
+auslaw
 AusMemes
 AussieCasual
 australia
@@ -562,6 +564,7 @@ BeforeNAfterAdoption
 BeginnerWoodWorking
 behindthebastards
 beholdthemasterrace
+Beichtstuhl
 BeidouMains
 BelgianMalinois
 belgium
@@ -856,6 +859,7 @@ caps
 CaptainSparrowmemes
 capybara
 carcrash
+cardfightvanguard
 Cardinals
 cardsagainsthumanity
 Career
@@ -1310,6 +1314,7 @@ DankMemesFromSite19
 DankPods
 dankrishu
 dankruto
+danktintinmemes
 dankvideos
 DanLeBatardShow
 DanMachi
@@ -1408,6 +1413,7 @@ desabafos
 DesantisJetTracker
 Design
 DesignDesign
+DesignerReps
 DesignMyRoom
 DesignPorn
 DesirePath
@@ -1740,6 +1746,7 @@ F1NN5TER
 F1Porn
 F1Technical
 FacebookScience
+facebookwins
 facepalm
 Faces
 factorio
@@ -2805,6 +2812,7 @@ kpics
 kpop
 kpopthoughts
 kristalrq2
+kristenbell
 ksi
 KSPMemes
 KukiShinobuMains
@@ -2885,6 +2893,7 @@ LegoStarWarsVideoGame
 legotechnic
 LEMMiNO
 LeniKlum
+LenovoLegion
 leopardgeckos
 LeopardsAteMyFace
 leotards
@@ -3052,6 +3061,7 @@ makeyourchoice
 MaladaptiveDreaming
 MalayalamMovies
 malaysia
+MalaysianFood
 Malazan
 malcolminthemiddle
 malegrooming
@@ -3342,6 +3352,7 @@ mtg
 mtgfinance
 MtvChallenge
 mumbai
+Munich
 MurataMains
 MurderBuns
 MurderDrones
@@ -3438,6 +3449,7 @@ nervysquervies
 nes
 netflix
 NetflixBestOf
+netflixwitcher
 Netherlands
 NettHier
 networkingmemes
@@ -3851,6 +3863,7 @@ photoshopbattles
 PhotoshopRequest
 Physics
 physicsmemes
+piano
 Picard
 PickleFinancial
 pics
@@ -4117,6 +4130,7 @@ ReasonableFantasy
 REBubble
 recipes
 recruitinghell
+red_velvet
 RedBullRacing
 RedDeadOnline
 reddeadredemption
@@ -4267,6 +4281,7 @@ sanantonio
 SandersForPresident
 SanDiegan
 sanfrancisco
+SanitySouthAfrica
 SanJose
 SanJoseSharks
 sanpedrocactus
@@ -4457,6 +4472,7 @@ sims2
 Sims3
 Simulated
 singapore
+singaporehappenings
 SingaporeRaw
 singularity
 Sino
