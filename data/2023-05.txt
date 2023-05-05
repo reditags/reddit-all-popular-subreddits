@@ -378,6 +378,7 @@ AskBalkans
 askcarsales
 AskCulinary
 AskDocs
+askgaybros
 AskHistorians
 AskLosAngeles
 AskMechanics
@@ -623,6 +624,7 @@ bi_irl
 bicycletouring
 bicycling
 BicyclingCirclejerk
+Big4
 BigAssWhiteGirls
 bigbangtheory
 bigboobproblems
@@ -1033,6 +1035,7 @@ charlixcx
 Charlotte
 ChatGPT
 Chattanooga
+chch
 cheating_stories
 Cheese
 Cheetahs
@@ -2309,6 +2312,7 @@ GTAV
 gtavcustoms
 GuardianTales
 guessmyage
+GUIBELREVIEWS
 GuildValkyrie
 Guildwars2
 GuiltyDogs
@@ -2441,6 +2445,7 @@ hockeymemes
 hockeyplayers
 hoggit
 hogrida
+hogwartslegacyJKR
 hoi4
 HOI4memes
 holdmycatnip
@@ -2646,6 +2651,7 @@ IndianFootball
 IndianGaming
 Indiangirlsontinder
 IndianHipHopHeads
+IndianMatchmaking
 indianmemer
 IndianMeyMeys
 IndiaNostalgia
@@ -2947,6 +2953,7 @@ ksi
 KSPMemes
 KukiShinobuMains
 kurzgesagt
+KusanaliMains
 KUWTKsnark
 l4d2
 labrador
@@ -3452,6 +3459,7 @@ modeltrains
 Modern_Family
 modernwarfare
 ModernWarfareII
+ModestMouse
 modular
 moedred
 MoeMorphism
@@ -4044,6 +4052,7 @@ philosophy
 PhilosophyMemes
 PhilosophyTube
 Philza
+phineasandferb
 phish
 phoebebridgers
 phoenix
@@ -4116,6 +4125,7 @@ Pokemonart
 pokemoncards
 pokemongo
 pokemongobrag
+PokemonGoFriends
 PokemonGoMystic
 PokemonInfiniteFusion
 PokemonLegendsArceus
@@ -4247,6 +4257,7 @@ PunishingGrayRaven
 punk
 Punny
 PunPatrol
+puppies
 puppy101
 PuppyBellies
 PuppySmiles
@@ -4414,6 +4425,7 @@ Roadcam
 roadtrip
 RoastMe
 RoastMyCar
+robotics
 Rochester
 RocketLeague
 RocketLeagueEsports
@@ -5007,6 +5019,7 @@ SympatheticMonsters
 synthesizers
 Syracuse
 sysadmin
+Sysadminhumor
 TabbyCats
 tacobell
 Tacoma
@@ -5503,6 +5516,7 @@ urbanplanning
 UrinatingTree
 usajobs
 UsefulCharts
+usefulredcircle
 uselessredcircle
 UsernameChecksOut
 USMC
