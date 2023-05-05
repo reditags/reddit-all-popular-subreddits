@@ -88,6 +88,7 @@ AbsoluteWeapons
 AbstractArt
 ac_newhorizons
 ACAB
+academia
 Acceleracers
 AccidentalAlly
 AccidentalCamouflage
@@ -112,6 +113,7 @@ ActivationSound
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
+Acura
 AdamDriverCats
 ADCMains
 AddisonRae
@@ -146,6 +148,7 @@ AfterEffects
 AgainstHateSubreddits
 agedlikemilk
 agedlikewine
+agedtattoos
 ageofsigmar
 aggies
 AHatInTime
@@ -236,6 +239,7 @@ ancientrome
 andor
 Androgynoushotties
 Android
+anesthesiology
 angelsbaseball
 angrycatpics
 Angryupvote
@@ -2075,6 +2079,7 @@ Forest
 ForFashion
 ForgottenWeapons
 forhonor
+forhonormemes
 formalwaifus
 Formel1
 FormerPizzaHuts
@@ -2272,6 +2277,7 @@ germany
 GeschichtsMaimais
 getdisciplined
 GetMotivated
+GetStudying
 GettingShredded
 ghettowhitegirls
 ghibli
@@ -2676,6 +2682,7 @@ ik_ihe
 IkeaFreshBalls
 ikeahacks
 IKEApets
+ILGuns
 ilikthebred
 IllegalLifeProTips
 illegallybigcats
@@ -3327,6 +3334,7 @@ MadeMeCry
 mademehappycry
 MadeMeSmile
 Madisonbeer
+MadisonPettis
 madisonwi
 madlads
 MadokaMagica
@@ -4090,6 +4098,7 @@ Overwatch
 overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
+OverwatchLeague
 OverwatchTMZ
 OverwatchUniversity
 OWConsole
@@ -4188,6 +4197,7 @@ PersonalFinanceCanada
 perth
 PetAfterVet
 PeterExplainsTheJoke
+PetiteFashionAdvice
 PetiteFitness
 PetMice
 PetsareAmazing
@@ -4300,6 +4310,7 @@ PokemonSwordAndShield
 PokemonTCG
 PokemonUnite
 poker
+pokerrrr2
 poland
 polandball
 Polcompball
@@ -4731,6 +4742,7 @@ Scream
 screenshots
 Screenwriting
 ScritchTheDamnBird
+Scrubs
 scrungycats
 scuba
 SDRUntucked
@@ -5633,6 +5645,7 @@ TWRP
 tylerthecreator
 Tyranids
 tzuyu
+UBC
 uberdrivers
 UberEATS
 UBreddit
@@ -5641,6 +5654,7 @@ ucf
 ucla
 UCONN
 ucr
+UCSC
 UCSD
 udub
 ufc
