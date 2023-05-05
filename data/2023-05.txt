@@ -318,6 +318,7 @@ apolloapp
 AppalachianTrail
 apple
 AppleCard
+AppleMusic
 AppleWatch
 ApplyingToCollege
 APStudents
@@ -1038,6 +1039,7 @@ chainsawmancirclejerk
 chairsunderwater
 Championship
 Chandigarh
+ChandlersWildLife
 chanel
 Chang_Gang
 ChantelJeffries
@@ -1304,6 +1306,7 @@ CringetopiaRM
 criterion
 criticalblunder
 criticalrole
+Crittersoncapybaras
 croatia
 CrochetBlankets
 crocheting
@@ -1542,6 +1545,7 @@ devils
 devinbrugman
 devsarg
 Dexter
+dezwo
 DHHMemes
 diabetes_t1
 Diablo
@@ -2051,6 +2055,7 @@ FormerPizzaHuts
 formula1
 FormulaBuddyRetard
 formuladank
+FormulaE
 forsen
 FORTnITE
 FortNiteBR
@@ -2283,6 +2288,7 @@ GNV
 goats
 goblincore
 GoblinSlayer
+GodDesigns
 GodofWar
 GodofWarRagnarok
 godot
@@ -2636,6 +2642,7 @@ ilikthebred
 IllegalLifeProTips
 illegallybigcats
 IllegallySmol
+illegallysmolanimals
 illegallysmolbirbs
 IllegallySmolBunnies
 IllegallySmolCats
@@ -2856,6 +2863,7 @@ Jewish
 jigokuraku
 jihyo
 jisoo
+jiujitsu
 jobs
 JoeBiden
 JoePera
@@ -3194,6 +3202,7 @@ longrange
 lookatmydog
 LookatMyHalo
 lookismcomic
+lookoftheday
 lookyourbest
 LOONA
 LooneyTunesLogic
@@ -3295,6 +3304,7 @@ Malazan
 malcolminthemiddle
 malegrooming
 malelivingspace
+malepolish
 MaliciousCompliance
 mallninjashit
 Maltese
@@ -3348,6 +3358,7 @@ mathmemes
 matureplants
 Maude_Garrett
 mauerstrassenwetten
+MauLer
 Mavericks
 MawInstallation
 maybemaybemaybe
@@ -3705,6 +3716,7 @@ nerdfighters
 Nerf
 nervysquervies
 nes
+Nestofeggs
 netflix
 NetflixBestOf
 netflixwitcher
@@ -4056,6 +4068,7 @@ PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
 parentsofmultiples
+paris
 ParkJihyo
 ParlerWatch
 parrots
@@ -4963,6 +4976,7 @@ starbound
 starbucks
 starcitizen
 starcraft
+StardewHomeDesign
 StardewMemes
 StardewValleyExpanded
 StardustCrusaders
@@ -5017,6 +5031,7 @@ Stoicism
 StoicMemes
 stolendogbeds
 StonerEngineering
+stonerfood
 StonerThoughts
 Stonetossingjuice
 stopdrinking
@@ -5318,6 +5333,7 @@ TheTryGuys
 theunforgiven
 TheVampireDiaries
 theviralthings
+thevoidz
 thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
@@ -5489,6 +5505,7 @@ Truckers
 trucksim
 TrueAnon
 truechildfree
+TrueChristian
 TrueCrime
 TrueCrimeDiscussion
 TrueCrimeDK
@@ -5512,6 +5529,7 @@ Turkey
 TurkeyJerky
 TurkishCats
 TurkishCeleb
+Turkophobia
 TuxedoCats
 TVDetails
 TVTooHigh
@@ -5524,6 +5542,7 @@ twinpeaks
 TwistedWonderland
 Twitch
 Twitter
+Twitter_Brasil
 twittermoment
 TwoHotTakes
 Twokinds
