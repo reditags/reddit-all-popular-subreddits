@@ -8,6 +8,7 @@
 11foot8
 1200isjerky
 13or30
+1500isplenty
 1911
 19684
 197
@@ -345,6 +346,7 @@ architecture
 ArchitecturePorn
 arcticmonkeys
 arduino
+AreYouGarbagePod
 Argaming
 argentina
 ArgentinaBenderStyle
@@ -732,6 +734,7 @@ blunderyears
 blurrypicturesofcats
 blurrypicturesofdogs
 blursed_videos
+Blursedcomments
 blursedimages
 bmbmbm
 BMW
@@ -1288,6 +1291,7 @@ crabcats
 CrackheadCraigslist
 CrackWatch
 craftsnark
+CrankGameplays
 CrappyDesign
 crappyoffbrands
 crashbandicoot
@@ -1687,6 +1691,7 @@ dragonvale
 dragrace
 DrakeTheType
 DramaticHouseplants
+Dramione
 Draven
 Drawfee
 drawing
@@ -2284,6 +2289,7 @@ GirlsWithHugePussies
 Gittertiere
 givemeinteligens
 glasgow
+glasscollecting
 glitch_art
 Glitch_in_the_Matrix
 GlitchInTheMatrix
@@ -2560,6 +2566,7 @@ horizon
 HorizonForbiddenWest
 Hornyjail
 horror
+horrorlit
 Horses
 HostileArchitecture
 hotas
@@ -2780,6 +2787,7 @@ instantbarbarians
 instantkarma
 instantpot
 insurgency
+intel
 interesting
 interestingasfuck
 interiordecorating
@@ -2839,6 +2847,7 @@ iZone
 IzuOcha
 jackass
 jackrussellterrier
+jacksonville
 Jaguars
 Jaharia
 jaidenanimations
@@ -2912,6 +2921,7 @@ Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
 JulianneHough
+jumpingspiders
 Jungle_Mains
 junjiito
 JurassicMemes
@@ -3529,6 +3539,7 @@ minecraftseeds
 MineIslam
 MineralPorn
 miniatures
+MiniatureSchnauzer
 Minilego
 miniminter
 minipainting
@@ -5281,6 +5292,7 @@ thanosdidnothingwrong
 That70sshow
 thatHappened
 ThatLookedExpensive
+ThatPeelingFeeling
 Thatsabooklight
 Thatsactuallyverycool
 ThatsInsane
@@ -5601,6 +5613,7 @@ uberdrivers
 UberEATS
 UBreddit
 UCDavis
+ucf
 ucla
 UCONN
 ucr
@@ -5804,6 +5817,7 @@ WalkScape
 wallpaper
 wallstreetbets
 Wallstreetsilver
+WallStreetSiren
 walmart
 WalmartCelebrities
 WaltDisneyWorld
@@ -5886,6 +5900,7 @@ whatcarshouldIbuy
 whatcouldgoright
 Whatcouldgowrong
 whatintarnation
+whatisthisanimal
 whatisthiscar
 whatisthisthing
 whatsthisbird
@@ -5895,6 +5910,7 @@ whatsthisrock
 whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
+wheeloftime
 whenthe
 whenwomenrefuse
 Whippets
