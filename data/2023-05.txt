@@ -2619,6 +2619,7 @@ horror
 horrorlit
 Horses
 HostileArchitecture
+hot_reporters
 hotas
 HotGermanCelebrities
 HotlineMiami
@@ -3274,6 +3275,7 @@ Lizards
 lizgillies
 LNPCorruption
 LOAM_LOVERS
+LobotomyCorp
 lockpicking
 LodedDiper
 logodesign
@@ -3717,6 +3719,7 @@ MTFSelfieTrain
 mtg
 mtgfinance
 MtvChallenge
+MuayThai
 mumbai
 Munich
 MurataMains
@@ -4270,6 +4273,7 @@ Philza
 phineasandferb
 phish
 phoebebridgers
+PhoebeTonkin
 phoenix
 PhoenixSC
 PhonesAreBad
@@ -4692,6 +4696,7 @@ runefactory
 runescape
 running
 RunningCirclejerk
+runningman
 rupaulsdragrace
 rusAskReddit
 rush
@@ -4839,6 +4844,7 @@ SFWNextDoorGirls
 SFWRedheads
 SGExams
 shadowofmordor
+Shadowrun
 Shadowtherat
 Sham_Sharma_Show
 shameless
@@ -4901,6 +4907,7 @@ shittymoviedetails
 shittyprogramming
 shittyrainbow6
 shittyreactiongifs
+ShittyRestrictionFood
 shittyrobots
 shittyskylines
 shittysuperpowers
@@ -5167,6 +5174,7 @@ stocks
 Stoicism
 StoicMemes
 stolendogbeds
+stonedswifties
 StonerEngineering
 stonerfood
 StonerThoughts
@@ -5202,6 +5210,7 @@ StupidFood
 stupidpol
 SturgillSimpson
 subaru
+Subliminal
 submarines
 submechanophobia
 submitted
@@ -5685,6 +5694,7 @@ TwinCities
 twinpeaks
 TwistedWonderland
 Twitch
+twitchasians
 Twitter
 Twitter_Brasil
 twittermoment
@@ -5774,6 +5784,7 @@ unpopularopinion
 unrealengine
 UnresolvedMysteries
 UnsentLetters
+unstirredpaint
 untrustworthypoptarts
 unusual_whales
 UnusualVideos
@@ -6141,6 +6152,7 @@ XFiles
 xfl
 XiaoMains
 xkcd
+Xlightmoonx_Only
 xmen
 XochitlGomezRelated
 xqcow
