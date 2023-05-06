@@ -364,6 +364,7 @@ ArcherFX
 ArchitecturalRevival
 architecture
 ArchitecturePorn
+archlinux
 arcticmonkeys
 arduino
 AreYouGarbagePod
@@ -600,6 +601,7 @@ battlemaps
 BattleNetwork
 battlestations
 battletech
+batty
 bayarea
 BayleyBooty
 Bayonetta
@@ -731,6 +733,7 @@ Blackcelebrity
 BlackClover
 BlackCountryNewRoad
 blackdesertonline
+BlackHair
 Blacklabs
 blacklagoon
 blackmagicfuckery
@@ -1889,6 +1892,7 @@ Emoney
 EmperorsChildren
 EmpireDidNothingWrong
 ems
+emulation
 EmulationOnAndroid
 ENA
 EnculerLesVoitures
@@ -2300,6 +2304,7 @@ Gamingcirclejerk
 GamingDetails
 GamingLaptops
 GamingLeaksAndRumours
+gamingpc
 gangstaswithwaifus
 gangweed
 gank
@@ -2810,8 +2815,10 @@ ImaginaryCityscapes
 ImaginaryCyberpunk
 ImaginaryDemons
 ImaginaryDragons
+imaginaryelections
 ImaginaryElves
 ImaginaryFeels
+ImaginaryFuturism
 ImaginaryHorrors
 ImaginaryJedi
 ImaginaryKanto
@@ -5194,6 +5201,7 @@ SpecArt
 specialed
 specializedtools
 spectacularmemes
+SpeculativeEvolution
 SpeedOfLobsters
 spelunky
 sphynx
