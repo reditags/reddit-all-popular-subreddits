@@ -469,6 +469,7 @@ AustralianCattleDog
 AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
+AustralianTeachers
 australianwildlife
 Austria
 autism
@@ -997,6 +998,7 @@ catdimension
 catfaceplant
 catfruit
 CatGifs
+CatgirlSFW
 Catholicism
 CatholicMemes
 cathostage
@@ -1841,6 +1843,7 @@ Elysia
 Embroidery
 EmiliaClarke
 Eminem
+emiru
 Emiru_Lewd
 EmKay
 emmachamberlain
@@ -2373,6 +2376,7 @@ GoldenAgeMinecraft
 Goldendoodles
 GoldenKamuy
 goldenknights
+goldenretriever
 goldenretrievers
 golf
 Golf_R
@@ -3504,6 +3508,7 @@ MeatCanyon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
+mechanics
 Mechwarrior5
 MedicalCannabisNZ
 MedicalGore
@@ -3511,6 +3516,7 @@ MedievalCats
 medievaldoctor
 MedievalHistoryMemes
 Meditation
+mediterranea
 medizzy
 medlabprofessionals
 MeetYourMakerGame
@@ -4071,6 +4077,7 @@ okpolarncp
 okprietenretardat
 Old_Recipes
 oldfreefolk
+oldhammer
 Oldhouses
 OldManDog
 oldpeoplefacebook
@@ -4805,6 +4812,7 @@ schnauzers
 SchnitzelVerbrechen
 science
 sciencefiction
+scienceisdope
 sciencememes
 ScienceNcoolThings
 ScienceUncensored
@@ -5332,6 +5340,7 @@ TalesFromThePharmacy
 TalesFromYourServer
 talk_hunfluencers
 tall
+Tallships
 tallyhall
 TameImpala
 tampa
@@ -5452,6 +5461,7 @@ TheClickOwO
 TheCloneWars
 TheCuddlePuddle
 TheCure
+TheDarkTower
 thedavidpakmanshow
 TheDeprogram
 TheDepthsBelow
@@ -5710,6 +5720,7 @@ TuckedInPuppies
 Tucson
 tulsa
 tumblr
+TumblrDraws
 Tupac
 Turkey
 TurkeyJerky
@@ -5776,6 +5787,7 @@ Ulta
 Ultrakill
 Ultraman
 Ultramarathon
+Ultramarines
 ultrarunning
 ultrawidemasterrace
 UmbrellaAcademy
@@ -6214,6 +6226,7 @@ yo_ctm
 YofukashiNoUta
 yoga
 Yoimiya_Mains
+yoojimin
 york
 Yorkies
 Yosemite
