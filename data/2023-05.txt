@@ -2743,6 +2743,7 @@ holesome
 HollowKnight
 HollowKnightArt
 HollowKnightMemes
+holocure
 Hololive
 HololiveYuri
 Holostars
@@ -3538,6 +3539,7 @@ Lowes
 LowQualityMemes
 lowriders
 LowSodiumDestiny
+LowSodiumHalo
 LowStakesConspiracies
 Lowtechbrilliance
 LPOTL
@@ -6050,6 +6052,7 @@ tzuyu
 UBC
 uberdrivers
 UberEATS
+Ubiquiti
 UBreddit
 UCDavis
 ucf
@@ -6131,6 +6134,7 @@ unusual_whales
 UnusualVideos
 unwholesomememes
 uofm
+UofT
 upcycling
 UpliftingNews
 UpvoteBecauseButt
