@@ -481,6 +481,7 @@ auslaw
 AusMemes
 AussieCasual
 australia
+AustralianBirds
 AustralianCattleDog
 AustralianNostalgia
 AustralianPolitics
@@ -1176,6 +1177,7 @@ chiweenie
 chloe
 chloegracemoretz
 chocolatelabs
+Choices
 chomsky
 Chonkers
 ChoosingBeggars
@@ -1602,6 +1604,7 @@ Deltarune
 delusionalartists
 delusionalcraigslist
 DemEyesDoe
+deMiko
 demisexuality
 DemocraticSocialism
 democrats
@@ -2083,6 +2086,7 @@ fennecfoxes
 fermentation
 Ferrari
 ferrets
+FFBraveExvius
 FFVIIRemake
 ffxiv
 FFXIVGlamours
@@ -4480,6 +4484,7 @@ Pikmin
 pinaytiktokhotties
 pinkfloyd
 PinkFloydCircleJerk
+PinkOmega
 PinkWug
 Piracy
 PiratedGames
@@ -4797,6 +4802,7 @@ regularcarreviews
 RegularRevenge
 regularshow
 relationship_advice
+RelationshipIndia
 RelationshipMemes
 religiousfruitcake
 reloading
@@ -5498,6 +5504,7 @@ Syracuse
 sysadmin
 Sysadminhumor
 szeged
+taalfout
 TabbyCats
 tacobell
 Tacoma
@@ -5832,6 +5839,7 @@ TouchThaFishy
 Toughguysholdingpets
 touhou
 TowerofFantasy
+TowerofGod
 TownofSalemgame
 Toyota
 ToyotaTacoma
