@@ -1008,6 +1008,7 @@ Canada_sub
 canadaguns
 canadahousing
 canadaleft
+canadanews
 CanadaSoccer
 canberra
 CaneCorso
@@ -1481,6 +1482,7 @@ Crystals
 cscareerquestions
 cscareerquestionsEU
 csgo
+csharp
 csk
 csMajors
 Cubers
@@ -2107,6 +2109,7 @@ FamousLatinas
 fanart
 FancyFeet
 FanFiction
+fanStands
 fantanoforever
 fantasybaseball
 fantasyfootball
@@ -3076,6 +3079,7 @@ intresseklubben
 introvert
 introvertmemes
 inuyasha
+investimentos
 Invincible
 Invisalign
 ios
@@ -3373,6 +3377,7 @@ labrats
 Lackadaisy
 LAClippers
 LadiesOfDisneyChannel
+ladiesofthemcu
 LadiesOfWrestling
 ladyladyboners
 LAFC
@@ -4082,6 +4087,7 @@ nationalwomensstrike
 NativePlantGardening
 nattyorjuice
 natureisbeautiful
+Natureisbrutal
 NatureIsFuckingCute
 NatureIsFuckingLit
 natureismetal
@@ -4154,6 +4160,7 @@ NewOrleans
 NewParents
 NewRoryNMalPodcast
 news
+NewSkaters
 NewsOfTheStupid
 NewsWithJingjing
 NewTubers
@@ -4328,6 +4335,7 @@ OkayBuddyLiterallyMe
 okaybuddyretard
 okbhaibudbak
 OkBrudiMongo
+OkBubbyRetard
 okbuddybaka
 okbuddycapitalist
 okbuddychicanery
@@ -4663,6 +4671,7 @@ PizzaTower
 PKA
 planesgonewild
 Planetside
+PlanetZoo
 plano
 PlantBasedDiet
 plantclinic
@@ -4907,6 +4916,7 @@ RavenGuard40k
 ravens
 rawdenim
 RBI
+rbny
 RCB
 rccars
 rct
@@ -4980,9 +4990,11 @@ reptiles
 RepublicaArgentina
 RepublicadeChile
 Republican
+RepublicanValues
 rescuedogs
 Residency
 residentevil
+ResinCasting
 restofthefuckingowl
 retailhell
 retardedcornfieldcum
@@ -5624,6 +5636,7 @@ SuddenlyCommunist
 SuddenlyLesbian
 SuddenlyTrans
 Sufjan
+suggestmeabook
 suicidebywords
 summerhousebravo
 summonerschool
@@ -6542,6 +6555,7 @@ woahdude
 wokekids
 wolves
 WolvesAreBigYo
+WolvesWithWatermelons
 WomenOfTheDCUniverse
 WomenSoccerLegs
 womensstreetwear
