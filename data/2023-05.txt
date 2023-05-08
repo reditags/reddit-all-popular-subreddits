@@ -1945,6 +1945,7 @@ Economics
 economy
 eddieandrichie
 eddyburback
+ededdneddy
 Edelgard
 Edgerunners
 EDH
@@ -2809,6 +2810,7 @@ HOI4memes
 holdmycatnip
 holdmycosmo
 holdmyfries
+holdmyjuicebox
 HoldMyKibble
 holdmyredbull
 holesome
@@ -2869,6 +2871,7 @@ houseplants
 Houseporn
 houston
 howardstern
+HowIMetYourFather
 howto
 howtonotgiveafuck
 howyoudoin
@@ -4726,6 +4729,7 @@ playstation
 PlayStationPlus
 PLC
 PleX
+PLTR
 Plumbing
 plushies
 PlusSizeFashion
@@ -4802,6 +4806,7 @@ pottedcats
 Pottery
 PouchCatatoes
 poutine
+PoutineCrimes
 pouts
 povertyfinance
 PowerMetal
@@ -5049,6 +5054,7 @@ RetroFuturism
 retrogaming
 Returnal
 revancedapp
+reverseanimalrescue
 ReversePinterest
 Revolvers
 RheaRipley
@@ -5074,6 +5080,7 @@ Roadcam
 roadtrip
 RoastMe
 RoastMyCar
+Robocop
 robotics
 Rochester
 RocketLeague
@@ -6067,6 +6074,7 @@ tookjustenough
 tooktoomuch
 ToolBand
 toolgifs
+toolporn
 toolps
 Tools
 TooMeIrlForMeIrl
