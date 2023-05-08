@@ -232,6 +232,7 @@ AmericanHorrorStory
 amex
 AMG
 Amigurumi
+amiibo
 AmITheAngel
 AmItheButtface
 AmItheEx
@@ -2046,6 +2047,7 @@ ExtremeCarCrashes
 extremelyinfuriating
 Eyebleach
 eyebombing
+EyesoftheVoid
 f150
 F1Game
 F1NN5TER
@@ -6382,6 +6384,7 @@ weirdspotifyplaylists
 weirdvideosfor3am
 WeirdWheels
 WeirdWings
+WelcomeHomeARG
 WelcomeHomeNeighbor
 WelcomeToGilead
 Welding
@@ -6524,6 +6527,7 @@ writing
 writingcirclejerk
 WritingPrompts
 WRX
+WRXSTi
 WTF
 WTFgaragesale
 wtfstockphotos
@@ -6607,6 +6611,7 @@ yugioh
 YuGiOhMemes
 yuna
 YuYuHakusho
+yvonnestrahovski
 ZaidZIZ
 ZanClan
 ZBrush
