@@ -91,6 +91,7 @@ absoluteunit
 AbsoluteUnits
 AbsoluteWeapons
 AbstractArt
+abudhabi
 ac_newhorizons
 ACAB
 academia
@@ -224,6 +225,7 @@ AMCsAList
 amcstock
 AMCSTOCKS
 Amd
+AmerExit
 AmericaBad
 americanairlines
 americandad
@@ -2305,6 +2307,7 @@ freefromwork
 FreeGameFindings
 freemagic
 FREEMEDIAHECKYEAH
+FreeSpeech
 FreezingFuckingCold
 Frenchbulldogs
 FrenchMemes
@@ -2691,6 +2694,7 @@ HauntedMound
 Hawaii
 hawks
 HayleyAtwell
+hayleywilliams
 HazbinHotel
 hbo
 headpats
@@ -3799,6 +3803,7 @@ metalgearrising
 metalgearsolid
 Metallica
 MetalMemes
+metalworking
 Metamask
 metro
 Metroid
@@ -4563,6 +4568,7 @@ PetMice
 PetsareAmazing
 PetTheDamnCat
 PetTheDamnDog
+PetTheDamnKitty
 pettyrevenge
 PewdiepieSubmissions
 PeytonList
@@ -5060,6 +5066,7 @@ sadcats
 sadcringe
 SadHorseShow
 Sadiesink
+sadlygokarts
 sadposting
 SAHP
 SaikiK
@@ -5760,6 +5767,7 @@ TexasPolitics
 TexasRangers
 TextingTheory
 tf2
+TF2fashionadvice
 tf2memes
 tf2shitposterclub
 tf_irl
