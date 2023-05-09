@@ -2853,6 +2853,7 @@ HomeDepot
 homegym
 HomeImprovement
 homelab
+HomeMaintenance
 HomeNetworking
 HomestarRunner
 homestead
@@ -3294,6 +3295,7 @@ Justrolledintotheshop
 JustTaxLand
 JustUnsubbed
 Juve
+juxtaposition
 k_on
 kaiserredux
 Kaiserreich
@@ -4474,6 +4476,7 @@ OneOrangeBraincell
 OnePiece
 OnePieceLiveAction
 OnePiecePowerScaling
+OnePieceTC
 oneplus
 OnePunchMan
 OneSecondBeforeDisast
@@ -5484,6 +5487,7 @@ slowcooking
 SlowNewsDay
 slp
 Slycooper
+SlyGifs
 smallbusiness
 smashbros
 SmashBrosUltimate
@@ -6104,6 +6108,7 @@ tomodachilife
 tomorrow
 TomorrowByTogether
 tonightsdinner
+TonikakuCawaii
 TonyHawkitecture
 TonyZaretOfficial
 toofers
@@ -6261,6 +6266,7 @@ Ubiquiti
 UBreddit
 UCDavis
 ucf
+UCI
 ucla
 UCONN
 ucr
