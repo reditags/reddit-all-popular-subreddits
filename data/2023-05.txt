@@ -1539,6 +1539,7 @@ CursedGuns
 cursedimages
 cursedmemes
 CursedMinecraft
+CursedTanks
 CurseofStrahd
 customhearthstone
 CustomLoR
@@ -1970,6 +1971,7 @@ Earwolf
 EASportsFC
 EatCheapAndHealthy
 eatsandwiches
+EatTheRich
 ebikes
 EbonyImagination
 Economics
@@ -2653,6 +2655,7 @@ greatdanes
 greatpyrenees
 greebles
 greece
+GreekMythology
 GreenAndPleasant
 GreenBayPackers
 greenday
@@ -3461,6 +3464,7 @@ KyraReneeSivertson
 l4d2
 LabourUK
 labrador
+labradors
 labrats
 Lackadaisy
 LAClippers
@@ -3536,6 +3540,7 @@ legaladvicecanada
 LegalAdviceIndia
 LegalAdviceUK
 legalcatadvice
+legendofdragoon
 legendofkorra
 LegendsMemes
 LegendsOfRuneterra
@@ -4070,6 +4075,7 @@ MonsterHunter
 MonsterHunterWorld
 Montana
 montypython
+MontyPythonMemes
 Moonmoon
 MoonPissing
 Moonvale
@@ -4778,6 +4784,7 @@ Pizza
 PizzaCrimes
 PizzaTower
 PKA
+PKMNTCGDeals
 planesgonewild
 Planetside
 PlanetZoo
@@ -5571,6 +5578,7 @@ SommerRay
 sonarears
 SonicTheHedgehog
 SonoBisqueDoll
+sonos
 SonsOfTheForest
 SonyAlpha
 soulcrushingjuice
@@ -5934,6 +5942,7 @@ TF2fashionadvice
 tf2memes
 tf2shitposterclub
 tf_irl
+ThaiBL
 Thailand
 thalassophobia
 ThanksCyno
@@ -6666,6 +6675,7 @@ WiggleButts
 wii
 wiiu
 wikipedia
+wildbeef
 WildernessBackpacking
 wildhockey
 wildlife_videos
@@ -6807,6 +6817,7 @@ yo_ctm
 YofukashiNoUta
 yoga
 Yoimiya_Mains
+YomiHustle
 yoojimin
 york
 Yorkies
