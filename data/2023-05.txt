@@ -2561,6 +2561,7 @@ Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
 Glocks
+Gloomhaven
 Gloryhammer
 glossier
 gluesniffer
@@ -3861,6 +3862,7 @@ MemeHunter
 MemePiece
 memes
 Memes_Of_The_Dank
+Memesbuenaonda
 memesdecentralises
 MemesESP
 memesITA
@@ -4751,6 +4753,7 @@ PlantBasedDiet
 plantclinic
 PlantedTank
 PlantGoths
+PlantIdentification
 plants
 PlantsVSZombies
 playark
@@ -5054,6 +5057,7 @@ regretfulparents
 regularcarreviews
 RegularRevenge
 regularshow
+ReinhardtMains
 relatable_memes_
 relationship_advice
 RelationshipIndia
