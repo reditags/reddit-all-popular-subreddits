@@ -1535,6 +1535,7 @@ crtgaming
 Cruise
 CrumblCookies
 CrusaderKings
+crusaderkings3
 CryptoCurrency
 CryptoCurrencyTrading
 CryptoMoonShots
@@ -1811,6 +1812,7 @@ digimon
 DigitalArt
 digitalnomad
 DigitalPainting
+DilucMains
 Dimension20
 DINgore
 Dinosaure
@@ -4792,6 +4794,7 @@ PenguinOfTheMonth
 penguins
 PenmanshipPorn
 Pennsylvania
+PennyLaneIsTheName
 Pensacola
 PeopleBeingJerks
 PeopleBeTrippin
@@ -5551,6 +5554,7 @@ shittyaskscience
 shittybattlestations
 shittybloodborne
 ShittyCarMod
+ShittyDaystrom
 shittyfoodporn
 Shittygamecollecting
 shittygamedetails
@@ -6173,6 +6177,7 @@ thelongdark
 TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
+TheMandemNP
 TheMarvelousMrsMaisel
 TheMorningToastSnark
 themountaingoats
