@@ -185,6 +185,7 @@ aiyu
 AJR
 ak47
 akita
+AkutsuSan
 AlanPartridge
 alaska
 albania
@@ -947,6 +948,7 @@ BreadTube
 BreakfastFood
 breakingbad
 breakingbadmemes
+BreakingPoints
 BreakingPointsNews
 BreakUps
 Breath_of_the_Wild
@@ -1944,6 +1946,7 @@ Dramione
 Draven
 Drawfee
 drawing
+DrDisrespectLive
 Dreadlocks
 dreamcast
 DreamlightValley
@@ -2405,6 +2408,7 @@ fountainpens
 fourthwavewomen
 fourthworldproblems
 foxes
+FoxFiction
 foxholegame
 fpv
 fragilecommunism
@@ -2906,6 +2910,7 @@ hitmanimals
 hmm
 hmmm
 hmmmgifs
+Hobbit_Memes
 HobbyDrama
 hockey
 hockeyjerseys
@@ -2933,6 +2938,7 @@ HololiveYuri
 Holostars
 HolUp
 HolyGrailMemes
+Home
 homeassistant
 Homebrewing
 HomeDecorating
@@ -3484,6 +3490,7 @@ kingofqueens
 KingOfTheHill
 kings
 KiraKosarin
+KiraraMains
 Kirby
 kitchener
 Kitler
@@ -3875,6 +3882,7 @@ mantids
 ManufacturingPorn
 Maplestory
 maplesyrup
+mapmaking
 MapPorn
 mapporncirclejerk
 MapsWithoutNZ
@@ -4482,6 +4490,7 @@ notliketheothergirls
 notmycat
 NotMyJob
 notopbutok
+notthebeaverton
 nottheonion
 NotTimAndEric
 nova
@@ -4757,6 +4766,7 @@ pathfindermemes
 pathofexile
 PathOfExileBuilds
 pathoftitans
+pathologic
 PathToNowhere
 PatMcAfeeShowOfficial
 Patriots
@@ -5002,6 +5012,7 @@ powerrangers
 powerwashingporn
 PragerUrine
 PraiseTheCameraMan
+PredecessorGame
 PrehistoricMemes
 Prematurecelebration
 PremierLeague
@@ -5187,6 +5198,7 @@ RedDeadOnline
 reddeadredemption
 reddeadredemption2
 reddevils
+reddit
 RedditForGrownups
 RedditInReddit
 RedditLaqueristas
@@ -5256,6 +5268,7 @@ rickandmorty
 rickygervais
 RidiculousRealEstate
 rienabranler
+RighteousGemstones
 RightJerk
 rimesegate
 rimjob_steve
@@ -5502,6 +5515,7 @@ Shibainucoin
 SHIBArmy
 shield
 shieldbro
+shiey
 Shihtzu
 ShikimoriIsntJustCute
 SHINee
@@ -5937,6 +5951,7 @@ susu_jpg
 suzerain
 SVU
 swans
+SWARJE
 Sweatcicle
 SweatyPalms
 sweden
@@ -6128,11 +6143,13 @@ TheEricAndreShow
 TheExpanse
 TheFarSide
 thefighterandthekid
+TheForest
 TheForgottenDepths
 TheGirlSurvivalGuide
 theGoldenGirls
 TheGoodPlace
 thegrandtour
+TheGreatOnesReborn
 TheGriffonsSaddlebag
 TheGrittyPast
 TheHandmaidsTale
@@ -6226,6 +6243,7 @@ TibiaMMO
 Ticos
 tifu
 TigerBelly
+TigerKing
 TighnariMains
 tightdresses
 TIGHTPUSSY
@@ -6738,6 +6756,7 @@ weeviltime
 weezer
 WegovyWeightLoss
 weightlifting
+WeightLossAdvice
 weightroom
 weimaraner
 Weird
