@@ -446,6 +446,7 @@ AskBalkans
 askcarsales
 AskCulinary
 AskDocs
+AskElectricians
 AskFrance
 askgaybros
 AskHistorians
@@ -976,6 +977,7 @@ Bruins
 Brunei
 brushybrushy
 BryceDallasHoward
+bscbombs
 BSG
 btd6
 bts7
@@ -2408,6 +2410,7 @@ FridayNightFunkin
 friendlyjordies
 friends_tv_show
 Frieren
+frisco
 frogs
 FromKittenToCat
 FromPuppyToDog
@@ -3002,6 +3005,7 @@ IBO
 ibs
 icecoast
 IceCreamWaifu
+IceFishing
 ich_iel
 ichbin14unddasisttief
 ichbin40undlustig
@@ -3017,6 +3021,7 @@ IdiotsNearlyDying
 IdiotsOnBikes
 Idiotswithguns
 idiotwastingtime
+IDmydog
 IDONTGIVEASWAG
 IDontWorkHereLady
 IDOWORKHERELADY
@@ -4106,6 +4111,7 @@ MoldyMemes
 MomForAMinute
 Mommit
 monarchism
+MoneyDiariesACTIVE
 MonicaBarbaro
 MonicaBellucci
 Monk
