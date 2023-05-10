@@ -5000,6 +5000,7 @@ ProRevenge
 PROTECC
 protogen
 ProtonMail
+prusa3d
 ps2
 PS3
 PS4
@@ -5807,6 +5808,7 @@ streeteats
 StreetFighter
 StreetMartialArts
 streetphotography
+stremtch
 strength_training
 Stretched
 StructuralEngineering
@@ -6610,6 +6612,7 @@ walkaway
 WalkScape
 wallpaper
 wallstreetbets
+WallStreetbetsELITE
 Wallstreetsilver
 WallStreetSiren
 walmart
