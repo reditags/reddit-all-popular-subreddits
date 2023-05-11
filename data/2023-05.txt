@@ -320,6 +320,7 @@ AnimeFunny
 animegifs
 AnimeHoodies
 animehotbeverages
+animemaids
 AnimeMeme
 animememes
 Animemes
@@ -824,6 +825,7 @@ blacksabbath
 Blacksmith
 blackstonegriddle
 BlackTemplars
+BladeAndSorcery
 bladerunner
 Bladesmith
 BLAHAJ
@@ -1237,6 +1239,7 @@ charmed
 CharteredAccountants
 ChasersRiseUp
 ChatGPT
+ChatGPTPromptGenius
 chats
 Chattanooga
 chch
@@ -2416,6 +2419,7 @@ fossilid
 FossilPorn
 FoundPaper
 foundsatan
+FoundTheInaAlt
 fountainpens
 fourthwavewomen
 fourthworldproblems
