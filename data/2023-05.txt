@@ -663,6 +663,7 @@ battlefield_one
 BattlefieldV
 battlemaps
 BattleNetwork
+BattlePaintings
 battlestations
 battletech
 batty
@@ -1303,6 +1304,7 @@ churchofharu
 ChurchOfJirou
 ChurchOfKasumi
 ChurchofMarnie
+ChurchOfNaoto
 ChurchOfNejire
 chutyapa
 chuunibyou
@@ -3125,6 +3127,7 @@ ImaginaryCyberpunk
 ImaginaryDarkSouls
 ImaginaryDemons
 ImaginaryDragons
+ImaginaryDwarves
 imaginaryelections
 ImaginaryElves
 ImaginaryFallout
@@ -3324,6 +3327,7 @@ Jaharia
 jaidenanimations
 jailbreak
 JailbreakCreations
+jaipaul
 jakanddaxter
 jakeandamir
 jakertown
@@ -5127,6 +5131,7 @@ Psychonaut
 PUBATTLEGROUNDS
 PublicFreakout
 publix
+PuertoRico
 pug
 pukicho
 pundarblocket
@@ -5995,6 +6000,7 @@ superstore
 SuperStructures
 Supertf
 supportlol
+Surlybikefans
 surrealmemes
 Survival
 survivinginfidelity
@@ -6073,6 +6079,7 @@ TargetedShirts
 TarihiSeyler
 Tarkov
 TarkovMemes
+TascaDoZe
 taskmaster
 tattoo
 tattooadvice
@@ -6885,6 +6892,7 @@ wholesomegreentext
 wholesomejojo
 wholesomememes
 wholesomeromance
+WholesomeSliceOfLife
 wholesomevandalism
 wholesomevangelion
 whoosh
