@@ -381,6 +381,7 @@ apolloapp
 AppalachianTrail
 apple
 AppleCard
+applehelp
 AppleMusic
 AppleWatch
 ApplyingToCollege
@@ -3775,6 +3776,7 @@ liseliler
 listentothis
 lithuania
 LitterboxComics
+littlebigplanet
 LittleWitchAcademia
 LiveFromNewYork
 Liverpool
@@ -4037,6 +4039,7 @@ mediterranea
 medizzy
 medlabprofessionals
 MeetYourMakerGame
+megaconstrux
 Megadeth
 MegalithPorn
 megalophobia
@@ -4460,6 +4463,7 @@ NewsWithJingjing
 NewTubers
 NewVegasMemes
 newworldgame
+newyork
 newyorkcity
 NewYorkIslanders
 NewYorkMets
