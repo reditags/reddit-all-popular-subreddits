@@ -1466,6 +1466,7 @@ Conures
 ConvenientCop
 CookieClicker
 cookiedecorating
+Cookierun
 CookieRunKingdoms
 Cooking
 CoolGadgetsTube
@@ -2822,6 +2823,7 @@ Gulong
 Gundam
 GundamEvolution
 gundeals
+Gunime
 Gunners
 Gunpla
 gunpolitics
