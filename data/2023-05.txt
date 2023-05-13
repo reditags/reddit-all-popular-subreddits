@@ -429,6 +429,7 @@ arknights
 ArlecchinoMains
 arma
 ArmchairExpert
+armenia
 armoredcore
 armwrestling
 army
@@ -625,6 +626,7 @@ BadMUAs
 badroommates
 badtaxidermy
 badUIbattles
+BadWelding
 badwomensanatomy
 baeirene
 BaeSuzy
@@ -4026,6 +4028,7 @@ Markiplier
 Marriage
 martialarts
 Marvel
+marvelcirclejerk
 MarvelCrisisProtocol
 MarvelLegends
 marvelmemes
@@ -5388,6 +5391,7 @@ Reds
 RedshirtsUnite
 redsox
 redstone
+RedWingShoes
 ReefTank
 Reformed
 regina
