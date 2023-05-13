@@ -1458,6 +1458,7 @@ CompetitiveTFT
 CompetitiveWoW
 compoface
 composting
+CompTIA
 computers
 conan
 ConanExiles
@@ -2123,6 +2124,7 @@ ElizabethHurley
 ElizabethOlsen
 ellacervetto
 ElleFanning
+elliottsmith
 ElonJetTracker
 elonmusk
 ElvenFood
@@ -2891,6 +2893,7 @@ halo
 haloinfinite
 HaloMemes
 HaloStory
+halsey
 Hamilton
 Hammers
 hamsters
@@ -4754,6 +4757,7 @@ OldSchoolCool
 OldSchoolRidiculous
 OldWorldBlues
 OLED_Gaming
+OliveMUA
 oliver
 oliviadunne
 OliviaMunn
