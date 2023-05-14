@@ -1664,6 +1664,7 @@ CursedTanks
 cursedvideos
 CurseofStrahd
 customhearthstone
+CustomKeyboards
 CustomLoR
 custommagic
 CustomPlayerCutscene
@@ -2645,6 +2646,7 @@ fuufuijou
 G2eSports
 G37
 G59
+GAA
 gachagaming
 gadgets
 GalaxyWatch
@@ -5579,6 +5581,7 @@ RioGrandeValley
 ripcity
 risa
 riskofrain
+rit
 Rivian
 RLCraft
 Roadcam
