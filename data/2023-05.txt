@@ -605,6 +605,7 @@ AyyMD
 AZCardinals
 azdiamondbacks
 AzerbaijanJerky
+aznidentity
 Azoozkie
 azudaioh
 AZURE
@@ -1768,6 +1769,7 @@ dating_advice
 datingoverfifty
 datingoverthirty
 DaveChappelle
+davidgoggins
 DaysGone
 Daytrading
 dayz
@@ -2082,6 +2084,7 @@ Dualsport
 dubai
 DubaiPetrolHeads
 Dublin
+dubstep
 duck
 DuelLinks
 DuggarsSnark
@@ -2230,6 +2233,7 @@ Epstein
 equestriaatwar
 Equestrian
 Eragon
+Eredivisie
 Eris_KS
 EscapefromTarkov
 esist
@@ -2806,6 +2810,7 @@ GoldenKamuy
 goldenknights
 goldenretriever
 goldenretrievers
+GoldenSun
 golf
 Golf_R
 GolfGTI
@@ -3052,6 +3057,7 @@ himikotoga
 HIMYM
 HindiMemes
 hinduism
+hisdarkmaterials
 HistoricalCostuming
 history
 HistoryAnimemes
@@ -3953,6 +3959,7 @@ loopdaddy
 loopringorg
 LordofTheMysteries
 lordoftherings
+Lore_Olympus
 loreofleague
 LoriVallow
 LosAngelesRams
@@ -4217,6 +4224,7 @@ memphis
 memphisgrizzlies
 MemriTVmemes
 MenAndFemales
+menkampf
 Menskirts
 MensLib
 Mensmittenwithkittens
@@ -5597,6 +5605,7 @@ rose
 roseanne
 RoseByrne
 RotMG
+Rotterdam
 Rottweiler
 roughcollies
 RoughRomanMemes
@@ -6605,6 +6614,7 @@ titanfall
 titanic
 tjournal_refugees
 TLCsisterwives
+TLCUnexpected
 tmbg
 TMKOC
 TMNT
@@ -6731,6 +6741,7 @@ trouduction
 TruckerCats
 Truckers
 trucksim
+True_Kentucky
 TrueAnon
 truechildfree
 TrueChristian
