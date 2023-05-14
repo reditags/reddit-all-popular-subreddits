@@ -3930,6 +3930,7 @@ listentothis
 lithuania
 LitterboxComics
 littlebigplanet
+LittlePeopleBigWorld
 LittleWitchAcademia
 LiveFromNewYork
 Liverpool
@@ -6314,6 +6315,7 @@ swtor
 SWTOR_memes
 sydney
 SydneySweeney
+SymmetraMains
 SympatheticMonsters
 Symphogear
 synthesizers
@@ -7297,6 +7299,7 @@ WorldOfWarships
 WormMemes
 wortwitzkasse
 WoT
+WoTshow
 WouldYouRather
 wow
 wowfuckthewhat
