@@ -417,6 +417,7 @@ araragi
 arbeitsleben
 arcane
 Archaeology
+Archeology
 ArcherFX
 Archery
 ArchitecturalRevival
@@ -1359,6 +1360,7 @@ ChoujinX
 chowchow
 chrissimpsonsartist
 chrissycostanza
+ChristenHarper
 Christianity
 christianmemes
 christinahendricks
@@ -1647,6 +1649,7 @@ CryptidDogs
 CryptoCurrency
 CryptoCurrencyTrading
 CryptoGamersCommunity
+CryptoMarkets
 CryptoMoonShots
 cryptostreetbets
 Cryptozoology
@@ -1917,6 +1920,7 @@ Dexter
 dezwo
 DHHMemes
 DHMIS
+diabetes
 diabetes_t1
 Diablo
 diablo2
@@ -1946,6 +1950,7 @@ dirtgame
 disability
 discdyeing
 discgolf
+discgolfcirclejerk
 DiscoElysium
 discord_irl
 discordapp
@@ -2427,6 +2432,7 @@ Fighters
 FightLibrary
 fightporn
 FightsGoneWildpt2
+fightsticks
 FigureSkating
 filipinofood
 Filmmakers
@@ -3977,6 +3983,7 @@ LockdownSkepticism
 lockpicking
 locs
 LodedDiper
+LoFiAesthetic
 logodesign
 loicense
 Lolirefugees
@@ -4015,6 +4022,7 @@ lost
 Lost_Architecture
 lostarkgame
 LostLandsMusicFest
+lostmedia
 lostpause
 lostredditors
 lotr
@@ -4161,6 +4169,7 @@ MarioKartTour
 Markiplier
 Marriage
 martialarts
+MartialMemes
 Marvel
 marvelcirclejerk
 MarvelCrisisProtocol
@@ -4265,6 +4274,7 @@ memesdecentralises
 MemesESP
 memesITA
 memesopdidnotlike
+memeuniverse
 MemeVideos
 memexico
 memphis
@@ -4345,6 +4355,7 @@ Militariacollecting
 Military
 MilitaryARClones
 MilitaryGfys
+MilitaryHistory
 MilitaryPorn
 MilitaryStories
 MilitaryVStheUnknown
@@ -4414,6 +4425,7 @@ MMA
 mmababes
 mmamemes
 MMAT
+MMORPG
 MoaiGreddit
 MobileLegendsGame
 MobileWallpaper
@@ -5762,6 +5774,7 @@ satisfactory
 SatisfactoryGame
 satisfying
 Satisfyingasfuck
+SatoshiBets
 saudiarabia
 SavageGarden
 SAVEBRENDAN
@@ -6578,6 +6591,7 @@ TheMajorityReport
 TheMandalorianTV
 TheMandemNP
 TheMarvelousMrsMaisel
+TheMonkeysPaw
 TheMorningToastSnark
 themountaingoats
 themummymemes
@@ -6586,6 +6600,7 @@ TheNightFeeling
 TheNinthHouse
 theocho
 TheOdysseyHadAPurpose
+theofficememes
 TheOnion
 TheOrville
 TheOther14
@@ -6707,6 +6722,7 @@ ToiletPaperUSA
 tokkiefeesboek
 tokkiemarktplaats
 Tokyo
+TokyoGhoul
 tolkienfans
 tollers
 tollywood
