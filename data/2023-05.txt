@@ -1489,6 +1489,7 @@ CommunismMemes
 community
 CompanyOfHeroes
 CompetitiveApex
+CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
 CompetitiveWoW
@@ -2344,6 +2345,7 @@ fanart
 FancyFeet
 FanFiction
 FanFicWit
+FansHansenvsPredator
 fansofcriticalrole
 fanStands
 fantanoforever
@@ -4735,6 +4737,7 @@ Norse
 NorthCarolina
 northernireland
 northernlion
+NoRulesCalgary
 Norway
 nosafetysmokingfirst
 NoSanaNoLife
@@ -5537,6 +5540,7 @@ regularcarreviews
 RegularRevenge
 regularshow
 ReinhardtMains
+relacionamentos
 relatable_memes_
 relationship_advice
 RelationshipIndia
@@ -5800,6 +5804,7 @@ sendinthetanks
 seniorkitties
 seolhyun
 Sephora
+SephoraWorkers
 SequelMemes
 seraphon
 serbia
@@ -6245,6 +6250,7 @@ Subnautica_Below_Zero
 SubSimulatorGPT2
 SubSimulatorGPT2Meta
 SubsTakenLiterally
+SubstituteTeachers
 Suburbanhell
 subway
 SubwayCreatures
@@ -7365,6 +7371,7 @@ YarnAddicts
 yarntrolls
 yayfoxxo
 yeat_
+Yeen_irl
 yeezys
 Yeji
 YelanMains
