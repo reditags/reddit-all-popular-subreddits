@@ -493,6 +493,7 @@ askcarsales
 AskCulinary
 AskDocs
 AskElectricians
+AskEngineers
 AskFrance
 askgaybros
 AskHistorians
@@ -1753,6 +1754,7 @@ dalmatians
 DamnNatureYouScary
 Damnthatsinteresting
 Dance
+dancegavindance
 dancemoms
 Dandadan
 danganronpa
@@ -3237,6 +3239,7 @@ howto
 howtonotgiveafuck
 howyoudoin
 hoyas
+HPHogwartsMystery
 HRSPRS
 hrvatska
 HSRHusbandos
@@ -3765,6 +3768,7 @@ KimetsuNoYaiba
 KimiNoNaWa
 kindafunny
 kindle
+Kindred
 Kingdom
 kingdomcome
 KingdomHearts
