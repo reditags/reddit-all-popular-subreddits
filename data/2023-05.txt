@@ -2235,6 +2235,7 @@ eldercactus
 ElderKings
 ElderScrolls
 elderscrollsonline
+elderwitches
 electrical
 ElectricalEngineering
 electricdaisycarnival
@@ -2750,6 +2751,7 @@ G59
 GAA
 gachagaming
 gadgets
+GalaxyFold
 GalaxyWatch
 GalGadot
 gallifrey
@@ -7670,6 +7672,7 @@ YouOnLifetime
 YourJokeButWorse
 YourLieinApril
 YourRAGE
+yourturntodie
 YouSeeComrade
 youseeingthisshit
 YouShouldKnow
