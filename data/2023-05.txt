@@ -693,6 +693,7 @@ BanPitBulls
 BanVideoGames
 BarbaraPalvin
 BarbaraWalters4Scale
+Barber
 Barcelona
 barexam
 Barotrauma
@@ -1913,6 +1914,7 @@ DerryGirls
 DerScheisser
 desabafos
 DesantisJetTracker
+DeSantisThreatensUSA
 Design
 DesignDesign
 DesignerReps
@@ -5208,6 +5210,7 @@ pcgaming
 pchaltv
 pcmasterrace
 PCOS
+PCOSloseit
 PeakyBlinders
 peanutbutterisoneword
 PeanutWhiskers
@@ -6730,6 +6733,7 @@ TheoVon
 ThePPShow
 thepunchlineisracism
 TheRandomest
+Theranos
 therapists
 TheRatEmpire
 TheRealJoke
