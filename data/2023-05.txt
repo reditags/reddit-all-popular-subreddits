@@ -1695,6 +1695,7 @@ csMajors
 csmanime
 css_irl
 csuf
+CSULB
 Cubers
 cucina
 CuddlePuddle
@@ -4170,6 +4171,7 @@ macsetups
 Madden
 MadeInAbyss
 MadelainePetsch
+MadelineHope
 MadelynCline
 MadeMeCry
 mademehappycry
@@ -4666,6 +4668,7 @@ nagatoro
 Nahida_Mains
 NailArt
 Nails
+NameMyCat
 NameNerdCirclejerk
 namenerds
 namethatcar
@@ -6231,6 +6234,7 @@ SonoBisqueDoll
 sonos
 SonsOfTheForest
 SonyAlpha
+SonyXperia
 soulcrushingjuice
 SoulKnight
 SoulsSliders
@@ -6384,6 +6388,7 @@ Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
 StoppedWorking
+Stormgate
 Stormlight_Archive
 Stormworks
 StPetersburgFL
