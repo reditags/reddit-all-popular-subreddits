@@ -1171,6 +1171,7 @@ canadanews
 CanadaSoccer
 CanadianInvestor
 canberra
+candy
 CaneCorso
 canes
 CannedSardines
@@ -1551,6 +1552,7 @@ computers
 conan
 ConanBeingAwesome
 ConanExiles
+ConeHeads
 confession
 confessions
 confidentlyincorrect
@@ -5133,6 +5135,7 @@ orangecounty
 orangetheory
 orchids
 oregon
+OregonCoast
 OrganizationPorn
 origami
 originalxbox
