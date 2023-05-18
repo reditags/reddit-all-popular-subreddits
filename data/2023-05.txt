@@ -1997,6 +1997,7 @@ digimon
 DigitalArt
 digitalnomad
 DigitalPainting
+DilettaLeotta
 DilucMains
 Dimension20
 DINgore
@@ -2117,6 +2118,7 @@ DottoreMains
 DougDoug
 doughboys
 DoveCameron
+downloadfestival
 DowntonAbbey
 DownvotedToOblivion
 DragaliaLost
@@ -5461,6 +5463,7 @@ pokemon
 pokemonanime
 Pokemonart
 pokemoncards
+PokemonExpansion
 pokemongo
 pokemongobrag
 PokemonGoFriends
