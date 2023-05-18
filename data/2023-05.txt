@@ -264,6 +264,7 @@ AmerExit
 AmericaBad
 americanairlines
 americandad
+americaneskimo
 AmericanFascism2020
 AmericanHorrorStory
 amex
@@ -501,6 +502,7 @@ AskEngineers
 AskFrance
 askgaybros
 AskHistorians
+AskHR
 AskLosAngeles
 AskMechanics
 AskMen
@@ -1624,6 +1626,7 @@ CozyGrove
 CozyPlaces
 CPA
 CPS
+CPTSDFreeze
 Cr1TiKaL
 crabcats
 CrackheadCraigslist
@@ -7552,6 +7555,7 @@ WomenSoccerLegs
 womensstreetwear
 wonderdraft
 Woodcarving
+WoodworkConfessions
 woodworking
 woof_irl
 woooosh
@@ -7694,6 +7698,7 @@ youseeingthisshit
 YouShouldKnow
 youtube
 youtubehaiku
+youtubetv
 YuB
 yugioh
 YuGiOhMemes
