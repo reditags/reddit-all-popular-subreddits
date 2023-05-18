@@ -1163,6 +1163,7 @@ canada
 Canada_sub
 canadaguns
 canadahousing
+CanadaHousing2
 canadaleft
 canadanews
 CanadaSoccer
@@ -1493,6 +1494,7 @@ coilerayy
 coins
 Coldmirror
 ColdOnes
+ColleenBallingerSnark
 colleensheen
 college
 collegebaseball
@@ -1584,6 +1586,7 @@ copypasta
 coral_sharon
 coralisland
 cordcutters
+Cordoba
 corgi
 Corina_907
 cork
@@ -4423,6 +4426,7 @@ MetalMemes
 metalworking
 Metamask
 metatimeglobal
+metazoogames
 metro
 Metroid
 mew_irl
@@ -6945,6 +6949,7 @@ TorontoDriving
 TorontoMetU
 torontoraptors
 TorontoRealEstate
+Torontothenandnow
 torties
 tortoise
 Totaldrama
@@ -7093,6 +7098,7 @@ UberEATS
 Ubiquiti
 UBreddit
 Ubuntu
+UCalgary
 UCDavis
 ucf
 UCI
