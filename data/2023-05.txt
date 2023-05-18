@@ -1355,6 +1355,7 @@ CharteredAccountants
 ChasersRiseUp
 ChatGPT
 ChatGPT_FR
+ChatGPT_GoogleBard
 ChatGPTPromptGenius
 chats
 Chattanooga
@@ -2142,6 +2143,7 @@ Dramione
 Draven
 Drawfee
 drawing
+drawme
 DrDisrespectLive
 Dreadlocks
 dreamcast
@@ -5583,6 +5585,7 @@ productivity
 ProductManagement
 ProfessorLayton
 progmetal
+ProGolf
 programare
 ProgrammerAnimemes
 ProgrammerHumor
@@ -6759,6 +6762,7 @@ TheBeatles
 TheBidenshitshow
 thebindingofisaac
 TheBoys
+TheBreaker
 TheBrewery
 TheBullWins
 thecampaigntrail
@@ -6917,6 +6921,7 @@ tiktokthots_2
 TILI
 tiltshift
 TimAndEric
+timbers
 timberwolves
 TimDillon
 TimHortons
