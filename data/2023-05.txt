@@ -1694,6 +1694,7 @@ crows
 CRT_so_scary
 crtgaming
 CrucibleGuidebook
+CrueltySquad
 Cruise
 CrumblCookies
 CrusaderKings
