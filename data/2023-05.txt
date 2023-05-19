@@ -1185,6 +1185,7 @@ canberra
 candy
 CaneCorso
 canes
+cannabiscultivation
 CannedSardines
 Canning
 canon
@@ -6385,6 +6386,7 @@ SonsOfTheForest
 SonyAlpha
 SonyXperia
 SophiaDiamondXX
+SoulCalibur
 soulcrushingjuice
 SoulKnight
 SoulsSliders
@@ -6484,6 +6486,7 @@ starfinder_rpg
 Stargate
 Starlink
 starsector
+StarshipDevelopment
 StarshipPorn
 StarStable
 starterpacks
@@ -7171,6 +7174,7 @@ tuckedinkitties
 TuckedInPuppies
 Tucson
 Tudor
+Tudorhistory
 tulsa
 tumblr
 TumblrDraws
@@ -7756,6 +7760,7 @@ xboxone
 XboxSeriesS
 XboxSeriesX
 Xcom
+XDefiant
 Xennials
 Xenoblade_Chronicles
 Xenonion
