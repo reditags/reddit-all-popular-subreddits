@@ -3042,6 +3042,7 @@ GreenBayPackers
 greenday
 Greenlantern
 greenville
+GregDoucette
 Grey_Knights
 Greyhounds
 greysanatomy
@@ -4451,6 +4452,7 @@ MelissaBenoist
 MelissaFumero
 meltedguineapigs
 meltyblood
+MelvorIdle
 meme
 MemeEconomy
 memeframe
@@ -5755,6 +5757,7 @@ RatchetAndClank
 RATM
 Ratorix
 RATS
+RatsAreLiquid
 Ratschlag
 ratterriers
 RavenGuard40k
@@ -6852,6 +6855,7 @@ TheFarSide
 thefighterandthekid
 TheForest
 TheForgottenDepths
+thegarden
 TheGirlSurvivalGuide
 TheGlassCannonPodcast
 theGoldenGirls
