@@ -2237,6 +2237,7 @@ EarthPorn
 Earwolf
 EASportsFC
 EASportsPGATour
+EASportsUFC
 EatCheapAndHealthy
 EatCheapAndVegan
 eatsandwiches
@@ -3118,6 +3119,7 @@ Habs
 hacking
 HadesTheGame
 HadToHurt
+HaggardGarage
 haikyuu
 HailCorporate
 HaileeSteinfeld
