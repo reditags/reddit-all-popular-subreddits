@@ -560,6 +560,7 @@ AtlantaHawks
 AtlantaTV
 AtlantaUnited
 Atlantology
+ATLAtv
 atomicheart
 attackeyes
 attackontitan
@@ -860,6 +861,7 @@ BillyStrings
 bindingofisaac
 bing
 bingbongtheorem
+BingeEatingDisorder
 bingingwithbabish
 BinIchDasArschloch
 biology
@@ -1446,6 +1448,7 @@ CityPorn
 civ
 civ5
 civic
+Civic_Type_R
 CivicSi
 civilengineering
 CivVI
@@ -3291,6 +3294,7 @@ hostedgames
 HostileArchitecture
 hot_reporters
 hotas
+HOTDGreens
 hotdudeswithplants
 HotGermanCelebrities
 HotlineMiami
@@ -4114,6 +4118,7 @@ linuxmemes
 liseliler
 listentothis
 lithuania
+litrpg
 LitterboxComics
 littlebigplanet
 LittlePeopleBigWorld
@@ -4150,6 +4155,7 @@ longcats
 LongDistance
 longevity
 longhair
+LonghornNation
 longisland
 longrange
 lookatmydog
@@ -4717,6 +4723,7 @@ musictheory
 Mustang
 MVIS
 MxRMods
+My600lbLife
 my_celebrity_crush
 Myanmarcombatfootage
 MyChemicalRomance
@@ -5754,6 +5761,7 @@ recruiting
 recruitinghell
 red_velvet
 RedBullRacing
+reddeadfashion
 RedDeadOnline
 reddeadredemption
 reddeadredemption2
@@ -5787,6 +5795,7 @@ regretfulparents
 regularcarreviews
 RegularRevenge
 regularshow
+ReiAyanami
 ReinhardtMains
 relacionamentos
 relatable_memes_
