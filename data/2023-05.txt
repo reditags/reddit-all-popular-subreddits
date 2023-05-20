@@ -5664,6 +5664,7 @@ progun
 Project_Wingman
 projectcar
 ProjectDiablo2
+projecteternity
 ProjectSekai
 projectzomboid
 prolife
