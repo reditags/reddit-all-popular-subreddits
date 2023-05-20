@@ -502,6 +502,7 @@ AskCulinary
 AskDocs
 AskElectricians
 AskEngineers
+AskFeminists
 AskFrance
 askgaybros
 AskHistorians
@@ -3480,6 +3481,7 @@ ImaginaryBestOf
 ImaginaryCastles
 ImaginaryCharacters
 ImaginaryCityscapes
+imaginarycosmere
 ImaginaryCybernetics
 ImaginaryCyberpunk
 ImaginaryDarkSouls
@@ -5022,6 +5024,7 @@ noita
 NoJumper
 NolanBatmanMemes
 NolanMemes
+NOLAPelicans
 NoLawns
 NoMansSkyTheGame
 NominativeDeterminism
@@ -5484,6 +5487,7 @@ photographs
 photoshop
 photoshopbattles
 PhotoshopRequest
+physicaltherapy
 physicianassistant
 Physics
 physicsgifs
@@ -6971,6 +6975,7 @@ ThePPShow
 thepunchlineisracism
 TheRandomest
 Theranos
+TherapeuticKetamine
 therapists
 TheRatEmpire
 TheRealJoke
