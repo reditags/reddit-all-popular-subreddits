@@ -1187,6 +1187,7 @@ CanadaHousing2
 canadaleft
 canadanews
 CanadaSoccer
+CanadianCoins
 CanadianInvestor
 canberra
 candy
@@ -5765,6 +5766,7 @@ quandle
 Quebec
 queen
 queensland
+QueerEye
 quilting
 quityourbullshit
 Qult_Headquarters
