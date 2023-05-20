@@ -668,6 +668,7 @@ BadBunnyPR
 BadChoicesGoodStories
 badcode
 BadDesigns
+badfacebookmemes
 Badfaketexts
 badfriendspod
 badhistory
@@ -2340,6 +2341,7 @@ engineering
 engineeringmemes
 EngineeringPorn
 EngineeringStudents
+ENGLISH
 EnglishLearning
 EnglishSetter
 engrish
@@ -4698,6 +4700,7 @@ Monstera
 MonsterHigh
 MonsterHunter
 MonsterHunterWorld
+Monsterverse
 Montana
 montenegro
 MontgomeryCountyMD
@@ -7517,6 +7520,7 @@ vultureculture
 VuvuzelaIPhone
 VyvanLe
 W2S
+Wagons
 WagoonLadies
 WAGuns
 Wales
