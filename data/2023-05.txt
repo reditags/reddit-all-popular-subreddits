@@ -3049,6 +3049,7 @@ GrandTheftAutoV
 granturismo
 GranTurismo7
 graphic_design
+graphicnovels
 GraphicsProgramming
 Grapplerbaki
 gratefuldead
@@ -3955,6 +3956,7 @@ KoboldLegion
 KokkoroNatsume
 Kokomi_Mains
 kolkata
+KolkataKnightRiders
 kollywood
 Komi_san
 Konosuba
