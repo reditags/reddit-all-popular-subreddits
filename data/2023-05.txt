@@ -3338,6 +3338,7 @@ Home
 homeassistant
 homeautomation
 Homebrewing
+homebridge
 Homebuilding
 HomeDecorating
 HomeDepot
@@ -5254,6 +5255,7 @@ Omorimemes
 OnceUponATime
 OnCinemaAtTheCinema
 oneanddone
+OneBlackBraincell
 onednd
 onegoldenbraincell
 onejob
@@ -7853,6 +7855,7 @@ WorldOfTShirts
 WorldOfWarships
 WorldsBeyondNumber
 WormMemes
+WorstAid
 wortwitzkasse
 WoT
 WoTshow
