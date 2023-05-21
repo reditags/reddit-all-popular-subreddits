@@ -745,6 +745,7 @@ BattlefieldV
 battlemaps
 BattleNetwork
 BattlePaintings
+battles2
 battlestations
 battletech
 batty
@@ -7203,6 +7204,7 @@ Transmogrification
 transprogrammer
 transtrans
 trap
+TrapCuties
 trashpandas
 TrashTaste
 trashy
