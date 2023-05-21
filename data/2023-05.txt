@@ -1253,6 +1253,7 @@ cat
 cataclysmdda
 CatAdvice
 catalunya
+Catan
 CatastrophicFailure
 catbellies
 catbongos
@@ -1511,6 +1512,7 @@ CloneHero
 clonehigh
 clonewars
 CloneWarsMemes
+ClothedMuscle
 Cloud9
 CLOUDS
 ClubPenguin
@@ -2679,6 +2681,7 @@ FordMaverickTruck
 fordranger
 Forest
 ForFashion
+ForgottenBookmarks
 ForgottenWeapons
 forhonor
 forhonormemes
@@ -4222,6 +4225,7 @@ LivMorgan
 Lizards
 lizgillies
 LNPCorruption
+loadingicon
 LOAM_LOVERS
 LobotomyCorp
 LocalLLaMA
@@ -6970,6 +6974,7 @@ thegrandtour
 TheGreatOnesReborn
 TheGriffonsSaddlebag
 TheGrittyPast
+TheHague
 TheHandmaidsTale
 TheInbetweeners
 TheJenkins
@@ -7711,6 +7716,7 @@ whatsthisrock
 whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
+whatwasthiscar
 wheelchairrepunzel
 wheeloftime
 whenthe
