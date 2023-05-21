@@ -1199,6 +1199,7 @@ canberra
 candy
 CaneCorso
 canes
+Cannabis_Culture
 cannabiscultivation
 CannedSardines
 Canning
@@ -5420,6 +5421,7 @@ PecsAndPecBouncing
 Pedro_Pascal
 PedroDBR
 PeepingPooch
+PeepShowQuotes
 Pekingese
 peloton
 pelotoncycle
@@ -6704,6 +6706,7 @@ Suomi
 SuperAthleteGifs
 superautopets
 Superbowl
+superlig
 superman
 SuperMegaBaseball
 SuperMegaShow
