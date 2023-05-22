@@ -5,6 +5,7 @@
 100Kanojo
 100thieves
 100yearsago
+10s
 10yearsatleast
 11foot8
 1200isjerky
@@ -3907,6 +3908,7 @@ KamenRider
 KamenRiderMemes
 KamikazeByWords
 kankan
+KanojoMoKanojo
 KanojoOkarishimasu
 kansascity
 KansasCityChiefs
@@ -5691,6 +5693,7 @@ Polcompball
 Poldersocialisme
 poledancing
 Polestar
+policebrutality
 PoliceChases
 policeuk
 politecats
