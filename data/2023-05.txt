@@ -2328,6 +2328,7 @@ egg_irl
 EggsInc
 Egypt
 EightySix
+EL_Radical
 Eldar
 EldenBling
 Eldenring
@@ -3127,6 +3128,7 @@ Grapplerbaki
 gratefuldead
 gravelcycling
 gravityfalls
+gravityfallsmemes
 gravityrush
 GRCorolla
 GreatBritishMemes
@@ -6672,6 +6674,7 @@ squirrels
 squishmallow
 SS13
 SSBM
+sssdfg
 StableDiffusion
 StainedGlass
 stalker
@@ -8097,6 +8100,7 @@ ZeldaMemes
 Zelina_Vega
 ZeLink
 Zendaya
+ZenyattaMains
 zerobaseone
 ZeroEscape
 zeropoints
