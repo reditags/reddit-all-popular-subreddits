@@ -1540,6 +1540,7 @@ ClubPenguin
 ClumsyAnimals
 Coachella
 cobrakai
+Cockapoo
 cockatiel
 cockerspaniel
 cocktails
@@ -4144,6 +4145,7 @@ LearmannTwins
 learndota2
 learndutch
 LearnerDriverUK
+LearnFinnish
 learnfrench
 learningtocat
 LearnJapanese
