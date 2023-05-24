@@ -2164,6 +2164,7 @@ DoctorMike
 doctorwho
 DoctorWhumour
 Documentaries
+Doenerverbrechen
 DOG
 DogAdvice
 Dogberg
@@ -4462,6 +4463,7 @@ MadisonPettis
 madisonwi
 MadiTeeuws
 madlads
+MadMax
 madnesscombat
 MadokaMagica
 MAFS_AU
@@ -6173,6 +6175,7 @@ rollercoasterjerk
 rollercoasters
 rollerderby
 Rollerskating
+rollingstones
 RomanceClub
 Romania
 romemes
@@ -6838,6 +6841,7 @@ StreetStickers
 stremtch
 strength_training
 Stretched
+StretchedCirclejerk
 StructuralEngineering
 StudentLoans
 studentsph
