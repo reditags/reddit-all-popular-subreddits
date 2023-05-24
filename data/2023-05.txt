@@ -600,6 +600,7 @@ auroramusic
 AusFinance
 ausjdocs
 auslaw
+AusLegal
 AusMemes
 AusRenovation
 AussieCasual
@@ -5061,6 +5062,7 @@ Newbalance
 newcastle
 NewcastleUponTyne
 NewDealAmerica
+newfoundland
 Newfoundlander
 NewGirl
 NewGreentexts
