@@ -218,6 +218,7 @@ akita
 AkutsuSan
 Alabama
 AlanPartridge
+AlanWake
 alaska
 albania
 Albany
@@ -1978,6 +1979,7 @@ December2023BumpGroup
 dechonkers
 DecidingToBeBetter
 declutter
+DecodingTheGurus
 DecreasinglyVerbose
 dedreviil
 DeepIntoYouTube
@@ -4531,6 +4533,7 @@ mapmaking
 MapPorn
 mapporncirclejerk
 MapsWithoutNZ
+Marathon
 MarchAgainstNazis
 MarchAgainstTrump
 MargotRobbie
@@ -6297,6 +6300,7 @@ SatisfactoryGame
 satisfying
 Satisfyingasfuck
 SatoshiBets
+SatoshiStreetBets
 saudiarabia
 SavageGarden
 savannah
@@ -7167,6 +7171,7 @@ TheLastAirbender
 TheLastKingdom
 thelastofus
 TheLastOfUs2
+thelastofusfactions
 ThelastofusHBOseries
 TheLeftCantMeme
 TheLegitBoss
