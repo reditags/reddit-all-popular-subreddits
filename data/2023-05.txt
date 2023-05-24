@@ -1236,6 +1236,7 @@ CannedSardines
 Canning
 canon
 canucks
+CanyonBikes
 capetown
 CapitalismSux
 CapitolConsequences
@@ -2940,6 +2941,7 @@ garfieldminusgarfield
 GarlicBreadMemes
 Garmin
 Gary_The_Cat
+GasStationJamboree
 gastricsleeve
 Gatcat
 gatekeeping
@@ -4758,6 +4760,7 @@ miniatures
 MiniatureSchnauzer
 miniaussie
 Minilego
+minimalcatart
 minimalism
 miniminter
 minipainting
@@ -5985,6 +5988,7 @@ RATS
 RatsAreLiquid
 Ratschlag
 ratterriers
+rav4club
 RavenGuard40k
 ravens
 rawdenim
@@ -7624,6 +7628,7 @@ Utah
 UtahJazz
 UTAustin
 utdallas
+UVA
 uwo
 UXDesign
 UzakiChan
@@ -7741,6 +7746,7 @@ VRchat
 vrising
 VShojo
 vtm
+vtmb
 vtolvr
 Vulfpeck
 vultureculture
