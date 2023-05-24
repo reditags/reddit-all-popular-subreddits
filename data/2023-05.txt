@@ -1151,6 +1151,7 @@ BudgetAudiophile
 budgetfood
 budgieParty
 budgies
+BuenosAires
 Buffalo
 buffalobills
 buffy
@@ -1990,6 +1991,7 @@ Deltarune
 delusionalartists
 delusionalcraigslist
 DelusionsOfAdequacy
+dementia
 DemEyesDoe
 DemiBagby
 deMiko
@@ -4928,6 +4930,7 @@ mycology
 MyDressUpDarlingAnime
 myfavoritemurder
 MyHeroAcadamia
+MyLifeAsATeenageRobot
 mylittlepony
 myog
 MyouiMina
@@ -7726,6 +7729,7 @@ vultureculture
 VuvuzelaIPhone
 VyvanLe
 W2S
+Waco
 Wagons
 WagoonLadies
 WAGuns
