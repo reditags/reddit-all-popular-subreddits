@@ -4403,6 +4403,7 @@ LowSodiumSimmers
 LowStakesConspiracies
 Lowtechbrilliance
 LPOTL
+lpus
 LSAT
 LSD
 LTB_iel
@@ -4629,6 +4630,7 @@ meltyblood
 MelvorIdle
 meme
 MemeEconomy
+memeesti
 memeframe
 MemeFrancais
 MemeHunter
@@ -4900,6 +4902,7 @@ movies
 Moviesinthemaking
 mrballen
 MrBeast
+mrlovenstein
 MrRobot
 MrTechnodad
 mscsmedia
