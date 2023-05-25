@@ -1803,6 +1803,7 @@ css_irl
 csuf
 CSULB
 Cubers
+CubeWorld
 cucina
 CuddlePuddle
 cuddleroll
@@ -5256,6 +5257,7 @@ notdisneyvacation
 notebooks
 nothingeverhappens
 NotHowGirlsWork
+NotHowGuysWork
 notinteresting
 notjustbikes
 NotKenM
@@ -7065,6 +7067,7 @@ techsupportmacgyver
 techtheatre
 TeddyFresh
 TedLasso
+tee
 teefies
 teenagers
 teenagersbuthot
@@ -7879,6 +7882,7 @@ waterloo
 Wavyhair
 WayOfTheBern
 We_are_weeb
+we_FiftyFifty
 WeaponsMoe
 WeAreTheMusicMakers
 weatherfactory
@@ -8146,6 +8150,7 @@ yandere
 YanfeiMains
 YarnAddicts
 yarntrolls
+YasuoMains
 yayfoxxo
 yeat_
 Yeen_irl
