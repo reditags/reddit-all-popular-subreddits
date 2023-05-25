@@ -1956,6 +1956,7 @@ DCAU
 DCcomics
 dccomicscirclejerk
 DCEUleaks
+DCSpoilers
 DDintoGME
 DDLC
 de
@@ -6473,6 +6474,7 @@ ShitCosmoSays
 ShitCrusaderKingsSay
 shitduolingosays
 ShitJamesSays
+ShitKonfaSays
 ShitLiberalsSay
 ShitMomGroupsSay
 ShitPoliticsSays
@@ -7485,6 +7487,7 @@ TruckerCats
 Truckers
 trucksim
 True_Kentucky
+true_tj
 TrueAnon
 truechildfree
 TrueChristian
