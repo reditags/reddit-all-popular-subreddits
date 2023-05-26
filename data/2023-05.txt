@@ -6376,6 +6376,7 @@ scifi
 SCJerk
 Scoobydoo
 Scotland
+scottishfold
 ScottishFootball
 ScottishPeopleTwitter
 ScottPilgrim
@@ -6589,6 +6590,7 @@ singaporehappenings
 SingaporeRaw
 singularity
 Sino
+SiouxFalls
 SipsTea
 sistersofbattle
 SisterWives
@@ -8003,6 +8005,7 @@ wholesomeromance
 WholesomeSliceOfLife
 wholesomevandalism
 wholesomevangelion
+whoop
 whoosh
 whothefuckup
 WhyWereTheyFilming
