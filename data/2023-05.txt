@@ -3099,6 +3099,7 @@ gme_meltdown
 GMECanada
 GMEJungle
 gmod
+gnome
 GNV
 Goatparkour
 goats
@@ -7704,6 +7705,7 @@ uofm
 UofT
 upcycling
 UpliftingNews
+UPSC
 UpvoteBecauseButt
 urbancarliving
 urbanexploration
