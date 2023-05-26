@@ -1466,6 +1466,7 @@ ChildrenFallingOver
 chile
 China
 China_irl
+ChinaWarns
 chinchilla
 Chinesium
 Chipotle
@@ -2363,6 +2364,7 @@ EDH
 Edinburgh
 EDM
 Edmonton
+EDRecoverySnark
 EdSheeran
 educationalgifs
 EducationDen
@@ -4206,6 +4208,7 @@ landscaping
 languagelearning
 languagelearningjerk
 lapfoxtrax
+LARP
 LaserCleaningPorn
 LaStalla
 LastEpoch
@@ -7991,6 +7994,7 @@ westworld
 WetlanderHumor
 WeWantPlates
 WFH
+What_JustHappened
 WhatAWeeb
 whatcarshouldIbuy
 whatcouldgoright
