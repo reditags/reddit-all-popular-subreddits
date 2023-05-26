@@ -2190,6 +2190,7 @@ DoctorMike
 doctorwho
 DoctorWhumour
 Documentaries
+Dodge
 Doenerverbrechen
 DOG
 DogAdvice
@@ -2425,6 +2426,7 @@ Emo
 Emoney
 EmperorsChildren
 EmpireDidNothingWrong
+EmpiresAndPuzzles
 ems
 emulation
 EmulationOnAndroid
@@ -4715,6 +4717,7 @@ MemesESP
 memesITA
 MemeSmiet
 memesopdidnotlike
+Memeulous
 memeuniverse
 MemeVideos
 memexico
@@ -5712,6 +5715,7 @@ PHhandsgonewild
 philadelphia
 Philippines
 phillies
+phillycycling
 PhillyUnion
 PhillyWiki
 philosophy
