@@ -5833,6 +5833,7 @@ pokemon
 pokemonanime
 Pokemonart
 pokemoncards
+PokemonEmerald
 PokemonExpansion
 pokemongo
 pokemongobrag
@@ -7115,6 +7116,7 @@ TeachersInTransition
 teaching
 TeamfightTactics
 TeamFourStar
+TeamSESH
 tearsofthekingdom
 TearsOfThemis
 tech
