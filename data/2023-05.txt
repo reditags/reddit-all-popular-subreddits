@@ -5987,6 +5987,7 @@ Psychiatry
 psychology
 Psychonaut
 PUBATTLEGROUNDS
+PUBGConsole
 PublicFreakout
 publix
 PuertoRico
@@ -8258,6 +8259,7 @@ YouShouldKnow
 youtube
 youtubehaiku
 youtubetv
+ypsi
 YuB
 yugioh
 YuGiOhMemes
