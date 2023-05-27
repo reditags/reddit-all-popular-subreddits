@@ -540,6 +540,7 @@ askmath
 AskMechanics
 AskMen
 AskMenOver30
+AskMexico
 AskMiddleEast
 AskNYC
 AskOldPeople
@@ -1770,6 +1771,7 @@ cringepics
 CringePurgatory
 CringeTikToks
 CringetopiaRM
+Crisverdes
 criterion
 criticalblunder
 criticalrole
@@ -4783,6 +4785,7 @@ metazoogames
 metro
 Metroid
 mew_irl
+Mewing
 mexicanfood
 MexicanMemes
 mexico
