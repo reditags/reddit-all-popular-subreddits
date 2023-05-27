@@ -711,6 +711,7 @@ BadDesigns
 badfacebookmemes
 Badfaketexts
 badfriendspod
+BadGirlsClub
 badhistory
 badmathematics
 BadMensAnatomy
@@ -6623,6 +6624,7 @@ silhouWHAT
 SiliconValleyHBO
 Silksong
 Silmarillionmemes
+SiloSeries
 Silverado
 Silverbugs
 SilverDegenClub
@@ -7324,6 +7326,7 @@ therewasanattempt
 TheRightCantMeme
 TheSimpsons
 thesims
+thesims4
 thesmiths
 thesopranos
 TheStrokes
