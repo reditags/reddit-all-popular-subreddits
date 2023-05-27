@@ -1968,6 +1968,7 @@ Daytrading
 dayz
 DayZServers
 dbfz
+DBLegendsReddit
 dbrand
 dbxv
 dbz
@@ -4115,6 +4116,7 @@ kingofqueens
 KingOfTheHill
 kings
 KingstonOntario
+KingVon
 KiraKosarin
 KiraraMains
 Kirby
