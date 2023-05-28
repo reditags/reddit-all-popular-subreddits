@@ -525,6 +525,7 @@ AskAGerman
 AskAnAmerican
 AskAnAustralian
 askanelectrician
+AskARussian
 AskBalkans
 askcarsales
 AskCulinary
@@ -3425,6 +3426,7 @@ Highrepublic
 HighResCelebs
 highschool
 HighStrangeness
+HIIT
 HikaruNakamura
 HilariaBaldwin
 Hilary_Duff
@@ -4064,6 +4066,7 @@ KateMiddleton
 kateupton
 KatherineMcNamara
 KatherynWinnick
+KathrynNewton
 KatieSigmond_Only
 katyperry
 Katzengruppe
