@@ -3799,6 +3799,7 @@ InstacartShoppers
 InstaCelebsGossip
 Instagram
 InstagramMarketing
+instagrampanel
 Instagramreality
 instant_regret
 instantbarbarians
