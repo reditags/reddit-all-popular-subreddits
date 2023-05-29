@@ -2090,6 +2090,7 @@ DesirePath
 DesiVideoMemes
 desmoines
 dessert
+DessertPerson
 DessertPorn
 Destiny
 destiny2
@@ -2541,6 +2542,7 @@ EvaGreen
 evangelion
 evangelionmemes
 Eve
+EverAfterHigh
 Everton
 EveryoneIsGoingToHell
 EverythingFoxes
@@ -5918,6 +5920,7 @@ PokemonScarletViolet
 PokemonSwordAndShield
 PokemonTCG
 PokemonUnite
+pokeplush
 poker
 pokerrrr2
 Pokerrrr3
