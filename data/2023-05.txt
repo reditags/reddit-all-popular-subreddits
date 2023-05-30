@@ -1599,6 +1599,7 @@ Cloud9
 CLOUDS
 ClubPenguin
 ClumsyAnimals
+cna
 Coachella
 cobrakai
 cocainefreedom
@@ -7048,6 +7049,7 @@ StrangeAndFunny
 StrangeEarth
 StrangePlanet
 StrangerThings
+Strava
 stray
 straykids
 streetart
@@ -7203,6 +7205,7 @@ Tallships
 tallyhall
 tamagotchi
 TameImpala
+tameimpalacirclejerk
 TamilNadu
 tampa
 TampaBayLightning
@@ -7878,6 +7881,7 @@ upcycling
 UpliftingNews
 UPSC
 UpvoteBecauseButt
+uraniumglass
 urbancarliving
 urbanexploration
 UrbanHell
