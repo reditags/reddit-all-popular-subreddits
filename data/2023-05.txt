@@ -3148,6 +3148,7 @@ Gittertiere
 givemeinteligens
 glasgow
 glasscollecting
+glastonbury_festival
 glee
 glitch_art
 Glitch_in_the_Matrix
@@ -3898,6 +3899,7 @@ Italia
 ItaliaMeme
 ItalianFood
 ItalianGreyhounds
+ItaliaPersonalFinance
 italy
 italygames
 ItalyInformatica
@@ -4315,6 +4317,7 @@ LawSchool
 lawschooladmissions
 Lawyertalk
 LaylaMains
+lazerpig
 LeaEluiGinet
 leafs
 leagueoflegends
@@ -4588,6 +4591,7 @@ macbookpro
 macdemarco
 MachikadoMazoku
 MachineLearning
+machinelearningnews
 MachinePorn
 Machinists
 MacMiller
@@ -5628,6 +5632,7 @@ oscarrace
 OSHA
 Oshawa
 OshiNoKo
+OshiNoKoMemes
 osp
 osr
 OstrichPlug
