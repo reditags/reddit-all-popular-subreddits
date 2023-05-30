@@ -530,6 +530,7 @@ AskAnAmerican
 AskAnAustralian
 askanelectrician
 AskARussian
+AskAShittyMechanic
 AskBalkans
 askcarsales
 AskCulinary
@@ -4025,6 +4026,7 @@ JonTron
 Jord627_
 jordan
 JordanPeterson
+JoshuaWeissman
 joueurdugrenier
 Journaling
 jovemedinamica
@@ -4680,6 +4682,7 @@ marioandluigi
 mariokart
 MarioKartTour
 Markiplier
+Maromba
 Marriage
 martialarts
 MartialMemes
@@ -5602,6 +5605,7 @@ oregon
 OregonCoast
 OrganizationPorn
 OriAndTheBlindForest
+orientalshorthair
 origami
 originalxbox
 orioles
