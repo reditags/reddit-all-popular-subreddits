@@ -939,6 +939,7 @@ biologymemes
 bioniclelego
 bioniclememes
 Bioshock
+biotech
 BipolarMemes
 BipolarReddit
 Birates
@@ -1670,6 +1671,7 @@ CommercialsIHate
 communism
 CommunismMemes
 community
+CompanyBattles
 CompanyOfHeroes
 CompetitiveApex
 CompetitiveHalo
@@ -1683,6 +1685,7 @@ computers
 conan
 ConanBeingAwesome
 ConanExiles
+ConanTheBarbarian
 ConeHeads
 confession
 confessions
@@ -4890,6 +4893,7 @@ MichiganWolverines
 Michigents
 MicroBikini
 microbiology
+microblading
 microbork
 microdosing
 microgrowery
