@@ -390,6 +390,7 @@ animenocontext
 AnimeNoises
 animepiracy
 AnimeSketch
+Animesuggest
 AnimeTomboys
 AnimeWallpapersSFW
 Animorphs
@@ -722,6 +723,7 @@ backrooms
 BacktotheFuture
 BackwoodsCreepy
 BackYardChickens
+baconreader
 Bad_Cop_No_Donut
 badassanimals
 BadBunnyPR
@@ -8502,6 +8504,7 @@ YoungThug
 Youniqueamua
 YouniquePresenterMS
 YouOnLifetime
+YourBizarreAdventure
 YoureWrongAbout
 YourJokeButWorse
 YourLieinApril
