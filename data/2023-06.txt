@@ -369,6 +369,7 @@ Bannerlord
 BanPitBulls
 BarbaraPalvin
 Barbie
+Barcelona
 bardmains
 Barotrauma
 Barry
@@ -1473,11 +1474,13 @@ Funnymemes
 funnysigns
 funnyvideos
 furry_irl
+FurryArtSchool
 furrymemes
 fursuit
 fuseboxgames
 fut
 futebol
+FUTMobile
 futurama
 futureporn
 Futurology
@@ -1849,6 +1852,7 @@ indianbikes
 IndianBoysOnTinder
 IndianCountry
 IndianDankMemes
+IndianFootball
 IndianGaming
 Indiangirlsontinder
 IndianHipHopHeads
@@ -1909,6 +1913,7 @@ ironscape
 IrrationalMadness
 islam
 IsraeliBeauty
+ITAGLIA
 Italia
 italy
 ItemShop
@@ -2590,6 +2595,7 @@ NoJumper
 NolanBatmanMemes
 NoLawns
 NoMansSkyTheGame
+NominativeDeterminism
 NonCredibleDiplomacy
 NoneHumanMoe
 nononono
@@ -3071,6 +3077,7 @@ RelayForReddit
 religiousfruitcake
 RellMains
 Reno
+rentnerzeigenaufdinge
 Repsneakers
 reptiles
 rescuedogs
@@ -3179,9 +3186,11 @@ Scams
 ScaramoucheMains
 ScarySigns
 schizoposters
+schkreckl
 schnauzers
 SchnitzelVerbrechen
 science
+scienceisdope
 sciencememes
 ScienceNcoolThings
 ScienceUncensored
@@ -3594,6 +3603,7 @@ thecatdimension
 TheCatTrapIsWorking
 TheClickOwO
 TheCloneWars
+TheCure
 TheDepthsBelow
 TheExpanse
 TheFarSide
@@ -3716,6 +3726,7 @@ TOTK
 Tottenham
 TouchThaFishy
 touhou
+TowerofFantasy
 ToyotaTacoma
 traderjoes
 traditionaltattoos
@@ -4000,6 +4011,7 @@ wholesomegreentext
 wholesomememes
 WhyWomenLiveLonger
 WidacZabory
+wien
 WiggleButts
 wikipedia
 wildlifephotography
@@ -4012,6 +4024,7 @@ winterporn
 wiredpeople
 wirklichgutefrage
 wisconsin
+Wiseposting
 witcher
 Witcher3
 WitchesVsPatriarchy
@@ -4073,6 +4086,7 @@ yakuzagames
 yandere
 yarntrolls
 yayfoxxo
+yeat_
 yeezys
 Yeji
 YelanMains
