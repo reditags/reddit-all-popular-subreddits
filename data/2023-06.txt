@@ -28,6 +28,7 @@
 3Dprinting
 3DS
 40kLore
+40kmemes
 49ers
 4chan
 4kbluray
@@ -40,6 +41,7 @@
 7daystodie
 80s
 80scartoons
+80sdesign
 90DayFiance
 90dayfianceuncensored
 90s
@@ -62,6 +64,7 @@ AccidentalAlly
 AccidentalComedy
 AccidentalRacism
 AccidentalRenaissance
+AccidentalSlapStick
 AccidentalWesAnderson
 Accounting
 AceAttorney
@@ -172,6 +175,7 @@ Angryupvote
 ani_bm
 Animal_Sanctuary
 AnimalCrossing
+animalcrossingmeme
 AnimalMemes
 AnimalsBeingBros
 AnimalsBeingDerps
@@ -243,6 +247,7 @@ ar15
 araragi
 arbeitsleben
 arcane
+ArcherFX
 ArchitecturalRevival
 architecture
 ArchitecturePorn
@@ -557,6 +562,7 @@ bodybuilding
 BoFuri
 Bogleheads
 BoJackHorseman
+Bokoen1
 BokuNoHeroAcademia
 bokunokokoro
 BokuNoMetaAcademia
@@ -601,6 +607,7 @@ Boxers
 Boxing
 boxingcirclejerk
 BPDmemes
+brandnew
 BrandNewSentence
 BrandonDE
 brandonherrara
@@ -755,6 +762,7 @@ CatsWhoSmoke
 CatsWhoSqueak
 catswhotrill
 Catswhoyell
+CatsWithDogs
 Catswithjobs
 CatTaps
 CBSE
@@ -783,6 +791,7 @@ ChainsawMan
 chainsawmancirclejerk
 Championship
 Chang_Gang
+ChantelJeffries
 Chaos40k
 ChaosKnights
 chaoticgood
@@ -999,6 +1008,7 @@ csk
 cuddleroll
 CultOfTheLamb
 CuratedTumblr
+curatedvideos
 curb
 curledfeetsies
 Cursed_Images
@@ -1022,6 +1032,7 @@ CynoMains
 cyprus
 czech
 czechmemes
+Dabs
 Dachschaden
 Dachshund
 dachshunds
@@ -1140,6 +1151,7 @@ DestinyFashion
 DestinyLore
 DestinyMemes
 DestinyTheGame
+DestroyedTanks
 DetailCraft
 Detroit
 detroitlions
@@ -1263,6 +1275,7 @@ drums
 drunk
 drunkencookery
 dualipa
+Dualsport
 dubai
 duck
 DuelLinks
@@ -1296,6 +1309,7 @@ Eesti
 Eevee
 egg_irl
 Egypt
+EightySix
 Eldar
 EldenBling
 Eldenring
@@ -1612,6 +1626,7 @@ Futurology
 G59
 gachagaming
 gadgets
+GalaxysEdge
 GalGadot
 Gambiarra
 Gameboy
@@ -1816,6 +1831,7 @@ HayleyAtwell
 hayleywilliams
 HazbinHotel
 hbo
+headpats
 headphones
 Health
 HealthyFood
@@ -2131,6 +2147,7 @@ jisoo
 jjdandfamily
 jobs
 JoeBiden
+JoePera
 JoeRogan
 joinsquad
 JoJoMemes
@@ -2242,6 +2259,7 @@ kpics
 kpop
 KpopHotties
 kpopthoughts
+KrisCollins
 kristenbell
 kroger
 ksi
@@ -2456,6 +2474,7 @@ malehairadvice
 malelivingspace
 MaliciousCompliance
 mallninjashit
+malluhorny
 Maltipoo
 MamaJuneFromNotToHot
 manchester
@@ -2480,6 +2499,7 @@ marioandluigi
 mariokart
 Markiplier
 Marriage
+martialarts
 MartialMemes
 Marvel
 marvelcirclejerk
@@ -2594,6 +2614,7 @@ MinecraftChampionship
 Minecrafthmmm
 MinecraftMemes
 MineIslam
+MineralPorn
 miniatures
 MiniatureSchnauzer
 MiningPoolHub
@@ -2941,6 +2962,7 @@ OldSkaters
 OLED_Gaming
 oliviadunne
 OliviaMunn
+OliviaRodrigo
 olympia
 Omaha
 OmegaStrikers
@@ -2957,6 +2979,7 @@ OnePiecePowerScaling
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
+onewheel
 OneyPlays
 onguardforthee
 OniichanOshimai
@@ -3158,6 +3181,7 @@ PointlessStories
 PointyTailedKittens
 PokeMedia
 pokemon
+pokemoncards
 pokemongo
 pokemongobrag
 PokemonGoMystic
@@ -3342,6 +3366,7 @@ RedHood
 RedHotChiliPeppers
 RedLetterMedia
 redneckengineering
+RedReader
 regularcarreviews
 RegularRevenge
 regularshow
@@ -3596,6 +3621,7 @@ Sigmarxism
 signalis
 SigSauer
 silenthill
+Silksong
 Silmarillionmemes
 Silverbugs
 SilverDegenClub
@@ -3782,6 +3808,7 @@ stupiddovenests
 StupidFood
 stupidpol
 subaru
+Subliminal
 submechanophobia
 submitted
 subnautica
@@ -3810,6 +3837,7 @@ SuperStructures
 supportlol
 surrealmemes
 survivor
+sushi
 suspiciouslyspecific
 Sverige
 SweatyPalms
@@ -4096,6 +4124,7 @@ Trophies
 TruckerCats
 Truckers
 TrueAnon
+TrueChristian
 TrueCrime
 TrueCrimeDiscussion
 truegaming
@@ -4199,6 +4228,7 @@ USMC
 USPS
 ussoccer
 Utah
+vagabond
 valheim
 VALORANT
 ValorantCompetitive
@@ -4239,6 +4269,7 @@ victoriajustice
 VictoriaJusticeShine
 videogamedunkey
 videogames
+videography
 videomemes
 videos
 vidid
@@ -4284,6 +4315,7 @@ Warhammer40kEsp
 WarhammerCompetitive
 WarhammerFantasy
 WarplanePorn
+WarriorCats
 warriors
 WarshipPorn
 warthundermemes
