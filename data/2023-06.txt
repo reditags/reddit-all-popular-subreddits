@@ -241,6 +241,7 @@ ApexUncovered
 apexuniversity
 apolloapp
 apple
+applehelp
 AppleWatch
 ApplyingToCollege
 Aquariums
@@ -289,6 +290,7 @@ AsianMasculinity
 ask
 AskAnAustralian
 askanelectrician
+AskAShittyMechanic
 AskBalkans
 AskDocs
 askgaybros
@@ -730,6 +732,7 @@ CasualConversation
 CasualIreland
 casualknitting
 casualnintendo
+CasualPT
 CasualRO
 CasualUK
 cat
@@ -937,6 +940,7 @@ Consoom
 conspiracy
 conspiracy_commons
 Construction
+consulting
 ContagiousLaughter
 ContestOfChampions
 continuityporn
@@ -1394,6 +1398,7 @@ ethereum
 EthereumClassic
 EthereumMax
 ethoslab
+EtrianOdyssey
 eu4
 eu_nvr
 Eugene
@@ -1507,6 +1512,7 @@ Filmmakers
 FinalFantasy
 finalfantasytactics
 FinalFantasyVII
+FinalFantasyVIII
 FinancialCareers
 financialindependence
 Finanzen
@@ -2161,6 +2167,7 @@ jedicouncilofelrond
 JEENEETards
 Jeep
 JeffArcuri
+jellybeantoes
 JennaLouiseColeman
 Jennamarbles
 jennie
@@ -2333,6 +2340,7 @@ LaurenCohan
 law
 lawncare
 LawSchool
+lawschooladmissions
 Lawyertalk
 leafs
 leagueoflegends
@@ -2895,6 +2903,7 @@ NoLawns
 NoMansSkyTheGame
 NominativeDeterminism
 NonCredibleDiplomacy
+NonCredibleERA
 NoneHumanMoe
 nononono
 nonononoyes
@@ -3132,6 +3141,7 @@ PeanutWhiskers
 PecsAndPecBouncing
 Pedro_Pascal
 PedroDBR
+PeepShowQuotes
 peloton
 penguins
 PenmanshipPorn
@@ -3180,6 +3190,7 @@ PhotoshopRequest
 Physics
 physicsmemes
 piano
+Picard
 PickleFinancial
 pics
 piercing
@@ -3439,6 +3450,7 @@ RheaRipley
 rhettandlink
 RhodesianRidgebacks
 rickandmorty
+rickygervais
 RightJerk
 rimesegate
 rimjob_steve
@@ -3471,6 +3483,7 @@ RotMG
 Rottweiler
 roughcollies
 RoughRomanMemes
+RoundRock
 royalcaribbean
 RPClipsGTA
 RPDRDRAMA
@@ -3837,6 +3850,7 @@ stocks
 StonerEngineering
 stopdrinking
 stopdrinkingfitness
+stophegetsus
 StoppedWorking
 Stormlight_Archive
 storyofseasons
@@ -4086,6 +4100,7 @@ timberwolves
 TimDillon
 Tinder
 TingyunShrine
+tinnitusresearch
 tinyawoos
 tinyorangekittens
 TipOfMyFork
@@ -4098,6 +4113,7 @@ TMKOC
 TMNT
 tmobile
 TNOmod
+toastme
 todayilearned
 toddlers
 ToiletPaperUSA
@@ -4138,6 +4154,7 @@ TouchThaFishy
 touhou
 TowerofFantasy
 ToyotaTacoma
+trackandfield
 TrackMania
 traderjoes
 traditionaltattoos
@@ -4150,6 +4167,7 @@ TransClones
 Transformemes
 transformers
 transgender
+transit
 transitiongoals
 TransLater
 Transmogrification
@@ -4383,6 +4401,7 @@ WatchWhatCrappens
 Watercolor
 watercolorcats
 Waterfalls
+Wavyhair
 WaypointVICE
 We_are_weeb
 WeaponsMoe
@@ -4444,6 +4463,7 @@ whittling
 wholesome
 wholesome_girls
 wholesomebpt
+WholesomeComics
 WholesomeFantasyArt
 wholesomegifs
 wholesomegreentext
