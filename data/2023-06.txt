@@ -11,6 +11,7 @@
 1morewow
 2007scape
 21stCenturyHumour
+2ALiberals
 2Asia4u
 2bharat4you
 2greek4you
@@ -85,6 +86,7 @@ AdmiralCloudberg
 adorableoldpeople
 Adulting
 adultingph
+Advance_Wars
 adventuretime
 Advice
 AdviceAnimals
@@ -410,6 +412,7 @@ bartenders
 baseball
 baseballcards
 baseballcirclejerk
+BashTheFash
 basketballcards
 basset
 bassfishing
@@ -1088,6 +1091,7 @@ dataisugly
 datealive
 dating
 dating_advice
+datingoverthirty
 Daytrading
 dayz
 dbz
@@ -1498,6 +1502,7 @@ firefox
 firstimpression
 FirstResponderCringe
 FirstTimeHomeBuyer
+firstworldanarchists
 Fischl
 fishtanklive
 Fisker
@@ -1852,9 +1857,11 @@ HelpMeFind
 heraldry
 HermitCraft
 hermitcraftmemes
+heroesofthestorm
 HeroForgeMinis
 herpetology
 HFY
+HGTV
 HiFiRush
 HighHeels
 HighQualityGifs
@@ -2114,10 +2121,12 @@ jackass
 jackrussellterrier
 jacksonville
 JackSucksAtLife
+Jaguars
 jakanddaxter
 jakertown
 JamesHoffmann
 jameswebbdiscoveries
+janeausten
 January6
 japan
 japan_insoul
@@ -2161,6 +2170,7 @@ JRPG
 jschlatt
 jschlattsubmissions
 Judaism
+judo
 JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
@@ -2568,6 +2578,7 @@ MensRights
 menwritingwomen
 MEOW_IRL
 meowsertrousers
+Mercari
 mercedes_benz
 Metalcore
 MetalForTheMasses
@@ -2766,6 +2777,7 @@ necromunda
 Necrontyr
 nederlands
 needforspeed
+neekolul
 NelliesNest
 neoliberal
 NeonGenesisEvangelion
@@ -2888,6 +2900,7 @@ nova
 nowmycat
 nrl
 NUFC
+numetal
 nursing
 NuxTakuSubmissions
 nuzlocke
@@ -3723,6 +3736,7 @@ Spiderman
 SpidermanPS4
 spiders
 spongebob
+Spore
 sports
 sportsarefun
 sportsbetting
@@ -3865,6 +3879,7 @@ TalesFromTheFrontDesk
 TalesFromYourServer
 talk_hunfluencers
 tall
+Tallahassee
 tallyhall
 tamagotchi
 tampa
@@ -4170,6 +4185,7 @@ Ubiquiti
 UCalgary
 UCI
 ucla
+UCSD
 ufc
 UFOB
 UFOs
@@ -4490,6 +4506,7 @@ Yellowjackets
 YellowjacketsHive
 yesyesyesyesno
 YMS
+yo_ctm
 yoga
 Yoimiya_Mains
 yoojimin
