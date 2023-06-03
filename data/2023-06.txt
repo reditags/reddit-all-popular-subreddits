@@ -786,6 +786,7 @@ CapitolConsequences
 caps
 capybara
 CardanoNFTMarketplace
+Cardiff
 Cardinals
 careeradvice
 careerguidance
@@ -932,6 +933,7 @@ Christianity
 christianmemes
 christinahendricks
 ChronicPain
+chuggaaconroy
 churchofharu
 ChurchOfKasumi
 ChurchofMarnie
@@ -950,6 +952,7 @@ CitiesSkylines
 CityPorn
 civ
 civ5
+civic
 civilengineering
 CivVI
 CK3AGOT
@@ -982,6 +985,7 @@ cocktails
 CoDCompetitive
 CodeGeass
 CODWarzone
+codyko
 CODZombies
 CoinMarketCap
 coins
@@ -1196,6 +1200,7 @@ dankvideos
 DanLeBatardShow
 DanMachi
 DannyGonzalez
+DarceyAndStaceyTLC
 Daredevil
 DarK
 DarkAndDarker
@@ -1392,6 +1397,7 @@ dontyouknowwhoiam
 DonutMedia
 doodoofard
 Doom
+doomfistmains
 doommetal
 doordash
 doordash_drivers
@@ -1573,6 +1579,7 @@ ExplainTheJoke
 ExposurePorn
 ExtremeCarCrashes
 extremelyinfuriating
+Exvangelical
 Eyebleach
 eyebombing
 f150
@@ -1776,6 +1783,7 @@ Frugal
 Frugal_Jerk
 Fruitbatcats
 ft86
+ftlgame
 FTMMen
 fuckcars
 FuckCarscirclejerk
@@ -1850,6 +1858,7 @@ GardeningUK
 garfieldminusgarfield
 GarlicBreadMemes
 Garmin
+Gary_The_Cat
 gatekeeping
 GatekeepingYuri
 gatesopencomeonin
@@ -1985,6 +1994,7 @@ GTAV
 GTBAE
 GuardianTales
 guessmyage
+GUIBELREVIEWS
 Guildwars2
 GuiltyDogs
 Guiltygear
@@ -2697,6 +2707,7 @@ longboarding
 longboyes
 LongDistance
 longhair
+LonghornNation
 longisland
 longrange
 lookatmydog
@@ -2934,6 +2945,7 @@ Millennials
 MillieBobbyBrown2
 milwaukee
 Mimosa
+mimovi
 mina_irl
 Mindfulness
 Mindustry
@@ -2970,6 +2982,7 @@ MMA
 mmamemes
 MMORPG
 MobileLegendsGame
+Mobpsycho100
 ModCoord
 modeltrains
 Modern_Family
@@ -3464,6 +3477,7 @@ penguin
 penguins
 PenmanshipPorn
 Pennsylvania
+PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
 peopleplayground
@@ -3646,6 +3660,7 @@ progun
 projectcar
 ProjectSekai
 projectzomboid
+prolife
 PropagandaPosters
 propagandasantigas
 ProperAnimalNames
@@ -3925,6 +3940,7 @@ scottthewoz
 SCP
 Scream
 Screenwriting
+scriptedasiangifs
 Scrubs
 scrungycats
 scuba
@@ -3954,6 +3970,7 @@ Semaglutide
 seniorkitties
 Sephora
 SequelMemes
+seraphon
 serbia
 serbiancringe
 serialkillers
@@ -4427,6 +4444,7 @@ thecringeshowaward
 TheCure
 TheDarkTower
 TheDepthsBelow
+TheEminenceInShadow
 TheExpanse
 TheFarSide
 thefighterandthekid
@@ -4518,6 +4536,7 @@ TimDillon
 Tinder
 TingyunShrine
 tinnitusresearch
+tinyanimalsonfingers
 tinyawoos
 TinyHouses
 Tinyman
