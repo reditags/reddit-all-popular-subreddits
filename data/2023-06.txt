@@ -992,8 +992,10 @@ CookieClicker
 Cookierun
 CookieRunKingdoms
 Cooking
+CoolGadgetsTube
 coolguides
 coonhounds
+copenhagen
 copypasta
 coral_sharon
 cordcutters
@@ -1068,6 +1070,7 @@ cscareerquestions
 csgo
 csk
 cuddleroll
+CultOfEchidna
 CultOfTheLamb
 CuratedTumblr
 curatedvideos
@@ -1801,6 +1804,7 @@ GirlsInaGif
 GirlsLastTour
 GirlsUndShitposts
 girlswithbigmuscles
+glasgow
 GlitchInTheMatrix
 GlobalOffensive
 Glocks
@@ -1926,6 +1930,7 @@ Hardcore
 hardcoreaww
 HardcoreNature
 hardimages
+hardstyle
 hardware
 Harley
 Harpo
@@ -2104,6 +2109,7 @@ illinois
 Illustration
 iLuTV
 im14andthisisdeep
+Im15AndThisIsYeet
 ImaginaryBehemoths
 ImaginaryCharacters
 ImaginaryDragons
@@ -3423,6 +3429,7 @@ poutine
 povertyfinance
 powerrangers
 powerwashingporn
+pozilei
 PraiseTheCameraMan
 PredecessorGame
 PrehistoricMemes
@@ -3589,6 +3596,7 @@ retardedcornfieldcum
 retrobattlestations
 RetroFuturism
 retrogaming
+revancedapp
 reverseanimalrescue
 Revolvers
 RheaRipley
@@ -4010,6 +4018,7 @@ StLouis
 stockholm
 StockMarket
 stocks
+stolendogbeds
 StonerEngineering
 stopdrinking
 stopdrinkingfitness
@@ -4099,6 +4108,7 @@ tall
 Tallahassee
 tallyhall
 tamagotchi
+TameImpala
 tampa
 tampabayrays
 tankiejerk
@@ -4200,6 +4210,7 @@ thegrandtour
 TheGriffonsSaddlebag
 TheGrittyPast
 theJoeBuddenPodcast
+TheKonsey
 TheLastAirbender
 thelastofus
 TheLastOfUs2
@@ -4294,6 +4305,7 @@ todayilearned
 toddlers
 ToiletPaperUSA
 TokenFinders
+tokkiefeesboek
 tokkiemarktplaats
 tolkienfans
 tollers
@@ -4430,6 +4442,7 @@ UIUC
 UK_TV_Girls
 UKcoins
 ukdrill
+UKhiking
 UKPersonalFinance
 ukraine
 Ukraine_UA
@@ -4552,6 +4565,7 @@ VolleyballGirls
 VoteDEM
 VRchat
 VShojo
+vtm
 VuvuzelaIPhone
 VyvanLe
 Wagons
@@ -4728,6 +4742,7 @@ WWEGames
 wwiipics
 WWIIplanes
 xbiking
+xbox
 xbox360
 XboxGamePass
 xboxone
