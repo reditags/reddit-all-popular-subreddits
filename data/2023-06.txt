@@ -84,6 +84,7 @@ ActionFigures
 ActivationSound
 ActLikeYouBelong
 ActualPublicFreakouts
+Acura
 AddisonRae
 Adelaide
 AdeptusCustodes
@@ -275,6 +276,7 @@ archlinux
 arcticmonkeys
 arduino
 AreYouGarbagePod
+Argaming
 argentina
 ArgentinaBenderStyle
 Argnime
@@ -636,6 +638,7 @@ BoneAppleTea
 bonehealingjuice
 bonehurtingjuice
 bonnaroo
+booknooks
 books
 bookshelf
 BoostForReddit
@@ -904,6 +907,7 @@ Chivalry2
 chiweenie
 chloe
 chloegracemoretz
+chomsky
 Chonkers
 ChoosingBeggars
 chowchow
@@ -911,7 +915,9 @@ Christianity
 christianmemes
 christinahendricks
 ChronicPain
+churchofharu
 ChurchOfKasumi
+ChurchofMarnie
 ChurchOfNejire
 CICO
 cigars
@@ -1060,6 +1066,7 @@ CrackWatch
 CrappyDesign
 crappyoffbrands
 CrazyFuckingVideos
+CrazyIdeas
 CreateMod
 CreditCards
 creepy
@@ -1290,6 +1297,7 @@ Dimension20
 DINgore
 Dinosaurs
 DiretoDoZapZap
+disability
 discgolf
 DiscoElysium
 discord_irl
@@ -1476,6 +1484,7 @@ engrish
 ENLIGHTENEDCENTRISM
 EnoughCommieSpam
 EnoughMuskSpam
+EnoughPCMSpam
 enoughpetersonspam
 EnterTheGungeon
 entitledparents
@@ -1618,6 +1627,7 @@ FinalFantasy
 finalfantasytactics
 FinalFantasyVII
 FinalFantasyVIII
+finalfantasyx
 FinancialCareers
 financialindependence
 Finanzen
@@ -1696,6 +1706,7 @@ forwardsfromgrandma
 ForwardsFromKlandma
 forza
 ForzaHorizon
+found70percentbanana
 FoundPaper
 foundsatan
 fountainpens
@@ -1851,6 +1862,7 @@ gijoe
 GillianAnderson
 gingercats
 GingerMafia
+Giraffesdontexist
 girlsfrontline
 GirlsInaGif
 GirlsLastTour
@@ -2254,6 +2266,7 @@ InstacartShoppers
 InstaCelebsGossip
 Instagramreality
 instant_regret
+instantbarbarians
 instantkarma
 Instantregret
 insurgency
@@ -2415,6 +2428,7 @@ KatieSigmond_Only
 KatyaSitak
 katyperry
 Kayaking
+Kazumin
 KCRoyals
 kde
 KeanuBeingAwesome
@@ -2833,6 +2847,7 @@ Miami
 miamidolphins
 Miata
 Michigan
+microbork
 MicroPorn
 MicrosoftFlightSim
 Mid_Century
@@ -3055,6 +3070,7 @@ NewJeans
 newjersey
 NewOrleans
 NewParents
+NewPatriotism
 news
 NewsAroundYou
 NewSkaters
@@ -3665,6 +3681,7 @@ RedHotChiliPeppers
 RedLetterMedia
 redneckengineering
 RedReader
+redrising
 redsox
 redstone
 regretfulparents
@@ -3901,6 +3918,7 @@ ShitpostBR
 ShitPostCrusaders
 shitposting
 ShitpostXIV
+Shitstatistssay
 Shitty_Car_Mods
 shittyaquariums
 Shittyaskflying
@@ -4196,6 +4214,7 @@ SydneySweeney
 sylvaneth
 SymmetraMains
 synthesizers
+Syracuse
 sysadmin
 sza
 TabbyCats
@@ -4403,6 +4422,7 @@ Tinder
 TingyunShrine
 tinnitusresearch
 tinyawoos
+TinyHouses
 Tinyman
 tinyorangekittens
 TinyUnits
