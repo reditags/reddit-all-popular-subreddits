@@ -88,6 +88,7 @@ acotar
 ActionFigures
 ActivationSound
 ActLikeYouBelong
+actu_memes
 ActualPublicFreakouts
 Acura
 AddisonRae
@@ -197,6 +198,7 @@ andreyoung
 Androgynoushotties
 Android
 androidapps
+AndroidGaming
 Andromeda321
 angeleswattersfan
 angelsbaseball
@@ -216,6 +218,7 @@ AnimalsBeingMoms
 AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
+AnimalsOnReddit
 Animalsthatlovemagic
 AnimalTextGifs
 AnimalTracking
@@ -232,6 +235,7 @@ AnimeFunny
 animegifs
 AnimeHoodies
 animehotbeverages
+AnimeMeme
 animememes
 Animemes
 AnimeMirchi
@@ -408,6 +412,7 @@ AvatarMemes
 avengedsevenfold
 aves
 aviation
+aviationmaintenance
 aviationmemes
 awesome
 AwesomeCarMods
@@ -1062,6 +1067,7 @@ CompanyBattles
 CompetitiveApex
 Competitiveoverwatch
 CompetitiveTFT
+CompetitiveWoW
 compoface
 CompTIA
 computers
@@ -1717,6 +1723,7 @@ FightsGoneWildpt2
 fightsticks
 FigureSkating
 Filmmakers
+FilthyFrank
 FinalFantasy
 finalfantasytactics
 FinalFantasyVII
@@ -1959,6 +1966,7 @@ GFRIEND
 ghettowhitegirls
 ghibli
 Ghostbc
+ghostbusters
 ghostoftsushima
 GhostRecon
 GifRecipes
@@ -2466,6 +2474,7 @@ jakanddaxter
 jakeandamir
 jakertown
 JamesHoffmann
+JamesTurnerYT
 jameswebbdiscoveries
 janeausten
 January6
@@ -2829,6 +2838,7 @@ LoveIslandTV
 lovejoyband
 LoveLive
 LoveNikki
+Lowes
 LowQualityMemes
 lowriders
 LowSodiumDestiny
@@ -2964,6 +2974,7 @@ Megadeth
 megalophobia
 Megaman
 megane
+MeganFox
 Megaten
 Megumin
 meirl
@@ -3619,6 +3630,7 @@ PhasmophobiaGame
 phcareers
 PhD
 PHGamers
+PHhandsgonewild
 philadelphia
 Philippines
 phillies
@@ -3876,6 +3888,7 @@ ReasonableFantasy
 RebornDollCringe
 REBubble
 recipes
+reclaimedbynature
 recruitinghell
 red_velvet
 RedDeadOnline
@@ -3956,6 +3969,7 @@ rockhounds
 rodentintercourse
 RoleReversal
 rollercoasters
+rollingstones
 RomanceClub
 Romania
 romemes
@@ -4091,6 +4105,7 @@ SelfiesGoneMild
 selfimprovement
 SellingSunset
 Semaglutide
+sendinthetanks
 seniorkitties
 Sephora
 SequelMemes
@@ -4596,6 +4611,7 @@ TheGlassCannonPodcast
 theGoldenGirls
 TheGoodPlace
 thegrandtour
+TheGreatOnesReborn
 TheGriffonsSaddlebag
 TheGrittyPast
 TheJenkins
@@ -4994,6 +5010,7 @@ Wales
 walkaway
 wallpaper
 wallstreetbets
+Wallstreetbetsnew
 Wallstreetsilver
 walmart
 WalmartCelebrities
@@ -5019,6 +5036,7 @@ Watches
 Watchexchange
 WatchPeopleDieInside
 watchpeoplesurvive
+watchthingsfly
 WatchWhatCrappens
 Watercolor
 watercolorcats
