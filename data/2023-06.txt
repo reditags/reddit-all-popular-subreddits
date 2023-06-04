@@ -166,6 +166,7 @@ AmazonFlexDrivers
 ambbabies
 AmberHeardFans
 amcstock
+AMCSTOCKS
 Amd
 AmericaBad
 americandad
@@ -636,6 +637,7 @@ BlatantMisogyny
 bleach
 blender
 Blep
+blessedimages
 Blink182
 BlockchainGame
 blockchainprogramming
@@ -1138,6 +1140,7 @@ cottagecore
 CountOnceADay
 CoupleMemes
 CourtneyMiller
+CovIdiots
 covidlonghaulers
 cowboybebop
 cowboys
@@ -1311,6 +1314,7 @@ deadlockpw
 deadmeatjames
 DeadSpace
 deathbattle
+DeathBattleMatchups
 deathgrips
 deathguard40k
 Deathkorpsofkrieg
@@ -1345,6 +1349,7 @@ Demotivational
 Denmark
 DenverBroncos
 DenverCirclejerk
+denverfood
 denvernuggets
 Depop
 DeppDelusion
@@ -1537,6 +1542,7 @@ EarthPorn
 EASportsFC
 EatCheapAndHealthy
 eatsandwiches
+EatTheRich
 ebikes
 EbonyImagination
 Economics
@@ -2193,6 +2199,7 @@ hermitcraftmemes
 heroesofthestorm
 HeroForgeMinis
 herpetology
+hessich_iel
 HFY
 HGTV
 HiFiRush
@@ -2674,6 +2681,7 @@ KoboldLegion
 Kokomi_Mains
 kolkata
 kollywood
+Komi_memes
 Komi_san
 Konosuba
 korea
@@ -2957,6 +2965,7 @@ MangaCollectors
 Manhua
 manhwa
 Manitoba
+ManufacturingPorn
 Maplestory
 MapPorn
 mapporncirclejerk
@@ -3105,6 +3114,7 @@ Minecraftbuilds
 MinecraftChampionship
 Minecrafthmmm
 MinecraftMemes
+minecraftsuggestions
 MineIslam
 MineralPorn
 miniatures
@@ -3776,6 +3786,7 @@ polandball
 policeuk
 politecats
 Political_Revolution
+PoliticalComebacks
 PoliticalCompassMemes
 PoliticalHumor
 PoliticalMemes
@@ -3932,6 +3943,7 @@ RDR2
 Re_Zero
 reactiongifs
 reactivedogs
+reactjs
 real_China_irl
 realasians
 realbikinis
@@ -5026,6 +5038,7 @@ velvethippos
 Vent
 venturebros
 Vermintide
+vermont
 VeteransBenefits
 vexillology
 vexillologycirclejerk
@@ -5121,6 +5134,7 @@ WeatherGifs
 webcomics
 webdev
 wec
+WECcirclejerk
 wedding
 Weddingattireapproval
 weddingdress
@@ -5199,6 +5213,7 @@ wildbeef
 wildhockey
 wildlifephotography
 wildrift
+willwood
 wimmelbilder
 Windows10
 Windows11
@@ -5230,6 +5245,7 @@ Woodcarving
 woodworking
 woof_irl
 woooosh
+wordsonanimegirls
 work
 WorkersStrikeBack
 workouts
@@ -5303,6 +5319,7 @@ Yeji
 YelanMains
 Yellowjackets
 YellowjacketsHive
+yescompanionimbecil
 yesyesyesyesno
 yieldly
 YMS
