@@ -217,6 +217,7 @@ animalcrossingmeme
 AnimalCrossingNewHor
 AnimalMemes
 AnimalsBeingBros
+AnimalsBeingConfused
 AnimalsBeingDerps
 AnimalsBeingGeniuses
 AnimalsBeingHappy
@@ -327,6 +328,7 @@ Art
 ArtDeco
 ArtefactPorn
 artificial
+ArtNouveau
 ArtOfRolling
 ArtPorn
 Asexual
@@ -469,6 +471,7 @@ baeirene
 BaeSuzy
 Baking
 bald
+baldursgate
 BaldursGate3
 balkans_irl
 ballpython
@@ -751,6 +754,7 @@ BRF
 BridgertonNetflix
 brighton
 BrightonHoveAlbion
+BrigitteMains
 BringMeTheHorizon
 brisbane
 bristol
@@ -1056,6 +1060,7 @@ CODZombies
 CoinMarketCap
 coins
 Coldmirror
+ColdOnes
 ColleenBallingerSnark
 colleensheen
 college
@@ -1353,6 +1358,7 @@ deMiko
 demisexuality
 DemocraticSocialism
 democrats
+DemonolatryPractices
 DemonSlayerAnime
 Demotivational
 Denmark
@@ -1762,6 +1768,7 @@ fffffffuuuuuuuuuuuu
 FFVIIRemake
 ffxiv
 FFXIVGlamours
+FFXV
 FFXVI
 fiaustralia
 Fibromyalgia
@@ -1838,6 +1845,7 @@ Foodforthought
 foodhacks
 FoodLosAngeles
 FoodPorn
+FoodVideoPorn
 Foofighters
 football
 footballmanagergames
@@ -2272,6 +2280,7 @@ HomeDepot
 HomeImprovement
 homelab
 HomeNetworking
+HomeServer
 homestead
 Homesteading
 homestuck
@@ -2360,6 +2369,7 @@ ididnthaveeggs
 idiocracy
 IdiotsFightingThings
 IdiotsInCars
+IdiotsNearlyDying
 Idiotswithguns
 idiotwastingtime
 IDmydog
@@ -2778,6 +2788,7 @@ LeaksDBD
 leanbeefpatty
 LearmannTwins
 learnprogramming
+learnpython
 learntodraw
 Leathercraft
 leaves
@@ -3037,6 +3048,7 @@ McMansionHell
 MCPE
 me_irl
 me_irlgbt
+mead
 MealPrepSunday
 MechanicAdvice
 mechanical_gifs
@@ -3958,6 +3970,7 @@ rarecompliments
 rareinsults
 rarepuppers
 raspberry_pi
+rat
 RatchetAndClank
 RATS
 ratterriers
@@ -5031,6 +5044,7 @@ UrbanHell
 urbanplanning
 USDC
 USDTSCAN
+uselessredcircle
 UsernameChecksOut
 USMC
 USPS
