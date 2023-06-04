@@ -279,6 +279,7 @@ ar15
 araragi
 arbeitsleben
 arcane
+Archaeology
 ArcherFX
 ArchitecturalRevival
 architecture
@@ -373,12 +374,14 @@ Audi
 audiophile
 Augenbleiche
 AusFinance
+Ausguns
 auslaw
 AusLegal
 AusMemes
 AustinFC
 australia
 australian
+AustralianBirds
 AustralianCattleDog
 AustralianNostalgia
 AustralianPolitics
@@ -2200,6 +2203,7 @@ Hornyjail
 horror
 Horses
 hostedgames
+HostileArchitecture
 hot_reporters
 hotdudeswithplants
 HotlineMiami
@@ -2285,6 +2289,7 @@ Illustration
 iLuTV
 im14andthisisdeep
 Im15AndThisIsYeet
+ImaginaryArchitecture
 ImaginaryBehemoths
 ImaginaryCharacters
 ImaginaryCityscapes
@@ -3171,6 +3176,7 @@ naturellement
 NatureofPredators
 natureporn
 Naturewasmetal
+naturfreunde
 navy
 nayeon
 nba
@@ -3320,6 +3326,7 @@ nova
 NovaScotia
 nowmycat
 nrl
+NRLPremiumPlus
 NUFC
 numetal
 nursing
@@ -3385,6 +3392,7 @@ okbuddyrosalyn
 okbuddysuccession
 okbuddytrailblazer
 okbuddyvowsh
+okhavermugbal
 okkamaraderetarde
 okkolegauposledzony
 oklahoma
@@ -3500,6 +3508,7 @@ PallasCats
 PaMedicalMarijuana
 PancakeBunny
 PancakeswapICO
+Pandabuy
 PandR
 panelshow
 pansexual
@@ -5054,6 +5063,7 @@ WholesomeFantasyArt
 wholesomegifs
 wholesomegreentext
 wholesomememes
+whothefuckup
 WhyWomenLiveLonger
 WidacZabory
 wien
@@ -5064,6 +5074,7 @@ wildhockey
 wildlifephotography
 wildrift
 wimmelbilder
+Windows10
 Windows11
 wine
 WingsOfFire
@@ -5082,6 +5093,7 @@ wizardposting
 woahdude
 wohnen
 WojakCompass
+WolvesAreBigYo
 women
 WomenOfTheDCUniverse
 WomenSoccerLegs
@@ -5122,6 +5134,7 @@ WRX
 WRXSTi
 WTF
 WTFaucet
+wtfstockphotos
 WtWFotMJaJtRAtCaB
 wunkus
 wutang
@@ -5143,6 +5156,7 @@ Xennials
 Xenoblade_Chronicles
 XFiles
 xfl
+XiaoMains
 xkcd
 Xlightmoonx_Only
 xmen
