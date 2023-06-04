@@ -4,6 +4,7 @@
 1200isfineIGUESSugh
 13or30
 1500isplenty
+1800HavingFun
 19684
 197
 198
@@ -326,6 +327,7 @@ askgaybros
 AskGayMen
 AskHistorians
 AskLosAngeles
+AskMechanics
 AskMen
 AskMiddleEast
 AskNYC
@@ -747,6 +749,7 @@ buildapcsales
 bulgaria
 bullcity
 Bulldogs
+bulletjournal
 BullTerrier
 Bumble
 buncomfortable
@@ -804,6 +807,7 @@ carscirclejerk
 CarsIndia
 Cartalk
 CarTalkUK
+CartiCulture
 cassettefuturism
 CAStateWorkers
 castiron
@@ -859,6 +863,7 @@ CatsOnPizza
 CatsStandingUp
 catsvstechnology
 CatsWhoChirp
+catswhocrochet
 CatsWhoSmoke
 CatsWhoSqueak
 catswhotrill
@@ -1103,6 +1108,7 @@ CrappyDesign
 crappyoffbrands
 crashbandicoot
 CrazyFuckingVideos
+CrazyHuman
 CrazyIdeas
 CreateMod
 CreditCards
@@ -1828,6 +1834,7 @@ Fumofumo
 functionalprint
 fundiesnarkiesnark
 FundieSnarkUncensored
+funkopop
 funny
 FunnyAnaesthesia
 FunnyandSad
@@ -2156,6 +2163,7 @@ Holostars
 HolUp
 homeassistant
 homeautomation
+Homebuilding
 HomeDecorating
 HomeDepot
 HomeImprovement
@@ -2303,6 +2311,7 @@ indiadiscussion
 indiameme
 Indiana
 indianajones
+IndianaJonesMemes
 indianapolis
 indianbikes
 IndianBoysOnTinder
@@ -2834,6 +2843,7 @@ malcolminthemiddle
 malegrooming
 malehairadvice
 malelivingspace
+malepolish
 MaliciousCompliance
 mallninjashit
 malluhorny
@@ -3545,6 +3555,7 @@ pettyrevenge
 PewdiepieSubmissions
 PeytonList
 PhantomForces
+pharmacy
 PharmacyTechnician
 PhasmophobiaGame
 phcareers
@@ -3553,6 +3564,7 @@ PHGamers
 philadelphia
 Philippines
 phillies
+PhillyUnion
 philosophy
 PhilosophyMemes
 PhilosophyTube
@@ -4060,6 +4072,7 @@ ShinyPokemon
 Shinypreciousgems
 shitcoinmoonshots
 ShitCrusaderKingsSay
+shitduolingosays
 ShitLiberalsSay
 ShitMomGroupsSay
 ShitPoliticsSays
@@ -4070,6 +4083,7 @@ ShitpostTC
 ShitpostXIV
 Shitstatistssay
 Shitty_Car_Mods
+ShittyAnimalFacts
 shittyaquariums
 Shittyaskflying
 shittyaskreddit
@@ -4221,6 +4235,7 @@ spiderbro
 Spiderman
 SpidermanPS4
 spiders
+SplitDepthGIFS
 sploot
 spongebob
 Spore
@@ -4500,6 +4515,7 @@ thecringeshowaward
 TheCure
 TheDarkTower
 TheDepthsBelow
+thedivision
 TheEminenceInShadow
 TheExpanse
 TheFarSide
@@ -4607,6 +4623,7 @@ titanfall
 titanic
 tjournal_refugees
 TLCsisterwives
+TLCUnexpected
 TMKOC
 TMNT
 tmobile
