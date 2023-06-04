@@ -209,6 +209,7 @@ AnimalsBeingMoms
 AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
+Animalsthatlovemagic
 AnimalTextGifs
 AnimalTracking
 animation
@@ -844,6 +845,7 @@ catscarryingstuffies
 CatsEnjoyingPets
 catshuggingcats
 CatsInBusinessAttire
+catsinpants
 CatsInSinks
 CatsISUOTTATFO
 CatSlaps
@@ -907,6 +909,7 @@ Charlotte
 Chase
 ChatGPT
 Chattanooga
+Cheers
 Cheese
 chelseafc
 chemistry
@@ -924,6 +927,7 @@ childemains
 ChildrenFallingOver
 chile
 China
+China_irl
 chinchilla
 ChineseLanguage
 Chipotle
@@ -1331,6 +1335,7 @@ DidntKnowIWantedThat
 Diesel
 digimon
 DigitalArt
+digitalnomad
 DigitalPainting
 DilettaLeotta
 Dimension20
@@ -1357,6 +1362,7 @@ DisneyWorld
 distractible
 distressingmemes
 dividends
+DivinityOriginalSin
 DivorcedBirds
 DiWHY
 DIY
@@ -1466,6 +1472,7 @@ dwarffortress
 dyinglight
 DylanteroYT
 DynastyFF
+earfurnishings
 earthbound
 EarthPorn
 EASportsFC
@@ -1551,6 +1558,7 @@ Eredivisie
 EscapefromTarkov
 esist
 espresso
+esterexposito
 estoration
 Ethelcain
 ethereum
@@ -2096,6 +2104,7 @@ HelluvaBoss
 Helluvabossmemes
 HelpMeFind
 heraldry
+HermanCainAward
 HermitCraft
 hermitcraftmemes
 heroesofthestorm
@@ -2175,6 +2184,7 @@ hotdudeswithplants
 HotlineMiami
 hotones
 HotPeppers
+hottoys
 HotWheels
 houkai3rd
 HouseMD
@@ -2689,6 +2699,7 @@ likeus
 LilGrabbies
 LilliaMains
 LilPeep
+liluglymane
 liluzivert
 LilyChee18
 LilyCollins
@@ -2784,6 +2795,7 @@ LV426
 LycorisRecoil
 MAAU
 mac
+macdemarco
 macgaming
 MachikadoMazoku
 MachineLearning
@@ -2888,6 +2900,7 @@ MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
 MedicalGore
+MedievalCats
 MediocreTutorials
 medizzy
 Megadeth
@@ -3380,6 +3393,7 @@ onguardforthee
 OniichanOshimai
 OnlineUnderGround
 OnlyFaces
+OnPatrolLive
 ontario
 OntarioLandlord
 oompasubs
@@ -3788,6 +3802,7 @@ RebornDollCringe
 REBubble
 recipes
 recruitinghell
+red_velvet
 RedDeadOnline
 reddeadredemption
 reddeadredemption2
@@ -3877,6 +3892,7 @@ RotMG
 Rottweiler
 roughcollies
 RoughRomanMemes
+RoundAnimals
 RoundRock
 royalcaribbean
 RPClipsGTA
@@ -3948,6 +3964,7 @@ sbubby
 Scams
 ScaramoucheMains
 ScarySigns
+Schaffrillas
 SchittsCreek
 schizoposters
 schkreckl
@@ -4275,6 +4292,7 @@ STEW_ScTecEngWorld
 sticknpokes
 StLouis
 stlouisblues
+stlouiscitysc
 sto
 stockholm
 StockMarket
@@ -4288,6 +4306,7 @@ StoppedWorking
 Stormlight_Archive
 Stormworks
 storyofseasons
+StPetersburgFL
 straightenedfeetsies
 StraightsBeingOK
 StrangeEarth
@@ -4353,6 +4372,7 @@ Switzerland
 swoletariat
 swordartonline
 SWORDS
+SwordsComic
 swtor
 SWTOR_memes
 sydney
@@ -4383,6 +4403,7 @@ tamagotchi
 TameImpala
 TamilNadu
 tampa
+TampaBayLightning
 tampabayrays
 tankiejerk
 TankPorn
@@ -4498,6 +4519,7 @@ thelastofus
 TheLastOfUs2
 ThelastofusHBOseries
 TheLeftCantMeme
+TheLegitBoss
 TheLetterH
 TheLib
 TheMagnusArchives
@@ -4607,6 +4629,7 @@ toofers
 tooktoomuch
 ToolBand
 toolgifs
+toolporn
 Tools
 TooMeIrlForMeIrl
 ToothpasteBoys
@@ -4621,6 +4644,7 @@ Torontobluejays
 TorontoDriving
 Torontology
 torontoraptors
+TorontoRealEstate
 torties
 tortoise
 Totaldrama
@@ -4870,6 +4894,7 @@ VoteDEM
 VRchat
 VShojo
 vtm
+vultureculture
 VuvuzelaIPhone
 VyvanLe
 Wagons
@@ -4960,6 +4985,7 @@ whatsthisrock
 whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
+whatwasthiscar
 whenthe
 whenwomenrefuse
 wheresthebeef
