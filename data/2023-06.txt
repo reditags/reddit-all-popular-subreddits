@@ -323,6 +323,7 @@ arizona
 arizonapolitics
 ARK
 Arkansas
+arkisuomi
 arknights
 arma
 armoredcore
@@ -1339,6 +1340,7 @@ DCAU
 DCcomics
 dccomicscirclejerk
 DCEUleaks
+DCSpoilers
 DDLC
 de
 DeadAhead
@@ -4007,6 +4009,7 @@ radiohead
 radioheadcirclejerk
 Radiology
 ragdolls
+rage
 RaidenMains
 raiders
 raidsecrets
@@ -5059,6 +5062,7 @@ tzuyu
 UBC
 UberEATS
 Ubiquiti
+Ubuntu
 UCalgary
 UCI
 ucla
@@ -5206,6 +5210,7 @@ VoidCats
 voidpunk
 Volkswagen
 VolleyballGirls
+Volumeeating
 Volvo
 VoteDEM
 VRchat
