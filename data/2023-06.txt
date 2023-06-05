@@ -299,6 +299,7 @@ apexuniversity
 apolloapp
 apple
 applehelp
+AppleMusic
 AppleWatch
 ApplyingToCollege
 Aquariums
@@ -1338,6 +1339,7 @@ DakotaFanning
 dakotajohnson
 Dallas
 DallasStars
+dalle2
 dalmatians
 Damnthatsinteresting
 Dandadan
@@ -1839,6 +1841,7 @@ FashionReps
 fastandfurious
 fasting
 fatestaynight
+fatherted
 fatsquirrelhate
 Fauxmoi
 fbody
@@ -2700,6 +2703,7 @@ JEENEETards
 Jeep
 JeffArcuri
 jellybeantoes
+jellyfin
 JennaFischer
 JennaLouiseColeman
 Jennamarbles
@@ -2707,6 +2711,7 @@ JennaOrtega_
 jennie
 JenniferConnelly
 JenniferLawrence
+JenniferLopez
 jenniferlovehewitt
 Jeopardy
 jerma985
@@ -2932,6 +2937,7 @@ LeaguesofVotann
 LeaksDBD
 leanbeefpatty
 LearmannTwins
+LearnJapanese
 learnprogramming
 learnpython
 learntodraw
@@ -3106,6 +3112,7 @@ MachineLearning
 MachinePorn
 Machinists
 MacMiller
+MacOS
 macsetups
 Madden
 MadeInAbyss
@@ -3192,6 +3199,7 @@ mauerstrassenwetten
 MauLer
 Mavericks
 MawInstallation
+MayaJama
 maybemaybemaybe
 MayDayStrike
 MBMBAM
@@ -3858,6 +3866,7 @@ PastorArrested
 Patchuu
 Pathfinder2e
 Pathfinder_Kingmaker
+Pathfinder_RPG
 pathfindermemes
 pathofexile
 pathoftitans
@@ -4721,6 +4730,7 @@ StarWarsJediSurvivor
 StarWarsleftymemes
 starwarsmemes
 starwarsrebels
+Staryuukisincensura
 stateofMN
 stbernards
 steak
@@ -4927,6 +4937,7 @@ Thailand
 thalassophobia
 thanksihateit
 thanksimcured
+thanosdidnothingwrong
 That70sshow
 thatHappened
 ThatLookedExpensive
@@ -5024,6 +5035,7 @@ theydidthemath
 theyknew
 ThickFit
 ThingsCutInHalfPorn
+thingsforants
 thinkpad
 ThirdLifeSMP
 thirdsentenceworse
@@ -5086,6 +5098,7 @@ tolkienfans
 tollers
 tollywood
 TombRaider
+tombstoning
 tonightsdinner
 toofers
 tooktoomuch
@@ -5585,6 +5598,7 @@ Wrasslin
 WRC
 WrestleCuties
 wrestling
+WrexhamAFC
 writing
 writingcirclejerk
 WritingPrompts
