@@ -2,6 +2,7 @@
 100gecs
 100Kanojo
 100yearsago
+11foot8
 1200isfineIGUESSugh
 13or30
 1500isplenty
@@ -2090,6 +2091,7 @@ gme_meltdown
 GMEJungle
 gmod
 goblincore
+GoblinSlayer
 GodofWar
 GodofWarRagnarok
 godot
@@ -3961,6 +3963,7 @@ PSP
 PSVR
 psx
 psych
+Psychedelics
 psychology
 Psychonaut
 PublicFreakout
