@@ -140,6 +140,7 @@ aivideo
 AIVoiceMemes
 aiyu
 ak47
+AkitaToken
 alaska
 Albany
 AlbedosCreations
@@ -269,6 +270,7 @@ AnneHathaway
 AnnieEdison
 AnniTheDuck___
 ANormalDayInRussia
+AntiAnarchyChess
 antiarbeit
 antiassholedesign
 Anticonsumption
@@ -300,6 +302,7 @@ apolloapp
 apple
 applehelp
 AppleMusic
+appletv
 AppleWatch
 ApplyingToCollege
 Aquariums
@@ -1021,6 +1024,7 @@ chch
 Cheers
 Cheese
 Cheetahs
+Chefit
 chelseafc
 chemistry
 chemistrymemes
@@ -1279,6 +1283,7 @@ CryptoGrab
 CryptoIndia
 CryptoMarkets
 CryptoMars
+CryptoMoon
 CryptoMoonShots
 CryptoNews
 CryptoPeople
@@ -1403,6 +1408,7 @@ DCEUleaks
 DCSpoilers
 DDLC
 de
+de_EDV
 DeadAhead
 deadandcompany
 deadbydaylight
@@ -1660,6 +1666,7 @@ eddieandrichie
 Edelgard
 Edgerunners
 EDH
+Edinburgh
 EDM
 Edmonton
 educationalgifs
@@ -1964,6 +1971,7 @@ forbiddenboops
 forbiddensnacks
 FordBronco
 fordranger
+ForeverBNB
 ForgottenWeapons
 forhonor
 forhonormemes
@@ -2383,6 +2391,7 @@ hockey
 hockeyjerseys
 hockeymemes
 hockeyplayers
+HodlToken
 hoggit
 hognosesnakes
 hogwartslegacyJKR
@@ -2408,6 +2417,7 @@ Homebuilding
 HomeDecorating
 HomeDepot
 HomeImprovement
+HomeKit
 homelab
 HomeNetworking
 HomeServer
@@ -2636,7 +2646,9 @@ introvertmemes
 Invincible
 Invisalign
 ios
+iOSBeta
 Iowa
+ipad
 iphone
 ipl
 iRacing
@@ -2901,6 +2913,7 @@ ladiesofthemcu
 LadiesOfWrestling
 Ladybonersgonecuddly
 ladyladyboners
+Laesterschwestern
 LAFC
 laidbackcamp
 Lain
@@ -2950,6 +2963,7 @@ LeedsUnited
 legal
 legaladvicecanada
 LegalAdviceIndia
+legaladviceofftopic
 LegalAdviceUK
 legalcatadvice
 legendofkorra
@@ -3059,6 +3073,7 @@ LordofTheMysteries
 lordoftherings
 loreofleague
 LosAngeles
+losangeleskings
 loseit
 lossofalovedone
 lost
@@ -4251,6 +4266,7 @@ rentnerzeigenaufdinge
 Repaintings
 repbudgetsneakers
 Repsneakers
+RepsneakersDogs
 reptiles
 RepTime
 RepublicaArgentina
@@ -5123,6 +5139,7 @@ torontoraptors
 TorontoRealEstate
 torties
 tortoise
+TosaInuCoin
 Totaldrama
 TotalKalesh
 totallynotrobots
@@ -5197,6 +5214,7 @@ TrumpCriticizesTrump
 Trumpgret
 Trumpvirus
 truscum
+TrustToken
 trustwalletcommunity
 tsukiodysseygame
 TTSverse
