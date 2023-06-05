@@ -892,6 +892,7 @@ Catculations
 catfaceplant
 catfruit
 CatgirlSFW
+CATHELP
 Catholicism
 CatholicMemes
 cathostage
@@ -987,6 +988,7 @@ chessbeginners
 chessmemes
 CHIBears
 chicagobulls
+chicagofood
 chickens
 ChickFilA
 CHICubs
@@ -2219,6 +2221,7 @@ Hasan_Piker
 hatsune
 hauntedchocolatier
 HauntedMound
+Hawaii
 HayleyAtwell
 hayleywilliams
 HazbinHotel
@@ -2881,6 +2884,7 @@ liluglymane
 liluzivert
 LilyChee18
 LilyCollins
+LilyRoseDepp
 limbuscompany
 LiminalSpace
 LincolnProject
@@ -3007,6 +3011,7 @@ mahoukakumei
 Maine
 mainecoons
 MaintenancePhase
+majonotabitabi
 MakeMeFeelGood
 MakeMeSuffer
 MakeupAddiction
@@ -3145,10 +3150,12 @@ Miami
 miamidolphins
 Miata
 Michigan
+MichiganWolverines
 microbork
 microgrowery
 MicroPorn
 MicrosoftFlightSim
+MicrosoftRewards
 Mid_Century
 MiddleEarthMiniatures
 midjourney
@@ -3198,6 +3205,7 @@ miraculousladybug
 MirandaCosgrove
 Mirrorsforsale
 miscatculations
+misleadingthumbnails
 missbricosplay
 mississauga
 MissLaineyWilson
@@ -3425,6 +3433,7 @@ nier
 NierAutomataGallery
 nietdespeld
 NightInTheWoods
+NightLords
 nightvale
 NightVision
 Nightwing
@@ -3911,6 +3920,7 @@ PremierLeague
 PrepperIntel
 preppers
 PrequelMemes
+PresidentialRaceMemes
 Presidents
 PrettyGirls
 PrettyGirlsUglyFaces
@@ -4115,6 +4125,7 @@ Rivian
 roadtrip
 RoastMe
 RoastMyCar
+Robocop
 robotics
 Rochester
 RocketLeague
@@ -4961,6 +4972,7 @@ TransClones
 Transformemes
 transformers
 transgender
+transguns
 transit
 transitiongoals
 TransLater
@@ -5178,6 +5190,7 @@ Virginia
 virginvschad
 virtualreality
 Visiblemending
+VisitingIceland
 visualnovels
 vizsla
 Vocaloid
@@ -5195,6 +5208,7 @@ vultureculture
 VuvuzelaIPhone
 VyvanLe
 Wagons
+WAGuns
 Wales
 walkaway
 wallpaper
