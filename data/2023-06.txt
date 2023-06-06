@@ -354,6 +354,7 @@ arresteddevelopment
 Arrowheads
 ArsenalFC
 Art
+ArtCrit
 ArtDeco
 ArtefactPorn
 artificial
@@ -370,6 +371,7 @@ AsianMasculinity
 ask
 AskACanadian
 AskAGerman
+AskALiberal
 AskAnAustralian
 askanelectrician
 AskARussian
@@ -1566,6 +1568,7 @@ Dimension20
 DINgore
 Dinosaurs
 DiretoDoZapZap
+Dirtbikes
 disability
 discgolf
 DiscoElysium
@@ -3529,6 +3532,7 @@ MonicaBarbaro
 MonicaBellucci
 MonitorLizards
 Monk
+Monke
 Monstera
 MonsterHigh
 MonsterHunter
@@ -4824,6 +4828,7 @@ socialism
 SocialismIsCapitalism
 SocialistRA
 socialskills
+SocietyofHiddenPaint
 SofiaVergara
 softwaregore
 solana
@@ -5932,6 +5937,7 @@ YoungRoyals
 YouniquePresenterMS
 YouOnLifetime
 YourRAGE
+yourturntodie
 youseeingthisshit
 YouShouldKnow
 youtube
