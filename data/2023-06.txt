@@ -1196,6 +1196,7 @@ Consoom
 conspiracy
 conspiracy_commons
 Construction
+ConstructionFails
 consulting
 ContagiousLaughter
 ContestOfChampions
@@ -1922,6 +1923,7 @@ finalfantasyx
 FinancialCareers
 financialindependence
 Finanzen
+findapath
 Finland
 Fire
 Firearms
@@ -4663,6 +4665,7 @@ SlowNewsDay
 Slycooper
 smashbros
 SmashBrosUltimate
+SmashingPumpkins
 SmashRage
 SMG4
 Smilepleasse
@@ -5422,6 +5425,7 @@ vegaslocals
 vegetablegardening
 vegetarian
 velvethippos
+VenomousKeepers
 Vent
 venturebros
 Vermintide
