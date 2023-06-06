@@ -32,6 +32,7 @@
 30PlusSkinCare
 30ROCK
 3amjokes
+3d6
 3Dmodeling
 3Dprinting
 3DS
@@ -512,6 +513,7 @@ baeirene
 BaeSuzy
 Baking
 bald
+BaldAndBaldrDossier
 baldursgate
 BaldursGate3
 balkans_irl
@@ -1118,6 +1120,7 @@ CK3AGOT
 Clamworks
 ClaraProtectionClub
 ClashOfClans
+ClashOfClansRecruit
 ClashRoyale
 ClashRoyaleCirclejerk
 ClassConscienceMemes
@@ -1183,6 +1186,7 @@ comedynecromancy
 ComedyNecrophilia
 comfypasta
 comicbookcollecting
+comicbookmovies
 comicbooks
 comics
 commandandconquer
@@ -1577,6 +1581,7 @@ DivorcedBirds
 DiWHY
 DIY
 diynz
+DIYUK
 DJAkademiks
 dji
 DJsCirclejerk
@@ -1834,6 +1839,7 @@ exjw
 exmormon
 exmuslim
 exo
+exocomics
 ExpandDong
 expats
 ExpectationVsReality
@@ -2376,6 +2382,7 @@ handbags
 HannibalTV
 happy
 happycowgifs
+happycrowds
 happycryingdads
 HappyWoofGifs
 harborfreight
@@ -2595,6 +2602,7 @@ igcse
 ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
+ilikthebred
 IllegalLifeProTips
 IllegallySmol
 illegallysmolbirbs
@@ -2805,6 +2813,7 @@ JenniferConnelly
 JenniferLawrence
 JenniferLopez
 jenniferlovehewitt
+Jeongyeon
 Jeopardy
 jerma985
 jerseycity
@@ -3138,6 +3147,7 @@ LivestreamFail
 LivMorgan
 LoansPaydayOnline
 LocalLLaMA
+lockpicking
 locs
 LodedDiper
 Lolirefugees
@@ -3305,6 +3315,7 @@ Mastiff
 mathmemes
 mattcolville
 matureplants
+Maude_Garrett
 mauerstrassenwetten
 MauLer
 Mavericks
@@ -3546,6 +3557,7 @@ Music
 musicaljenga
 MusicWomen
 Mustang
+MVIS
 MxRMods
 My600lbLife
 my_celebrity_crush
@@ -4744,6 +4756,7 @@ Smilepleasse
 Smite
 smoking
 smoobypost
+smosh
 SmugIdeologyMan
 snails
 snakes
@@ -4773,6 +4786,7 @@ solotravel
 somebodysomewhere
 SomeOfYouMayDie
 SommerRay
+sonarears
 SonicTheHedgehog
 SonoBisqueDoll
 SonsOfTheForest
@@ -4813,6 +4827,7 @@ SpidermanPS4
 spiders
 SplitDepthGIFS
 sploot
+Spokane
 spongebob
 Spore
 sports
@@ -5099,6 +5114,7 @@ TheAstraMilitarum
 TheBidenshitshow
 thebindingofisaac
 TheBoys
+TheBrewery
 TheBullWins
 thecampaigntrail
 thecatdimension
@@ -5109,6 +5125,7 @@ TheCloneWars
 thecringeshowaward
 TheCure
 TheDarkTower
+thedavidpakmanshow
 TheDepthsBelow
 thedivision
 TheEminenceInShadow
@@ -5265,6 +5282,7 @@ toptalent
 toradora
 tornado
 TornadoEncounters
+torontobiking
 Torontobluejays
 TorontoDriving
 Torontology
@@ -5441,6 +5459,7 @@ unexpectedMontyPython
 UnexpectedMulaney
 unexpectedoffice
 unexpectedpawnee
+UnexpectedTF2
 unimelb
 UniSwap
 unitedairlines
