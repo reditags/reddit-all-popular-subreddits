@@ -1248,6 +1248,7 @@ CPS
 crabcats
 CrackheadCraigslist
 CrackWatch
+craftsnark
 CrappyDesign
 crappyoffbrands
 crashbandicoot
@@ -2029,6 +2030,7 @@ france
 FrankOcean
 Frasier
 FreckledGirls
+FREE
 FreeCompliments
 FreedomofRussia
 freefolk
@@ -2576,6 +2578,7 @@ ImaginaryCityscapes
 ImaginaryDragons
 ImaginaryDwarves
 imaginaryelections
+ImaginaryFallout
 ImaginaryFuturism
 ImaginaryHorrors
 ImaginaryInteriors
@@ -2895,6 +2898,7 @@ kingdomrush
 kingofqueens
 KingOfTheHill
 kings
+KingVon
 KiraraMains
 Kirby
 Kitten
@@ -3160,6 +3164,7 @@ Luthier
 Luxembourg
 LV426
 LycorisRecoil
+Lyft
 MAAU
 mac
 macbookpro
@@ -5559,6 +5564,7 @@ weeklyplanetpodcast
 ween
 weeviltime
 weezer
+weightlifting
 WeightLossNews
 weimaraner
 Weird
@@ -5623,6 +5629,7 @@ wien
 WiggleButts
 wikipedia
 wildbeef
+WildernessBackpacking
 wildhockey
 wildlife_videos
 wildlifephotography
