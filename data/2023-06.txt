@@ -372,6 +372,7 @@ AskDocs
 askgaybros
 AskGayMen
 AskHistorians
+asklatinamerica
 AskLosAngeles
 AskMechanics
 AskMen
@@ -1205,6 +1206,7 @@ ContraPoints
 Conures
 ConvenientCop
 CookieClicker
+cookiedecorating
 Cookierun
 CookieRunKingdoms
 Cooking
@@ -1555,6 +1557,7 @@ DiWHY
 DIY
 diynz
 DJAkademiks
+dji
 DJsCirclejerk
 Djungelskog
 DLAH
@@ -1928,6 +1931,7 @@ Finland
 Fire
 Firearms
 fireemblem
+FireEmblemEngage_
 FireEmblemHeroes
 FireEmblemThreeHouses
 Firefighting
@@ -2049,6 +2053,7 @@ Frostpunk
 Frugal
 Frugal_Jerk
 Fruitbatcats
+FruitsBasket
 ft86
 ftlgame
 FTMMen
@@ -2438,6 +2443,7 @@ Hololive
 HololiveYuri
 Holostars
 HolUp
+Home
 homeassistant
 homeautomation
 Homebrewing
@@ -2558,6 +2564,7 @@ IllegallySmolBunnies
 IllegallySmolCats
 IllegallySmolDogs
 illinois
+illnessfakers
 Illustration
 iLuTV
 im14andthisisdeep
@@ -3648,6 +3655,7 @@ Nirvana
 nirvanacirclejerk
 njpw
 NLBest
+NMSCoordinateExchange
 NoahGetTheBoat
 NobodyAsked
 nocontextpics
@@ -5248,6 +5256,7 @@ tressless
 tretinoin
 TREZOR
 Trigun
+TrillionaireMindsPod
 triples
 TripodCats
 trippinthroughtime
@@ -5279,6 +5288,7 @@ tuckedinkitties
 Tucson
 Tudor
 Tudorhistory
+tulsa
 tumblr
 TumblrDraws
 Tupac
