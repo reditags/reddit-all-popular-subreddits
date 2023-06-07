@@ -315,6 +315,7 @@ Apexrollouts
 ApexUncovered
 apexuniversity
 apolloapp
+AppalachianTrail
 apple
 applehelp
 AppleMusic
@@ -1528,6 +1529,7 @@ DeepIntoYouTube
 deeprockfashion
 DeepRockGalactic
 DeepSpaceNine
+deescalation
 deftones
 degoogle
 Degrassi
@@ -2423,6 +2425,7 @@ GSP
 GTA
 GTA6
 gtaonline
+GTAorRussia
 GTAV
 gtavcustoms
 GTBAE
@@ -2913,6 +2916,7 @@ japan_insoul
 JapaneseFood
 japanlife
 japanpics
+java
 Jazz
 JDM
 jedicouncilofelrond
@@ -3030,6 +3034,7 @@ KeanuBeingAwesome
 Keep_Track
 Keeshond
 KellyBrook
+kelowna
 keming
 KemonoFriends
 kencarson
@@ -3752,6 +3757,7 @@ NASCARMemes
 nashville
 NatalieDormer
 natalieportman
+NatashaAughey
 nathanforyou
 nathanwpyle
 nationalguard
@@ -4581,6 +4587,7 @@ regretfulparents
 regularcarreviews
 RegularRevenge
 regularshow
+ReinhardtMains
 relationship_advice
 RelationshipMemes
 RelayForReddit
@@ -4809,6 +4816,7 @@ Serverlife
 serviervorschlag
 Seulgi
 seventeen
+SeveranceAppleTVPlus
 SewayakiKitsune
 Sewerslvt
 sewing
@@ -5677,6 +5685,7 @@ UCI
 ucla
 UCSD
 udemyfreebies
+udub
 ufc
 ufo
 UFOB
