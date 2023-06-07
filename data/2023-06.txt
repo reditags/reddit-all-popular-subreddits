@@ -385,6 +385,7 @@ AskBalkans
 askcarsales
 AskCulinary
 AskDocs
+AskElectronics
 askgaybros
 AskGayMen
 AskHistorians
@@ -901,6 +902,7 @@ BungouStrayDogs
 Bunnies
 burdurland
 burgers
+burlington
 BusinessTantrums
 Buttcoin
 BuyItForLife
@@ -1940,6 +1942,7 @@ familyguy
 FamousLatinas
 fanart
 FanFiction
+fansofcriticalrole
 fantanoforever
 fantasybaseball
 fantasyfootball
@@ -2172,6 +2175,7 @@ Fuckthealtright
 fucktheccp
 FUCKYOUINPARTICULAR
 FuckYouKaren
+fuckyourheadlights
 fujifilm
 fulbo
 FullmetalAlchemist
@@ -3558,6 +3562,7 @@ Mindfulness
 Mindustry
 Minecraftbuilds
 MinecraftChampionship
+MinecraftDe
 Minecrafthmmm
 MinecraftMemes
 minecraftsuggestions
@@ -3861,6 +3866,7 @@ NOLAPelicans
 NoLawns
 NoMansSkyTheGame
 NominativeDeterminism
+nonbinarymemes
 NonCredibleDiplomacy
 NonCredibleERA
 NoneHumanMoe
@@ -4585,6 +4591,7 @@ rimesegate
 rimjob_steve
 Rimuru
 RimWorld
+riodejaneiro
 ripcity
 risa
 riskofrain
@@ -4870,6 +4877,7 @@ Sigmatopia
 signalis
 SigSauer
 silenthill
+silentmoviegifs
 Silksong
 Silmarillionmemes
 SiloSeries
@@ -5532,6 +5540,7 @@ transguns
 transit
 transitiongoals
 TransLater
+translator
 Transmatfiring
 Transmogrification
 transtrans
