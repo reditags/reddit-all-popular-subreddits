@@ -627,6 +627,7 @@ bestconspiracymemes
 bestof
 bestoflegaladvice
 bestofpositiveupdates
+BestOfReports
 bettafish
 betterCallSaul
 BetterEveryLoop
@@ -1984,6 +1985,7 @@ fightporn
 FightsGoneWildpt2
 fightsticks
 FigureSkating
+FilipinoHistory
 Filmmakers
 FilthyFrank
 FinalFantasy
@@ -2006,6 +2008,7 @@ FireEmblemThreeHouses
 Firefighting
 firefly
 firefox
+FIREUK
 firstimpression
 FirstResponderCringe
 FirstTimeHomeBuyer
@@ -3105,6 +3108,7 @@ LeaguesofVotann
 LeaksDBD
 leanbeefpatty
 LearmannTwins
+learndota2
 LearnJapanese
 learnprogramming
 learnpython
@@ -3320,6 +3324,7 @@ makeyourchoice
 MaladaptiveDreaming
 MalayalamMovies
 malaysia
+MalaysianFood
 malcolminthemiddle
 malegrooming
 malehairadvice
@@ -3446,6 +3451,7 @@ MEOW_IRL
 meowsertrousers
 Mercari
 mercedes_benz
+MergeMansion
 Metalcore
 MetalForTheMasses
 metalgearrising
@@ -3744,6 +3750,7 @@ NewYorkMets
 NewYorkNineMild
 NewYuzuPiracy
 newzealand
+NewZealandWildlife
 nextfuckinglevel
 Nezuko
 NFA
@@ -4494,6 +4501,7 @@ RepTime
 RepublicaArgentina
 RESAnnouncements
 rescuedogs
+researchchemicals
 Residency
 residentevil
 resinprinting
@@ -4846,6 +4854,7 @@ Slovenia
 slowcooking
 SlowNewsDay
 Slycooper
+smalllebowsky
 smashbros
 SmashBrosUltimate
 SmashingPumpkins
@@ -5085,8 +5094,10 @@ survivor
 sushi
 suspiciouslyspecific
 sustainability
+sutesfozes
 suzerain
 Sverige
+svihs
 Sweatcicle
 SweatyPalms
 sweden
