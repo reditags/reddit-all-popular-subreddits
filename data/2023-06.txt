@@ -559,6 +559,7 @@ BassGuitar
 bathandbodyworks
 batman
 BatmanArkham
+BattleBrothers
 Battlecars
 battlecats
 Battlefield
@@ -1125,6 +1126,7 @@ cincinnati
 Cinderblock
 Cinemagraphs
 cinematography
+CineSeries
 CineShots
 CirclejerkSopranos
 cirkeltrek
@@ -1619,6 +1621,7 @@ DMAcademy
 DMT
 DMToolkit
 DMZ
+DnB
 DnD
 DnDBehindTheScreen
 DnDGreentext
@@ -2439,6 +2442,7 @@ HardcoreNature
 hardimages
 hardstyle
 hardware
+hardwaregore
 hardwareswap
 Harley
 Harpo
@@ -4206,6 +4210,7 @@ Pizza
 PizzaCrimes
 PizzaTower
 PKA
+Planetside
 PlanetZoo
 PlantBasedDiet
 plantclinic
@@ -4541,6 +4546,7 @@ RoastMyCar
 Robocop
 robotics
 Rochester
+rocketbeans
 RocketLeague
 RocketLeagueEsports
 rockets
@@ -5335,6 +5341,7 @@ thomastheplankengine
 ThousandSons
 ThriftGrift
 ThriftStoreCats
+thugeshh
 thumbcats
 Thunder
 tianguancifu
