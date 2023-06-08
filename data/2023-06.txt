@@ -126,6 +126,7 @@ aeiou
 AeroPress
 Aespa
 Aether_Mains
+AetherGazer
 AEWOfficial
 AFCNorthMemeWar
 AFCSouthMemeWar
@@ -1669,6 +1670,7 @@ DivinityOriginalSin
 Division2
 DivorcedBirds
 DiWHY
+DiWHYNOT
 DIY
 DIYGelNails
 diynz
@@ -1995,6 +1997,7 @@ fansofcriticalrole
 fantanoforever
 fantasybaseball
 fantasyfootball
+FantasyImages
 fantasymoe
 FantasyPL
 FanTheories
@@ -2336,6 +2339,7 @@ GenUsa
 GenX
 GenZ
 geography
+geoguessr
 geology
 geometrydash
 geopolitics
@@ -6233,6 +6237,7 @@ YomiHustle
 yoojimin
 Yorkies
 Yosemite
+Yotsubros
 YouBelongWithMemes
 youdontsurf
 YoujoSenki
