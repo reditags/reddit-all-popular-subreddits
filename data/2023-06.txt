@@ -17,6 +17,7 @@
 2007scape
 21stCenturyHumour
 2ALiberals
+2anatolia4you
 2Asia4u
 2bharat4you
 2easterneuropean4u
@@ -2407,6 +2408,7 @@ goldenknights
 goldenretriever
 goldenretrievers
 golf
+Golf_R
 GolfGTI
 golpe
 GoNets
@@ -2644,6 +2646,7 @@ Homebrewing
 Homebuilding
 HomeDecorating
 HomeDepot
+homegym
 HomeImprovement
 HomeKit
 homelab
@@ -3790,6 +3793,7 @@ mylittlepony
 myog
 MyouiMina
 MyPeopleNeedMe
+myronkoops_
 MySingingMonsters
 MysteriousFacts
 mystery
@@ -4237,6 +4241,7 @@ ParanormalEncounters
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
+parentsofmultiples
 paris
 ParkJihyo
 ParlerWatch
@@ -4253,6 +4258,7 @@ pathfindermemes
 pathofexile
 PathOfExileBuilds
 pathoftitans
+pathologic
 PathToNowhere
 PatMcAfeeShowOfficial
 Patriots
@@ -4519,6 +4525,7 @@ ProperAnimalNames
 ProRevenge
 Prospecting
 protogen
+ProtonMail
 providence
 prusa3d
 ps2
@@ -5268,6 +5275,7 @@ submarines
 submechanophobia
 submitted
 subnautica
+SubSimulatorGPT2
 SubstituteTeachers
 Suburbanhell
 subway
@@ -5431,6 +5439,7 @@ tf2shitposterclub
 tf_irl
 Thailand
 thalassophobia
+thane
 thanksihateit
 thanksimcured
 thanosdidnothingwrong
@@ -6114,6 +6123,7 @@ Windows11
 wine
 Wings
 WingsOfFire
+WinonaStateUniversity
 WinStupidPrizes
 winterporn
 wiredpeople
