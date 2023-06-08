@@ -803,6 +803,7 @@ BoneAppleTea
 bonecollecting
 bonehealingjuice
 bonehurtingjuice
+BONELAB
 bonnaroo
 booknooks
 books
@@ -959,6 +960,7 @@ California_Politics
 Calisthenic
 Calligraphy
 callofcthulhu
+CallofCthulhumemes
 CallOfDuty
 CallOfDutyMobile
 calvinandhobbes
@@ -1121,6 +1123,7 @@ Cheers
 Cheese
 Cheetahs
 Chefit
+chefknives
 chelseafc
 chemicalreactiongifs
 chemistry
@@ -3538,6 +3541,7 @@ MarvelStrikeForce
 MarvelStudios_Rumours
 Marxism_Memes
 maryland
+mash
 massachusetts
 masseffect
 MassEffectMemes
@@ -3976,6 +3980,7 @@ NilouMains
 nin
 Ningen
 Ninjago
+NinjagoMemes
 NinomaeInanis
 nintendo
 NintendoMemes
@@ -4741,6 +4746,7 @@ retrobattlestations
 RetroBowl
 RetroFuturism
 retrogaming
+retroid
 revancedapp
 reverseanimalrescue
 Revolvers
