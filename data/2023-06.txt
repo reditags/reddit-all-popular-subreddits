@@ -182,6 +182,7 @@ AMA
 AmandaSeyfriedOnline
 amateurradio
 AmateurRoomPorn
+AmazonDSPDrivers
 AmazonFC
 AmazonFlexDrivers
 ambbabies
@@ -484,6 +485,7 @@ avfc
 aviation
 aviationmaintenance
 aviationmemes
+avowed
 aweonasogang
 awesome
 AwesomeCarMods
@@ -515,6 +517,7 @@ Backcountry
 BacklessCelebs
 BackonFigg
 backrooms
+BackwoodsCreepy
 BackYardChickens
 baconreader
 Bad_Cop_No_Donut
@@ -659,6 +662,7 @@ bigboye
 BigBrother
 BigCatGifs
 bigfloppa
+bigfoot
 biglaw
 bih
 bihar
@@ -933,6 +937,7 @@ CaliConnection
 California
 California_Politics
 Calisthenic
+Calligraphy
 callofcthulhu
 CallOfDuty
 CallOfDutyMobile
@@ -1532,6 +1537,7 @@ deeprockfashion
 DeepRockGalactic
 DeepSpaceNine
 deescalation
+DeFranco
 deftones
 degoogle
 Degrassi
@@ -1793,6 +1799,7 @@ educationalgifs
 edwinbarnesc
 Eesti
 Eevee
+eezygang
 egg_irl
 Egypt
 EightySix
@@ -2023,6 +2030,7 @@ fiaustralia
 Fibromyalgia
 FierceFlow
 FifaCareers
+FiftyFifty
 Fighters
 FightLibrary
 fightporn
@@ -2944,6 +2952,7 @@ jerma985
 jerseycity
 jerseyshore
 jessicaalba
+jesuschristouija
 Jewdank
 jewelstaite
 Jewish
@@ -3014,6 +3023,7 @@ KamenRider
 KamenRiderMemes
 KamikazeByWords
 kancolle
+kankan
 KanojoOkarishimasu
 kansascity
 KansasCityChiefs
@@ -3078,6 +3088,7 @@ kingdomrush
 kingofqueens
 KingOfTheHill
 kings
+KingstonOntario
 KingVon
 KiraraMains
 Kirby
@@ -3272,6 +3283,7 @@ linux
 linux_gaming
 linuxmasterrace
 linuxmemes
+linuxquestions
 lisathepainfulrpg
 liseliler
 litecoin
@@ -3736,6 +3748,7 @@ myog
 MyouiMina
 MyPeopleNeedMe
 MySingingMonsters
+MysteriousFacts
 mystery
 MysteryDungeon
 mysticmessenger
@@ -4243,6 +4256,7 @@ PersonalFinanceNZ
 perth
 pesmobile
 PeterExplainsTheJoke
+Petioles
 PetiteFitness
 PetMice
 PetsareAmazing
@@ -4278,6 +4292,7 @@ photographs
 photoshopbattles
 PhotoshopRequest
 PHP
+physicaltherapy
 Physics
 physicsgifs
 physicsmemes
@@ -4389,6 +4404,7 @@ Popular_Science_Ru
 porramauricio
 Porsche
 Portal
+portlandme
 PortlandOR
 porto
 portugal
@@ -4768,6 +4784,7 @@ scienceisdope
 sciencememes
 ScienceNcoolThings
 ScienceUncensored
+scientology
 scifi
 SCJerk
 Scoobydoo
@@ -5700,6 +5717,7 @@ ufo
 UFOB
 UFOs
 ufyh
+uglyduckling
 UIUC
 UK_TV_Girls
 UKcoins
@@ -6084,6 +6102,7 @@ wow
 WoWs_Legends
 wowservers
 wowthanksimcured
+Wrangler
 Wrasslin
 WRC
 WrestleCuties
@@ -6178,6 +6197,7 @@ YUROP
 yvonnestrahovski
 ZaidZIZ
 ZanClan
+ZBrush
 zelda
 ZeldaBotW
 ZeldaIsCute
