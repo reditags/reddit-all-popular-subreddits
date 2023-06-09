@@ -195,6 +195,7 @@ AlternateAngles
 AlternateHistory
 alternativeart
 alternativefashion
+AlternativeHistory
 AlzheimersGroup
 AMA
 AMADisasters
@@ -344,6 +345,7 @@ aphextwin
 apolloapp
 ApolloAppBeta
 AppalachianTrail
+AppHookup
 apple
 applehelp
 AppleMusic
@@ -423,6 +425,7 @@ askgaybros
 AskGayMen
 AskHistorians
 asklatinamerica
+AskLE
 AskLosAngeles
 AskMechanics
 AskMen
@@ -654,6 +657,7 @@ beeandpuppycat
 Beekeeping
 BeelcitosMemes
 beer
+BeeSwarmSimulator
 beetlejuicing
 BeforeNAfterAdoption
 BeginnerWoodWorking
@@ -2299,6 +2303,7 @@ friendlyjordies
 friends_tv_show
 FriendsofthePod
 Frieren
+frogdogs
 frogs
 Fromis
 FromKittenToCat
@@ -3297,6 +3302,7 @@ kpoprants
 kpopthoughts
 KrisCollins
 kristenbell
+kristenstewart
 kroger
 ksi
 KSPMemes
@@ -3749,6 +3755,7 @@ metroidvania
 mew_irl
 MexicanMemes
 mexico
+MexicoFinanciero
 mfdoom
 MHRise
 Miami
@@ -4230,6 +4237,7 @@ okbuddyHRetard
 OkBuddyPersona
 okbuddyphd
 OkBuddyPoliceOfficer
+okbuddyrathalos
 okbuddyreiner
 okbuddyreze
 okbuddyrintard
@@ -5279,6 +5287,7 @@ snails
 snakes
 SnakesWithHats
 SnapChad
+SnapshotHistory
 Sneks
 snes
 SNKRS
@@ -5948,6 +5957,7 @@ TrueAtheism
 TrueChristian
 TrueCrime
 TrueCrimeDiscussion
+TrueFilm
 truegaming
 truerateme
 TrueReddit
