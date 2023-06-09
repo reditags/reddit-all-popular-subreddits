@@ -134,6 +134,7 @@ AFCNorthMemeWar
 AFCSouthMemeWar
 afkarena
 AFL
+AfterEffects
 AgainstHateSubreddits
 agedlikemilk
 agedlikewine
@@ -1600,6 +1601,7 @@ DeathByMillennial
 deathgrips
 deathguard40k
 Deathkorpsofkrieg
+deathnote
 DeathrattlePorn
 DeathStranding
 deathwatch40k
@@ -2433,6 +2435,7 @@ getnarwhal
 GetStudying
 GettingShredded
 getumbrel
+Gezi2
 GFLNeuralCloud
 GFRIEND
 ghettowhitegirls
@@ -2842,6 +2845,7 @@ idiotwastingtime
 IDmydog
 IDONTGIVEASWAG
 IDontWorkHereLady
+ifadeozgurlugu
 ifyoulikeblank
 igcse
 ihadastroke
@@ -2995,6 +2999,7 @@ Invincible
 Invisalign
 ios
 iOSBeta
+iOSProgramming
 Iowa
 ipad
 ipfs
@@ -3343,6 +3348,7 @@ LearnJapanese
 learnprogramming
 learnpython
 learntodraw
+LearnUselessTalents
 Leathercraft
 leaves
 LeBagne
@@ -3701,6 +3707,7 @@ MEOW_IRL
 meowsertrousers
 Mercari
 mercedes_benz
+merdasdoolx
 MergeMansion
 Metalcore
 MetalForTheMasses
@@ -4485,6 +4492,7 @@ pics
 PicsOfUnusualBirds
 piercing
 pigeon
+pihole
 Pikabu
 Pikmin
 pinaytiktokhotties
@@ -4745,6 +4753,7 @@ RASPBERRY_PI_PROJECTS
 rat
 RatchetAndClank
 RATS
+Ratschlag
 ratterriers
 ravens
 razorbacks
@@ -4939,6 +4948,7 @@ Salamanders40k
 SALEM
 sales
 salmahayek
+SalsaSnobs
 saltierthancrait
 saltierthankrayt
 SaltLakeCity
@@ -5225,6 +5235,7 @@ SmashingPumpkins
 SmashRage
 SMG4
 Smilepleasse
+SmilingFriends
 Smite
 smoking
 smoobypost
@@ -5716,6 +5727,7 @@ TheWayWeWere
 TheWeeknd
 TheWhiteLotusHBO
 TheWire
+thewitcher3
 theworldnews
 TheYardPodcast
 theydidthemath
