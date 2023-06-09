@@ -146,6 +146,7 @@ airdropalertcom
 AirdropRating
 airdrops
 airplaneears
+airplanes
 airpods
 airsoft
 airsoftcirclejerk
@@ -2513,6 +2514,7 @@ Grimdank
 griz
 Gronkh
 GroundedGame
+GrowBuddy
 GrowingMarijuana
 grubhubdrivers
 grunge
@@ -2576,6 +2578,7 @@ Hamilton
 Hammers
 hamsters
 handbags
+HandfulOfKitten
 HannibalTV
 happy
 happycowgifs
@@ -3174,6 +3177,7 @@ Kingdom
 kingdomcome
 KingdomHearts
 kingdomrush
+KingkillerChronicle
 kingofqueens
 KingOfTheHill
 kings
@@ -4873,6 +4877,7 @@ SaintMeghanMarkle
 SakamotoDays
 Salamanders40k
 SALEM
+sales
 saltierthancrait
 saltierthankrayt
 SaltLakeCity
@@ -5053,6 +5058,7 @@ shittyaquariums
 Shittyaskflying
 shittyaskreddit
 shittyaskscience
+shittybloodborne
 ShittyDaystrom
 shittyfoodporn
 Shittygamecollecting
@@ -5296,6 +5302,7 @@ StarWarsleftymemes
 starwarsmemes
 starwarsrebels
 Staryuukisincensura
+stateball
 stateofMN
 stbernards
 steak
