@@ -1,4 +1,7 @@
 0sanitymemes
+0xLend_Official
+0xMantle
+0xPolygon
 0xProject
 1000lbsisters
 100gecs
@@ -540,6 +543,7 @@ awwnverts
 awwtf
 Awww
 awwwtf
+AxieInfinity
 axolotls
 AyakaMains
 AyyMD
@@ -1030,6 +1034,9 @@ caps
 capybara
 CaraDelevingne
 carcrash
+CardanoCoin
+CardanoMarkets
+CardanoNatives
 CardanoNFTMarketplace
 Cardiff
 Cardinals
@@ -1292,6 +1299,7 @@ CODZombies
 Coffee
 coingecko
 CoinMarketCap
+COINOMI
 coins
 Coldmirror
 ColdOnes
@@ -1367,6 +1375,7 @@ ContagiousLaughter
 ContestOfChampions
 continuityporn
 ContraPoints
+controlgame
 Conures
 ConvenientCop
 CookieClicker
@@ -2010,6 +2019,7 @@ EthereumClassic
 EthereumETH
 EthereumGang
 EthereumMax
+etherscan
 ethfinance
 ethoslab
 ethtrader
@@ -5095,6 +5105,7 @@ ScottPilgrim
 scottthewoz
 scotus
 SCP
+SCPDeclassified
 Scream
 Screenwriting
 scriptedasiangifs
@@ -5431,6 +5442,7 @@ SSBM
 StableDiffusion
 StainedGlass
 Stake
+StakeNet
 StakeStockTraders
 stakeus
 staking
@@ -5611,6 +5623,7 @@ Tacoma
 tacticalgear
 tahoe
 Takagi_san
+TakaMori
 tales
 TalesFromDF
 TalesFromRetail
