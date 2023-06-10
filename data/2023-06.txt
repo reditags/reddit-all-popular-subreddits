@@ -144,6 +144,7 @@ AFCSouthMemeWar
 afkarena
 AFL
 AfterEffects
+AfterVanced
 AgainstHateSubreddits
 agedlikemilk
 agedlikewine
@@ -473,6 +474,7 @@ Astroneer
 Astronomy
 astrophotography
 Astros
+Asuka
 asushin
 ASX_Bets
 ATBGE
@@ -1443,6 +1445,7 @@ CreateMod
 CreatorsAdvice
 CreditCards
 creepy
+creepyasterisks
 creepyPMs
 cremposting
 CrestedGecko
@@ -3292,6 +3295,7 @@ KidsAreFuckingStupid
 KiernanBrennanShipka
 KiernanShipka
 kijiji
+killedthecameraman
 KillLaKill
 killsixbilliondemons
 killteam
@@ -3912,6 +3916,7 @@ Mobpsycho100
 ModCoord
 modeltrains
 Modern_Family
+ModernistArchitecture
 ModernMagic
 modernwarfare
 ModernWarfareII
