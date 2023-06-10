@@ -437,6 +437,7 @@ AskHistorians
 asklatinamerica
 AskLE
 AskLosAngeles
+askmath
 AskMechanics
 AskMen
 AskMenOver30
@@ -589,6 +590,7 @@ badwomensanatomy
 baeirene
 BaeSuzy
 Baking
+bakingfail
 bald
 BaldAndBaldrDossier
 baldursgate
@@ -2893,6 +2895,7 @@ ibs
 icecoast
 IceCreamWaifu
 ich_iel
+ichbin14unddasisttief
 ichbin40undlustig
 ICleanedMyRoom
 Idaho
@@ -3983,6 +3986,7 @@ MushroomGrowers
 Mushrooms
 Music
 musicaljenga
+musictheory
 MusicWomen
 Mustang
 MVIS
@@ -4856,6 +4860,7 @@ ravens
 razorbacks
 razorfree
 RBI
+RCB
 rccars
 rct
 RDR2
@@ -5604,6 +5609,7 @@ suspiciousquotes
 sustainability
 sutesfozes
 suzerain
+svenskpolitik
 Sverige
 svihs
 Sweatcicle
@@ -5800,6 +5806,7 @@ TheLeftCantMeme
 TheLegitBoss
 TheLetterH
 TheLib
+thelongdark
 TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
