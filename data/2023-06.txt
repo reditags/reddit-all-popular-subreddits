@@ -216,6 +216,7 @@ AMCSTOCKS
 Amd
 AmerExit
 AmericaBad
+americanairlines
 americandad
 americaneskimo
 AmericanHorrorStory
@@ -2541,6 +2542,7 @@ Gothenburg
 GothFashion
 GothGirls
 gothmakeup
+gothmemes
 GothStyle
 Gouache
 GR86
@@ -3129,6 +3131,7 @@ jerseyshore
 jessicaalba
 jesuschristouija
 Jewdank
+jewelrymaking
 jewelstaite
 Jewish
 JhinMains
@@ -3145,6 +3148,7 @@ JoePera
 JoeRogan
 JoeyForReddit
 JoeyKing
+JohnMayer
 JohnMulaney
 JohnWick
 joinsquad
@@ -3872,6 +3876,7 @@ ModernWarfareII
 moedred
 MoeMorphism
 Moescape
+Moissanite
 MoldlyInteresting
 MoldyMemes
 MomForAMinute
@@ -4472,6 +4477,7 @@ penguin
 penguins
 PenmanshipPorn
 Pennsylvania
+Pensacola
 PeopleBeingJerks
 PeopleBeTrippin
 PeopleFuckingDying
