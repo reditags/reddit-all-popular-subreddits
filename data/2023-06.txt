@@ -448,6 +448,7 @@ askmath
 AskMechanics
 AskMen
 AskMenOver30
+AskMeuf
 AskMiddleEast
 AskNYC
 AskOldPeople
@@ -1589,6 +1590,7 @@ dalle2
 dalmatians
 Damnthatsinteresting
 Dance
+dancemoms
 Dandadan
 danganronpa
 dangerousdesign
@@ -2601,6 +2603,7 @@ Goldendoodles
 goldenknights
 goldenretriever
 goldenretrievers
+GoldenSun
 golf
 Golf_R
 GolfGTI
@@ -2612,6 +2615,7 @@ GoodFakeTexts
 GoodGoodMemes
 goodmythicalmorning
 goodomens
+GoodPizzaGreatPizza
 google
 GooglePixel
 goons
@@ -3113,6 +3117,7 @@ Instagramreality
 instant_regret
 instantbarbarians
 instantkarma
+instantpot
 Instantregret
 insurgency
 intel
@@ -3791,6 +3796,7 @@ marvelstudios
 MarvelStudios_Rumours
 Marxism_Memes
 maryland
+masculinity_rocks
 mash
 massachusetts
 masseffect
@@ -5126,6 +5132,7 @@ RPClipsGTA
 RPDRDRAMA
 rpg
 rpghorrorstories
+rsloshredit
 RTGameCrowd
 RubeGoldbergFails
 rugbyunion
