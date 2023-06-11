@@ -2082,6 +2082,7 @@ esist
 espresso
 EssendonFC
 esterexposito
+ESTILOZAP
 estoration
 ethdev
 Ethelcain
@@ -6310,6 +6311,7 @@ UkraineWarRoom
 UkraineWarVideoReport
 UkrainianConflict
 uktrees
+ultimate
 UltimatumQueerLove
 Ultrakill
 Ultralight
@@ -6446,6 +6448,7 @@ Vinesauce
 VinlandSaga
 vintage
 vintageads
+VintageApple
 vintageaudio
 vintagecomputing
 VintageFashion
