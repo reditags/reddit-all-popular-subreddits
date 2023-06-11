@@ -2063,6 +2063,7 @@ Eredivisie
 EscapefromTarkov
 esist
 espresso
+EssendonFC
 esterexposito
 estoration
 ethdev
@@ -5512,6 +5513,7 @@ SonicTheHedgehog
 SonoBisqueDoll
 SonsOfTheForest
 SonyAlpha
+SonyXperia
 Sophia_Lillis
 SoulCalibur
 souleater
