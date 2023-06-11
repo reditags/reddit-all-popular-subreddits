@@ -870,6 +870,7 @@ bonecollecting
 bonehealingjuice
 bonehurtingjuice
 BONELAB
+boniver
 bonnaroo
 booknooks
 books
@@ -1371,6 +1372,7 @@ Competitiveoverwatch
 CompetitiveTFT
 CompetitiveWoW
 compoface
+composting
 CompTIA
 computers
 computerscience
@@ -1926,6 +1928,7 @@ DumpsterDiving
 DunderMifflin
 dune
 dunememes
+DungeonCrawlerCarl
 DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
@@ -2383,6 +2386,7 @@ FromTVEpix
 Frostpunk
 Frugal
 Frugal_Jerk
+frugalmalefashion
 Fruitbatcats
 FruitsBasket
 ft86
@@ -2712,6 +2716,7 @@ HaloStory
 halsey
 Hamilton
 Hammers
+HamRadio
 hamsters
 handbags
 HandfulOfKitten
@@ -3106,6 +3111,7 @@ intotheradius
 introvert
 introvertmemes
 Intune
+inuyasha
 Invest_Voyager
 Invincible
 Invisalign
@@ -3663,6 +3669,7 @@ Luxembourg
 LV426
 LycorisRecoil
 Lyft
+lynxpointsiamese
 MAAU
 mac
 macapps
@@ -4718,6 +4725,7 @@ PokeMedia
 pokememes
 pokemon
 pokemonanime
+Pokemonart
 pokemoncards
 pokemongo
 pokemongobrag
@@ -5847,6 +5855,7 @@ The_Mueller
 THE_PACK
 theadamfriedlandshow
 TheAdventureZone
+TheAllinPodcasts
 TheAstraMilitarum
 TheBidenshitshow
 thebindingofisaac
