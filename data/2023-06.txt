@@ -521,6 +521,7 @@ AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
 AustralianTeachers
+australianwildlife
 Austria
 austriahungary
 autism
@@ -812,6 +813,7 @@ Blasphemous
 BlatantMisogyny
 bleach
 blender
+blenderhelp
 Blep
 blessedimages
 BlingEmpire
@@ -1817,6 +1819,7 @@ dji
 DJsCirclejerk
 Djungelskog
 DLAH
+dlsu
 DMAcademy
 DMT
 DMToolkit
@@ -4309,6 +4312,7 @@ notmycat
 NotMyJob
 NotSafeMoon
 nottheonion
+nottingham
 nova
 NovaScotia
 nowmycat
@@ -5734,6 +5738,7 @@ swedishproblems
 SWGalaxyOfHeroes
 Swimming
 Switch
+SwitchHacks
 Switzerland
 SWlegion
 swoletariat
@@ -6345,6 +6350,7 @@ vaporents
 VaporwaveAesthetics
 VaushV
 vaxxhappened
+vdm
 VeChainTrader
 vegan
 vegancirclejerk
