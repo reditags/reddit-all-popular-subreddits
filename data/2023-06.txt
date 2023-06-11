@@ -1638,6 +1638,7 @@ dataengineering
 DataHoarder
 dataisbeautiful
 dataisugly
+datascience
 datealive
 dating
 dating_advice
@@ -1990,9 +1991,11 @@ ElectricalEngineering
 electricdaisycarnival
 ElectricForest
 electricians
+ElectroBOOM
 electronicmusic
 electronics
 EliteDangerous
+EliteWeebs
 ElizabethOlsen
 ElizabethTurner
 ellacervetto
@@ -2657,6 +2660,7 @@ grilledcheese
 grilling
 Grimdank
 Grimdawn
+grime
 Grimes
 griz
 Gronkh
@@ -3429,6 +3433,7 @@ KumoDesu
 kurtisconner
 Kurumi
 kurzgesagt
+kutautos
 KUWTKsnark
 Kwon_Eunbi
 KyraReneeSivertson
@@ -4028,6 +4033,7 @@ MoscowMurders
 MosinNagant
 MostBeautiful
 moths
+MotoDANK
 motogp
 motorcitykitties
 motorcycle
@@ -4764,6 +4770,7 @@ poker
 pokerrrr2
 poland
 polandball
+Polaroid
 Polcompball
 policeuk
 politecats
@@ -5289,6 +5296,7 @@ SexySportsBabes
 SF6Avatars
 sffpc
 SFGiants
+SFM
 SFWNextDoorGirls
 SFWRedheads
 SGExams
@@ -6635,6 +6643,7 @@ work
 workaholics
 Workbenches
 WorkersStrikeBack
+WorkoutRoutines
 workouts
 WorkReform
 Workspaces
