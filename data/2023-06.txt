@@ -3464,6 +3464,7 @@ l4d2
 Labour
 LabourUK
 labrador
+LaBrantFamSnark
 labrats
 lacamiseta
 Lackadaisy
@@ -4845,6 +4846,7 @@ Pottery
 PouchCatatoes
 PourPainting
 poutine
+PoutineCrimes
 pouts
 povertyfinance
 povertyfinancecanada
@@ -5344,6 +5346,7 @@ ShamelesslyStolen
 Shark_Park
 sharks
 sharpei
+sharpening
 sheep
 SheGotHands
 sheltie
@@ -5655,6 +5658,7 @@ StarWarsAndor
 StarWarsBattlefront
 starwarsblackseries
 StarWarsCantina
+starwarscollecting
 StarWarsEU
 StarWarsJediSurvivor
 StarWarsleftymemes
@@ -5700,6 +5704,7 @@ stopdrinking
 stopdrinkingfitness
 stophegetsus
 StoppedWorking
+Stormgate
 Stormlight_Archive
 Stormworks
 storyofseasons
