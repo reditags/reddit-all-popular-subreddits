@@ -173,9 +173,11 @@ aivideo
 AIVoiceMemes
 aiyu
 ak47
+AkatsukinoYona
 akita
 AkitaInuASA
 AkitaToken
+AkumaNihmune
 AkutsuSan
 Alabama
 alaska
@@ -899,6 +901,7 @@ BONELAB
 boniver
 bonnaroo
 booknooks
+bookporn
 books
 bookshelf
 booksuggestions
@@ -1584,6 +1587,7 @@ CuratedTumblr
 curatedvideos
 curb
 curledfeetsies
+cursed_chemistry
 Cursed_Images
 cursed_videomemes
 cursedcomments
@@ -1964,6 +1968,7 @@ drawme
 DrDisrespectLive
 Dreadlocks
 DreamlightValley
+Dreams
 dredge
 drehscheibe
 Dresses
@@ -2057,6 +2062,7 @@ electronicmusic
 electronics
 EliteDangerous
 EliteWeebs
+ElizabethHurley
 ElizabethOlsen
 ElizabethTurner
 ellacervetto
@@ -2714,6 +2720,7 @@ grandpajoehate
 grandrapids
 granturismo
 graphic_design
+graphicnovels
 Grapplerbaki
 gratefuldead
 gravelcycling
@@ -2870,6 +2877,7 @@ hellsomememes
 Helltaker
 HelluvaBoss
 Helluvabossmemes
+help
 HelpMeFind
 helsinki
 heraldry
@@ -6795,6 +6803,7 @@ wiiu
 wikipedia
 wildbeef
 WildernessBackpacking
+wildhearthstone
 wildhockey
 wildlife_videos
 wildlifephotography
@@ -6993,6 +7002,7 @@ ZeldaTearsOfKingdom
 ZeLink
 Zendaya
 ZenyattaMains
+Zerkaa
 zerobaseone
 ZeroWaste
 zfam
