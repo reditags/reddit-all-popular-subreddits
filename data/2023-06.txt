@@ -312,6 +312,7 @@ AnimeFunny
 animegifs
 AnimeHoodies
 animehotbeverages
+animemaids
 AnimeMeme
 animememes
 Animemes
@@ -896,6 +897,7 @@ booknooks
 books
 bookshelf
 booksuggestions
+BoomersBeingFools
 BoostForReddit
 boottoobig
 borbs
@@ -1572,6 +1574,7 @@ Cursed_Images
 cursed_videomemes
 cursedcomments
 cursedcursedcomments
+Cursedgunimages
 CursedGuns
 cursedimages
 cursedmemes
@@ -1680,6 +1683,7 @@ davidgoggins
 DaysGone
 Daytrading
 dayz
+DBLegendsReddit
 dbxv
 dbz
 DBZDokkanBattle
@@ -3033,6 +3037,7 @@ igcse
 ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
+ikeahacks
 ilikthebred
 IllegalLifeProTips
 IllegallySmol
@@ -3455,6 +3460,7 @@ KnightsOfPineapple
 KnowledgeFight
 Knoxville
 KoboldLegion
+kof
 Kokomi_Mains
 kolkata
 kollywood
@@ -3925,6 +3931,7 @@ meme
 memecoinmoonshots
 MemeEconomy
 memeframe
+MemeFrancais
 MemeHunter
 MemePiece
 memes
@@ -4439,6 +4446,7 @@ oddlysatisfying
 oddlyspecific
 oddlyterrifying
 OddSatisfying
+Odisha
 OeffentlicherDienst
 ofcoursethatsathing
 offbeat
@@ -5048,6 +5056,7 @@ RatchetAndClank
 RATS
 Ratschlag
 ratterriers
+RavenGuard40k
 ravens
 rawdenim
 razorbacks
@@ -5432,6 +5441,7 @@ shitcoinmoonshots
 ShitCrusaderKingsSay
 shitduolingosays
 shitfromabutt
+ShitKonfaSays
 ShitLiberalsSay
 ShitMomGroupsSay
 ShitPoliticsSays
@@ -5675,6 +5685,7 @@ SquaredCircle
 SquarePosting
 squirrels
 squishmallow
+srbija
 srpska
 SS13
 SSBM
