@@ -1064,6 +1064,7 @@ BreakingPoints
 BreakingPointsNews
 Breath_of_the_Wild
 breathinginformation
+Brewers
 BrexitMemes
 BRF
 bridezillas
@@ -1955,6 +1956,7 @@ desabafos
 DesantisJetTracker
 Design
 DesignDesign
+DesignerReps
 DesignMyRoom
 DesignPorn
 DesiMeta
@@ -2176,6 +2178,7 @@ DrStone
 DRSyourGME
 drugmemes
 Drugs
+druidism
 drumcorps
 drums
 drumstick
@@ -2248,6 +2251,7 @@ eggs
 Egypt
 EhBuddyHoser
 EightySix
+EizaGonzalez
 ekekek
 EL_Radical
 Eldar
@@ -2322,6 +2326,7 @@ ENLIGHTENEDCENTRISM
 enlistedgame
 Enneagram
 Enough_Sanders_Spam
+Enough_Vaush_Spam
 EnoughCommieSpam
 EnoughMuskSpam
 EnoughPCMSpam
@@ -3388,6 +3393,7 @@ iLuTV
 im14andthisisdeep
 Im15AndThisIsYeet
 ImaginaryArchitecture
+ImaginaryArmor
 ImaginaryAzeroth
 ImaginaryBeasts
 ImaginaryBehemoths
@@ -4072,6 +4078,7 @@ LitecoinAustralia
 LitecoinCommunity
 literaciafinanceira
 literature
+LiteratureMemes
 lithuania
 litrpg
 LitterboxComics
@@ -4560,6 +4567,7 @@ Montana
 Moonmoon
 MoonPissing
 Moonshotcoins
+moralorel
 morbidlybeautiful
 morbidquestions
 MorbidWaysToDie
@@ -4851,6 +4859,7 @@ NoFap
 noita
 NoJumper
 NolanBatmanMemes
+NolanMemes
 NOLAPelicans
 NoLawns
 NoMansSkyTheGame
@@ -5689,6 +5698,7 @@ RelayForReddit
 religiousfruitcake
 RellMains
 reloading
+renanplay
 renfaire
 Reno
 Reno911
@@ -5740,6 +5750,7 @@ rimesegate
 rimjob_steve
 Rimuru
 RimWorld
+RingFitAdventure
 riodejaneiro
 RioGrandeValley
 RiotBlockchain
@@ -6562,6 +6573,7 @@ tappedout
 tarantulas
 TargetedShirts
 TarihiSeyler
+Tarkov
 TarkovMemes
 tarot
 taskmaster
@@ -6711,6 +6723,7 @@ TheHandmaidsTale
 TheInbetweeners
 TheJenkins
 theJoeBuddenPodcast
+TheKM
 TheKonsey
 TheLastAirbender
 TheLastKingdom
@@ -7253,6 +7266,7 @@ vintagecomputing
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
+VintageTees
 vinyl
 vinyljerk
 Virginia
@@ -7387,6 +7401,7 @@ Wellthatsucks
 Wellworn
 wendigoon
 WendyRedVelvet
+WestHighlandTerriers
 westies
 WestVirginia
 westworld
