@@ -672,6 +672,7 @@ BadMUAs
 badroommates
 badtaxidermy
 badUIbattles
+BadWelding
 badwomensanatomy
 baeirene
 BaeSuzy
@@ -1428,6 +1429,7 @@ ChurchOfCat
 ChurchOfDorothea
 ChurchOfEula
 ChurchOfFeMC
+ChurchofFroppy
 churchofharu
 ChurchOfJirou
 ChurchOfKasumi
@@ -2818,6 +2820,7 @@ GalGadot
 gallifrey
 galsonthego
 Gambiarra
+gambling
 Gameboy
 GameChangerTV
 gamecollecting
@@ -4455,6 +4458,7 @@ metro
 Metroid
 metroidvania
 mew_irl
+mexicanfood
 MexicanMemes
 mexico
 MexicoCity
@@ -4913,6 +4917,7 @@ NonCredibleERA
 NoneHumanMoe
 nononono
 nonononoyes
+nonononoyesno
 nononoyes
 NonPoliticalTwitter
 noodlebones
@@ -6694,6 +6699,7 @@ TeslaModelY
 teslamotors
 TESOfashion
 Testosterone
+TestosteroneKickoff
 Texans
 texas
 TexasPolitics
@@ -7172,6 +7178,7 @@ Ultralight
 Ultraman
 Ultramarines
 ultrawidemasterrace
+UmaMusume
 UMD
 umineko
 UNBGBBIIVCHIDCTIICBG
