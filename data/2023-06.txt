@@ -2196,6 +2196,7 @@ drums
 drumstick
 drunk
 drunkencookery
+DSPD
 dualipa
 Dualsport
 dubai
@@ -2685,6 +2686,7 @@ ForzaHorizon
 fossdroid
 fossilid
 found70percentbanana
+FoundationTV
 FoundPaper
 FoundryVTT
 foundsatan
@@ -3425,6 +3427,7 @@ ImaginaryAzeroth
 ImaginaryBeasts
 ImaginaryBehemoths
 ImaginaryBestOf
+ImaginaryCastles
 ImaginaryCharacters
 ImaginaryCityscapes
 ImaginaryCyberpunk
@@ -3656,6 +3659,7 @@ JailbreakCreations
 jakanddaxter
 jakeandamir
 jakertown
+JamesBond
 JamesHoffmann
 JamesTurnerYT
 jameswebbdiscoveries
@@ -3966,6 +3970,7 @@ LaStalla
 lastimages
 lastpodcastontheleft
 lastweektonight
+LasVegas
 latesitoo
 LateStageCapitalism
 LateStageImperialism
@@ -6838,6 +6843,7 @@ TheWayWeWere
 TheWeeklyRoll
 TheWeeknd
 TheWhiteLotusHBO
+TheWhyFiles
 TheWire
 thewitcher3
 theworldnews
@@ -7169,6 +7175,7 @@ ultrawidemasterrace
 UMD
 umineko
 UNBGBBIIVCHIDCTIICBG
+uncannyvalley
 uncharted
 unclebens
 underrail
