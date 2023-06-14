@@ -566,6 +566,7 @@ Augenschmaus
 auntydonna
 auroramusic
 aus
+AusElectricians
 AusFinance
 Ausguns
 ausjdocs
@@ -2817,6 +2818,7 @@ FWFBThinkTank
 G59
 gachagaming
 gadgets
+GalaxyS21FE
 GalaxysEdge
 GalGadot
 gallifrey
@@ -3023,6 +3025,7 @@ granturismo
 graphic_design
 graphicnovels
 Grapplerbaki
+Graspop
 gratefuldead
 gravelcycling
 gravityfalls
@@ -3095,6 +3098,7 @@ gunplagonewild
 gunpolitics
 GunPorn
 guns
+GunsNRoses
 gurgaon
 gurrenlagann
 GuysBeingDudes
@@ -4235,6 +4239,7 @@ macgaming
 MachE
 MachikadoMazoku
 MachineLearning
+machinelearningnews
 MachinePorn
 Machinists
 MacMiller
@@ -5979,6 +5984,7 @@ sciencefiction
 scienceisdope
 sciencememes
 ScienceNcoolThings
+SciencePure
 sciences
 ScienceUncensored
 scientology
