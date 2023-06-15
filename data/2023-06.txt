@@ -919,6 +919,7 @@ BittorrentToken
 bizarrebuildings
 bizarrelife
 bjork
+BlackCat
 blackcats
 Blackcelebrity
 BlackClover
@@ -1693,6 +1694,7 @@ coys
 cozy
 CozyFantasy
 CozyPlaces
+CPA
 cpp
 CPS
 crabcats
@@ -1708,6 +1710,7 @@ CrazyHuman
 CrazyIdeas
 crazywoodworking
 CreateMod
+CreationNtheUniverse
 CreatorsAdvice
 CreditCards
 creepy
@@ -4971,6 +4974,7 @@ NewsOfTheStupid
 NewsWithJingjing
 NewToEMS
 NewVegasMemes
+newworldgame
 newyorkcity
 NewYorkMets
 NewYorkNineMild
@@ -5621,6 +5625,7 @@ Polandballart
 Polaroid
 Polcompball
 policeuk
+PolinBridgerton
 politecats
 Political_Revolution
 PoliticalComebacks
@@ -6026,6 +6031,7 @@ RoundRock
 RoverPetSitting
 Rowing
 royalcaribbean
+RoyaleHigh_Roblox
 RPClipsGTA
 RPDR_UK
 RPDRDRAMA
@@ -6490,6 +6496,7 @@ SonicFrontiers
 SonicTheHedgehog
 SonicTheHedgejerk
 SonoBisqueDoll
+sonos
 SonsOfTheForest
 SonyAlpha
 SonyXperia
@@ -7516,6 +7523,7 @@ VenomousKeepers
 Vent
 venti
 venturebros
+verfluchteKommentare
 Verkehrswende
 Vermintide
 vermont
@@ -7688,6 +7696,7 @@ Wellthatsucks
 Wellworn
 wendigoon
 WendyRedVelvet
+werewolfonline
 WestHighlandTerriers
 westies
 WestSubEver
