@@ -427,6 +427,7 @@ Aquariums
 AquaSama
 Aquascape
 AquaticAsFuck
+AR10
 ar15
 ARAM
 araragi
@@ -5789,6 +5790,7 @@ RASPBERRY_PI_PROJECTS
 rat
 RatchetAndClank
 Ratorix
+RatRod
 RATS
 Ratschlag
 ratterriers
@@ -7628,6 +7630,7 @@ wendigoon
 WendyRedVelvet
 WestHighlandTerriers
 westies
+WestSubEver
 WestVirginia
 westworld
 WetlanderHumor
@@ -7749,6 +7752,7 @@ Woodszin
 woodworking
 woof_irl
 woooosh
+WorcesterMA
 WordAvalanches
 WordBearers
 wordchewing
