@@ -244,6 +244,7 @@ AlternateHistory
 alternativeart
 alternativefashion
 AlternativeHistory
+Altrive
 AlturaNFT
 AlzheimersGroup
 AMA
@@ -511,6 +512,7 @@ AskFrance
 askgaybros
 AskGayMen
 AskHistorians
+AskHR
 asklatinamerica
 AskLE
 AskLosAngeles
@@ -5342,6 +5344,7 @@ orlando
 OrlandoMagic
 ornnmains
 OrphanCrushingMachine
+oscarrace
 OSHA
 OshiNoKoMemes
 osp
@@ -7220,6 +7223,7 @@ toolgifs
 toolporn
 toolps
 Tools
+toolsinaction
 TooMeIrlForMeIrl
 toontownrewritten
 ToothpasteBoys
