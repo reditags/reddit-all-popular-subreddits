@@ -479,6 +479,7 @@ ArtCrit
 ArtDeco
 ArtefactPorn
 artificial
+ArtisanVideos
 ArtNouveau
 ArtOfRolling
 ArtPorn
@@ -1233,6 +1234,7 @@ capetown
 CapitalismSux
 CapitolConsequences
 caps
+capstonewritinghelp_
 CaptainSparrowmemes
 capybara
 CaraDelevingne
@@ -1362,6 +1364,7 @@ cellbits
 CelsiusNetwork
 CelticFC
 CemeteryPorn
+Centrelink
 centrist
 centuryhomes
 Ceramics
@@ -2086,6 +2089,7 @@ Dipcifica
 DipPowderNails
 DiretoDoZapZap
 Dirtbikes
+dirtgame
 disability
 discgolf
 discgolfcirclejerk
@@ -2241,6 +2245,7 @@ drivingUK
 Drizzy
 DrMartens
 DronedOrc
+drones
 dropout
 DrStone
 DRSyourGME
@@ -4822,6 +4827,7 @@ MysteriousFacts
 mystery
 MysteryDungeon
 mysticmessenger
+MySummerCar
 mythologymemes
 n64
 N_N_N
@@ -4916,6 +4922,7 @@ Nerf
 nervysquervies
 Nestofeggs
 netflix
+NetflixBestOf
 Netherlands
 netsec
 Netsphere
@@ -5208,6 +5215,7 @@ OmegaWatches
 OMG_Hotties
 OMGnetwork
 OmnibusCollectors
+OmniscientReader
 OMORI
 OnCinemaAtTheCinema
 oneanddone
@@ -5485,6 +5493,7 @@ photographs
 photoshopbattles
 PhotoshopRequest
 PHP
+PhR4Friends
 Physical100
 physicaltherapy
 Physics
@@ -7483,6 +7492,7 @@ vegetarian
 velvethippos
 VenomousKeepers
 Vent
+venti
 venturebros
 Verkehrswende
 Vermintide
