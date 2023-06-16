@@ -3080,6 +3080,7 @@ GME
 gme_meltdown
 GMEJungle
 gmod
+GNV
 goats
 goblincore
 GoblinSlayer
@@ -8074,6 +8075,7 @@ Zendaya
 ZenyattaMains
 Zerkaa
 zerobaseone
+ZeroCovidCommunity
 ZeroWaste
 zfam
 ZhongliMains
