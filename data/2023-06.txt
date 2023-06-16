@@ -307,6 +307,7 @@ AncestryDNA
 anchorage
 AnchovyAtAnzio
 Ancient_History_Memes
+AncientCoins
 ancientrome
 Andjustlikethat
 andor
@@ -1694,6 +1695,7 @@ CossIO
 Costco
 cotinetwork
 cottagecore
+CounterSide
 counterstrike
 CounterStrikeDE
 CountOnceADay
@@ -2306,6 +2308,7 @@ DunderMifflin
 dune
 dunememes
 DungeonCrawlerCarl
+DungeonMasters
 DungeonMeshi
 Dungeons_and_Dragons
 DungeonsAndDaddies
@@ -2528,6 +2531,7 @@ ExperiencedDevs
 explainlikeimfive
 ExplainTheJoke
 ExplicameComoMorrito
+exposemakeupqueenn30
 ExposurePorn
 extracrypto
 ExtraFabulousComics
@@ -5040,6 +5044,7 @@ NFCEastMemeWar
 NFCNorthMemeWar
 NFCWestMemeWar
 nflcirclejerk
+NFLv2
 nfrealmusic
 NFT
 NFTArt_Finance
@@ -5906,6 +5911,7 @@ RatRod
 RATS
 Ratschlag
 ratterriers
+rav4club
 RavenGuard40k
 ravens
 rawdenim
@@ -5951,6 +5957,7 @@ redditdev
 RedditForGrownups
 RedditLaqueristas
 redditonwiki
+redditrequest
 redditsync
 ReddPlanet
 RedDwarf
@@ -6658,6 +6665,7 @@ standardissuecat
 Standup
 StandUpComedy
 standupshots
+Staples
 starbound
 starbucks
 Starchi
@@ -7538,6 +7546,7 @@ uselessredcircle
 usenet
 UsernameChecksOut
 USMC
+usmnt
 USPS
 ussoccer
 Utah
