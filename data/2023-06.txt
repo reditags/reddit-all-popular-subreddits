@@ -1995,6 +1995,7 @@ deadmalls
 deadmeatjames
 DeadSpace
 deadwood
+DeathBand
 deathbattle
 DeathBattleMatchups
 DeathByMillennial
@@ -3439,6 +3440,7 @@ homeautomation
 Homebrewing
 Homebuilding
 HomeDecorating
+homedefense
 HomeDepot
 homegym
 HomeImprovement
@@ -4332,6 +4334,7 @@ LiveFromNewYork
 Liverpool
 LiverpoolFC
 LivestreamFail
+LivestreamFails
 LiveStreamFailz
 LivMorgan
 LOAM_LOVERS
@@ -7147,6 +7150,7 @@ thelongdark
 TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
+TheMandemNP
 themarsvolta
 TheMarvelousMrsMaisel
 TheMassive
