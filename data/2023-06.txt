@@ -179,6 +179,7 @@ AhriMains
 aiArt
 AIAssisted
 AIDKE
+airbnb_hosts
 airdropalertcom
 AirdropRating
 airdrops
@@ -1898,6 +1899,7 @@ danglers
 DaniDev
 DanielaMelchior
 Daniellarson
+DaniellePanabaker
 DanielTigerConspiracy
 DaniSpeegle
 Dank
@@ -3095,6 +3097,7 @@ gojira
 Gold
 GoldenAgeMinecraft
 Goldendoodles
+GoldenGirlsTV
 GoldenKamuy
 goldenknights
 goldenretriever
@@ -5178,6 +5181,7 @@ nukedmemes
 NukesTop5
 numetal
 nursing
+nus
 NuxTakuSubmissions
 nuzlocke
 nvidia
@@ -5867,6 +5871,7 @@ QuotesPorn
 R6ProLeague
 Rabbits
 Raccoons
+Rachel_Pizzolato
 RachelPizzolato
 RachelRiley
 RachelZegler
