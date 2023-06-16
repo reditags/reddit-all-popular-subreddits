@@ -572,6 +572,7 @@ AtlantaTV
 AtlantaUnited
 Atlantology
 ATLAtv
+ATLAverse
 Atman96
 atomicwallet
 attackeyes
@@ -1235,6 +1236,7 @@ Canada_sub
 canadaguns
 canadahousing
 CanadaHousing2
+CanadaSoccer
 CanadianCoins
 CanadianInvestor
 canberra
@@ -1948,6 +1950,7 @@ dating_advice
 datingoverforty
 datingoverthirty
 Datsun
+DaveRamsey
 davidgoggins
 DaysGone
 Daytrading
@@ -2231,6 +2234,7 @@ Dortmund
 DotA2
 DottoreMains
 doughboys
+doughertydozen
 DoveCameron
 downloadfestival
 DowntonAbbey
@@ -2495,6 +2499,7 @@ EvaGreen
 evangelion
 evangelionmemes
 Eve
+EverAfterHigh
 everett
 evergrowcoin
 Everton
@@ -4188,6 +4193,7 @@ legodnd
 Legoleak
 legostarwars
 LegoStarWarsLeaks
+legotechnic
 LEGOtrains
 lele_pons
 lemans
@@ -4480,6 +4486,7 @@ mapporncirclejerk
 MarchAgainstNazis
 MarchAgainstTrump
 MargotRobbie
+Marijuana
 marijuanaenthusiasts
 MariMakinami
 MarinaNabokina
@@ -5532,6 +5539,7 @@ pettyrevenge
 PewdiepieSubmissions
 PeytonCoffee_2
 PeytonList
+Phalanxed
 PhantomForces
 pharmacy
 PharmacyTechnician
@@ -5726,6 +5734,7 @@ PoutineCrimes
 pouts
 povertyfinance
 povertyfinancecanada
+PowerGirl
 PowerMetal
 powerrangers
 powerwashingporn
@@ -6700,6 +6709,7 @@ SteelyDan
 steinsgate
 Stellaris
 StellarisMemes
+step1
 Stepdadreflexes
 StephanieSooStories
 stephenking
@@ -7120,6 +7130,7 @@ TheWhyFiles
 TheWire
 thewitcher3
 theworldnews
+theworstmoment
 TheYardPodcast
 theydidthemath
 theyknew
@@ -7513,6 +7524,7 @@ upstate_new_york
 UpvoteBecauseButt
 Upwork
 uraniumglass
+urbancarliving
 urbanexploration
 UrbanHell
 urbanplanning
@@ -8042,6 +8054,7 @@ ZanClan
 Zappa
 ZBrush
 zec
+ZeducationSubmissions
 zelda
 ZeldaBotW
 ZeldaIsCute
