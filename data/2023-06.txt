@@ -743,6 +743,7 @@ Barbie
 Barcelona
 bardmains
 barexam
+BargainBinVinyl
 BariatricSurgery
 barkour
 Barotrauma
@@ -1538,6 +1539,7 @@ ClashOfClansRecruit
 ClashRoyale
 ClashRoyaleCirclejerk
 ClassConscienceMemes
+classicalguitar
 classicalmusic
 classiccars
 ClassicDesiCool
@@ -1730,6 +1732,7 @@ crabcats
 CrackheadCraigslist
 CrackWatch
 craftsnark
+CrankGameplays
 CrappyDesign
 crappyoffbrands
 crashbandicoot
@@ -2250,6 +2253,7 @@ Doppleganger
 Dorohedoro
 Dortmund
 DotA2
+DotHack
 DottoreMains
 doughboys
 doughertydozen
@@ -3128,6 +3132,7 @@ goldenknights
 goldenretriever
 goldenretrievers
 GoldenSun
+GoldMomGroupsSay
 golf
 Golf_R
 GolfGTI
@@ -3371,6 +3376,7 @@ hewillbebaked
 HFY
 HGTV
 HHN
+hiddencameras
 HiFiRush
 Highfleet
 HighHeels
@@ -4084,6 +4090,7 @@ KneadyCats
 knifeclub
 knifemaking
 KnightsOfPineapple
+knotnation
 KnowledgeFight
 Knoxville
 KobeniHigashiyama
@@ -4900,6 +4907,7 @@ Mtf_irl
 MTFButch
 mtg
 mtgfinance
+mtgvorthos
 MtvChallenge
 MuayThai
 Muemmler_iel
@@ -5180,6 +5188,7 @@ NonPoliticalTwitter
 noodlebones
 nope
 NorfFc
+norfolk
 norge
 NorissaValdezHotel
 NormalGirlsOnly
@@ -5692,6 +5701,7 @@ PlantsVSZombies
 Plaqueboymax
 Play2Earn_Airdrop
 Play_to_Earn
+playark
 playboicarti
 playrust
 playstation
@@ -6883,6 +6893,7 @@ superautopets
 Superbowl
 superman
 SuperMechaFrieza
+SuperMegaBaseball
 SuperMegaShow
 SupermodelCats
 supermoto
