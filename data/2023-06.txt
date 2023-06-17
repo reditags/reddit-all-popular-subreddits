@@ -463,6 +463,7 @@ arcticmonkeys
 arduino
 AreYouGarbagePod
 Argaming
+ArgenGaming
 argentina
 ArgentinaBenderStyle
 Argnime
@@ -2240,6 +2241,7 @@ dogsgettingdogs
 dogslookingdown
 DogsMirin
 dogsonroofs
+dogsusingpillows
 dogswearinghats
 dogswithjobs
 Dogtraining
@@ -2572,6 +2574,7 @@ ExpandDong
 expats
 ExpectationVsReality
 ExperiencedDevs
+explainitpeter
 explainlikeimfive
 ExplainTheJoke
 ExplicameComoMorrito
