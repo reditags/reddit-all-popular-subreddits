@@ -3849,6 +3849,7 @@ ironmouse
 ironscape
 IronWarriors
 IrrationalMadness
+Ishowspeed
 IsItBullshit
 ISKbets
 islam
@@ -4264,6 +4265,7 @@ LearmannTwins
 learndota2
 learningtocat
 LearnJapanese
+learnmachinelearning
 learnprogramming
 learnpython
 learntodraw
