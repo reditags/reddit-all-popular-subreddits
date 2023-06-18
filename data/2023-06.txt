@@ -3283,6 +3283,7 @@ GuardianTales
 guatemala
 guessmyage
 GUIBELREVIEWS
+GuildWars
 Guildwars2
 GuiltyDogs
 Guiltygear
@@ -5150,6 +5151,7 @@ nerdfighters
 nerdtattoos
 Nerf
 nervysquervies
+nes
 Nestofeggs
 netflix
 NetflixBestOf
