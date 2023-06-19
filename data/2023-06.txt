@@ -129,6 +129,7 @@ acotar
 ACPocketCamp
 ActionFigures
 ActivationSound
+ActiveMeasures
 ActLikeYouBelong
 actu_memes
 ActualPublicFreakouts
@@ -3925,6 +3926,7 @@ itrunsdoom
 Its_Jawsh
 itsalwayslowqltyvideo
 itsaunixsystem
+itseunchae_
 itstheyak
 IttoMains
 ITZY
@@ -5570,6 +5572,7 @@ OrphanCrushingMachine
 oscarrace
 OSHA
 OshiNoKoMemes
+oslo
 osp
 osr
 OstrichPlug
@@ -7228,6 +7231,7 @@ telecaster
 telescopes
 TempleofMarianne
 templeofthephil
+Tenkaichi
 Tennessee
 Tennesseetitans
 tennis
@@ -7283,6 +7287,7 @@ The_Leftorium
 The_Mueller
 THE_PACK
 theadamfriedlandshow
+TheAdventuresofTintin
 TheAdventureZone
 TheAllinPodcasts
 TheApparatus
