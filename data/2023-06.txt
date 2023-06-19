@@ -1365,6 +1365,7 @@ catpics
 catpictures
 cats
 CatsAndPlants
+catsarealiens
 CatsAreAssholes
 catsarefuckingstupid
 catsareliquid
@@ -2593,6 +2594,7 @@ EverythingScience
 evilautism
 evilbuildings
 EvilDead
+ewphoria
 excatholic
 excel
 excgarated
@@ -4553,6 +4555,7 @@ LSAT
 LSD
 LTB_iel
 lucario
+LucidDreaming
 lucifer
 luciomains
 ludhiana
