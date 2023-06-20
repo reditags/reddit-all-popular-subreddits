@@ -896,6 +896,7 @@ BigCatGifs
 Bigdog_Official
 bigfloppa
 bigfoot
+biggboss
 biggreenegg
 biglaw
 BigNoseLadies
@@ -3180,6 +3181,7 @@ Giscardpunk
 Gittertiere
 givemeinteligens
 glasgow
+glastonbury_festival
 glee
 glitch_art
 Glitch_in_the_Matrix
@@ -4461,6 +4463,7 @@ linuxmemes
 linuxquestions
 Lisa_Mains
 lisathepainfulrpg
+lisboa
 liseliler
 Lisk
 listentothis
@@ -7434,6 +7437,7 @@ TheSimpsons
 thesims
 thesims4
 TheSimsBuilding
+TheSmile
 thesopranos
 TheStrokes
 thetagang
