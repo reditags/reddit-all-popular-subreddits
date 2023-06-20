@@ -2592,6 +2592,7 @@ ethfinance
 ethoslab
 ethtrader
 EtikaRedditNetwork
+Etoro
 EtrianOdyssey
 Etsy
 etymology
@@ -3244,6 +3245,7 @@ goldenretriever
 goldenretrievers
 GoldenSun
 GoldMomGroupsSay
+GolemTrader
 golf
 Golf_R
 GolfGTI
@@ -5150,6 +5152,7 @@ my_celebrity_crush
 MyBigFatFabulousLife
 MyChemicalRomance
 mycology
+mydefipet
 MyEtherWallet
 myfavoritemurder
 MyHeroAcadamia
@@ -7511,6 +7514,7 @@ TheWalkingDeadGame
 TheWayWeWere
 TheWeeklyRoll
 TheWeeknd
+thewestwing
 TheWhiteLotusHBO
 TheWhyFiles
 TheWire
