@@ -2036,6 +2036,7 @@ Datsun
 DaveFX
 DaveRamsey
 davidgoggins
+davidlynch
 DaysGone
 dayton
 Daytrading
@@ -4806,6 +4807,7 @@ MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
 MechanicalPandey
+Mechwarrior5
 medical_advice
 MedicalGore
 MedievalCats
