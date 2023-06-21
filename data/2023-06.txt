@@ -426,6 +426,7 @@ AnyaTaylorJoyFans
 AO3
 AOC
 aoe2
+aoe3
 aoe4
 AOW4
 ape
@@ -2536,6 +2537,7 @@ ems
 emulation
 EmulationOnAndroid
 ENA
+EnculerLesVoitures
 ender3
 Endo
 energy
@@ -3865,6 +3867,7 @@ indiasocial
 IndiaSpeaks
 IndiaTrending
 IndieDev
+indiegames
 IndieGaming
 indieheadscirclejerk
 indonesia
@@ -4370,6 +4373,7 @@ LasVegas
 latesitoo
 LateStageCapitalism
 LateStageImperialism
+LaTeX
 LatinoPeopleTwitter
 latterdaysaints
 latvia
@@ -7469,6 +7473,7 @@ TheGreatOnesReborn
 TheGriffonsSaddlebag
 TheGrittyPast
 TheHandmaidsTale
+theHunter
 theidol
 TheInbetweeners
 TheJenkins
