@@ -503,6 +503,7 @@ Arrowheads
 ArsenalFC
 ArsivUnutmaz
 Art
+ArtBell
 ArtCrit
 ArtDeco
 ArtefactPorn
@@ -783,6 +784,7 @@ Basketball
 basketballcards
 Bass
 basset
+bassethounds
 bassfishing
 BassGuitar
 bathandbodyworks
@@ -1927,6 +1929,7 @@ cuteguys
 cuteguyswithcats
 cutenoobs
 CVS
+CX5
 Cyberbooty
 cyberDeck
 Cyberpunk
@@ -5113,6 +5116,7 @@ movies
 Moviesinthemaking
 MP5
 MrBeast
+MrFruit
 mrlovenstein
 MrRobot
 MrTechnodad
@@ -5487,6 +5491,7 @@ ObsidianMD
 ObviousPlant
 OCD
 OCDmemes
+OceanGateTitan
 oceans
 OceansAreFuckingLit
 octopathtraveler
