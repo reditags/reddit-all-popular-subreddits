@@ -1585,6 +1585,7 @@ CityPorn
 civ
 civ5
 civic
+Civic_Type_R
 civilengineering
 CivVI
 CK2GameOfthrones
@@ -4099,6 +4100,7 @@ JoePera
 JoeRogan
 JoeyForReddit
 JoeyKing
+John_Frusciante
 JohnMayer
 JohnMulaney
 JohnWick
@@ -6467,6 +6469,7 @@ RPClipsGTA
 RPDR_UK
 RPDRDRAMA
 rpg
+rpg_gamers
 rpghorrorstories
 RPGMaker
 RSA
@@ -7523,6 +7526,7 @@ TheNightFeeling
 TheNinthHouse
 TheNonCredibleFlorks
 theocho
+TheOCS
 TheOdysseyHadAPurpose
 theofficememes
 TheOfficialPodcast
