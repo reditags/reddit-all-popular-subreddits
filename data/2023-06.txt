@@ -1295,6 +1295,7 @@ Canada_sub
 canadaguns
 canadahousing
 CanadaHousing2
+canadaleft
 CanadaSoccer
 CanadianCoins
 CanadianInvestor
@@ -6173,6 +6174,7 @@ psychologystudents
 Psychonaut
 PTCGL
 ptcgo
+PUBATTLEGROUNDS
 PUBLICAE
 PublicFreakout
 publix
@@ -6554,6 +6556,7 @@ Sandman
 sanepolitics
 sanfrancisco
 SanJose
+SanJoseSharks
 sanpedrocactus
 sanrio
 SantaBarbara
