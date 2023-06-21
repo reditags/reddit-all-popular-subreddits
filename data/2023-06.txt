@@ -585,6 +585,7 @@ Astroneer
 Astronomy
 astrophotography
 Astros
+ASTSpaceMobile
 Asuka
 asushin
 ASX_Bets
@@ -3820,6 +3821,7 @@ ImTheMainCharacter
 inazumaeleven
 InclusiveOr
 Incorgnito
+IncreasinglyVerbose
 IncredibleIndia
 incremental_games
 india
@@ -5763,6 +5765,7 @@ papillon
 ParadoxExtra
 paradoxplaza
 Parahumans
+paralegal
 Paralives
 Paramore
 Paranormal
@@ -6012,6 +6015,7 @@ polandball
 Polandballart
 Polaroid
 Polcompball
+Poldersocialisme
 poledancing
 Polestar
 policeuk
