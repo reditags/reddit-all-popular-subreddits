@@ -1445,6 +1445,7 @@ centuryhomes
 Ceramics
 cernercorporation
 CestQuoiCeTruc
+cf4cf
 CFB
 cfbmemes
 cfs
@@ -3341,6 +3342,7 @@ GTAorRussia
 GTAV
 gtavcustoms
 GTBAE
+guam
 GuardianTales
 guatemala
 guessmyage
@@ -4495,6 +4497,7 @@ LinkinPark
 LinusTechTips
 linux
 linux_gaming
+linuxadmin
 linuxmasterrace
 linuxmemes
 linuxquestions
@@ -6325,6 +6328,7 @@ RepublicanValues
 RESAnnouncements
 rescuedogs
 researchchemicals
+ReservationDogs
 Residency
 residentevil
 resinprinting
@@ -6837,6 +6841,7 @@ SloveniaPlumbingNSFW
 slowcooking
 SlowNewsDay
 Slycooper
+smallbusiness
 SmallBusinessCanada
 SmallDeliMeats
 smalllebowsky
