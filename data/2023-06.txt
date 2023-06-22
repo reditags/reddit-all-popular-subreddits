@@ -2626,6 +2626,7 @@ EulaMains
 euphoria
 EUR_irl
 europe
+EuropeFIRE
 europes
 EuroTruck2
 eurovision
@@ -3986,6 +3987,7 @@ ironscape
 IronWarriors
 IrrationalMadness
 IsabelaMerced
+Isekai
 Ishowspeed
 IsItBullshit
 ISKbets
@@ -4506,6 +4508,7 @@ LifeofBoris
 lifepluscindy
 LifeProTips
 LigaMX
+Lightning
 lightningnetwork
 lightsabers
 likeus
