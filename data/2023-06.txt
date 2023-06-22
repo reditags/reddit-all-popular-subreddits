@@ -742,6 +742,7 @@ BadWelding
 badwomensanatomy
 baeirene
 BaeSuzy
+BaizhuMains
 Baking
 bakingfail
 bald
@@ -3401,6 +3402,7 @@ gurgaon
 gurrenlagann
 GuyCry
 GuysBeingDudes
+Gwain_Saga
 GwenMains
 gwent
 GwynethPaltrow
