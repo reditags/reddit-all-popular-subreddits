@@ -6495,6 +6495,7 @@ Rimuru
 RimWorld
 RingFitAdventure
 riodejaneiro
+riograndedosul
 RioGrandeValley
 RiotBlockchain
 ripcity
@@ -6783,6 +6784,7 @@ ShadowandBone
 shadowofmordor
 ShadowoftheColossus
 Shadowrun
+ShadowSlave
 Shadowtherat
 Sham_Sharma_Show
 shameless
