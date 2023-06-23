@@ -3281,6 +3281,7 @@ Gold
 GoldenAgeMinecraft
 Goldendoodles
 GoldenGirlsTV
+GoldenInuToken
 GoldenKamuy
 goldenknights
 goldenretriever
@@ -7471,6 +7472,7 @@ TerrariaMemes
 terriblefacebookmemes
 terriblefandommemes
 TerrifyingAsFuck
+Terroriser
 tesdcares
 TeslaCam
 teslainvestorsclub
