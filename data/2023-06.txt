@@ -509,6 +509,7 @@ army
 aromantic
 Arrangedmarriage
 arresteddevelopment
+arrow
 Arrowheads
 ArsenalFC
 ArsivUnutmaz
@@ -1954,6 +1955,7 @@ cute
 Cutedogsreddit
 cuteguys
 cuteguyswithcats
+cutekpopgirls
 cutenoobs
 CVS
 CX5
@@ -4672,6 +4674,7 @@ lostredditors
 lotr
 LOTR_on_Prime
 lotrmemes
+lotus
 louboutins
 Louisiana
 Louisville
@@ -6164,6 +6167,7 @@ postal
 PostMalone
 postscriptum
 Potastic_Jeannie
+POTS
 pottedcats
 Pottery
 PouchCatatoes
@@ -7345,6 +7349,7 @@ surrealmemes
 surrey
 SurreyBC
 Surveying
+Survival
 survivinginfidelity
 survivor
 sushi
