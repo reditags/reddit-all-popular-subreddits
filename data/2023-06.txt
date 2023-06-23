@@ -4734,6 +4734,7 @@ madlads
 MadMax
 madnesscombat
 MadokaMagica
+Mafex
 Mafia
 MafiaTheGame
 MAFS_AU
@@ -7065,6 +7066,7 @@ SPb
 Spearfishing
 specializedtools
 SpecOpsArchive
+spectacularmemes
 SpeculativeEvolution
 SpeedOfLobsters
 speedrun
