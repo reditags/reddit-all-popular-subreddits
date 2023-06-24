@@ -2363,6 +2363,7 @@ doomfistmains
 doommetal
 doordash
 doordash_drivers
+doors_roblox
 Doppleganger
 Dorohedoro
 Dortmund
@@ -6156,6 +6157,7 @@ Pontiac
 poodles
 POODLTOKEN
 PoojaHegdeHub
+PoorHammer
 popculturechat
 popheadscirclejerk
 popping
