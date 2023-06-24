@@ -1605,6 +1605,7 @@ citypop
 CityPorn
 civ
 civ5
+civ_memes
 civic
 Civic_Type_R
 civilengineering
@@ -4743,6 +4744,7 @@ LycorisRecoil
 Lyft
 lyftdrivers
 lynxpointsiamese
+Lysithea
 MAAU
 mac
 macapps
@@ -5015,6 +5017,7 @@ metro
 Metroid
 metroidvania
 mew_irl
+Mewing
 mexicanfood
 MexicanMemes
 mexico
