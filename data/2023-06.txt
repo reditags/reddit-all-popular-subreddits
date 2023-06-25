@@ -905,6 +905,7 @@ bestof
 bestoflegaladvice
 bestofpositiveupdates
 BestofRedditorUpdates
+BestOfRedditUpdates2
 BestOfReports
 bestoftheinternet
 bettafish
@@ -2411,6 +2412,7 @@ DragRaceTea
 Dragula
 DrakeTheType
 DramaFreeBJJ
+DramaticHouseplants
 Dramione
 Draven
 Drawfee
@@ -7810,6 +7812,7 @@ TimAndEric
 timberwolves
 TimDillon
 TimDillonCirclejerk
+TimHortons
 timisoara
 TimPool
 Tinder
