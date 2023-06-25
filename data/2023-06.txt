@@ -309,6 +309,7 @@ AmITheAngel
 AmItheAsshole
 AmItheButtface
 AmItheCloaca
+AmItheEx
 amiugly
 amIuglyBrutallyHonest
 amiwrong
@@ -3295,6 +3296,7 @@ glitch_art
 Glitch_in_the_Matrix
 GlitchInTheMatrix
 GlobalOffensive
+GlockMod
 Glocks
 Gloomhaven
 GloriousTomBombadil
