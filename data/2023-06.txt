@@ -1693,6 +1693,7 @@ Colombia
 Colorado
 ColoradoAvalanche
 coloradohikers
+ColoradoRockies
 ColoradoSprings
 Colorization
 ColorizedHistory
@@ -8466,6 +8467,7 @@ whiskey
 Whistler
 WhiteCats
 Whitelist_Airdrop
+WhiteLotusHBO
 whitepeoplegifs
 WhitePeopleTwitter
 WhiteRose
