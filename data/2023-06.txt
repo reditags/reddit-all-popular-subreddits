@@ -1553,6 +1553,7 @@ chinesefood
 ChineseLanguage
 Chinesium
 Chipotle
+chips
 Chiraqology
 Chivalry2
 chiweenie
@@ -2281,6 +2282,7 @@ distressingmemes
 dividends
 DivinityOriginalSin
 Division2
+Divorce
 DivorcedBirds
 DiWHY
 DiWHYNOT
@@ -2679,10 +2681,12 @@ EverythingScience
 evilautism
 evilbuildings
 EvilDead
+evilgenius
 ewphoria
 excatholic
 excel
 excgarated
+ExclusivelyPumping
 exfor
 exIglesiaNiCristo
 existentialcrisiscat
@@ -4650,6 +4654,7 @@ LoansPaydayOnline
 LobotomyCorp
 LocalLLaMA
 lockpicking
+Locochon
 locs
 LodedDiper
 lodz
@@ -8279,6 +8284,7 @@ Visiblemending
 VisitingIceland
 visualnovels
 vita
+VitaPiracy
 ViviWinkler
 vizsla
 Vocaloid
