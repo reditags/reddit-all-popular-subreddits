@@ -2980,6 +2980,7 @@ ForAllMankindTV
 forbiddenboops
 forbiddensnacks
 FordBronco
+FordMaverickTruck
 fordranger
 Forest
 ForeverAlone
@@ -3920,6 +3921,7 @@ Impeach_Trump
 ImperialCombatArts
 ImperialFists
 ImperialKnights
+ImpracticalArmour
 ImpracticalJokers
 IMSARacing
 imsorryjon
@@ -5703,6 +5705,7 @@ octopathtraveler
 octopus
 oculus
 OculusQuest
+OculusQuest2
 OddlyErotic
 oddlysatisfying
 oddlyspecific
@@ -6582,6 +6585,7 @@ RetroBowl
 RetroFuturism
 retrogaming
 retroid
+Rettungsdienst
 Returnal
 revancedapp
 reverseanimalrescue
@@ -6652,6 +6656,7 @@ Roofing
 RoomPorn
 ROOMSYX
 roosterteeth
+rootgame
 rose
 roseanne
 RoseByrne
