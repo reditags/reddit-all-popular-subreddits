@@ -15,6 +15,7 @@
 1811
 1911
 195
+1960s
 19684
 197
 198
@@ -336,6 +337,7 @@ AncestryDNA
 anchorage
 AnchovyAtAnzio
 Ancient_History_Memes
+AncientCivilizations
 AncientCoins
 AncientMagusBride
 ancientrome
@@ -1126,6 +1128,7 @@ borderlands3
 Borderporn
 BorderTerrier
 boringdystopia
+BORUpdates
 borussiadortmund
 Boruto
 borzoi
@@ -2508,6 +2511,7 @@ eatityoufuckingcoward
 eatsandwiches
 EatTheRich
 eatventureofficial
+Eberron
 ebikes
 EbonyImagination
 ecash
@@ -5615,6 +5619,7 @@ NotADragQueen
 Notakeonlythrow
 NotAnotherDnDPodcast
 notdisneyvacation
+notebooks
 nothingeverhappens
 NotHowGirlsWork
 NotHowGuysWork
@@ -7366,6 +7371,7 @@ stunfisk
 stupiddovenests
 StupidFood
 stupidpol
+SturgillSimpson
 StVO
 subaru
 Subaru_Outback
