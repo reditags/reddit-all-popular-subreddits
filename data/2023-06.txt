@@ -1686,6 +1686,7 @@ coingecko
 CoinMarketCap
 COINOMI
 coins
+coinyspace
 Coldmirror
 ColdOnes
 ColleenBallingerSnark
@@ -4757,6 +4758,7 @@ lucario
 LucidDreaming
 lucifer
 luciomains
+LuckiEcks
 ludhiana
 LudwigAhgren
 luigi_irl
@@ -5242,6 +5244,7 @@ mordheim
 More_Tankie196
 moreplatesmoredates
 MoriCalliope
+mormon
 Morocco
 Morrowind
 MortalKombat
@@ -6595,6 +6598,7 @@ ROBLOXBans
 Robocop
 robotics
 Rochester
+Rockband
 rocketbeans
 RocketLeague
 RocketLeagueEsports
