@@ -3446,6 +3446,7 @@ GTAorRussia
 GTAV
 gtavcustoms
 GTBAE
+Guadalajara
 guam
 GuardianTales
 guatemala
@@ -5459,6 +5460,7 @@ neography
 neoliberal
 NeonGenesisEvangelion
 neopets
+Neotrader
 neovim
 Nepal
 nerdfighters
@@ -6718,6 +6720,7 @@ Safemars
 SafeMoon
 Safemoon_News
 SafeMoonBuySellAdvice
+SafeMoonInvesting
 SafeMoonSqueeze
 safePal
 SafeVault_Talk
@@ -6743,6 +6746,7 @@ saltierthankrayt
 SaltLakeCity
 Samadhi_Zendejas
 samharris
+SamiraMains
 SamONella
 SamONellaAcademy
 SamoyedCoin
@@ -8145,6 +8149,7 @@ UFObelievers
 UFOs
 ufyh
 uglyduckling
+UhiveTo1Dollar
 UIUC
 UK_Food
 UK_TV_Girls
