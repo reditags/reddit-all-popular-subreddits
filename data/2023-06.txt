@@ -2662,6 +2662,7 @@ eos
 Epic40k
 EpicGamesPC
 EpicSeven
+Episode
 equestriaatwar
 Equestrian
 Eragon
@@ -4296,6 +4297,7 @@ Kaarija
 kac
 KaeyaMains
 KafkaMains
+kaisamains
 kaiserredux
 Kaiserreich
 KaIT
@@ -5195,6 +5197,7 @@ minipainting
 Miniworlds
 minnesota
 minnesotatwins
+minnesotaunited
 minnesotavikings
 Minoxbeards
 minpin
@@ -6993,6 +6996,7 @@ shitcoinmoonshots
 ShitCrusaderKingsSay
 shitduolingosays
 shitfromabutt
+shitguncontrollerssay
 ShitKonfaSays
 ShitLiberalsSay
 ShitMomGroupsSay
@@ -7403,6 +7407,7 @@ stonedswifties
 StonerEngineering
 stonerfood
 StonerThoughts
+stoneshard
 Stonetossingjuice
 stopdrinking
 stopdrinkingfitness
