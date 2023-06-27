@@ -734,6 +734,7 @@ babyelephantgifs
 babygoats
 babylon5
 BABYMETAL
+babyrhinogifs
 BabyYoda
 Backcountry
 BacklessCelebs
@@ -1329,6 +1330,7 @@ Canada_sub
 canadaguns
 canadahousing
 CanadaHousing2
+CanadaImmigrant
 canadaleft
 CanadaSoccer
 CanadianCoins
@@ -7726,6 +7728,7 @@ TheeOhSees
 TheEricAndreShow
 TheExpanse
 TheFarSide
+TheFence
 thefighterandthekid
 TheFirstLaw
 TheGirlSurvivalGuide
