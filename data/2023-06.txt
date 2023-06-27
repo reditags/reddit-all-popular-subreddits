@@ -775,6 +775,7 @@ baldursgate
 BaldursGate3
 balisong
 balkans_irl
+ballarat
 BALLET
 ballpython
 BalticStates
@@ -2597,6 +2598,7 @@ emergencyintercom
 emergencymedicine
 EmiliaClarke
 emilyml
+emilyrudd
 Eminem
 emiru
 Emiru_Lewd
@@ -8529,6 +8531,7 @@ Wellworn
 wendigoon
 WendyRedVelvet
 werewolfonline
+WerWieWas
 WestHighlandTerriers
 westies
 WestSubEver
