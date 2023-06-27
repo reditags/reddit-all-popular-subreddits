@@ -4816,6 +4816,7 @@ LumineMains
 Lumity
 Lustig
 Luthier
+lux
 Luxembourg
 LV426
 LycorisRecoil
@@ -5577,6 +5578,7 @@ NiceVancouver
 Nichijou
 NichtDieTagespresse
 NicolaCavanis
+NICUParents
 nier
 NierAutomataGallery
 NieRAutomataGame
@@ -6432,6 +6434,7 @@ PuzzleAndDragons
 puzzles
 PvZGardenWarfare
 PvZHeroes
+pykemains
 Pyrex_Love
 pyrocynical
 Python
