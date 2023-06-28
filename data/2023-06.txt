@@ -2201,6 +2201,7 @@ Delaware
 delhi
 deliciouscompliance
 Delightfullychubby
+DelphiMurders
 delta
 Deltarune
 delusionalartists
@@ -4394,6 +4395,7 @@ KerbalSpaceProgram
 KessokuBand
 keto
 ketorecipes
+kettlebell
 kfeets
 KGATLW
 KGATLWcirclejerk
@@ -6214,6 +6216,7 @@ pivx
 Pixar
 pixel_phones
 PixelArt
+PixelGun
 Pizza
 PizzaCrimes
 PizzaDrivers
@@ -6260,6 +6263,7 @@ pokemon
 pokemonanime
 Pokemonart
 pokemoncards
+PokemonCardValue
 PokemonExpansion
 pokemongo
 pokemongobrag
