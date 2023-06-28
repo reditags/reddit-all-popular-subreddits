@@ -1638,6 +1638,7 @@ civ5
 civ_memes
 civic
 Civic_Type_R
+CivicSi
 civilengineering
 CivVI
 CK2GameOfthrones
