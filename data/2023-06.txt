@@ -5717,6 +5717,7 @@ NPPfunny
 NPR
 nrl
 NRLPremiumPlus
+NTU
 nuclear
 NuclearRevenge
 NUFC
