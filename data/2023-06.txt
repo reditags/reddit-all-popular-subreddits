@@ -1540,6 +1540,7 @@ Chameleons
 Championship
 ChampionshipHistory
 championsleague
+chanceme
 Chandigarh
 chanel
 Chang_Gang
@@ -5172,6 +5173,7 @@ Michigents
 microblading
 microbork
 microgrowery
+MicromobilityNYC
 MicroPorn
 MicrosoftFlightSim
 MicrosoftRewards
