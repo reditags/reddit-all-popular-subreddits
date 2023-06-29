@@ -5229,6 +5229,7 @@ minecraftseeds
 MinecraftStoryMode
 minecraftsuggestions
 MineIslam
+MineralGore
 MineralPorn
 MINI
 miniatures
