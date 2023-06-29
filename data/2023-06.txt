@@ -79,6 +79,7 @@
 80scartoons
 80sdesign
 80sfastfood
+80smusic
 8passengersnark
 8TEEZ
 90DayFiance
@@ -1843,6 +1844,7 @@ Costco
 costumeporn
 cotinetwork
 cottagecore
+cottagegoth
 CounterSide
 counterstrike
 CounterStrikeDE
@@ -7241,6 +7243,7 @@ SNSD
 SnyderCut
 soap2daynews
 Sober
+socalhiking
 soccercirclejerk
 soccermemes
 socialanxiety
@@ -8127,6 +8130,7 @@ treedibles
 treelaw
 trees
 TreesSuckingOnThings
+Treknobabble
 tressless
 tretinoin
 TREZOR
