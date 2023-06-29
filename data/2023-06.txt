@@ -587,6 +587,7 @@ AskMiddleEast
 AskNYC
 AskOldPeople
 AskOuija
+AskPhotography
 AskReddit
 askscience
 AskScienceFiction
@@ -3663,6 +3664,7 @@ HellBoy
 Hellenism
 HellLetLoose
 helloicon
+HelloKitty
 HellsKitchen
 hellsomememes
 Helltaker
