@@ -592,6 +592,7 @@ AskScienceFiction
 AskSexQuestion
 AskSF
 askSingapore
+Asksweddit
 AskThe_Donald
 askTO
 asktransgender
@@ -2844,6 +2845,7 @@ farmingsimulator
 farscape
 fashion
 fashionhistory
+fashionph
 fashionporn
 FashionReps
 fastandfurious
@@ -4678,6 +4680,7 @@ librandu
 Libraries
 libraryofruina
 libsofreddit
+LibsOfSocialMedia
 lies
 lifehacks
 lifeisstrange
