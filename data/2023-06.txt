@@ -1530,6 +1530,7 @@ CestQuoiCeTruc
 cf4cf
 CFB
 cfbmemes
+CFL
 cfs
 Chadposting
 Chadtopia
@@ -6543,6 +6544,7 @@ PuzzleAndDragons
 puzzles
 PvZGardenWarfare
 PvZHeroes
+PygmalionAI
 pykemains
 Pyrex_Love
 pyrocynical
