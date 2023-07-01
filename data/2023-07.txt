@@ -78,6 +78,7 @@ AEKAthensFC
 Aespa
 Aether_Mains
 AEWOfficial
+AFCEastMemeWar
 AFCNorthMemeWar
 AFL
 agedlikemilk
@@ -91,6 +92,7 @@ airsoftcirclejerk
 AITAH
 AIVoiceMemes
 aiyu
+AJR
 ak47
 akita
 Albany
@@ -103,6 +105,7 @@ alexandradaddario
 AlHaithamMains
 aliens
 AlisonBrie
+AlkalineTrio
 AlternateHistory
 alternativefashion
 AmateurRoomPorn
@@ -285,6 +288,7 @@ AvatarMemes
 avengedsevenfold
 aves
 aviation
+aviationmaintenance
 aviationmemes
 awesome
 AwesomeCarMods
@@ -406,6 +410,7 @@ BinIchDasArschloch
 biology
 bioniclelego
 Bioshock
+Birbs
 birding
 BirdsArentReal
 bisexual
@@ -490,6 +495,7 @@ boxingcirclejerk
 boxoffice
 BPDmemes
 BrandNewSentence
+BrandonDE
 brandonherrara
 brandonsanderson
 brasil
@@ -521,6 +527,7 @@ Brogress
 brookemonke_xo
 Brooklyn
 brooklynninenine
+BryceDallasHoward
 btd6
 bts7
 buccos
@@ -626,6 +633,7 @@ CelebEvents
 celebrity_soles
 CelebrityFeet
 CelebsBootyTreasure
+CelebsInTights
 CelebsPH
 CelebWivesofNashville
 celestegame
@@ -634,6 +642,7 @@ CemeteryPorn
 centuryhomes
 CeresFauna
 CFB
+cfs
 Chadposting
 Chadtopia
 Chaewon
@@ -642,6 +651,7 @@ Chainsawfolk
 ChainsawMan
 chainsawmancirclejerk
 Championship
+Chaos40k
 chaoticgood
 CharacterAI
 characterdrawing
@@ -687,6 +697,7 @@ CitiesSkylines
 CityPorn
 civ
 civ5
+civic
 CivVI
 CK3AGOT
 Clamworks
@@ -831,6 +842,7 @@ cuteguyswithcats
 Cyberpunk
 cyberpunkgame
 cybersecurity
+cybertruck
 czech
 D4Druid
 Dachshund
@@ -860,6 +872,7 @@ DanMachi
 DannyGonzalez
 Daredevil
 daria
+DarkAcademia
 DarkBRANDON
 darkestdungeon
 DarkSouls2
@@ -998,6 +1011,7 @@ doordash_drivers
 Doppleganger
 DotA2
 doughboys
+dragonballfighterz
 DragonballLegends
 Dragonballsuper
 DragonMaid
@@ -1276,6 +1290,8 @@ gadgets
 GalGadot
 Gameboy
 gamecollecting
+Gamecube
+gamedev
 gamegrumps
 gameofthrones
 GamePhysics
@@ -1299,6 +1315,7 @@ gay_irl
 gaybros
 gaybrosfitness
 gaybrosgonemild
+GayBroTeens
 GayEyeBleach
 gaymemes
 gaymers
@@ -1502,6 +1519,7 @@ homelab
 homestead
 homestuck
 hometheater
+Honda
 HongKong
 honkaiimpact3
 HonkaiStarRail
@@ -1514,6 +1532,7 @@ Horses
 hostedgames
 hot_reporters
 HOTDGreens
+HotlineMiami
 hotsauce
 HotWheels
 houkai3rd
@@ -1521,6 +1540,7 @@ HouseMD
 HouseOfTheDragon
 houseplants
 houston
+howto
 howyoudoin
 httyd
 HUEstation
@@ -1545,6 +1565,7 @@ IAmA
 iamatotalpieceofshit
 IAmTheMainCharacter
 iamverybadass
+iamverysmart
 IASIP
 ibs
 IceCreamWaifu
@@ -1730,7 +1751,9 @@ kansascity
 KansasCityChiefs
 Kanye
 KarenFukuhara
+KatanaZero
 KatDennings
+Katemara
 KatherineMcNamara
 KatherynWinnick
 katyperry
@@ -1862,6 +1885,7 @@ Link_Dies
 LinkedInLunatics
 LinusTechTips
 linux
+liseliler
 lithuania
 LittleNightmares
 LittlestPetShop
@@ -1899,6 +1923,7 @@ lowriders
 LPOTL
 LSD
 LTB_iel
+lucifer
 luciomains
 luigi_irl
 lululemon
@@ -1906,6 +1931,7 @@ LumineMains
 Lumity
 LV426
 LycorisRecoil
+lyftdrivers
 MAAU
 Machinists
 MacMiller
@@ -1950,6 +1976,7 @@ Markiplier
 Marriage
 martialarts
 Marvel
+marvelcirclejerk
 MarvelLegends
 marvelmemes
 MarvelSnap
@@ -2055,6 +2082,7 @@ minnesotavikings
 MirandaCosgrove
 MissLaineyWilson
 missouri
+Mistborn
 MixedRaceGirls
 Mizkif
 MkeBucks
@@ -2188,6 +2216,7 @@ NewIran
 NewJeans
 newjersey
 NewOrleans
+NewParents
 news
 NewsOfTheStupid
 NewVegasMemes
@@ -2241,6 +2270,7 @@ NoStupidQuestions
 NotADragQueen
 nothingeverhappens
 NotHowGirlsWork
+NotHowGuysWork
 notinteresting
 NotKenM
 notliketheothergirls
@@ -2304,6 +2334,7 @@ oldhagfashion
 OldManDog
 OldSchoolCelebs
 OldSchoolCool
+OLED_Gaming
 oliviadunne
 OmegaStrikers
 OmegaWatches
@@ -2334,6 +2365,7 @@ opticalillusions
 orangecats
 orangecounty
 orangetheory
+oregon
 orioles
 orks
 orlando
@@ -2380,6 +2412,7 @@ Paranormal
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
+parentsofmultiples
 ParkJihyo
 ParlerWatch
 parrots
@@ -2530,6 +2563,7 @@ Priconne
 PrincessesOfPower
 privacy
 programare
+ProgrammerAnimemes
 ProgrammerHumor
 programminghorror
 progun
@@ -2618,6 +2652,7 @@ redditsync
 RedDwarf
 RedFloodMod
 RedheadedGoddesses
+RedHood
 RedHotChiliPeppers
 RedLetterMedia
 redneckengineering
@@ -2636,6 +2671,7 @@ Reno
 rentnerzeigenaufdinge
 Repsneakers
 RepsneakersDogs
+reptiles
 RepublicadeChile
 rescuedogs
 Residency
@@ -2702,6 +2738,7 @@ SabrinaCarpenter
 Sacramento
 sadboys
 sadcringe
+sadiemckenna
 Sadiesink
 sadposting
 sailing
@@ -2907,6 +2944,7 @@ SpaceXMasterrace
 SpanishMeme
 specializedtools
 SpecOpsArchive
+SpeculativeEvolution
 SpeedOfLobsters
 speedrun
 sphynx
@@ -2982,6 +3020,7 @@ Stretched
 StructuralEngineering
 StudentLoans
 studentsph
+StuffOnCats
 stunfisk
 stupiddovenests
 StupidFood
@@ -3096,6 +3135,7 @@ thalassophobia
 thanksihateit
 thanksimcured
 That70sshow
+thatHappened
 Thatsactuallyverycool
 ThatsInsane
 The10thDentist
@@ -3277,6 +3317,7 @@ TuxedoCats
 TVTooHigh
 twicemedia
 twicememes
+TwinCities
 twinpeaks
 TwistedWonderland
 Twitter
@@ -3468,6 +3509,7 @@ WhitePeopleTwitter
 wholesome
 wholesome_girls
 wholesomebpt
+wholesomegifs
 wholesomegreentext
 wholesomememes
 WhyWomenLiveLonger
