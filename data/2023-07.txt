@@ -64,6 +64,7 @@ AddisonRae
 Adelaide
 AdeptusCustodes
 AdeptusMechanicus
+adeptustitanicus
 ADHDmemes
 Adulting
 adultingph
@@ -155,6 +156,7 @@ AnnieEdison
 ANormalDayInRussia
 ANRime
 answers
+antiarbeit
 Anticonsumption
 antifastonetoss
 antimeme
@@ -171,6 +173,7 @@ anya_zendaya
 AnyaTaylorJoy
 AO3
 aoe2
+AoSLore
 apexlegends
 ApexOutlands
 ApexUncovered
@@ -190,6 +193,7 @@ arcticmonkeys
 arduino
 argentina
 ArgentinaBenderStyle
+ariheads
 ARK
 arknights
 arma
@@ -229,6 +233,7 @@ aspergers
 assassinscreed
 AssassinsCreedMemes
 AssassinsCreedOdyssey
+assettocorsa
 assholedesign
 astrologymemes
 Astronomy
@@ -253,6 +258,7 @@ Austria
 austriahungary
 autism
 AutismInWomen
+autismmemes
 AutisticAdults
 AutisticWithADHD
 autobloed
@@ -275,6 +281,7 @@ Ayato_Mains
 babyanimals
 BabyBumps
 babyelephantgifs
+BABYMETAL
 BackonFigg
 BackYardChickens
 baconreader
@@ -396,6 +403,7 @@ Blep
 Blink182
 BloodAngels
 blop
+BlueJackets
 BlueLock
 bluey
 blunderyears
@@ -420,6 +428,7 @@ BollywoodFashion
 BollywoodUHQonly
 Bondedpairs
 BoneAppleTea
+bonehealingjuice
 bonehurtingjuice
 bonnaroo
 books
@@ -477,6 +486,7 @@ btd6
 bts7
 buccos
 budgies
+buffalobills
 buffy
 bugidentification
 buildabear
@@ -510,6 +520,7 @@ camilamendes
 camphalfblood
 canada
 canadahousing
+canadaleft
 CanadianCoins
 cannabiscultivation
 canucks
@@ -557,6 +568,7 @@ CatsStandingUp
 CatsWhoSqueak
 catswhotrill
 Catswhoyell
+CatsWithDogs
 Catswithjobs
 CatTaps
 cavaliers
@@ -637,6 +649,7 @@ ClassConscienceMemes
 classiccars
 ClassicRock
 classicwow
+classywomenofcolor
 CleaningTips
 Cleveland
 clevelandcavs
@@ -662,6 +675,7 @@ collingwoodfc
 Colombia
 Colorado
 ColoradoAvalanche
+Colorization
 Columbus
 CombatFootage
 combinedgifs
@@ -734,6 +748,7 @@ criticalrole
 croatia
 crochet
 crossdressing
+crossfit
 CrossfitGirls
 CrossStitch
 crowbro
@@ -804,6 +819,7 @@ dccomicscirclejerk
 DCEUleaks
 DDLC
 de
+deadandcompany
 deadbydaylight
 deadcells
 deadlockpw
@@ -812,6 +828,7 @@ deathgrips
 deathguard40k
 DeathrattlePorn
 DeathStranding
+Decks
 DeepRockGalactic
 DeepSpaceNine
 DeFranco
@@ -853,6 +870,7 @@ DetroitRedWings
 deutschememes
 developersIndia
 DevilMayCry
+devils
 devinbrugman
 DHHMemes
 diabetes_t1
@@ -874,6 +892,7 @@ disneyvacation
 distractible
 distressingmemes
 dividends
+DivinityOriginalSin
 DivorcedBirds
 DiWHY
 DIY
@@ -983,6 +1002,7 @@ Eragon
 EscapefromTarkov
 esist
 EssendonFC
+EtikaRedditNetwork
 eu4
 eu_nvr
 EulaMains
@@ -1079,6 +1099,7 @@ Floof
 Florence_Pugh
 florida
 FlorkofCowsOfficial
+Flyers
 flying
 fnki
 fnv
@@ -1092,6 +1113,7 @@ footballmanagergames
 forbiddensnacks
 ForgottenWeapons
 forhonor
+FormulaBuddyRetard
 formuladank
 forsen
 FORTnITE
@@ -1172,6 +1194,7 @@ GawrGura
 gay_irl
 gaybros
 gaybrosgonemild
+GayEyeBleach
 gaymemes
 gaymers
 GayRateMe
@@ -1205,6 +1228,7 @@ GirlsLastTour
 glasgow
 GlobalOffensive
 Glocks
+Gloomhaven
 GlowUps
 glutenfree
 GME
@@ -1225,6 +1249,7 @@ GoNets
 GoodAssSub
 goodboomerhumor
 GoodFakeTexts
+gorillaz
 GothGirls
 GothStyle
 grandorder
@@ -1238,6 +1263,7 @@ greatestgen
 greatpyrenees
 greebles
 GreenAndPleasant
+GreenBayPackers
 GregDoucette
 Greyhounds
 GriefSupport
@@ -1286,6 +1312,7 @@ harborfreight
 Hardcore
 HardcoreNature
 hardimages
+harvestmoon
 Hasan_Piker
 HauntedMound
 haydenpanettiere
@@ -1304,6 +1331,7 @@ HellLetLoose
 Helltaker
 HelluvaBoss
 Helluvabossmemes
+HelpMeFind
 HermanCainAward
 HermitCraft
 hermitcraftmemes
@@ -1339,6 +1367,7 @@ Holostars
 HolUp
 Home
 HomeDecorating
+homegym
 homelab
 homestead
 homestuck
@@ -1382,6 +1411,7 @@ iamatotalpieceofshit
 IAmTheMainCharacter
 IASIP
 ibs
+IceCreamWaifu
 ich_iel
 ididnthaveeggs
 idiocracy
@@ -1403,6 +1433,7 @@ Im15AndThisIsYeet
 ImaginaryCharacters
 ImaginaryDragons
 imaginaryelections
+ImaginaryHorrors
 ImaginaryJedi
 ImaginaryLandscapes
 ImaginaryLeviathans
@@ -1434,12 +1465,14 @@ indianews
 IndianFootball
 Indiangirlsontinder
 IndianHipHopHeads
+indianmemer
 IndianMeyMeys
 IndiaNostalgia
 IndianTeenagers
 indiasocial
 IndiaSpeaks
 IndieDev
+indieheadscirclejerk
 indonesia
 IndoorGarden
 INDYCAR
@@ -1461,6 +1494,7 @@ intermittentfasting
 internet_funeral
 inthenews
 Invincible
+Invisalign
 ios
 iphone
 ipl
@@ -1471,6 +1505,7 @@ ironscape
 IronWarriors
 IrrationalMadness
 islam
+ITAGLIA
 Italia
 italy
 ITCareerQuestions
@@ -1494,6 +1529,7 @@ JDM
 JEENEETards
 Jeep
 JeffArcuri
+Jennamarbles
 JennaOrtega_
 jennie
 JenniferLawrence
@@ -1526,11 +1562,14 @@ JustMonika
 justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
+Juve
 k_on
 KafkaMains
 kaiserredux
 Kaiserreich
 KamenRider
+KamenRiderMemes
+kansascity
 KansasCityChiefs
 Kanye
 KarenFukuhara
@@ -1563,6 +1602,7 @@ KiraKosarin
 Kirby
 kittens
 Kitting
+kiwisavengers
 KneadyCats
 knifeclub
 KoboldLegion
@@ -1644,6 +1684,7 @@ linguisticshumor
 Link_Dies
 LinkedInLunatics
 LinusTechTips
+linux
 LittleNightmares
 LittlestPetShop
 LiveFromNewYork
@@ -1658,6 +1699,7 @@ lookyourbest
 loopringorg
 LordofTheMysteries
 lordoftherings
+loreofleague
 loseit
 lostarkgame
 lostpause
@@ -1710,6 +1752,7 @@ Maltipoo
 ManchesterUnited
 MandJTV
 manhwa
+ManufacturingPorn
 Maplestory
 MapPorn
 mapporncirclejerk
@@ -1744,6 +1787,7 @@ mbtimemes
 Mcat
 MCFC
 McMansionHell
+MDEnts
 me_irlgbt
 MealPrepSunday
 MechanicAdvice
@@ -1774,6 +1818,7 @@ MEOW_IRL
 MercyMains
 metalgearsolid
 MetalMemes
+metro
 Metroid
 mew_irl
 mexico
@@ -1811,6 +1856,8 @@ minipainting
 minnesota
 minnesotatwins
 minnesotavikings
+MirandaCosgrove
+MissLaineyWilson
 missouri
 MixedRaceGirls
 Mizkif
@@ -1839,6 +1886,7 @@ MonsterHunter
 MonsterHunterWorld
 Monterrey
 MoonPissing
+mordheim
 moreplatesmoredates
 MoriCalliope
 Morrowind
@@ -1868,6 +1916,7 @@ murdermittens
 MURICA
 Muse
 Music
+Mustang
 MxRMods
 MyChemicalRomance
 mycology
@@ -1927,6 +1976,7 @@ Netherlands
 Nevada
 NewDealAmerica
 NewGreentexts
+newhampshire
 NewIran
 NewJeans
 newjersey
@@ -1988,6 +2038,7 @@ notmycat
 NotMyJob
 nottheonion
 nova
+nowmycat
 nrl
 NRLPremiumPlus
 nukedmemes
@@ -2097,17 +2148,20 @@ PaigeSpiranac
 painting
 PakiGentlemenBoner
 pakistan
+Paladins
 Palestine
 PallasCats
 PampamilyangPaoLUL
 PandR
 pansexmothwhorehouse
+papermario
 ParadoxExtra
 Paramore
 Paranormal
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
+ParkJihyo
 ParlerWatch
 parrots
 PartyParrot
@@ -2264,7 +2318,9 @@ punk
 Punny
 puns
 puppies
+puppy101
 PuppySmiles
+PvZHeroes
 pyrocynical
 QAnonCasualties
 qotsa
@@ -2273,6 +2329,7 @@ Quebec
 quilting
 quityourbullshit
 Qult_Headquarters
+QuotesPorn
 Rabbits
 Rachel_Pizzolato
 radiohead
@@ -2379,6 +2436,7 @@ RoughRomanMemes
 RoyaleHigh_Roblox
 RPClipsGTA
 rpg
+rpghorrorstories
 RTGameCrowd
 rugbyunion
 runescape
@@ -2455,6 +2513,7 @@ selfie
 SelfieOver25
 sendinthetanks
 seniorkitties
+Sephora
 seraphon
 serbia
 serbiancringe
@@ -2483,6 +2542,7 @@ ShitMomGroupsSay
 ShitPoliticsSays
 ShitpostBR
 shitposting
+ShitpostTC
 ShitpostXIV
 Shitty_Car_Mods
 shittyaskscience
@@ -2509,11 +2569,13 @@ signalis
 SigSauer
 silenthill
 Silmarillionmemes
+SiloSeries
 SilverDegenClub
 silverhair
 simpsonsshitposting
 simracing
 Sims3
+Simulated
 singapore
 singaporehappenings
 singularity
@@ -2563,6 +2625,7 @@ SommerRay
 SonicTheHedgehog
 SonoBisqueDoll
 SonyAlpha
+Soosh
 southcarolina
 space
 SpaceCannibalism
@@ -2578,6 +2641,7 @@ SpecOpsArchive
 SpeedOfLobsters
 speedrun
 sphynx
+spicy
 spiderbro
 Spiderman
 SpidermanPS4
@@ -2609,11 +2673,13 @@ starsector
 starterpacks
 StartledCats
 startrekmemes
+StarTrekStarships
 StarWars
 StarWarsBattlefront
 starwarsblackseries
 StarWarsCantina
 starwarscollecting
+StarWarsleftymemes
 starwarsmemes
 Staryuukisincensura
 steak
@@ -2680,10 +2746,12 @@ SWORDS
 SwordsComic
 swtor
 SydneySweeney
+SympatheticMonsters
 synthesizers
 sysadmin
 systemofadown
 TabbyCats
+tacobell
 Tacoma
 tacticalgear
 Takagi_san
@@ -2757,8 +2825,10 @@ TheBear
 TheBidenshitshow
 thebindingofisaac
 TheBoys
+thecampaigntrail
 TheCapitalLink
 TheCatTrapIsWorking
+TheCivilService
 thecringeshowaward
 TheCure
 thedavidpakmanshow
@@ -2770,8 +2840,10 @@ TheExpanse
 TheFarSide
 thefighterandthekid
 TheGirlSurvivalGuide
+TheGrittyPast
 TheLastAirbender
 thelastofus
+TheLeftCantMeme
 TheLetterH
 TheLib
 TheMajorityReport
@@ -2802,6 +2874,7 @@ TheWalkingDeadGame
 TheWayWeWere
 TheWeeknd
 thewestwing
+TheWire
 TheYardPodcast
 theydidthemath
 theyknew
@@ -2811,6 +2884,7 @@ Thisisimportantpod
 thisismylifenow
 ThisLooksFun
 thomastheplankengine
+ThriftGrift
 thugeshh
 Thunder
 tifu
@@ -2830,6 +2904,7 @@ titanfall
 titanic
 tjournal_refugees
 TLCsisterwives
+TMKOC
 TMNT
 TNG
 TNOmod
@@ -2847,6 +2922,7 @@ toolgifs
 Tools
 TopMindsOfReddit
 toradora
+Torontobluejays
 torontoraptors
 torties
 TotalKalesh
@@ -2855,6 +2931,7 @@ totalwarhammer
 TOTK
 TouchThaFishy
 touhou
+tourdefrance
 traaaaaaannnnnnnnnns2
 traditionaltattoos
 tragedeigh
@@ -2975,6 +3052,7 @@ veganrecipes
 vegetablegardening
 velvethippos
 venturebros
+Vermintide
 vermont
 vexillology
 vexillologycirclejerk
@@ -2999,6 +3077,7 @@ Virginia
 virginvschad
 visualnovels
 Vocaloid
+Volvo
 VoteDEM
 VShojo
 walkaway
@@ -3012,6 +3091,7 @@ Warframe
 Warhammer
 Warhammer30k
 Warhammer40kEsp
+WarhammerCompetitive
 WarhammerFantasy
 WarplanePorn
 warriors
@@ -3023,6 +3103,7 @@ Watches
 Watchexchange
 WatchPeopleDieInside
 Watercolor
+watercooling
 WeaponsMoe
 webdev
 wec
@@ -3065,6 +3146,7 @@ whitepeoplegifs
 WhitePeopleTwitter
 wholesome
 wholesome_girls
+wholesomebpt
 wholesomegreentext
 wholesomememes
 WhyWomenLiveLonger
@@ -3110,6 +3192,7 @@ WRX
 WTF
 wtfstockphotos
 wunkus
+ww2
 WWE
 WWEGames
 wwiipics
