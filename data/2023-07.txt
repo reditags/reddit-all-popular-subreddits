@@ -78,6 +78,7 @@ ADHDinos
 ADHDmemes
 Adulting
 adultingph
+ADVChina
 adventuretime
 Advice
 AdviceAnimals
@@ -462,6 +463,7 @@ BlackCat
 blackcats
 Blackcelebrity
 BlackClover
+BlackCountryNewRoad
 blackdesertonline
 Blacklabs
 blackmagicfuckery
@@ -535,6 +537,7 @@ Botchedsurgeries
 botecodoreddit
 botw
 BOTW2
+boulder
 bouldering
 Boxer
 Boxers
@@ -646,6 +649,7 @@ CarsIndia
 Cartalk
 CarTalkUK
 cartoons
+cassettefuturism
 castiron
 castles
 CasualConversation
@@ -693,6 +697,7 @@ cavaliers
 CBSE
 CCW
 CelebEvents
+CelebPortraits
 celebrity_soles
 CelebrityFeet
 CelebsBootyTreasure
@@ -903,6 +908,7 @@ CrossStitch
 crowbro
 crows
 crtgaming
+Cruise
 CrusaderKings
 CryptoCurrency
 CryptoMoonShots
@@ -1130,6 +1136,7 @@ Drugs
 drumcorps
 drums
 dualipa
+Dublin
 DuelLinks
 DuggarsSnark
 DumpsterDiving
@@ -1153,6 +1160,7 @@ economy
 eddieandrichie
 Edelgard
 Edgerunners
+EDH
 Edinburgh
 EDM
 Edmonton
@@ -1319,6 +1327,7 @@ FlashTV
 FlexinLesbians
 flonkers
 Floof
+floorplan
 Florence_Pugh
 florida
 FlorkofCowsOfficial
@@ -1433,6 +1442,7 @@ Ganyu
 GarandThumb
 Gardevoir
 Garmin
+gastricsleeve
 Gatcat
 gatekeeping
 GatekeepingYuri
@@ -1490,6 +1500,7 @@ Gloryhammer
 GlowUps
 glutenfree
 GME
+gme_meltdown
 gmod
 goblincore
 GoblinSlayer
@@ -1594,6 +1605,7 @@ hardware
 harrypotter
 harvestmoon
 Hasan_Piker
+Hatfilms
 hatsune
 HauntedMound
 Hawaii
@@ -1686,6 +1698,7 @@ houkai3rd
 HouseMD
 HouseOfTheDragon
 houseplants
+HousingUK
 houston
 howto
 howyoudoin
@@ -1762,6 +1775,7 @@ ImFinnaGoToHell
 ImperialKnights
 imsorryjon
 ImTheMainCharacter
+inazumaeleven
 Incorgnito
 india
 IndiaCricket
@@ -1777,6 +1791,7 @@ IndianDankMemes
 IndianDefense
 IndianEnts
 indianews
+IndianFashionAddicts
 IndianFootball
 Indiangirlsontinder
 IndianHipHopHeads
@@ -1819,6 +1834,7 @@ internet_funeral
 InternetIsBeautiful
 internettoday
 inthenews
+introvertmemes
 investimentos
 Invincible
 Invisalign
@@ -1849,6 +1865,7 @@ itsalwayslowqltyvideo
 iwoulddiefornoodle
 Izlam
 Izmir
+jackass
 jackrussellterrier
 JackSucksAtLife
 jailbreak
@@ -1872,6 +1889,7 @@ JenniferLawrence
 JenniferLopez
 jerma985
 jerseyshore
+JessicaChastain
 Jewdank
 JhinMains
 jigokuraku
@@ -1894,6 +1912,7 @@ JRPG
 jschlatt
 jschlattsubmissions
 JSOCarchive
+JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
@@ -2024,6 +2043,7 @@ learnprogramming
 learntodraw
 leaves
 lebowski
+LeedsUnited
 legal
 legaladvicecanada
 LegalAdviceIndia
@@ -2070,6 +2090,7 @@ Link_Dies
 LinkedInLunatics
 LinusTechTips
 linux
+linux_gaming
 liseliler
 lithuania
 LittleNightmares
@@ -2284,6 +2305,7 @@ milwaukee
 Minecraftbuilds
 MinecraftChampionship
 Minecrafthmmm
+minecraftseeds
 MineIslam
 MineralPorn
 MINI
@@ -2492,6 +2514,7 @@ NonPoliticalTwitter
 nope
 NormMacdonald
 northernireland
+northernlion
 Norway
 NoSanaNoLife
 nosleep
@@ -2612,6 +2635,7 @@ OrlandoMagic
 OrphanCrushingMachine
 OSHA
 OshiNoKoMemes
+osp
 osugame
 OTMemes
 otomegames
@@ -2710,6 +2734,7 @@ phcareers
 phclassifieds
 PHCreditCards
 PhD
+PHhandsgonewild
 philadelphia
 Philippines
 phillies
@@ -3107,6 +3132,7 @@ SFWRedheads
 SGExams
 shadowofmordor
 Sham_Sharma_Show
+ShantelVanSanten
 sharks
 sheffield
 SheGotHands
@@ -3190,6 +3216,7 @@ SlavaUkrayini
 slaythespire
 SleepToken
 Slipknot
+sloths
 Slovakia
 Slovenia
 slowcooking
@@ -3246,6 +3273,7 @@ speedrun
 sphynx
 SpiceandWolf
 spicy
+SpicyKittens
 spiderbro
 Spiderman
 SpidermanPS4
@@ -3536,6 +3564,7 @@ ThriftStoreCats
 thugeshh
 thumbcats
 Thunder
+tiedye
 tifu
 TIGHTPUSSY
 TikTokCringe
@@ -3554,6 +3583,7 @@ titanfall
 titanic
 tjournal_refugees
 TLCsisterwives
+TLCUnexpected
 TMKOC
 TMNT
 TNG
@@ -3820,6 +3850,7 @@ Weird
 weirddalle
 Welding
 Wellington
+Wellworn
 wendigoon
 WestHighlandTerriers
 westies
@@ -3858,6 +3889,7 @@ wholesomegifs
 wholesomegreentext
 wholesomememes
 WhyWomenLiveLonger
+WidacZabory
 WiggleButts
 wikipedia
 wildlifephotography
@@ -3865,6 +3897,7 @@ wildrift
 WingsOfFire
 winnipegjets
 WinStupidPrizes
+wiredpeople
 wirklichgutefrage
 wisconsin
 witcher
@@ -3883,6 +3916,7 @@ WorkersStrikeBack
 WorkReform
 Worldbox
 worldbuilding
+WorldEaters40k
 worldjerking
 worldnews
 worldnewsvideo
