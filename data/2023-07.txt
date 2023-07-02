@@ -67,6 +67,7 @@ acotar
 ACPocketCamp
 ActionFigures
 ActivationSound
+actu_memes
 actuallesbians
 ActualPublicFreakouts
 AddisonRae
@@ -476,6 +477,7 @@ BlackClover
 BlackCountryNewRoad
 blackdesertonline
 Blacklabs
+blacklagoon
 blackmagicfuckery
 BlackPeopleComedy
 blackpeoplegifs
@@ -546,6 +548,7 @@ bostonceltics
 BostonTerrier
 Botchedsurgeries
 botecodoreddit
+bottlebrush
 botw
 BOTW2
 boulder
@@ -1339,6 +1342,7 @@ fireemblem
 FireEmblemHeroes
 FireEmblemThreeHouses
 Firefighting
+firefly
 FirePunch
 firstimpression
 FirstResponderCringe
@@ -1398,6 +1402,7 @@ foxholegame
 france
 FrankOcean
 Frasier
+Frat
 FreckledGirls
 FreeCompliments
 FreedomofRussia
@@ -1460,6 +1465,7 @@ gamegrumps
 gameofthrones
 GamePhysics
 gamesEcultura
+GameStop
 GameTheorists
 gamindustri
 gaming
@@ -1543,6 +1549,7 @@ godtiersuperpowers
 GODZILLA
 Godzillamemes
 gojira
+Gold
 GoldCoast
 Goldendoodles
 goldenknights
@@ -1692,6 +1699,7 @@ hmm
 hmmm
 hockey
 hoggit
+hogwartslegacyJKR
 hoi4
 HOI4memes
 holdmycosmo
@@ -1722,6 +1730,7 @@ HonkaiStarRail_leaks
 HonzukiNoGekokujou
 hopeposting
 Horimiya
+horizon
 Hornyjail
 horror
 Horses
@@ -1849,6 +1858,7 @@ INDYCAR
 Infinity_For_Reddit
 InfowarriorRides
 infp
+InfrastructurePorn
 initiald
 InlovewithKarengillan
 insaneparents
@@ -1906,6 +1916,7 @@ Izlam
 Izmir
 jackass
 jackrussellterrier
+jacksonville
 JackSucksAtLife
 jailbreak
 jakanddaxter
@@ -2071,6 +2082,7 @@ lastimages
 LasVegas
 LateStageCapitalism
 LatinoPeopleTwitter
+LauraMarano
 law
 lawncare
 LawSchool
@@ -2126,6 +2138,7 @@ LifeProTips
 LigaMX
 LilGrabbies
 liluzivert
+LilyChee18
 limbuscompany
 LiminalSpace
 lingling40hrs
@@ -2450,6 +2463,7 @@ MySingingMonsters
 MysteriousFacts
 MysteryDungeon
 mythologymemes
+n64
 N_N_N
 NAFO
 nagatoro
@@ -2581,6 +2595,7 @@ nothingeverhappens
 NotHowGirlsWork
 NotHowGuysWork
 notinteresting
+notjustbikes
 NotKenM
 notliketheothergirls
 notmycat
@@ -2828,6 +2843,7 @@ Piratefolk
 PiratePets
 PitBullOwners
 pitbulls
+pitbulls_in_partyhats
 pittsburgh
 PixelArt
 Pizza
@@ -2896,9 +2912,11 @@ povertyfinance
 powerrangers
 powerwashingporn
 PraiseTheCameraMan
+Predators
 PrehistoricMemes
 Prematurecelebration
 PremierLeague
+preppers
 PrequelMemes
 Presidents
 PrettyGirls
@@ -2988,6 +3006,7 @@ reactivedogs
 real_China_irl
 realasians
 realbikinis
+realestateinvesting
 reallifedoodles
 ReallyShittyCopper
 realmadrid
@@ -3023,6 +3042,7 @@ redsox
 regretfulparents
 regularcarreviews
 regularshow
+relacionamentos
 relationship_advice
 RelayForReddit
 religiousfruitcake
@@ -3351,6 +3371,7 @@ spiderbro
 Spiderman
 SpidermanPS4
 spiders
+spiderversedailymemes
 spongebob
 sports
 sportsbetting
@@ -3886,6 +3907,7 @@ Volvo
 VoteDEM
 VShojo
 vtolvr
+WagnerVsRussia
 walkaway
 wallpaper
 wallstreetbets
@@ -4087,6 +4109,7 @@ ZeLink
 Zendaya
 ZenyattaMains
 zerobaseone
+ZeroCovidCommunity
 zfam
 zillakami
 zillowgonewild
