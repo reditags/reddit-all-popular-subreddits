@@ -89,6 +89,7 @@ AFL
 agedlikemilk
 agedtattoos
 ageofsigmar
+ahmedabad
 AIDKE
 airplaneears
 airpods
@@ -153,6 +154,7 @@ AnimalMemes
 AnimalsBeingBros
 AnimalsBeingDerps
 AnimalsBeingGeniuses
+AnimalsBeingJerks
 AnimalsBeingMoms
 AnimalsBeingStrange
 animalsdoingstuff
@@ -283,6 +285,7 @@ AusFinance
 AusMemes
 australia
 AustralianCattleDog
+AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
 australianwildlife
@@ -452,6 +455,7 @@ blackstonegriddle
 BlackTemplars
 bladerunner
 BLAHAJ
+blahajworshipers
 BlatantMisogyny
 bleach
 blender
@@ -988,6 +992,7 @@ DerryGirls
 DerScheisser
 Design
 DesignPorn
+DesiMeta
 DesiVideoMemes
 Destiny
 destiny2
@@ -1111,6 +1116,7 @@ Economics
 economy
 Edelgard
 Edgerunners
+Edinburgh
 EDM
 Edmonton
 educationalgifs
@@ -1217,11 +1223,13 @@ fashion
 fashionhistory
 FashionReps
 fasting
+Fate
 fatestaynight
 Fauxmoi
 FCInterMilan
 feedthebeast
 feedthememes
+FellowKids
 FemaleAntinatalism
 femalefashion
 FemaleHub
@@ -1285,6 +1293,7 @@ food
 foodhacks
 FoodPorn
 foodsafety
+football
 footballmanagergames
 forbiddensnacks
 FordBronco
@@ -1525,6 +1534,7 @@ handbags
 handtools
 Handwriting
 happycowgifs
+happycrowds
 happycryingdads
 HappyWoofGifs
 harborfreight
@@ -1734,6 +1744,7 @@ InlovewithKarengillan
 insaneparents
 insanepeoplefacebook
 insanereality
+inscryption
 insects
 InsideJob
 instacart
@@ -2078,6 +2089,7 @@ MalluBabes
 Maltese
 Maltipoo
 ManchesterUnited
+MandirGang
 MandJTV
 manhwa
 ManufacturingPorn
@@ -2141,6 +2153,7 @@ MemeHunter
 MemePiece
 memes
 Memes_Of_The_Dank
+memesdecentralises
 memesITA
 memesopdidnotlike
 MemeVideos
@@ -2336,6 +2349,7 @@ netflix
 NetflixBestOf
 Netherlands
 Nevada
+Neverbrokeabone
 nevertellmetheodds
 NevilleGoddard
 NewDealAmerica
@@ -2588,6 +2602,7 @@ PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
 Perfectfit
+perfectloops
 PerfectlyCutBooms
 Persecutionfetish
 PERSoNA
@@ -3122,6 +3137,7 @@ spaceporn
 SpaceWolves
 SpaceXLounge
 SpaceXMasterrace
+spain
 SpanishMeme
 specializedtools
 SpecOpsArchive
@@ -3368,6 +3384,7 @@ TheMcDojoLife
 thenetherlands
 TheNightFeeling
 TheNinthHouse
+theocho
 TheOdysseyHadAPurpose
 TheOnion
 TheoVon
@@ -3492,6 +3509,7 @@ Trophies
 Truckers
 trucksim
 TrueAnon
+TrueCrime
 TrueCrimeDiscussion
 truegaming
 truerateme
@@ -3824,6 +3842,7 @@ ZeducationSubmissions
 zelda
 ZeldaIsCute
 ZeldaMemes
+ZeldaTearsOfKingdom
 Zelina_Vega
 ZeLink
 Zendaya
