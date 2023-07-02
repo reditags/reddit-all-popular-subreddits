@@ -60,6 +60,7 @@ AccidentalSlapStick
 ACCompetizione
 Accounting
 AccuratelyRateMe
+AceAttorney
 ACMilan
 acotar
 ACPocketCamp
@@ -185,6 +186,7 @@ Anticonsumption
 antifastonetoss
 antimeme
 antiMLM
+Antimoneymemes
 antinatalism
 Antiques
 antitheistcheesecake
@@ -574,6 +576,7 @@ Bulldogs
 BullTerrier
 Bumble
 buncomfortable
+Bundesliga
 bundeswehr
 Bunnies
 burdurland
@@ -1232,6 +1235,7 @@ feedthememes
 FellowKids
 FemaleAntinatalism
 femalefashion
+femalehairadvice
 FemaleHub
 femalelivingspace
 femboy
@@ -1391,6 +1395,7 @@ gamingnews
 Ganyu
 GarandThumb
 Gardevoir
+Garmin
 Gatcat
 gatekeeping
 GatekeepingYuri
@@ -1434,6 +1439,7 @@ gifsthatkeepongiving
 gijoe
 GillianAnderson
 gingercats
+Gintama
 girlsfrontline
 GirlsLastTour
 gis
@@ -1533,6 +1539,7 @@ Hammers
 handbags
 handtools
 Handwriting
+HannibalTV
 happycowgifs
 happycrowds
 happycryingdads
@@ -1547,6 +1554,7 @@ harvestmoon
 Hasan_Piker
 hatsune
 HauntedMound
+Hawaii
 hawks
 haydenpanettiere
 HayleyAtwell
@@ -1724,6 +1732,7 @@ indianews
 IndianFootball
 Indiangirlsontinder
 IndianHipHopHeads
+indianmedschool
 indianmemer
 IndianMemeTemplates
 IndianMeyMeys
@@ -1882,6 +1891,7 @@ KGATLW
 KGBTR
 khalyla
 Kibbe
+KidsAreFuckingEvil
 KiernanShipka
 KillLaKill
 killsixbilliondemons
@@ -2376,6 +2386,7 @@ nflcirclejerk
 nhl
 Ni_Bondha
 Nicegirls
+niceguys
 NicolaCavanis
 nier
 Nightwing
@@ -2696,6 +2707,7 @@ PoliticalCompassMemes
 PoliticalHumor
 PoliticalMemes
 politics
+PoliticsPeopleTwitter
 Polska
 Polska_wpz
 Pomeranians
@@ -2892,6 +2904,7 @@ romemes
 Roofing
 RoomPorn
 rose
+Rotterdam
 Rottweiler
 roughcollies
 RoughRomanMemes
@@ -3018,6 +3031,7 @@ ShenheMains
 ShermanPosting
 shiba
 SHIBArmy
+shieldbro
 Shihtzu
 ShikimoriIsntJustCute
 ShingekiNoKyojin
@@ -3303,6 +3317,7 @@ tbatenovel
 Teachers
 TeamfightTactics
 tech
+tech1e
 technews
 technicallythetruth
 Technoblade
@@ -3356,6 +3371,7 @@ thecampaigntrail
 TheCapitalLink
 TheCatTrapIsWorking
 TheCivilService
+TheClickOwO
 thecringeshowaward
 TheCure
 thedavidpakmanshow
@@ -3638,6 +3654,7 @@ videogamedunkey
 videogames
 videomemes
 videos
+VietNam
 Vindicta
 Vinesauce
 vintage
@@ -3657,6 +3674,7 @@ Volumeeating
 Volvo
 VoteDEM
 VShojo
+vtolvr
 walkaway
 wallpaper
 wallstreetbets
@@ -3791,10 +3809,12 @@ WTF
 wtfstockphotos
 wunkus
 ww2
+ww2memes
 WWE
 WWEGames
 wwiipics
 WWIIplanes
+X4Foundations
 xbiking
 xbox
 xbox360
