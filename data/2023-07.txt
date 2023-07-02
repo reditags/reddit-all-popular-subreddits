@@ -63,6 +63,7 @@ Accounting
 AccuratelyRateMe
 AceAttorney
 ACMilan
+acnh
 acotar
 ACPocketCamp
 ActionFigures
@@ -236,6 +237,7 @@ argentina
 ArgentinaBenderStyle
 ariheads
 ARK
+Arkansas
 arknights
 ArlecchinoMains
 arma
@@ -538,6 +540,7 @@ bookshelf
 BoostForReddit
 boottoobig
 BorderCollie
+Borderlands2
 BorderTerrier
 BORUpdates
 Boruto
@@ -612,6 +615,7 @@ buildapc
 buildapcsales
 bulgaria
 Bulldogs
+bulletjournal
 BullTerrier
 Bumble
 buncomfortable
@@ -740,6 +744,7 @@ Chainsawfolk
 ChainsawMan
 chainsawmancirclejerk
 Championship
+ChampionshipHistory
 Chaos40k
 chaoticgood
 CharacterAI
@@ -853,6 +858,7 @@ comicbookcollecting
 comicbookmovies
 comicbooks
 comics
+commandandconquer
 CommunismMemes
 CompetitiveApex
 CompetitiveHalo
@@ -989,6 +995,7 @@ dankruto
 dankvideos
 DanMachi
 DannyGonzalez
+DarceyAndStaceyTLC
 Daredevil
 daria
 DarkAcademia
@@ -1213,6 +1220,7 @@ Embroidery
 Eminem
 Emiru_Lewd
 EmmaJones
+EmmaLangevin
 EmmaMyers
 EmmaRoseKenney
 EmmaStone
@@ -1241,6 +1249,8 @@ Eragon
 EscapefromTarkov
 esist
 EssendonFC
+ESTILOZAP
+Ethelcain
 ethoslab
 EtikaRedditNetwork
 eu4
@@ -1452,6 +1462,7 @@ fut
 futebol
 futurama
 Futurology
+fuufuijou
 GAA
 GachaClub
 gachagaming
@@ -1623,6 +1634,7 @@ Habs
 HadesTheGame
 HadToHurt
 HaileeSteinfeld
+HairDye
 HalfLife
 halifax
 halloween
@@ -1820,6 +1832,7 @@ ImaginaryWarhammer
 ImaginaryWesteros
 ImFinnaGoToHell
 ImperialKnights
+ImpracticalJokers
 imsorryjon
 ImTheMainCharacter
 inazumaeleven
@@ -1986,6 +1999,7 @@ kallmekris
 KamenRider
 KamenRiderMemes
 KamikazeByWords
+KanojoOkarishimasu
 kansascity
 KansasCityChiefs
 Kanye
@@ -2066,6 +2080,7 @@ LadiesOfDisneyChannel
 ladiesofthemcu
 LadiesOfWrestling
 ladyladyboners
+Laesterschwestern
 Lain
 lakers
 Lalisa
@@ -2297,8 +2312,10 @@ MDEnts
 me_irlgbt
 MealPrepSunday
 MechanicAdvice
+MechanicalKeyboards
 MedicalGore
 medizzy
+Megadeth
 megalophobia
 Megaman
 MeganFox
@@ -2551,6 +2568,7 @@ niceguys
 NicolaCavanis
 nier
 Nightwing
+nightwish
 Nijisanji
 NikkeMobile
 NikkeOutpost
@@ -2748,6 +2766,7 @@ PampamilyangPaoLUL
 PandR
 pansexmothwhorehouse
 pansexual
+Papaplatte
 papermario
 papermoney
 ParadoxExtra
@@ -2822,6 +2841,7 @@ PhilosophyTube
 phoebebridgers
 phoenix
 PhoenixSC
+photographs
 photoshopbattles
 PhotoshopRequest
 physicsgifs
@@ -2840,6 +2860,7 @@ PinkFloydCircleJerk
 Piracy
 PiratedGames
 Piratefolk
+PirateKitties
 PiratePets
 PitBullOwners
 pitbulls
@@ -2957,6 +2978,7 @@ puns
 puppies
 puppy101
 PuppySmiles
+PurplePillDebate
 purrkour
 PvZGardenWarfare
 PvZHeroes
@@ -3067,6 +3089,7 @@ retrogaming
 ReversePinterest
 Revolvers
 RheaRipley
+rhonj
 rickandmorty
 rickygervais
 RighteousGemstones
@@ -3236,6 +3259,7 @@ Shihtzu
 ShikimoriIsntJustCute
 ShingekiNoKyojin
 ShinyPokemon
+Shinypreciousgems
 ShitLiberalsSay
 ShitMomGroupsSay
 ShitPoliticsSays
@@ -3330,6 +3354,7 @@ snowboarding
 snowrunner
 SnyderCut
 soccercirclejerk
+socialanxiety
 socialism
 SocialismIsCapitalism
 SocialistRA
@@ -3703,6 +3728,7 @@ tooktoomuch
 ToolBand
 toolgifs
 Tools
+TooMeIrlForMeIrl
 toontownrewritten
 TopMindsOfReddit
 toradora
@@ -3748,6 +3774,7 @@ trippy
 TrollCoping
 tron
 Trophies
+TruckerCats
 Truckers
 trucksim
 TrueAnon
