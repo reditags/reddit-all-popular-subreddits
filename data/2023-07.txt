@@ -317,6 +317,7 @@ AteistTurk
 AteTheOnion
 atheism
 ATLA
+Atlanta
 AtlantaHawks
 AtlantaTV
 AtlantaUnited
@@ -722,6 +723,7 @@ casio
 cassettefuturism
 castiron
 castles
+castlevania
 CasualConversation
 CasualPT
 CasualRO
@@ -846,6 +848,7 @@ ChurchOfKasumi
 ChurchofMarnie
 chutyapa
 CICO
+cigars
 cincinnati
 Cinemagraphs
 CineShots
@@ -1031,6 +1034,7 @@ CustomPlayerCutscene
 cute
 cuteguys
 cuteguyswithcats
+cutenoobs
 Cyberpunk
 cyberpunkgame
 cybersecurity
@@ -1306,6 +1310,7 @@ Eldenring
 ElderScrolls
 elderscrollsonline
 electrical
+ElectricalEngineering
 ElectricForest
 electricians
 ElectroBOOM
@@ -1413,6 +1418,7 @@ falloutnewvegas
 Falschparker
 familyguy
 FamosasTugas
+FamousLatinas
 FanFiction
 FansHansenvsPredator
 fantanoforever
@@ -1520,6 +1526,7 @@ footballmanagergames
 foraging
 forbiddensnacks
 FordBronco
+foreverplayer
 ForgottenWeapons
 forhonor
 FormulaBuddyRetard
@@ -1541,6 +1548,7 @@ fourthwavewomen
 foxes
 foxholegame
 fpv
+FragileWhiteRedditor
 francais
 france
 FrankOcean
@@ -2246,6 +2254,7 @@ kittens
 Kitting
 kittyhasaquestion
 kiwisavengers
+Klimagerechtigkeit
 KneadyCats
 knifeclub
 KnowledgeFight
@@ -2526,6 +2535,7 @@ mathmemes
 matureplants
 MauLer
 Mavericks
+maximalism
 maybemaybemaybe
 MayDayStrike
 mazda
@@ -3131,6 +3141,7 @@ phish
 phoebebridgers
 phoenix
 PhoenixSC
+photocritique
 photographs
 photoshopbattles
 PhotoshopRequest
@@ -3348,6 +3359,7 @@ reddeadredemption2
 reddevils
 RedditAlternatives
 RedditForGrownups
+redditfusion
 RedditLaqueristas
 redditmobile
 redditonwiki
@@ -3881,6 +3893,7 @@ talesfromtechsupport
 TalesFromTheFrontDesk
 TalesFromYourServer
 talk_hunfluencers
+tall
 tallyhall
 tamagotchi
 TamannaBhatia
@@ -3983,6 +3996,7 @@ TheFarSide
 thefighterandthekid
 TheGirlSurvivalGuide
 thegrandtour
+TheGriffonsSaddlebag
 TheGrittyPast
 theidol
 theisle
@@ -4376,6 +4390,7 @@ Weiland
 weimaraner
 Weird
 weirddalle
+WeirdWheels
 Welding
 Wellington
 Wellworn
