@@ -100,6 +100,7 @@ AFCEastMemeWar
 AFCNorthMemeWar
 afkarena
 AFL
+AfterEffects
 agedlikemilk
 agedtattoos
 ageofsigmar
@@ -873,6 +874,7 @@ ClevelandGuardians
 clevercomebacks
 climate
 climbergirls
+ClimbingCircleJerk
 clonehigh
 CloneWarsMemes
 CLOUDS
@@ -1000,7 +1002,10 @@ crows
 crtgaming
 Cruise
 CrusaderKings
+Crypto_com
+Crypto_General
 CryptoCurrency
+CryptoIndia
 CryptoMoonShots
 Cryptozoology
 Crystals
@@ -1263,6 +1268,7 @@ DungeonCrawlerCarl
 DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
+dwarffortress
 dyinglight
 DylanteroYT
 DynastyFF
@@ -1346,6 +1352,7 @@ ESTILOZAP
 estoration
 Ethelcain
 ethoslab
+ethtrader
 EtikaRedditNetwork
 eu4
 eu_nvr
@@ -1372,6 +1379,7 @@ ExpectationVsReality
 ExperiencedDevs
 explainlikeimfive
 ExplainTheJoke
+ExtraFabulousComics
 ExtremeCarCrashes
 extremelyinfuriating
 Eyebleach
@@ -1678,6 +1686,7 @@ gluesniffer
 glutenfree
 GME
 gme_meltdown
+GMEJungle
 gmod
 goats
 goblincore
@@ -1732,6 +1741,7 @@ greatpyrenees
 greebles
 GreenAndPleasant
 GreenBayPackers
+greenday
 GregDoucette
 Grey_Knights
 Greyhounds
@@ -1925,6 +1935,7 @@ HuTao_Mains
 HVAC
 hyderabad
 HydroHomies
+hydrokitties
 hyenas
 hyouka
 HypixelSkyblock
@@ -2139,6 +2150,7 @@ Jokes
 Jord627_
 JordanPeterson
 Journaling
+jovemnerd
 JoyTaylor
 jpegmafia
 JRPG
@@ -2308,6 +2320,7 @@ lego
 legocastles
 legostarwars
 LegoStarWarsLeaks
+LegoStarWarsVideoGame
 LEGOtrains
 lele_pons
 LEMMiNO
@@ -2613,6 +2626,7 @@ Mipha
 MirandaCosgrove
 missbo
 mississauga
+mississippi
 MissLaineyWilson
 missouri
 Mistborn
@@ -2755,6 +2769,7 @@ necromunda
 Necrontyr
 nederlands
 needforspeed
+neekolul
 neopets
 neovim
 Nepal
@@ -2811,6 +2826,7 @@ Ningen
 NingguangMains
 NinjagoMemes
 NinomaeInanis
+nintendo
 NintendoMemes
 NintendoStitch
 NintendoSwitch
@@ -2911,6 +2927,7 @@ OKbuddyHalfLife
 okbuddyHRetard
 OkBuddyPersona
 okbuddyphd
+okbuddyrathalos
 okbuddyreiner
 okbuddyreze
 okbuddyrosalyn
@@ -3020,6 +3037,7 @@ papermario
 papermoney
 ParadoxExtra
 paradoxplaza
+Parahumans
 Paramore
 Paranormal
 PardonMyTake
@@ -3161,6 +3179,7 @@ PokemonSwordAndShield
 PokemonTCG
 PokemonUnite
 poker
+pokerrrr2
 poland
 polandball
 Political_Revolution
@@ -3220,6 +3239,7 @@ projectzomboid
 prolife
 PropagandaPosters
 ProperAnimalNames
+proplifting
 ProRevenge
 protogen
 PS3
@@ -3296,6 +3316,7 @@ realasians
 realbikinis
 realestateinvesting
 reallifedoodles
+RealLifeShinies
 ReallyShittyCopper
 realmadrid
 RealTesla
@@ -3335,6 +3356,7 @@ relationship_advice
 RelationshipMemes
 RelayForReddit
 religiousfruitcake
+remix
 Reno
 rentnerzeigenaufdinge
 repbudgetsneakers
@@ -3362,6 +3384,7 @@ rhonj
 rickandmorty
 rickygervais
 RighteousGemstones
+RightJerk
 Rihanna
 rimjob_steve
 Rimuru
@@ -4252,6 +4275,7 @@ vintageaudio
 VintageFashion
 vinyl
 vinyljerk
+VioletEvergarden
 Virginia
 virginvschad
 virtualreality
@@ -4264,6 +4288,7 @@ VolleyballGirls
 Volumeeating
 Volvo
 VoteDEM
+VRchat
 VShojo
 vtmb
 vtolvr
@@ -4466,6 +4491,7 @@ YouBelongWithMemes
 youdontsurf
 YoujoSenki
 youngjustice
+youngpeopleyoutube
 YoungThug
 YouniquePresenterMS
 YouOnLifetime
