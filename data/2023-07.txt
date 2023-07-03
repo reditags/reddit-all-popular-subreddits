@@ -702,6 +702,7 @@ canberra
 CaneCorso
 canes
 cannabiscultivation
+CannedSardines
 canucks
 CapitalismSux
 CapitolConsequences
@@ -761,6 +762,7 @@ catsofukraine
 CatsOnCats
 catsonglass
 CatsStandingUp
+CatsWhoChirp
 CatsWhoSqueak
 catswhotrill
 Catswhoyell
@@ -981,6 +983,7 @@ craftsnark
 CrappyDesign
 crappyoffbrands
 CrazyFuckingVideos
+CreateMod
 CreationNtheUniverse
 creepyasterisks
 creepyPMs
@@ -1185,10 +1188,12 @@ diablo4
 DidntKnowIWantedThat
 digimon
 DigitalArt
+DigitalPainting
 Dimension20
 DINgore
 Dinosaurs
 discgolf
+discgolfcirclejerk
 DiscoElysium
 discordapp
 Discordmemes
@@ -1283,6 +1288,7 @@ dwarffortress
 dyinglight
 DylanteroYT
 DynastyFF
+earlsweatshirt
 earthbound
 EarthPorn
 Earwolf
@@ -1774,6 +1780,7 @@ gtaonline
 GuardianTales
 GUIBELREVIEWS
 Guildwars2
+GuiltyDogs
 Guiltygear
 guineapigs
 guitarcirclejerk
@@ -1796,6 +1803,7 @@ GymMemes
 GymMotivation
 gymsnark
 h3h3productions
+H3VR
 Habs
 HadesTheGame
 HadToHurt
@@ -2112,6 +2120,7 @@ itsalwayslowqltyvideo
 IttoMains
 ITZY
 IVE
+IVF
 iwoulddiefornoodle
 Izlam
 Izmir
@@ -2239,6 +2248,7 @@ KiernanShipka
 KillLaKill
 killsixbilliondemons
 killteam
+killthecameraman
 Killtony
 KimetsuNoYaiba
 kingdomcome
@@ -2808,6 +2818,7 @@ nevertellmetheodds
 NevilleGoddard
 Newbalance
 NewDealAmerica
+Newfoundlander
 NewGirl
 NewGreentexts
 newhampshire
@@ -2916,6 +2927,7 @@ NYGiants
 nyjets
 NYKnicks
 NYYankees
+OaklandAthletics
 oblivion
 ObviousPlant
 OCDmemes
@@ -3006,6 +3018,7 @@ Opossums
 opticalillusions
 orangecats
 orangecounty
+orangeisthenewblack
 orangetheory
 oregon
 orioles
@@ -3152,6 +3165,7 @@ pics
 piebaldcats
 piercetheveil
 piercing
+piercingstyle
 PietSmiet
 pigeon
 Pikabu
@@ -3622,6 +3636,7 @@ shittyskylines
 shittytattoos
 shittytechnicals
 ShitWehraboosSay
+shockwaveporn
 shoresy
 short
 shorthairedhotties
@@ -3860,6 +3875,7 @@ SupermodelCats
 Supernatural
 Superstonk
 superstore
+SuperStructures
 surat
 surrealmemes
 survivinginfidelity
@@ -4296,6 +4312,7 @@ velvethippos
 venturebros
 Vermintide
 vermont
+Veterans
 vexillology
 vexillologycirclejerk
 veYakinEvren
@@ -4318,6 +4335,7 @@ vintageaudio
 VintageFashion
 vinyl
 vinyljerk
+VinylReleases
 VioletEvergarden
 Virginia
 virginvschad
