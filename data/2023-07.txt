@@ -226,6 +226,7 @@ aphextwin
 apolloapp
 apple
 applestorequeenv2
+AppleWatch
 ApplyingToCollege
 APStudents
 Aquariums
@@ -259,6 +260,7 @@ Arrowheads
 ArsenalFC
 ArtDeco
 ArtefactPorn
+artificial
 ArtPorn
 asexuality
 asheville
@@ -535,6 +537,7 @@ BobsBurgers
 BobsTavern
 BocchiTheRock
 bodybuilding
+bodyweightfitness
 BoFuri
 BoJackHorseman
 Bokoen1
@@ -1287,6 +1290,7 @@ Emoney
 EmperorsChildren
 EmpireDidNothingWrong
 ems
+ENA
 energydrinks
 EngagementRings
 engineeringmemes
@@ -1620,6 +1624,7 @@ gingercats
 Gintama
 girlsfrontline
 GirlsLastTour
+girlswithbigmuscles
 gis
 Giscardpunk
 glasgow
@@ -1664,6 +1669,7 @@ Gothenburg
 GothFashion
 GothGirls
 GothStyle
+Gouache
 GraceCFulton
 Graffiti
 Granblue_en
@@ -1707,6 +1713,7 @@ Gunpla
 gunpolitics
 GunPorn
 guns
+gurgaon
 gurrenlagann
 GuysBeingDudes
 GwenMains
@@ -3266,6 +3273,7 @@ Rivian
 Roadcam
 RoastMe
 RoastMyCar
+robac
 roblox
 Robocop
 Rochester
@@ -3891,6 +3899,7 @@ TimPool
 Tinder
 TingyunShrine
 tinyawoos
+Tinycatsinbigspaces
 TinyHouses
 TinyUnits
 TipOfMyFork
@@ -4314,6 +4323,7 @@ XXXTENTACION
 YaeMiko
 yakuzagames
 yandere
+yayfoxxo
 yeat_
 yeezys
 Yeji
