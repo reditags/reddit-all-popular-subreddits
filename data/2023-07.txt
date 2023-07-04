@@ -1283,6 +1283,7 @@ DoctorWhumour
 Documentaries
 DOG
 DogAdvice
+Dogberg
 dogecoin
 dogelore
 dogpictures
@@ -1323,6 +1324,7 @@ Dreadlocks
 DreamlightValley
 Dreams
 drehscheibe
+drivingUK
 Drizzy
 DronedOrc
 dropout
@@ -1776,6 +1778,7 @@ girlswithbigmuscles
 gis
 Giscardpunk
 glasgow
+glastonbury_festival
 GlobalOffensive
 Glocks
 Gloomhaven
@@ -2394,6 +2397,7 @@ kpopthoughts
 kristenbell
 kroger
 ksi
+kurzgesagt
 KusanaliMains
 KUWTKsnark
 KyraReneeSivertson
@@ -2810,6 +2814,7 @@ MomForAMinute
 Mommit
 monarchism
 Monero
+Monke
 Monstera
 MonsterAnime
 MonsterHigh
@@ -3401,6 +3406,7 @@ PrettyLittleLiars
 PrettyOlderWomen
 prey
 Priconne
+PrimeiraLiga
 PrincessesOfPower
 PrintedWarhammer
 Prison
@@ -3594,6 +3600,7 @@ rockets
 rockhounds
 rodentintercourse
 ROGAlly
+Rogue
 RoleReversal
 rollercoasterjerk
 rollercoasters
@@ -4512,6 +4519,7 @@ videos
 VietNam
 Vindicta
 Vinesauce
+VinlandSaga
 vintage
 vintageads
 vintageaudio
