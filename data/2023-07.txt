@@ -156,6 +156,7 @@ americandad
 americaneskimo
 amex
 Amigurumi
+amiibo
 AmITheAngel
 AmItheButtface
 amiugly
@@ -255,6 +256,7 @@ Aquariums
 AquaSama
 Aquascape
 ar15
+ARAM
 araragi
 arbeitsleben
 arcane
@@ -751,6 +753,7 @@ CannedSardines
 canucks
 CapitalismSux
 CapitolConsequences
+caps
 capybara
 CaraDelevingne
 carbonsteel
@@ -982,6 +985,7 @@ comicbookmovies
 comicbooks
 comics
 commandandconquer
+Commanders
 CommunismMemes
 CompetitiveApex
 CompetitiveHalo
@@ -1240,6 +1244,7 @@ DesignPorn
 DesiMeta
 DesirePath
 DesiVideoMemes
+DessertPerson
 DessertPorn
 Destiny
 destiny2
@@ -1469,6 +1474,7 @@ estoration
 Ethelcain
 ethereum
 ethereumnoobies
+ethfinance
 ethoslab
 ethtrader
 EtikaRedditNetwork
@@ -1813,6 +1819,7 @@ gijoe
 GillianAnderson
 gingercats
 Gintama
+Giraffesdontexist
 girlsfrontline
 GirlsInaGif
 GirlsLastTour
@@ -2132,6 +2139,7 @@ ifadeozgurlugu
 ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
+ikeahacks
 IllegallySmol
 illegallysmolbirbs
 IllegallySmolBunnies
@@ -2425,6 +2433,7 @@ KiraKosarin
 KiraraMains
 Kirby
 kiszamolo
+kitchener
 Kitten
 kittens
 Kitting
@@ -2849,6 +2858,8 @@ minnesotavikings
 minpin
 Mipha
 MirandaCosgrove
+Misato
+misleadingthumbnails
 missbo
 MissingPersons
 mississauga
@@ -2925,6 +2936,7 @@ mtgfinance
 MtvChallenge
 MuayThai
 mumbai
+Muppets
 MurderBuns
 MurderDrones
 murdermittens
@@ -3044,6 +3056,7 @@ NFCEastMemeWar
 NFCNorthMemeWar
 NFCWestMemeWar
 nflcirclejerk
+NFTsMarketplace
 nhl
 Ni_Bondha
 Nicegirls
@@ -3497,6 +3510,7 @@ PrettyLittleLiars
 PrettyOlderWomen
 prey
 Priconne
+PrideAndPinion
 PrimeiraLiga
 PrincessesOfPower
 PrintedWarhammer
@@ -3533,6 +3547,7 @@ pukicho
 pune
 PunishingGrayRaven
 punk
+PunkMemes
 Punny
 PunPatrol
 puns
@@ -3800,6 +3815,7 @@ Scoobydoo
 Scotland
 ScottishFootball
 ScottishPeopleTwitter
+ScottPilgrim
 scottthewoz
 scotus
 SCP
@@ -3917,6 +3933,7 @@ signalis
 SigSauer
 silenthill
 silentmoviegifs
+Silksong
 Silmarillionmemes
 SiloSeries
 Silverbugs
@@ -4621,6 +4638,7 @@ Veterans
 vexillology
 vexillologycirclejerk
 veYakinEvren
+VGC
 VHS
 victoria2
 victoria3
@@ -4688,6 +4706,7 @@ warthundermemes
 WarthunderPlayerUnion
 washingtonwizards
 wasletztepreis
+watchcatsdieinside
 WatchDogsWoofInside
 watcherentertainment
 Watches
@@ -4797,6 +4816,7 @@ Wizard101
 wizardposting
 woahdude
 WojakCompass
+wolves
 WolvesAreBigYo
 womencricketers
 womensstreetwear
