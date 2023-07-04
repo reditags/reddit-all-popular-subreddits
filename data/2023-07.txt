@@ -151,6 +151,7 @@ Amberverse_
 amcstock
 Amd
 AmericaBad
+americanairlines
 americandad
 americaneskimo
 amex
@@ -188,6 +189,7 @@ AnimalsBeingMoms
 AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
+AnimalsOnReddit
 animation
 anime_best_moments
 anime_irl
@@ -290,6 +292,7 @@ AsianMasculinity
 ask
 AskAMechanic
 AskAnAustralian
+AskArgentina
 AskBalkans
 askcarsales
 AskDocs
@@ -1271,6 +1274,7 @@ Discordmemes
 discordVideos
 dishonored
 Dislyte
+DisneyDiamonds
 Disneyland
 disneyparks
 disneyvacation
@@ -1411,6 +1415,7 @@ Eminem
 Emiru_Lewd
 EmmaJones
 EmmaLangevin
+EmmaMackey
 EmmaMyers
 EmmaRoseKenney
 EmmaStone
@@ -1484,6 +1489,7 @@ ExplainTheJoke
 ExtraFabulousComics
 ExtremeCarCrashes
 extremelyinfuriating
+Exvangelical
 Eyebleach
 eyebombing
 F1FeederSeries
@@ -1533,6 +1539,7 @@ Fedexers
 feedthebeast
 feedthememes
 FellowKids
+FeltGoodComingOut
 FemaleAntinatalism
 femalefashion
 femalehairadvice
@@ -1544,6 +1551,7 @@ femboymemes
 femboyshitposting
 feminineboys
 Feminism
+fender
 fennecfoxes
 Ferrari
 ferrets
@@ -2231,6 +2239,7 @@ IrrationalMadness
 IsabelaMerced
 islam
 Israel
+IsraeliBeauty
 ITAGLIA
 Italia
 italy
@@ -2292,6 +2301,7 @@ JessicaChastain
 Jewdank
 Jewish
 JhinMains
+jiggledolls
 jigokuraku
 jihyo
 JingLiu
@@ -2422,6 +2432,7 @@ kpopthoughts
 kristenbell
 kroger
 ksi
+kubernetes
 kurzgesagt
 KusanaliMains
 KUWTKsnark
@@ -2475,6 +2486,7 @@ LeBagne
 lebanon
 lebowski
 LeedsUnited
+LeftyPiece
 legal
 legaladvicecanada
 LegalAdviceIndia
@@ -2583,6 +2595,7 @@ Lovecraft
 LoveForBoozeCruisers
 LoveForLandchads
 LoveForUkraine
+loveinparadise
 LoveIsBlindOnNetflix
 LoveIslandTV
 lovejoyband
@@ -2927,6 +2940,7 @@ nasa
 NASCAR
 NASCARMemes
 nashville
+NataliaDyer
 NatalieDormer
 natalieportman
 NatashaAughey
@@ -3248,6 +3262,7 @@ papermoney
 ParadoxExtra
 paradoxplaza
 Parahumans
+Paralives
 Paramore
 Paranormal
 ParanormalEncounters
@@ -4404,6 +4419,7 @@ tressless
 tretinoin
 triathlon
 Trigun
+TripodCats
 trippinthroughtime
 trippy
 Triumph
@@ -4590,6 +4606,7 @@ virtualreality
 Visiblemending
 VisitingIceland
 visualnovels
+vizsla
 Vocaloid
 voidpunk
 VolleyballGirls
@@ -4671,6 +4688,7 @@ WestSubEver
 WetlanderHumor
 WeWantPlates
 WFH
+WGU
 whatbugisthis
 whatcarshouldIbuy
 whatcouldgoright
