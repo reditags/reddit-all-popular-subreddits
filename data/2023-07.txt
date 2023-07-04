@@ -306,6 +306,7 @@ AskFrance
 AskHistorians
 AskHR
 asklatinamerica
+AskLosAngeles
 AskMechanics
 AskMen
 AskMiddleEast
@@ -410,6 +411,8 @@ baconreader
 Bad_Cop_No_Donut
 badassanimals
 Badfaketexts
+BadGirlsClub
+BadMensAnatomy
 badMovies
 BadMtgCombos
 BadMUAs
@@ -495,6 +498,7 @@ belowdeck
 Ben10
 Bend
 bengalcats
+bengals
 BenGarrisonCumEdits
 berkeley
 berlin
@@ -853,6 +857,7 @@ chainsawmancirclejerk
 Championship
 ChampionshipHistory
 Chandigarh
+Chang_Gang
 Chaos40k
 chaoticgood
 CharacterAI
@@ -1050,6 +1055,7 @@ craftsnark
 CrappyDesign
 crappyoffbrands
 CrazyFuckingVideos
+CrazyIdeas
 CreateMod
 CreationNtheUniverse
 creepyasterisks
@@ -1383,6 +1389,7 @@ dwarffortress
 dyinglight
 DylanteroYT
 DynastyFF
+earfurnishings
 earlsweatshirt
 earthbound
 EarthPorn
@@ -1449,6 +1456,7 @@ engineeringmemes
 EngineeringPorn
 EnglishSetter
 engrish
+enlistedgame
 Enough_Sanders_Spam
 EnoughCommieSpam
 EnoughMuskSpam
@@ -2030,6 +2038,7 @@ HistoryPorn
 HiTMAN
 hmm
 hmmm
+hoarding
 hockey
 hockeymemes
 hoggit
@@ -2846,6 +2855,7 @@ Minecrafthmmm
 MinecraftMemes
 minecraftseeds
 MineIslam
+MineralGore
 MineralPorn
 MINI
 miniatures
@@ -3709,6 +3719,7 @@ RocketLeagueEsports
 rockets
 rockhounds
 rodentintercourse
+RodriguesFamilySnark
 ROGAlly
 Rogue
 RoleReversal
@@ -4281,6 +4292,7 @@ ThatsInsane
 The10thDentist
 the1975
 The8BitRyanReddit
+The_Dennis
 The_Mueller
 THE_PACK
 theadamfriedlandshow
@@ -4824,6 +4836,7 @@ woodworking
 woooosh
 woosh
 wordsonanimegirls
+work
 workaholics
 WorkersStrikeBack
 WorkReform
