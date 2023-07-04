@@ -1323,6 +1323,7 @@ DogAdvice
 Dogberg
 dogecoin
 dogelore
+doggrooming
 dogpictures
 dogs
 dogs_getting_dogs
@@ -1364,6 +1365,7 @@ Dreams
 drehscheibe
 drivingUK
 Drizzy
+DrMartens
 DronedOrc
 dropout
 DrStone
@@ -1415,6 +1417,7 @@ edwinbarnesc
 Eesti
 egg_irl
 Eggy_memes
+EhBuddyHoser
 EightySix
 Eldar
 EldenBling
@@ -2472,6 +2475,7 @@ kpopthoughts
 kristenbell
 kroger
 ksi
+KSPMemes
 kubernetes
 kurzgesagt
 KusanaliMains
@@ -2698,6 +2702,7 @@ MalayalamMovies
 malaysia
 malehairadvice
 malelivingspace
+malepolish
 malicesnarkexclusive
 MaliciousCompliance
 mallninjashit
@@ -3773,6 +3778,7 @@ sailing
 sailormoon
 SaimanSays
 SaintMeghanMarkle
+SakamotoDays
 Salamanders40k
 sales
 salmahayek
@@ -3864,6 +3870,7 @@ Sephora
 seraphon
 serbia
 serbiancringe
+serialkillers
 seriouseats
 Serverlife
 Seulgi
@@ -4065,6 +4072,7 @@ spiderversedailymemes
 spongebob
 sports
 sportsbetting
+sportsbook
 SpottedonRightmove
 spreadytoes
 Spunchbob
@@ -4756,6 +4764,7 @@ weirddalle
 weirdvideosfor3am
 WeirdWheels
 WelcomeHomeARG
+WelcomeHomeNeighbor
 Welding
 Wellington
 Wellworn
@@ -4767,6 +4776,7 @@ WetlanderHumor
 WeWantPlates
 WFH
 WGU
+What_JustHappened
 whatbugisthis
 whatcarshouldIbuy
 whatcouldgoright
