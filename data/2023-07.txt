@@ -28,6 +28,7 @@
 30PlusSkinCare
 30ROCK
 3amjokes
+3d6
 3Dprinting
 3DS
 40kLore
@@ -176,6 +177,7 @@ amphibia
 AmyAdams
 AnadeArmas
 analog
+AnalogCircleJerk
 AnalogCommunity
 Anarcho_Capitalism
 Anarchy4Everyone
@@ -1246,6 +1248,7 @@ deadandcompany
 deadbydaylight
 DeadByDaylightKillers
 deadcells
+deadheadcirclejerk
 deadlockpw
 DeadSpace
 deathbattle
@@ -1358,6 +1361,7 @@ DIY
 DJAkademiks
 DLAH
 DMB
+DMT
 DMZ
 DnD
 DnDBehindTheScreen
@@ -1990,6 +1994,7 @@ greysanatomy
 GriefSupport
 grilling
 Grimdank
+Grimes
 Grishaverse
 GroundedGame
 grunge
@@ -2107,6 +2112,7 @@ HFY
 HiFiRush
 HighHeels
 HighQualityGifs
+Highrepublic
 highschool
 HighStrangeness
 HikaruNakamura
@@ -2604,6 +2610,7 @@ Laesterschwestern
 LAGalaxy
 laidbackcamp
 Lain
+LAinfluencersnark
 lakers
 Lalisa
 lanadelrey
@@ -2753,6 +2760,7 @@ lostredditors
 lotr
 LOTR_on_Prime
 lotrmemes
+lotus
 louboutins
 Louisiana
 Louisville
@@ -3744,6 +3752,7 @@ Qult_Headquarters
 QuotesPorn
 Rabbits
 Rachel_Pizzolato
+RachelPizzolato
 RachelZegler
 radiohead
 radioheadcirclejerk
@@ -4375,6 +4384,7 @@ swedishproblems
 SWGalaxyOfHeroes
 Switch
 Switzerland
+SWlegion
 swoletariat
 swordartonline
 SWORDS
@@ -4466,6 +4476,7 @@ teslamotors
 texas
 TexasRangers
 TextingTheory
+texts
 tf2memes
 tf2shitposterclub
 tf_irl
@@ -4548,6 +4559,7 @@ TheRandomest
 therapists
 TheRatEmpire
 TheRealJoke
+TheRedDotComic
 ThereIsnoCat
 therewasanattempt
 TheRightCantMeme
@@ -4894,6 +4906,7 @@ VisitingIceland
 visualnovels
 vizsla
 Vocaloid
+VoidCake
 voidpunk
 Volkswagen
 VolleyballGirls
@@ -4956,6 +4969,7 @@ weddingdress
 weddingshaming
 Weddingsunder10k
 WeDoALittlePosting
+WeebTurks
 weed
 weeklyplanetpodcast
 ween
