@@ -309,6 +309,7 @@ AskElectricians
 AskFrance
 AskHistorians
 AskHR
+askhungary
 asklatinamerica
 AskLosAngeles
 AskMechanics
@@ -736,6 +737,7 @@ bursa
 Buttcoin
 BuyItForLife
 byebyejob
+ByndoGehk
 C_AT
 CabinPorn
 CAguns
@@ -1305,6 +1307,7 @@ DidntKnowIWantedThat
 digimon
 DigitalArt
 DigitalPainting
+DilucMains
 Dimension20
 DINgore
 Dinosaurs
@@ -2426,6 +2429,7 @@ JustMonika
 justneckbeardthings
 Justrolledintotheshop
 JustUnsubbed
+JustYuri
 Juve
 k_on
 Kaarija
@@ -3251,6 +3255,7 @@ okbuddybaka
 okbuddycapitalist
 okbuddychicanery
 okbuddycinephile
+okbuddycoral
 okbuddydraper
 OkBuddyFresca
 okbuddygenshin
@@ -4009,6 +4014,7 @@ shoresy
 short
 shorthairedhotties
 shortscarystories
+shoujo
 shouldercats
 Showerthoughts
 shrimptank
@@ -4145,6 +4151,7 @@ SpidermanPS4
 spiders
 spiderversedailymemes
 spongebob
+Spore
 sports
 sportsbetting
 sportsbook
@@ -4927,6 +4934,7 @@ WitchesVsPatriarchy
 Wizard101
 wizardposting
 woahdude
+wohnen
 WojakCompass
 wolves
 WolvesAreBigYo
