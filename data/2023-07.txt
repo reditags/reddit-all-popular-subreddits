@@ -1228,6 +1228,7 @@ dechonkers
 DecidingToBeBetter
 Decks
 declutter
+DeepIntoYouTube
 DeepRockGalactic
 DeepSpaceNine
 DefiKingdoms
@@ -1669,6 +1670,7 @@ FondantHate
 food
 foodhacks
 FoodieSnark
+FoodLosAngeles
 FoodPorn
 foodsafety
 Foofighters
@@ -1716,6 +1718,7 @@ freefolk
 freefromwork
 FreeKarma4You
 FREEMEDIAHECKYEAH
+FremantleFC
 Frenchbulldogs
 FrenchMemes
 Frenemies3
@@ -2497,6 +2500,7 @@ kotakuinaction2
 KOTORmemes
 kpics
 kpop
+kpophelp
 kpoprants
 kpopthoughts
 kristenbell
@@ -4607,6 +4611,7 @@ tylerthecreator
 Tyranids
 tzuyu
 uber
+uberdrivers
 UberEATS
 Ubiquiti
 UCSD
@@ -4949,6 +4954,7 @@ xboxone
 XboxSeriesX
 Xennials
 Xenoblade_Chronicles
+xertunposting
 XFiles
 XiaoMains
 xkcd
