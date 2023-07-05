@@ -440,6 +440,7 @@ BanGDream
 bangtan
 Bannerlord
 BanPitBulls
+BanVideoGames
 Barbie
 barexam
 Barotrauma
@@ -1065,6 +1066,7 @@ cowboybebop
 cowboys
 cowcats
 coys
+cozy
 CozyPlaces
 CPA
 CPS
@@ -1343,6 +1345,7 @@ DobermanPinscher
 doctorwho
 DoctorWhumour
 Documentaries
+doener
 DOG
 DogAdvice
 Dogberg
@@ -1370,6 +1373,7 @@ doordash
 doordash_drivers
 Doppleganger
 DotA2
+dotnet
 DottoreMains
 doughboys
 DoveCameron
@@ -1382,6 +1386,7 @@ DragonMaid
 dragonquest
 DragonsDogma
 dragrace
+DragRacePhilippines
 DramaFreeBJJ
 drawing
 drayamichelepictures
@@ -1783,6 +1788,7 @@ fuseboxgames
 fut
 futebol
 Futebola
+FUTMobile
 futurama
 Futurology
 fuufuijou
@@ -2005,6 +2011,7 @@ haloinfinite
 HaloMemes
 Hamilton
 Hammers
+hamstercirclejerk
 handbags
 HandfulOfKitten
 handtools
@@ -2515,6 +2522,7 @@ kollywood
 Komi_san
 Konosuba
 korea
+koreanvariety
 korrasami
 KotakuInAction
 kotakuinaction2
@@ -2751,6 +2759,7 @@ Maine
 mainecoons
 MaintenancePhase
 maisiewilliams
+majonotabitabi
 MakeMeFeelGood
 MakeMeSmile
 MakeMeSuffer
@@ -2836,7 +2845,9 @@ mechanic
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
+Mechwarrior5
 MedicalGore
+MedievalCats
 MedievalHistoryMemes
 medizzy
 Megadeth
@@ -2854,6 +2865,7 @@ meme
 MemeEconomy
 memeframe
 MemeHunter
+MemeItaliani
 MemePiece
 memes
 Memes_Of_The_Dank
@@ -3625,6 +3637,7 @@ protogen
 PS3
 PS4
 PS5
+psg
 PSP
 PSVR
 psych
@@ -4247,6 +4260,7 @@ submarines
 submechanophobia
 submitted
 subnautica
+SubSimulatorGPT2
 SubsTakenLiterally
 Suburbanhell
 subway
@@ -4552,6 +4566,7 @@ Torontothenandnow
 torties
 tortoise
 TotalKalesh
+totallynotrobots
 totalwar
 totalwarhammer
 TOTK
@@ -4614,10 +4629,12 @@ Trumpvirus
 truscum
 TRUTHsocialWatch
 Tsukihime
+tsukiodysseygame
 TTSverse
 tuckedinkitties
 TuckedInPuppies
 Tucson
+Tudorhistory
 tulsa
 tumblr
 Tupac
@@ -4731,6 +4748,7 @@ vancouver
 Vanderpumpaholics
 vandwellers
 VanessaHudgens
+Vapidiful
 VaporwaveAesthetics
 VaushV
 vaxxhappened
