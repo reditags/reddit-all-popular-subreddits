@@ -513,6 +513,7 @@ beetlejuicing
 BeforeNAfterAdoption
 BeginnerWoodWorking
 behindthebastards
+BehindTheClosetDoor
 Beichtstuhl
 BelgianMalinois
 Belgium2
@@ -2220,6 +2221,7 @@ howto
 howtonotgiveafuck
 howyoudoin
 hoyas
+HPHogwartsMystery
 HRSPRS
 httyd
 HubermanLab
@@ -4029,6 +4031,7 @@ satisfying
 Satisfyingasfuck
 SavageGarden
 savannah
+SavannahDemers
 Save3rdPartyApps
 savedyouaclick
 SBCGaming
