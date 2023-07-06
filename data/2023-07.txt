@@ -496,6 +496,7 @@ bayarea
 Bayonetta
 BBBY
 BBQ
+beadsprites
 beagle
 beagles
 BeAmazed
@@ -816,6 +817,7 @@ carcrash
 Cardinals
 careeradvice
 careerguidance
+carlyraejepsen
 Carola
 carporn
 CarryMinati
@@ -1461,6 +1463,7 @@ drayamichelepictures
 Dreadlocks
 DreamlightValley
 Dreams
+dredge
 drehscheibe
 Dresses
 drivingUK
@@ -1536,6 +1539,7 @@ ElectroBOOM
 EliteDangerous
 ElizabethOlsen
 ellacervetto
+ElleFanning
 ElonJetTracker
 elonmusk
 elxokas
@@ -1819,6 +1823,7 @@ FreeCompliments
 FreedomofRussia
 freefolk
 freefromwork
+FreeGameFindings
 FreeKarma4You
 FREEMEDIAHECKYEAH
 FremantleFC
@@ -1856,6 +1861,7 @@ fulbo
 FullmetalAlchemist
 fullpops
 FullScorpion
+fundiesnarkiesnark
 FundieSnarkUncensored
 funhaus
 funkopop
@@ -1924,6 +1930,7 @@ gaymemes
 gaymers
 GayRateMe
 GCSE
+geek
 gekte
 genestealercult
 GeniusInvokationTCG
@@ -2342,6 +2349,7 @@ ImaginaryStarships
 ImaginaryTechnology
 ImaginaryWarhammer
 ImaginaryWesteros
+ImaginaryWitches
 ImFinnaGoToHell
 Imperator
 ImperialCombatArts
@@ -3035,6 +3043,7 @@ mercedes_benz
 MercyMains
 merdasdoolx
 Metalcore
+MetalForTheMasses
 metalgearrising
 metalgearsolid
 MetalMemes
@@ -3267,6 +3276,7 @@ nederlands
 needforspeed
 neekolul
 NelliesNest
+NEO
 neopets
 neovim
 Nepal
@@ -3481,6 +3491,7 @@ OmniscientReader
 OMORI
 Omorimemes
 OnCinemaAtTheCinema
+OneBlackBraincell
 onednd
 onegoldenbraincell
 onejob
@@ -4593,6 +4604,7 @@ terriblefacebookmemes
 TerrifyingAsFuck
 Terroriser
 tesdcares
+TeslaCam
 teslainvestorsclub
 TeslaLounge
 TeslaModel3
@@ -5214,6 +5226,7 @@ Woodcarving
 woodworking
 woooosh
 woosh
+WordAvalanches
 wordsonanimegirls
 work
 workaholics
