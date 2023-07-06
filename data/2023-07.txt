@@ -65,6 +65,7 @@ absolutelynotmeirl
 AbsoluteUnits
 ac_newhorizons
 ACAB
+academia
 Acadiana
 AccidentalAlly
 AccidentalComedy
@@ -338,6 +339,7 @@ Asmongold
 asoiaf
 asoiafcirclejerk
 aspergers
+aspynovardsnark
 ASRoma
 assassinscreed
 AssassinsCreedMemes
@@ -425,6 +427,7 @@ BackYardChickens
 baconreader
 Bad_Cop_No_Donut
 badassanimals
+badfacebookmemes
 Badfaketexts
 BadGirlsClub
 BadMensAnatomy
@@ -519,6 +522,7 @@ benfica
 bengalcats
 bengals
 BenGarrisonCumEdits
+benshapiro
 berkeley
 berlin
 berlinsocialclub
@@ -894,6 +898,7 @@ Championship
 ChampionshipHistory
 Chandigarh
 Chang_Gang
+ChantelJeffries
 Chaos40k
 chaoticgood
 CharacterAI
@@ -1041,6 +1046,7 @@ CompetitiveTFT
 composting
 conan
 ConanBeingAwesome
+ConanTheBarbarian
 confession
 confessions
 confidentlyincorrect
@@ -1235,6 +1241,7 @@ dating
 dating_advice
 datingoverforty
 DaysGone
+dayton
 dayz
 dbfz
 dbxv
@@ -1505,6 +1512,7 @@ Embroidery
 EmiliaClarke
 Eminem
 Emiru_Lewd
+emmachamberlain
 EmmaJones
 EmmaLangevin
 EmmaMackey
@@ -1955,6 +1963,7 @@ golf
 Golf_R
 GolfGTI
 GolfSwing
+Golfwang
 GoNets
 GoodAssSub
 goodboomerhumor
@@ -2138,6 +2147,7 @@ hmmm
 hmmmgifs
 hoarding
 hockey
+hockeycirclejerk
 hockeymemes
 hoggit
 hogwartslegacyJKR
@@ -2184,6 +2194,7 @@ hot_reporters
 HOTDGreens
 HotlineMiami
 HotPaper
+HotPeppers
 hotsauce
 hottoys
 HotWheels
@@ -2254,6 +2265,7 @@ ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
 ikeahacks
+illegallifeprotips2
 IllegallySmol
 illegallysmolbirbs
 IllegallySmolBunnies
@@ -2428,6 +2440,7 @@ JanitorAI_Official
 January6
 japan
 japan_insoul
+JapaneseFood
 japanesepeopletwitter
 japanlife
 japanpics
@@ -2463,6 +2476,7 @@ jobs
 JoeBiden
 JoePera
 JoeRogan
+JoeyDiaz
 JoeyForReddit
 JoeyKing
 JohnMayer
@@ -2924,6 +2938,7 @@ MedicalGore
 MedievalCats
 MedievalHistoryMemes
 medizzy
+megaconstrux
 Megadeth
 megalophobia
 Megaman
@@ -3216,6 +3231,7 @@ news
 NewSkaters
 NewsOfTheStupid
 NewsWithJingjing
+NewToEMS
 NewVegasMemes
 newyorkcity
 NewYorkMets
@@ -3237,6 +3253,7 @@ NicolaCavanis
 nier
 NierAutomataGallery
 NightLords
+NightVision
 Nightwing
 nightwish
 Nijisanji
@@ -3843,6 +3860,7 @@ RedReader
 redrising
 Reds
 redsox
+ReefTank
 regretfulparents
 regularcarreviews
 regularshow
@@ -3865,6 +3883,7 @@ rescuedogs
 Residency
 residentevil
 resinprinting
+resumes
 retailhell
 retardedcornfieldcum
 retirement
@@ -4177,6 +4196,7 @@ skyrim
 SkyrimMemes
 skyrimmods
 SkyrimPorn
+slammywhammies
 SlavaUkrayini
 slaythespire
 SleepToken
@@ -4273,6 +4293,7 @@ SpyxFamily
 SquaredCircle
 squirrels
 squishmallow
+SS13
 SSBM
 StableDiffusion
 StainedGlass
@@ -4450,6 +4471,7 @@ TaylorSwiftsLegs
 tbatenovel
 tea
 Teachers
+TeachersInTransition
 TeamfightTactics
 TeamFourStar
 tech
@@ -4521,6 +4543,7 @@ TheCivilService
 TheClickOwO
 thecringeshowaward
 TheCure
+TheDarkTower
 thedavidpakmanshow
 TheDeprogram
 TheDepthsBelow
@@ -4827,6 +4850,7 @@ Universitaly
 UnpopularLoreOlympus
 unpopularopinion
 UnresolvedMysteries
+UnsolvedMysteries
 unusual_whales
 UnusualVideos
 upcycling
@@ -4999,6 +5023,7 @@ weirdvideosfor3am
 WeirdWheels
 WelcomeHomeARG
 WelcomeHomeNeighbor
+WelcomeToGilead
 Welding
 Wellington
 Wellworn
