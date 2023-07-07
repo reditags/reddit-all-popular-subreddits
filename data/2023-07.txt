@@ -162,12 +162,14 @@ AmazonDSPDrivers
 AmazonFC
 Amberverse_
 amcstock
+AMCSTOCKS
 Amd
 AmerExit
 AmericaBad
 americanairlines
 americandad
 americaneskimo
+AmericanHorrorStory
 amex
 Amigurumi
 amiibo
@@ -499,6 +501,7 @@ Battlefield
 battlefield2042
 battlefield_4
 battlefield_one
+BattlefieldV
 battlemaps
 BattleNetwork
 battlestations
@@ -1045,6 +1048,7 @@ clevelandcavs
 ClevelandGuardians
 clevercomebacks
 climate
+ClimateMemes
 climbergirls
 ClimbingCircleJerk
 clonehigh
@@ -1201,6 +1205,7 @@ CrossStitch
 crowbro
 crows
 crtgaming
+CrueltySquad
 Cruise
 CrumblCookies
 Crunchyroll
@@ -1686,6 +1691,7 @@ F1Game
 F1NN5TER
 F1Porn
 F1Technical
+Fable
 face
 facepalm
 factorio
@@ -3867,6 +3873,7 @@ poker
 pokerrrr2
 poland
 polandball
+Polcompball
 policeuk
 Political_Revolution
 PoliticalCompassMemes
@@ -3931,6 +3938,7 @@ ProgressionFantasy
 progun
 Project_Wingman
 projectcar
+projecteternity
 ProjectSekai
 projectzomboid
 prolife
@@ -4366,6 +4374,7 @@ shortscarystories
 shoujo
 shouldercats
 Showerthoughts
+Shrek
 ShrimpsIsBugs
 shrimptank
 shrinkflation
@@ -5039,6 +5048,7 @@ TurkeyJerky
 TurkishCats
 TurkishCeleb
 Turkiye
+Turkophobia
 TuxedoCats
 TVTooHigh
 twicemedia
@@ -5320,6 +5330,7 @@ whatisthisbone
 whatisthisbug
 whatisthiscar
 whatisthisthing
+WhatsInThisThing
 whatsthisbird
 whatsthisbug
 whatsthisplant
