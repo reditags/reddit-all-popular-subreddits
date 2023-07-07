@@ -1036,6 +1036,7 @@ CityPorn
 civ
 civ5
 civic
+civilengineering
 CIVILWAR
 CivVI
 CK2GameOfthrones
@@ -1183,6 +1184,7 @@ CrackWatch
 craftsnark
 CrappyDesign
 crappyoffbrands
+crazyexgirlfriend
 CrazyFuckingVideos
 CrazyIdeas
 CreateMod
@@ -1280,6 +1282,7 @@ Dallas
 DallasStars
 dalmatians
 Damnthatsinteresting
+dancegavindance
 Dandadan
 danganronpa
 danglers
@@ -2368,6 +2371,7 @@ hrvatska
 httyd
 HubermanLab
 HUEstation
+HumanBeingBros
 HumanForScale
 HumansAreMetal
 humansarespaceorcs
@@ -2559,6 +2563,7 @@ ireland
 irezumi
 irishpersonalfinance
 IronFrontUSA
+ironmaiden
 ironmouse
 ironscape
 IronWarriors
@@ -2729,6 +2734,7 @@ kendalljenner
 KendrickLamar
 Kengan_Ashura
 Kenshi
+Kentucky
 KeqingMains
 Kerala
 KerbalSpaceProgram
@@ -3333,6 +3339,7 @@ moviecritic
 MovieDetails
 MovieLeaksAndRumors
 MovieMistakes
+MoviePosterPorn
 movies
 MrTechnodad
 MST3K
@@ -4805,6 +4812,7 @@ teenmom
 TeenMomOGandTeenMom2
 Tekken
 TempleofMarianne
+Tennessee
 Tennesseetitans
 tennis
 TenseiSlime
@@ -4898,6 +4906,7 @@ thelongdark
 TheMagnusArchives
 TheMajorityReport
 TheMarvelousMrsMaisel
+TheMassive
 TheMcDojoLife
 TheMorningToastSnark
 thenetherlands
