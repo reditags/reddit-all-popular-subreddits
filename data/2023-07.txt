@@ -337,6 +337,7 @@ askcarsales
 AskDocs
 AskElectricians
 AskFrance
+AskGayMen
 AskHistorians
 AskHR
 askhungary
@@ -371,6 +372,7 @@ astrologymemes
 Astronomy
 Astros
 asushin
+ATAAE
 ATBGE
 ATEEZ
 AteistTurk
@@ -450,6 +452,7 @@ babylon5
 BABYMETAL
 BackonFigg
 BackpackingDogs
+backrooms
 BackYardChickens
 baconreader
 Bad_Cop_No_Donut
@@ -1522,6 +1525,7 @@ dontputyourdickinthat
 DontSubscribeDumbAss
 dontyouknowwhoiam
 DonutMedia
+doodles
 doodoofard
 Doom
 doomfistmains
@@ -3040,6 +3044,7 @@ LPOTL
 LSAT
 LSD
 LTB_iel
+lucario
 lucifer
 luciomains
 LudwigAhgren
@@ -4205,6 +4210,7 @@ Republican
 rescuedogs
 Residency
 residentevil
+residentevil4
 resinprinting
 resumes
 retailhell
@@ -4711,6 +4717,7 @@ Stormgate
 Stormlight_Archive
 storyofseasons
 straightenedfeetsies
+StrangeAndFunny
 StrangeEarth
 StrangerThings
 straykids
@@ -5143,6 +5150,7 @@ TrueCrime
 TrueCrimeDiscussion
 TrueFilm
 truegaming
+TrueOffMyChest
 trueratecelebrities
 truerateme
 TrueReddit
@@ -5621,6 +5629,7 @@ youngpeopleyoutube
 YoungThug
 YouniquePresenterMS
 YouOnLifetime
+Your_9ine
 YourRAGE
 yourturntodie
 YouSeeComrade
