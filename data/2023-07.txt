@@ -191,6 +191,7 @@ amogus
 Amoledbackgrounds
 AmongUs
 amphibia
+Amtrak
 AmyAdams
 AnadeArmas
 analog
@@ -1129,6 +1130,7 @@ ComedyCemetery
 comedyheaven
 ComedyHell
 comedyhomicide
+comedynecromancy
 ComedyNecrophilia
 comicbookcollecting
 comicbookmovies
@@ -1382,12 +1384,14 @@ deadlockpw
 DeadSpace
 deathbattle
 DeathBattleMatchups
+Deathcore
 deathgrips
 deathguard40k
 Deathkorpsofkrieg
 deathnote
 DeathrattlePorn
 DeathStranding
+deathwatch40k
 debtfree
 DecentralizedFinance
 dechonkers
@@ -1617,6 +1621,7 @@ EatCheapAndHealthy
 eatsandwiches
 EatTheRich
 ebikes
+EbonyImagination
 Economics
 economy
 eddieandrichie
@@ -1782,6 +1787,7 @@ FanFiction
 FansHansenvsPredator
 fansofcriticalrole
 fantanoforever
+FantasticFour
 fantasybaseball
 fantasyfootball
 fantasymoe
@@ -2056,6 +2062,7 @@ GamingLaptops
 GamingLeaksAndRumours
 gamingnews
 Ganyu
+garageporn
 GarandThumb
 GardeningUK
 Gardevoir
@@ -2406,6 +2413,7 @@ hotsauce
 hottoys
 HotWheels
 houkai3rd
+HouseFlipper
 HouseMD
 HouseOfTheDragon
 houseplants
@@ -3420,6 +3428,7 @@ MovieLeaksAndRumors
 MovieMistakes
 MoviePosterPorn
 movies
+MrBeast
 MrTechnodad
 MST3K
 MTB
@@ -4587,6 +4596,7 @@ SipsTea
 sistersofbattle
 SisterWives
 sixfacedworld
+Sjokz
 skamtebord
 skateboarding
 skaven
@@ -4976,6 +4986,7 @@ The_Mueller
 THE_PACK
 theadamfriedlandshow
 TheAstraMilitarum
+TheBatmanFilm
 TheBear
 TheBidenshitshow
 thebindingofisaac
@@ -5355,6 +5366,7 @@ UzakiChan
 v8supercars
 vagabond
 ValentGarzonC
+valerialcala
 valheim
 valkyrae
 VALORANT
@@ -5494,6 +5506,7 @@ Weddingsunder10k
 WeDoALittlePosting
 WeebTurks
 weed
+Weed__World
 weeklyplanetpodcast
 ween
 weeviltime
