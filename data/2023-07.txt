@@ -163,6 +163,7 @@ AmazonDSPDrivers
 AmazonFC
 AmberMidthunder
 Amberverse_
+AMCsAList
 amcstock
 AMCSTOCKS
 Amd
@@ -1074,6 +1075,7 @@ ClimbingCircleJerk
 clonehigh
 CloneWarsMemes
 CLOUDS
+Coachella
 cobrakai
 cocaine
 cockatiel
@@ -2601,6 +2603,7 @@ itookapicture
 ITookAPicturePH
 Its_Jawsh
 itsalwayslowqltyvideo
+itstheyak
 IttoMains
 ITZY
 IVE
@@ -2822,6 +2825,7 @@ kucoin
 kurzgesagt
 KusanaliMains
 KUWTKsnark
+Kwite
 KyraReneeSivertson
 l4d2
 LabourUK
@@ -4418,6 +4422,7 @@ ShadowWork
 ShahRukhKhan
 Sham_Sharma_Show
 ShamelesslyStolen
+ShaneDawson
 ShantelVanSanten
 sharks
 sheffield
@@ -5161,6 +5166,7 @@ TuxedoCats
 TVTooHigh
 twicemedia
 twicememes
+twilight
 TwinCities
 twinpeaks
 TwistedWonderland
