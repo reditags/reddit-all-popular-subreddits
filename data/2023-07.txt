@@ -277,6 +277,7 @@ APStudents
 Aquariums
 AquaSama
 Aquascape
+AR10
 ar15
 ARAM
 araragi
@@ -564,6 +565,7 @@ Bestbuy
 bestconspiracymemes
 bestof
 bestoflegaladvice
+BestofRedditorUpdates
 bestoftheinternet
 bettafish
 betterCallSaul
@@ -781,6 +783,7 @@ Btechtards
 bts7
 buccos
 Buddhism
+budgetfood
 budgies
 Buffalo
 buffalobills
@@ -1085,6 +1088,7 @@ ColleenBallingerSnark
 colleensheen
 college
 CollegeBasketball
+CollegeRant
 collegeresults
 ColleiMains
 collingwoodfc
@@ -1116,6 +1120,7 @@ CompetitiveApex
 CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
+CompetitiveWoW
 composting
 computers
 conan
@@ -1839,6 +1844,7 @@ fivenightsatfreddys
 fixedbytheduet
 FixedGearBicycle
 FixedTattoos
+FJCruiser
 FL_Studio
 Flamepoints
 flashlight
@@ -1899,6 +1905,7 @@ forwardsfromgrandma
 ForwardsFromKlandma
 forza
 ForzaHorizon
+fossilid
 found70percentbanana
 FoundPaper
 foundsatan
@@ -2075,6 +2082,7 @@ Giraffesdontexist
 girlsfrontline
 GirlsInaGif
 GirlsLastTour
+GirlsUndShitposts
 girlswithbigmuscles
 gis
 Giscardpunk
@@ -2640,6 +2648,7 @@ JenniferLawrence
 JenniferLopez
 jenniferlovehewitt
 Jeongyeon
+Jeopardy
 jerma985
 jerseycity
 jerseyshore
@@ -2660,6 +2669,7 @@ JoeyDiaz
 JoeyForReddit
 JoeyKing
 JohnMayer
+JohnMulaney
 JohnWick
 joinsquad
 Jojo
@@ -2908,6 +2918,7 @@ LGBTnews
 liberalgunowners
 liberta
 Libertarian
+LibHumor
 librandu
 libraryofruina
 libsofreddit
@@ -2973,6 +2984,7 @@ lookismcomic
 lookyourbest
 LOONA
 loopringorg
+lorde
 LordofTheMysteries
 lordoftherings
 loreofleague
@@ -3310,6 +3322,7 @@ MonsterAnime
 MonsterHigh
 MonsterHunter
 MonsterHunterWorld
+Monsterverse
 Monterrey
 moon
 MoonPissing
@@ -3699,6 +3712,7 @@ orangeisthenewblack
 orangetheory
 orbi
 oregon
+OrganizationPorn
 orioles
 orks
 orlando
@@ -3736,6 +3750,7 @@ Overwatch
 overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
+OverwatchTMZ
 OverwatchUniversity
 OWConsole
 Owls
@@ -3930,7 +3945,9 @@ PokemonSwordAndShield
 PokemonTCG
 PokemonUnite
 poker
+pokerrrr
 pokerrrr2
+Pokerrrr3
 poland
 polandball
 Polcompball
@@ -4772,6 +4789,7 @@ tankiejerk
 TankPorn
 tanks
 taoism
+TargetedShirts
 TarihiSeyler
 TarkovMemes
 tarot
@@ -5546,6 +5564,7 @@ YagateKiminiNaru
 yakuzagames
 yandere
 YarnAddicts
+yarntrolls
 yayfoxxo
 yeat_
 yeezys
