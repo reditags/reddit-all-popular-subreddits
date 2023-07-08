@@ -105,6 +105,7 @@ aeiou
 AEKAthensFC
 Aespa
 Aether_Mains
+AetherGazer
 AEWFightForever
 AEWOfficial
 AFCEastMemeWar
@@ -1412,6 +1413,7 @@ Denmark
 Denton
 DenverCirclejerk
 denvernuggets
+depechemode
 Depop
 DeppDelusion
 depression_memes
@@ -1623,6 +1625,7 @@ edwinbarnesc
 Eesti
 egg_irl
 Eggy_memes
+Egypt
 EhBuddyHoser
 EightySix
 ekekek
@@ -2502,7 +2505,9 @@ Imperator
 ImperialCombatArts
 ImperialFists
 ImperialKnights
+ImpracticalArmour
 ImpracticalJokers
+IMSARacing
 imsorryjon
 ImTheMainCharacter
 inazumaeleven
@@ -2985,6 +2990,7 @@ lingling40hrs
 linguisticshumor
 Link_Dies
 LinkedInLunatics
+LinkinPark
 LinusTechTips
 linux
 linux_gaming
@@ -4828,6 +4834,7 @@ synthesizers
 sysadmin
 systemofadown
 TabbyCats
+tabletopgamedesign
 tacobell
 Tacoma
 tacticalgear
@@ -5519,6 +5526,7 @@ wholesome
 wholesome_girls
 wholesomebpt
 WholesomeComics
+WholesomeFantasyArt
 wholesomegifs
 wholesomegreentext
 wholesomememes
@@ -5654,6 +5662,7 @@ YouBelongWithMemes
 youdontsurf
 YoujoSenki
 YouLookFamiliar
+Youmo
 youngjustice
 youngpeopleyoutube
 YoungThug
