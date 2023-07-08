@@ -108,6 +108,7 @@ AEWFightForever
 AEWOfficial
 AFCEastMemeWar
 AFCNorthMemeWar
+AFCSouthMemeWar
 afkarena
 AFL
 AfterEffects
@@ -2694,6 +2695,7 @@ JuJutsuKaisen
 Jujutsushi
 jumpingspiders
 Jungle_Mains
+junjiito
 JurassicMemes
 jurassicworldevo
 JustBootThings
@@ -3363,6 +3365,7 @@ MST3K
 MTB
 mtg
 mtgfinance
+mtgvorthos
 MtvChallenge
 MuayThai
 mumbai
@@ -3983,6 +3986,7 @@ portugal
 PORTUGALCARALHO
 portuguesasinstagram
 portugueses
+Possums
 postal
 PostMalone
 pottedcats
