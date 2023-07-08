@@ -890,6 +890,7 @@ CatAdvice
 Catan
 CatastrophicFailure
 catbellies
+catbongos
 CatBreed
 catburnouts
 Catculations
@@ -1412,6 +1413,7 @@ DerryGirls
 DerScheisser
 desabafos
 DesantisJetTracker
+DesertDaze
 Design
 DesignMyRoom
 DesignPorn
@@ -2133,6 +2135,7 @@ GoNets
 GoodAssSub
 goodboomerhumor
 GoodFakeTexts
+goodmythicalmorning
 GooglePixel
 goons
 GoosetheBand
@@ -3661,6 +3664,7 @@ okbuddyreze
 okbuddyrosalyn
 okbuddysuccession
 okbuddytrailblazer
+okbuddyvowsh
 okkamaraderetarde
 okkolegauposledzony
 oklahoma
@@ -3980,6 +3984,7 @@ polyamorymemes
 Polytopia
 Pomeranians
 poodles
+PoojaHegdeHub
 popculturechat
 popheadscirclejerk
 popping
@@ -4083,6 +4088,7 @@ Pyrex_Love
 pyrocynical
 QAnonCasualties
 qotsa
+QOVESStudio
 QTNCrypto
 quandle
 Quebec
@@ -4588,6 +4594,7 @@ somethingimade
 SommerRay
 SonicFrontiers
 SonicTheHedgehog
+SonicTheHedgejerk
 SonoBisqueDoll
 SonsOfTheForest
 SonyAlpha
