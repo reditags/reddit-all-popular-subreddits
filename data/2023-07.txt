@@ -210,6 +210,7 @@ AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
 AnimalsOnReddit
+AnimalTracking
 animation
 anime_best_moments
 anime_irl
@@ -715,6 +716,7 @@ BostonTerrier
 Botchedsurgeries
 botecodoreddit
 bottlebrush
+BottleDigging
 botw
 BOTW2
 boulder
@@ -1250,6 +1252,7 @@ CuratedTumblr
 curb
 Cursed_Images
 cursedcomments
+Cursedgunimages
 CursedGuns
 cursedmemes
 CurseofStrahd
@@ -2909,6 +2912,7 @@ LetsNotMeet
 LetsTalkBam
 Letterboxd
 lewishamilton
+lexington
 Lexus
 lgballt
 lgbt
@@ -3696,6 +3700,7 @@ OnionLovers
 OnlineUnderGround
 onlycryptorelatedman
 OnlyFaces
+OnPatrolLive
 ontario
 OntarioLandlord
 oompasubs
@@ -3937,6 +3942,7 @@ pokemongo
 pokemongobrag
 PokemonInfiniteFusion
 PokemonLegendsArceus
+PokemonLetsGo
 PokemonMasters
 pokemonmemes
 PokemonMisprints
@@ -4159,6 +4165,7 @@ Reds
 redsox
 RedvsBlue
 ReefTank
+regina
 regretfulparents
 regularcarreviews
 regularshow
@@ -4188,6 +4195,7 @@ retardedcornfieldcum
 retirement
 RetroAR
 retrobattlestations
+RetroBowl
 RetroFuturism
 retrogaming
 ReversePinterest
@@ -5220,6 +5228,7 @@ unitedstatesofindia
 Unity2D
 Unity3D
 UniUK
+UniversalOrlando
 Universitaly
 UnpopularLoreOlympus
 unpopularopinion
@@ -5412,6 +5421,7 @@ WestHighlandTerriers
 westies
 WestSubEver
 WestVirginia
+westworld
 WetlanderHumor
 WeWantPlates
 WFH
