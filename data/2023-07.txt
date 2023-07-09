@@ -65,6 +65,7 @@ absolutelynotanimeirl
 absolutelynotme_irl
 absolutelynotmeirl
 AbsoluteUnits
+AbstractArt
 ac_newhorizons
 ACAB
 academia
@@ -863,6 +864,7 @@ canadaguns
 canadahousing
 CanadaHousing2
 canadaleft
+CanadasWonderland
 CanadianCoins
 CanadianInvestor
 canberra
@@ -1223,6 +1225,7 @@ CrappyDesign
 crappyoffbrands
 crazyexgirlfriend
 CrazyFuckingVideos
+CrazyHuman
 CrazyIdeas
 CreateMod
 CreationNtheUniverse
@@ -1276,6 +1279,7 @@ csgo
 CSHFans
 csk
 csMajors
+cuddleroll
 CultOfEchidna
 CultOfTheLamb
 culturetalkworldwide
@@ -1417,6 +1421,7 @@ DeFranco
 deftones
 Degrassi
 Dehyamains
+Delaware
 delhi
 deliciouscompliance
 delta
@@ -1536,6 +1541,7 @@ Dogberg
 dogecoin
 dogelore
 doggrooming
+DoggyDNA
 dogpictures
 dogs
 dogs_getting_dogs
@@ -1987,6 +1993,7 @@ FreedomofRussia
 freefolk
 freefromwork
 FreeGameFindings
+FreeKarma4All
 FreeKarma4You
 FREEMEDIAHECKYEAH
 FremantleFC
@@ -3419,6 +3426,7 @@ Monsterverse
 Monterrey
 moon
 MoonPissing
+mopar
 Mordhau
 mordheim
 moreplatesmoredates
@@ -3556,6 +3564,7 @@ neovim
 Nepal
 nerdfighters
 NeroClaudius
+nervysquervies
 nes
 Nestofeggs
 netflix
@@ -4001,6 +4010,7 @@ PiratedGames
 Piratefolk
 PirateKitties
 PiratePets
+piratesofthecaribbean
 PitBullOwners
 pitbulls
 pitbulls_in_partyhats
@@ -4185,7 +4195,9 @@ quilting
 quityourbullshit
 Qult_Headquarters
 QuotesPorn
+R6ProLeague
 Rabbits
+Raccoons
 Rachel_Pizzolato
 RachelPizzolato
 RachelZegler
@@ -4602,6 +4614,7 @@ Silverbugs
 SilverDegenClub
 silverhair
 SilverWolfMains
+simplynailogical
 simpsonsshitposting
 simracing
 Simracingstewards
@@ -4879,6 +4892,7 @@ sutesfozes
 suzerain
 svenskpolitik
 swaggybark
+swans
 SweatyPalms
 sweden
 swedishproblems
@@ -4962,6 +4976,7 @@ teenagersbuthot
 TeenagersITA
 teenmom
 TeenMomOGandTeenMom2
+teentitans
 Tekken
 TempleofMarianne
 Tennessee
@@ -5013,6 +5028,7 @@ theadamfriedlandshow
 TheAstraMilitarum
 TheBatmanFilm
 TheBear
+TheBeatles
 TheBidenshitshow
 thebindingofisaac
 TheBoys
@@ -5683,6 +5699,7 @@ writing
 writingcirclejerk
 WritingPrompts
 WRX
+wrx_vb
 WTF
 wtfstockphotos
 wunkus
@@ -5734,6 +5751,7 @@ YomiHustle
 yoojimin
 Yorkies
 Yosemite
+Yotsubros
 YouBelongWithMemes
 youdontsurf
 YoujoSenki
