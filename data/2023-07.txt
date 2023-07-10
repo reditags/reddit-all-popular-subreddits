@@ -1804,6 +1804,7 @@ EverythingFoxes
 EverythingScience
 evilautism
 evilbuildings
+EvilDead
 ewphoria
 exjw
 exmormon
@@ -3940,6 +3941,7 @@ orlando
 OrlandoMagic
 OrphanCrushingMachine
 orslokx
+oscarrace
 OSHA
 OshiNoKoMemes
 osp
