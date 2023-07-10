@@ -74,6 +74,7 @@ ac_newhorizons
 ACAB
 academia
 Acadiana
+Acceleracers
 AccidentalAlly
 AccidentalComedy
 accidentallyliberian
@@ -175,6 +176,7 @@ alternativefashion
 Altrive
 AMA
 AmandaSeyfriedOnline
+AmateurPhotography
 AmateurRoomPorn
 amazingmemes
 AmazonDSPDrivers
@@ -1459,6 +1461,7 @@ deadlockpw
 deadmalls
 deadpool
 DeadSpace
+deadwood
 deathbattle
 DeathBattleMatchups
 DeathByMillennial
@@ -1657,6 +1660,7 @@ Dramione
 Drawfee
 drawing
 drayamichelepictures
+DrDisrespectLive
 Dreadlocks
 DreamlightValley
 Dreams
@@ -1776,6 +1780,7 @@ energydrinks
 EngagementRings
 engineeringmemes
 EngineeringPorn
+england
 EnglishLearning
 EnglishSetter
 engrish
@@ -4201,6 +4206,7 @@ PizzaDrivers
 PizzaTower
 PKA
 PlanetZoo
+PlantBasedDiet
 plantclinic
 PlantedTank
 plants
