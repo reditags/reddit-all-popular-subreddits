@@ -961,6 +961,7 @@ catpictures
 cats
 CatsAreAssholes
 catsareliquid
+catsbeingbanks
 CatsBeingCats
 CatsCalledFood
 catscarryingstuffies
@@ -2607,6 +2608,7 @@ ImaginaryFeels
 ImaginaryHorrors
 ImaginaryJedi
 ImaginaryKanto
+ImaginaryKnights
 ImaginaryLandscapes
 ImaginaryLesbians
 ImaginaryLeviathans
@@ -4591,6 +4593,7 @@ Save3rdPartyApps
 savedyouaclick
 SBCGaming
 sbubby
+ScamandaPodcast
 scambait
 Scams
 ScaramoucheMains
@@ -5218,6 +5221,7 @@ TheGoodPlace
 thegrandtour
 TheGriffonsSaddlebag
 TheGrittyPast
+TheHague
 theidol
 theisle
 theJoeBuddenPodcast
@@ -5401,6 +5405,7 @@ transformers
 transgender
 transit
 transitiongoals
+TransLater
 translator
 Transmogrification
 trap
@@ -5667,6 +5672,7 @@ VShojo
 vtmb
 vtolvr
 vultureculture
+VuvuzelaIPhone
 VyvanLe
 WagnerVsRussia
 Wales
@@ -5818,6 +5824,7 @@ wildrift
 WillaHolland
 willwood
 wimmelbilder
+windows
 wine
 Wings
 WingsOfFire
