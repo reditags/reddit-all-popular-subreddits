@@ -1027,6 +1027,7 @@ CFB
 cfbmemes
 CFL
 cfs
+CGPGrey
 Chadposting
 Chadtopia
 chaeryeong
@@ -1596,6 +1597,7 @@ DMZ
 DnD
 DnDBehindTheScreen
 DnDcirclejerk
+DnDGreentext
 DnDHomebrew
 dndmaps
 dndnext
@@ -2661,6 +2663,7 @@ ImaginaryWarhammer
 ImaginaryWesteros
 ImaginaryWitches
 imatotalpeiceofshit
+imax
 ImFinnaGoToHell
 Imperator
 ImperialCombatArts
@@ -4083,6 +4086,7 @@ PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
 parentsofmultiples
+paris
 ParkJihyo
 ParlerWatch
 parrots
