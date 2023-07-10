@@ -212,6 +212,7 @@ AnadeArmas
 analog
 AnalogCircleJerk
 AnalogCommunity
+AnaMains
 Anarcho_Capitalism
 Anarchy4Everyone
 AnarchyChess
@@ -1059,6 +1060,7 @@ chessbeginners
 chessmemes
 chevycolorado
 CHIBears
+chicago
 chicagobulls
 Chicken_Thoughts
 chickens
@@ -3020,6 +3022,7 @@ KSPMemes
 kubernetes
 kucoin
 KumoDesu
+Kurumi
 kurzgesagt
 KusanaliMains
 KUWTKsnark
@@ -4047,6 +4050,7 @@ Paleontology
 Palestine
 PallasCats
 palmbeach
+PalmettoStateArms
 PampamilyangPaoLUL
 Pandabuy
 PandR
@@ -5735,6 +5739,7 @@ WaltDisneyWorld
 WANDAVISION
 wankil
 wappiesinhetwild
+war
 WarAndPeas
 Warformed
 Warframe
