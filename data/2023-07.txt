@@ -540,6 +540,7 @@ BanPitBulls
 BanVideoGames
 BarbaraPalvin
 Barbie
+Barcelona
 barexam
 Barotrauma
 Barry
@@ -688,6 +689,7 @@ bitcoin354
 BitcoinBanana
 BitLifeApp
 bizarrelife
+bjork
 blackbutler
 BlackCat
 blackcats
@@ -2348,6 +2350,7 @@ gotransit
 Gouache
 GR86
 GraceCFulton
+GradSchool
 Graffiti
 Granblue_en
 GrandBlue
@@ -4721,6 +4724,8 @@ sanpedrocactus
 sanrio
 saopaulo
 SapphoAndHerFriend
+SarahBowmar
+Sardonicast
 saskatchewan
 saskatoon
 SatanicTemple_Reddit
