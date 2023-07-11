@@ -572,6 +572,7 @@ BattlePaintings
 battlestations
 battletech
 bayarea
+BayernMunich
 Bayonetta
 BBBY
 BBQ
@@ -1216,6 +1217,7 @@ ComedyHell
 comedyhomicide
 comedynecromancy
 ComedyNecrophilia
+ComentariosEmol
 comicbookcollecting
 comicbookmovies
 comicbooks
@@ -2635,6 +2637,7 @@ hyenas
 hyouka
 HypixelSkyblock
 HyruleEngineering
+Hyundai
 IAmA
 iamatotalpieceofshit
 IAmTheMainCharacter
@@ -3511,6 +3514,7 @@ Mensmittenwithkittens
 MensRights
 menwritingwomen
 MEOW_IRL
+meowsertrousers
 Mercari
 mercedes_benz
 MercyMains
@@ -3772,6 +3776,7 @@ NBAYoungboy
 NCAAFBseries
 NCAAgirls
 NCT
+ndp
 nebelung
 Nebraska
 necoarc
@@ -4590,6 +4595,7 @@ retrobattlestations
 RetroBowl
 RetroFuturism
 retrogaming
+Rettungsdienst
 ReversePinterest
 Revolvers
 RheaRipley
@@ -5696,6 +5702,7 @@ Unexpected
 unexpectedfuturama
 UnexpectedJoJo
 UnexpectedlyWholesome
+UnexpectedMulaney
 unexpectedoffice
 UnexpectedTF2
 Unexplained
