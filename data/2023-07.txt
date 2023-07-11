@@ -1455,6 +1455,7 @@ dbxv
 dbz
 DBZDokkanBattle
 DC_Cinematic
+DCAU
 DCcomics
 dccomicscirclejerk
 DCEUleaks
@@ -5211,6 +5212,7 @@ TeachersInTransition
 TeamfightTactics
 TeamFourStar
 TeamSESH
+TearsOfThemis
 tech
 tech1e
 technews
@@ -6066,6 +6068,7 @@ YuB
 yugioh
 YuGiOhMemes
 yuna
+YUROP
 YuYuHakusho
 yvonnestrahovski
 ZaidZIZ
