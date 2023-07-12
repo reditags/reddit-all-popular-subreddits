@@ -148,6 +148,7 @@ aiyu
 AJR
 ak47
 akita
+AkutsuSan
 Alabama
 AlanPartridge
 alaska
@@ -1092,6 +1093,7 @@ CharacterAI
 characterarcs
 characterdrawing
 CharacterRant
+Chargers
 Charlotte
 CharlotteHornets
 CharteredAccountants
@@ -1633,6 +1635,7 @@ dishonored
 Dislyte
 disney
 DisneyDiamonds
+disneyemojiblitz
 DisneyEyes
 Disneyland
 disneyparks
@@ -3425,6 +3428,7 @@ MadokaMagica
 Madonna
 MAFS_AU
 MagicArena
+MagicEye
 magicTCG
 magicthecirclejerking
 maiaknight
@@ -6165,6 +6169,7 @@ worldjerking
 worldnews
 worldnewsvideo
 worldofgothic
+worldofpvp
 WorldofTanks
 WorldOfTanksBlitz
 WorldOfTShirts
