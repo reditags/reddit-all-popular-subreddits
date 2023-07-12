@@ -1027,6 +1027,7 @@ catsofukraine
 CatsOnCats
 catsonglass
 CatsOnKeyboards
+CatsPlayingDnd
 CatsStandingUp
 CatsWhoChirp
 CatsWhoConverse
@@ -2079,6 +2080,7 @@ Flyers
 flyfishing
 flying
 fnafmeme
+fnatic
 fnki
 fnv
 fo4
@@ -2136,6 +2138,7 @@ foxholegame
 fpv
 fragilecommunism
 FragileWhiteRedditor
+framework
 francais
 france
 FrankOcean
@@ -2684,6 +2687,7 @@ IBO
 ibs
 icecoast
 IceCreamWaifu
+Iceland
 ich_iel
 ichbin14unddasisttief
 ichbin40undlustig
@@ -3042,6 +3046,7 @@ KazuhaMains
 Kazumin
 kde
 KDRAMA
+KeanuBeingAwesome
 keep2share_premium
 Keep_Track
 Keeshond
@@ -3183,6 +3188,7 @@ law
 lawncare
 lawofattraction
 LawSchool
+LaylaMains
 LBank2021
 LeaEluiGinet
 leafs
@@ -4275,6 +4281,7 @@ petsmart
 PetTheDamnCat
 PetTheDamnDog
 pettyrevenge
+pewdiepie
 PewdiepieSubmissions
 PeytonList
 PhantomForces
@@ -4797,6 +4804,7 @@ Save3rdPartyApps
 savedyouaclick
 SBCGaming
 sbubby
+Scalemodel
 ScamandaPodcast
 scambait
 Scams
@@ -5422,6 +5430,7 @@ TheBoys
 TheBullWins
 thecampaigntrail
 TheCapitalLink
+thecatdimension
 TheCatTrapIsWorking
 TheCinemassacreTruth
 TheCivilService
