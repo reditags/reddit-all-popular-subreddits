@@ -583,6 +583,7 @@ battletech
 bayarea
 BayernMunich
 Bayonetta
+bbaasho
 BBBY
 BBQ
 beadsprites
@@ -2882,6 +2883,7 @@ IsraeliBeauty
 ISRO
 ITAGLIA
 Italia
+ItaliaMeme
 ItalianGreyhounds
 italy
 Itasha
@@ -3627,6 +3629,7 @@ MillieBobbyBrown2
 MillyAlcock
 milwaukee
 Mimosa
+mimovi
 Minecraftbuilds
 MinecraftChampionship
 Minecrafthmmm
@@ -3709,6 +3712,7 @@ Mordhau
 mordheim
 moreplatesmoredates
 MoriCalliope
+Morocco
 Morrowind
 MortalKombat
 Mortalkombatleaks
@@ -3905,6 +3909,7 @@ nier
 NierAutomataGallery
 NightInTheWoods
 NightLords
+nightvale
 NightVision
 Nightwing
 nightwish
@@ -4913,6 +4918,7 @@ SheGotHands
 sheltie
 ShenheMains
 ShermanPosting
+SHFiguarts
 shib
 shiba
 Shibainucoin
@@ -5372,6 +5378,7 @@ teenmom
 TeenMomOGandTeenMom2
 teentitans
 Tekken
+telescopes
 TempleofMarianne
 Tennessee
 Tennesseetitans
@@ -5563,6 +5570,7 @@ tinyanimalsonfingers
 tinyawoos
 Tinycatsinbigspaces
 TinyHouses
+tinyorangekittens
 TinyUnits
 TipOfMyFork
 tippytaps
@@ -6107,6 +6115,7 @@ WojakCompass
 Wolverine
 wolves
 WolvesAreBigYo
+women
 womencricketers
 womensstreetwear
 Woodcarving
