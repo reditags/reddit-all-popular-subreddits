@@ -70,6 +70,7 @@ AbbottElementary
 aberBitteLaminiert
 AbolishTheMonarchy
 ABoringDystopia
+ABroadInJapan
 AbruptChaos
 absolutelynotanimeirl
 absolutelynotme_irl
@@ -1374,6 +1375,7 @@ CRH
 Cricket
 CricketAus
 CricketShitpost
+CrimeScene
 criminalminds
 cringe
 cringepics
@@ -2549,6 +2551,7 @@ HardcoreNature
 hardimages
 hardstyle
 hardware
+hardwaregore
 Harley
 harrypotter
 harvestmoon
@@ -3570,6 +3573,7 @@ MasterReturns
 Mastiff
 mathmemes
 matureplants
+Maude_Garrett
 mauerstrassenwetten
 MauLer
 Mavericks
@@ -3987,6 +3991,7 @@ NiceVancouver
 NicolaCavanis
 nier
 NierAutomataGallery
+NieRAutomataGame
 NightInTheWoods
 NightLords
 nightvale
@@ -5621,6 +5626,7 @@ TheQSMP
 TheRandomest
 therapists
 TheRatEmpire
+TheRawKnee
 TheRealJoke
 TheRedDotComic
 ThereIsnoCat
@@ -5718,6 +5724,7 @@ Tokyo
 tollers
 tollywood
 TombRaider
+TomDelongeGuitars
 tomochanwaonnanoko
 tomodachilife
 tomorrow
@@ -5813,6 +5820,7 @@ trucksim
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
+TrueCrimePodcasts
 TrueFilm
 truegaming
 TrueOffMyChest
@@ -6080,6 +6088,7 @@ wankil
 wappiesinhetwild
 war
 WarAndPeas
+WarCry
 Warformed
 Warframe
 wargame
@@ -6284,6 +6293,7 @@ WoTshow
 WouldYouRather
 wow
 wownoob
+WoWs_Legends
 wowthanksimcured
 Wrangler
 Wrasslin
