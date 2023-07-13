@@ -450,6 +450,7 @@ Augenbleiche
 auntydonna
 AusFemaleFashion
 AusFinance
+ausjdocs
 auslaw
 AusLegal
 AusMemes
@@ -2477,6 +2478,7 @@ guitars
 Gulong
 GunAccessoriesForSale
 Gundam
+GundamEvolution
 gundeals
 Gunners
 Gunpla
@@ -3792,6 +3794,7 @@ MovieLeaksAndRumors
 MovieMistakes
 MoviePosterPorn
 movies
+Moviesinthemaking
 mrballen
 MrBeast
 MrReddit
