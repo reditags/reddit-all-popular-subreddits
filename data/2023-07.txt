@@ -4622,6 +4622,7 @@ psych
 Psychedelics
 psychology
 Psychonaut
+PTCGL
 PublicFreakout
 publix
 PuertoRico
