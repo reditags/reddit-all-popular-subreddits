@@ -1016,6 +1016,7 @@ castiron
 castles
 castlevania
 CasualConversation
+CasualIreland
 casualknitting
 CasualPT
 CasualRO
@@ -3242,6 +3243,7 @@ KSPMemes
 kubernetes
 kucoin
 KumoDesu
+kurtisconner
 Kurumi
 kurzgesagt
 KusanaliMains
