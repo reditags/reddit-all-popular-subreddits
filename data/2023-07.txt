@@ -5784,6 +5784,7 @@ Tools
 TooMeIrlForMeIrl
 toontownrewritten
 ToothpasteBoys
+TopCharacterDesigns
 TopChef
 TopGear
 TopMindsOfReddit
@@ -6064,6 +6065,7 @@ Veterans
 vexillology
 vexillologycirclejerk
 veYakinEvren
+vfx
 VGC
 VHS
 victoria2
