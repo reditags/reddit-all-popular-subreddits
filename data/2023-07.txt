@@ -707,6 +707,7 @@ Birbs
 birding
 BirdsArentReal
 BirdsBeingDicks
+birdstakingthetrain
 birdswitharms
 Birmingham
 BirminghamUK
@@ -2893,6 +2894,7 @@ IndiaSpeaks
 IndiaTrending
 IndieDev
 indiegames
+IndieGaming
 indieheadscirclejerk
 indonesia
 IndoorGarden
@@ -3406,6 +3408,7 @@ linux
 linux_gaming
 linuxmasterrace
 liseliler
+LISKiller
 literaciafinanceira
 literature
 lithuania
@@ -4383,6 +4386,7 @@ PayPigsPod
 PcBuild
 pcgaming
 pcmasterrace
+pcmusic
 PCOS
 PeakyBlinders
 PeanutWhiskers
