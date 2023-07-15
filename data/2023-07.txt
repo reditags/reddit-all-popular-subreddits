@@ -260,6 +260,7 @@ AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
 AnimalsOnReddit
+AnimalTextGifs
 AnimalTracking
 animation
 anime_best_moments
@@ -781,6 +782,7 @@ bmbmbm
 BMW
 BNBSIGN
 boardgames
+BobDoesSports
 bobdylan
 BobsBurgers
 BobsTavern
@@ -1005,6 +1007,7 @@ careerguidance
 CargoBike
 CarlaMedrano
 carlyraejepsen
+carnivorediet
 Carola
 carporn
 CarryMinati
@@ -1522,6 +1525,7 @@ danktintinmemes
 dankvideos
 DanLeBatardShow
 DanMachi
+DanmeiNovels
 DannyGonzalez
 DanTDM
 DarceyAndStaceyTLC
@@ -2660,6 +2664,7 @@ Highrepublic
 HighResCelebs
 highschool
 HighStrangeness
+Higurashinonakakoroni
 HikaruNakamura
 HilariaBaldwin
 Hilary_Duff
@@ -4011,6 +4016,7 @@ necoarc
 necromunda
 Necrontyr
 nederlands
+NeebsGaming
 needforspeed
 NeedyStreamerOverload
 neekolul
@@ -4668,6 +4674,7 @@ programming
 programminghorror
 ProgressionFantasy
 progun
+project1999
 Project_Wingman
 projectcar
 projecteternity
@@ -5560,6 +5567,7 @@ TamilNadu
 tampa
 TampaBayLightning
 tampabayrays
+TanaMongeauPodcast
 tankiejerk
 TankPorn
 tanks
