@@ -127,6 +127,7 @@ AdviceAnimals
 aeiou
 AEKAthensFC
 Aespa
+aestheticrain
 Aether_Mains
 AetherGazer
 AEWFightForever
@@ -887,6 +888,7 @@ BravoRealHousewives
 BravoTopChef
 Brawlhalla
 Brawlstars
+BrawlStarsCompetitive
 Brazil
 brdev
 Breadit
@@ -5827,6 +5829,7 @@ TheGirlSurvivalGuide
 theGoldenGirls
 TheGoodPlace
 thegrandtour
+TheGreatOnesReborn
 TheGriffonsSaddlebag
 TheGrittyPast
 TheHague
