@@ -1018,6 +1018,7 @@ Cardinals
 careeradvice
 careerguidance
 CargoBike
+CARiverPlate
 CarlaMedrano
 carlyraejepsen
 carnivorediet
@@ -1942,6 +1943,7 @@ EmpireDidNothingWrong
 ems
 emulation
 ENA
+EnbyFashionAdvice
 EnculerLesVoitures
 energy
 energydrinks
@@ -2227,6 +2229,7 @@ FordMaverickTruck
 fordranger
 Forest
 ForeverAlone
+ForeverAloneDating
 foreverplayer
 Forex
 ForgottenWeapons
@@ -4685,6 +4688,7 @@ portlandme
 PortlandOR
 portugal
 PORTUGALCARALHO
+portugaltheman
 portuguesasinstagram
 portugueses
 Possums
@@ -5986,6 +5990,7 @@ trainmemes
 trains
 trans
 transam
+Transcars
 TransClones
 Transformemes
 transformers
@@ -6148,6 +6153,7 @@ UnexpectedMulaney
 unexpectedoffice
 UnexpectedTF2
 Unexplained
+UNHhhh
 unimelb
 UniSwap
 unitedairlines
