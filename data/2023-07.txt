@@ -766,6 +766,7 @@ BlackTemplars
 BladeAndSorcery
 BladeMains
 bladerunner
+Bladesmith
 BLAHAJ
 blahajworshipers
 blakelively
@@ -5965,6 +5966,7 @@ Tinycatsinbigspaces
 TinyHouses
 tinyorangekittens
 TinyUnits
+tiodopave
 TipOfMyFork
 tippytaps
 Tiresaretheenemy
