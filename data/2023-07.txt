@@ -2030,6 +2030,7 @@ ESTILOZAP
 estoration
 Ethelcain
 ethereum
+EthereumClassic
 ethereumnoobies
 EtherMining
 ethfinance
@@ -3331,6 +3332,7 @@ Kibbe
 kibbe_typeme
 Kiddions
 KidsAreFuckingEvil
+KidsAreFuckingStupid
 KiernanBrennanShipka
 KiernanShipka
 kijiji
