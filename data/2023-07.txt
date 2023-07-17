@@ -586,6 +586,7 @@ Barber
 Barbie
 Barcelona
 barexam
+BariatricSurgery
 Barotrauma
 Barry
 Barstoolboners2
@@ -3343,6 +3344,7 @@ KiraraMains
 Kirby
 kiszamolo
 kitchener
+KitchenNightmares
 Kitler
 Kitten
 kittens
@@ -4194,6 +4196,7 @@ newjersey
 NewOrleans
 NewParents
 NewPatriotism
+NewRoryNMalPodcast
 news
 NewSkaters
 NewsOfTheStupid
