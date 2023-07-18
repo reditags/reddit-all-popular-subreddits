@@ -1025,6 +1025,7 @@ CanadianCoins
 CanadianInvestor
 canberra
 canceledpod
+CandicePatton
 CaneCorso
 canes
 cannabiscultivation
@@ -2647,6 +2648,7 @@ GuiltyDogs
 Guiltygear
 guineapigs
 Guitar
+GuitarAmps
 guitarcirclejerk
 guitarlessons
 guitarporn
@@ -2692,6 +2694,7 @@ halloween
 Halloweenmovies
 halo
 haloinfinite
+HaloLeaks
 HaloMemes
 HaloStory
 Hamilton
@@ -5449,6 +5452,7 @@ sketches
 skiing
 Skincare_Addiction
 SkincareAddicts
+skinwalkerranch
 Skookum
 skrillex
 skyblivion
@@ -5537,6 +5541,7 @@ SoulKnight
 SoulsSliders
 SoundersFC
 SoundTripPh
+soup
 sousvide
 southcarolina
 Southerncharm
@@ -5820,6 +5825,7 @@ tbatenovel
 tea
 Teachers
 TeachersInTransition
+teaching
 TeamfightTactics
 TeamFourStar
 TeamSESH
