@@ -752,6 +752,7 @@ bitchimabus
 BitchImATrain
 bitcoin354
 BitcoinBanana
+BitcoinGoldHQ
 BitLifeApp
 BITSPilani
 BittorrentToken
@@ -1496,11 +1497,20 @@ Crypto_com
 Crypto_General
 CryptoAirdrop
 CryptoCurrency
+CryptocurrencyICO
+CryptocurrencyNZ
+CryptoDAO
+CryptoFR
+CryptoFrance
+CryptoICONews
+CryptoIndex_io
 CryptoIndia
 CryptoMars
 CryptoMarsShots
 CryptoMoon
 CryptoMoonShots
+CryptoMoonshots2
+CryptoNewsOfficial
 cryptostreetbets
 Cryptozoology
 Crystals
@@ -2156,6 +2166,7 @@ fashionporn
 FashionReps
 fastandfurious
 fasting
+FastWorkers
 fatcats
 Fate
 fatestaynight
@@ -4312,6 +4323,7 @@ njpw
 NLBest
 NLSSCircleJerk
 NMIXX
+NMSCoordinateExchange
 NoahGetTheBoat
 NobodyAsked
 Noctor
@@ -5661,6 +5673,7 @@ StarWarsleftymemes
 starwarsmemes
 starwarsrebels
 Staryuukisincensura
+stateofMN
 STAYC
 stbernards
 steak
