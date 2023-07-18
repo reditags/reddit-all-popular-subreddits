@@ -1554,6 +1554,7 @@ czechmemes
 CZFirearms
 D4Druid
 D4Necromancer
+D4Sorceress
 Dabs
 DACA
 Dachshund
@@ -2965,6 +2966,7 @@ IdentityV
 ididnthaveeggs
 idiocracy
 IdiotsFightingThings
+IdiotsInCars
 IdiotsNearlyDying
 Idiotswithguns
 idiotwastingtime
@@ -3731,6 +3733,7 @@ macdonaldsisters
 macgaming
 MachikadoMazoku
 MachineGunKelly
+MachineLearning
 MachinePorn
 Machinists
 MacMiller
