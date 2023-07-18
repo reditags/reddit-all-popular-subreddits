@@ -426,6 +426,7 @@ askmath
 AskMeAnythingIAnswer
 AskMechanics
 AskMen
+AskMenOver30
 AskMeuf
 AskMiddleEast
 AskNYC
@@ -2748,6 +2749,7 @@ Hardcore
 HardcoreNature
 hardimages
 hardstyle
+Hardtailgang
 hardware
 hardwaregore
 Harley
@@ -5640,6 +5642,7 @@ Spore
 sports
 sportsbetting
 sportsbook
+spotify
 SpottedonRightmove
 spqrposting
 spreadytoes
