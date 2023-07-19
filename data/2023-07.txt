@@ -2681,6 +2681,7 @@ gshock
 GTA
 GTA6
 gtaonline
+GTAorRussia
 GTAV
 GuardianTales
 Guelph
@@ -4332,6 +4333,7 @@ NicolaCavanis
 nier
 NierAutomataGallery
 NieRAutomataGame
+nietdespeld
 NightInTheWoods
 NightLords
 nightvale
@@ -6853,6 +6855,7 @@ YagateKiminiNaru
 yakuzagames
 YAlit
 yandere
+YanfeiMains
 YarnAddicts
 yarntrolls
 yayfoxxo
