@@ -1146,6 +1146,7 @@ Cawwsplay
 CBSE
 CCW
 Cd_collectors
+CDawgVA
 CDrama
 cedarpoint
 CelebEvents
@@ -2649,6 +2650,7 @@ Graspop
 gratefuldead
 gravelcycling
 gravityfalls
+gravityrush
 GreatBritishMemes
 greatdanes
 greatestgen
