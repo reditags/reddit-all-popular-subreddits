@@ -427,6 +427,7 @@ AskHR
 askhungary
 asklatinamerica
 AskLosAngeles
+askmanagers
 askmath
 AskMeAnythingIAnswer
 AskMechanics
@@ -903,6 +904,7 @@ boxoffice
 boygenuis
 BPD
 BPDmemes
+Brampton
 brandnew
 BrandNewAnimal
 BrandNewSentence
@@ -3538,6 +3540,7 @@ languagelearning
 languagelearningjerk
 lanitas
 LarissaManoelaa
+LARP
 lasculturistas
 LaStalla
 LastEpoch
