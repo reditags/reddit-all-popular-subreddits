@@ -105,6 +105,7 @@ ACMilan
 acnh
 acotar
 ACPocketCamp
+acrylicpainting
 ActionFigures
 ActivationSound
 actu_memes
@@ -5438,6 +5439,7 @@ Shipwrecks
 shitcoinmoonshots
 ShitCrusaderKingsSay
 shiteu4playerssay
+ShitKonfaSays
 ShitLiberalsSay
 ShitMomGroupsSay
 ShitPoliticsSays
