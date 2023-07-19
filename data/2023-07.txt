@@ -1560,6 +1560,7 @@ CZFirearms
 D4Druid
 D4Necromancer
 D4Sorceress
+DabbooRatnani
 Dabs
 DACA
 Dachshund
@@ -3688,6 +3689,7 @@ loseit
 lost
 Lost_Architecture
 lostarkgame
+lostmedia
 lostpause
 lostredditors
 lotr
@@ -4795,6 +4797,7 @@ PitBullOwners
 pitbulls
 pitbulls_in_partyhats
 pitbullsinjammies
+PittieSmiles
 pittsburgh
 PixelArt
 Pizza
@@ -6598,6 +6601,7 @@ Watchit_Brasil
 Watchit_India
 WatchPeopleDieInside
 watchpeoplesurvive
+watchthingsfly
 WatchWhatCrappens
 Watercolor
 watercooling
