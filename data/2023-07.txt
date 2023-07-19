@@ -2745,6 +2745,7 @@ Hammers
 hamstercirclejerk
 handbags
 HandfulOfKitten
+HandOfMemes
 handtools
 Handwriting
 HannahBarron
@@ -2964,6 +2965,7 @@ IAmA
 iamatotalpieceofshit
 IAmTheMainCharacter
 iamverybadass
+iamveryculinary
 iamverysmart
 IASIP
 Ibanez
@@ -3458,6 +3460,7 @@ korea
 KoreanFood
 koreanvariety
 Korn
+Korpo
 korrasami
 KotakuInAction
 kotakuinaction2
@@ -4021,6 +4024,7 @@ milwaukee
 MilwaukeeTool
 Mimosa
 mimovi
+Mindfulness
 Minecraftbuilds
 MinecraftChampionship
 MinecraftCommands
@@ -6228,6 +6232,7 @@ totalwar
 totalwarhammer
 TOTK
 TouchThaFishy
+Toughguysholdingpets
 touhou
 touhou_lostword
 tourdefrance
