@@ -37,6 +37,7 @@
 3Dmodeling
 3Dprinting
 3DS
+40k
 40kLore
 40kmemes
 49ers
@@ -4146,6 +4147,7 @@ Modern_Family
 ModernMagic
 modernwarfare
 ModernWarfareII
+modular
 moedred
 MoeMorphism
 Moescape
@@ -4201,6 +4203,7 @@ Mountaineering
 mountandblade
 mourningderps
 MouseReview
+Moustache
 moviecritic
 MovieDetails
 MovieLeaksAndRumors
@@ -4896,6 +4899,7 @@ PizzaTower
 PKA
 place
 PlaceAPI
+placebrasil
 placeDE
 placeFR
 PlaceMexico
