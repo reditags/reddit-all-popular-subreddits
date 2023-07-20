@@ -4867,6 +4867,7 @@ PizzaCrimes
 PizzaDrivers
 PizzaTower
 PKA
+PlaceAPI
 placeDE
 placeFR
 PlanetZoo
@@ -5568,6 +5569,7 @@ SigSauer
 silenthill
 silentmoviegifs
 Silksong
+SillyTavernAI
 Silmarillionmemes
 SiloSeries
 Silverado
@@ -6051,6 +6053,7 @@ ThaiBL
 Thailand
 ThailandTourism
 thalassophobia
+thane
 thanksihateit
 thanksimcured
 thanosdidnothingwrong
