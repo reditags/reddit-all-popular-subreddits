@@ -107,6 +107,7 @@ acnh
 acotar
 ACPocketCamp
 acrylicpainting
+acting
 ActionFigures
 ActivationSound
 actu_memes
@@ -119,6 +120,7 @@ AddisonRae
 Adelaide
 AdeptusCustodes
 AdeptusMechanicus
+AdeptusRidiculous
 adeptustitanicus
 ADHDinos
 ADHDmemes
@@ -461,6 +463,7 @@ assettocorsa
 assholedesign
 astoria
 astrologymemes
+Astroneer
 Astronomy
 Astros
 asushin
@@ -4885,6 +4888,7 @@ place
 PlaceAPI
 placeDE
 placeFR
+PlaceNL
 PlanetZoo
 PlantBasedDiet
 plantclinic
@@ -5390,6 +5394,7 @@ savannah
 SavannahDemers
 Save3rdPartyApps
 savedyouaclick
+saw
 SBCGaming
 sbubby
 Scalemodel
@@ -6259,6 +6264,7 @@ tippytaps
 Tiresaretheenemy
 titanfall
 titanic
+tja
 tjournal_refugees
 TLCsisterwives
 TLCUnexpected
@@ -6355,6 +6361,7 @@ transitiongoals
 TransLater
 translator
 Transmogrification
+transplace
 trap
 TrapCuties
 trashpandas
