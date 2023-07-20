@@ -479,6 +479,7 @@ Atlantology
 atomicheart
 attackeyes
 attackontitan
+AubreyPlaza
 auckland
 audemarspiguet
 Audi
@@ -1898,6 +1899,7 @@ dotnet
 DottoreMains
 doughboys
 DoveCameron
+downloadfestival
 DowntonAbbey
 DragaliaLost
 DragonageOrigins
@@ -2331,6 +2333,7 @@ fnki
 fnv
 fo4
 fo76
+fo76FilthyCasuals
 FocalorsMains_
 FondantHate
 food
@@ -3094,6 +3097,7 @@ Incorgnito
 IncredibleIndia
 incremental_games
 india
+India247trending
 india_tourism
 IndiaCricket
 indiadiscussion
@@ -3367,6 +3371,7 @@ JustTaxLand
 JustUnsubbed
 JustYuri
 Juve
+juxtaposition
 k_on
 Kaarija
 KaeyaMains
@@ -4873,6 +4878,7 @@ PizzaCrimes
 PizzaDrivers
 PizzaTower
 PKA
+place
 PlaceAPI
 placeDE
 placeFR
@@ -5766,6 +5772,7 @@ stalker
 StallmanWasRight
 Stance
 standardissuecat
+Standup
 StandUpComedy
 standupshots
 starbound
