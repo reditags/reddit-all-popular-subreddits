@@ -225,6 +225,7 @@ AmericaBad
 americanairlines
 americandad
 americaneskimo
+AmericanFlaginPlace
 AmericanHorrorStory
 amex
 AMG
@@ -3404,6 +3405,7 @@ kardashians
 KarenFukuhara
 karengillan
 karens
+karnataka
 katamari
 KatanaZero
 KatDennings
@@ -4328,6 +4330,7 @@ neekolul
 neekomains
 NelliesNest
 NEO
+neoliberal
 NeonGenesisEvangelion
 neopets
 neovim
@@ -5209,6 +5212,7 @@ RelayForReddit
 religiousfruitcake
 reloading
 remix
+remnantgame
 renfaire
 Reno
 Reno911
@@ -5964,6 +5968,7 @@ sylvaneth
 SympatheticMonsters
 synthesizers
 sysadmin
+Sysadminhumor
 systemofadown
 TabbyCats
 tabletopgamedesign
@@ -6669,6 +6674,7 @@ voyager
 vpnnetwork
 VRchat
 VShojo
+vtm
 vtmb
 vtolvr
 Vulfpeck
