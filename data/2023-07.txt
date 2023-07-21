@@ -4794,6 +4794,7 @@ PartyParrot
 pasadena
 passive_income
 PassportPorn
+pasta
 PastAndPresentPics
 PastorArrested
 Patapon
@@ -6262,6 +6263,7 @@ thesims4
 TheSimsBuilding
 thesopranos
 TheStrokes
+theswarm
 thetagang
 TheTempleOfOchako
 theticket
@@ -6295,6 +6297,7 @@ ThisLooksFun
 ThisYouComebacks
 ThomasinMcKenzie
 thomastheplankengine
+ThoughtWarriors
 ThousandSons
 threebodyproblem
 ThriftGrift
