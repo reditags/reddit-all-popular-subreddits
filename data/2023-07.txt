@@ -515,6 +515,7 @@ AustralianPets
 AustralianPolitics
 AustralianShepherd
 AustralianSpiders
+AustralianTeachers
 australianwildlife
 Austria
 austriahungary
@@ -1693,6 +1694,7 @@ dcsworld
 DDintoGME
 DDLC
 de
+DeadAhead
 deadandcompany
 deadbydaylight
 DeadByDaylightKillers
@@ -5798,6 +5800,7 @@ sportsbook
 spotify
 SpottedonRightmove
 spqrposting
+spreadsmile
 spreadytoes
 springfieldMO
 SprocketTankDesign
