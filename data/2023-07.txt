@@ -207,6 +207,7 @@ AlternativeHistory
 Altrive
 Alzwards_Corner
 AMA
+AmandaHolden
 AmandaSeyfriedOnline
 amandatheadventurer
 AmateurPhotography
@@ -684,6 +685,7 @@ bees
 BeeSwarmSimulator
 beetlejuicing
 BeforeNAfterAdoption
+BeggingChoosers
 BeginnerWoodWorking
 behindthebastards
 BehindTheClosetDoor
@@ -1740,6 +1742,7 @@ Delightfullychubby
 delta
 Deltarune
 delusionalartists
+delusionalcraigslist
 DelusionsOfAdequacy
 deMiko
 demisexuality
@@ -2868,6 +2871,7 @@ heraldry
 HermanCainAward
 HermitCraft
 hermitcraftmemes
+heroes3
 heroesofthestorm
 HeroForgeMinis
 herpetology
@@ -3842,6 +3846,7 @@ MachineLearning
 MachinePorn
 Machinists
 MacMiller
+MacOS
 macsetups
 Madden
 MaddieZiegler
@@ -4918,7 +4923,9 @@ PKA
 place
 place_brff
 PlaceAPI
+placeAustria
 placebrasil
+placeCH
 placeDE
 placeFR
 PlaceMexico
