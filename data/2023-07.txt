@@ -202,6 +202,7 @@ AllThingsDND
 AlternateAngles
 AlternateHistory
 alternativefashion
+AlternativeHistory
 Altrive
 Alzwards_Corner
 AMA
@@ -4560,6 +4561,7 @@ okaybuddyretard
 okbhaibudbak
 OkBrudiMongo
 okbuddybaka
+okbuddyblacklung
 okbuddycapitalist
 okbuddychicanery
 okbuddycinephile
