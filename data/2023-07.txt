@@ -3634,6 +3634,7 @@ learndota2
 learndutch
 LearnerDriverUK
 learningtocat
+learnmachinelearning
 learnprogramming
 learntodraw
 LearnUselessTalents
@@ -3867,6 +3868,7 @@ madlads
 MadMax
 MadokaMagica
 Madonna
+Mafex
 MAFS_AU
 MAGANAZI
 MagicArena
@@ -4797,6 +4799,7 @@ PathToNowhere
 PatMcAfeeShowOfficial
 Patriots
 PaulanerSpezi
+Pauper
 paydaytheheist
 PaymoneyWubby
 PayPigsPod
@@ -6218,6 +6221,7 @@ TheMarvelousMrsMaisel
 TheMassive
 TheMcDojoLife
 TheMorningToastSnark
+themountaingoats
 thenetherlands
 TheNightFeeling
 TheNinthHouse
@@ -7093,6 +7097,7 @@ zillakami
 zillowgonewild
 ZoeEbarbFanpage
 ZombielandSaga
+Zoomerchan3
 Zoomies
 zootopia
 ZZZ_Official
