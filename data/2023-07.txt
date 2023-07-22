@@ -5008,6 +5008,7 @@ placeFR
 PlaceIreland
 PlaceMexico
 PlaceNL
+placesuedflagge
 placeukraine
 PlanetZoo
 PlantBasedDiet
@@ -5068,6 +5069,7 @@ Polcompball
 policeuk
 PolinBridgerton
 Political_Revolution
+PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
 PoliticalMemes
@@ -6634,6 +6636,7 @@ UK_TV_Girls
 UKcoins
 ukdrill
 UKfood
+UKhiking
 UKJobs
 uknews
 UKPersonalFinance
