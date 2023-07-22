@@ -287,6 +287,7 @@ AnimalsBeingStrange
 animalsdoingstuff
 AnimalsMonching
 AnimalsOnReddit
+Animalsthatlovemagic
 AnimalTextGifs
 AnimalTracking
 animation
@@ -1879,6 +1880,7 @@ DivorcedBirds
 DiWHY
 DIY
 DIYUK
+DJ_Peach_Cobbler
 DJAkademiks
 dji
 Djungelskog
@@ -2433,6 +2435,7 @@ forza
 ForzaHorizon
 fossilid
 found70percentbanana
+FoundationTV
 foundnikfemboy
 FoundPaper
 foundsatan
@@ -3274,6 +3277,7 @@ irelandsshitedrivers
 irezumi
 irishpersonalfinance
 IronFrontUSA
+IronHands40k
 ironmaiden
 ironmouse
 ironscape
@@ -3784,6 +3788,7 @@ literature
 lithuania
 litrpg
 LitterboxComics
+littlebigplanet
 LittleNightmares
 LittleRock
 LittlestPetShop
@@ -5185,6 +5190,7 @@ PunkMemes
 Punny
 PunPatrol
 puns
+PupliftingNews
 puppies
 puppy101
 PuppySmiles
@@ -5670,6 +5676,7 @@ shittyaquariums
 Shittyaskflying
 shittyaskscience
 shittybloodborne
+ShittyCarMod
 shittyfoodporn
 Shittygamecollecting
 shittygamedetails
@@ -6563,6 +6570,7 @@ TTSverse
 tuckedinkitties
 TuckedInPuppies
 Tucson
+Tudor
 Tudorhistory
 tulsa
 tumblr
