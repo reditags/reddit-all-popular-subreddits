@@ -224,6 +224,7 @@ AmazonFlexDrivers
 AmberMains
 AmberMidthunder
 Amberverse_
+ambien
 AMCsAList
 amcstock
 AMCSTOCKS
@@ -806,6 +807,7 @@ BlackHair
 Blacklabs
 blacklagoon
 blackmagicfuckery
+BlackMetalMemes
 BlackPeopleComedy
 blackpeoplegifs
 BlackPeopleTwitter
@@ -4968,6 +4970,7 @@ PlaceAPI
 PlaceArg
 placeAustria
 placebrasil
+placecanada
 placeCH
 placeDE
 placeFR
@@ -5148,6 +5151,7 @@ PTCGL
 PublicFreakout
 publix
 PuertoRico
+puffco
 Puggle
 pukicho
 pune
