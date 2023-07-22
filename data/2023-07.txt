@@ -995,6 +995,7 @@ Bronya
 brookemonke_xo
 Brooklyn
 brooklynninenine
+brot
 brotato
 Browns
 brushybrushy
@@ -1324,6 +1325,7 @@ CirclejerkSopranos
 CirclingBack
 cirkeltrek
 CitiesSkylines
+citypop
 CityPorn
 civ
 civ5
@@ -1687,6 +1689,7 @@ dashcams
 dataengineering
 DataHoarder
 dataisbeautiful
+dataisugly
 datascience
 datealive
 dating
@@ -2699,6 +2702,7 @@ GoodAssSub
 goodboomerhumor
 GoodFakeTexts
 goodmythicalmorning
+goodnews
 goodrestrictionfood
 GooglePixel
 goons
@@ -6854,6 +6858,7 @@ Watches
 Watchexchange
 Watchit_Brasil
 Watchit_India
+Watchmen
 WatchPeopleDieInside
 watchpeoplesurvive
 watchthingsfly
@@ -6906,6 +6911,7 @@ Wellington
 Wellthatsucks
 Wellworn
 wendigoon
+WendyRedVelvet
 WerWieWas
 wesanderson
 WestHighlandTerriers
