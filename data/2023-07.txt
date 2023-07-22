@@ -1900,6 +1900,7 @@ DobermanPinscher
 doctorwho
 DoctorWhumour
 Documentaries
+Dodge
 doener
 DOG
 DogAdvice
@@ -2391,6 +2392,7 @@ fo76FilthyCasuals
 FocalorsMains_
 FondantHate
 food
+Foodforthought
 foodhacks
 FoodieCutie
 FoodieSnark
@@ -6245,6 +6247,7 @@ thebeachboys
 TheBear
 TheBeatles
 TheBidenshitshow
+TheBigPicture
 thebindingofisaac
 TheBoys
 TheBrewery
@@ -6537,6 +6540,7 @@ TrixieMattel
 TroChuyenLinhTinh
 TrollCoping
 trolleyproblem
+TrollYChromosome
 tron
 Tronix
 Trophies
