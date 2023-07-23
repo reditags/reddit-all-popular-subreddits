@@ -1973,6 +1973,7 @@ DrDisrespectLive
 Dreadlocks
 DreamlightValley
 Dreams
+Dreamtheater
 dredge
 drehscheibe
 dreifragezeichen
@@ -5243,6 +5244,7 @@ RabiscosBr
 Raccoons
 Rachel_Pizzolato
 RachelPizzolato
+RachelRiley
 RachelZegler
 radiohead
 radioheadcirclejerk
@@ -6051,6 +6053,7 @@ submitted
 subnautica
 Subnautica_Below_Zero
 SubSimulatorGPT2
+SubSimulatorGPT2Meta
 SubsTakenLiterally
 Suburbanhell
 subway
