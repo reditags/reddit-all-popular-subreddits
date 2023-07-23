@@ -1438,6 +1438,7 @@ ConanBeingAwesome
 ConanExiles
 ConanTheBarbarian
 Concrete
+ConeHeads
 confession
 confessions
 confidentlyincorrect
@@ -3093,6 +3094,7 @@ Iceland
 ich_iel
 ichbin14unddasisttief
 ichbin40undlustig
+ichbin40undSchwurbler
 IchikaFanclub
 Idaho
 IdentityV
@@ -5031,6 +5033,7 @@ placeFR
 PlaceIreland
 PlaceMexico
 PlaceNL
+PlacePride
 placesuedflagge
 placeukraine
 Planetside
