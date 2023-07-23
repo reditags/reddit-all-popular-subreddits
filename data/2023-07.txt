@@ -515,6 +515,7 @@ ausjdocs
 auslaw
 AusLegal
 AusMemes
+AussieMaps
 AussieTikTokSnark
 AustinFC
 austinfood
@@ -1609,6 +1610,7 @@ cuteguyswithcats
 cutekpopgirls
 cutenoobs
 CVS
+Cyberbooty
 Cyberpunk
 cyberpunkgame
 cybersecurity
@@ -3823,6 +3825,7 @@ londonontario
 lonely
 longbeach
 longboyes
+longcats
 LongDistance
 longhair
 LonghornNation
@@ -4060,6 +4063,7 @@ mechanical_gifs
 MechanicalKeyboards
 MechanicalPandey
 Mechwarrior5
+MedicalCannabisAus
 MedicalGore
 medicalschoolRomania
 MedievalCats
@@ -5741,6 +5745,7 @@ SideProject
 Sigmarxism
 Sigmatopia
 signalis
+SignoraMains
 SigSauer
 silenthill
 silentmoviegifs
@@ -6756,6 +6761,7 @@ UXResearch
 UzakiChan
 v8supercars
 vagabond
+vagabondmanga
 ValentGarzonC
 valerialcala
 valheim
@@ -7226,6 +7232,7 @@ zillakami
 zillowgonewild
 ZoeEbarbFanpage
 ZombielandSaga
+zonguldak
 Zoomerchan3
 Zoomies
 zootopia
