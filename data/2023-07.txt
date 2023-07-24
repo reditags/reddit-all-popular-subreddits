@@ -1859,6 +1859,7 @@ DilucMains
 Dimension20
 DINgore
 Dinosaurs
+DiovanaKoni
 Dipcifica
 Dirtbikes
 disability
@@ -5976,6 +5977,7 @@ Spunchbob
 Spyro
 SpyxFamily
 SquaredCircle
+squidgame
 squirrels
 squishmallow
 SrGrafo
@@ -6138,6 +6140,7 @@ Supernatural
 Superstonk
 superstore
 SuperStructures
+SupportforBetrayed
 supportlol
 surat
 surrealmemes
