@@ -3724,6 +3724,7 @@ learndota2
 learndutch
 LearnerDriverUK
 learningtocat
+learnjavascript
 learnmachinelearning
 learnprogramming
 learntodraw
@@ -5257,6 +5258,7 @@ PuertoRico
 puffco
 Puggle
 pukicho
+pundarblocket
 pune
 PunishingGrayRaven
 punk
@@ -6378,6 +6380,7 @@ TheGreatOnesReborn
 TheGriffonsSaddlebag
 TheGrittyPast
 TheHague
+TheHandmaidsTale
 theidol
 TheInbetweeners
 theisle
