@@ -781,6 +781,7 @@ BillBurr
 billieeilish
 BillieEilish1
 billsimmons
+BillyStrings
 bindingofisaac
 bing
 BinIchDasArschloch
@@ -1568,6 +1569,7 @@ CrossStitch
 crowbro
 crows
 crtgaming
+CrucibleGuidebook
 CrueltySquad
 Cruise
 CrumblCookies
@@ -3122,6 +3124,7 @@ Ibanez
 IBEW
 IBO
 ibs
+IcebergCharts
 icecoast
 IceCreamWaifu
 Iceland
@@ -3985,6 +3988,7 @@ MadMax
 MadokaMagica
 Madonna
 Mafex
+Mafia
 MAFS_AU
 MAGANAZI
 MagicArena
@@ -5756,6 +5760,7 @@ shiba
 SHIBADULTS
 Shibainucoin
 SHIBArmy
+shield
 shieldbro
 Shihtzu
 ShikimoriIsntJustCute
