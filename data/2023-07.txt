@@ -1849,6 +1849,7 @@ DetroitPistons
 DetroitRedWings
 DeutscheComics
 deutschememes
+DevelEire
 developersIndia
 DevilMayCry
 devils
@@ -5332,6 +5333,7 @@ QualityTacticalGear
 quandle
 Quebec
 queen
+queensland
 queensofgenshin
 quilting
 quityourbullshit
@@ -6077,6 +6079,7 @@ StarTrekStarships
 startups
 StarVStheForcesofEvil
 StarWars
+starwars_place
 StarWarsAndor
 StarWarsBattlefront
 starwarsblackseries
