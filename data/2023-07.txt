@@ -4836,6 +4836,7 @@ OooBigStretch
 OopsThatsDeadly
 OPBR
 opensea
+openttd
 Opeth
 OPMFolk
 opossum_irl
@@ -4915,6 +4916,7 @@ PakiGentlemenBoner
 pakistan
 Paladins
 Paleontology
+palermo_city
 Palestine
 PallasCats
 palmbeach
@@ -5118,6 +5120,7 @@ PlaceMexico
 PlaceNL
 PlacePride
 placesuedflagge
+placetr
 placeukraine
 Planetside
 PlanetZoo
@@ -5697,6 +5700,7 @@ SDSGrandCross
 seaglass
 seals
 Seaofthieves
+seashanties
 Seattle
 SeattleKraken
 SeattleWA
