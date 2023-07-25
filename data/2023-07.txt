@@ -1488,6 +1488,7 @@ ContraPoints
 controlgame
 Conures
 ConvenientCop
+CookieClicker
 cookiedecorating
 Cookierun
 CookieRunKingdoms
@@ -2766,6 +2767,7 @@ GoNets
 GoodAssSub
 goodboomerhumor
 GoodFakeTexts
+GoodGoodMemes
 goodmythicalmorning
 goodnews
 goodrestrictionfood
@@ -3064,6 +3066,7 @@ horizon
 HorizonForbiddenWest
 Hornyjail
 horror
+horrorlit
 HorrorMovies
 Horses
 hostedgames
@@ -6060,6 +6063,7 @@ SprocketTankDesign
 Spunchbob
 Spyro
 SpyxFamily
+sqd13
 SquaredCircle
 squidgame
 squirrels
