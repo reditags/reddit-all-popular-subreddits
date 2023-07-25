@@ -201,6 +201,7 @@ AlexOnTheMic
 AlfaRomeo
 algeria
 AlHaithamMains
+AlHaithamMainsE
 aliandjohnjamesagain
 AliciaMccarvelSnark
 aliens
@@ -6281,12 +6282,14 @@ synthesizers
 sysadmin
 Sysadminhumor
 systemofadown
+sza
 TabbyCats
 tabletopgamedesign
 tacobell
 Tacoma
 tacticalgear
 TacticalIssueCat
+tahoe
 Taiwanese
 Takagi_san
 tales
