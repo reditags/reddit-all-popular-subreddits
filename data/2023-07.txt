@@ -370,6 +370,7 @@ aphextwin
 apolloapp
 AppalachianTrail
 apple
+AppleMusic
 applestorequeenv2
 AppleWatch
 ApplyingToCollege
@@ -3959,6 +3960,7 @@ Luthier
 Luxembourg
 LV426
 LycorisRecoil
+Lyft
 lyftdrivers
 lynxpointsiamese
 M1Rifles
