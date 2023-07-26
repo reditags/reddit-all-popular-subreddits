@@ -1281,6 +1281,7 @@ Charlottesville
 CharteredAccountants
 ChasersRiseUp
 ChatGPT
+ChatGPTPro
 Chattanooga
 chch
 cheating_stories
@@ -4869,6 +4870,7 @@ oompasubs
 OooBigStretch
 OopsThatsDeadly
 OPBR
+OpenAI
 opensea
 openttd
 Opeth
