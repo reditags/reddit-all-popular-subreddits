@@ -279,6 +279,7 @@ andor
 AndrewGosden
 andreyoung
 androiddev
+ANGEL
 angelsbaseball
 AngryCops
 Angryupvote
@@ -3789,6 +3790,7 @@ LearmannTwins
 learndota2
 learndutch
 LearnerDriverUK
+learnfrench
 learningtocat
 learnjavascript
 learnmachinelearning
@@ -4358,6 +4360,7 @@ MLS
 MMA
 mmamemes
 MMORPG
+MnetQueendom
 MoaiGreddit
 MobileLegendsGame
 Mobpsycho100
@@ -5327,6 +5330,7 @@ programminghorror
 ProgressionFantasy
 progun
 project1999
+Project_L
 Project_Moon
 Project_Wingman
 projectcar
