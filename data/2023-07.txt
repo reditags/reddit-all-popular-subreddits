@@ -394,6 +394,7 @@ AR10
 ar15
 ARAM
 araragi
+ArAutos
 arbeitsleben
 arborists
 arcane
@@ -2182,6 +2183,7 @@ enlistedgame
 Enneagram
 Enough_Sanders_Spam
 EnoughCommieSpam
+EnoughLibertarianSpam
 EnoughMuskSpam
 EnoughPCMSpam
 enoughpetersonspam
@@ -7155,6 +7157,7 @@ Waterfalls
 waterloo
 Wavyhair
 WCW
+wde
 We_are_weeb
 WeaponsMoe
 WeatherGifs
