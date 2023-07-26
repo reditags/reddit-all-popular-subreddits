@@ -373,6 +373,7 @@ AoSLore
 AOW4
 ape
 apexlegends
+ApexLore
 ApexOutlands
 ApexUncovered
 ApheliosMains
@@ -3843,6 +3844,7 @@ lesserafim
 letshugotv
 LetsNotMeet
 LetsTalkBam
+LetsTalkMusic
 Letterboxd
 LetzteGeneration
 lewishamilton
@@ -4293,6 +4295,7 @@ mildlyinfuriating
 Mildlynomil
 mildlypenis
 mildlysatisfying
+mildlyterrifying
 MildlyVandalised
 milesprower
 Militariacollecting
@@ -6323,6 +6326,7 @@ SydneySweeney
 sylt51
 sylvaneth
 SympatheticMonsters
+synology
 synthesizers
 sysadmin
 Sysadminhumor
