@@ -683,6 +683,7 @@ BattleNetwork
 BattlePaintings
 battlestations
 battletech
+bavaria
 bayarea
 BayernMunich
 Bayonetta
@@ -2134,6 +2135,7 @@ ElvenGirls
 Elvis
 elxokas
 Elysia
+embedded
 Embroidery
 emergencyintercom
 emergencymedicine
@@ -4496,6 +4498,7 @@ NanaAnime
 NanatsunoTaizai
 NANIKPosting
 Nanny
+NapoleonFR
 NarcoFootage
 Naruto
 narutomemes
@@ -4971,6 +4974,7 @@ panthers
 Papaplatte
 papermario
 papermoney
+papgrappen
 papillon
 ParadoxExtra
 paradoxplaza
@@ -5325,6 +5329,7 @@ ProperAnimalNames
 proplifting
 ProRevenge
 protogen
+providence
 prusa3d
 PS3
 PS4
@@ -6628,6 +6633,7 @@ tja
 tjournal_refugees
 TLCsisterwives
 TLCUnexpected
+TLRY
 TMKOC
 TMNT
 tmobile
