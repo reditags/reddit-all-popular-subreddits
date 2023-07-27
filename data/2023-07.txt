@@ -537,6 +537,7 @@ ausjdocs
 auslaw
 AusLegal
 AusMemes
+AusNews
 AussieMaps
 AussieTikTokSnark
 AustinFC
@@ -5698,6 +5699,7 @@ samharris
 SamiraMains
 SamONellaAcademy
 samoyeds
+samuraijack
 sanantonio
 SandersForPresident
 SanDiegan
@@ -6314,6 +6316,7 @@ sutesfozes
 suzerain
 svenskpolitik
 Sverige
+SVU
 swaggybark
 swans
 SweatyPalms
