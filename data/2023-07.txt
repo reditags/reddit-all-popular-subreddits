@@ -2570,6 +2570,7 @@ friendlyjordies
 friends_tv_show
 Frieren
 fringe
+FringeTheory
 frogs
 Fromis
 FromKittenToCat
@@ -4631,6 +4632,7 @@ NewGreentexts
 newhampshire
 NewIran
 NewJeans
+NewJeans_Hotties
 newjersey
 NewOrleans
 NewParents
