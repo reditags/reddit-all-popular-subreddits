@@ -2547,6 +2547,7 @@ forza
 ForzaHorizon
 fossilid
 fotografiaBR
+Fotv
 found70percentbanana
 FoundationTV
 foundnikfemboy
@@ -5664,6 +5665,7 @@ RocketLeagueEsports
 rockets
 rockhounds
 rockmuzik
+RockOfLove
 rodentintercourse
 RodriguesFamilySnark
 ROGAlly
