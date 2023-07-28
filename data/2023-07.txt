@@ -1063,6 +1063,7 @@ BudgetAudiophile
 budgetfood
 budgieParty
 budgies
+BuenosAires
 Buffalo
 buffalobills
 buffy
@@ -1787,6 +1788,7 @@ dbz
 DBZDokkanBattle
 DC_Cinematic
 DCAU
+DCCMakingtheTeam
 DCcomics
 dccomicscirclejerk
 DCEUleaks
