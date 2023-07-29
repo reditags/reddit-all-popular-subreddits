@@ -122,6 +122,7 @@ acrylicpainting
 acting
 ActionFigures
 ActivationSound
+ActiveMeasures
 actu_memes
 actuallesbians
 ActualLesbiansOver25
@@ -490,6 +491,7 @@ AskMeuf
 AskMiddleEast
 AskNYC
 AskOuija
+AskPhotography
 AskReddit
 askscience
 AskScienceFiction
@@ -2886,6 +2888,7 @@ Gouache
 GR86
 GraceCFulton
 GradSchool
+graffhelp
 Graffiti
 Granblue_en
 GrandBlue
@@ -6920,6 +6923,7 @@ transit
 transitiongoals
 TransLater
 translator
+TransMasc
 transmasc_irl
 Transmogrification
 transplace
