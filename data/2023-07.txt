@@ -2701,6 +2701,7 @@ gachagaming
 gadgets
 galatasaray
 GalaxyFold
+GalaxysEdge
 GalGadot
 galsonthego
 galway
@@ -5923,6 +5924,7 @@ ScuttleCrabMains
 SDRUntucked
 SDSGrandCross
 seaglass
+Seahorse_Dads
 seals
 Seaofthieves
 seashanties
@@ -7545,6 +7547,7 @@ Wrangler
 Wrasslin
 WRC
 WrestleCuties
+WrestleWithTheJoshis2
 wrestling
 WrexhamAFC
 writers
