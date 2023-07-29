@@ -243,6 +243,7 @@ amazingmemes
 AmazonDSPDrivers
 AmazonFC
 AmazonFlexDrivers
+amazonprime
 AmberMains
 AmberMidthunder
 Amberverse_
@@ -1312,6 +1313,7 @@ Chaos40k
 ChaosKnights
 chaoticgood
 CharacterAI
+CharacterAI_No_Filter
 characterarcs
 characterdrawing
 CharacterRant
@@ -2156,6 +2158,7 @@ EDH
 Edinburgh
 EDM
 Edmonton
+EDRecoverySnark
 educationalgifs
 edwinbarnesc
 Eesti
@@ -3679,6 +3682,7 @@ KatanaZero
 KatDennings
 katebeckinsale
 katebush
+KateeSackhoff
 Katemara
 KateMiddleton
 KatherineMcNamara
@@ -5798,6 +5802,7 @@ RWBY
 RWBYcritics
 ryujin
 RyuuLion
+s4lem
 sabaton
 SabatonMemes
 Saber
@@ -5865,6 +5870,7 @@ savannah
 SavannahDemers
 Save3rdPartyApps
 savedyouaclick
+SaveNugget
 saw
 SBCGaming
 sbeve
@@ -7179,6 +7185,7 @@ vanhalen
 VanLife
 vanmoofbicycle
 Vapidiful
+vaporents
 VaporwaveAesthetics
 VaushV
 vaxxhappened
