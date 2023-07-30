@@ -401,6 +401,7 @@ applestorequeenv2
 AppleWatch
 ApplyingToCollege
 APStudents
+AquaJail
 Aquariums
 AquaSama
 Aquascape
@@ -3454,6 +3455,7 @@ instant_regret
 instantbarbarians
 instantkarma
 instantpot
+Instantregret
 insurgency
 IntellectualDarkWeb
 interesting
@@ -4294,6 +4296,7 @@ MauLer
 Mavericks
 maximalism
 MaxVerstappen33
+MayaHawke
 MayaJama
 maybemaybemaybe
 MayDayStrike
@@ -4646,6 +4649,7 @@ mycommunity996
 myfavoritemurder
 MyHeroAcadamia
 mylittlepony
+myog
 MyouiMina
 MyPeopleNeedMe
 myronkoops_
@@ -5788,6 +5792,7 @@ Robocop
 robotics
 Rochester
 rock
+rocketbeans
 RocketLeague
 RocketLeagueEsports
 rockets
@@ -5867,6 +5872,7 @@ sadposting
 Saekano
 SafeMoon
 Safemoon_News
+SAHP
 sailing
 sailormoon
 SaimanSays
@@ -7295,6 +7301,7 @@ vintagecomputing
 VintageFashion
 vintagejapaneseautos
 VintageLadyBoners
+vinted
 Vinted_hungary
 vinyl
 vinyljerk
