@@ -719,6 +719,7 @@ BayernMunich
 Bayonetta
 bbaasho
 BBBY
+bbby_remastered
 BBMP
 BBQ
 beadsprites
@@ -784,6 +785,7 @@ BertKreischer
 bertstrips
 Bestbuy
 bestconspiracymemes
+bestcrm
 bestof
 bestoflegaladvice
 bestofpositiveupdates
@@ -1168,6 +1170,7 @@ CaptainSparrowmemes
 capybara
 CaraDelevingne
 carbonsteel
+carcamping
 carcrash
 Cardiff
 Cardinals
@@ -2376,6 +2379,7 @@ falloutsettlements
 Falschparker
 familyguy
 FamosasTugas
+FamousFaces
 FamousLatinas
 fanart
 FanFiction
@@ -5018,6 +5022,7 @@ Omorimemes
 OnceUponATime
 OnCinemaAtTheCinema
 oneanddone
+onebag
 OneBlackBraincell
 onednd
 onegoldenbraincell
@@ -5505,6 +5510,7 @@ ProgrammerAnimemes
 ProgrammerHumor
 programming
 programminghorror
+programminghumor
 ProgressionFantasy
 progun
 project1999
@@ -7044,6 +7050,7 @@ tuesdayswithstories
 tulsa
 tumblr
 TumblrDraws
+Tunisia
 Tupac
 Turkey
 TurkeyJerky
@@ -7680,6 +7687,7 @@ YuGiOhMemes
 yumenikki
 yuna
 YUROP
+yuumimains
 YuYuHakusho
 yvonnestrahovski
 zachbryan
