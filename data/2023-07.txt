@@ -3106,6 +3106,7 @@ Helicopters
 HellBoy
 HellLetLoose
 HelloInternet
+HelloKittyIsland
 HellsParadise
 Helltaker
 HelluvaBoss
@@ -4080,6 +4081,7 @@ locs
 LodedDiper
 logh
 logodesign
+LokiTV
 Lolirefugees
 london
 londonontario
@@ -5577,6 +5579,7 @@ Psychedelics
 psychology
 Psychonaut
 PTCGL
+PUBATTLEGROUNDS
 PublicFreakout
 publix
 PuertoRico
@@ -6060,6 +6063,7 @@ SGExams
 sgsecret
 shacomains
 shadowofmordor
+Shadowrun
 ShadowWork
 ShahRukhKhan
 Sham_Sharma_Show
@@ -6107,6 +6111,7 @@ ShitMomGroupsSay
 ShitPoliticsSays
 ShitPoppinKreamSays
 ShitpostBR
+ShitPostCrusaders
 shitposting
 ShitpostTC
 ShitpostXIV
@@ -6123,6 +6128,7 @@ Shittygamecollecting
 shittygamedetails
 ShittyGifRecipes
 shittyhalolore
+ShittyLifeProTips
 ShittyMapPorn
 shittymobilegameads
 shittymoviedetails
@@ -7548,6 +7554,7 @@ WiggleButts
 wii
 wiiu
 wikipedia
+wildcampingintheuk
 WildernessBackpacking
 wildhearthstone
 wildhockey
@@ -7638,6 +7645,7 @@ WrestleCuties
 WrestleWithTheJoshis2
 wrestling
 WrexhamAFC
+WriothesleyMains
 writers
 writing
 writingcirclejerk
