@@ -3941,6 +3941,7 @@ learndutch
 LearnerDriverUK
 learnfrench
 learningtocat
+LearnJapanese
 learnjavascript
 learnmachinelearning
 learnpolish
@@ -7443,6 +7444,7 @@ weddingdress
 weddingshaming
 Weddingsunder10k
 WeDoALittlePosting
+Wee_Box
 WeebTurks
 weed
 Weed__World
