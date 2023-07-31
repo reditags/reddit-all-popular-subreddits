@@ -569,6 +569,7 @@ australia
 australian
 AustralianBirds
 AustralianCattleDog
+AustralianMilitary
 AustralianNostalgia
 AustralianPets
 AustralianPolitics
@@ -3942,6 +3943,7 @@ learnfrench
 learningtocat
 learnjavascript
 learnmachinelearning
+learnpolish
 learnprogramming
 learntodraw
 LearnUselessTalents
@@ -5020,6 +5022,7 @@ oldfreefolk
 oldhagfashion
 Oldhouses
 OldManDog
+OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
 OldSchoolRidiculous
@@ -6150,6 +6153,7 @@ Siamesecats
 SiberianCats
 Sidemen
 SideProject
+SigmaCinema
 Sigmarxism
 Sigmatopia
 signalis
