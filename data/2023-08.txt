@@ -9,6 +9,7 @@
 2Asia4u
 2bharat4you
 2canadian4you
+2easterneuropean4u
 2hujerk
 2latinoforyou
 2meirl4meirl
@@ -275,6 +276,7 @@ AssassinsCreedOdyssey
 assettocorsa
 assholedesign
 astrologymemes
+Astroneer
 Astronomy
 Astros
 ATBGE
@@ -320,6 +322,7 @@ AyakaMains
 azdiamondbacks
 azudaioh
 BabyBumps
+BabyCorgis
 babylon5
 BABYMETAL
 BackYardChickens
@@ -473,6 +476,7 @@ BokuNoMetaAcademia
 Bolehland
 bollyarm
 BollyBlindsNGossip
+bollywood
 bollywoodmemes
 BollywoodRealism
 BollywoodUHQonly
@@ -575,6 +579,7 @@ CallOfDutyMobile
 calvinandhobbes
 camaro
 camphalfblood
+CampingGear
 canada
 Canada_sub
 canadaguns
@@ -583,6 +588,7 @@ CanadaHousing2
 canadaleft
 canceledpod
 CaneCorso
+CantParkThereMate
 canucks
 capetown
 CapitolConsequences
@@ -1136,12 +1142,14 @@ Entomology
 Entrepreneur
 entwives
 EpicSeven
+EquallyTopless
 equestriaatwar
 Equestrian
 Eredivisie
 EscapefromTarkov
 esist
 espresso
+EssendonFC
 esterexposito
 ESTILOZAP
 ethtrader
@@ -1249,6 +1257,7 @@ firstimpression
 FirstResponderCringe
 FirstTimeHomeBuyer
 firstworldanarchists
+Fischl
 Fit_babes
 FitAndNatural
 fitness30plus
@@ -1317,6 +1326,7 @@ FREEMEDIAHECKYEAH
 Frenchbulldogs
 FrenchMemes
 FridayNightFunkin
+friendlyjordies
 friends_tv_show
 frogs
 FromKittenToCat
@@ -1521,6 +1531,7 @@ haloinfinite
 HaloMemes
 Hamilton
 handbags
+HandfulOfKitten
 Handwriting
 HannibalTV
 happycrowds
@@ -1543,6 +1554,7 @@ Helicopters
 HellLetLoose
 HelloKittyIsland
 HellsKitchen
+HellsParadise
 Helltaker
 HelluvaBoss
 Helluvabossmemes
@@ -1653,6 +1665,7 @@ IDontWorkHereLady
 ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
+illegallysmolbirbs
 IllegallySmolBunnies
 IllegallySmolCats
 illinois
@@ -1769,6 +1782,7 @@ IzuOcha
 jackass
 jackrussellterrier
 JackSucksAtGeography
+JackSucksAtLife
 jakertown
 JamesBond
 janeausten
@@ -1786,6 +1800,7 @@ JeffArcuri
 JeilaDizon
 jellybeantoes
 JennaFischer
+jennie
 JenniferLopez
 jenniferlovehewitt
 Jeopardy
@@ -1823,6 +1838,7 @@ Jungle_Mains
 JuryDutyFreevee
 justgalsbeingchicks
 JustGuysBeingDudes
+JusticePorn
 JusticeServed
 JustMonika
 justneckbeardthings
@@ -2016,6 +2032,7 @@ lordoftherings
 LoriVallow
 loseit
 lossofalovedone
+lost
 lostarkgame
 lostpause
 lostredditors
@@ -2155,6 +2172,7 @@ MemePiece
 memes
 Memes_Of_The_Dank
 memesdecentralises
+MemesESP
 memesITA
 memesopdidnotlike
 MemeVideos
@@ -2236,6 +2254,7 @@ moistcr1tikal
 MoldyMemes
 Mommit
 monarchism
+MonicaBellucci
 MonsterHigh
 MonsterHunter
 MonsterHunterWorld
@@ -2292,6 +2311,7 @@ n64
 N_N_N
 NAFO
 nagatoro
+Nahida_Mains
 Nails
 NameMyCat
 NameNerdCirclejerk
@@ -2403,6 +2423,7 @@ noodlebones
 nope
 norge
 NormMacdonald
+norske
 northernireland
 northernlion
 Norway
@@ -2616,6 +2637,7 @@ PeytonCoffee_2
 PhantomForces
 phcareers
 PhD
+PHhandsgonewild
 philadelphia
 Philippines
 phillies
@@ -2631,6 +2653,7 @@ physicsmemes
 Picard
 picrew
 pics
+PietSmiet
 pigeon
 Pikabu
 Pikmin
@@ -2978,6 +3001,7 @@ SendMeCompliments
 seniorkitties
 Sephora
 serbia
+seriea
 Serverlife
 Seulgi
 seventeen
@@ -3027,6 +3051,7 @@ ShittyMapPorn
 shittymobilegameads
 shittymoviedetails
 shittyrainbow6
+shittyreactiongifs
 shittyskylines
 shittytattoos
 shittytechnicals
@@ -3205,6 +3230,7 @@ StreetFighter
 StreetMartialArts
 StructuralEngineering
 StudentLoans
+studentsph
 StuffOnCats
 stunfisk
 stupiddovenests
@@ -3403,6 +3429,7 @@ thisismylifenow
 ThisLooksFun
 thomastheplankengine
 ThriftSavingsPlan
+TIdaL
 tifu
 TIHI
 Tiki
@@ -3611,7 +3638,9 @@ Vermintide
 vermont
 vexillology
 vexillologycirclejerk
+veYakinEvren
 VHS
+victoria2
 victoria3
 VictoriaBC
 victoriajustice
@@ -3719,6 +3748,7 @@ whitesox
 WhiteWolfRPG
 wholesome
 wholesome_girls
+wholesomebpt
 wholesomegifs
 wholesomegreentext
 wholesomememes
@@ -3740,6 +3770,7 @@ Witcher3
 WitchesVsPatriarchy
 Wizard101
 wizardposting
+WKUK
 woahdude
 wohnen
 WojakCompass
