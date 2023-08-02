@@ -85,6 +85,7 @@ Aether_Mains
 AEWOfficial
 AFCEastMemeWar
 AFCSouthMemeWar
+afkarena
 AFL
 agedlikemilk
 agedtattoos
@@ -116,6 +117,7 @@ AlishaLehmannFanPage
 AlisonBrie
 AllStarBrawl
 Alonetv
+AlternateAngles
 AlternateHistory
 alternativefashion
 AlternativeHistory
@@ -321,6 +323,7 @@ BadDesigns
 Badfaketexts
 BadMensAnatomy
 badMovies
+BadMtgCombos
 badroommates
 badtaxidermy
 badwomensanatomy
@@ -638,6 +641,7 @@ CelebrityFeet
 celebritylegs
 CelebsBootyTreasure
 CelebsInTights
+CelebsPH
 celestegame
 cellbits
 CemeteryPorn
@@ -676,6 +680,7 @@ Chihuahua
 childemains
 ChildrenFallingOver
 chile
+China_irl
 chinchilla
 Chipotle
 Chiraqology
@@ -688,6 +693,7 @@ ChoujinX
 christinahendricks
 ChronicIllness
 ChubbyFIRE
+ChurchOfEula
 ChurchOfKasumi
 ChurchOfRyo
 CICO
@@ -838,6 +844,7 @@ Crystals
 cscareerquestions
 csgo
 csMajors
+CultOfTheLamb
 CuratedTumblr
 curb
 cursedcomments
@@ -912,6 +919,7 @@ dccomicscirclejerk
 DCEUleaks
 DDLC
 de
+DeadAhead
 deadandcompany
 deadbydaylight
 deadcells
@@ -1403,6 +1411,7 @@ gifsthatkeepongiving
 gijoe
 Gintama
 girlsfrontline
+GirlsUndShitposts
 girlswithbigmuscles
 glasgow
 Glitch_in_the_Matrix
@@ -1527,6 +1536,7 @@ HelluvaBoss
 Helluvabossmemes
 HermanCainAward
 HermitCraft
+heroesofthestorm
 HeroForgeMinis
 herpetology
 HFY
@@ -1670,6 +1680,7 @@ indianbikes
 IndianBoysOnTinder
 IndianCountry
 IndianDankMemes
+indianews
 IndianFashionAddicts
 IndianFootball
 Indiangirlsontinder
@@ -1679,6 +1690,7 @@ indianmemer
 IndianMemeTemplates
 IndianMeyMeys
 IndiaNostalgia
+IndianStreetBets
 IndianTeenagers
 IndiaPlace
 indiasocial
@@ -1943,6 +1955,7 @@ LetsNotMeet
 LetsTalkBam
 Letterboxd
 Lexus
+lgballt
 lgbt
 lgbtmemes
 liberalgunowners
@@ -1973,6 +1986,7 @@ LittlestPetShop
 LiveFromNewYork
 LiverpoolFC
 LivestreamFail
+LK99
 LodedDiper
 london
 londonontario
@@ -2006,6 +2020,7 @@ lowriders
 LPOTL
 LSAT
 LSD
+LTB_iel
 lucario
 lucifer
 luigi_irl
@@ -2149,6 +2164,7 @@ mew_irl
 mexico
 MexicoFinanciero
 mfdoom
+MHRise
 Miami
 miamidolphins
 Miata
@@ -2200,6 +2216,7 @@ Modern_Family
 ModernWarfareII
 moedred
 MoeMorphism
+moistcr1tikal
 MoldyMemes
 Mommit
 monarchism
@@ -2252,6 +2269,7 @@ mylittlepony
 myog
 MyouiMina
 MyPeopleNeedMe
+MySingingMonsters
 MysteriousFacts
 n64
 N_N_N
@@ -2517,6 +2535,7 @@ Paladins
 Paleontology
 Palestine
 PallasCats
+Pandabuy
 PandR
 pansexmothwhorehouse
 panthers
@@ -2730,6 +2749,7 @@ QOVESStudio
 QualityTacticalGear
 Quebec
 queen
+quefaitlapolice
 quilting
 quityourbullshit
 Qult_Headquarters
@@ -2989,6 +3009,7 @@ shittyrainbow6
 shittyskylines
 shittytattoos
 shittytechnicals
+ShitWehraboosSay
 shorthairedhotties
 shortscarystories
 Shotguns
@@ -3017,6 +3038,7 @@ simracing
 Sims3
 Simulated
 singapore
+SingaporeRaw
 singularity
 SipsTea
 SisterWives
@@ -3037,6 +3059,7 @@ slaythespire
 SleepToken
 Slipknot
 Slovenia
+smalllebowsky
 smallstreetbets
 smashbros
 SmashBrosUltimate
@@ -3265,6 +3288,7 @@ TexasRangers
 TextingTheory
 texts
 tf2
+TF2fashionadvice
 tf2shitposterclub
 tf_irl
 thalassophobia
@@ -3348,6 +3372,7 @@ TheYardPodcast
 theydidthemath
 theyknew
 ThickFit
+thinkpad
 thisismylifenow
 ThisLooksFun
 thomastheplankengine
@@ -3451,6 +3476,7 @@ TrueReddit
 TrueSTL
 Trumpgret
 Trumpvirus
+truscum
 TTSverse
 tuckedinkitties
 Tucson
@@ -3499,6 +3525,7 @@ UkraineWarVideoReport
 UkrainianConflict
 uktrees
 Ultrakill
+Ultraman
 UNBGBBIIVCHIDCTIICBG
 Undertale
 UnearthedArcana
@@ -3578,6 +3605,7 @@ virginvschad
 virtualreality
 Visiblemending
 Vocaloid
+VolleyballGirls
 VoteBlue
 VoteDEM
 VRchat
