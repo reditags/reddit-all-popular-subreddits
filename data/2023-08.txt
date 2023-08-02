@@ -59,6 +59,7 @@ absolutelynotanimeirl
 absolutelynotme_irl
 absolutelynotmeirl
 AbsoluteUnits
+abusiverelationships
 ac_newhorizons
 ACAB
 AccidentalAlly
@@ -77,7 +78,9 @@ actuallesbians
 ActualPublicFreakouts
 AddisonRae
 Adelaide
+AdeptusCustodes
 AdeptusMechanicus
+AdeptusRidiculous
 ADHDmemes
 Adulting
 adultingph
@@ -86,6 +89,7 @@ AdvancedAdvisement
 adventuretime
 Advice
 AdviceAnimals
+AerospaceEngineering
 Aespa
 Aether_Mains
 AEWOfficial
@@ -111,6 +115,7 @@ AlbedosCreations
 alberta
 Albuquerque
 AlchemyStarsEN
+aldi
 Aleague
 alexandradaddario
 AlexisRen
@@ -199,6 +204,7 @@ AntiTrumpAlliance
 antiwar
 antiwork
 AntiworkPH
+ANTM
 AnyaTaylorJoy
 AO3
 aoe2
@@ -314,6 +320,7 @@ autism
 AutismInWomen
 autismmemes
 AutoDetailing
+Autumn
 Avatar
 AvatarMemes
 avengedsevenfold
@@ -458,6 +465,7 @@ BlackPeopleComedy
 BlackPeopleTwitter
 BlackPink
 Blacksmith
+BlackTemplars
 BLAHAJ
 Blasphemous
 BlatantMisogyny
@@ -485,6 +493,7 @@ boburnham
 BocaJuniors
 BocchiTheRock
 bodybuilding
+Bogleheads
 BoJackHorseman
 BokuNoHeroAcademia
 bokunokokoro
@@ -759,6 +768,7 @@ classicwow
 ClassroomOfTheElite
 classywomenofcolor
 CleaningTips
+Cleveland
 ClevelandGuardians
 clevercomebacks
 climate
@@ -802,6 +812,7 @@ community
 CompetitiveApex
 Competitiveoverwatch
 CompetitiveTFT
+computers
 conan
 Concrete
 confession
@@ -827,6 +838,7 @@ coolguides
 coral_sharon
 corgi
 Coronavirus
+Corridor
 Corvette
 CoryxKenshin
 Cosmere
@@ -971,6 +983,7 @@ DeadSpace
 deathbattle
 deathgrips
 deathguard40k
+deathnote
 DeathrattlePorn
 DeathStranding
 dechonkers
@@ -979,6 +992,7 @@ declutter
 DecodingTheGurus
 DeepRockGalactic
 DeepSpaceNine
+degoogle
 Degrassi
 Dehyamains
 delhi
@@ -1230,6 +1244,7 @@ FaceRatings
 factorio
 Factoriohno
 fakehistoryporn
+fakemon
 FallenOrder
 Fallout
 FallOutBoy
@@ -1420,6 +1435,7 @@ gamindustri
 gaming
 Gamingcirclejerk
 GamingDetails
+GamingLaptops
 GamingLeaksAndRumours
 gangstaswithwaifus
 Ganyu
@@ -1513,6 +1529,7 @@ granturismo
 graphic_design
 Grapplerbaki
 gratefuldead
+gravelcycling
 gravityfalls
 GreatBritishMemes
 greatdanes
@@ -1591,6 +1608,7 @@ HauntedMound
 HayleyAtwell
 HazbinHotel
 headphones
+Health
 hearthstone
 HeartstopperAO
 heat
@@ -1735,6 +1753,7 @@ imaginarymapscj
 ImaginaryMonsterGirls
 ImaginaryMonsters
 ImaginarySliceOfLife
+ImaginaryStarships
 ImaginaryTechnology
 ImaginaryWarhammer
 ImaginaryWesteros
@@ -2036,8 +2055,10 @@ Legoleak
 legostarwars
 LegoStarWarsLeaks
 lele_pons
+leopardgeckos
 LeopardsAteMyFace
 LesbianActually
+lesbianfashionadvice
 lesserafim
 LetsNotMeet
 LetsTalkBam
@@ -2077,6 +2098,7 @@ LivestreamFail
 LK99
 LodedDiper
 logodesign
+Lolitary
 london
 londonontario
 LondonUnderground
@@ -2146,6 +2168,7 @@ magicTCG
 Maine
 mainecoons
 MakeMeFeelGood
+MakeMeSmile
 MakeMeSuffer
 MakeMeSufferMore
 MakeupAddiction
@@ -2617,6 +2640,7 @@ orks
 orlando
 OrphanCrushingMachine
 orslokx
+oscarrace
 OSHA
 OshiNoKoMemes
 osugame
@@ -2742,6 +2766,7 @@ PinkFloydCircleJerk
 Piracy
 PiratedGames
 pitbulls
+pitbulls_in_partyhats
 pittsburgh
 PixelArt
 Pizza
@@ -3201,6 +3226,7 @@ smalllebowsky
 smallstreetbets
 smashbros
 SmashBrosUltimate
+SMG4
 Smilepleasse
 Smite
 smoking
@@ -3222,6 +3248,7 @@ socialskills
 softwaregore
 solarpunk
 sololeveling
+solotravel
 SomeOfYouMayDie
 somethingimade
 SommerRay
@@ -3321,6 +3348,7 @@ StreetFighter
 StreetMartialArts
 StructuralEngineering
 StudentLoans
+Students_AcademicHelp
 studentsph
 StuffOnCats
 stunfisk
@@ -3525,6 +3553,7 @@ thinkpad
 thisismylifenow
 ThisLooksFun
 thomastheplankengine
+ThousandSons
 ThriftSavingsPlan
 TIdaL
 tifu
@@ -3799,6 +3828,7 @@ WatchPeopleDieInside
 watchpeoplesurvive
 Watercolor
 WeaponsMoe
+wec
 wedding
 Weddingattireapproval
 weddingdress
@@ -3808,6 +3838,7 @@ WeDoALittlePosting
 weed
 weedstocks
 ween
+weezer
 WegovyWeightLoss
 Weird
 weirddalle
