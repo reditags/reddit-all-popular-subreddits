@@ -68,6 +68,7 @@ AccidentalRenaissance
 AccidentalWesAnderson
 Accounting
 AceAttorney
+AceAttorneyCirclejerk
 AchillesAndHisPal
 ACMilan
 acotar
@@ -159,6 +160,7 @@ AnalogCommunity
 Anarcho_Capitalism
 Anarchy4Everyone
 AnarchyChess
+Anbennar
 Andjustlikethat
 andor
 angelsbaseball
@@ -208,6 +210,7 @@ ANTM
 AnyaTaylorJoy
 AO3
 aoe2
+aoe3
 apexlegends
 ApexOutlands
 ApexUncovered
@@ -270,6 +273,7 @@ AskMechanics
 AskMen
 AskMiddleEast
 AskNYC
+AskOuija
 AskPhotography
 AskReddit
 askscience
@@ -385,6 +389,7 @@ Battlefield
 battlefield2042
 battlefield_4
 battlefield_one
+battlemaps
 BattleNetwork
 battlestations
 battletech
@@ -421,6 +426,7 @@ belowdeck
 Ben10
 bengalcats
 bengals
+BenGarrisonCumEdits
 berkeley
 berlin
 bernesemountaindogs
@@ -540,6 +546,7 @@ BrandNewSentence
 brandonherrara
 brandonsanderson
 brasil
+BrasildoB
 brasilivre
 Braves
 BravoRealHousewives
@@ -621,6 +628,7 @@ CaneCorso
 CantParkThereMate
 canucks
 capetown
+CapitalismSux
 CapitolConsequences
 capybara
 carcrash
@@ -628,6 +636,7 @@ Cardinals
 careeradvice
 careerguidance
 CarlaMedrano
+carlyraejepsen
 Carola
 carporn
 carscirclejerk
@@ -658,6 +667,7 @@ Catholicism
 CatholicMemes
 Catloaf
 Catmemes
+catpics
 cats
 CatsAreAssholes
 catsareliquid
@@ -677,6 +687,7 @@ Catswithjobs
 CatTaps
 Cawwsplay
 CBSE
+ceibataximinivan
 celeb_nylons
 CelebEvents
 CelebPortraits
@@ -832,6 +843,7 @@ consulting
 ContagiousLaughter
 ContraPoints
 Conures
+ConvenientCop
 CookieRunKingdoms
 Cooking
 coolguides
@@ -861,6 +873,7 @@ CrackWatch
 craftsnark
 CrappyDesign
 crappyoffbrands
+crashbandicoot
 CrazyFuckingVideos
 CreateMod
 CreationNtheUniverse
@@ -1047,6 +1060,7 @@ DigitalArt
 DigitalPainting
 Dimension20
 Dinosaurs
+disability
 discgolf
 DiscoElysium
 discordapp
@@ -1054,6 +1068,8 @@ Discordmemes
 discordVideos
 disenchantment
 dishonored
+Dislyte
+DisneyDiamonds
 Disneyland
 DisneyPlus
 disneyvacation
@@ -1093,6 +1109,7 @@ doommetal
 doordash
 doordash_drivers
 Doppleganger
+doradotaxipr2023
 Dorohedoro
 DotA2
 doughboys
@@ -1201,6 +1218,7 @@ espresso
 EssendonFC
 esterexposito
 ESTILOZAP
+estoration
 ethtrader
 EtikaRedditNetwork
 eu4
@@ -1315,6 +1333,7 @@ FitAndNatural
 fitness30plus
 fivenightsatfreddys
 fixedbytheduet
+FixedGearBicycle
 FixedTattoos
 flags
 Flamepoints
@@ -1504,6 +1523,7 @@ gmod
 goblincore
 GodofWar
 godot
+godtiersuperpowers
 GODZILLA
 Gold
 Goldendoodles
@@ -1639,10 +1659,13 @@ history
 HistoryPorn
 HiTMAN
 hitmanimals
+HivemindTV
 hmm
 hmmm
+hobonichi
 hockey
 hockeyjerseys
+hockeymemes
 hoggit
 hogwartslegacyJKR
 hoi4
@@ -1666,6 +1689,7 @@ homestuck
 hometheater
 HommaInAction
 HongKong
+HonkaiHusbandos
 honkaiimpact3
 HonkaiStarRail
 HonkaiStarRail_leaks
@@ -1845,6 +1869,7 @@ ItemShop
 IThinkYouShouldLeave
 itookapicture
 itsalwayslowqltyvideo
+itseunchae_
 itstheyak
 IttoMains
 ITZY
@@ -1858,6 +1883,7 @@ JackSucksAtGeography
 JackSucksAtLife
 jakertown
 JamesBond
+jameswebbdiscoveries
 janeausten
 JanitorAI_Official
 japan
@@ -2039,6 +2065,8 @@ LeaksDBD
 leanbeefpatty
 LearmannTwins
 learnprogramming
+learntodraw
+lebanon
 lebowski
 LeedsUnited
 legaladvicecanada
@@ -2055,6 +2083,7 @@ Legoleak
 legostarwars
 LegoStarWarsLeaks
 lele_pons
+LEMMiNO
 leopardgeckos
 LeopardsAteMyFace
 LesbianActually
@@ -2123,6 +2152,7 @@ lotrmemes
 Louisville
 Lovecraft
 LoveForLandchads
+LoveForRedditors
 LoveForUkraine
 LoveIsBlindNetflix
 LoveIsBlindOnNetflix
@@ -2253,6 +2283,7 @@ MeJulgue
 melbourne
 MelvorIdle
 meme
+MemeEconomy
 memeframe
 MemeHunter
 MemePiece
@@ -2364,6 +2395,7 @@ mountainbiking
 mountaindew
 Mountaineering
 mountandblade
+MouseReview
 moviecritic
 MovieDetails
 MovieLeaksAndRumors
@@ -2490,6 +2522,7 @@ NikkeOutpost
 Nikon
 NilouMains
 Ningen
+Ninjago
 NinomaeInanis
 nintendo
 NintendoMemes
@@ -2535,6 +2568,7 @@ NotMyJob
 nottheonion
 nova
 nowmycat
+NPPfunny
 nrl
 NUFC
 nukedmemes
@@ -2687,6 +2721,7 @@ PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
 paris
+ParkJihyo
 ParlerWatch
 parrots
 PartyParrot
@@ -2833,6 +2868,7 @@ poodles
 popculturechat
 popheadscirclejerk
 popping
+PornIsMisogyny
 porramauricio
 Porsche
 Portal
@@ -3038,6 +3074,7 @@ Saber
 Sacramento
 sadboys
 sadcringe
+sadiemckenna
 Sadiesink
 sadposting
 sailing
@@ -3202,6 +3239,7 @@ SingaporeRaw
 SingleAndHappy
 singularity
 SipsTea
+sistersofbattle
 SisterWives
 sixfacedworld
 skamtebord
@@ -3530,6 +3568,7 @@ therapists
 TheRatEmpire
 TheRealJoke
 TheRedDotComic
+ThereIsnoCat
 therewasanattempt
 TheRightCantMeme
 TheSimpsons
@@ -3690,6 +3729,7 @@ uberdrivers
 UberEATS
 Ubiquiti
 ufc
+ufo
 UFOB
 UFOs
 uglyduckling
@@ -3894,6 +3934,7 @@ wiiu
 wikipedia
 wildhockey
 wildlifephotography
+Windows11
 WingsOfFire
 WinStupidPrizes
 wiredpeople
