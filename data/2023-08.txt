@@ -145,6 +145,7 @@ AlternateHistory
 alternativefashion
 AlternativeHistory
 AMA
+AmandaHolden
 AmateurRoomPorn
 AmazonFC
 AmberMains
@@ -331,6 +332,7 @@ Atlanta
 AtlantaHawks
 AtlantaTV
 AtlantaUnited
+atomicheart
 attackeyes
 attackontitan
 auckland
@@ -356,6 +358,7 @@ AutoDetailing
 Autumn
 Avatar
 AvatarMemes
+avatartrading
 avengedsevenfold
 aves
 avesNYC
@@ -405,6 +408,7 @@ Bannerlord
 BanPitBulls
 BarbaraPalvin
 Barbie
+barexam
 Barotrauma
 Barry
 bartenders
@@ -425,6 +429,7 @@ Battlefield
 battlefield2042
 battlefield_4
 battlefield_one
+BattlefieldV
 battlemaps
 BattleNetwork
 battlestations
@@ -485,6 +490,7 @@ beyonce
 BiancaBelair
 bicycling
 BicyclingCirclejerk
+Big4
 bigboobproblems
 BigBrother
 BigCatGifs
@@ -756,6 +762,7 @@ Catswithjobs
 CatTaps
 Cawwsplay
 CBSE
+CCW
 ceibataximinivan
 celeb_nylons
 CelebEvents
@@ -1399,6 +1406,7 @@ falloutnewvegas
 Falschparker
 familyguy
 FanFiction
+fansofcriticalrole
 fantanoforever
 fantasyfootball
 fantasymoe
@@ -1457,6 +1465,7 @@ Firearms
 fireemblem
 FireEmblemHeroes
 FireEmblemThreeHouses
+Firefighting
 firefly
 firstimpression
 FirstResponderCringe
@@ -1601,6 +1610,7 @@ gamedev
 gamegrumps
 gameofthrones
 GamePhysics
+gamesEcultura
 GameStop
 GameTheorists
 gamindustri
@@ -1648,6 +1658,7 @@ geopolitics
 Georgia
 GeorgiaEllenwood
 germanshepherds
+GeschichtsMaimais
 GetMotivated
 GettingShredded
 ghettowhitegirls
@@ -1667,6 +1678,7 @@ GirlsLastTour
 GirlsMirin
 GirlsUndShitposts
 girlswithbigmuscles
+gis
 glasgow
 Glitch_in_the_Matrix
 GlobalOffensive
@@ -1716,6 +1728,7 @@ granturismo
 graphic_design
 Grapplerbaki
 gratefuldead
+gratefuldoe
 gravelcycling
 gravityfalls
 GreatBritishMemes
@@ -2203,6 +2216,7 @@ KimetsuNoYaiba
 kindafunny
 Kingdom
 kingdomcome
+KingdomDeath
 KingdomHearts
 KingkillerChronicle
 KingOfTheHill
@@ -2328,6 +2342,7 @@ lies
 lifehacks
 LifeProTips
 LigaMX
+lightsabers
 LilGrabbies
 lilireinhart
 liluzivert
@@ -2447,6 +2462,7 @@ malehairadvice
 malelivingspace
 MaliciousCompliance
 mallninjashit
+ManavManglani
 manchester
 ManchesterUnited
 Mandalorian
@@ -2463,6 +2479,7 @@ MarchAgainstNazis
 MarchAgainstTrump
 MargotRobbie
 marijuanaenthusiasts
+MarinaNabokina
 Mariners
 Mario
 mariokart
@@ -2729,6 +2746,7 @@ NCAAFBseries
 NCAAgirls
 NCT
 nebelung
+Nebraska
 necoarc
 necromunda
 Necrontyr
@@ -2856,6 +2874,7 @@ nyjets
 NYKnicks
 NYYankees
 OaklandAthletics
+oasis
 oblivion
 ObscureDrugs
 OCDmemes
@@ -3106,6 +3125,7 @@ placeDE
 Planetside
 PlanetZoo
 PlantBasedDiet
+plantclinic
 PlantedTank
 PlantGoths
 plants
@@ -3228,6 +3248,7 @@ PunPatrol
 puns
 puppies
 PuppySmiles
+Purdue
 Purrito
 PutAnEggOnIt
 PuzzleAndDragons
@@ -3577,6 +3598,7 @@ singaporehappenings
 SingaporeRaw
 SingleAndHappy
 singularity
+Sino
 SipsTea
 sistersofbattle
 SisterWives
@@ -3858,6 +3880,7 @@ TeslaModel3
 teslamotors
 Texans
 texas
+TexasPolitics
 TexasRangers
 TextingTheory
 texts
@@ -3954,6 +3977,7 @@ theunforgiven
 thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
+TheWeeklyRoll
 TheWeeknd
 TheWire
 thewitcher3
@@ -3981,6 +4005,7 @@ TimAndEric
 timberwolves
 TimPool
 Tinder
+tinyanimalsonfingers
 Tinycatsinbigspaces
 TinyHouses
 TipOfMyFork
@@ -4367,9 +4392,11 @@ WorkReform
 Workspaces
 Worldbox
 worldbuilding
+worldcup
 worldjerking
 worldnews
 worldnewsvideo
+worldofgothic
 WorldOfWarships
 WormMemes
 wortwitzkasse
@@ -4389,6 +4416,7 @@ WTF
 wunkus
 WutheringWaves
 WWE
+WWEGames
 wwiipics
 WWIIplanes
 xbiking
