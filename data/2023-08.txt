@@ -734,6 +734,7 @@ CarTalkUK
 CartiCulture
 cartoons
 casio
+cassetteculture
 cassettefuturism
 castiron
 castles
@@ -755,9 +756,11 @@ catfaceplant
 CATHELP
 Catholicism
 CatholicMemes
+CathyKelley
 Catloaf
 Catmemes
 catpics
+catpictures
 cats
 CatsAreAssholes
 catsareliquid
@@ -1006,6 +1009,7 @@ crescentcitysjm
 Cricket
 CricketShitpost
 crime
+CrimeScene
 cringe
 CringePurgatory
 CringeTikToks
@@ -2581,6 +2585,7 @@ McMaster
 MCUTheories
 me_irlgbt
 MealPrepSunday
+MeatCanyon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
@@ -3416,6 +3421,7 @@ retrobattlestations
 RetroFuturism
 retrogaming
 revancedapp
+RevenantMain
 Revolvers
 RheaRipley
 RhodeIsland
@@ -3800,6 +3806,7 @@ StarTrekStarships
 StarVStheForcesofEvil
 StarWars
 StarWarsBattlefront
+starwarsblackseries
 StarWarsCantina
 StarWarsJediSurvivor
 StarWarsleftymemes
@@ -4104,6 +4111,7 @@ tokkiemarktplaats
 tolkienfans
 tollywood
 TombRaider
+tomochanwaonnanoko
 tomorrow
 tonightsdinner
 TonikakuCawaii
@@ -4120,6 +4128,7 @@ Topster
 toptalent
 toradora
 toRANTo
+tornado
 Torontobluejays
 TorontoDriving
 torontoraptors
