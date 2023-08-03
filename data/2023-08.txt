@@ -228,6 +228,7 @@ ApexUncovered
 aphextwin
 apple
 AppleMusic
+applestorequeenv2
 AppleWatch
 ApplyingToCollege
 APStudents
@@ -257,6 +258,7 @@ army
 aromantic
 arresteddevelopment
 arrow
+Arrowheads
 ArsenalFC
 ArtDeco
 ArtefactPorn
@@ -328,6 +330,7 @@ AusFinance
 AusLegal
 AusMemes
 australia
+australian
 AustralianCattleDog
 AustralianNostalgia
 AustralianPolitics
@@ -792,6 +795,7 @@ Choices
 Chonkers
 ChoosingBeggars
 ChoujinX
+chowchow
 Christianity
 christinahendricks
 ChronicIllness
@@ -865,6 +869,7 @@ comicbookmovies
 comicbooks
 comics
 commandandconquer
+Commanders
 CommercialsIHate
 CommunismMemes
 community
@@ -887,6 +892,7 @@ Consoom
 conspiracy
 conspiracy_commons
 Construction
+ConstructionFails
 consulting
 ContagiousLaughter
 ContraPoints
@@ -1301,6 +1307,7 @@ euphoria
 europe
 eurovision
 EuSouOBabaca
+EvaCudmore
 evangelion
 evangelionmemes
 Eve
@@ -1472,6 +1479,7 @@ fourthwavewomen
 foxes
 foxholegame
 fragilecommunism
+FragileWhiteRedditor
 framework
 france
 FrankOcean
@@ -1640,6 +1648,7 @@ GossipGirl
 GothFashion
 GothGirls
 GothStyle
+Gouache
 GR86
 gradadmissions
 grandorder
@@ -1672,6 +1681,7 @@ GTA6
 gtaonline
 GTAV
 GuardianTales
+Guelph
 Guildwars2
 Guiltygear
 guineapigs
@@ -1874,6 +1884,7 @@ Im15AndThisIsYeet
 ImaginaryBehemoths
 ImaginaryCharacters
 ImaginaryDragons
+imaginaryelections
 ImaginaryHorrors
 ImaginaryJedi
 ImaginaryLandscapes
@@ -2024,6 +2035,7 @@ Jewdank
 jiggledolls
 jigokuraku
 jihyo
+JingYuanMains
 jisoo
 jobs
 JoCat
@@ -2043,6 +2055,7 @@ jpegmafia
 JRPG
 jschlatt
 jschlattsubmissions
+JSOCarchive
 Judaism
 juggalo
 JuiceWRLD
@@ -2276,6 +2289,7 @@ lostpause
 lostredditors
 lotr
 lotrmemes
+lotro
 Louisville
 Lovecraft
 LoveForLandchads
@@ -2490,6 +2504,7 @@ Mipha
 Mirrorsforsale
 misleadingthumbnails
 missbricosplay
+MissingPersons
 mississauga
 missouri
 MitchellAndWebb
@@ -2816,6 +2831,7 @@ oompasubs
 OooBigStretch
 OopsThatsDeadly
 opossum_irl
+Opossums
 OppenheimerMovie
 orangecats
 orangecounty
@@ -3075,6 +3091,7 @@ progun
 projectcar
 ProjectSekai
 projectzomboid
+prolife
 PropagandaPosters
 ProperAnimalNames
 protogen
@@ -3183,6 +3200,7 @@ Residency
 residentevil
 resumes
 retailhell
+retardedcornfieldcum
 RetroAR
 retrobattlestations
 RetroFuturism
@@ -3228,6 +3246,7 @@ rose
 RotMG
 Rottweiler
 RoughRomanMemes
+RoverPetSitting
 royalenfield
 RPClipsGTA
 RPDRDRAMA
@@ -3321,6 +3340,7 @@ SeattleKraken
 SeattleWA
 Seiko
 seinfeld
+seinfeldgifs
 SeishunButaYarou
 Sekiro
 SelenaGomez
@@ -3811,6 +3831,7 @@ TimPool
 Tinder
 TinyHouses
 TipOfMyFork
+tippytaps
 titanfall
 titanic
 tja
@@ -4079,6 +4100,7 @@ Watchexchange
 WatchPeopleDieInside
 watchpeoplesurvive
 Watercolor
+Waterfalls
 WeaponsMoe
 webdev
 wec
