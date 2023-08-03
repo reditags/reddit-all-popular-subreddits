@@ -96,6 +96,7 @@ AdvancedAdvisement
 adventuretime
 Advice
 AdviceAnimals
+aeiou
 AerospaceEngineering
 Aespa
 Aether_Mains
@@ -108,6 +109,7 @@ agedlikemilk
 agedtattoos
 ageofsigmar
 aggies
+AIReddit
 airplaneears
 airpods
 airsoft
@@ -212,6 +214,7 @@ antiMLM
 Antimoneymemes
 antinatalism
 Antiques
+AntiTaff
 antitheistcheesecake
 antitrampo
 AntiTrumpAlliance
@@ -219,6 +222,7 @@ antiwar
 antiwork
 AntiworkPH
 ANTM
+Antyklerykalizm
 AnyaTaylorJoy
 AO3
 aoe2
@@ -478,6 +482,7 @@ BicyclingCirclejerk
 bigboobproblems
 BigBrother
 BigCatGifs
+bihar
 bikecommuting
 bikepacking
 BikiniBottomTwitter
@@ -779,6 +784,7 @@ characterdrawing
 CharacterRant
 Chargers
 Charlotte
+CharteredAccountants
 ChatGPT
 chelseafc
 chemistry
@@ -1274,6 +1280,7 @@ ElectroBOOM
 electronicmusic
 EliteDangerous
 ElizabethOlsen
+ellacervetto
 elonmusk
 Elysia
 Embroidery
@@ -1917,8 +1924,10 @@ illnessfakers
 Illustration
 im14andthisisdeep
 Im15AndThisIsYeet
+ImaginaryArchitecture
 ImaginaryBehemoths
 ImaginaryCharacters
+ImaginaryCityscapes
 ImaginaryDragons
 imaginaryelections
 ImaginaryHorrors
@@ -2155,6 +2164,7 @@ KGATLW
 KGBTR
 Kibbe
 KidsAreFuckingStupid
+KiernanShipka
 KillLaKill
 killteam
 Killtony
@@ -3267,6 +3277,7 @@ Revolvers
 RheaRipley
 RhodeIsland
 rickandmorty
+rickygervais
 RighteousGemstones
 rimjob_steve
 Rimuru
@@ -3530,6 +3541,7 @@ SlavaUkrayini
 slaythespire
 SleepToken
 Slipknot
+Slovakia
 Slovenia
 smalllebowsky
 smallstreetbets
@@ -3699,6 +3711,7 @@ Supernatural
 supersmashbros
 Superstonk
 superstore
+supportlol
 surrealmemes
 survivinginfidelity
 survivor
@@ -4289,6 +4302,7 @@ WoWs_Legends
 Wrasslin
 WrestleCuties
 WrexhamAFC
+writers
 writing
 WritingPrompts
 WRX
@@ -4307,6 +4321,7 @@ XboxSeriesX
 Xcom
 Xennials
 Xenoblade_Chronicles
+xertunposting
 XFiles
 xkcd
 xmen
