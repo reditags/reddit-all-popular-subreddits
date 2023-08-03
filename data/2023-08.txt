@@ -6,6 +6,7 @@
 19684
 197
 198
+19th
 1morewow
 2007scape
 2011
@@ -234,6 +235,7 @@ AntiworkPH
 ANTM
 Antyklerykalizm
 AnyaTaylorJoy
+anythingbutmetric
 AO3
 aoe2
 aoe3
@@ -1803,6 +1805,7 @@ GTAV
 GuardianTales
 Guelph
 Guildwars2
+GuiltyDogs
 Guiltygear
 guineapigs
 GuitarAmps
@@ -2122,6 +2125,7 @@ IronFrontUSA
 ironmaiden
 ironmouse
 ironscape
+IronWarriors
 IrrationalMadness
 IsabelaMerced
 islam
@@ -2173,6 +2177,7 @@ jerseycity
 jerseyshore
 jeuxvideo
 Jewdank
+JIDSV
 jiggledolls
 jigokuraku
 jihyo
@@ -2503,6 +2508,7 @@ MadisonPettis
 madisonwi
 madlads
 MadokaMagica
+MAGANAZI
 MagicArena
 MagicCardPulls
 magicTCG
@@ -2846,6 +2852,7 @@ NewsWithJingjing
 NewVegasMemes
 newyorkcity
 NewYorkMets
+NewYorkNineMild
 newzealand
 nextfuckinglevel
 NFA
@@ -3082,6 +3089,7 @@ papermoney
 ParadoxExtra
 paradoxplaza
 Parahumans
+Paralives
 Paramore
 PardonMyTake
 Pareidolia
@@ -4211,6 +4219,7 @@ Twitter
 Twitter_Brasil
 TwoHotTakes
 Twokinds
+TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
 TwoXChromosomes
@@ -4322,6 +4331,7 @@ VictoriaBC
 victoriajustice
 VictoriaJusticeShine
 VictoriaPedretti
+videogamedunkey
 videogames
 videomemes
 videos
@@ -4485,6 +4495,7 @@ woodworking
 woooosh
 wordsonanimegirls
 work
+WorkAdvice
 WorkersStrikeBack
 WorkReform
 Workspaces
