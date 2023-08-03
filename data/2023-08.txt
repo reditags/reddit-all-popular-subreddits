@@ -330,6 +330,7 @@ auntydonna
 AusFinance
 AusLegal
 AusMemes
+AusNews
 australia
 australian
 AustralianCattleDog
@@ -376,6 +377,7 @@ BadMtgCombos
 BadMUAs
 badroommates
 badtaxidermy
+badUIbattles
 badwomensanatomy
 baeirene
 BaizhuMains
@@ -614,6 +616,7 @@ Bronya
 brookemonke_xo
 Brooklyn
 brooklynninenine
+Browns
 BSG
 btd6
 Btechtards
@@ -868,6 +871,7 @@ CombatFootage
 combinedgifs
 comedybangbang
 ComedyCemetery
+comedyheaven
 ComedyHell
 comedyhomicide
 ComedyNecrophilia
@@ -979,6 +983,7 @@ CultOfTheLamb
 CuratedTumblr
 curb
 cursedcomments
+CursedGuns
 cursedmemes
 cursedvideos
 CurseofStrahd
@@ -1625,6 +1630,7 @@ gijoe
 gingercats
 Gintama
 girlsfrontline
+GirlsLastTour
 GirlsUndShitposts
 girlswithbigmuscles
 glasgow
@@ -1646,6 +1652,7 @@ godtiersuperpowers
 GODZILLA
 Gold
 Goldendoodles
+GoldenInuToken
 goldenknights
 goldenretrievers
 GoldenSun
@@ -1740,6 +1747,7 @@ HandfulOfKitten
 Handwriting
 HannahStocking_
 HannibalTV
+happycowgifs
 happycrowds
 HappyWoofGifs
 Hardcore
@@ -2002,6 +2010,7 @@ irezumi
 IRLEasterEggs
 IronFrontUSA
 ironmaiden
+ironmouse
 ironscape
 IrrationalMadness
 IsabelaMerced
@@ -2166,6 +2175,7 @@ KotakuInAction
 kotakuinaction2
 kpics
 kpop
+kpophelp
 kpoprants
 kpopthoughts
 kratom
@@ -3556,6 +3566,7 @@ SpaceXMasterrace
 spain
 SpanishHistoryMemes
 SpanishMeme
+specializedtools
 SpecOpsArchive
 SpeculativeEvolution
 SpeedOfLobsters
@@ -3797,6 +3808,7 @@ theGoldenGirls
 TheGoodPlace
 thegrandtour
 TheGriffonsSaddlebag
+TheGrittyPast
 TheInbetweeners
 theisle
 theJoeBuddenPodcast
@@ -3804,6 +3816,7 @@ TheLastAirbender
 thelastofus
 TheLastOfUs2
 ThelastofusHBOseries
+TheLeftCantMeme
 TheLegitBoss
 TheLib
 TheMagnusArchives
