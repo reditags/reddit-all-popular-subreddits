@@ -110,6 +110,7 @@ AFCSouthMemeWar
 afkarena
 AFL
 agedlikemilk
+agedlikewine
 agedtattoos
 ageofsigmar
 aggies
@@ -153,6 +154,7 @@ AlternativeHistory
 AMA
 AmandaHolden
 AmateurRoomPorn
+AmazonDSPDrivers
 AmazonFC
 AmberMains
 AmberMidthunder
@@ -257,6 +259,7 @@ ar15
 araragi
 arborists
 arcane
+Archaeology
 ArcherFX
 ArchitecturalRevival
 architecture
@@ -470,6 +473,7 @@ Bedbugs
 beeandpuppycat
 Beekeeping
 BeelcitosMemes
+beer
 beermoney
 beetlejuicing
 BeforeNAfterAdoption
@@ -972,6 +976,7 @@ CoolGadgetsTube
 coolguides
 coral_sharon
 corgi
+cormacmccarthy
 Coronavirus
 Corridor
 Corvette
@@ -1194,6 +1199,7 @@ detrans
 Detroit
 DetroitBecomeHuman
 detroitlions
+DetroitPistons
 DetroitRedWings
 deutschememes
 developersIndia
@@ -1209,6 +1215,7 @@ diablo2
 diablo4
 DidntKnowIWantedThat
 digimon
+DigimonCardGame2020
 DigitalArt
 DigitalPainting
 Dimension20
@@ -1384,6 +1391,7 @@ Episode
 EquallyTopless
 equestriaatwar
 Equestrian
+Eragon
 Eredivisie
 EscapefromTarkov
 esist
@@ -1863,6 +1871,7 @@ HardcoreNature
 hardimages
 hardstyle
 hardware
+hardwaregore
 Harley
 harrypotter
 harvestmoon
@@ -2237,6 +2246,7 @@ KafkaMains
 kaiserredux
 Kaiserreich
 KaIT
+KaitlynDever
 kaleycuoco
 kallmekris
 KamenRider
@@ -2274,6 +2284,7 @@ KGBTR
 Kibbe
 KidsAreFuckingStupid
 KiernanShipka
+kijiji
 KillLaKill
 killteam
 Killtony
@@ -2294,6 +2305,7 @@ kittens
 kitty
 kittyhasaquestion
 KneadyCats
+knifeclub
 KnowledgeFight
 Knoxville
 kof
@@ -2398,6 +2410,7 @@ Lexus
 lgballt
 lgbt
 lgbtmemes
+LGBTnews
 liberalgunowners
 Libertarian
 librandu
@@ -2479,6 +2492,7 @@ LoveIslandUSA
 LoveNikki
 LowQualityMemes
 lowriders
+LowSodiumDestiny
 LPOTL
 LSAT
 LSD
@@ -2711,6 +2725,7 @@ MobileLegendsGame
 ModCoord
 modeltrains
 Modern_Family
+modernwarfare
 ModernWarfareII
 moedred
 MoeMorphism
@@ -2786,6 +2801,7 @@ N_N_N
 NAFO
 nagatoro
 Nahida_Mains
+NahOPwasrightfuckthis
 Nails
 NameMyCat
 NameNerdCirclejerk
@@ -3075,6 +3091,7 @@ Overwatch
 overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
+OverwatchTMZ
 OWConsole
 Owls
 Ozempic
@@ -3091,6 +3108,7 @@ PallasCats
 Pandabuy
 PandR
 pansexmothwhorehouse
+pansexualfleabrothel
 panthers
 Papaplatte
 papermoney
@@ -3342,6 +3360,7 @@ puzzles
 PvZHeroes
 pyrocynical
 Python
+pythontips
 QAnonCasualties
 qotsa
 QOVESStudio
@@ -3731,6 +3750,7 @@ SmugIdeologyMan
 snakes
 sneakerreps
 Sneks
+snes
 SnowbreakOfficial
 snowleopards
 snowrunner
@@ -3829,6 +3849,7 @@ StarWars
 StarWarsBattlefront
 starwarsblackseries
 StarWarsCantina
+StarWarsEU
 StarWarsJediSurvivor
 StarWarsleftymemes
 starwarsmemes
@@ -3897,6 +3918,7 @@ Superbowl
 superman
 SuperMegaShow
 SupermodelCats
+SuperMorbidlyObese
 Supernatural
 supersmashbros
 Superstonk
@@ -3997,6 +4019,7 @@ Thailand
 thalassophobia
 thanksihateit
 thanksimcured
+thanosdidnothingwrong
 thatHappened
 ThatLookedExpensive
 Thatsabooklight
@@ -4586,6 +4609,7 @@ Youmo
 youngjustice
 youngpeopleyoutube
 YouniquePresenterMS
+YouOnLifetime
 YourRAGE
 youseeingthisshit
 YouShouldKnow
