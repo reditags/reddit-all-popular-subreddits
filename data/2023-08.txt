@@ -88,6 +88,8 @@ acotar
 ACPocketCamp
 acting
 ActionFigures
+ActivationSound
+ActLikeYouBelong
 actu_memes
 actuallesbians
 ActualPublicFreakouts
@@ -1762,6 +1764,7 @@ FreeKarma4You
 FREEMEDIAHECKYEAH
 Frenchbulldogs
 FrenchMemes
+Frenemies3
 FridayNightFunkin
 friendlyjordies
 friends_tv_show
@@ -1868,6 +1871,7 @@ geek
 GeForceNOW
 gekte
 GenderAnarchy
+Genealogy
 genestealercult
 Genshin_Impact
 Genshin_Impact_Leaks
@@ -1998,6 +2002,7 @@ Grimes
 Grishaverse
 GroundedGame
 grunge
+gshock
 GTA
 GTA6
 gtaonline
@@ -2106,6 +2111,7 @@ HighQualityGifs
 Highrepublic
 HighResCelebs
 HighStrangeness
+Higurashinonakakoroni
 HikaruNakamura
 HilariaBaldwin
 HIMYM
@@ -2486,6 +2492,7 @@ KansasCityChiefs
 Kanye
 KaraDelToro
 karengillan
+karens
 KatDennings
 katebeckinsale
 Katemara
@@ -2627,6 +2634,7 @@ LeedsUnited
 leetcode
 legal
 legaladvicecanada
+LegaladviceGerman
 LegalAdviceIndia
 legaladviceofftopic
 LegalAdviceUK
@@ -2739,6 +2747,7 @@ LoveIsBlindNetflix
 LoveIsBlindOnNetflix
 LoveIslandTV
 LoveIslandUSA
+lovejoyband
 LoveLive
 LoveNikki
 LowQualityMemes
@@ -3702,6 +3711,7 @@ pureasoiaf
 PurplePillDebate
 Purrito
 purrkour
+pusheen
 PutAnEggOnIt
 PuzzleAndDragons
 puzzles
@@ -4507,6 +4517,7 @@ TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
 TheMassive
+TheMcDojoLife
 thenetherlands
 TheNightFeeling
 TheNinthHouse
