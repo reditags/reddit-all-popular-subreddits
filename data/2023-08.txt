@@ -284,6 +284,7 @@ architecture
 ArchitecturePorn
 arcticmonkeys
 arduino
+Argaming
 argentina
 ArgentinaBenderStyle
 arielwinter
@@ -1860,6 +1861,7 @@ GetMotivated
 GettingShredded
 ghettowhitegirls
 ghibli
+Ghost_in_the_Shell
 Ghostbc
 ghostoftsushima
 Ghosts
@@ -2373,6 +2375,7 @@ jobs
 JoCat
 JoeBiden
 JoeRogan
+JoeyKing
 JohnCena
 JohnMulaney
 JohnWick
@@ -4209,6 +4212,7 @@ SubSimulatorGPT2
 Suburbanhell
 SuccessionTV
 suddenlybi
+SuddenlyCommunist
 SuddenlyGay
 SuddenlyLesbian
 suicidebywords
@@ -4377,6 +4381,7 @@ TheHobbit
 TheInbetweeners
 theisle
 theJoeBuddenPodcast
+TheKM
 TheLastAirbender
 thelastofus
 TheLastOfUs2
@@ -4412,6 +4417,7 @@ therewasanattempt
 TheRightCantMeme
 TheSimpsons
 thesims
+TheSims4Mods
 TheSimsBuilding
 thesimscc
 thesopranos
@@ -4673,6 +4679,7 @@ UzakiChan
 vagabond
 vagabondmanga
 ValentGarzonC
+valerialcala
 valheim
 VALORANT
 ValorantCompetitive
