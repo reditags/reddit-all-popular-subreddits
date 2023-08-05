@@ -1802,6 +1802,7 @@ fujifilm
 fulbo
 FullmetalAlchemist
 Fumofumo
+fundiesnarkiesnark
 FundieSnarkUncensored
 funhaus
 funkopop
@@ -2051,6 +2052,7 @@ HadesTheGame
 HadToHurt
 haikyuu
 HaileeSteinfeld
+HairDye
 hajimenoippo
 HalfLife
 halifax
@@ -2158,6 +2160,7 @@ homeassistant
 Homebuilding
 HomeDecorating
 HomeDepot
+homegym
 homelab
 HomeMaintenance
 homestead
@@ -3022,6 +3025,7 @@ MobileLegendsGame
 ModCoord
 modeltrains
 Modern_Family
+ModernMagic
 modernwarfare
 ModernWarfareII
 moedred
@@ -3515,6 +3519,7 @@ Persona5
 PersonalFinanceCanada
 perth
 pestcontrol
+PetAdvice
 PeterExplainsTheJoke
 PetiteFashionAdvice
 PetiteFitness
@@ -3713,6 +3718,7 @@ psych
 Psychedelics
 psychology
 PublicFreakout
+PuertoRico
 pukicho
 pune
 PunishingGrayRaven
@@ -3871,6 +3877,7 @@ Rochester
 rocketbeans
 RocketLeague
 RocketLeagueEsports
+rockets
 rockhounds
 RockOfLove
 rodentintercourse
@@ -4145,6 +4152,7 @@ SkincareAddicts
 skinwalkerranch
 skinwalkers
 Skookum
+skrillex
 SkyeBlueOffical
 SkyGame
 skylanders
@@ -4436,6 +4444,7 @@ TaylorSwiftsLegs
 tea
 Teachers
 TeamfightTactics
+TeamFourStar
 tech
 tech1e
 technews
@@ -4706,6 +4715,7 @@ tretinoin
 Trigun
 trippinthroughtime
 TrollCoping
+tron
 Trophies
 TruckerCats
 Truckers
@@ -4777,6 +4787,7 @@ UKJobs
 uklaw
 uknews
 UKPersonalFinance
+ukraina
 ukraine
 Ukraine_UA
 UkraineConflict
