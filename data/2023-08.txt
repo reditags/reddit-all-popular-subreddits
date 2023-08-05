@@ -174,6 +174,7 @@ amcstock
 AMCSTOCKS
 Amd
 AmericaBad
+americanairlines
 americandad
 AmericanFlaginPlace
 amex
@@ -313,6 +314,7 @@ ask
 AskAMechanic
 AskAnAmerican
 AskAnAustralian
+askaplumber
 AskArgentina
 AskAShittyMechanic
 AskBalkans
@@ -485,6 +487,7 @@ BeamNG
 BeansInThings
 BeardedDragons
 beards
+bearsdoinghumanthings
 beastboyshub
 beatles
 beatlescirclejerk
@@ -957,6 +960,7 @@ clevercomebacks
 climate
 ClimateShitposting
 climateskeptics
+climbergirls
 climbing
 ClimbingCircleJerk
 clonehigh
@@ -1517,6 +1521,7 @@ EverythingScience
 evilautism
 evilbuildings
 EvilDead
+ewphoria
 excatholic
 ExEgypt
 exjw
@@ -1653,6 +1658,7 @@ Flexicas
 FlexinLesbians
 flightradar24
 flightsim
+Flipping
 flonkers
 Floof
 floorplan
@@ -1917,6 +1923,7 @@ Gouache
 GR86
 GraceCFulton
 gradadmissions
+Granblue_en
 GrandBlue
 grandorder
 grandrapids
@@ -2350,6 +2357,7 @@ jerseyshore
 jessicaalba
 jeuxvideo
 Jewdank
+jewelry
 JIDSV
 jiggledolls
 jigokuraku
@@ -2403,6 +2411,7 @@ JustUnsubbed
 Juve
 k_on
 KafkaMains
+KaiCenat
 kaiserredux
 Kaiserreich
 KaIT
@@ -2926,6 +2935,7 @@ moistcr1tikal
 MoldyMemes
 Mommit
 monarchism
+MoneyDiariesACTIVE
 MonicaBellucci
 MonsterAnime
 MonsterHigh
@@ -3380,6 +3390,7 @@ Pennsylvania
 pennystocks
 PeopleFuckingDying
 peopleofwalmart
+PercyJacksonMemes
 Perfectfit
 perfectloops
 PerfectlyCutBooms
@@ -3931,6 +3942,7 @@ Shittyaskflying
 ShittyCarMod
 ShittyDaystrom
 shittyfoodporn
+Shittygamecollecting
 ShittyLifeProTips
 ShittyMapPorn
 shittymobilegameads
@@ -4297,6 +4309,7 @@ TerrifyingAsFuck
 TeslaLounge
 TeslaModel3
 teslamotors
+Testosterone
 Texans
 texas
 TexasPolitics
@@ -4947,6 +4960,7 @@ YourRAGE
 youseeingthisshit
 YouShouldKnow
 youtube
+youtubehaiku
 YuB
 yugioh
 YuGiOhMemes
