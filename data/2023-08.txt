@@ -457,6 +457,7 @@ BadMensAnatomy
 badMovies
 BadMtgCombos
 BadMUAs
+BadReads
 badroommates
 badtaxidermy
 badUIbattles
@@ -1416,6 +1417,7 @@ DIYUK
 dji
 dkfinance
 DLAH
+DMT
 DMZ
 DnB
 DnD
@@ -1546,6 +1548,7 @@ ElizabethHurley
 ElizabethOlsen
 ellacervetto
 ElleFanning
+elliottsmith
 elonmusk
 Elysia
 emacs
@@ -2041,10 +2044,12 @@ goons
 GordonRamsay
 gorillaz
 gosselinssnark
+GossipDK
 GossipGirl
 goth
 GothFashion
 GothGirls
+gothmakeup
 GothStyle
 Gouache
 GR86
@@ -2722,11 +2727,13 @@ LaylaMains
 lazerpig
 LBank2021
 LeaEluiGinet
+leafs
 leagueoflegends
 LeagueOfMemes
 LeaguesofVotann
 LeaksDBD
 leanbeefpatty
+leanfire
 LearmannTwins
 LearnJapanese
 learnpolish
@@ -4513,6 +4520,7 @@ Superstonk
 superstore
 SuperStructures
 supportlol
+Supra
 surrealmemes
 survivinginfidelity
 survivor
@@ -5300,6 +5308,7 @@ YoujoSenki
 Youmo
 youngjustice
 youngpeopleyoutube
+YoungThug
 YouniquePresenterMS
 YouOnLifetime
 YourRAGE
