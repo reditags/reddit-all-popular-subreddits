@@ -123,6 +123,7 @@ AFCNorthMemeWar
 AFCSouthMemeWar
 afkarena
 AFL
+AfterEffects
 agedlikemilk
 agedlikewine
 agedtattoos
@@ -299,6 +300,7 @@ ArcherFX
 ArchitecturalRevival
 architecture
 ArchitecturePorn
+archlinux
 arcticmonkeys
 arduino
 Argaming
@@ -520,6 +522,7 @@ BeautifulIndianWomen
 BeautifulWomenFitness
 beauty
 BeautyGuruChatter
+beautytalkph
 beberexha
 BeckyLynch
 Bedbugs
@@ -691,6 +694,7 @@ bostonceltics
 BostonTerrier
 Botchedsurgeries
 botecodoreddit
+BotezHub
 bottlebrush
 botw
 boulder
@@ -746,6 +750,7 @@ brooklynninenine
 Browns
 Brunei
 brushybrushy
+BryceDallasHoward
 BSG
 btd6
 Btechtards
@@ -985,6 +990,7 @@ ChurchOfKasumi
 ChurchOfRyo
 chutyapa
 CICO
+cigars
 cincinnati
 CineShots
 CirclejerkSopranos
@@ -1134,6 +1140,7 @@ crappyoffbrands
 crashbandicoot
 CrazyFuckingVideos
 CrazyHuman
+CrazyIdeas
 CreateMod
 CreationNtheUniverse
 creepy
@@ -1452,6 +1459,7 @@ DrakeTheType
 DramaFreeBJJ
 Dramione
 Draven
+Drawfee
 drawing
 drayamichelepictures
 Dreadlocks
@@ -2458,6 +2466,7 @@ JackSucksAtGeography
 JackSucksAtLife
 jaclynhillsnark
 Jaharia
+jaidenanimations
 jailbreak
 jakertown
 jambands
@@ -3339,6 +3348,7 @@ noodlebones
 nope
 norge
 NormMacdonald
+Norse
 norske
 northernireland
 northernlion
@@ -3516,6 +3526,7 @@ overemployed
 overlanding
 overlord
 OverSimplified
+overthegardenwall
 Overwatch
 overwatch2
 Overwatch_Memes
@@ -4082,6 +4093,7 @@ SchnitzelVerbrechen
 schoolfights2
 science
 ScienceBasedParenting
+sciencefiction
 sciencememes
 ScienceNcoolThings
 ScienceUncensored
@@ -4154,6 +4166,7 @@ shameless
 ShaneDawson
 Shark_Park
 sharks
+sharpei
 SheGotHands
 sheltie
 ShenheMains
@@ -4791,6 +4804,7 @@ TouchThaFishy
 touhou
 tourdefrance
 TowerofFantasy
+TowerofGod
 TownofSalemgame
 Toyota
 ToyotaTacoma
@@ -5033,6 +5047,7 @@ VShojo
 vtmb
 vultureculture
 VuvuzelaIPhone
+VyvanLe
 WagnerVsRussia
 walkaway
 wallpaper
