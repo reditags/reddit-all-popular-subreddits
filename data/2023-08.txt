@@ -185,6 +185,7 @@ AmericanHorrorStory
 amex
 AMG
 Amigurumi
+AmIHotSFW
 amishadowbanned
 AmITheAngel
 AmItheButtface
@@ -395,6 +396,7 @@ AustralianTeachers
 Austria
 austriahungary
 autism
+Autism_Pride
 AutismInWomen
 autismmemes
 AutisticAdults
@@ -950,6 +952,7 @@ Christian
 Christianity
 christinahendricks
 ChronicIllness
+chronotrigger
 ChubbyFIRE
 ChurchOfEula
 churchoffutaba
@@ -1234,6 +1237,7 @@ dating_advice
 DaysGone
 dayz
 DBLegendsReddit
+dbxv
 dbz
 DBZDokkanBattle
 DC_Cinematic
@@ -1304,6 +1308,7 @@ Destiny
 destiny2
 Destiny2Leaks
 DestinyFashion
+DestinyLore
 DestinyMemes
 DestinyTheGame
 DestroyedTanks
@@ -1678,6 +1683,7 @@ FireEmblemHeroes
 FireEmblemThreeHouses
 Firefighting
 firefly
+FirePunch
 firstimpression
 FirstResponderCringe
 FirstTimeHomeBuyer
@@ -1785,6 +1791,7 @@ frugalmalefashion
 Fruitbatcats
 FrutigerAero
 FSAE
+fsusports
 ft86
 ftlgame
 FTMMen
@@ -2331,6 +2338,7 @@ InfowarriorRides
 infp
 InfrastructurePorn
 initiald
+InlovewithKarengillan
 InRealLifeGirls
 insaneparents
 insanepeoplefacebook
@@ -2826,6 +2834,7 @@ Malazan
 malefashionadvice
 malehairadvice
 malelivingspace
+MaleniCruz
 malicesnarkexclusive
 MaliciousCompliance
 mallninjashit
@@ -3026,6 +3035,7 @@ MMA
 mmamemes
 MnetQueendom
 MobileLegendsGame
+Mobpsycho100
 ModCoord
 modeltrains
 Modern_Family
@@ -3074,11 +3084,13 @@ MovieLeaksAndRumors
 movies
 Moviesinthemaking
 MrBeast
+MrFruit
 MSsEcReTPoDcAsT
 MST3K
 MTB
 mtg
 mtgfinance
+mtgvorthos
 MtvChallenge
 MuayThai
 MujicoCity
@@ -4622,6 +4634,7 @@ TikTokCringe
 tiktokgossip
 tiktoktrophies
 TILI
+tiltshift
 TimAndEric
 timberwolves
 TimDillon
@@ -5082,6 +5095,7 @@ worldjerking
 worldnews
 worldnewsvideo
 worldofgothic
+worldofpvp
 WorldofTanks
 WorldOfWarships
 WormMemes
