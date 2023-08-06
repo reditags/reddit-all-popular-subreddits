@@ -234,6 +234,7 @@ AnimalsBeingJerks
 AnimalsBeingMoms
 AnimalsBeingStrange
 animalsdoingstuff
+AnimalTextGifs
 AnimalTracking
 animation
 anime_best_moments
@@ -443,6 +444,7 @@ AyakaMains
 azdiamondbacks
 AzerbaijanJerky
 azudaioh
+babyanimals
 babybigcatgifs
 BabyBumps
 BabyCorgis
@@ -824,6 +826,7 @@ CanadaHousing2
 canadaleft
 CanadianInvestor
 canceledpod
+CandicePatton
 CaneCorso
 CannedSardines
 CantParkThereMate
@@ -1197,6 +1200,7 @@ CSHFans
 csMajors
 csmanime
 CUETards
+CulinaryPlating
 CultofMorganLeFay
 CultOfTheLamb
 CulturalLayer
@@ -1738,6 +1742,7 @@ financialindependence
 Finanzen
 finch
 findapath
+FindAUnit
 Finland
 Fire
 Firearms
@@ -2061,6 +2066,7 @@ GR86
 GraceCFulton
 gradadmissions
 Granblue_en
+GranblueFantasyVersus
 GrandBlue
 grandorder
 grandrapids
@@ -3489,6 +3495,7 @@ OmnibusCollectors
 OmniscientReader
 OMORI
 Omorimemes
+OnCinemaAtTheCinema
 oneanddone
 onebag
 onednd
@@ -3680,6 +3687,7 @@ PhillyWiki
 philosophy
 PhilosophyMemes
 phish
+phoebebridgers
 phoenix
 PhoenixSC
 photocritique
@@ -4170,6 +4178,7 @@ SellingSunset
 Semaglutide
 sendinthetanks
 SendMeCompliments
+SeniorCats
 seniorkitties
 Sephora
 seraphon
@@ -4300,6 +4309,7 @@ skinwalkerranch
 skinwalkers
 Skookum
 skrillex
+SkweezyJibbs
 SkyeBlueOffical
 SkyGame
 skylanders
@@ -5059,6 +5069,7 @@ VillagePorn
 vim
 Vinesauce
 VinlandSaga
+vintage
 vintageads
 VintageFashion
 vinted
