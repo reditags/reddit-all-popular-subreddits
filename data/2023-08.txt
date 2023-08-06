@@ -393,6 +393,7 @@ AusNews
 australia
 australian
 AustralianCattleDog
+AustralianMilitary
 AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
@@ -742,6 +743,7 @@ buccos
 Buddhism
 BudgetAudiophile
 budgies
+BuenosAires
 Buffalo
 buffalobills
 buffy
@@ -937,6 +939,7 @@ chicagobulls
 chicagofood
 Chicken_Thoughts
 chickens
+ChickFilA
 CHICubs
 Chihuahua
 childemains
@@ -1153,6 +1156,7 @@ Cryptozoology
 Crystals
 cscareerquestions
 csgo
+CSHFans
 csMajors
 csmanime
 CUETards
@@ -2099,6 +2103,7 @@ Hardcore
 HardcoreNature
 hardimages
 hardstyle
+Hardtailgang
 hardware
 hardwaregore
 Harley
@@ -2765,6 +2770,7 @@ LOOK_CHINA
 lookatmydog
 LookatMyHalo
 lookismcomic
+lookyourbest
 LOONA
 LooneyTunesLogic
 loopringorg
@@ -3586,6 +3592,7 @@ PhilosophyMemes
 phish
 phoenix
 PhoenixSC
+photocritique
 photoshopbattles
 PhotoshopRequest
 Physics
@@ -3835,6 +3842,7 @@ real_China_irl
 realasians
 realbikinis
 realestateinvesting
+reallifedoodles
 realmadrid
 RealTesla
 ReasonableFantasy
