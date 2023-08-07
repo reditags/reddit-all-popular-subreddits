@@ -1391,6 +1391,7 @@ depression_memes
 depressionmeals
 DerScheisser
 desabafos
+DesantisJetTracker
 Design
 DesignMyRoom
 DesignPorn
@@ -1588,6 +1589,7 @@ Eldenring
 ElderScrolls
 elderscrollsonline
 electrical
+ElectricalEngineering
 electricians
 ElectroBOOM
 electronicmusic
@@ -3509,6 +3511,7 @@ notmycat
 NotMyJob
 nottheonion
 nova
+NovaScotia
 nowmycat
 NPPfunny
 NPR
@@ -5212,6 +5215,7 @@ Veterans
 vexillology
 vexillologycirclejerk
 veYakinEvren
+vfx
 VHS
 victoria2
 victoria3
@@ -5243,6 +5247,7 @@ Virginia
 virginvschad
 virtualreality
 Visiblemending
+VisitingIceland
 VivaLaDirtLeague
 Vocaloid
 VoidCats
@@ -5299,6 +5304,7 @@ Watercolor
 Waterfalls
 Wavyhair
 WeaponsMoe
+webcomics
 webdev
 Webkinz
 wec
