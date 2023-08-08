@@ -917,6 +917,7 @@ CatsAreMuslim
 CatsBeingCats
 catscarryingstuffies
 CatsEnjoyingPets
+catsinpants
 CatSlaps
 CatsLivingAndWell
 Catsmirin
@@ -1007,6 +1008,7 @@ chillmusic
 China
 China_irl
 chinchilla
+ChineseLanguage
 Chipotle
 Chiraqology
 Chivalry2
@@ -1196,6 +1198,7 @@ creepyasterisks
 creepyPMs
 cremposting
 crescentcitysjm
+CRH
 Cricket
 CricketShitpost
 crime
@@ -1303,6 +1306,7 @@ dankvideos
 DanLeBatardShow
 DanMachi
 DannyGonzalez
+DanTDM
 DarceyAndStaceyTLC
 Daredevil
 DarkAcademia
@@ -2495,6 +2499,7 @@ INDYCAR
 InfluencergossipDK
 influstopkipl
 Infographics
+InformedWarriorRides
 InfowarriorRides
 infp
 InfrastructurePorn
@@ -2808,6 +2813,7 @@ lanadelrey
 LancerRPG
 LandCruisers
 LandlordLove
+LandoftheLustrous
 landscaping
 languagelearning
 languagelearningjerk
@@ -2965,6 +2971,7 @@ lostredditors
 lotr
 lotrmemes
 lotro
+Lottery
 louboutins
 Louisville
 Lovecraft
@@ -3065,6 +3072,7 @@ MapPorn
 mapporncirclejerk
 MarchAgainstNazis
 MarchAgainstTrump
+marchingband
 MargotRobbie
 marijuanaenthusiasts
 MarinaNabokina
@@ -3192,6 +3200,7 @@ microgrowery
 MicrosoftFlightSim
 MicrosoftRewards
 Mid_Century
+midcenturymodern
 MiddleEarthMiniatures
 midjourney
 MightyHarvest
@@ -4692,6 +4701,7 @@ suns
 sunset
 Superbowl
 superman
+SupermanAdventures
 SuperMegaShow
 SupermodelCats
 SuperMorbidlyObese
@@ -4735,6 +4745,7 @@ Tacoma
 tacticalgear
 TacticalIssueCat
 Takagi_san
+TakeBackTheNotch
 TalesFromDF
 TalesFromRetail
 talesfromtechsupport
@@ -5242,6 +5253,7 @@ VietNam
 ViewAskewniverse
 VillagePorn
 vim
+Vindicta
 Vinesauce
 VinlandSaga
 vintage
