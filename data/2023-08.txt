@@ -2092,6 +2092,7 @@ gme_meltdown
 GMEJungle
 gmod
 gnome
+Goa
 goats
 goblincore
 GoblinSlayer
@@ -4878,6 +4879,7 @@ TheDarkTower
 thedavidpakmanshow
 TheDeprogram
 TheDepthsBelow
+TheDonaldTrump2024
 TheDragonPrince
 TheEminenceInShadow
 TheExpanse
