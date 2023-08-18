@@ -1538,6 +1538,7 @@ DisneyEyes
 Disneyland
 DisneyPlus
 disneyvacation
+DisneyWorld
 distractible
 distressingmemes
 dividends
@@ -4191,6 +4192,7 @@ PrettyLittleLiars
 PrettyOlderWomen
 Priconne
 PrideAndPinion
+PrimeiraLiga
 PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
