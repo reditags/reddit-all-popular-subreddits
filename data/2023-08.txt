@@ -1618,6 +1618,7 @@ Drizzy
 DronedOrc
 drones
 dropout
+DrStone
 Drueandgabe
 drugmemes
 Drugs
@@ -1888,6 +1889,7 @@ FigureSkating
 Filmmakers
 FinalFantasy
 FinalFantasyVII
+FinalFantasyVIII
 finalfantasyx
 finance
 FinancialCareers
@@ -4578,6 +4580,7 @@ serbia
 serbiancringe
 serialkillers
 seriea
+SeriousConversation
 seriouseats
 Serverlife
 Seulgi
@@ -5140,6 +5143,7 @@ TheExpanse
 TheFarSide
 thefighterandthekid
 TheFirstLaw
+TheForest
 TheGirlSurvivalGuide
 theGoldenGirls
 TheGoodPlace
