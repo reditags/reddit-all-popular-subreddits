@@ -448,6 +448,7 @@ AusMemes
 AusNews
 australia
 australian
+AustralianBirds
 AustralianCattleDog
 AustralianMilitary
 AustralianNostalgia
@@ -1642,6 +1643,7 @@ Eberron
 ebikes
 Economics
 economy
+EDC
 ededdneddy
 Edelgard
 Edgerunners
@@ -2075,6 +2077,7 @@ gamingnews
 gangstaswithwaifus
 Ganyu
 GarandThumb
+GardeningUK
 Gardevoir
 GarlicBreadMemes
 Garmin
