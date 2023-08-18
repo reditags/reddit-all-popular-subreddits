@@ -892,6 +892,7 @@ CallOfDuty
 CallOfDutyMobile
 calvinandhobbes
 camaro
+CampFlogGnaw
 camphalfblood
 CampingGear
 canada
@@ -900,6 +901,7 @@ canadaguns
 canadahousing
 CanadaHousing2
 canadaleft
+CanadaSoccer
 CanadianInvestor
 canceledpod
 CandicePatton
@@ -2190,6 +2192,7 @@ GMEJungle
 gmod
 gnome
 Goa
+GoalKeepers
 goats
 goblincore
 GoblinSlayer
@@ -2916,6 +2919,7 @@ Korn
 KotakuInAction
 kotakuinaction2
 kothibanglacheck
+KOTORmemes
 kpics
 kpop
 kpophelp
@@ -3644,6 +3648,7 @@ NFT
 NFTExchange
 NFTsMarketplace
 nhl
+NHLHUT
 Ni_Bondha
 Nicegirls
 niceguys
@@ -4354,6 +4359,7 @@ retailhell
 retardedcornfieldcum
 RetroAR
 retrobattlestations
+RetroBowl
 RetroFuturism
 retrogaming
 revancedapp
@@ -4554,6 +4560,7 @@ SelfieOver25
 selfimprovement
 SellingSunset
 Semaglutide
+Semenretention
 sendinthetanks
 SendMeCompliments
 SeniorCats
@@ -4929,6 +4936,7 @@ SuddenlyLesbian
 Sugargoo
 suicidebywords
 suisjeletroudeballe
+suits
 summerhousebravo
 SummertimeGirls
 summonerschool
@@ -5373,6 +5381,7 @@ TurkeyJerky
 TurkishCats
 TurkishCeleb
 Turkophobia
+turtle
 TuxedoCats
 TVDetails
 TVTooHigh
