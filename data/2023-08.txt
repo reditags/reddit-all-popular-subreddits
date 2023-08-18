@@ -191,6 +191,7 @@ AlternateAngles
 AlternateHistory
 alternativefashion
 AlternativeHistory
+AltFashion
 AMA
 AmandaHolden
 amateurradio
@@ -790,6 +791,7 @@ brdev
 Breadit
 breakingbad
 breakingbadmemes
+BreakUps
 Breath_of_the_Wild
 breitling
 BrettCooper
@@ -2955,6 +2957,7 @@ learndutch
 LearnJapanese
 learnpolish
 learnprogramming
+learnspanish
 learntodraw
 Leathercraft
 leaves
@@ -3142,6 +3145,7 @@ MagicArena
 MagicCardPulls
 MagicEye
 magicTCG
+magicthecirclejerking
 Maine
 mainecoons
 MakeMeFeelGood
@@ -3193,6 +3197,7 @@ MarinaNabokina
 Mariners
 Mario
 mariokart
+marketing
 Markham
 Markiplier
 Maromba
@@ -3315,6 +3320,7 @@ MichelleJenneke
 Michigan
 MichiganWolverines
 microblading
+MicrobladingRemoval
 microgrowery
 MicrosoftFlightSim
 MicrosoftRewards
@@ -3823,6 +3829,7 @@ OurFlagMeansDeath
 Outdoors
 outerwilds
 OUTFITS
+Outlander
 outofcontextcomics
 OutOfTheLoop
 outside
@@ -3894,6 +3901,7 @@ PathOfExileBuilds
 PathToNowhere
 PatMcAfeeShowOfficial
 Patriots
+pavement
 paydaytheheist
 PaymoneyWubby
 PcBuild
@@ -5099,6 +5107,7 @@ TheSimsBuilding
 thesimscc
 thesopranos
 TheStrokes
+TheSummerITurnedPrett
 theticket
 TheTpGentleman
 TheTrumpZone
