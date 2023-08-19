@@ -395,6 +395,7 @@ AskCulinary
 AskDocs
 AskElectricians
 AskElectronics
+AskFeminists
 AskFrance
 AskGayMen
 AskHistorians
@@ -1962,6 +1963,7 @@ Flexicas
 FlexinLesbians
 flightradar24
 flightsim
+flipperzero
 Flipping
 flonkers
 Floof
@@ -5199,6 +5201,7 @@ ThatsInsane
 The10thDentist
 the1975
 The8BitRyanReddit
+The_Dennis
 The_Leftorium
 The_Mueller
 THE_PACK
@@ -5315,6 +5318,7 @@ Thisisimportantpod
 thisismylifenow
 ThisLooksFun
 ThisYouComebacks
+ThomasinMcKenzie
 thomastheplankengine
 ThousandSons
 ThriftSavingsPlan
