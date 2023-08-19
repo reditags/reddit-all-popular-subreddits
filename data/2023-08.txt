@@ -2371,6 +2371,7 @@ hardstyle
 Hardtailgang
 hardware
 hardwaregore
+hardwareswap
 Harley
 HarleyQuinnTV
 harrypotter
@@ -3237,6 +3238,7 @@ MakeMeSuffer
 MakeMeSufferMore
 MakeNewFriendsHere
 MakeupAddiction
+MakeupSelfies
 MalaikaTerry
 Malavika_Mohanan_
 MalayalamMovies
@@ -4314,6 +4316,7 @@ QuotesPorn
 R6ProLeague
 Rabbits
 RachelPizzolato
+RachelRiley
 radiohead
 radioheadcirclejerk
 ragdolls
@@ -4426,6 +4429,7 @@ RhodeIsland
 rickandmorty
 rickygervais
 ricohGR
+rienabranler
 RighteousGemstones
 Rihanna
 rimesegate
@@ -4969,6 +4973,7 @@ straykids
 StreetFighter
 StreetMartialArts
 streetwearstartup
+strength_training
 Stretched
 StructuralEngineering
 StudentLoans
