@@ -1119,6 +1119,7 @@ CityPorn
 civ
 civ5
 civic
+Civic_Type_R
 civilengineering
 CivVI
 CK3AGOT
@@ -1501,6 +1502,7 @@ Design
 DesignMyRoom
 DesignPorn
 desimemes
+DesiMeta
 DesirePath
 DesiVideoMemes
 DessertPorn
@@ -5263,6 +5265,7 @@ theocho
 TheOdysseyHadAPurpose
 TheOnion
 TheOther14
+theouterworlds
 TheoVon
 theowlhousebutcursed
 thepaknarrative
@@ -5479,6 +5482,7 @@ Turkey
 TurkeyJerky
 TurkishCats
 TurkishCeleb
+turkishlearning
 Turkophobia
 turtle
 TuxedoCats
