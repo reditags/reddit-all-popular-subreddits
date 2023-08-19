@@ -491,6 +491,7 @@ AwesomeCarMods
 awfuleverything
 aww
 Awwducational
+awwnimate
 awwnverts
 Awww
 awwwtf
@@ -1436,6 +1437,7 @@ DeadSpace
 DeathBand
 deathbattle
 DeathBattleMatchups
+DeathByMillennial
 Deathcore
 deathgrips
 deathguard40k
@@ -3191,6 +3193,7 @@ lynxpointsiamese
 M1Rifles
 MAAU
 mac
+macbookpro
 MachikadoMazoku
 MachineLearning
 MachinePorn
@@ -3326,6 +3329,7 @@ me_irlgbt
 MealPrepSunday
 mealtimevideos
 MeatCanyon
+mechanic
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
