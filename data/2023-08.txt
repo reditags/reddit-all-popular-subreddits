@@ -1806,6 +1806,7 @@ equestriaatwar
 Equestrian
 Eragon
 Eredivisie
+ErgoMechKeyboards
 es
 EscapefromTarkov
 esist
@@ -2081,6 +2082,7 @@ fresno
 FridayNightFunkin
 friendlyjordies
 friends_tv_show
+FringeTheory
 frogs
 FromKittenToCat
 fromsoftware
@@ -2574,6 +2576,7 @@ HPHogwartsMystery
 HRSPRS
 hrvatska
 httyd
+HubermanLab
 Huebi
 HUEstation
 HumanForScale
