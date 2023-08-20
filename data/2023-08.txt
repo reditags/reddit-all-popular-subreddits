@@ -1700,6 +1700,7 @@ earthbound
 EarthPorn
 Earwolf
 EASportsFC
+EASportsUFC
 EatCheapAndHealthy
 eatsandwiches
 EatTheRich
@@ -2760,6 +2761,7 @@ ItalianGreyhounds
 ItaliaPersonalFinance
 italy
 itcouldhappenhere
+ITcrowd
 ItemShop
 Iteration110Cradle
 IThinkYouShouldLeave
@@ -4867,6 +4869,7 @@ Slipknot
 Slovakia
 Slovenia
 slowcooking
+SlowNewsDay
 Slycooper
 smallbusiness
 SmallDeliMeats
