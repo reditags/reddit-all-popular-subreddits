@@ -922,6 +922,7 @@ canadahousing
 CanadaHousing2
 canadaleft
 CanadaSoccer
+CanadianCoins
 CanadianInvestor
 canceledpod
 CandicePatton
@@ -2766,6 +2767,7 @@ IVE
 Ive_Hotties
 IVF
 iwoulddiefornoodle
+IWW
 Izlam
 iZone
 IzuOcha
@@ -4257,6 +4259,7 @@ pottedcats
 Pottery
 PouchCatatoes
 poutine
+PoutineCrimes
 povertyfinance
 povertyfinancecanada
 PowerGirl
