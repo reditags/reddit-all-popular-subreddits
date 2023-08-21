@@ -2707,6 +2707,7 @@ IndiaNostalgia
 IndianStockMarket
 IndianStreetBets
 IndianTeenagers
+IndianTellyTalk
 IndiaPlace
 indiasocial
 IndiaSpeaks
@@ -3643,6 +3644,7 @@ movies
 Moviesinthemaking
 MrBeast
 MrFruit
+MrTechnodad
 MSsEcReTPoDcAsT
 MST3K
 MTB
@@ -5682,6 +5684,7 @@ Ultraleft
 ultralight_jerk
 Ultraman
 Ultramarathon
+Ultramarines
 ultrawidemasterrace
 UmaMusume
 umineko
