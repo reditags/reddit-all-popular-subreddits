@@ -2406,6 +2406,7 @@ guns
 GunsNRoses
 gurgaon
 gurrenlagann
+GuyCry
 GuysBeingDudes
 GwenMains
 GYM
@@ -2568,6 +2569,7 @@ horizon
 HorizonForbiddenWest
 Hornyjail
 horror
+horrorlit
 Horses
 hostedgames
 hot_reporters
@@ -3666,6 +3668,7 @@ mtgvorthos
 MtvChallenge
 MuayThai
 MujicoCity
+Multicopter
 MultiVersusTheGame
 mumbai
 Munich
@@ -3693,6 +3696,7 @@ mylittlepony
 myog
 MyouiMina
 MyPeopleNeedMe
+myronkoops_
 MySingingMonsters
 MysteriousFacts
 mystery
