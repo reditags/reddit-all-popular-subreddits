@@ -945,6 +945,7 @@ CannedSardines
 canon
 CantParkThereMate
 canucks
+CanyonBikes
 CapeIndependence
 capetown
 CapitalismSux
@@ -1005,6 +1006,7 @@ Catloaf
 Catmemes
 catpics
 catpictures
+catrugs
 cats
 catsarealiens
 CatsAreAssholes
@@ -1609,6 +1611,7 @@ Division2
 DivorcedBirds
 DiWHY
 DIY
+diypedals
 DIYUK
 DJ_Peach_Cobbler
 dji
@@ -2130,6 +2133,7 @@ fujifilm
 fulbo
 FullEpisodesOfSB
 FullmetalAlchemist
+FullScorpion
 Fumofumo
 functionalprint
 fundiesnarkiesnark
@@ -2805,6 +2809,7 @@ Italia
 ItalianGreyhounds
 ItaliaPersonalFinance
 italy
+ITCareerQuestions
 itcouldhappenhere
 ITcrowd
 ItemShop
@@ -3759,6 +3764,7 @@ necoarc
 necromunda
 Necrontyr
 nederlands
+NeedaGoodLaugh
 needforspeed
 needkarma
 neekolul
@@ -4147,6 +4153,7 @@ pathologic
 PathToNowhere
 PatMcAfeeShowOfficial
 Patriots
+PaulanerSpezi
 pavement
 paydaytheheist
 PaymoneyWubby
@@ -5230,6 +5237,7 @@ tacobell
 Tacoma
 tacticalgear
 TacticalIssueCat
+TacticalUrbanism
 Takagi_san
 TakeBackTheNotch
 tales
@@ -5625,6 +5633,7 @@ TTSverse
 tuckedinkitties
 TuckedInPuppies
 Tucson
+Tudor
 tuesdayswithstories
 Tufting
 tulsa
