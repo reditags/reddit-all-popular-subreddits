@@ -431,6 +431,7 @@ AskReddit
 askscience
 AskScienceFiction
 askSingapore
+Asksweddit
 AskThe_Donald
 askTO
 asktransgender
@@ -665,6 +666,7 @@ BestBuyWorkers
 bestconspiracymemes
 bestoflegaladvice
 bestoftheinternet
+BestStudyAssistance
 bettafish
 betterCallSaul
 BetterEveryLoop
@@ -1882,6 +1884,7 @@ evilbuildings
 EvilDead
 ewphoria
 excatholic
+excel
 ExEgypt
 exjw
 exmormon
@@ -2080,6 +2083,7 @@ FordBronco
 fordranger
 FordTrucks
 Forgotten_Realms
+ForgottenBookmarks
 ForgottenWeapons
 forhonor
 forhonormemes
@@ -2126,6 +2130,7 @@ FrenchMemes
 Frenemies3
 fresno
 FridayNightFunkin
+fridaythe13th
 friendlyjordies
 friends_tv_show
 FringeTheory
@@ -2689,6 +2694,7 @@ IllegallySmolDogs
 illinois
 illnessfakers
 Illustration
+ilovemypolishheritage
 im14andthisisdeep
 Im15AndThisIsYeet
 ImaginaryArchitecture
@@ -3318,6 +3324,7 @@ lotrmemes
 lotro
 Lottery
 louboutins
+louisck
 Louisville
 love
 Lovecraft
@@ -3589,6 +3596,7 @@ milanavayntrub
 MildFemboys
 mildlyinfuriating
 mildlyinteresting
+Mildlynomil
 mildlypenis
 mildlyterrifying
 MildlyVandalised
@@ -3688,6 +3696,7 @@ Mortalkombatleaks
 MoscowMurders
 motherinlawsfromhell
 moths
+motivation
 MotoDANK
 motogp
 motorcitykitties
@@ -4007,6 +4016,7 @@ okbuddychicanery
 okbuddycinephile
 okbuddycoral
 okbuddydaylight
+okbuddydraper
 OkBuddyFresca
 okbuddygenshin
 okbuddyguardian
@@ -4707,6 +4717,7 @@ running
 RunningCirclejerk
 rupaulsdragrace
 rush
+RussiaLago
 russian
 RussianCircus
 RussianWarFootage
@@ -5986,6 +5997,7 @@ wec
 WECcirclejerk
 wedding
 Weddingattireapproval
+weddingdrama
 weddingdress
 WeddingPhotography
 weddingshaming
