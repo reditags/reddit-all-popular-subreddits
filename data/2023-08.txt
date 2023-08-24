@@ -145,6 +145,7 @@ AFCSouthMemeWar
 afkarena
 AFL
 AfterEffects
+AGAToken
 agedlikemilk
 agedlikewine
 agedtattoos
@@ -731,6 +732,8 @@ bisexual
 BisexualTeens
 bitchimabus
 BitchImATrain
+BitcoinITA
+BITCOINSPARPLAN
 BitLifeApp
 BITSPilani
 bizarrelife
@@ -1191,6 +1194,7 @@ CICO
 cigars
 cincinnati
 Cinemagraphs
+cinematography
 CineShots
 CirclejerkSopranos
 cirkeltrek
@@ -1245,6 +1249,7 @@ codyko
 CODZombies
 CoffinofAndyandLeyley
 coincollecting
+coingatecommunity
 coins
 Coldmirror
 ColdOnes
@@ -1404,9 +1409,12 @@ Cruise
 CrumblCookies
 Crunchyroll
 CrusaderKings
+crypticcoin
 Crypto_Currency_News
 CryptoCurrency
+cryptomemers
 CryptoMoonShots
+cryptospread
 Cryptozoology
 Crystals
 csakcsajok
@@ -1416,6 +1424,7 @@ CSHFans
 csMajors
 csmanime
 Cubers
+cudominer
 CUETards
 CulinaryPlating
 CultofMorganLeFay
@@ -1470,6 +1479,7 @@ DakotaFanning
 dakotajohnson
 Dallas
 Damnthatsinteresting
+dancegavindance
 dancemoms
 Dandadan
 danganronpa
@@ -1703,6 +1713,7 @@ Documentaries
 DOG
 DogAdvice
 dogecoin
+Dogecoin_meltdown
 dogelore
 doggrooming
 DoggyDNA
@@ -1713,6 +1724,7 @@ dogslookingdown
 DogsMirin
 dogvideos
 DokkanBattleCommunity
+DolanyeusiDAO
 Dolls
 Dominos
 dontdeadopeninside
@@ -1915,6 +1927,7 @@ ESTILOZAP
 estoration
 EstrangedAdultChild
 Ethelcain
+ethoprotocol
 ethoslab
 ethtrader
 EtikaRedditNetwork
@@ -2272,6 +2285,7 @@ G59
 GachaClub
 gachagaming
 gadgets
+GalaGames
 galatasaray
 GalaxyFold
 GalaxysEdge
@@ -2755,6 +2769,7 @@ HVAC
 hyderabad
 HydroHomies
 hydrokitties
+Hydrology
 hyouka
 HypixelSkyblock
 HyruleEngineering
@@ -2924,6 +2939,7 @@ Invincible
 Invisalign
 ios
 iOSBeta
+IOStoken
 Iowa
 ipad
 iphone
@@ -4025,7 +4041,10 @@ NFCWestMemeWar
 nflcirclejerk
 nfrealmusic
 NFT
+nftdawn
 NFTExchange
+NFThub
+NFTRealWorldApps
 NFTsMarketplace
 nhl
 NHLHUT
@@ -4127,6 +4146,7 @@ nus
 NuxTakuSubmissions
 nuzlocke
 nvidia
+NWC_official
 nwordington
 NYCbike
 NYCinfluencersnark
@@ -4517,6 +4537,7 @@ Plumbing
 plushies
 PlusSizeFashion
 pocketpussy
+Poems
 Poetry
 pointlesslygendered
 PointlessStories
@@ -4657,6 +4678,7 @@ Psychonaut
 PublicFreakout
 PuertoRico
 pukicho
+pumpnodump
 pune
 PunishingGrayRaven
 punk
@@ -4820,6 +4842,7 @@ retrogaming
 revancedapp
 revancedextended
 RevenantMain
+reviewsforyou
 Revolvers
 RheaRipley
 RhodeIsland
@@ -5061,6 +5084,7 @@ SexyLizzyWurst
 SexySportsBabes
 sffpc
 SFGiants
+SFtechJobs
 SFWNextDoorGirls
 SFWRedheads
 SGExams
@@ -5816,6 +5840,7 @@ todayilearned
 TodayIWore
 toddlers
 ToiletPaperUSA
+TokenScout
 tokkiefeesboek
 tokkiemarktplaats
 tolkienfans
@@ -5852,6 +5877,7 @@ Torontology
 torontoraptors
 TorontoRealEstate
 torties
+tortoise
 Totaldrama
 TotalKalesh
 totallynotrobots
@@ -6141,6 +6167,7 @@ vintage
 vintageads
 vintagecomputing
 VintageFashion
+vintagejapaneseautos
 VintageTees
 vinted
 Vinted_hungary
