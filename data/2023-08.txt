@@ -1026,6 +1026,7 @@ CasualUK
 cat
 CatAdvice
 catalunya
+Catan
 Catastrophic
 CatastrophicFailure
 catbellies
@@ -1980,6 +1981,7 @@ FamilyMedicine
 FamousLatinas
 Fancast
 FanFiction
+FansHansenvsPredator
 fansofcriticalrole
 fantanoforever
 FantasticFour
@@ -2336,6 +2338,7 @@ Georgia
 GeorgiaEllenwood
 GeorginaRodriguezN1
 GerardWay
+German
 GermanRap
 germanshepherds
 germanshorthairs
@@ -5993,6 +5996,7 @@ Unexpected
 unexpectedfuturama
 UnexpectedJoJo
 UnexpectedlyWholesome
+UnexpectedMulaney
 unexpectedoffice
 UnexpectedTF2
 UniSwap
