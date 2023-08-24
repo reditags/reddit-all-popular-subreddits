@@ -509,6 +509,7 @@ AutisticPride
 AutisticWithADHD
 autobloed
 AutoDetailing
+autorepair
 Autos
 Autumn
 Avatar
@@ -1442,6 +1443,7 @@ cyprus
 czech
 czechmemes
 CZFirearms
+DabbooRatnani
 Dabs
 Dachshund
 DadForAMinute
@@ -5759,6 +5761,7 @@ tokkiefeesboek
 tokkiemarktplaats
 tolkienfans
 tollywood
+tomatoes
 TombRaider
 tomochanwaonnanoko
 tomorrow
@@ -6071,6 +6074,7 @@ Vinesauce
 VinlandSaga
 vintage
 vintageads
+vintagecomputing
 VintageFashion
 VintageTees
 vinted
@@ -6322,6 +6326,7 @@ writingcirclejerk
 WritingPrompts
 wrongnumber
 WRX
+wrx_vb
 WTF
 wunkus
 WutheringWaves
