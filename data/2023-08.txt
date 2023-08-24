@@ -2537,6 +2537,7 @@ HaloStory
 Hamilton
 Hammers
 hamsters
+hanakokun
 handbags
 HandfulOfKitten
 Handwriting
@@ -3245,6 +3246,7 @@ latvia
 law
 lawncare
 lawofattraction
+LawPH
 LawSchool
 Lawyertalk
 LaylaMains
@@ -3593,6 +3595,7 @@ McLounge
 McMansionHell
 McMaster
 MCUTheories
+MDMA
 me_irl
 me_irlgbt
 MealPrepSunday
