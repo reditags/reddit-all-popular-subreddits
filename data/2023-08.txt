@@ -2732,6 +2732,7 @@ HuTao_Mains
 HVAC
 hyderabad
 HydroHomies
+hydrokitties
 hyouka
 HypixelSkyblock
 HyruleEngineering
@@ -3140,6 +3141,7 @@ killingfloor
 KillLaKill
 killsixbilliondemons
 killteam
+killthecameraman
 Killtony
 KimetsuNoYaiba
 kimminjeong
@@ -5954,6 +5956,7 @@ UK_Pets
 UK_TV_Girls
 UKcoins
 ukdrill
+UKhiking
 UKJobs
 uklaw
 uknews
@@ -6042,6 +6045,7 @@ vanhalen
 VaporwaveAesthetics
 VaushV
 vaxxhappened
+vce
 vdm
 vegan
 vegancirclejerk
