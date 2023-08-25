@@ -5404,6 +5404,7 @@ StableDiffusion
 StainedGlass
 stalker
 standardissuecat
+Standup
 StandUpComedy
 standupshots
 StanleyKubrick
@@ -6469,6 +6470,7 @@ wunkus
 WutheringWaves
 ww2
 WWE
+WWE2K23
 WWEGames
 wwiipics
 WWIIplanes
