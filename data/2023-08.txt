@@ -1725,6 +1725,7 @@ DoctorWhumour
 Documentaries
 DOG
 DogAdvice
+Dogberg
 dogecoin
 Dogecoin_meltdown
 dogelore
