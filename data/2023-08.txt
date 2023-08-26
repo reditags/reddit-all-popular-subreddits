@@ -451,6 +451,7 @@ AskReddit
 askscience
 AskScienceFiction
 askSingapore
+askspain
 Asksweddit
 AskThe_Donald
 askTO
@@ -2842,6 +2843,7 @@ HubermanLab
 Huebi
 HUEstation
 HumanForScale
+HumanPorn
 HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
@@ -3167,6 +3169,7 @@ JoeyKing
 JohnCena
 JohnMulaney
 JohnWick
+Joiha
 joinsquad
 Jojo
 JoJoMemes
@@ -3187,6 +3190,7 @@ jschlattsubmissions
 JSOCarchive
 jtbc_RUNext
 Judaism
+judo
 juggalo
 JuiceWRLD
 Jujutsufolk
@@ -3396,6 +3400,7 @@ LateStageCapitalism
 LateStageImperialism
 LatinoPeopleTwitter
 latvia
+LaurenCohan
 law
 lawncare
 lawofattraction
@@ -3511,6 +3516,7 @@ lisathepainfulrpg
 lisboa
 liseliler
 LISKiller
+literaciafinanceira
 lithuania
 litrpg
 LittleNightmares
