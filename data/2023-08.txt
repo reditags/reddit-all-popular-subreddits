@@ -1721,6 +1721,7 @@ DigitalPainting
 Dimension20
 DINgore
 Dinosaurs
+DiovanaKoni
 disability
 discgolf
 DiscoElysium
@@ -3821,6 +3822,7 @@ Metaverse_Blockchain
 Metoidioplasty
 metro
 Metroid
+metroidvania
 mew_irl
 mexicanfood
 mexico
@@ -6694,6 +6696,7 @@ ZeroEscape
 zfam
 zillakami
 zillowgonewild
+zoology
 Zoomerchan3
 Zoomies
 zootopia
