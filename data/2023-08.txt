@@ -1580,6 +1580,7 @@ datascience
 datealive
 dating
 dating_advice
+datingoverthirty
 DaveRamsey
 daverubin
 davidgoggins
@@ -3041,6 +3042,7 @@ IrrationalMadness
 IsabelaMerced
 Isekai
 IShowMeat
+IsItBullshit
 islam
 IsMyPokemonCardFake
 ISO8601
