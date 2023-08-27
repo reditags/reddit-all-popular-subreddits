@@ -4886,6 +4886,7 @@ policebrutality
 policeporn
 policeuk
 Political_Revolution
+PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
 PoliticalMemes
@@ -5073,6 +5074,7 @@ ralsei
 ramen
 Rammstein
 rance
+RandomActsOfGaming
 RandomThoughts
 rangers
 rant
@@ -6833,6 +6835,7 @@ WRX
 wrx_vb
 WTF
 WTFgaragesale
+wtfstockphotos
 wunkus
 WutheringWaves
 ww2
