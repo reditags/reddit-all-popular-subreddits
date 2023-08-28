@@ -6468,6 +6468,7 @@ totalwarhammer
 TOTK
 TouchThaFishy
 touhou
+touhou_lostword
 tourdefrance
 TowerofFantasy
 TowerofGod
