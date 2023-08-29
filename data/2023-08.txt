@@ -372,6 +372,7 @@ AO3
 aoe2
 aoe3
 aoe4
+ape
 apexlegends
 ApexOutlands
 ApexUncovered
@@ -1193,6 +1194,7 @@ Catswhoyell
 CatsWithDogs
 Catswithjobs
 CatTaps
+Catwoman
 cavaliers
 Cawwsplay
 CBSE
@@ -4140,6 +4142,7 @@ Mensmittenwithkittens
 MensRights
 menwritingwomen
 MEOW_IRL
+meowsertrousers
 mercedes_benz
 MercyMains
 merdasdoolx
@@ -6445,6 +6448,7 @@ thumbcats
 Thunder
 ThunderThots
 tianguancifu
+Ticos
 TIdaL
 TiFiToken
 tifu
