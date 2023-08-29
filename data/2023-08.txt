@@ -857,6 +857,7 @@ BlockchainSkins
 BlockchainStartups
 blockchainu
 BlockchainVR
+blogger
 BloodAngels
 bloomington
 blop
@@ -1953,6 +1954,7 @@ DogeMeme
 dogetard
 doggrooming
 DoggyDNA
+DoglaREDDIT
 dogpictures
 dogs
 dogs_getting_dogs
@@ -4515,6 +4517,7 @@ NFTinvestor
 NFTpromo
 NFTpromotions
 NFTRealWorldApps
+NFTs_Market
 NFTS_Only
 NFTScams
 NFTsMarketplace
