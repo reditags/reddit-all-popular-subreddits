@@ -106,6 +106,7 @@ Accutane
 AceAttorney
 AceAttorneyCirclejerk
 acecombat
+Achievement_Hunter
 AchillesAndHisPal
 ACMilan
 acnh
@@ -115,6 +116,7 @@ ACPocketCamp
 acting
 ActionFigures
 ActivationSound
+ActiveMeasures
 ActLikeYouBelong
 actu_memes
 actuallesbians
@@ -797,6 +799,7 @@ Bitcoin_Ita
 BitcoinCashLol
 bitcoincdy
 BitcoinChannelLIVE
+BitcoinColombia
 bitcoines
 BitcoinEscrows
 BitcoinGoldHQ
@@ -845,6 +848,7 @@ blessedimages
 Blink182
 BLinkcrypto
 BlockchainChat
+BlockchainDev
 BlockchainMemes
 BlockchainRagnarok
 BlockchainSkins
@@ -1033,6 +1037,7 @@ burdurland
 burgers
 Burises
 burlington
+BurnNotice
 Butchery
 Buttcoin
 BuyItForLife
@@ -1094,6 +1099,7 @@ capetown
 CapitalismSux
 CapitolConsequences
 caps
+CaptainSparklez
 capybara
 CaraDelevingne
 CarbonProtocol
@@ -1144,6 +1150,7 @@ catcare
 Catculations
 CatDistributionSystem
 catfaceplant
+CatGifs
 CatgirlSFW
 CATHELP
 Catholicism
@@ -1607,6 +1614,7 @@ CryptoStock
 CryptoTab_Browser
 cryptotrade2trade
 CryptoTradeHub
+CryptoTradingFloor
 CryptoWallet
 Cryptozoology
 Crystals
@@ -1935,6 +1943,7 @@ DogeChainFamily
 dogecoin
 Dogecoin_meltdown
 DogecoinCharity
+Dogecoinnews
 DogecoinPhilippines
 dogelore
 DogeMeme
@@ -2166,6 +2175,7 @@ esterexposito
 ESTILOZAP
 estoration
 EstrangedAdultChild
+eth2
 EthCrowdfund
 EthCult
 Ethelcain
@@ -2175,6 +2185,7 @@ EthereumETH
 EthGamers
 ethoprotocol
 ethoslab
+ethswarm
 EthSwitzel
 ethtrader
 EtikaRedditNetwork
@@ -2418,6 +2429,7 @@ Foodforthought
 foodhacks
 FoodieCutie
 FoodLosAngeles
+FoodNYC
 FoodPorn
 foodscam
 FoodVideoPorn
@@ -2675,6 +2687,7 @@ gifsthatendtoosoon
 gifsthatkeepongiving
 gijoe
 GillianAnderson
+ginacarano
 gingercats
 Gintama
 girlsfrontline
@@ -2977,6 +2990,7 @@ hitmanimals
 HivemindTV
 hmm
 hmmm
+HOA
 hobbygamedev
 hobonichi
 hockey
@@ -3053,6 +3067,7 @@ HowToBeHot
 Howtolooksmax
 howtonotgiveafuck
 howyoudoin
+hoyas
 Hozier
 HPHogwartsMystery
 HPMagicAwakened
@@ -3097,6 +3112,7 @@ IAmTheMainCharacter
 iamverybadass
 iamverysmart
 IASIP
+IBEW
 ibs
 IcebergCharts
 IceCreamWaifu
@@ -3694,6 +3710,7 @@ legaladviceofftopic
 LegalAdviceUK
 legalcatadvice
 legendofkorra
+legendofzelda
 LegendsMemes
 LegendsOfRuneterra
 LegitCheck
@@ -3988,6 +4005,7 @@ Markham
 Markiplier
 Maromba
 Marriage
+marriott
 martialarts
 MartialMemes
 Marvel
@@ -4071,6 +4089,7 @@ megalophobia
 Megaman
 megane
 MeganFox
+megantheestallion
 Megumin
 meirl
 MeJulgue
@@ -4255,6 +4274,7 @@ MonsterHunter
 MonsterHunterWorld
 Monsterverse
 Montana
+Monterrey
 MoonKnight
 MoonPissing
 morbidquestions
@@ -5362,6 +5382,7 @@ ReservationDogs
 Residency
 residentevil
 resinprinting
+RestartEnergy
 resumes
 retailhell
 retardedcornfieldcum
@@ -6257,6 +6278,7 @@ The_Dennis
 The_Leftorium
 The_Librandu_Files
 The_Mueller
+the_news_crypto
 THE_PACK
 theadamfriedlandshow
 TheAdventureZone
@@ -6644,6 +6666,7 @@ UCDavis
 ucla
 UCSC
 UCSD
+Udemy
 ufc
 ufl
 ufo
@@ -6997,6 +7020,7 @@ wien
 WiggleButts
 wiimmfi
 wiiu
+WikiBitPH
 wikipedia
 wildcampingintheuk
 WildernessBackpacking
