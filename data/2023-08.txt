@@ -3714,6 +3714,7 @@ KingkillerChronicle
 KingOfTheHill
 kings
 Kings_Of_Airdrop
+kingsnakes
 KiraKosarin
 KiraraMains
 Kirby
@@ -4697,6 +4698,7 @@ NftGiveawayOnly
 NFTGrowth
 NFThub
 NFTinvestor
+nftnews
 NFTpromo
 NFTpromotions
 NFTRealWorldApps
@@ -6151,6 +6153,7 @@ spain
 Spanish
 SpanishHistoryMemes
 SpanishMeme
+Spawn
 specializedtools
 SpecOpsArchive
 SpeculativeEvolution
