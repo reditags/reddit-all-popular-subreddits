@@ -1434,6 +1434,7 @@ ClevelandGuardians
 clevercomebacks
 CLG
 climate
+climatechange
 ClimateShitposting
 climateskeptics
 climbergirls
@@ -2295,6 +2296,7 @@ EmperorsChildren
 EmpireDidNothingWrong
 EmpireToken
 ems
+emulation
 EnbyFashionAdvice
 EnculerLesVoitures
 ender3
@@ -2949,6 +2951,7 @@ goodboomerhumor
 GoodFakeTexts
 GoodGoodMemes
 goodmythicalmorning
+goodnews
 goodomens
 goodomensprime
 goodrestrictionfood
@@ -5265,6 +5268,7 @@ PetiteFashionAdvice
 PetiteFitness
 Petloss
 PetMice
+PetPeeves
 Pets
 PetsareAmazing
 PetTheDamnCat
@@ -6668,6 +6672,7 @@ thanksihateit
 thanksimcured
 THANOS_Token
 thanosdidnothingwrong
+ThatHappen23
 thatHappened
 ThatLookedExpensive
 Thatsabooklight
