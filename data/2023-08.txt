@@ -183,6 +183,7 @@ AICoinChart
 AIDKE
 Aikuros
 AIONgineering
+aircanada
 AirdropHub
 airdropninja
 airdrops
@@ -291,6 +292,7 @@ amiwrong
 amogus
 Amoledbackgrounds
 amphibia
+AmpleforthCrypto
 Amtrak
 AmyAdams
 AnadeArmas
@@ -837,6 +839,7 @@ BITCOINSPARPLAN
 bitcointrading
 BitcoinzTech
 bitcom_exchange
+bitget
 bitlife
 BitLifeApp
 BITSPilani
@@ -883,6 +886,7 @@ BlockchainChat
 BlockchainDev
 BlockchainGospelDAO
 BlockchainMemes
+blockchainprogramming
 BlockchainRagnarok
 BlockchainSkins
 BlockchainStartups
@@ -1145,6 +1149,7 @@ caps
 CaptainSparklez
 capybara
 CaraDelevingne
+carbonmoney
 CarbonProtocol
 carcrash
 Cardiff
@@ -1383,6 +1388,7 @@ ClashRoyaleCirclejerk
 ClassConscienceMemes
 classiccars
 ClassicDesiCool
+classicmustangs
 ClassicRock
 classicsoccer
 classicwow
@@ -1569,6 +1575,7 @@ CrazyHuman
 CrazyIdeas
 CreateMod
 CreationNtheUniverse
+CreditsCryptocurrency
 creepy
 creepyasterisks
 creepyencounters
@@ -1623,6 +1630,7 @@ Crypto_RamaCoin
 CryptoAirdrop
 cryptoalgotrading
 CryptoAndStockNews
+CryptoBanter
 CryptoBlades
 CryptoBladesMarket
 CryptoCanadaandUSA
@@ -1634,14 +1642,18 @@ cryptocrewvalidators
 CryptoCurrency
 Cryptocurrency_BR
 CryptoCurrencyDaily
+CryptocurrencyDev
 CryptocurrencyMeMe
 CryptocurrencyReviews
+cryptocurrencyscams
 CryptoCurrencyTrading
 cryptodevs
 CryptoDudes
+CryptoExchangeReview
 CryptoFighters
 cryptogames
 CryptoGoofs
+CryptoHelpDesk
 cryptohindinews
 CryptoHow
 CryptoImprovementFund
@@ -1657,13 +1669,17 @@ CryptoMembers
 cryptomemers
 CryptoMiningSetups
 CryptoMoon
+cryptomoongroup
 CryptoMoonInvestors
 CryptoMooniverse
 CryptoMoonShots
 CryptoNews
 CryptoPointTV
+CryptoPumpers
 CryptoQuestCrew
 CryptoRadar
+CryptoReferrals
+CryptoReport
 CryptoScamBlacklist
 CryptoSenegal
 CryptoShrimps
@@ -1747,6 +1763,7 @@ DaisyToken
 DakotaFanning
 dakotajohnson
 Dallas
+dalmatians
 Damnthatsinteresting
 dancegavindance
 dancemoms
@@ -1886,6 +1903,7 @@ DemonolatryPractices
 DemonSchoolIrumakun
 DemonSlayerAnime
 DemonSlayerMemes
+demurragecryptoincome
 Denmark
 DenverBroncos
 DenverCirclejerk
@@ -2135,6 +2153,7 @@ DynastyFF
 dysautonomia
 earfurnishings
 earlsweatshirt
+Earnabletoken
 earthbound
 EarthPorn
 Earwolf
@@ -2709,6 +2728,7 @@ GarlicBreadMemes
 Garmin
 Garten
 Gary_The_Cat
+Gatcat
 gatekeeping
 GatekeepingYuri
 gatesopencomeonin
@@ -2804,6 +2824,7 @@ glastonbury_festival
 Glitch_in_the_Matrix
 GlitchProductions
 GlobalOffensive
+globcoin
 Globitex
 Glocks
 Gloomhaven
@@ -3336,6 +3357,7 @@ IndieDev
 indiegames
 IndieGaming
 indieheadscirclejerk
+IndoCrypto
 indonesia
 IndoorGarden
 Indore
@@ -3548,6 +3570,7 @@ jordan
 JordanBeckham
 JordanPeterson
 JoshuaTree
+JoshuaWeissman
 Journaling
 jovemnerd
 JoyTaylor
@@ -3960,6 +3983,7 @@ lookismcomic
 lookyourbest
 LOONA
 LooneyTunesLogic
+Loop
 LoopringNFTbazaar
 loopringorg
 Lorcana
@@ -5560,6 +5584,7 @@ Residency
 residentevil
 resinprinting
 RestartEnergy
+RestoreTruthToken
 resumes
 retailhell
 retardedcornfieldcum
@@ -5654,6 +5679,7 @@ runefactory
 runescape
 running
 RunningCirclejerk
+RunningShoeGeeks
 rupaulsdragrace
 rush
 RussiaLago
@@ -6450,6 +6476,7 @@ TeslaModelY
 teslamotors
 teslareferralcode
 Testosterone
+TetherEarn
 tethered
 TetherMoonBSC
 Texans
@@ -7394,6 +7421,7 @@ YetiCoolers
 Yield_Farming
 yimby
 yo_ctm
+YoCoin
 YofukashiNoUta
 yoga
 Yoimiya_Mains
