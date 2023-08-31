@@ -1530,6 +1530,7 @@ collectphx
 ColleenBallingerSnark
 colleensheen
 college
+collegebaseball
 CollegeBasketball
 CollegeRant
 ColleiMains
@@ -3691,6 +3692,7 @@ Izlam
 iZone
 IzuOcha
 jackass
+jacketsforbattle
 jackrussellterrier
 jacksonville
 JackSucksAtGeography
@@ -5426,6 +5428,7 @@ persona4golden
 Persona5
 PersonalFinanceCanada
 personalfinanceindia
+PersonalFinanceNZ
 perth
 pesmobile
 pestcontrol
