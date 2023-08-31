@@ -666,6 +666,7 @@ badUIbattles
 badwomensanatomy
 baeirene
 BaizhuMains
+bakeoff
 Baking
 bald
 baldursgate
@@ -724,6 +725,7 @@ Battletechgame
 bayarea
 BayernMunich
 Bayonetta
+Baystreetbets
 bbaldiback
 BBBY
 BBQ
@@ -1229,6 +1231,7 @@ CarTalkUK
 cartesi
 CartiCulture
 cartoons
+CashApp
 casino_bonus_code
 CasinoReferralCodes
 casio
@@ -1301,6 +1304,7 @@ Cawwsplay
 CBSE
 cctvidiots
 CCW
+Cd_collectors
 cedarpoint
 ceibataximinivan
 celeb_nylons
@@ -1437,6 +1441,7 @@ cinematography
 CineShots
 CirclejerkSopranos
 cirkeltrek
+cissp
 CitadelLLC
 CitiesSkylines
 CityPorn
@@ -1564,6 +1569,7 @@ CompetitiveTFT
 compoface
 compsci
 CompTIA
+computadores
 computers
 conan
 Concrete
@@ -1981,6 +1987,7 @@ declutter
 DecodingTheGurus
 DeepDisclosure
 DeepDiveDialogueDane
+deeplearning
 DeepRockGalactic
 DeepSpaceNine
 deepwoken
@@ -2139,6 +2146,7 @@ DobermanPinscher
 doctorwho
 DoctorWhumour
 Documentaries
+Dodge
 DOG
 DogAdvice
 Dogberg
@@ -2327,6 +2335,7 @@ Elektroinstallation
 EliteDangerous
 ElizabethHurley
 ElizabethOlsen
+ElizabethTurner
 ellacervetto
 ElleFanning
 elliottsmith
@@ -2528,6 +2537,7 @@ FantasyPL
 fantasyromance
 FanTheories
 FantomCrypto
+FantomFoundation
 FantomNFT
 farcry
 farialimabets
@@ -2612,6 +2622,7 @@ findapath
 FindAUnit
 findfashion
 Finland
+fintech
 Fire
 Firearms
 fireemblem
@@ -2852,6 +2863,7 @@ gamedev
 gameDevJobs
 Gamefi_Gaming
 gamegrumps
+gamemaker
 gameofthrones
 GamePhysics
 gamernews
@@ -2869,6 +2881,7 @@ GamingLeaksAndRumours
 gamingnews
 gangstaswithwaifus
 Ganyu
+garageporn
 GarandThumb
 GardeningUK
 Gardevoir
@@ -3288,6 +3301,7 @@ hoggit
 hogwartslegacyJKR
 hoi4
 HOI4memes
+hoi4modding
 holdmycosmo
 holdmyfries
 holdmyjuicebox
@@ -3772,6 +3786,7 @@ JuJutsuKaisen
 Jujutsushi
 JuliaBeautxNEW
 jumpingspiders
+jumprope
 Jungle_Mains
 junjiito
 JurassicMemes
@@ -4266,6 +4281,7 @@ MachinePorn
 Machinists
 MacMiller
 MacOS
+MacOSBeta
 Madden
 MadeInAbyss
 MadelainePetsch
@@ -4736,6 +4752,7 @@ musicaljenga
 musicals
 musicmarketing
 musicmemes
+musique
 Mustang
 MXRplays
 My600lbLife
@@ -5080,6 +5097,7 @@ oddlyterrifying
 OddSatisfying
 ofcoursethatsathing
 offbeat
+Office365
 OfficialTokenBSC
 OfflinetvGirls
 OffMyChestPH
@@ -5597,6 +5615,7 @@ poutine
 PoutineCrimes
 povertyfinance
 povertyfinancecanada
+PowerBI
 PowerGirl
 powerrangers
 powerwashingporn
@@ -5632,6 +5651,7 @@ Product_Reviews_Deals
 ProductHunters
 productivity
 progmetal
+programacao
 programare
 programiranje
 programmatic
@@ -5661,6 +5681,7 @@ proresivesound
 ProRevenge
 protogen
 providence
+Proxmox
 PS3
 PS4
 PS5
@@ -5983,6 +6004,7 @@ SabatonMemes
 Saber
 SabrinaCarpenter
 Sacramento
+SacredGeometry
 sadboys
 sadcringe
 sadiemckenna
@@ -6148,6 +6170,7 @@ seriea
 SeriousConversation
 seriouseats
 Serverlife
+settmains
 Seulgi
 seventeen
 SeveranceAppleTVPlus
@@ -6792,6 +6815,7 @@ teenmom
 TeenMomOGandTeenMom2
 teentitans
 Tekken
+TelegramBots
 telescopes
 televisionsuggestions
 TempleofMarianne
@@ -7166,11 +7190,13 @@ TreesSuckingOnThings
 TrekkingItaly
 tressless
 tretinoin
+TREZOR
 triangle
 triathlon
 Trigun
 trippieredd
 trippinthroughtime
+trishahershberger
 TroChuyenLinhTinh
 TrollCoping
 trolleyproblem
@@ -7390,6 +7416,7 @@ vandwellers
 VanessaHudgens
 vanhalen
 VanLife
+vanmoofbicycle
 VaporwaveAesthetics
 vasco
 VaushV
@@ -7629,6 +7656,7 @@ whenthe
 whenwomenrefuse
 WhiskerFireworks
 whiskey
+whitecoatinvestor
 WhiteLotusHBO
 whitepeoplegifs
 WhitePeopleTwitter
@@ -7669,6 +7697,7 @@ wimmelbilder
 Windows10
 Windows11
 wine
+wine_gaming
 WingsOfFire
 WinStupidPrizes
 WinternomicsTV
