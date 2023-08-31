@@ -720,6 +720,7 @@ battlefield2042
 battlefield_4
 battlefield_one
 BattlefieldV
+BattleForDreamIsland
 battlemaps
 BattleNetwork
 battlestations
@@ -2531,6 +2532,7 @@ falloutnewvegas
 Falschparker
 familyguy
 FamilyMedicine
+FamousFaces
 FamousLatinas
 Fancast
 FanFiction
@@ -3193,6 +3195,7 @@ Hamilton
 hamiltonmusical
 hammer
 Hammers
+hamster
 hamsters
 hanakokun
 handbags
