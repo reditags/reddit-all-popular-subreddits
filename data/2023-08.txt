@@ -868,6 +868,7 @@ bitcoincdy
 BitcoinChannelLIVE
 Bitcoincirclejerk
 BitcoinColombia
+BitcoinDiscussion
 bitcoines
 BitcoinEscrows
 BitcoinGoldHQ
@@ -1347,6 +1348,7 @@ ChainsawMan
 chainsawmancirclejerk
 Championship
 ChampionshipHistory
+championsleague
 ChandlersWildLife
 chanel
 Chang_Gang
@@ -2967,6 +2969,7 @@ ghostoftsushima
 GhostRecon
 Ghosts
 GhostsBBC
+giada
 GifRecipes
 gifs
 gifsthatendtoosoon
@@ -4081,6 +4084,7 @@ LegendsOfRuneterra
 LegitCheck
 lego
 legocastles
+legogaming
 Legoleak
 legostarwars
 LegoStarWarsLeaks
@@ -6114,6 +6118,7 @@ sciencefiction
 scienceisdope
 sciencememes
 ScienceNcoolThings
+sciences
 ScienceUncensored
 scifi
 SCJerk
@@ -7524,6 +7529,7 @@ Volkswagen
 volleyball
 VolleyballGirls
 Volumeeating
+Volvo
 vosfinances
 VoskCoin
 VoteBlue
@@ -7676,6 +7682,7 @@ whenthe
 whenwomenrefuse
 WhiskerFireworks
 whiskey
+Whistleblowers
 whitecoatinvestor
 WhiteLotusHBO
 whitepeoplegifs
@@ -7908,6 +7915,7 @@ zetablockchain
 zfam
 zillakami
 zillowgonewild
+zoci
 Zombie100
 zoology
 Zoomerchan3
