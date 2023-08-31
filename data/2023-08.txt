@@ -3105,6 +3105,7 @@ grilledcheese
 grilling
 Grimdank
 Grimdawn
+grime
 Grimes
 grimezs
 GriseldaxFR
@@ -3324,6 +3325,7 @@ homegym
 homelab
 HomeMaintenance
 HomeNetworking
+HomeschoolRecovery
 homestead
 homestuck
 hometheater
@@ -3356,6 +3358,7 @@ HotPaper
 hotsauce
 hottoys
 HotWheels
+Houdini
 houkai3rd
 HouseMD
 HouseofCoins
@@ -3387,6 +3390,7 @@ HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
 HumanTippyTaps
+humblebundles
 humor
 hungarian
 hungary
@@ -6494,6 +6498,7 @@ SpongebobMemes
 Spore
 SportingCP
 sports
+sportsarefun
 sportsbetting
 sportsbook
 spotify
@@ -6582,6 +6587,7 @@ StockMarket
 StockOptionFlow
 stocks
 stockstobuytoday
+Stoicism
 StoicMemes
 stolendogbeds
 StonerEngineering
