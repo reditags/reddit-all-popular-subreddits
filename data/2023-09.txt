@@ -70,6 +70,7 @@ aeiou
 Aespa
 AEWOfficial
 AFCEastMemeWar
+AFCNorthMemeWar
 AFCSouthMemeWar
 afkarena
 AFL
@@ -88,6 +89,7 @@ alberta
 Albuquerque
 alexandradaddario
 aliandjohnjamesagain
+Alicante
 aliens
 AlisonBrie
 AllThingsDND
@@ -139,6 +141,7 @@ AnimeFunny
 animememes
 Animemes
 animenocontext
+AnimeSketch
 Animewallpaper
 annakendrick
 AnniTheDuck___
@@ -169,6 +172,7 @@ Archaeology
 ArchitecturalRevival
 architecture
 ArchitecturePorn
+Argaming
 argentina
 ArgentinaBenderStyle
 ariheads
@@ -221,6 +225,7 @@ assholedesign
 astramilitarum
 Astronomy
 ATBGE
+AteistTurk
 AteTheOnion
 atheism
 attackeyes
@@ -256,6 +261,7 @@ awfuleverything
 aww
 Awwducational
 Awww
+awwwtf
 AyakaMains
 BabyBumps
 babyelephantgifs
@@ -321,6 +327,7 @@ belgium
 Belgium2
 belowdeck
 Ben10
+benfica
 bengalcats
 bengals
 berkeley
@@ -357,6 +364,7 @@ Blackcelebrity
 BlackClover
 blackdesertonline
 BlackHair
+Blacklabs
 blackmagicfuckery
 BlackPeopleComedy
 blackpeoplegifs
@@ -369,6 +377,7 @@ bleach
 BleachBraveSouls
 blender
 Blep
+blessedimages
 Blink182
 BloodAngels
 bloxymemes
@@ -458,6 +467,7 @@ BuyItForLife
 byebyejob
 ByndoGehk
 C_AT
+CabinPorn
 cactus
 CAguns
 cakedecorating
@@ -466,6 +476,7 @@ CalamityMod
 Calgary
 CalicoKittys
 California
+CallOfDuty
 calvinandhobbes
 camaro
 camphalfblood
@@ -487,8 +498,10 @@ Cartalk
 CarTalkUK
 CartiCulture
 cartoons
+cassettefuturism
 castiron
 castles
+castlevania
 CasualConversation
 CasualIreland
 casualknitting
@@ -578,6 +591,7 @@ CICO
 cincinnati
 CineShots
 CirclejerkSopranos
+cirkeltrek
 CitiesSkylines
 CityPorn
 civ
@@ -594,6 +608,7 @@ Cleveland
 clevercomebacks
 climate
 climateskeptics
+climbing
 ClimbingCircleJerk
 CloneWarsMemes
 clorindemains
@@ -627,6 +642,7 @@ comics
 commandandconquer
 CommunismMemes
 community
+CompetitiveApex
 compoface
 computers
 conan
@@ -648,6 +664,7 @@ coolguides
 corgi
 Coronavirus
 Corsair
+Cosmere
 Costco
 cottagecore
 counterstrike
@@ -667,6 +684,7 @@ crappyoffbrands
 CrazyFuckingVideos
 CrazyHuman
 CreationNtheUniverse
+creepy
 creepyPMs
 cremposting
 Cricket
@@ -700,10 +718,12 @@ CultOfTheLamb
 CuratedTumblr
 curb
 cursedcomments
+Cursedgunimages
 cursedmemes
 cursedvideos
 custommagic
 cute
+cuteguys
 Cyberpunk
 cyberpunkgame
 czech
@@ -826,6 +846,7 @@ distressingmemes
 DiWHY
 DIY
 DIYUK
+DJ_Peach_Cobbler
 DListedCommunity
 DMZ
 DnD
@@ -849,6 +870,7 @@ donaldglover
 dontdeadopeninside
 dontputyourdickinthat
 dontyouknowwhoiam
+DonutMedia
 doodoofard
 Doom
 doordash
@@ -859,6 +881,7 @@ doughboys
 DownvotedToOblivion
 DragonballLegends
 Dragonballsuper
+dragonlance
 DragonMaid
 DragonsDogma
 dragrace
@@ -879,6 +902,8 @@ duck
 DuggarsSnark
 DunderMifflin
 dune
+dunememes
+DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
 dwarffortress
@@ -895,6 +920,7 @@ Eesti
 egg_irl
 Eggy_memes
 EightySix
+Eldar
 Eldenring
 ElderScrolls
 elderscrollsonline
@@ -917,6 +943,7 @@ energy
 EngagementRings
 engineeringmemes
 engrish
+enlistedgame
 EnoughCommieSpam
 EnoughMuskSpam
 EntitledBitch
@@ -945,6 +972,7 @@ europe
 eurovision
 evangelion
 evangelionmemes
+Eve
 Everton
 EveryoneIsGoingToHell
 EverythingScience
@@ -969,6 +997,7 @@ facepalm
 FaceRatings
 factorio
 Factoriohno
+FairytaleasFuck
 fakehistoryporn
 fakemon
 Falcom
@@ -982,6 +1011,7 @@ FamousFaces
 FanFiction
 fantanoforever
 fantasyfootball
+fantasymoe
 FantasyPL
 farialimabets
 fashion
@@ -991,6 +1021,7 @@ fasting
 fatestaynight
 FatuiHQ
 Fauxmoi
+FCCincinnati
 FCInterMilan
 fcporto
 feedthebeast
@@ -1018,6 +1049,7 @@ fightsticks
 FilipinoHistory
 Filmmakers
 FinalFantasy
+FinancialCareers
 financialindependence
 Finanzen
 Finland
@@ -1029,6 +1061,7 @@ FireEmblemThreeHouses
 Firefighting
 FirstTimeHomeBuyer
 Fischl
+Fit_babes
 FitAndNatural
 fitness30plus
 fivenightsatfreddys
@@ -1076,6 +1109,7 @@ freefromwork
 FreeGameFindings
 FREEMEDIAHECKYEAH
 Frenchbulldogs
+FrenchMemes
 Frenemies3
 friendlyjordies
 frogs
@@ -1154,6 +1188,7 @@ GenshinGaysE
 gentlemanboners
 GenUsa
 GenX
+GenZ
 geography
 geometrydash
 Georgia
@@ -1202,6 +1237,7 @@ GothBoiClique
 GothGirls
 GothStyle
 GraceCFulton
+GrandBlue
 grandorder
 granturismo
 Grapplerbaki
@@ -1226,11 +1262,14 @@ GuiltyDogs
 Guiltygear
 guineapigs
 guitarcirclejerk
+guitarlessons
 Gundam
+gundeals
 Gunners
 Gunpla
 GunPorn
 guns
+GwenMains
 GymMemes
 h3h3productions
 Habs
@@ -1263,6 +1302,7 @@ HazbinHotel
 headpats
 headphones
 hearthstone
+HeartstopperAO
 HEB
 Hedgehog
 Helicopters
@@ -1289,6 +1329,7 @@ hitmanimals
 hmm
 hmmm
 hockey
+hoggit
 hoi4
 HOI4memes
 holdmycosmo
@@ -1306,6 +1347,7 @@ HomestarRunner
 homestead
 Honda
 HongKong
+honkaiimpact3
 HonkaiStarRail
 HonkaiStarRail_leaks
 HonzukiNoGekokujou
@@ -1373,6 +1415,7 @@ ImaginaryCharacters
 ImaginaryDragons
 imaginaryelections
 ImaginaryHorrors
+ImaginaryJedi
 ImaginaryLandscapes
 ImaginaryLesbians
 imaginarymaps
@@ -1382,6 +1425,7 @@ ImaginaryTechnology
 ImaginaryWarhammer
 ImaginaryWesteros
 imax
+ImFinnaGoToHell
 ImperialKnights
 ImpracticalJokers
 imsorryjon
@@ -1461,6 +1505,7 @@ japanlife
 japanpics
 JEENEETards
 Jeep
+JeffArcuri
 JennaLouiseColeman
 Jennamarbles
 jennie
@@ -1479,9 +1524,12 @@ joinsquad
 JoJoMemes
 Jokes
 JordanPeterson
+jovemnerd
+JoyTaylor
 jschlatt
 jschlattsubmissions
 jtbc_RUNext
+Judaism
 Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
@@ -1522,6 +1570,7 @@ KillLaKill
 killteam
 KimetsuNoYaiba
 kimminjeong
+kindle
 KingdomHearts
 KingOfTheHill
 kings
@@ -1543,6 +1592,7 @@ KotakuInAction
 kotakuinaction2
 kpics
 kpop
+kpopthoughts
 ksi
 KUWTKsnark
 KyraReneeSivertson
@@ -1560,6 +1610,7 @@ lakers
 Lalisa
 lamborghini
 lanadelrey
+LancerRPG
 lastimages
 lastpodcastontheleft
 LateStageCapitalism
@@ -1588,6 +1639,7 @@ legendofkorra
 LegendsOfRuneterra
 lego
 legostarwars
+LegoStarWarsLeaks
 LeniKlum
 LeopardsAteMyFace
 LesbianActually
@@ -1663,6 +1715,7 @@ LPOTL
 LSD
 LudwigAhgren
 LumineMains
+LV426
 LycorisRecoil
 LynetteMains
 lyney
@@ -1687,6 +1740,7 @@ MakeMeSuffer
 MakeupAddiction
 MalayalamMovies
 malaysia
+malehairadvice
 malelivingspace
 MaliciousCompliance
 MamaLane
@@ -1720,6 +1774,7 @@ MasterReturns
 Mastiff
 mathmemes
 maui
+Mavericks
 maybemaybemaybe
 MayDayStrike
 MCFC
@@ -1787,6 +1842,7 @@ minnesota
 minnesotavikings
 Misato
 missouri
+MkeBucks
 mlb
 MLBTheShow
 MLS
@@ -1858,6 +1914,7 @@ namesoundalikes
 Naruto
 NASCAR
 NataliaDyer
+natalieportman
 NationalPark
 NativePlantGardening
 NatureIsFuckingCute
@@ -1866,6 +1923,7 @@ natureismetal
 NatureofPredators
 natureporn
 Naturewasmetal
+naviamains
 navy
 nayeon
 nba
@@ -1878,6 +1936,7 @@ NCAAgirls
 necoarc
 Necrontyr
 nederlands
+needforspeed
 NelliesNest
 neoliberal
 NeonGenesisEvangelion
@@ -1911,8 +1970,10 @@ niceguys
 NicolaCavanis
 nier
 NieRAutomataGame
+NightInTheWoods
 NightLords
 NightVision
+nihilism
 Nijisanji
 NikkeMobile
 NikkeOutpost
@@ -1975,6 +2036,7 @@ oddlysatisfying
 oddlyspecific
 oddlyterrifying
 ofcoursethatsathing
+offbeat
 OfflinetvGirls
 OffMyChestPH
 Ohio
@@ -1999,6 +2061,7 @@ okbuddyreiner
 okbuddytrailblazer
 okbuddyvowsh
 okemakkermaloot
+OkHomo
 okkamaraderetarde
 okkolegauposledzony
 oklahoma
@@ -2010,6 +2073,7 @@ OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
 oliver
+OmniscientReader
 OMORI
 OneBlackBraincell
 onegoldenbraincell
@@ -2032,11 +2096,13 @@ orangetheory
 oregon
 orioles
 orks
+orlando
 OrphanCrushingMachine
 oscarrace
 OshiNoKoMemes
 osugame
 OTMemes
+otomegames
 OtomeIsekai
 ottawa
 Otters
@@ -2049,6 +2115,7 @@ overemployed
 overlord
 OverSimplified
 Overwatch
+overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
 P1ZZ4_M0ZZARELL4
@@ -2087,6 +2154,7 @@ pcmasterrace
 PCOS
 PecsAndPecBouncing
 pelotonmemes
+penguins
 Pennsylvania
 PeopleFuckingDying
 peopleofwalmart
@@ -2128,6 +2196,7 @@ PhotoshopRequest
 PhotoshopRequests
 Physics
 physicsmemes
+Picard
 PickleFinancial
 pics
 piercing
@@ -2157,6 +2226,7 @@ playstation
 PlayStationPlus
 PlayWayfinder
 Plumbing
+plushies
 PlusSizeFashion
 PointlessStories
 PokeMedia
@@ -2209,6 +2279,7 @@ PraiseTheCameraMan
 PrehistoricMemes
 Prematurecelebration
 PremierLeague
+PrepperIntel
 PrequelMemes
 Presidents
 PrettyGirls
@@ -2218,6 +2289,7 @@ PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
 privacy
+programare
 ProgrammerHumor
 programming
 ProgressionFantasy
@@ -2225,12 +2297,14 @@ progun
 projectcar
 ProjectSekai
 projectzomboid
+prolife
 PropagandaPosters
 ProperAnimalNames
 ProRevenge
 protogen
 PS4
 PS5
+PSVR
 psych
 psychology
 PublicFreakout
@@ -2248,6 +2322,7 @@ PvZHeroes
 pyrocynical
 QAnonCasualties
 qotsa
+Quebec
 queensofgenshin
 quilting
 quityourbullshit
@@ -2299,6 +2374,7 @@ regularshow
 religiousfruitcake
 remnantgame
 Repsneakers
+RepTime
 rescuedogs
 researchchemicals
 ReservationDogs
@@ -2333,6 +2409,7 @@ Rottweiler
 RoughRomanMemes
 RoyaleHigh_Roblox
 RPClipsGTA
+RPDRDRAMA
 rpg
 rpghorrorstories
 rugbyunion
@@ -2414,6 +2491,7 @@ settmains
 seventeen
 Sewerslvt
 sewing
+sexandthecity
 sexyhair
 SexySportsBabes
 sffpc
@@ -2425,6 +2503,7 @@ Sham_Sharma_Show
 Shark_Park
 sharks
 SheGotHands
+ShenheMains
 ShermanPosting
 shiba
 shieldbro
@@ -2488,6 +2567,7 @@ SlyGifs
 smallbusiness
 smashbros
 SmashBrosUltimate
+SMG4
 smoking
 SmugIdeologyMan
 snakes
@@ -2541,6 +2621,7 @@ SpyxFamily
 SquaredCircle
 squirrels
 squishmallow
+StableDiffusion
 StainedGlass
 stalker
 standardissuecat
@@ -2611,6 +2692,7 @@ SuperMegaShow
 SupermodelCats
 Supernatural
 Superstonk
+superstonkuk
 superstore
 surrealmemes
 survivinginfidelity
@@ -2706,6 +2788,7 @@ thefighterandthekid
 TheGirlSurvivalGuide
 thegrandtour
 TheInbetweeners
+theJoeBuddenPodcast
 TheLastAirbender
 thelastofus
 TheLib
@@ -2718,6 +2801,7 @@ TheOther14
 ThePPShow
 TheRandomest
 TheRatEmpire
+ThereIsnoCat
 therewasanattempt
 TheRightCantMeme
 TheSimpsons
@@ -2764,6 +2848,7 @@ tollywood
 tomatoes
 tomorrow
 tonightsdinner
+TonyZaretOfficial
 tooktoomuch
 ToolBand
 toolgifs
@@ -2811,6 +2896,7 @@ trees
 tressless
 TrollCoping
 trolleyproblem
+Trophies
 Truckers
 TrueAnon
 TrueCrimeDiscussion
@@ -2876,6 +2962,7 @@ UnresolvedMysteries
 unusual_whales
 UnusualVideos
 UpliftingNews
+urbanexploration
 UrbanHell
 USMC
 USPS
@@ -2883,6 +2970,7 @@ ussoccer
 USWNT
 Utah
 vagabond
+ValentGarzonC
 valheim
 VALORANT
 ValorantCompetitive
@@ -2919,6 +3007,7 @@ Volksverpetzer
 Volvo
 VoteDEM
 VShojo
+vtm
 VuvuzelaIPhone
 Wales
 walkaway
@@ -2951,6 +3040,7 @@ weed
 weedstocks
 weeviltime
 weezer
+WegovyWeightLoss
 weimaraner
 Weird
 WeirdWheels
@@ -3031,6 +3121,7 @@ xbiking
 xbox
 XboxGamePass
 xboxone
+XboxSeriesS
 XboxSeriesX
 Xcom
 Xennials
