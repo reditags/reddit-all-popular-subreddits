@@ -151,6 +151,7 @@ anime_irl
 anime_titties
 animearmor
 AnimeART
+animecirclejerk
 AnimeFunny
 animememes
 Animemes
@@ -183,6 +184,7 @@ ApplyingToCollege
 APStudents
 Aquariums
 ar15
+araragi
 arborists
 arcane
 Archaeology
@@ -309,6 +311,7 @@ BanGDream
 bangtan
 Bannerlord
 BanPitBulls
+BanVideoGames
 BarbaraPalvin
 Barbie
 Barcelona
@@ -503,6 +506,7 @@ Brochet
 Brogress
 brookemonke_xo
 brooklynninenine
+Browns
 btd6
 bts7
 budgetfood
@@ -537,6 +541,7 @@ California
 CallOfDuty
 calvinandhobbes
 camaro
+camilamendes
 camphalfblood
 canada
 Canada_sub
@@ -549,6 +554,7 @@ canucks
 capetown
 CapitolConsequences
 caps
+capybara
 careerguidance
 carporn
 carros
@@ -653,6 +659,7 @@ chloe
 Choices
 Chonkers
 ChoosingBeggars
+Christianity
 christinahendricks
 chuggaaconroy
 ChurchOfKasumi
@@ -840,6 +847,7 @@ dankrishu
 dankruto
 dankvideos
 DanMachi
+Daredevil
 DarkAndDarker
 DarkBRANDON
 darkestdungeon
@@ -1004,6 +1012,7 @@ DungeonsAndDragons
 duolingo
 dwarffortress
 dyinglight
+EA_NHL
 EarthPorn
 EASportsFC
 EASportsUFC
@@ -1040,6 +1049,7 @@ Embroidery
 EmiliaClarke
 Eminem
 Emiru_Lewd
+EmKay
 EmmaMyers
 EmmaStone
 EmmaWatson
@@ -1070,6 +1080,7 @@ espresso
 esterexposito
 Esthetics
 ESTILOZAP
+Ethelcain
 ethtrader
 EtikaRedditNetwork
 eu4
@@ -1247,6 +1258,7 @@ Frugal
 frugalmalefashion
 Fruitbatcats
 FrutigerAero
+FSAE
 ft86
 fuckcars
 FuckImOld
@@ -1260,6 +1272,7 @@ fulhamfc
 Fumofumo
 functionalprint
 FundieSnarkUncensored
+funhaus
 funkopop
 funny
 FunnyandSad
@@ -1281,6 +1294,7 @@ GalGadot
 Gameboy
 gamecollecting
 Gamecube
+gamedev
 gamegrumps
 gameofthrones
 GamePhysics
@@ -1343,6 +1357,7 @@ GingerMafia
 Gintama
 girlsfrontline
 girlswithbigmuscles
+GlitchProductions
 GlobalOffensive
 Glocks
 Gloryhammer
@@ -1648,6 +1663,7 @@ Italia
 italy
 ItalyInformatica
 ITCareerQuestions
+itcouldhappenhere
 ItemShop
 IThinkYouShouldLeave
 itookapicture
@@ -1802,6 +1818,7 @@ law
 lawncare
 LawSchool
 LeaEluiGinet
+leafs
 leagueoflegends
 LeagueOfMemes
 leanbeefpatty
@@ -1844,6 +1861,7 @@ lies
 lifehacks
 LifeProTips
 LigaMX
+lilireinhart
 liluzivert
 limbuscompany
 LiminalSpace
@@ -2029,6 +2047,7 @@ Miata
 Michigan
 MichiganWolverines
 microgrowery
+Mid_Century
 midcenturymodern
 midjourney
 MikuNakano
@@ -2100,6 +2119,7 @@ MTB
 Mtf_irl
 mtg
 mtgfinance
+mtgvorthos
 MtvChallenge
 mumbai
 Munich
@@ -2409,8 +2429,10 @@ pcmasterrace
 PCOS
 PeakyBlinders
 PecsAndPecBouncing
+PeepShowQuotes
 pelotonmemes
 penguins
+PenmanshipPorn
 Pennsylvania
 PeopleFuckingDying
 peopleofwalmart
@@ -2863,6 +2885,7 @@ SleepToken
 Slipknot
 Slovakia
 Slovenia
+slowcooking
 SlyGifs
 smallbusiness
 smashbros
@@ -2898,6 +2921,7 @@ SpaceXMasterrace
 spain
 SpanishMeme
 specializedtools
+SpeculativeEvolution
 SpeedOfLobsters
 sphynx
 SpiceandWolf
@@ -2978,6 +3002,7 @@ StrangeEarth
 StrangerThings
 straykids
 StreetFighter
+StreetMartialArts
 StudentLoans
 stunfisk
 StupidFood
@@ -3005,6 +3030,7 @@ superstore
 SuperStructures
 Supra
 surrealmemes
+SurreyBC
 survivinginfidelity
 survivor
 sutesfozes
@@ -3114,6 +3140,7 @@ theJoeBuddenPodcast
 TheLastAirbender
 thelastofus
 TheLib
+TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
 thenetherlands
@@ -3303,6 +3330,7 @@ UniUK
 UnpopularLoreOlympus
 unpopularopinion
 UnresolvedMysteries
+UnsolvedMysteries
 unusual_whales
 UnusualVideos
 UpliftingNews
@@ -3326,6 +3354,7 @@ vaxxhappened
 vegan
 vegancirclejerk
 VeganDE
+veganfitness
 VeganFoodPorn
 veganrecipes
 vegas
@@ -3343,6 +3372,7 @@ videography
 videos
 VietNam
 VinlandSaga
+vintageads
 VintageFashion
 vinyl
 vinyljerk
@@ -3395,6 +3425,7 @@ WegovyWeightLoss
 weightlifting
 weimaraner
 Weird
+weirddalle
 WeirdWheels
 WeirdWings
 WelcomeToGilead
