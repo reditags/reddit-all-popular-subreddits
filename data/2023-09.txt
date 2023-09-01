@@ -49,6 +49,7 @@ ACMilan
 ACPocketCamp
 ActionFigures
 ActivationSound
+actu_memes
 actuallesbians
 ActualPublicFreakouts
 Addisoneasterling
@@ -169,6 +170,7 @@ Arkansas
 arknights
 ArlecchinoMains
 arma
+armenia
 armoredcore
 army
 arresteddevelopment
@@ -194,6 +196,7 @@ AskPhotography
 AskReddit
 askscience
 askSingapore
+AskThe_Donald
 askTO
 asktransgender
 AskUK
@@ -254,6 +257,7 @@ BaldursGate3
 balkans_irl
 ballpython
 BalticStates
+BancaDelMeme
 bangalore
 BanGDream
 bangtan
@@ -299,6 +303,7 @@ BeforeNAfterAdoption
 BeginnerWoodWorking
 behindthebastards
 belgium
+Belgium2
 belowdeck
 Ben10
 bengalcats
@@ -311,6 +316,7 @@ bestconspiracymemes
 bettafish
 betterCallSaul
 beyonce
+Bhubaneswar
 bi_irl
 bicycling
 bigboobproblems
@@ -362,6 +368,7 @@ BokuNoHeroAcademia
 bokunokokoro
 BokuNoMetaAcademia
 Bolehland
+bollyarm
 BollyBlindsNGossip
 bollywood
 BollywoodFashion
@@ -386,6 +393,7 @@ Botchedsurgeries
 botecodoreddit
 botw
 Boxer
+BoxerDogs
 Boxing
 boxoffice
 BPD
@@ -401,6 +409,7 @@ Breadit
 breakingbad
 Breath_of_the_Wild
 BrieLarson
+BrightonHoveAlbion
 brisbane
 britishcolumbia
 britishshorthair
@@ -421,8 +430,10 @@ buffy
 buildapc
 Bulldogs
 Bunnies
+burdurland
 BuyItForLife
 byebyejob
+ByndoGehk
 C_AT
 cactus
 CAguns
@@ -583,6 +594,7 @@ comics
 commandandconquer
 CommunismMemes
 community
+compoface
 conan
 confessions
 confidentlyincorrect
@@ -760,6 +772,7 @@ discgolf
 DiscoElysium
 discordapp
 discordVideos
+DisneyEyes
 Disneyland
 disneyvacation
 distractible
@@ -799,10 +812,12 @@ DownvotedToOblivion
 DragonballLegends
 Dragonballsuper
 DragonMaid
+DragonsDogma
 dragrace
 drawing
 DreamlightValley
 DreamWasTaken2
+drehscheibe
 Drifting
 Drizzy
 dropout
@@ -861,6 +876,7 @@ EpicSeven
 erastourtickets
 Eredivisie
 EscapefromTarkov
+esist
 espresso
 esterexposito
 Esthetics
@@ -895,6 +911,7 @@ face
 facepalm
 FaceRatings
 factorio
+Factoriohno
 fakehistoryporn
 fakemon
 FallenOrder
@@ -914,6 +931,7 @@ FashionReps
 fasting
 fatestaynight
 Fauxmoi
+FCInterMilan
 feedthebeast
 feedthememes
 FemaleAntinatalism
@@ -1071,6 +1089,7 @@ ghettowhitegirls
 ghibli
 Ghostbc
 Ghosts
+GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
@@ -1086,6 +1105,7 @@ GME
 GMEJungle
 goblincore
 GodofWar
+godot
 GODZILLA
 Gold
 goldenknights
@@ -1250,11 +1270,13 @@ IllegallySmolCats
 Illustration
 im14andthisisdeep
 Im15AndThisIsYeet
+ImaginaryBehemoths
 ImaginaryCharacters
 ImaginaryDragons
 imaginaryelections
 ImaginaryHorrors
 ImaginaryLandscapes
+ImaginaryLesbians
 imaginarymaps
 ImaginaryMonsters
 ImaginarySliceOfLife
@@ -1263,6 +1285,7 @@ ImaginaryWesteros
 ImpracticalJokers
 imsorryjon
 ImTheMainCharacter
+IncredibleIndia
 india
 IndiaCricket
 indiadiscussion
@@ -1406,6 +1429,7 @@ KUWTKsnark
 KyraReneeSivertson
 l4d2
 labrador
+labrats
 Lackadaisy
 LadiesofNickelodeon
 ladiesofthemcu
@@ -1447,6 +1471,7 @@ lgbt
 lgbtmemes
 liberalgunowners
 Libertarian
+librandu
 libsofreddit
 LibsOfSocialMedia
 lies
@@ -1457,12 +1482,14 @@ liluzivert
 limbuscompany
 LiminalSpace
 linguisticshumor
+Linkedinfr
 LinkedInLunatics
 LinusTechTips
 linux
 linux_gaming
 linuxmasterrace
 lisathepainfulrpg
+liseliler
 litrpg
 littlehouseonprairie
 LittlestPetShop
@@ -1563,6 +1590,7 @@ me_irlgbt
 MechanicalKeyboards
 MedicalGore
 Meditation
+medizzy
 megalophobia
 Megaman
 MeganFox
@@ -1699,9 +1727,11 @@ Nbamemes
 NCAAFBseries
 NCAAgirls
 necoarc
+Necrontyr
 nederlands
 NelliesNest
 neoliberal
+NeonGenesisEvangelion
 neopets
 Nerf
 Neverbrokeabone
@@ -1715,6 +1745,7 @@ newjersey
 NewOrleans
 news
 NewsOfTheStupid
+NewsWithJingjing
 NewVegasMemes
 newyorkcity
 NewYorkMets
@@ -1772,6 +1803,8 @@ NotMyJob
 nottheonion
 nova
 nowmycat
+nrl
+NUFC
 nursing
 nuzlocke
 nvidia
@@ -1807,6 +1840,7 @@ OkBuddyPersona
 okbuddyphd
 okbuddytrailblazer
 okbuddyvowsh
+okemakkermaloot
 okkamaraderetarde
 okkolegauposledzony
 oklahoma
@@ -1839,6 +1873,7 @@ orangecounty
 orangetheory
 oregon
 orioles
+orks
 OrphanCrushingMachine
 oscarrace
 osugame
@@ -1877,6 +1912,7 @@ Pathfinder2e
 Pathfinder_Kingmaker
 pathfindermemes
 pathofexile
+PathToNowhere
 Patriots
 paydaytheheist
 PaymoneyWubby
@@ -2093,6 +2129,7 @@ RocketLeagueEsports
 RoleReversal
 rollercoasters
 Romania
+romemes
 RoomPorn
 rose
 Roses
@@ -2209,6 +2246,7 @@ shouldercats
 Showerthoughts
 ShroomID
 shrooms
+ShuumatsuNoValkyrie
 SiberianCats
 signalis
 SigSauer
@@ -2228,6 +2266,7 @@ SisterWives
 skamtebord
 skateboarding
 sketches
+SkyGame
 skyrim
 SkyrimMemes
 skyrimmods
@@ -2268,6 +2307,7 @@ SpanishMeme
 specializedtools
 SpeedOfLobsters
 sphynx
+SpiceandWolf
 SpicyKittens
 spiderbro
 SpiderGwen
@@ -2356,6 +2396,7 @@ superstore
 surrealmemes
 survivinginfidelity
 survivor
+sutesfozes
 SweatyPalms
 sweden
 SWGalaxyOfHeroes
@@ -2416,6 +2457,7 @@ TextingTheory
 texts
 tf2
 tf2shitposterclub
+Thailand
 ThailandTourism
 thalassophobia
 thanksimcured
@@ -2486,6 +2528,7 @@ TNOmod
 todayilearned
 toddlers
 ToiletPaperUSA
+tokkiemarktplaats
 tollywood
 tomorrow
 tonightsdinner
@@ -2547,6 +2590,7 @@ tuckedinkitties
 tumblr
 Turkey
 TurkeyJerky
+TurkishCats
 Turkophobia
 turtle
 TuxedoCats
@@ -2569,6 +2613,7 @@ ufc
 UFOB
 UFOs
 ukdrill
+uknews
 UKPersonalFinance
 ukraine
 UkraineConflict
@@ -2617,8 +2662,10 @@ venturebros
 vermont
 vexillology
 vexillologycirclejerk
+veYakinEvren
 victoria3
 videos
+VietNam
 VinlandSaga
 VintageFashion
 vinyl
@@ -2645,8 +2692,10 @@ WarshipPorn
 warthundermemes
 Watches
 Watchexchange
+Watchit_India
 watchpeoplesurvive
 Watercolor
+WeaponsMoe
 webcomics
 webdev
 wec
@@ -2733,6 +2782,7 @@ xbox
 XboxGamePass
 xboxone
 XboxSeriesX
+Xcom
 Xennials
 Xenoblade_Chronicles
 xertunposting
