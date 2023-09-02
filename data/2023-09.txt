@@ -21,6 +21,7 @@
 30ROCK
 3amjokes
 3Dprinting
+3DS
 40kLore
 49ers
 4chan
@@ -886,6 +887,7 @@ ContestOfChampions
 cookiedecorating
 CookieRunKingdoms
 Cooking
+CoolGadgetsTube
 coolguides
 corgi
 cork
@@ -901,6 +903,7 @@ CoupleMemes
 cowboybebop
 cowboys
 cowcats
+coybig
 coys
 CozyGamers
 CozyPlaces
@@ -1098,6 +1101,7 @@ developersIndia
 DevilMayCry
 devinbrugman
 devsarg
+dezwo
 DHHMemes
 Diablo
 diablo2
@@ -1568,6 +1572,7 @@ GenUsa
 GenX
 GenZ
 geography
+geology
 geometrydash
 geopolitics
 Georgia
@@ -1579,6 +1584,7 @@ GetNoted
 ghettowhitegirls
 ghibli
 Ghostbc
+ghostbusters
 Ghosts
 giada
 GifRecipes
@@ -2082,6 +2088,7 @@ KimetsuNoYaiba
 kimminjeong
 kindafunny
 kindle
+kingdomcome
 KingdomHearts
 KingOfTheHill
 kings
@@ -2159,6 +2166,7 @@ leafs
 leagueoflegends
 LeagueOfMemes
 LeaguesofVotann
+LeaksDBD
 leanbeefpatty
 leanfire
 LearmannTwins
@@ -2356,6 +2364,7 @@ marvelcirclejerk
 MarvelLegends
 marvelmemes
 MarvelSnap
+MarvelStudios_Rumours
 Marxism_Memes
 maryland
 massachusetts
@@ -2523,6 +2532,7 @@ MovieDetails
 movies
 Moviesinthemaking
 MrBeast
+MrRobot
 MSsEcReTPoDcAsT
 MTB
 Mtf_irl
@@ -2560,6 +2570,7 @@ NAFO
 nagatoro
 Nahida_Mains
 NahOPwasrightfuckthis
+NailArt
 Nails
 NameMyCat
 NameNerdCirclejerk
@@ -2594,6 +2605,7 @@ NCT
 necoarc
 Necrontyr
 nederlands
+NederlandseMemes
 needforspeed
 neekolul
 neekomains
@@ -2782,6 +2794,7 @@ OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
 OldSchoolRidiculous
+OldSkaters
 OldWorldBlues
 OlgaKatysheva
 oliver
@@ -2848,6 +2861,7 @@ overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
 OverwatchTMZ
+Owls
 OyasumiPunpun
 P1ZZ4_M0ZZARELL4
 Padmalakshmi
@@ -3087,6 +3101,7 @@ PS5
 PSVR
 psych
 psychology
+Psychonaut
 PublicFreakout
 pune
 PunishingGrayRaven
@@ -3171,6 +3186,7 @@ RedheadBeauties
 RedheadedGoddesses
 RedLetterMedia
 redneckengineering
+redrising
 redsox
 regularshow
 religiousfruitcake
@@ -3181,6 +3197,7 @@ Repsneakers
 RepsneakersDogs
 reptiles
 RepTime
+Republican_misdeeds
 rescuedogs
 researchchemicals
 ReservationDogs
@@ -3304,6 +3321,7 @@ science
 scienceisdope
 sciencememes
 ScienceNcoolThings
+sciences
 scifi
 SCJerk
 Scoobydoo
@@ -3394,6 +3412,7 @@ shittytechnicals
 ShittyVeganFoodPorn
 ShitWehraboosSay
 shockwaveporn
+shoegaze
 shortguys
 shorthairedhotties
 shortscarystories
@@ -3436,6 +3455,7 @@ skateboarding
 sketches
 SkincareAddicts
 SkyChildrenOfLight
+SkyeBlueOffical
 SkyGame
 SkyPorn
 skyrim
@@ -4027,6 +4047,7 @@ vexillologycirclejerk
 veYakinEvren
 victoria3
 VictoriaBC
+victoriajustice
 videogamedunkey
 videogames
 videography
@@ -4062,6 +4083,7 @@ wallpaper
 wallstreet
 wallstreetbets
 walmart
+WalmartCelebrities
 WaltDisneyWorld
 Warframe
 WarframeRunway
@@ -4191,6 +4213,7 @@ Wrasslin
 WrestleCuties
 WrexhamAFC
 WriothesleyMains
+writing
 writingcirclejerk
 WritingPrompts
 WRX
@@ -4246,6 +4269,7 @@ youtubehaiku
 YuB
 yugioh
 YuGiOhMemes
+yumenikki
 yuna
 ZaidZIZ
 ZanClan
