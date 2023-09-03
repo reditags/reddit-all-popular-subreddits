@@ -362,6 +362,7 @@ AyakaMains
 AZCardinals
 azerbaijan
 BabyBumps
+BabyCorgis
 BabyDogeCoin
 babyelephantgifs
 babylon5
@@ -475,6 +476,7 @@ bi_irl
 bicycletouring
 bicycling
 BicyclingCirclejerk
+BidenIsNotMyPresident
 bigbangtheory
 bigboobproblems
 bigboye
@@ -539,6 +541,7 @@ BMW
 bmx
 boardgames
 BobDoesSports
+bobdylan
 BobsBurgers
 BobsTavern
 BocaJuniors
@@ -579,6 +582,7 @@ Botchedsurgeries
 botecodoreddit
 botw
 boulder
+Bowling
 Boxer
 BoxerDogs
 Boxers
@@ -1194,6 +1198,7 @@ DoggyDNA
 DoglaREDDIT
 dogpictures
 DogsMirin
+dogsusingpillows
 DokkanBattleCommunity
 Dolls
 donaldglover
@@ -1468,6 +1473,7 @@ FLMedicalTrees
 Floof
 florida
 FloridaGators
+FloridaMan
 FlorkofCowsOfficial
 flowers
 FluentInFinance
@@ -1961,6 +1967,7 @@ indianajones
 indianapolis
 indianbikes
 IndianBoysOnTinder
+IndianCountry
 IndianDankMemes
 IndianFashionAddicts
 IndianFootball
@@ -2035,6 +2042,7 @@ ItalyInformatica
 ITCareerQuestions
 itcouldhappenhere
 ItemShop
+Iteration110Cradle
 IThinkYouShouldLeave
 itookapicture
 ITookAPicturePH
@@ -2092,11 +2100,13 @@ JordanPeterson
 Journaling
 jovemnerd
 JoyTaylor
+jpegmafia
 JRPG
 jschlatt
 jschlattsubmissions
 jtbc_RUNext
 Judaism
+juicyscoopsnark
 Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
@@ -2204,6 +2214,7 @@ LaBrantFamSnark
 labrats
 lacamiseta
 Lackadaisy
+LadiesOfDisneyChannel
 LadiesofNickelodeon
 ladiesofthemcu
 LadiesOfWrestling
@@ -2519,6 +2530,7 @@ metalgearsolid
 Metallica
 MetalMemes
 methsthetic
+metro
 Metroid
 mexico
 Miami
@@ -2765,6 +2777,7 @@ NintendoMemes
 NintendoStitch
 NintendoSwitch
 NintendoSwitchDeals
+njpw
 NLBest
 NMSCoordinateExchange
 NoahGetTheBoat
@@ -3286,6 +3299,7 @@ redneckengineering
 redrising
 redsox
 regina
+regularcarreviews
 regularshow
 religiousfruitcake
 reloading
@@ -3479,6 +3493,7 @@ SGExams
 shadowofmordor
 Sham_Sharma_Show
 shameless
+ShamelesslyStolen
 Shark_Park
 sharks
 SheGotHands
@@ -3889,6 +3904,7 @@ TheKittyKingdom
 TheLastAirbender
 thelastofus
 ThelastofusHBOseries
+TheLegitBoss
 TheLib
 TheMagnusArchives
 TheMajorityReport
@@ -3922,6 +3938,7 @@ thewalkingdead
 TheWayWeWere
 TheWeeknd
 TheWhyFiles
+thewitcher3
 TheYardPodcast
 theydidthemath
 theyknew
@@ -3966,6 +3983,7 @@ TokenFinders
 tokkiefeesboek
 tokkiemarktplaats
 Tokyo
+TolkienArt
 tollywood
 tomatoes
 TombRaider
@@ -4112,6 +4130,7 @@ UnethicalLifeProTips
 UnexpectedJoJo
 UnexpectedlyWholesome
 UnexpectedMulaney
+unexpectedoffice
 Unexplained
 uniformporn
 UniSwap
@@ -4184,14 +4203,17 @@ VinlandSaga
 vintageads
 vintageaudio
 VintageFashion
+VintageTV
 vinted
 vinyl
 vinyljerk
 VioletEvergarden
 Virginia
 virginvschad
+virtualreality
 Visiblemending
 visualnovels
+Vivziepopmemes
 vlandiya
 Vocaloid
 void_memes
@@ -4235,6 +4257,7 @@ Watchit_India
 WatchPeopleDieInside
 watchpeoplesurvive
 Watercolor
+WaterfallDump
 Waterfalls
 waterloo
 Wavyhair
