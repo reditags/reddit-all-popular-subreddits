@@ -9,6 +9,7 @@
 21stCenturyHumour
 2Asia4u
 2bharat4you
+2greek4you
 2hujerk
 2latinoforyou
 2meirl42meirl4meirl
@@ -147,6 +148,7 @@ Amd
 AmericaBad
 americandad
 amex
+AMG
 amibeingdetained
 Amigurumi
 AmIHotSFW
@@ -634,6 +636,7 @@ BriarMains
 bridezillas
 BrieLarson
 BrightonHoveAlbion
+BringMeTheHorizon
 brisbane
 bristol
 Britain
@@ -958,6 +961,7 @@ Construction
 consulting
 ContagiousLaughter
 ContestOfChampions
+controlgame
 cookiedecorating
 CookieRunKingdoms
 Cooking
@@ -969,6 +973,7 @@ corgi
 cork
 Coronavirus
 Corsair
+Corvette
 Cosmere
 cosplayers
 Costco
@@ -1068,6 +1073,7 @@ dadswhodidnotwantpets
 dagadtmacskak
 dahyun
 DailyChristinaRicci
+dailywire
 DakotaKaiWWE
 Dallas
 Damnthatsinteresting
@@ -1124,6 +1130,7 @@ DeadAhead
 deadbydaylight
 deadcells
 deadlockpw
+deadmalls
 DeadSpace
 deathbattle
 Deathcore
@@ -1544,6 +1551,7 @@ FondantHate
 food
 foodhacks
 FoodPorn
+foodscam
 FoodVideoPorn
 football
 footballmanagergames
@@ -1599,6 +1607,7 @@ frugalmalefashion
 Fruitbatcats
 FrutigerAero
 FSAE
+fsusports
 ft86
 fuckcars
 FUCKFACEPOD
@@ -2071,6 +2080,7 @@ INDYCAR
 influstopkipl
 Infographics
 InfowarriorRides
+infp
 InfrastructurePorn
 initiald
 Inkmaster
@@ -2158,6 +2168,7 @@ JeffArcuri
 jellybeantoes
 JennaLouiseColeman
 Jennamarbles
+JennaOrtega_
 jennie
 JenniferConnelly
 JenniferLawrence
@@ -2415,6 +2426,7 @@ linuxmasterrace
 lisathepainfulrpg
 liseliler
 LISKiller
+lithuania
 litrpg
 littlehouseonprairie
 LittleNightmares
@@ -2754,6 +2766,7 @@ MusclesOfAmazons
 mushroomID
 Music
 Mustang
+Myanmarcombatfootage
 MyChemicalRomance
 mycology
 MyHeroAcadamia
@@ -2979,6 +2992,7 @@ OkBuddyFresca
 okbuddygenshin
 okbuddyguardian
 OKbuddyHalfLife
+okbuddyHRetard
 OkBuddyPersona
 okbuddyphd
 okbuddyrathalos
@@ -3373,7 +3387,9 @@ raining
 rainworld
 Rajasthan
 raleigh
+rally
 ralsei
+ram_trucks
 ramen
 Rammstein
 rance
@@ -4062,6 +4078,7 @@ TheInbetweeners
 theJoeBuddenPodcast
 TheKittyKingdom
 TheLastAirbender
+TheLastKingdom
 thelastofus
 ThelastofusHBOseries
 TheLegitBoss
@@ -4112,6 +4129,7 @@ ThisLooksFun
 thomastheplankengine
 ThousandSons
 thugeshh
+thumbcats
 ThunderThots
 tifu
 TIGHTPUSSY
@@ -4466,6 +4484,7 @@ Wellthatsucks
 Wellworn
 wendigoon
 werkzaken
+WerWieWas
 WestSubEver
 WetlanderHumor
 WeWantPlates
@@ -4516,6 +4535,7 @@ wildlifephotography
 WildlifeRehab
 willwood
 wimmelbilder
+wine
 WingsOfFire
 WinStupidPrizes
 wiredpeople
