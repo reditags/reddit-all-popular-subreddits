@@ -113,6 +113,7 @@ aiyu
 AjaxAmsterdam
 ak47
 Alabama
+alameda
 AlanPartridge
 alaska
 AlbedosCreations
@@ -420,6 +421,7 @@ BattleForDreamIsland
 battlemaps
 battlestations
 battletech
+batty
 bavaria
 bayarea
 Bayonetta
@@ -602,6 +604,7 @@ BrasildoB
 brasilivre
 Braves
 BravoRealHousewives
+Brawlhalla
 Brawlstars
 BrawlStarsCompetitive
 Breadit
@@ -733,6 +736,7 @@ catfaceplant
 CATHELP
 Catholicism
 CatholicMemes
+CathyKelley
 Catloaf
 Catmemes
 Catnames
@@ -985,6 +989,7 @@ CrueltySquad
 Cruise
 CrumblCookies
 CrusaderKings
+cryptids
 CryptoCurrency
 CryptoGrab
 CryptoMarkets
@@ -1495,6 +1500,7 @@ fo76
 FocalorsMains_
 FondantHate
 food
+foodhacks
 FoodPorn
 FoodVideoPorn
 football
@@ -1612,6 +1618,7 @@ GardeningUK
 Gardevoir
 GarlicBreadMemes
 Garmin
+gastricsleeve
 gatekeeping
 GatekeepingYuri
 gatesopencomeonin
@@ -2348,6 +2355,7 @@ LiverpoolFC
 LivestreamFail
 LobotomyCorp
 london
+londonontario
 longboarding
 longboyes
 LongDistance
@@ -2550,6 +2558,7 @@ methsthetic
 metro
 Metroid
 mexico
+mfdoom
 Miami
 miamidolphins
 Miata
@@ -2657,6 +2666,7 @@ mtg
 mtgfinance
 mtgvorthos
 MtvChallenge
+MuayThai
 MujicoCity
 mumbai
 MumbaiIndians
@@ -2821,6 +2831,7 @@ northernireland
 northernlion
 Norway
 NorwegianForestCats
+NoSanaNoLife
 Noses
 nosleep
 NoSodiumStarfield
@@ -3404,6 +3415,7 @@ RWBYcritics
 ryujin
 Sabah
 sabaton
+SabatonMemes
 Saber
 Sacramento
 sadboys
@@ -3634,6 +3646,7 @@ softwaregore
 solarpunk
 somethingimade
 SommerRay
+sonarears
 SonicTheHedgehog
 SonicTheHedgejerk
 SonoBisqueDoll
@@ -3746,6 +3759,7 @@ stories
 Stormlight_Archive
 StormReidMaybe
 storyofseasons
+straightenedfeetsies
 StrangeEarth
 StrangerThings
 straykids
@@ -3760,6 +3774,7 @@ StupidFood
 stupidpol
 subaru
 submarines
+submechanophobia
 subnautica
 SubsTakenLiterally
 Suburbanhell
@@ -4205,6 +4220,7 @@ vegas
 vegaslocals
 vegetablegardening
 velvethippos
+Vent
 venturebros
 Vermintide
 vermont
@@ -4260,6 +4276,7 @@ walkaway
 wallpaper
 wallstreet
 wallstreetbets
+Wallstreetsilver
 walmart
 WalmartCelebrities
 WaltDisneyWorld
