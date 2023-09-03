@@ -97,6 +97,7 @@ afkarena
 AFL
 agedlikemilk
 agedlikewine
+agedtattoos
 AgeOfCivilizations
 ageofsigmar
 aggies
@@ -169,6 +170,7 @@ angrybirds
 Angryupvote
 ani_bm
 AnimalCrossing
+AnimalCrossingNewHor
 AnimalsBeingBros
 AnimalsBeingDerps
 AnimalsBeingGeniuses
@@ -202,10 +204,12 @@ ANormalDayInRussia
 answers
 Anthropology
 Anticonsumption
+antifastonetoss
 antimeme
 antiMLM
 antinatalism
 Antiques
+antitheistcheesecake
 antitrampo
 AntiTrumpAlliance
 antiwork
@@ -224,10 +228,12 @@ AppleMusic
 AppleWatch
 ApplyingToCollege
 APStudents
+aquarium
 Aquariums
 AquaSama
 ar15
 araragi
+ArAutos
 arborists
 arcane
 Archaeology
@@ -245,6 +251,7 @@ ariheads
 arizona
 ARK
 Arkansas
+arkham
 arknights
 ArlecchinoMains
 arma
@@ -303,6 +310,7 @@ ATBGE
 AteistTurk
 AteTheOnion
 atheism
+ATLA
 Atlanta
 Atlantology
 ATLAtv
@@ -489,6 +497,7 @@ Birbs
 birding
 BirdsArentReal
 Birdsfacingforward
+birdswitharms
 birdwatching
 bisexual
 BisexualTeens
@@ -632,6 +641,7 @@ bullcity
 Bulldogs
 BullTerrier
 Bumble
+buncomfortable
 Bundesliga
 bundeswehr
 BungouStrayDogs
@@ -664,6 +674,7 @@ CallOfDuty
 CallOfDutyMobile
 calvinandhobbes
 camaro
+CamilaCabello
 camilamendes
 camphalfblood
 canada
@@ -1021,6 +1032,7 @@ danglers
 Daniellarson
 DaniSpeegle
 dank_meme
+DankAndrastianMemes
 dankchristianmemes
 dankgentina
 dankindianmemes
@@ -1233,9 +1245,12 @@ dunememes
 DungeonCrawlerCarl
 DungeonsAndDaddies
 DungeonsAndDragons
+DunksNotDead
 duolingo
 dwarffortress
 dyinglight
+DylanteroYT
+DynastyFF
 EA_NHL
 earthbound
 EarthPorn
@@ -1268,6 +1283,7 @@ electricians
 electriczoo
 ElectroBOOM
 electronics
+ElegooNeptune3
 Elektroinstallation
 EliteDangerous
 ElizabethOlsen
@@ -1276,6 +1292,7 @@ ellacervetto
 ElleFanning
 elonmusk
 Embroidery
+emergencymedicine
 EmiliaClarke
 Eminem
 emiru
@@ -1447,6 +1464,7 @@ flashlight
 FlashTV
 FlexinLesbians
 flightsim
+FLMedicalTrees
 Floof
 florida
 FloridaGators
@@ -1524,6 +1542,7 @@ FuckImOld
 FuckNestle
 Fuckthealtright
 fucktheccp
+fuckwasps
 FUCKYOUINPARTICULAR
 FuckYouKaren
 fujifilm
@@ -1539,6 +1558,7 @@ funkopop
 funny
 FunnyandSad
 FunnyAnimals
+FunnyDogVideos
 funnyIndia
 Funnymemes
 funnysigns
@@ -1609,6 +1629,7 @@ geology
 geometrydash
 geopolitics
 Georgia
+georgiabulldogs
 German
 germanshepherds
 GeschichtsMaimais
@@ -2128,6 +2149,7 @@ KidCudi
 KidsAreFuckingEvil
 KidsAreFuckingStupid
 KiernanShipka
+kijiji
 KillLaKill
 killsixbilliondemons
 killteam
@@ -2350,6 +2372,7 @@ LudwigAhgren
 lululemon
 LumineMains
 Lumity
+Luthier
 LV426
 LycorisRecoil
 Lyft
@@ -2597,6 +2620,7 @@ Moviesinthemaking
 MrBeast
 MrRobot
 MSsEcReTPoDcAsT
+MST3K
 MTB
 Mtf_irl
 mtg
@@ -2928,6 +2952,7 @@ OverwatchCirclejerk
 OverwatchTMZ
 Owls
 OyasumiPunpun
+Ozempic
 P1ZZ4_M0ZZARELL4
 Padmalakshmi
 Padres
@@ -2973,6 +2998,7 @@ PCOS
 PeakyBlinders
 PecsAndPecBouncing
 Pedro_Pascal
+PedroDBR
 PeepShowQuotes
 pelotonmemes
 penguins
@@ -3126,6 +3152,7 @@ postal
 Pottery
 pouts
 povertyfinance
+PowerGirl
 powerrangers
 powerwashingporn
 PraiseTheCameraMan
@@ -3265,6 +3292,7 @@ reloading
 remnantgame
 RemoteJobs
 Reno
+Renovations
 Repsneakers
 RepsneakersDogs
 reptiles
@@ -3464,6 +3492,7 @@ Shihtzu
 ShingekiNoKyojin
 ShinyPokemon
 ShitLiberalsSay
+ShitMomGroupsSay
 ShitPoliticsSays
 ShitpostBR
 ShitPostCrusaders
@@ -3620,6 +3649,7 @@ SquaredCircle
 squirrels
 squishmallow
 SS13
+SSBM
 StableDiffusion
 StainedGlass
 stalker
@@ -3644,6 +3674,7 @@ StarWars
 StarWarsAhsoka
 StarWarsBattlefront
 StarWarsCantina
+StarWarsEmpireAtWar
 StarWarsEU
 StarWarsleftymemes
 starwarsmemes
@@ -3656,6 +3687,7 @@ Steam
 SteamDeck
 Steelbooks
 steelers
+SteelyDan
 steinsgate
 Stellaris
 StellarisMemes
@@ -3725,6 +3757,7 @@ survivinginfidelity
 survivor
 sushi
 sutesfozes
+suzerain
 SweatyPalms
 sweden
 SWGalaxyOfHeroes
@@ -3860,6 +3893,7 @@ TheLib
 TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
+TheMassive
 THEMATRIXAI
 thenetherlands
 TheNightFeeling
@@ -3947,6 +3981,7 @@ TopCharacterDesigns
 TopMindsOfReddit
 Topster
 toptalent
+toradora
 toRANTo
 tornado
 Torontobluejays
@@ -4306,6 +4341,7 @@ worldnewsvideo
 WorldofDankmemes
 worldofgothic
 WorldOfWarships
+WorldWar2
 WormMemes
 WoT
 WoTshow
@@ -4376,6 +4412,7 @@ yumenikki
 yuna
 ZaidZIZ
 ZanClan
+ZaraLarsson
 zelda
 ZeldaIsCute
 ZeldaMemes
