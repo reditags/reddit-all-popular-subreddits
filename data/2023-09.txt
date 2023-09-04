@@ -669,6 +669,7 @@ books
 bookshelf
 BoomersBeingFools
 boottoobig
+borbs
 BorderCollie
 borderlands3
 boringdystopia
@@ -1238,6 +1239,7 @@ daria
 DarkAndDarker
 DarkBRANDON
 darkestdungeon
+darknet
 DarkSouls2
 DarkTide
 DarkViperAU
@@ -1526,6 +1528,7 @@ ElizabethTurner
 ellacervetto
 ElleFanning
 elonmusk
+Elysia
 Embroidery
 emergencymedicine
 EmiliaClarke
@@ -1636,6 +1639,7 @@ FanFiction
 fansofcriticalrole
 fantanoforever
 FantasticFour
+Fantasy_Football
 fantasyfootball
 fantasymoe
 FantasyPL
@@ -2172,6 +2176,7 @@ HomeschoolRecovery
 HomestarRunner
 homestead
 homestuck
+hometheater
 HomeworkHelp
 HommaInAction
 Honda
@@ -2299,6 +2304,7 @@ Incorgnito
 IncredibleIndia
 independentmusic
 india
+india_tourism
 IndiaCricket
 indiadiscussion
 indiameme
@@ -2410,6 +2416,7 @@ jackrussellterrier
 JackSucksAtGeography
 JackSucksAtLife
 jaclynhillsnark
+Jaguars
 jailbreak
 jaipur
 jambands
@@ -3017,6 +3024,7 @@ Miniworlds
 minnesota
 minnesotatwins
 minnesotavikings
+Minoxbeards
 MirandaCosgrove
 Mirrorsforsale
 Misato
@@ -3048,6 +3056,7 @@ Money
 mongolia
 Monikafandom
 MonopolyGoTrading
+MonsterAnime
 MonsterHigh
 MonsterHunter
 MonsterHunterWorld
@@ -3188,6 +3197,7 @@ Nerf
 Nestofeggs
 netflix
 Netherlands
+Netsphere
 NeuroSama
 NeuvilletteMains_
 Neverbrokeabone
@@ -3326,6 +3336,7 @@ ObviousPlant
 OCDmemes
 Oceanlinerporn
 ockytop
+octopathtraveler
 oculus
 OculusQuest
 oddlysatisfying
@@ -3352,6 +3363,7 @@ okbuddyblacklung
 okbuddycapitalist
 okbuddychicanery
 okbuddycinephile
+okbuddycoral
 okbuddydaylight
 OkBuddyFresca
 okbuddygenshin
@@ -3418,6 +3430,7 @@ OooBigStretch
 OopsDidntMeanTo
 OopsThatsDeadly
 OpenAI
+opensea
 Opeth
 opossum_irl
 Opossums
@@ -3756,6 +3769,7 @@ PSVR
 psych
 psychology
 Psychonaut
+PUBATTLEGROUNDS
 PublicFreakout
 pukicho
 pune
@@ -4035,6 +4049,7 @@ ScottPilgrim
 scottthewoz
 scotus
 SCP
+SCPMemes
 ScrapMetal
 Scream
 scrungycats
@@ -4119,6 +4134,7 @@ ShitPostCrusaders
 shitposting
 ShitpostTC
 ShitpostXIV
+Shitstatistssay
 Shitty_Car_Mods
 Shittyaskflying
 shittybloodborne
@@ -4633,6 +4649,7 @@ thirdsentenceworse
 thisismylifenow
 Thisissosatisfying
 ThisLooksFun
+ThomasinMcKenzie
 thomastheplankengine
 ThousandSons
 throneofglassseries
@@ -4863,6 +4880,7 @@ UniSwap
 unitedairlines
 unitedkingdom
 unitedstatesofindia
+Unity2D
 Unity3D
 UniUK
 unOrdinary
@@ -5110,6 +5128,7 @@ wohnen
 WojakCompass
 Wolfenstein
 WolvesAreBigYo
+women
 WomensSoccer
 WonderWoman
 woodworking
