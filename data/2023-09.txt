@@ -256,6 +256,7 @@ APStudents
 aquarium
 Aquariums
 AquaSama
+AquaticAsFuck
 ar15
 araragi
 ArAutos
@@ -285,6 +286,7 @@ armoredcore
 army
 aromantic
 arresteddevelopment
+Arrowheads
 ArsenalFC
 ArtDeco
 ArtefactPorn
@@ -637,6 +639,7 @@ BoxerDogs
 Boxers
 Boxing
 boxoffice
+boykisser
 BPD
 BPDmemes
 BrandNewSentence
@@ -971,6 +974,7 @@ Commanders
 CommunismMemes
 community
 CompetitiveApex
+CompetitiveHalo
 Competitiveoverwatch
 compoface
 composting
@@ -1230,6 +1234,7 @@ Detroit
 DetroitBecomeHuman
 detroitlions
 DetroitPistons
+DetroitRedWings
 deutschememes
 developersIndia
 DevilMayCry
@@ -1311,6 +1316,7 @@ Dorohedoro
 DotA2
 DottoreMains
 doughboys
+DowntonAbbey
 DownvotedToOblivion
 dragonballfighterz
 DragonballLegends
@@ -1618,6 +1624,7 @@ Forex
 ForgottenWeapons
 forhire
 forhonor
+formalwaifus
 Formula1Point5
 FormulaBuddyRetard
 formuladank
@@ -1784,6 +1791,7 @@ GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
+gijoe
 gingercats
 GingerMafia
 Gintama
@@ -2789,6 +2797,7 @@ minnesotavikings
 MirandaCosgrove
 Mirrorsforsale
 Misato
+missbricosplay
 missouri
 MitchellAndWebb
 MixedRaceGirls
@@ -3416,6 +3425,7 @@ Possums
 postal
 pottedcats
 Pottery
+poutine
 pouts
 povertyfinance
 PowerGirl
@@ -3594,6 +3604,7 @@ retrogaming
 revancedapp
 reverseanimalrescue
 ReversePinterest
+Revolvers
 RheaRipley
 rickandmorty
 rienabranler
@@ -4046,6 +4057,7 @@ stunfisk
 stupiddovenests
 StupidFood
 stupidpol
+stupidquestions
 StVO
 subaru
 submarines
@@ -4197,6 +4209,7 @@ THE_PACK
 theadamfriedlandshow
 TheAdventureZone
 TheAstraMilitarum
+TheBatmanFilm
 TheBear
 TheBidenshitshow
 TheBoys
@@ -4619,6 +4632,7 @@ Waterfalls
 waterloo
 Wavyhair
 WeaponsMoe
+WeAreTheMusicMakers
 webcomics
 webdev
 Webkinz
