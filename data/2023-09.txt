@@ -432,6 +432,7 @@ badfriendspod
 badMovies
 BadMtgCombos
 BadMUAs
+badroommates
 badwomensanatomy
 baeirene
 bald
@@ -1244,6 +1245,7 @@ DeathByMillennial
 Deathcore
 deathgrips
 deathguard40k
+deathnote
 DeathrattlePorn
 DeathStranding
 debtfree
@@ -1736,6 +1738,7 @@ FoundTheInaAlt
 fountainpens
 foxes
 foxholegame
+FragileWhiteRedditor
 framework
 france
 Frasier
@@ -2008,6 +2011,7 @@ h3h3productions
 H3VR
 Habs
 HadesTheGame
+HadToHurt
 HaileeSteinfeld
 HairDye
 hajimenoippo
@@ -2015,6 +2019,7 @@ HalfLife
 halifax
 halloween
 halo
+haloinfinite
 HaloMemes
 HaloStory
 Hamilton
@@ -2660,6 +2665,7 @@ LiveFromNewYork
 LiverpoolFC
 LivestreamFail
 LobotomyCorp
+Lollapalooza
 london
 londonontario
 longboarding
@@ -4321,6 +4327,7 @@ tacticalgear
 TacticalIssueCat
 Taiwanese
 Takagi_san
+TakaMori
 talesfromtechsupport
 TalesFromTheFrontDesk
 TalesFromTheSquadCar
@@ -4614,6 +4621,7 @@ treelaw
 trees
 tressless
 triathlon
+triples
 trippinthroughtime
 TrishStratus
 TrollCoping
@@ -4874,6 +4882,7 @@ weddingdress
 WeDoALittlePosting
 weed
 weedstocks
+weeklyplanetpodcast
 ween
 weeviltime
 weezer
