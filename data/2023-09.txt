@@ -342,6 +342,7 @@ AskMec
 AskMechanics
 AskMen
 AskMiddleEast
+AskOuija
 AskPhotography
 AskPhysics
 AskProgramming
@@ -1560,6 +1561,7 @@ EnoughCommieSpam
 EnoughMuskSpam
 enoughpetersonspam
 ENQBlockchain
+enseignants
 EntitledBitch
 entitledparents
 EntitledPeople
@@ -1712,6 +1714,7 @@ firefly
 FireStickHacks
 FirstResponderCringe
 FirstTimeHomeBuyer
+firstworldanarchists
 firstworldproblems
 Fischl
 Fishing_Gear
@@ -2420,6 +2423,7 @@ ItsukiClassroom
 IttoMains
 ITZY
 IVE
+IVF
 IWantOutJobs
 iwoulddiefornoodle
 IzuOcha
@@ -2754,6 +2758,7 @@ LiveFromNewYork
 LiverpoolFC
 LivestreamFail
 LobotomyCorp
+logodesign
 Lollapalooza
 london
 londonontario
@@ -3214,6 +3219,7 @@ nerdfighters
 Nerf
 Nestofeggs
 netflix
+NetflixBestOf
 Netherlands
 Netsphere
 NeuroSama
@@ -3346,6 +3352,7 @@ NYCinfluencersnark
 NYGiants
 nyjets
 NYStateOfMind
+nyu
 NYYankees
 OaklandAthletics
 oblivion
@@ -3960,6 +3967,7 @@ ROGAlly
 RoleReversal
 rollercoasters
 Rollerskating
+rolltide
 RomanceClub
 Romania
 romanian
@@ -4030,6 +4038,7 @@ sandiego
 sanfrancisco
 SanJose
 SanJoseSharks
+sanpedrocactus
 sanskrit
 saopaulo
 SapphoAndHerFriend
@@ -4180,6 +4189,7 @@ shoegaze
 shortguys
 shorthairedhotties
 shortscarystories
+Shotguns
 shoujo
 shouldercats
 Showerthoughts
@@ -5140,6 +5150,7 @@ Windows10
 windsorontario
 wine
 WingsOfFire
+WinningTime
 WinStupidPrizes
 wiredpeople
 wirklichgutefrage
@@ -5271,6 +5282,7 @@ ZeroCovidCommunity
 zillakami
 zillowgonewild
 zoci
+zoology
 Zoomerchan3
 Zoomies
 zuinig
