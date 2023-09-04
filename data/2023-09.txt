@@ -207,6 +207,7 @@ AncientCivilizations
 ancientrome
 Andjustlikethat
 andor
+andreyoung
 anesthesiology
 angelsbaseball
 angrybirds
@@ -810,6 +811,7 @@ canadaleft
 canberra
 canceledpod
 candiceswanepoel
+Canning
 canucks
 capetown
 capitalism_in_decay
@@ -1725,6 +1727,7 @@ flashlight
 FlashTV
 flask
 FlexinLesbians
+flightradar24
 flightsim
 FLMedicalTrees
 floggit
@@ -1884,6 +1887,7 @@ gamindustri
 gaming
 Gamingcirclejerk
 GamingDetails
+GamingLaptops
 GamingLeaksAndRumours
 gamingnews
 Ganyu
@@ -1935,6 +1939,7 @@ germanshepherds
 GeschichtsMaimais
 GetMotivated
 GetNoted
+GetStudying
 ghettowhitegirls
 ghibli
 Ghostbc
@@ -1970,6 +1975,7 @@ GMEJungle
 gmod
 goats
 goblincore
+GoblinSlayer
 GodofWar
 godot
 godtiersuperpowers
@@ -2086,6 +2092,7 @@ HannahBarron
 HannahStocking_
 HannibalTV
 happycowgifs
+happycryingdads
 HappyWoofGifs
 Hardcore
 HardcoreNature
@@ -2341,6 +2348,7 @@ indonesia
 IndoorGarden
 Indore
 INDYCAR
+InfluencergossipDK
 influstopkipl
 Infographics
 InfowarriorRides
@@ -2812,6 +2820,7 @@ Luthier
 LV426
 LycorisRecoil
 Lyft
+lyftdrivers
 LynetteMains
 lyney
 lynxpointsiamese
@@ -3188,6 +3197,7 @@ NCAAgirls
 NCT
 ndp
 nds
+nebelung
 necoarc
 Necrontyr
 nederlands
@@ -3511,6 +3521,7 @@ pansexmothwhorehouse
 pansexual
 pansexualfleabrothel
 Papaplatte
+paperearmate
 papermario
 ParadoxExtra
 paradoxplaza
@@ -3958,6 +3969,7 @@ RoomPorn
 roosterteeth
 rose
 Roses
+rosin
 RotMG
 Rottweiler
 RoughRomanMemes
@@ -4098,6 +4110,7 @@ Serverlife
 settmains
 Seulgi
 seventeen
+SeveranceAppleTVPlus
 SewayakiKitsune
 Sewerslvt
 sewing
@@ -4815,6 +4828,7 @@ TurkishCeleb
 Turkophobia
 turo
 turtle
+turtles
 TuxedoCats
 TVTooHigh
 twicemedia
@@ -4839,6 +4853,7 @@ tzuyu
 TzuyuChou
 UAE
 UAP
+uber
 UberEATS
 Ubiquiti
 ucf
@@ -5121,6 +5136,7 @@ wildlifephotography
 WildlifeRehab
 willwood
 wimmelbilder
+Windows10
 windsorontario
 wine
 WingsOfFire
