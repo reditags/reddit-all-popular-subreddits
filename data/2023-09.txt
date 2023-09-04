@@ -58,6 +58,7 @@ ABoringDystopia
 AbruptChaos
 absolutelynotanimeirl
 absolutelynotme_irl
+absolutelynotmeirl
 AbsoluteUnits
 ac_newhorizons
 ACAB
@@ -125,6 +126,7 @@ aiArt
 AIGeneratedArt
 Aikuros
 airplaneears
+airplanes
 airpods
 airsoft
 airsoftcirclejerk
@@ -242,6 +244,7 @@ answers
 Anthropology
 Anticonsumption
 antifastonetoss
+AntiJokes
 antimeme
 antiMLM
 Antimoneymemes
@@ -999,6 +1002,7 @@ cologne
 Colombia
 Colorado
 ColoradoAvalanche
+coloranalysis
 Colorization
 ColorizedHistory
 Colts
@@ -1028,6 +1032,7 @@ compoface
 composting
 computers
 conan
+ConanExiles
 Concrete
 confession
 confessions
@@ -1251,6 +1256,7 @@ DeepRockGalactic
 DeepSpaceNine
 Defenders
 deficryptos
+deftones
 degoogle
 delhi
 deliciouscompliance
@@ -1304,6 +1310,7 @@ devinbrugman
 devsarg
 dezwo
 DHHMemes
+diabetes
 Diablo
 diablo2
 diablo4
@@ -2233,6 +2240,7 @@ inabakumori
 inazumaeleven
 Incorgnito
 IncredibleIndia
+independentmusic
 india
 IndiaCricket
 indiadiscussion
@@ -2572,6 +2580,7 @@ learndutch
 LearnerDriverUK
 LearnJapanese
 learnjavascript
+learnmachinelearning
 learnprogramming
 learntodraw
 Leathercraft
@@ -2852,6 +2861,7 @@ MemePiece
 memes
 Memes_Of_The_Dank
 memesdecentralises
+MemesEnEspanol
 MemesESP
 memesITA
 memesopdidnotlike
@@ -3042,6 +3052,7 @@ namethatcar
 NarakaBladePoint
 Naruto
 narutomemes
+nasa
 NASCAR
 nashville
 NataliaDyer
@@ -3195,6 +3206,7 @@ notlikeothergirls
 notliketheothergirls
 notmycat
 NotMyJob
+notredamefootball
 nottheonion
 nova
 nowmycat
@@ -3313,6 +3325,7 @@ OooBigStretch
 OopsDidntMeanTo
 OopsThatsDeadly
 opossum_irl
+Opossums
 OppenheimerMovie
 OpTicGaming
 Optifine
@@ -3358,6 +3371,7 @@ overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
 OverwatchTMZ
+Owlphibia
 Owls
 OyasumiPunpun
 Ozempic
@@ -3662,6 +3676,7 @@ Qult_Headquarters
 QuotesPorn
 Rabbits
 RachelPizzolato
+RachelZegler
 RadioCacaNFT
 radiohead
 radioheadcirclejerk
@@ -3960,6 +3975,7 @@ Shadowrun
 Sham_Sharma_Show
 shameless
 ShamelesslyStolen
+ShaneDawson
 Shantae
 Shark_Park
 sharks
@@ -4099,6 +4115,7 @@ sonarears
 SonicTheHedgehog
 SonicTheHedgejerk
 SonoBisqueDoll
+SonyAlpha
 SophiaDiamondXX
 SoulCalibur
 SoulKnight
@@ -4306,6 +4323,7 @@ Taiwanese
 Takagi_san
 talesfromtechsupport
 TalesFromTheFrontDesk
+TalesFromTheSquadCar
 TalesFromYourServer
 tallyhall
 TamannaBhatia
@@ -4501,6 +4519,7 @@ TimPool
 Tinder
 TingyunShrine
 Tinycatsinbigspaces
+TinyHouses
 TinyUnits
 TipOfMyFork
 tippytaps
@@ -4561,6 +4580,7 @@ TOTK
 TouchThaFishy
 touhou
 TowerDefense
+TowerofFantasy
 Toyota
 ToyotaTacoma
 traaaaaaannnnnnnnnns2
@@ -4576,6 +4596,7 @@ TransClones
 Transformemes
 transformers
 transgender
+transit
 TransLater
 translator
 Transmogrification
@@ -4959,6 +4980,7 @@ worldnews
 worldnewsvideo
 WorldofDankmemes
 worldofgothic
+WorldofTanks
 WorldOfWarships
 WorldWar2
 WormMemes
@@ -4993,6 +5015,8 @@ Xennials
 Xenoblade_Chronicles
 xertunposting
 XFiles
+XGALX
+XiaoMains
 xkcd
 xmen
 xqcow
@@ -5012,6 +5036,7 @@ Yellowjackets
 yesyesyesyesno
 yo_ctm
 YoCoin
+YofukashiNoUta
 yoga
 Yoimiya_Mains
 yokaiwatch
@@ -5048,6 +5073,7 @@ ZeLink
 Zendaya
 zerobaseone
 ZeroCovidCommunity
+zillakami
 zillowgonewild
 zoci
 Zoomerchan3
