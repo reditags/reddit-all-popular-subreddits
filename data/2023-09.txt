@@ -288,6 +288,7 @@ antitrampo
 AntiTrumpAlliance
 antiwork
 AntiworkPH
+Antyklerykalizm
 anxietymemes
 Anya_TaylorJoy
 AnyaTaylorJoy
@@ -372,6 +373,7 @@ askhungary
 AskMec
 AskMechanics
 AskMen
+AskMenOver30
 AskMiddleEast
 AskOuija
 AskPhotography
@@ -394,6 +396,7 @@ aspergers
 assassinscreed
 AssassinsCreedMemes
 AssassinsCreedOdyssey
+assettocorsa
 assholedesign
 astramilitarum
 astrologymemes
@@ -974,6 +977,7 @@ CentralChurch
 centuryhomes
 CFB
 cfbmemes
+cfs
 Chadposting
 Chadtopia
 chaeryeong
@@ -1098,6 +1102,7 @@ CODZombies
 CoinbaseInvestors
 coincollecting
 coins
+Coldmirror
 ColleenBallingerSnark
 colleensheen
 college
@@ -1201,6 +1206,7 @@ CrackWatch
 craftsnark
 CrappyDesign
 crappyoffbrands
+crazyexgirlfriend
 CrazyFuckingVideos
 CrazyHuman
 CreamPYE
@@ -1276,6 +1282,7 @@ cucina
 cuddleroll
 CultOfTheLamb
 CumRocket
+Cuphead
 CuratedTumblr
 curb
 Currencytradingcards
@@ -1367,6 +1374,7 @@ Dawko
 DaysGone
 dayz
 dbfz
+dbxv
 dbz
 DBZDokkanBattle
 DC_Cinematic
@@ -1548,6 +1556,7 @@ DougDoug
 doughboys
 DowntonAbbey
 DownvotedToOblivion
+DragaliaLost
 dragonballfighterz
 DragonballLegends
 Dragonballsuper
@@ -1705,6 +1714,7 @@ espresso
 esterexposito
 Esthetics
 ESTILOZAP
+estoration
 Ethelcain
 Ether
 EtherDelta
@@ -1837,6 +1847,7 @@ FightLibrary
 fightporn
 fightsticks
 FigureSkating
+filipinofood
 FilipinoHistory
 FilmClubPH
 Filmmakers
@@ -1904,6 +1915,7 @@ foodhacks
 FoodPorn
 foodscam
 FoodVideoPorn
+Foofighters
 football
 footballmanagergames
 foraging
@@ -2412,6 +2424,7 @@ howtonotgiveafuck
 HowToWithJohnWilson
 howyoudoin
 Hozier
+hrvatska
 httyd
 HUEstation
 HumanForScale
@@ -2887,6 +2900,7 @@ LasVegas
 LateStageCapitalism
 LateStageImperialism
 LatinoPeopleTwitter
+latterdaysaints
 latvia
 law
 LawFirm
@@ -3688,6 +3702,7 @@ okbuddyvowsh
 okc
 OKcash
 okcopainattard
+OkCupid
 okdraudzindauni
 okemakkermaloot
 OkHomo
@@ -4275,6 +4290,7 @@ rimesegate
 rimjob_steve
 Rimuru
 RimWorld
+riodejaneiro
 ripcity
 risa
 riskofrain
@@ -4834,6 +4850,7 @@ superstonkuk
 superstore
 SuperStructures
 Supra
+Supreme
 supremecourt
 surat
 surrealmemes
@@ -4916,6 +4933,7 @@ technicallythetruth
 Technoblade
 technology
 techsupportgore
+techsupportmacgyver
 TedLasso
 teefies
 teenagers
@@ -4946,6 +4964,7 @@ TeslaModel3
 TeslaModelY
 teslamotors
 teslareferralcode
+TESVI
 Texans
 texas
 TexasChainsawGame
@@ -4967,6 +4986,7 @@ Thatsactuallyverycool
 ThatsInsane
 The10thDentist
 the1975
+The1980s
 The8BitRyanReddit
 The_Mueller
 THE_PACK
@@ -5021,6 +5041,7 @@ thelastofus
 ThelastofusHBOseries
 TheLegitBoss
 TheLib
+thelongdark
 TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
@@ -5035,6 +5056,7 @@ TheOdysseyHadAPurpose
 TheOnion
 TheOther14
 TheoVon
+theowlhousebutcursed
 ThePack
 ThePPShow
 TheRandomest
@@ -5094,6 +5116,7 @@ Tinder
 TingyunShrine
 Tinycatsinbigspaces
 TinyHouses
+tinyorangekittens
 TinyUnits
 TipOfMyFork
 tippytaps
@@ -5465,6 +5488,7 @@ warriors
 WarshipPorn
 warthundermemes
 WarthunderSim
+Warzone
 wasletztepreis
 wasletzterezension
 watch_dogs
@@ -5597,6 +5621,7 @@ WolvesAreBigYo
 women
 WomensSoccer
 WonderWoman
+Woodszin
 woodworking
 woooosh
 wordsonanimegirls
