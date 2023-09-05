@@ -494,6 +494,7 @@ baldursgate
 BaldursGate3
 balkans_irl
 ballpython
+ballutverso
 BalticStates
 BambuLab
 BancaDelMeme
@@ -730,6 +731,7 @@ BoomersBeingFools
 boottoobig
 borbs
 BorderCollie
+Borderlands2
 borderlands3
 boringdystopia
 BORUpdates
@@ -1352,6 +1354,7 @@ daoc
 Daredevil
 daria
 DarkAndDarker
+DarkAngels40k
 DarkBRANDON
 darkestdungeon
 darknet
@@ -1414,6 +1417,7 @@ Defenders
 deficryptos
 deftones
 degoogle
+Degrassi
 delhi
 deliciouscompliance
 Delightfullychubby
@@ -1496,6 +1500,7 @@ discordVideos
 disenchantment
 dishonored
 disney
+DisneyDiamonds
 DisneyEyes
 Disneyland
 disneylandparis
@@ -1563,6 +1568,7 @@ DragaliaLost
 dragonballfighterz
 DragonballLegends
 Dragonballsuper
+dragoncon
 dragonlance
 DragonMaid
 dragonquest
@@ -1844,6 +1850,7 @@ FFXV
 FFXVI
 fiaustralia
 fidelityinvestments
+FierceFlow
 FIFA22
 FifaCareers
 Fighters
@@ -2125,6 +2132,7 @@ GetNoted
 GetStudying
 ghettowhitegirls
 ghibli
+Ghost_in_the_Shell
 Ghostbc
 ghostbusters
 ghostoftsushima
@@ -2494,6 +2502,7 @@ IllegallySmolCats
 IllegallySmolDogs
 illinois
 illnessfakers
+ILLOJUANOFICIAL
 Illustration
 im14andthisisdeep
 Im15AndThisIsYeet
@@ -3079,6 +3088,7 @@ LoveNikki
 LowQualityMemes
 lowriders
 LowSodiumCyberpunk
+LowSodiumDestiny
 LowStakesConspiracies
 LPOTL
 lrcast
@@ -3858,6 +3868,7 @@ ParadoxExtra
 paradoxplaza
 Paralives
 Paramore
+Parana
 parclco
 PardonMyTake
 Pareidolia
@@ -4553,6 +4564,7 @@ shittymoviedetails
 shittyrainbow6
 shittyrobots
 shittyskylines
+ShittySysadmin
 shittytattoos
 shittytechnicals
 ShittyVeganFoodPorn
@@ -4906,6 +4918,7 @@ talesfromtechsupport
 TalesFromTheFrontDesk
 TalesFromTheSquadCar
 TalesFromYourServer
+talk_hunfluencers
 tallyhall
 TamannaBhatia
 TamilNadu
@@ -5268,6 +5281,7 @@ Tunisia
 Turkey
 TurkeyJerky
 TurkeyMeta
+turkish
 TurkishCats
 TurkishCeleb
 Turkophobia
@@ -5459,6 +5473,7 @@ void_memes
 VoidCats
 Volksverpetzer
 VolleyballGirls
+Volumeeating
 Volvo
 VoskCoin
 VoteBlue
