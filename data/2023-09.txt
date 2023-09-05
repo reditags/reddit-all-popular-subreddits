@@ -23,6 +23,7 @@
 30PlusSkinCare
 30ROCK
 3amjokes
+3Dmodeling
 3Dprinting
 3DS
 40k
@@ -30,6 +31,7 @@
 49ers
 4chan
 4kbluray
+52book
 5ireChain
 5nafcirclejerk
 5ToubunNoHanayome
@@ -310,6 +312,7 @@ arborists
 arcane
 Archaeology
 ArcherFX
+Archery
 ArchitecturalRevival
 architecture
 ArchitecturePorn
@@ -758,6 +761,7 @@ brdev
 Breadit
 Breakfast
 breakingbad
+breakingbadmemes
 Breath_of_the_Wild
 Brewers
 BrexitMemes
@@ -1918,6 +1922,7 @@ freefromwork
 FreeGameFindings
 FreeKarma4All
 FREEMEDIAHECKYEAH
+French
 Frenchbulldogs
 FrenchMemes
 Frenemies3
@@ -1980,6 +1985,7 @@ FusionBlockchain
 fut
 futebol
 futurama
+futureporn
 futureproof
 Futurology
 fuufuijou
@@ -2539,6 +2545,7 @@ interracialdating
 inthenews
 IntoTheSpiderverse
 intresseklubben
+introvert
 inuyasha
 investing_discussion
 InvestmentEducation
@@ -2662,6 +2669,7 @@ jschlatt
 jschlattsubmissions
 jtbc_RUNext
 Judaism
+JuiceWRLD
 juicyscoopsnark
 Jujutsufolk
 JuJutsuKaisen
@@ -3567,6 +3575,7 @@ nyjets
 NYStateOfMind
 nyu
 NYYankees
+NZXT
 OaklandAthletics
 oblivion
 ObscureDrugs
@@ -3851,6 +3860,7 @@ phoebebridgers
 phoenix
 PhoenixSC
 photocritique
+photography
 photoshopbattles
 PhotoshopRequest
 PhotoshopRequests
@@ -3901,6 +3911,7 @@ playstation
 PlayStationPlus
 playtoearngames
 PlayWayfinder
+plotholes
 Plumbing
 plushies
 PlusSizeFashion
@@ -4297,6 +4308,7 @@ satanism
 SatisfactoryGame
 satisfying
 Satisfyingasfuck
+SatoshiStreetBets
 SavageGarden
 savedyouaclick
 saw
@@ -4836,6 +4848,7 @@ Tennesseetitans
 tennis
 TenseiSlime
 TerrainBuilding
+TerraInvicta
 Terraria
 TerrariaMemes
 terriblefacebookmemes
@@ -5147,6 +5160,7 @@ Twitter_Brasil
 twittermoment
 TwoHotTakes
 Twokinds
+TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
 TwoXChromosomes
@@ -5420,6 +5434,7 @@ whatisthisbug
 whatisthiscar
 whatisthisthing
 whatsapp
+whatsthatbook
 whatsthisbird
 whatsthisbug
 whatsthisplant
