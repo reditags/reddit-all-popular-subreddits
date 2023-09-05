@@ -142,6 +142,7 @@ aiArt
 AIGeneratedArt
 Aikuros
 aircanada
+AirlinerAbduction2014
 airplaneears
 airplanes
 airpods
@@ -206,6 +207,7 @@ Amigurumi
 AmIHotSFW
 AmITheAngel
 AmItheAsshole
+AmItheButtface
 AmItheEx
 amiugly
 amiwrong
@@ -269,6 +271,7 @@ AnnArbor
 AnneHathaway
 AnniTheDuck___
 ANormalDayInRussia
+ANRime
 answers
 Anthropology
 Anticonsumption
@@ -935,6 +938,7 @@ catsofrph
 catsofukraine
 CatsOnCats
 catsonglass
+CatsPlayingDnd
 CatsStandingUp
 CatsWhoSmoke
 CatsWhoSqueak
@@ -1659,7 +1663,9 @@ EmmaWatson
 Emo
 Emoney
 EmoStyle
+EmpireDidNothingWrong
 ems
+EnculerLesVoitures
 EndTipping
 energy
 EngagementRings
@@ -1757,6 +1763,7 @@ FallenOrder
 FallGuysGame
 Fallout
 FallOutBoy
+FalloutMemes
 falloutnewvegas
 Falschparker
 familyguy
@@ -2039,6 +2046,7 @@ GamingDetails
 GamingLaptops
 GamingLeaksAndRumours
 gamingnews
+gank
 Ganyu
 GarandThumb
 garden
@@ -2299,6 +2307,7 @@ heraldry
 HermanCainAward
 HermitCraft
 hermitcraftmemes
+heroes3
 heroesofthestorm
 HeroForgeMinis
 herpetology
@@ -2505,6 +2514,7 @@ Indiana
 indianajones
 indianamassara
 indianapolis
+IndianArtAI
 indianbikes
 IndianBoysOnTinder
 IndianCountry
@@ -2542,6 +2552,7 @@ Inkmaster
 InlovewithKarengillan
 InMetalWeTrust
 innovations
+InRealLifeGirls
 insaneparents
 insanepeoplefacebook
 insanepinoyfacebook
@@ -2687,6 +2698,7 @@ joinsquad
 JoJoMemes
 joker
 Jokes
+JonTron
 JordanPeterson
 Journaling
 jovemnerd
@@ -2872,6 +2884,7 @@ LawFirm
 lawncare
 LawPH
 LawSchool
+LawStudentsPH
 LaylaMains
 lazerpig
 lbry
@@ -3218,6 +3231,7 @@ menwritingwomen
 MEOW_IRL
 meraki
 mercedes_benz
+merdasdoolx
 mesoamerica
 MetaDOS
 Metalcore
@@ -3340,6 +3354,7 @@ Mortalkombatleaks
 moths
 motivation
 motogp
+MotoIRELAND
 motorcitykitties
 motorcycle
 motorcycles
@@ -3622,6 +3637,7 @@ oddlysatisfying
 oddlyspecific
 oddlyterrifying
 OddSatisfying
+Odisha
 ofcoursethatsathing
 offbeat
 offerup
@@ -3660,6 +3676,7 @@ okbuddyvowsh
 okc
 OKcash
 okcopainattard
+okdraudzindauni
 okemakkermaloot
 OkHomo
 okkamaraderetarde
@@ -4099,6 +4116,7 @@ puns
 puppies
 PuppySmiles
 Purdue
+purrkour
 pussypassdenied
 puzzles
 PvZGardenWarfare
@@ -4365,6 +4383,7 @@ scaryeddie
 Schaffrillas
 SchittsCreek
 schizoposters
+Schlaegerei
 SchlechteFrage
 schnauzers
 SchnitzelVerbrechen
@@ -4958,6 +4977,7 @@ thedavidpakmanshow
 TheDeprogram
 TheDepthsBelow
 TheDollop
+TheDonaldTrump2024
 thedoors
 TheDragonPrince
 TheEminenceInShadow
@@ -4992,6 +5012,7 @@ thenetherlands
 TheNightFeeling
 TheNinthHouse
 TheNonCredibleFlorks
+theocho
 TheOdysseyHadAPurpose
 TheOnion
 TheOther14
@@ -5038,6 +5059,7 @@ throneofglassseries
 thugeshh
 thumbcats
 ThunderThots
+tianguancifu
 Tierzoo
 tifu
 TIGHTPUSSY
@@ -5216,6 +5238,7 @@ TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
 TwoXChromosomes
+twrmod
 TWRP
 TXChainSawGame
 tylerthecreator
@@ -5319,6 +5342,7 @@ ValveIndex
 vancouver
 Vanderpumpaholics
 vandwellers
+VanessaHudgens
 VaporwaveAesthetics
 VaushV
 vaxxhappened
@@ -5529,6 +5553,7 @@ willwood
 WIMI
 wimmelbilder
 Windows10
+Windows11
 windowsphone
 windsorontario
 wine
@@ -5574,6 +5599,7 @@ WorldofTanks
 WorldOfWarships
 WorldWar2
 WormMemes
+wortwitzkasse
 WoT
 WoTshow
 WouldYouRather
@@ -5676,6 +5702,7 @@ zerobaseone
 ZeroCovidCommunity
 Zettelkasten
 zfs
+ZhongliMains
 zillakami
 zillowgonewild
 zoci
