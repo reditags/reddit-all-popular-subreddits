@@ -197,6 +197,7 @@ AmazonDSPDrivers
 AmazonFC
 Amberverse_
 amcstock
+AMCSTOCKS
 Amd
 AMDHelp
 America2Korea
@@ -1325,6 +1326,7 @@ csMajors
 Cubers
 cucina
 cuddleroll
+CultofMorganLeFay
 CultOfTheLamb
 CumRocket
 Cuphead
@@ -1511,6 +1513,7 @@ DetroitBecomeHuman
 detroitlions
 DetroitPistons
 DetroitRedWings
+deusasbrazil
 deutschememes
 developersIndia
 DevilMayCry
@@ -1869,6 +1872,7 @@ farming
 fashion
 fashionhistory
 FashionReps
+fashionwomens35
 fasting
 fatestaynight
 fatsquirrelhate
@@ -2260,6 +2264,7 @@ goodboomerhumor
 GoodFakeTexts
 goodmythicalmorning
 goodomens
+goodomensprime
 goodrestrictionfood
 GooglePixel
 goons
@@ -2732,6 +2737,7 @@ islam
 Islamic_Coin_Official
 IsMyPokemonCardFake
 Israel
+IsraeliBeauty
 ISRO
 it
 Italia
@@ -2802,6 +2808,7 @@ jenniferlovehewitt
 Jeongyeon
 jerma985
 jerseyshore
+jessicaalba
 JetLagTheGame
 jeuxvideo
 Jewdank
@@ -3139,6 +3146,7 @@ LiveFromNewYork
 LiverpoolFC
 LivestreamFail
 LobotomyCorp
+LocalLLaMA
 LodedDiper
 logodesign
 Lollapalooza
@@ -3447,6 +3455,7 @@ MinecraftChampionship
 MinecraftCommands
 Minecrafthmmm
 MinecraftMemes
+minecraftseeds
 MinecraftServer
 MineIslam
 MineralGore
@@ -3698,6 +3707,7 @@ Ni_Bondha
 Nicegirls
 niceguys
 NiceHash
+Nichijou
 NicolaCavanis
 nier
 NierAutomataGallery
@@ -4083,6 +4093,7 @@ PGA_Tour_2K
 PhantomForces
 PhasmophobiaGame
 phcareers
+PhD
 PHhandsgonewild
 philadelphia
 Philippines
@@ -4590,6 +4601,7 @@ schnauzers
 SchnitzelVerbrechen
 schoolfights2
 science
+sciencefiction
 scienceisdope
 sciencememes
 ScienceNcoolThings
