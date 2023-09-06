@@ -178,6 +178,7 @@ Alicante
 aliens
 AliensAndUFOs
 AlisonBrie
+AllCryptoBets
 AllThingsDND
 AllTomorrows
 Alonetv
@@ -247,6 +248,7 @@ Angryupvote
 ani_bm
 AnimalCrossing
 AnimalCrossingNewHor
+AnimalMemes
 AnimalsBeingBros
 AnimalsBeingDerps
 AnimalsBeingGeniuses
@@ -1285,6 +1287,7 @@ criticalblunder
 criticalrole
 cro
 croatia
+CroatiaAlt
 crochet
 crocheting
 crocs
@@ -2545,6 +2548,7 @@ hrvatska
 httyd
 HUEstation
 HumanForScale
+Humanoidencounters
 HumansAreMetal
 humansarespaceorcs
 HumansBeingBros
@@ -3963,6 +3967,7 @@ orangecounty
 orangetheory
 orchids
 oregon
+origami
 OriginalCharacter
 originprotocol
 orioles
@@ -4015,6 +4020,7 @@ pagan
 PaigeSpiranac
 painting
 pakistan
+Paladins
 palebeauties
 Paleontology
 Palestine
@@ -4168,6 +4174,7 @@ PiratePets
 pisscommenting
 pitbulls
 pitbulls_in_partyhats
+pitchforkemporium
 pitcoin
 pittsburgh
 pixel_phones
@@ -4276,6 +4283,7 @@ povertyfinancecanada
 PowerGirl
 powerrangers
 powerwashingporn
+PPC
 PraiseTheCameraMan
 PregCelebs
 PrehistoricMemes
@@ -4656,6 +4664,7 @@ Scream
 scrungycats
 scuba
 scuderiaferrari
+SDRUntucked
 seaglass
 seals
 seaofstars
@@ -5108,6 +5117,7 @@ Switzerland
 swordartonline
 SWORDS
 swtor
+SWTOR_memes
 sydneyswans
 SydneySweeney
 sylvanianfamilies
@@ -5537,6 +5547,7 @@ TzuyuChou
 UAE
 UAP
 uber
+uberdrivers
 UberEATS
 Ubiquiti
 ucf
@@ -5762,6 +5773,7 @@ WaterfallDump
 Waterfalls
 waterloo
 Wavyhair
+WayOfTheBern
 WeaponsMoe
 WeAreTheMusicMakers
 web3domains
