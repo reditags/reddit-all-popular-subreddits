@@ -912,6 +912,7 @@ CanadianInvestor
 canberra
 canceledpod
 candiceswanepoel
+CaneCorso
 Canning
 canucks
 capetown
@@ -1677,6 +1678,7 @@ DungeonsAndDaddies
 DungeonsAndDragons
 DunksNotDead
 duolingo
+durham
 dwarffortress
 dyinglight
 dyinglight2
@@ -1755,6 +1757,7 @@ ems
 EnculerLesVoitures
 EndTipping
 energy
+energydrinks
 EngagementRings
 engineeringmemes
 EngineeringPorn
@@ -2762,6 +2765,7 @@ IThinkYouShouldLeave
 itookapicture
 ITookAPicturePH
 itslenny
+itstheyak
 ItsukiClassroom
 IttoMains
 ITZY
@@ -2896,6 +2900,7 @@ kansascity
 KansasCityChiefs
 Kanye
 KaraDelToro
+karengillan
 karnataka
 KatDennings
 katebeckinsale
@@ -3503,6 +3508,7 @@ MnetQueendom
 MobileLegendsGame
 modeltrains
 Modern_Family
+ModernMagic
 modernwarfare
 ModernWarfareII
 moedred
@@ -4070,6 +4076,7 @@ PennyLaneIsTheName
 pennystocks
 PeopleFuckingDying
 peopleofwalmart
+peopleplayground
 PercyJacksonMemes
 Perfectfit
 PerfectlyCutBooms
@@ -5013,6 +5020,7 @@ straykids
 stream
 StreetFighter
 StreetMartialArts
+streetwearstartup
 StreetWomanFighter
 stremtch
 strength_training
@@ -5709,6 +5717,7 @@ WaltDisneyWorld
 waltonchain
 wanchain
 wankil
+wappiesinhetwild
 WarAndPeas
 Warframe
 WarframeRunway
@@ -5771,6 +5780,7 @@ WeirdWheels
 WeirdWings
 WelcomeHomeARG
 WelcomeToGilead
+WelcomeToPlathville
 Welding
 Wellington
 Wellthatsucks
