@@ -95,6 +95,7 @@ acnh
 acotar
 ACPocketCamp
 ACQR
+AcrossTheSpider_Verse
 ActionFigures
 ActivationSound
 actu_memes
@@ -861,6 +862,7 @@ brdev
 Breadit
 BreadStapledToTrees
 Breakfast
+BreakfastFood
 breakingbad
 breakingbadmemes
 BreakUps
@@ -1347,6 +1349,7 @@ cremposting
 CRH
 Cricket
 CricketShitpost
+CrimeScene
 cringe
 CringePurgatory
 CringeTikToks
@@ -1791,6 +1794,7 @@ dyinglight
 dyinglight2
 DylanteroYT
 DynastyFF
+E30
 EA_NHL
 Earnabletoken
 earthbound
@@ -1985,6 +1989,7 @@ FalloutMemes
 falloutnewvegas
 Falschparker
 familyguy
+famoseworte
 FamousFaces
 FamousLatinas
 FanFiction
@@ -2501,6 +2506,7 @@ guns
 gurgaon
 GuysBeingDudes
 GwenMains
+gwent
 GYM
 GymMemes
 GymMotivation
@@ -2960,6 +2966,7 @@ jaclynhillsnark
 Jaguar
 Jaguars
 jailbreak
+jaimelescartes
 jaipur
 jambands
 JamesBond
@@ -3155,6 +3162,7 @@ kollywood
 Komi_san
 komodoplatform
 Konosuba
+konya
 KoraNetwork
 korea
 korrasami
@@ -4311,6 +4319,7 @@ Pathfinder_Kingmaker
 pathfindermemes
 pathofexile
 PathToNowhere
+PatMcAfeeShowOfficial
 Patriots
 PaulanerSpezi
 paydaytheheist
@@ -6030,6 +6039,7 @@ videography
 videos
 VietNam
 vindax
+Vindicta
 Vinesauce
 VinlandSaga
 vintage
