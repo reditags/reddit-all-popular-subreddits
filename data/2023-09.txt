@@ -4904,6 +4904,7 @@ SanJoseSharks
 sanpedrocactus
 sanrio
 sanskrit
+SaoirseRonan
 saopaulo
 SapphoAndHerFriend
 Sardonicast
@@ -5183,6 +5184,7 @@ socialism
 SocialismIsCapitalism
 SocialistRA
 socialskills
+Soda
 Sofia
 SofiaVergara
 SoftwareEngineering
@@ -5304,6 +5306,7 @@ StarWars
 StarWarsAhsoka
 StarWarsBattlefront
 starwarsblackseries
+starwarsbooks
 StarWarsCantina
 StarWarsEmpireAtWar
 StarWarsEU
@@ -5566,6 +5569,7 @@ thalassophobia
 ThanksCyno
 thanksihateit
 thanksimcured
+That70sshow
 thatHappened
 ThatLookedExpensive
 Thatsabooklight
@@ -5972,6 +5976,7 @@ unitedstatesofindia
 Unity2D
 Unity3D
 UniUK
+UniversalOrlando
 unOrdinary
 Unorthodog
 UnpopularLoreOlympus
