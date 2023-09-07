@@ -321,6 +321,7 @@ aoe4
 apexlegends
 ApexOutlands
 ApexUncovered
+apexuniversity
 aphextwin
 AppalachianTrail
 apple
@@ -831,6 +832,7 @@ BreadStapledToTrees
 Breakfast
 breakingbad
 breakingbadmemes
+BreakUps
 Breath_of_the_Wild
 Brewers
 BrexitMemes
@@ -2289,6 +2291,7 @@ gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
 gijoe
+ginacarano
 gingercats
 GingerMafia
 Gintama
@@ -2577,6 +2580,7 @@ horizon
 HorizonForbiddenWest
 Hornyjail
 horror
+horrorlit
 Horses
 hostedgames
 hot_reporters
@@ -2614,6 +2618,7 @@ HumanTippyTaps
 hungarian
 hungary
 Hungergames
+HunterKing
 HunterXHunter
 HuntShowdown
 HuntsvilleAlabama
@@ -3396,6 +3401,7 @@ Mariners
 Mario
 marioandluigi
 mariokart
+MarioRPG
 marketpredictors
 Markiplier
 MarkNarrations
@@ -4346,6 +4352,7 @@ ponds
 poodles
 POODLTOKEN
 pools
+poor
 popculturechat
 popheadscirclejerk
 popping
@@ -5019,6 +5026,7 @@ specializedtools
 SpecOpsArchive
 SpeculativeEvolution
 SpeedOfLobsters
+speedrun
 SpellToken
 sphynx
 SpiceandWolf
@@ -5598,6 +5606,7 @@ triathlon
 Trigun
 triples
 trippinthroughtime
+trishahershberger
 TrishaKrishnanSA
 TrishStratus
 TrollCoping
