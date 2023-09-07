@@ -1547,6 +1547,7 @@ DDintoGME
 DDLC
 de
 DeadAhead
+deadandcompany
 deadbydaylight
 deadcells
 deadlockpw
@@ -2144,6 +2145,7 @@ FondantHate
 food
 foodbutforbabies
 foodhacks
+FoodLosAngeles
 FoodPorn
 foodscam
 FoodVideoPorn
@@ -2574,6 +2576,7 @@ HauntedMound
 HAWKFreedomSquad
 Hawksight
 HayleyAtwell
+hayleywilliams
 HazbinHotel
 hbo
 HeadlineWorthy
@@ -2643,6 +2646,7 @@ holdmycosmo
 holdmyfeedingtube
 holdmyfries
 holdmyredbull
+holesome
 HollowKnight
 HollowKnightMemes
 holocure
@@ -2931,6 +2935,7 @@ IronFrontUSA
 ironmaiden
 ironscape
 IronWarriors
+Ironworker
 IrrationalMadness
 IsabelaMerced
 Isekai
@@ -3374,6 +3379,7 @@ LiverpoolFC
 LivestreamFail
 LobotomyCorp
 LocalLLaMA
+LockdownSkepticism
 LodedDiper
 LoganPaul
 logodesign
@@ -3558,6 +3564,7 @@ marvelcomics
 MarvelLegends
 marvelmemes
 MarvelSnap
+MarvelStrikeForce
 MarvelStudios_Rumours
 Marxism_Memes
 MaryElizabethWinstead
