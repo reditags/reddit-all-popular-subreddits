@@ -419,6 +419,7 @@ askaplumber
 AskArgentina
 AskAShittyMechanic
 AskBalkans
+askcarsales
 AskDocs
 AskElectricians
 AskFeminists
@@ -1040,6 +1041,7 @@ catbongos
 Catculations
 CatDistributionSystem
 catfaceplant
+CatgirlSFW
 CATHELP
 Catholicism
 CatholicMemes
