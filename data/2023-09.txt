@@ -1657,6 +1657,7 @@ DestinyFashion
 DestinyLore
 DestinyMemes
 DestinyTheGame
+DestroyedTanks
 DestroyLonely
 DetailCraft
 DeTrashed
@@ -2795,6 +2796,7 @@ iamveryculinary
 iamverysmart
 IASIP
 IBEW
+ibs
 ICanDrawThat
 IcebergCharts
 IceCreamWaifu
@@ -2845,6 +2847,7 @@ ImaginaryCityscapes
 ImaginaryDarkSouls
 ImaginaryDragons
 imaginaryelections
+ImaginaryElves
 ImaginaryHorrors
 ImaginaryJedi
 ImaginaryKnights
@@ -5271,6 +5274,7 @@ SmugIdeologyMan
 snails
 snakes
 SnapshotHistory
+snarkingwithremi
 sneakerreps
 Sneks
 snes
@@ -5799,6 +5803,7 @@ thickfat
 ThickFit
 ThingsCutInHalfPorn
 thinkpad
+ThirdLifeSMP
 thirdsentenceworse
 thisismylifenow
 Thisissosatisfying
