@@ -127,6 +127,7 @@ adventuretime
 AdvertiseYourVideos
 Advice
 AdviceAnimals
+AdviceForTeens
 adwords
 AE86
 aeiou
@@ -1175,6 +1176,7 @@ CineShots
 CirclejerkSopranos
 cirkeltrek
 CitiesSkylines
+CitiesSkylines2
 CitizensClimateLobby
 CityPorn
 civ
@@ -1798,6 +1800,7 @@ DungeonsAndDragons
 DunksNotDead
 duolingo
 durham
+dvdcollection
 dwarffortress
 dyinglight
 dyinglight2
@@ -2381,6 +2384,7 @@ GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
+GigiDolin_
 gijoe
 ginacarano
 gingercats
@@ -2397,6 +2401,7 @@ GlacierNationalPark
 glasgow
 GlitchProductions
 GlobalOffensive
+GlockMod
 Glocks
 Gloryhammer
 GlowUps
@@ -3257,6 +3262,7 @@ lawofattraction
 LawPH
 LawSchool
 LawStudentsPH
+Lawyertalk
 LaylaMains
 lazerpig
 LBANKPROMOCODE
@@ -3330,6 +3336,7 @@ lgballt
 lgbt
 lgbtmemes
 LGBTnews
+LGOLED
 Liberal
 liberalgunowners
 Libertarian
@@ -4392,6 +4399,7 @@ perth
 pesmobile
 pestcontrol
 PeterExplainsTheJoke
+Petioles
 PetiteFashionAdvice
 PetiteFitness
 Petloss
@@ -5337,6 +5345,7 @@ stateball
 stateofMN
 steak
 Steam
+steam_giveaway
 SteamDeck
 steampunk
 steamr
@@ -5931,6 +5940,7 @@ UberEATS
 Ubiquiti
 ucf
 ucr
+UCSD
 Udemy
 udemyfreebies
 UENC
@@ -6412,6 +6422,7 @@ YuGiOhMemes
 yumenikki
 yuna
 yunyun
+yuri_manga
 YUROP
 YuYuHakusho
 zachbryan
