@@ -140,6 +140,7 @@ AEWOfficial
 AFCEastMemeWar
 AFCNorthMemeWar
 AFCSouthMemeWar
+AFCWestMemeWar
 afkarena
 AFL
 AfterTheLoop
@@ -2989,6 +2990,7 @@ IrelandGaming
 irelandsshitedrivers
 IRLEasterEggs
 IronFrontUSA
+ironlung
 ironmaiden
 ironscape
 IronWarriors
@@ -3805,6 +3807,7 @@ MineIslam
 MineralGore
 MineralPorn
 miniatures
+minidisc
 miniminter
 mining
 MiningRig
@@ -4498,6 +4501,7 @@ PGA_Tour_2K
 PhantomForces
 PhasmophobiaGame
 phcareers
+phclassifieds
 PhD
 PHhandsgonewild
 philadelphia
@@ -4560,6 +4564,7 @@ PizzaTower
 PKA
 placeDE
 PlanetOfTheApes
+PlanetZoo
 plantclinic
 PlantedTank
 plants
@@ -5710,6 +5715,7 @@ TheBatmanFilm
 TheBear
 TheBeatles
 TheBidenshitshow
+thebindingofisaac
 thebizzible
 TheBloodline
 TheBoys
