@@ -518,6 +518,7 @@ aves
 avesNYC
 avfc
 aviation
+aviationmaintenance
 avrillavigne
 awesome
 AwesomeCarMods
@@ -1000,6 +1001,7 @@ caps
 capybara
 CaraDelevingne
 carcrash
+cardano
 CardanoMarkets
 CardanoNFTMarketplace
 Career
@@ -1653,6 +1655,7 @@ DetroitPistons
 DetroitRedWings
 deusasbrazil
 deutschememes
+DevelEire
 developersIndia
 DevilMayCry
 devinbrugman
@@ -1894,6 +1897,7 @@ Emiru_Lewd
 EmKay
 EmmaBrooks
 EmmaMyers
+EmmaRoseKenney
 EmmaStone
 EmmaWatson
 Emo
@@ -4752,6 +4756,7 @@ RandomVictorianStuff
 RandoZilla_Uncensored
 rant
 Rants
+RantsFromRetail
 rapbattles
 rareinsults
 rarepuppers
@@ -5224,6 +5229,7 @@ Slitherio
 Slovakia
 Slovenia
 slowcooking
+SlowNewsDay
 SlyGifs
 smallbusiness
 SmartChainCryptos
@@ -5764,6 +5770,7 @@ theydidthemath
 theyknew
 thickfat
 ThickFit
+ThingsCutInHalfPorn
 thinkpad
 thirdsentenceworse
 thisismylifenow
