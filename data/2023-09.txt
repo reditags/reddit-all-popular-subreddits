@@ -383,6 +383,7 @@ ARK
 ARK_Trading
 Arkansas
 arkham
+ArkhamNightmare
 arknights
 ArlecchinoMains
 arma
@@ -432,6 +433,7 @@ AskPhysics
 AskProgramming
 AskReddit
 askscience
+AskShib
 askSingapore
 Asksweddit
 AskThe_Donald
@@ -938,6 +940,7 @@ Bunnies
 burdurland
 burgers
 burlington
+BurlingtonON
 BurningMan
 Bushwick
 Butchery
@@ -1076,8 +1079,10 @@ celebritylegs
 CelebsBootyTreasure
 CelebsInTights
 CelebsPH
+CelebWivesofNashville
 celestegame
 celestememes
+Celiac
 CelineFarach
 cellbits
 cellphones
@@ -1408,6 +1413,7 @@ CryptoMars
 CryptoMarsShots
 CryptoMexico
 CryptoMicroInvestors
+CryptoMinersUnited
 CryptoMoon
 cryptomoongroup
 CryptoMoonInvestors
@@ -1577,6 +1583,7 @@ DeepRockGalactic
 DeepSpaceNine
 Defenders
 defiblockchain
+DeFiChain_Memes
 deficryptos
 deftones
 degoogle
@@ -3029,6 +3036,7 @@ jerma985
 jerseyshore
 jessicaalba
 JetLagTheGame
+jetta
 jeuxvideo
 Jewdank
 jewelry
@@ -3257,6 +3265,7 @@ LateStageImperialism
 LatinoPeopleTwitter
 latterdaysaints
 latvia
+LauraMarano
 LaurenCohan
 law
 LawFirm
@@ -4240,6 +4249,7 @@ oots
 OpenAI
 opendata
 opensea
+OpenseaPromotions
 Opeth
 opossum_irl
 Opossums
@@ -4394,6 +4404,7 @@ PerfectTiming
 Permaculture
 Persecutionfetish
 PERSoNA
+persona3FES
 persona4golden
 Persona5
 PersonalFinanceCanada
@@ -6116,6 +6127,7 @@ Vivziepopmemes
 vlandiya
 VnV
 Vocaloid
+Voi_Net
 void_memes
 VoidCats
 Volksverpetzer
@@ -6363,6 +6375,7 @@ WWE
 WWEGames
 wwiipics
 WWIIplanes
+Xapo
 xbiking
 xbox
 xbox360
