@@ -571,6 +571,7 @@ BadMUAs
 badroommates
 badwomensanatomy
 baeirene
+baguio
 bald
 baldursgate
 BaldursGate3
@@ -2938,6 +2939,7 @@ indianmemer
 IndianMemeTemplates
 IndianMeyMeys
 IndiaNostalgia
+indiansports
 IndianStockMarket
 IndianStreetBets
 IndianTeenagers
@@ -4184,6 +4186,7 @@ nope
 norge
 NormalGirlsOnly
 NormMacdonald
+norsk
 northernireland
 northernlion
 Norway
@@ -4840,6 +4843,7 @@ ralsei
 ram_trucks
 ramen
 Rammstein
+RanbirKapoorUniverse
 rance
 RandomActsofMakeup
 RandomThoughts
