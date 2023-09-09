@@ -1579,6 +1579,7 @@ datealive
 dating
 dating_advice
 datingoverthirty
+Datsun
 davinciresolve
 Dawko
 DaysGone
@@ -2656,6 +2657,7 @@ hearthstone
 HeartstopperAO
 HeartstopperNetflix
 heat
+HeavenlyDelusion
 heavyvinyl
 HEB
 Hedgehog
@@ -3972,6 +3974,7 @@ MyPeopleNeedMe
 myronkoops_
 MySingingMonsters
 MysteriousFacts
+mystery
 MysteryDungeon
 mythologymemes
 n64
@@ -5201,6 +5204,7 @@ ShitpostTC
 ShitpostXIV
 Shitstatistssay
 Shitty_Car_Mods
+shittyaquariums
 Shittyaskflying
 shittybloodborne
 ShittyDaystrom
@@ -6269,6 +6273,7 @@ VyvanLe
 W2S
 WabiToken
 WAGuns
+WagWalker
 wakfu
 Wales
 walkaway
