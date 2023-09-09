@@ -1474,6 +1474,7 @@ cscareerquestions
 cscareerquestionsEU
 csgo
 csMajors
+csuf
 Cubers
 cucina
 cuddleroll
