@@ -100,6 +100,7 @@ ACQR
 AcrossTheSpider_Verse
 ActionFigures
 ActivationSound
+ActiveMeasures
 actu_memes
 actualcourtsnark
 actuallesbians
@@ -1858,6 +1859,7 @@ DungeonsAndDragons
 DunksNotDead
 duolingo
 durham
+dustkitties
 dvdcollection
 dwarffortress
 dyinglight
@@ -2509,6 +2511,7 @@ goodrestrictionfood
 GooglePixel
 goons
 GoosetheBand
+gorillaz
 gorillazcirclejerk
 GoRVing
 GossipGirl
@@ -2992,6 +2995,7 @@ inthenews
 IntoTheSpiderverse
 intresseklubben
 introvert
+introvertmemes
 Intune
 inuyasha
 investing_discussion
@@ -4451,6 +4455,7 @@ paradoxplaza
 Paralives
 Paramore
 Parana
+ParanormalEncounters
 parclco
 PardonMyTake
 Pareidolia
@@ -4544,6 +4549,7 @@ phcareers
 phclassifieds
 PhD
 PHhandsgonewild
+PHikingAndBackpacking
 philadelphia
 Philippines
 phillies
@@ -4636,6 +4642,7 @@ pokememes
 pokemon
 pokemonanime
 pokemoncardcollectors
+pokemoncards
 PokemonCardValue
 PokemonEmerald
 pokemongo
@@ -5041,6 +5048,7 @@ SaintsFC
 SaintsRow
 SakamotoDays
 Salamanders40k
+SALEM
 sales
 salmahayek
 saltierthancrait
