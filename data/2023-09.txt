@@ -298,6 +298,7 @@ AnimatedPixelArt
 animation
 anime_best_moments
 anime_irl
+Anime_Romance
 anime_titties
 animearmor
 AnimeART
@@ -819,6 +820,7 @@ BobDoesSports
 bobdylan
 BobsBurgers
 BobsTavern
+boburnham
 BocaJuniors
 BocchiTheRock
 bodegaboys
@@ -2927,6 +2929,7 @@ ImanVellani
 imax
 ImFinnaGoToHell
 ImperialCombatArts
+ImperialFists
 ImperialKnights
 ImpracticalJokers
 imsorryjon
@@ -3588,6 +3591,7 @@ LowSodiumDestiny
 LowStakesConspiracies
 LPOTL
 lrcast
+LSAT
 LSD
 LTB_iel
 lucario
@@ -4088,6 +4092,7 @@ NCT
 ndp
 nds
 nebelung
+NeckbeardNests
 necoarc
 Necrontyr
 nederlands
@@ -5488,6 +5493,7 @@ SpottedonRightmove
 spreadytoes
 springerspaniel
 SpritzMoon
+SPTarkov
 Spunchbob
 Spyro
 SpyxFamily
@@ -5704,6 +5710,7 @@ TalesFromTheSquadCar
 TalesFromYourBank
 TalesFromYourServer
 talk_hunfluencers
+tall
 tallyhall
 TamannaBhatia
 TamilNadu
@@ -5714,6 +5721,7 @@ tankiejerk
 TankPorn
 tanks
 TargetedShirts
+TarihiSeyler
 TarkovMemes
 tarot
 Tartaria
@@ -6330,6 +6338,7 @@ visualnovels
 vitelabs
 ViviWinkler
 Vivziepopmemes
+vizsla
 vlandiya
 VnV
 Vocaloid
