@@ -441,6 +441,7 @@ AskMen
 AskMenOver30
 AskMiddleEast
 AskOuija
+AskPH
 AskPhotography
 AskPhysics
 AskProgramming
@@ -1067,6 +1068,7 @@ Catnames
 catpics
 catpictures
 cats
+CatsAndPlants
 CatsAreAssholes
 catsarefuckingstupid
 catsareliquid
@@ -1520,6 +1522,7 @@ dailywire
 DaisyRidley
 DakotaKaiWWE
 Dallas
+DallasStars
 dalle
 DamnNatureYouScary
 Damnthatsinteresting
@@ -1769,6 +1772,7 @@ dogemining
 doggrooming
 DoggyDNA
 DoglaREDDIT
+dogmemes
 dogpictures
 DogsAndPlants
 DogsMirin
@@ -3846,6 +3850,7 @@ minnesotatwins
 minnesotavikings
 Minoxbeards
 MintCoin
+Mipha
 MirandaCosgrove
 Mirrorsforsale
 Misato
@@ -4336,6 +4341,7 @@ OnlineUnderGround
 OnlyFaces
 OnlyMurdersHulu
 Onmyoji
+OnPatrolLive
 onschain
 ontario
 OntologyNetwork
@@ -4887,6 +4893,7 @@ redneckengineering
 redrising
 Reds
 redsox
+RedvsBlue
 Referral
 regina
 regretfulparents
@@ -5834,6 +5841,7 @@ therewasanattempt
 TheRightCantMeme
 TheSimpsons
 thesims
+thesims4
 thesopranos
 TheStrokes
 theswarm
