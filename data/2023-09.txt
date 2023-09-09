@@ -3595,6 +3595,7 @@ LSAT
 LSD
 LTB_iel
 lucario
+luckystar
 LudwigAhgren
 LuftRaum
 luigi_irl
@@ -3660,6 +3661,7 @@ MakeMeSuffer
 MakeMeSufferMore
 MakeNewFriendsHere
 MakeupAddiction
+MakeupLounge
 makeyourchoice
 makinghiphop
 MaladaptiveDreaming
@@ -4646,6 +4648,7 @@ PiratedGames
 Piratefolk
 PirateKitties
 PiratePets
+pisca
 pisscommenting
 pitbulls
 pitbulls_in_partyhats
@@ -6570,6 +6573,7 @@ worldnewsvideo
 WorldofDankmemes
 worldofgothic
 WorldofTanks
+WorldOfTShirts
 WorldOfWarships
 WorldWar2
 WormMemes
