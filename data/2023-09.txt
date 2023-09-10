@@ -443,6 +443,7 @@ AskFrance
 AskHistorians
 AskHR
 askhungary
+AskIreland
 AskLosAngeles
 askmath
 AskMec
@@ -4960,6 +4961,7 @@ ratterriers
 Ravencoin
 ravens
 rawdenim
+Rayman
 razer
 RBI
 RCB
@@ -5113,6 +5115,7 @@ rugbyunion
 runefactory
 runescape
 running
+RunningCirclejerk
 runningman
 RunNYC
 rupaulsdragrace
