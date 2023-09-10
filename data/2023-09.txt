@@ -2417,6 +2417,7 @@ gamemaker
 gameofthrones
 GamePhysics
 gamernews
+gamersupps
 gamesEcultura
 Gamestopstock
 GameTheorists
@@ -2876,6 +2877,7 @@ iamverybadass
 iamveryculinary
 iamverysmart
 IASIP
+iastate
 IBEW
 ibs
 ICanDrawThat
@@ -4860,6 +4862,7 @@ PUBATTLEGROUNDS
 PUBGvideos
 PublicFreakout
 publix
+PuertoRico
 pukicho
 pune
 PunishingGrayRaven
@@ -5284,6 +5287,7 @@ Shardus
 Shark_Park
 sharks
 sharktank
+sharpei
 SheGotHands
 sheltie
 ShenheMains
@@ -5393,6 +5397,7 @@ SkilahBlueHotell
 Skincare_Addiction
 SkincareAddicts
 Skookum
+skoolies
 skrillex
 skulduggerypleasant
 SkyChildrenOfLight
@@ -5960,6 +5965,7 @@ thewalkingdead
 TheWalkingDeadGame
 TheWayWeWere
 TheWeeknd
+thewestwing
 TheWhyFiles
 thewitcher3
 theworldnews
@@ -6458,6 +6464,7 @@ webdev
 Webkinz
 webtoons
 wec
+WECcirclejerk
 wedding
 Weddingattireapproval
 weddingdrama
