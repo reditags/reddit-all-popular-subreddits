@@ -2067,6 +2067,7 @@ EtherDelta
 etherscan
 EthGamers
 ethnomusicology
+ethoslab
 ethtrader
 ethz
 EtikaRedditNetwork
@@ -2495,6 +2496,7 @@ gaymers
 GayRateMe
 GaySoundsShitposts
 GCSE
+GearsOfWar
 gekte
 geldzaken
 GenderAnarchy
@@ -4166,9 +4168,11 @@ NameNerdCirclejerk
 namenerds
 namesoundalikes
 namethatcar
+NanashiMumei
 NanatsunoTaizai
 NANIKPosting
 NarakaBladePoint
+NarcoFootage
 Naruto
 narutomemes
 nasa
