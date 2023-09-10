@@ -777,6 +777,7 @@ BitMartExchange
 Bitvavo
 Bixbyroutines
 bizarrelife
+blackbutler
 BlackCat
 blackcats
 Blackcelebrity
@@ -2192,6 +2193,7 @@ FilthyFrank
 FinalFantasy
 FinalFantasyVII
 FinalFantasyXII
+finance
 financestudents
 FinancialCareers
 financialindependence
@@ -2563,6 +2565,7 @@ gorillaz
 gorillazcirclejerk
 GoRVing
 GossipGirl
+goth
 GothamKnights
 GothBoiClique
 Gothenburg
@@ -3066,6 +3069,7 @@ Ioniq5
 ios
 IOStoken
 Iowa
+ipad
 iPadOS
 ipfs
 iphone
@@ -5760,6 +5764,7 @@ TacticalIssueCat
 Taiwanese
 Takagi_san
 TakaMori
+tales
 TalesFromRetail
 talesfromtechsupport
 TalesFromTheFrontDesk
