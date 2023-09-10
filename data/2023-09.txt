@@ -1,4 +1,5 @@
 0xProject
+100gecs
 100Kanojo
 13or30
 1911
@@ -376,6 +377,7 @@ ArAutos
 arborists
 arcane
 Archaeology
+archeologyworld
 ArcherFX
 Archery
 ArchitecturalRevival
@@ -950,6 +952,7 @@ Btechtards
 bts7
 BTTCOINCOMMUNITY
 budapest
+Buddhism
 budgetfood
 budgies
 BuenosAires
@@ -1086,6 +1089,7 @@ CatsAndPlants
 CatsAreAssholes
 catsarefuckingstupid
 catsareliquid
+CatsAreMuslim
 CatsBeingCats
 CatsCalledFood
 catscarryingstuffies
@@ -1568,6 +1572,7 @@ dankmemer
 dankmemes
 DankMemesFromSite19
 DankMemesYLYL
+DankPrecolumbianMemes
 dankrishu
 dankruto
 dankvideos
@@ -1864,6 +1869,7 @@ drumcorps
 drumkitsleaks
 drums
 dualipa
+Dualsport
 dubai
 Dublin
 Ducati
@@ -2314,6 +2320,7 @@ FreyaAllan
 FridayNightFunkin
 FridgeDetective
 friendlyjordies
+fringe
 frogdogs
 frogs
 Fromis
@@ -4506,6 +4513,7 @@ panthers
 Papaplatte
 paperearmate
 papermario
+papersplease
 papertowns
 ParadoxExtra
 paradoxplaza
@@ -5195,6 +5203,7 @@ SeaMonkeys
 seaofstars
 Seaofthieves
 Seattle
+SeattleKraken
 SeattleWA
 SecretHitler
 Seiko
