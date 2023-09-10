@@ -1344,6 +1344,7 @@ Colts
 Columbus
 CombatFootage
 combinedgifs
+Comcast_Xfinity
 comedy
 comedyamputation
 ComedyCemetery
@@ -2293,6 +2294,7 @@ food
 foodbutforbabies
 Foodforthought
 foodhacks
+FoodieCutie
 FoodLosAngeles
 FoodNYC
 FoodPorn
@@ -3793,6 +3795,7 @@ Mariners
 Mario
 marioandluigi
 mariokart
+MarioKart8Deluxe
 MarioRPG
 marketpredictors
 Markiplier
@@ -4201,6 +4204,7 @@ nds
 nebelung
 NeckbeardNests
 necoarc
+necromunda
 Necrontyr
 nederlands
 NederlandseMemes
@@ -4909,6 +4913,7 @@ PrettyLittleLiars
 PrettyOlderWomen
 Priconne
 PrideAndPinion
+prime
 PrimeiraLiga
 PrincessesOfPower
 PrintedMinis
@@ -5476,6 +5481,7 @@ Sienna_Mae_Gomez
 Sigmatopia
 signalis
 SigSauer
+Sikh
 sikkim
 silenthill
 SiliconValleyHBO
@@ -6549,6 +6555,7 @@ W2S
 WabiToken
 WAGuns
 WagWalker
+WaifuPolls
 wakfu
 Wales
 walkaway
@@ -6728,6 +6735,7 @@ wisconsin
 Wiseposting
 witcher
 Witcher3
+WitcherMemes
 WitchesVsPatriarchy
 Wizard101
 wizardposting
