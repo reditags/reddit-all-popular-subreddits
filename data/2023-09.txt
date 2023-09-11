@@ -1208,6 +1208,7 @@ Chainsawfolk
 ChainsawMan
 chainsawmancirclejerk
 Championship
+ChampionshipHistory
 championsleague
 Chandigarh
 ChandlersWildLife
@@ -1974,6 +1975,7 @@ EA_NHL
 Earnabletoken
 earthbound
 EarthPorn
+Earwolf
 EASportsFC
 EASportsUFC
 EASPORTSWRC
@@ -2825,6 +2827,7 @@ HeavenlyDelusion
 heavyvinyl
 HEB
 Hedgehog
+heels
 HeimerdingerMains
 Helicopters
 HelioMoney
@@ -4584,6 +4587,7 @@ OliviaMunn
 OliviaRodrigo
 OliviaRodrigo_
 OliviaRodrigoHD
+oliviawilde
 olkb
 olympia
 OmegaStrikers
@@ -5088,6 +5092,7 @@ Punny
 PunPatrol
 puns
 puppies
+puppy101
 PuppySmiles
 Purdue
 purrkour
@@ -5736,6 +5741,7 @@ SoulKnight
 sousvide
 southcarolina
 SouthDakota
+Southerncharm
 SouthwestAirlines
 SoyUnIdiota
 space
