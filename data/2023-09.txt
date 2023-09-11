@@ -5145,6 +5145,7 @@ religiousfruitcake
 reloading
 remnantgame
 RemoteJobs
+renfaire
 Reno
 Renovations
 rentnerzeigenaufdinge
@@ -6320,6 +6321,7 @@ trolleyproblem
 TronMTG
 TronScript
 Trophies
+troutfishing
 TruckerCats
 Truckers
 trucksim
