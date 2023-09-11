@@ -234,6 +234,7 @@ AlturaNFT
 AlzheimersGroup
 Alzwards_Corner
 AMA
+AmandaHolden
 amandatheadventurer
 amateurradio
 AmateurRoomPorn
@@ -645,6 +646,7 @@ batman
 BatmanArkham
 BATProject
 BattleBitRemastered
+BattleBrothers
 battlecats
 Battlefield
 battlefield2042
@@ -2075,6 +2077,7 @@ Eredivisie
 erinwilliams_
 es
 EscapefromTarkov
+esHistoria
 esist
 Espana
 espresso
@@ -3908,6 +3911,7 @@ MeatCanyon
 meatcrayon
 mechanic
 MechanicAdvice
+mechanical_gifs
 MechanicalKeyboards
 Mechwarrior5
 MECoOp
@@ -5573,6 +5577,7 @@ Silverbugs
 SilverDegenClub
 silverhair
 SilverWolfMains
+SimonWhistler
 simplynailogical
 Simpsons
 simpsonsshitposting
@@ -5886,6 +5891,7 @@ SuddenlyGay
 SuddenlyLesbian
 suggestmeabook
 suicidebywords
+suisjeletroudeballe
 suit_club
 suits
 summerhousebravo
@@ -5960,6 +5966,7 @@ Taiwanese
 Takagi_san
 TakaMori
 tales
+TalesFromDF
 TalesFromRetail
 talesfromtechsupport
 TalesFromTheFrontDesk
@@ -6229,6 +6236,7 @@ tiktokgossip
 TILI
 timberwolves
 TimHortons
+timisoara
 TimPool
 TimTheTatMan
 Tinder
@@ -6635,6 +6643,7 @@ Voi_Net
 void_memes
 VoidCats
 Volksverpetzer
+Volkswagen
 VolleyballGirls
 Volumeeating
 Volvo
