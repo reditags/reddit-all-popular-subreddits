@@ -468,6 +468,7 @@ AskHistorians
 AskHR
 askhungary
 AskIreland
+askjapan
 AskLosAngeles
 askmath
 AskMec
@@ -2392,6 +2393,7 @@ Foofighters
 football
 footballmanagergames
 foraging
+ForAllMankindTV
 forbiddensnacks
 Ford
 FordMaverickTruck
@@ -3756,6 +3758,7 @@ logodesign
 LoLFanArt
 Lollapalooza
 london
+londoncycling
 londonontario
 LondonUnderground
 lonely
