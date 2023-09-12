@@ -269,6 +269,7 @@ Amigurumi
 AmIHotSFW
 AmITheAngel
 AmItheAsshole
+AmITheBadApple
 AmItheButtface
 AmItheCloaca
 AmItheEx
@@ -383,9 +384,12 @@ apexuniversity
 aphextwin
 AppalachianTrail
 apple
+applehelp
+applemaps
 AppleMusic
 applestorequeenv2
 AppleWatch
+AppleWatchFitness
 ApplyingToCollege
 AppValley
 APStudents
@@ -3393,6 +3397,7 @@ JoeBuddenPodcasts
 JoeRogan
 JohnWick
 joinsquad
+Jojo
 JoJoMemes
 joker
 Jokes
@@ -5196,6 +5201,7 @@ pyrocynical
 PythonJobs
 QAnonCasualties
 Qdpay
+QiyanaMains
 qnap
 QNT
 qotsa
@@ -6012,6 +6018,7 @@ streetlightmanifesto
 StreetMartialArts
 streetwearstartup
 StreetWomanFighter
+Stremio
 stremtch
 strength_training
 StructuralEngineering
@@ -6583,6 +6590,7 @@ turo
 turtle
 turtles
 TuxedoCats
+tvPlus
 TVTooHigh
 twicemedia
 twicememes
