@@ -1106,6 +1106,7 @@ CapitolConsequences
 caps
 capybara
 CaraDelevingne
+carbonsteel
 carcrash
 cardano
 CardanoMarkets
@@ -3572,6 +3573,7 @@ KumaInu
 KumoDesu
 kurtisconner
 Kurumi
+kurzgesagt
 KusanaliMains
 kutautos
 kuttichevuru
@@ -4558,6 +4560,7 @@ notmycat
 NotMyJob
 notredamefootball
 nottheonion
+NotTimAndEric
 nova
 noveltranslations
 NovoNoReddit
@@ -5249,6 +5252,7 @@ RandomActsofMakeup
 RandomThoughts
 RandomVictorianStuff
 RandoZilla_Uncensored
+rangers
 rant
 Rants
 RantsFromRetail
