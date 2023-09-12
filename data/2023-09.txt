@@ -385,6 +385,7 @@ ApexOutlands
 ApexUncovered
 apexuniversity
 aphextwin
+apolloapp
 AppalachianTrail
 apple
 applehelp
@@ -2675,6 +2676,7 @@ ginacarano
 gingercats
 GingerMafia
 Gintama
+girls
 girlsfrontline
 GirlsLastTour
 GirlsMirin
@@ -3937,6 +3939,7 @@ MakeupLounge
 makeyourchoice
 makinghiphop
 MaladaptiveDreaming
+malamute
 MalayalamMovies
 malaysia
 malehairadvice
@@ -4705,6 +4708,7 @@ OmegaWatches
 OMG_Hotties
 OmniscientReader
 OMORI
+Omorimemes
 omww21
 OneBlackBraincell
 onednd
@@ -5473,6 +5477,7 @@ RWBYcritics
 ryujin
 RyuuLion
 RyzeMains
+saab
 SaaS
 Sabah
 sabaton
@@ -5976,6 +5981,7 @@ StarWarsBattlefront
 starwarsblackseries
 starwarsbooks
 StarWarsCantina
+StarWarsCirclejerk
 StarWarsEmpireAtWar
 StarWarsEU
 StarWarsJediSurvivor
