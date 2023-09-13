@@ -628,6 +628,7 @@ BadMensAnatomy
 badMovies
 BadMtgCombos
 BadMUAs
+BadReads
 badroommates
 badwomensanatomy
 baeirene
@@ -1380,6 +1381,7 @@ cluj
 CMHAirfareDeals
 cocaine
 cockatiel
+cockerspaniel
 cocktails
 CoDCompetitive
 code
@@ -2415,6 +2417,7 @@ foodhacks
 FoodieCutie
 FoodieSnark
 FoodLosAngeles
+foodnetwork
 FoodNYC
 FoodPorn
 foodscam
@@ -2459,6 +2462,7 @@ FoundTheInaAlt
 fountainpens
 fourthwavewomen
 foxes
+FoxFiction
 foxholegame
 FPGA
 fpv
@@ -3411,6 +3415,7 @@ jobs
 JoeBiden
 JoeBuddenPodcasts
 JoeRogan
+JohnMulaney
 JohnWick
 joinsquad
 Jojo
@@ -4474,6 +4479,7 @@ NFA
 NFCEastMemeWar
 NFCNorthMemeWar
 NFCWestMemeWar
+nflcirclejerk
 NFTArt_Finance
 nftdawn
 NFTDeepValue
@@ -5878,6 +5884,7 @@ southcarolina
 SouthDakota
 Southerncharm
 SouthwestAirlines
+SovietWomble
 SoyUnIdiota
 space
 SpaceCannibalism
