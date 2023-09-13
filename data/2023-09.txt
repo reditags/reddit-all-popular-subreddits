@@ -550,6 +550,7 @@ ausjdocs
 auslaw
 AusLegal
 AusMemes
+AusProperty
 AusPropertyChat
 AusRenovation
 AussieFrugal
