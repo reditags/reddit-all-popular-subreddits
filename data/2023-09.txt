@@ -4072,6 +4072,7 @@ mechanic
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
+MechanicalPandey
 Mechwarrior5
 MECoOp
 MedicalCannabisOz
@@ -5134,6 +5135,7 @@ ponds
 PooCoin
 poodles
 POODLTOKEN
+PoojaHegde
 pools
 poor
 popculturechat
@@ -6609,6 +6611,7 @@ TrishaKrishnanSA
 TrishStratus
 TrollCoping
 trolleyproblem
+TrollYChromosome
 Tronix
 TronMTG
 TronScript
