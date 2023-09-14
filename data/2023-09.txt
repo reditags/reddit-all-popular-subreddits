@@ -418,6 +418,7 @@ arcane
 Archaeology
 archeologyworld
 ArcherFX
+Archero
 Archery
 ArchitecturalRevival
 architecture
@@ -1397,6 +1398,7 @@ ClevelandGuardians
 clevercomebacks
 climate
 climatechange
+ClimateOffensive
 ClimateShitposting
 climateskeptics
 climbing
@@ -1646,6 +1648,7 @@ csakcsajok
 cscareerquestions
 cscareerquestionsEU
 csgo
+csharp
 CSHFans
 csMajors
 csuf
@@ -1689,6 +1692,7 @@ czech
 czechmemes
 czechrepublic
 CZFirearms
+d100
 Dachshund
 dachshunds
 dadjokes
@@ -1743,6 +1747,7 @@ dapps
 DarceyAndStaceyTLC
 Daredevil
 daria
+DarkAcademia
 DarkAndDarker
 DarkAngels40k
 DarkBRANDON
@@ -1963,6 +1968,7 @@ DoctorWhumour
 Documentaries
 Dodge
 DodgeRam
+Dodocodes
 doener
 DOG
 DogAdvice
@@ -2820,6 +2826,7 @@ gratefuldoe
 gravelcycling
 gravityfalls
 graz
+GRE
 GreatBritishMemes
 greatdanes
 GreatnessOfWrestling
@@ -5942,6 +5949,7 @@ smallbusiness
 smalllebowsky
 SmartChainCryptos
 smartcontracts
+smarthome
 smashbros
 SmashBrosUltimate
 SmashingPumpkins
@@ -6952,6 +6960,7 @@ VeniceSwap
 Vent
 venturebros
 vericoin
+verizon
 Vermintide
 vermont
 Veterans
@@ -7134,6 +7143,7 @@ WestVirginia
 WetlanderHumor
 WeWantPlates
 WFH
+WGU
 whales
 What_JustHappened
 whatbugisthis
