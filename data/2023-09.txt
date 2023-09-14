@@ -272,6 +272,7 @@ americandad
 americangirl
 AmericanHorrorStory
 amex
+AmexPlatinum
 AMG
 amibeingdetained
 Amigurumi
@@ -6965,6 +6966,7 @@ vintageads
 vintageaudio
 VintageFashion
 vintagejapaneseautos
+VintageTees
 VintageToys
 VintageTV
 vinted
@@ -7237,6 +7239,7 @@ worldnews
 worldnewsvideo
 WorldofDankmemes
 worldofgothic
+worldofpvp
 WorldofTanks
 WorldOfTShirts
 WorldOfWarships
