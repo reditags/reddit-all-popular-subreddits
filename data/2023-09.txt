@@ -4034,6 +4034,7 @@ Livros
 LobotomyCorp
 LocalLLaMA
 LockdownSkepticism
+locs
 LodedDiper
 LoganPaul
 logodesign
@@ -6615,6 +6616,7 @@ telescopes
 televisionsuggestions
 TELOS
 TempleofMarianne
+tenkaichi4
 Tennessee
 Tennesseetitans
 tennis
@@ -7223,6 +7225,7 @@ VeVeCollectables
 vexillology
 vexillologycirclejerk
 veYakinEvren
+vfx
 VHS
 victoria2
 victoria3
@@ -7412,6 +7415,7 @@ whatcouldgoright
 Whatcouldgowrong
 Whatifalthist
 whatisit
+whatismycookiecutter
 whatisthisbone
 whatisthisbug
 whatisthiscar
