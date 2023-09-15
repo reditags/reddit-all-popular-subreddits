@@ -712,6 +712,7 @@ BassGuitar
 bathandbodyworks
 batman
 BatmanArkham
+batonrouge
 BATProject
 BattleBitRemastered
 BattleBrothers
@@ -1999,6 +2000,7 @@ DisneyDiamonds
 DisneyEyes
 Disneyland
 disneylandparis
+DisneyPlus
 disneyvacation
 DisneyWorld
 distractible
@@ -2640,6 +2642,7 @@ FreyaAllan
 FridayNightFunkin
 FridgeDetective
 friendlyjordies
+Frieren
 fringe
 FringeTheory
 frogdogs
