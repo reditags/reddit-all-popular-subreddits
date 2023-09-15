@@ -853,6 +853,7 @@ bitchimabus
 BitchImATrain
 Bitcoin_News
 BitcoinBanana
+BitcoinBeginners
 bitcoincashSV
 BitcoinClassicToken
 BitcoinDiscussion
@@ -1066,6 +1067,7 @@ BryceDallasHoward
 BSCIDOLAUNCHER
 BSCListings
 BSCMoonShots
+btc
 BtcTurk
 btd6
 Btechtards
@@ -3978,6 +3980,7 @@ lisboa
 liseliler
 LISKiller
 litecoin
+LitecoinMarkets
 literaciafinanceira
 lithuania
 litrpg
