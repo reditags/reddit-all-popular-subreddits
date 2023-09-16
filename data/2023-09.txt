@@ -3250,6 +3250,7 @@ HRSPRS
 hrvatska
 httyd
 HUEstation
+HumanBeingBros
 HumanForScale
 Humanoidencounters
 HumansAreMetal
@@ -4891,6 +4892,7 @@ notthebeaverton
 nottheonion
 NotTimAndEric
 nova
+NovaScotia
 noveltranslations
 NovoNoReddit
 nowmycat
