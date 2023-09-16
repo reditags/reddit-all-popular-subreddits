@@ -105,6 +105,7 @@ accord
 Accounting
 AceAttorney
 acecombat
+Achievement_Hunter
 AchillesAndHisPal
 ACMilan
 acnh
@@ -5301,6 +5302,7 @@ PetTheDamnCat
 PetTheDamnDog
 pettyrevenge
 PewdiepieSubmissions
+peyote
 PeytonCoffee_2
 PeytonList
 PferdeSindKacke
@@ -6687,6 +6689,7 @@ TelegramBots
 telescopes
 televisionsuggestions
 TELOS
+telus
 TempleofMarianne
 tenkaichi4
 Tennessee
