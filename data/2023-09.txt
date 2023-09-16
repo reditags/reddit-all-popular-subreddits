@@ -739,6 +739,7 @@ bavaria
 bayarea
 BayernMunich
 Bayonetta
+bbaasho
 BBBY
 BBIG
 BBODResearch
@@ -873,6 +874,7 @@ BitcoinBeginners
 bitcoincashSV
 BitcoinClassicToken
 BitcoinDiscussion
+BitcoinGambling
 BitcoinGoldHQ
 BitcoinIndia
 BitcoinMining
@@ -881,6 +883,7 @@ BitcoinPrivate
 BitcoinSerious
 BitcoinStocks
 bitcoinsv
+BitcoinTechnology
 bitcointrading
 BitcoinzTech
 BitgetReddit
@@ -1006,6 +1009,7 @@ Botchedsurgeries
 botecodoreddit
 BotezHub
 bottlebrush
+BottleDigging
 botw
 boulder
 bouldering
@@ -1468,6 +1472,7 @@ clonewars
 CloneWarsMemes
 clorindemains
 CLOUDS
+CloverFinance
 cluj
 CMHAirfareDeals
 cocaine
@@ -2316,6 +2321,7 @@ esterexposito
 Esthetics
 ESTILOZAP
 estoration
+ETFs
 eth_liquidity_scam
 ethdev
 Ethelcain
@@ -2500,6 +2506,7 @@ FightLibrary
 fightporn
 fightsticks
 FigureSkating
+filecoin
 filipinofood
 FilipinoHistory
 FilmClubPH
@@ -4788,6 +4795,7 @@ NFCNorthMemeWar
 NFCWestMemeWar
 nflalldayNFT
 nflcirclejerk
+NFT_Gaming_News
 NFTArt_Finance
 NFTCollect
 nftdawn
@@ -6965,6 +6973,7 @@ TorontoDriving
 torontoJobs
 torontoraptors
 TorontoRealEstate
+tortico
 torties
 Totaldrama
 TotalKalesh
@@ -7664,6 +7673,7 @@ YarnAddicts
 Yatirim
 yayfoxxo
 ycombinator
+yearn_finance
 yeat_
 Yeen_irl
 yeezys
