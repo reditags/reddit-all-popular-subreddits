@@ -2052,6 +2052,7 @@ DnB
 DnD
 DnDart
 DnDcirclejerk
+DnDHomebrew
 DnDIY
 dndmaps
 dndnext
@@ -3088,6 +3089,7 @@ hardcoreaww
 HardcoreNature
 hardimages
 hardstyle
+Hardtailgang
 hardware
 hardwaregore
 Harley
