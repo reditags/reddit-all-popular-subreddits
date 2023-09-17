@@ -2962,6 +2962,7 @@ GothStyle
 gottagetagrip
 Gouache
 GR86
+GraceCarolineCurreyy
 GraceCFulton
 GradSchool
 Graffiti
@@ -6362,6 +6363,7 @@ sphynx
 SpiceandWolf
 spicy
 SpicyKittens
+spicypillows
 spiderbro
 SpiderGwen
 Spiderman
@@ -7120,6 +7122,7 @@ Turkey
 TurkeyJerky
 TurkeyMeta
 turkish
+turkish_celeb
 TurkishCats
 TurkishCeleb
 Turkiye
