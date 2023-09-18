@@ -4250,6 +4250,7 @@ Madrid
 Mafia
 MAGANAZI
 MagicArena
+MagicCardPulls
 MagicEye
 magicTCG
 magicthecirclejerking
@@ -5102,6 +5103,7 @@ OldWorldBlues
 OlgaKatysheva
 oliver
 oliviadunne
+OliviaHolt
 OliviaMunn
 OliviaRodrigo
 OliviaRodrigo_
@@ -7240,6 +7242,7 @@ UberEATS
 Ubiquiti
 UCalgary
 ucf
+ucla
 ucr
 UCSD
 Udemy
