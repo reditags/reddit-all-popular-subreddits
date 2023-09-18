@@ -462,6 +462,7 @@ Argnime
 ArianaGrande
 arielwinter
 ariheads
+Aritzia
 arizona
 arizonapolitics
 ARK
@@ -2439,6 +2440,7 @@ eyebombing
 f150
 F1FeederSeries
 F1Game
+F1Manager
 F1NN5TER
 F1Porn
 F1Technical
@@ -3087,6 +3089,7 @@ Gunpla
 gunpolitics
 GunPorn
 guns
+GunsNRoses
 gurgaon
 GuysBeingDudes
 GwenMains
@@ -5680,6 +5683,7 @@ PSLF
 PSO2NGS
 PSP
 PSVR
+psx
 psych
 psychedelicrock
 psychology
