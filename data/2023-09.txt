@@ -273,6 +273,7 @@ amazondealdiscount
 AmazonDiscounts
 AmazonDSPDrivers
 AmazonFC
+AmberMains
 AmberMidthunder
 Amberverse_
 amcirclejerk
@@ -7241,6 +7242,7 @@ uberdrivers
 UberEATS
 Ubiquiti
 UCalgary
+UCDavis
 ucf
 ucla
 ucr
