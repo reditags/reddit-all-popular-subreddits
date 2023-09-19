@@ -2905,6 +2905,7 @@ geography
 geology
 geometrydash
 geopolitics
+GeopoliticsIndia
 GeoPuzzle
 Georgia
 georgiabulldogs
@@ -3593,6 +3594,7 @@ iphone
 iPhone13Mini
 iPhoneography
 iPhoneX
+ipl
 iRacing
 ireland
 IrelandGaming
@@ -4894,6 +4896,7 @@ news
 NewSkaters
 NewsOfTheStupid
 NewsWithJingjing
+NewTubers
 NewVegasMemes
 newworldgame
 newyorkcity
@@ -7466,6 +7469,7 @@ venezuela
 VeniceSwap
 Vent
 venturebros
+veondremitchell
 vericoin
 verizon
 Vermintide
