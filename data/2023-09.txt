@@ -453,6 +453,7 @@ ArchitecturalRevival
 architecture
 ArchitecturePorn
 arcticmonkeys
+Ardor
 arduino
 ArenaBreakoutGlobal
 AreYouGarbagePod
@@ -1581,6 +1582,7 @@ Competitiveoverwatch
 CompetitiveTFT
 compoface
 composting
+Compound
 computers
 computing
 conan
@@ -2075,6 +2077,7 @@ DisneyDiamonds
 DisneyEyes
 Disneyland
 disneylandparis
+disneyparks
 DisneyPlus
 disneyvacation
 DisneyWorld
@@ -3234,6 +3237,7 @@ HeroForgeMinis
 HeroSiege
 herpetology
 HEXcrypto
+heyUK
 HFY
 hi_official
 hicetnunc
@@ -3855,6 +3859,7 @@ Kazumin
 kde
 KDRAMA
 KeanuBeingAwesome
+Keep_Track
 KeepOurNetFree
 KeepWriting
 KeiraKnightley
@@ -6481,6 +6486,7 @@ SophiaDiamondXX
 SOSStock
 SoulblightGravelords
 SoulCalibur
+souleater
 SoulKnight
 SoundersFC
 sousvide
@@ -6631,6 +6637,7 @@ stephenking
 stevenuniverse
 sticknpokes
 StLouis
+stlouisblues
 sto
 stockholm
 StockMarket
@@ -7428,6 +7435,7 @@ UnpopularLoreOlympus
 unpopularopinion
 UnrealEngine5
 UnresolvedMysteries
+UnsentLetters
 UnsolvedMysteries
 unusual_whales
 UnusualVideos
