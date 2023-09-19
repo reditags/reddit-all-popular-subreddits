@@ -1440,6 +1440,7 @@ ChromaProfiles
 ChronicIllness
 ChronicPain
 ChubbyFIRE
+ChuckleSandwich
 chuggaaconroy
 ChurchofChie
 ChurchOfEula
@@ -3898,6 +3899,7 @@ KingVon
 KiraKosarin
 KiraraMains
 Kirby
+kirikomains
 KishuInu
 kiszamolo
 KitchenConfidential
@@ -3957,6 +3959,7 @@ kurzgesagt
 KusanaliMains
 kutautos
 kuttichevuru
+Kuwa_Oracle
 KUWTKsnark
 kwoneunbi
 kybernetwork
@@ -4283,6 +4286,7 @@ lyney
 lynxpointsiamese
 MAAU
 mac
+macbookpro
 macdemarco
 macgaming
 MachineGunKelly
@@ -5661,6 +5665,7 @@ powerrangers
 PowerTV
 powerwashingporn
 Powerwolf
+pozilei
 PPC
 PraiseTheCameraMan
 PregCelebs
@@ -7865,6 +7870,7 @@ Xennials
 Xenoblade_Chronicles
 xertunposting
 XFiles
+xfl
 XGALX
 XiaoMains
 xkcd
