@@ -1778,6 +1778,7 @@ csgo
 csharp
 CSHFans
 csMajors
+CSRRacing2
 csuf
 CSUS
 Cubers
@@ -2438,6 +2439,7 @@ EverythingScience
 evilautism
 evilbuildings
 EvilDead
+EvilDeadTheGame
 EvolveGame
 ewphoria
 ExamHelpers_Tutoring
