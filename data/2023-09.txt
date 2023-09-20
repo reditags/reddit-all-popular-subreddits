@@ -2224,6 +2224,7 @@ Drizzy
 DronedOrc
 drones
 dropout
+dropship
 dropshipping
 Dropshipping_Guide
 DrStone
@@ -7696,6 +7697,7 @@ wappiesinhetwild
 WarAndPeas
 Warframe
 WarframeRunway
+wargame
 wargaming
 Warhammer
 Warhammer30k
