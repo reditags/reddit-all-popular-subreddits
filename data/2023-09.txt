@@ -620,6 +620,7 @@ AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
 AustralianSpiders
+AustralianTeachers
 australianwildlife
 Austria
 austriahungary
@@ -728,6 +729,7 @@ Barcelona
 barexam
 barista
 Barotrauma
+barrie
 Barry
 Barstoolboners2
 barstoolsports
