@@ -527,6 +527,7 @@ AskElectricians
 AskElectronics
 AskFeminists
 AskFrance
+askgaybros
 AskHistorians
 AskHR
 askhungary
@@ -2588,6 +2589,7 @@ FF7Mobile
 FFVIIEverCrisis
 FFVIIRemake
 ffxiv
+ffxivdiscussion
 FFXIVGlamours
 FFXV
 FFXVI
@@ -3121,6 +3123,7 @@ gtaonline
 GTAV
 Guadalajara
 GuardianTales
+Guelph
 GuerrillaGardening
 guessmyage
 GuestPost
@@ -4645,6 +4648,7 @@ MilitaryStories
 Millennials
 MillieBobbyBrown2
 MillyAlcock
+milsurp
 milwaukee
 MilwaukeeTool
 MimiKeene
@@ -4831,6 +4835,7 @@ mycology
 MyEtherWallet
 myfavoritemurder
 Myfitnesspal
+MyHappyMarriage
 MyHeroAcadamia
 mylittlepony
 myog
@@ -7072,6 +7077,7 @@ themarsvolta
 TheMassive
 THEMATRIXAI
 TheMcDojoLife
+TheMonkeysPaw
 TheNational
 thenetherlands
 TheNightFeeling
