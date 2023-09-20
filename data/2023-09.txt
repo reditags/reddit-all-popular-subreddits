@@ -1730,6 +1730,7 @@ CryptidDogs
 cryptids
 Crypto_com
 Crypto_Currency_News
+Crypto_General
 Crypto_Talkers
 CryptoAlgebra
 CryptoArt
@@ -1978,6 +1979,7 @@ deliciouscompliance
 Delightfullychubby
 Dell
 deloitte
+DelphiMurders
 delta
 Deltarune
 DelusionsOfAdequacy
@@ -2798,6 +2800,7 @@ fuckwasps
 fuckxavier
 FUCKYOUINPARTICULAR
 FuckYouKaren
+Fudd_Lore
 fujifilm
 fulhamfc
 FullEpisodesOfSB
@@ -5682,6 +5685,7 @@ pottedcats
 Pottery
 PouchCatatoes
 poutine
+PoutineCrimes
 pouts
 povertyfinance
 povertyfinancecanada
