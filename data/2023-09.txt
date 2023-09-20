@@ -427,6 +427,7 @@ aphextwin
 apolloapp
 AppalachianTrail
 apple
+AppleFitnessPlus
 applehelp
 applemaps
 AppleMusic
