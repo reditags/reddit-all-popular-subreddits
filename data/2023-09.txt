@@ -1226,6 +1226,7 @@ capetown
 capitalism_in_decay
 CapitalismSux
 CapitolConsequences
+CapitolVersicherungAG
 caps
 capybara
 CaraDelevingne
@@ -1289,6 +1290,7 @@ Catmemes
 Catnames
 catpics
 catpictures
+CATpreparation
 cats
 CatsAndPlants
 CatsAreAssholes
@@ -3780,6 +3782,7 @@ jjdandfamily
 jobbit
 JobFair
 jobs
+jobshungary
 JoeBiden
 JoeBuddenPodcasts
 JoeRogan
@@ -7479,6 +7482,7 @@ UnrealEngine5
 UnresolvedMysteries
 UnsentLetters
 UnsolvedMysteries
+unsw
 unusual_whales
 UnusualVideos
 unvaccinated
@@ -7615,6 +7619,7 @@ VoskCoin
 VoteBlue
 VoteDEM
 VoxelGameDev
+vpnhub
 VRchat
 VRoid
 VShojo
@@ -7673,6 +7678,7 @@ WaspHating
 watch_dogs
 watcherentertainment
 Watches
+watchesindia
 Watchexchange
 Watchit_India
 WatchPeopleDieInside
