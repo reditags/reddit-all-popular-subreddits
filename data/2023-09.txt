@@ -1477,6 +1477,7 @@ ChurchOfRyo
 ChurchOfSenko
 churchofskadi
 chutyapa
+chuunibyou
 CICO
 cigars
 cincinnati
@@ -3352,6 +3353,7 @@ HolUp
 Home
 homeassistant
 homeautomation
+Homebuilding
 HomeDecorating
 HomeDepot
 homegym
@@ -4303,6 +4305,7 @@ lostmedia
 lostpause
 lostredditors
 lotr
+LOTR_on_Prime
 lotrmemes
 lotro
 Lotuseaters_com
@@ -6354,6 +6357,7 @@ Shantae
 Shardus
 shareyourmusic
 Shark_Park
+SharkLab
 sharks
 sharktank
 sharpei
@@ -6739,6 +6743,7 @@ stevenuniverse
 sticknpokes
 StLouis
 stlouisblues
+stlouiscitysc
 sto
 stockholm
 StockMarket
