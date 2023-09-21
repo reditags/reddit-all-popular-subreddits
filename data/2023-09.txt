@@ -2174,6 +2174,7 @@ DoneDirtCheap
 donkeykong
 dontdeadopeninside
 dontflinch
+donthelpjustfilm
 dontputyourdickinthat
 dontyouknowwhoiam
 DonutMedia
@@ -3197,6 +3198,7 @@ halodripfinite
 haloinfinite
 HaloMemes
 HaloStory
+halsey
 HalstonSage
 Hamilton
 hammer
@@ -4245,6 +4247,7 @@ LiveFromNewYork
 LiverpoolFC
 LivestreamFail
 Livros
+lizgillies
 LobotomyCorp
 LocalLLaMA
 LockdownSkepticism
@@ -4641,6 +4644,7 @@ Michigan
 MichiganWolverines
 microblading
 microgrowery
+MicromobilityNYC
 MicroPorn
 MicrosoftFlightSim
 MicrosoftFlow
@@ -4737,6 +4741,7 @@ modeltrains
 Modern_Family
 ModernMagic
 modernwarfare
+modernwarfare2
 ModernWarfareII
 ModernWarfareIII
 moedred
@@ -5841,6 +5846,7 @@ PuppySmiles
 Purdue
 PurplePillDebate
 purrkour
+purrrfect
 pusheen
 pussypassdenied
 puzzles
@@ -6170,6 +6176,7 @@ Salamanders40k
 SALEM
 sales
 salmahayek
+SalsaSnobs
 saltierthancrait
 saltierthankrayt
 SaltLakeCity
@@ -7376,6 +7383,7 @@ trueratecelebrities
 truerateme
 TrueReddit
 TrueSTL
+TrueSwifties
 TrueUnpopularOpinion
 trump
 Trumpgret
@@ -7528,6 +7536,7 @@ Unity3D
 UniUK
 UniversalOrlando
 universityofauckland
+UniversityOfHouston
 unOrdinary
 Unorthodog
 UnpopularLoreOlympus
