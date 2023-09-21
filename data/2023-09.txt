@@ -534,6 +534,7 @@ AskFeminists
 AskFrance
 askgaybros
 AskHistorians
+AskHistory
 AskHR
 askhungary
 AskIreland
@@ -3419,6 +3420,7 @@ HQMC
 HRSPRS
 hrvatska
 httyd
+hu
 HUEstation
 HumanBeingBros
 HumanForScale
@@ -4498,6 +4500,7 @@ MarvelStudios_Rumours
 Marxism_Memes
 MaryElizabethWinstead
 maryland
+marymouser_
 MASFandom
 mash
 massachusetts
