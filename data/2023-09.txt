@@ -2915,6 +2915,7 @@ galatasaray
 galaxys10
 GalaxysEdge
 GalaxyWatch
+galaxyzflip
 GalGadot
 GamblingAddiction
 Gameboy
@@ -3821,6 +3822,7 @@ jedicouncilofelrond
 JEE
 JEENEETards
 Jeep
+JeepWrangler
 JeffArcuri
 JeilaDizon
 jellybeantoes
@@ -4786,6 +4788,7 @@ MkeBucks
 mlb
 MLBTheShow
 mlem
+MLPLounge
 MLQuestions
 MLS
 MMA
