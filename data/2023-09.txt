@@ -442,6 +442,7 @@ applehelp
 applemaps
 AppleMusic
 applestorequeenv2
+appletv
 AppleWatch
 AppleWatchFitness
 ApplyingToCollege
