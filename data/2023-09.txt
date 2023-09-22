@@ -616,6 +616,7 @@ AudioBookBay
 audiodrama
 Augur
 AujourdhuiJaiAppris
+ausents
 AusFemaleFashion
 AusFinance
 ausjdocs
@@ -3384,6 +3385,7 @@ hogefinance
 hoggit
 hoi4
 HOI4memes
+Holden
 holdmycatnip
 holdmycosmo
 holdmyfeedingtube
