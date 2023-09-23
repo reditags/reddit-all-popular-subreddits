@@ -1225,6 +1225,7 @@ CalamityMod
 CalebHammer
 Calgary
 CalgaryFlames
+CaliBanging
 CalicoKittys
 California
 California_Politics
@@ -1840,6 +1841,7 @@ CSHFans
 csMajors
 CSRRacing2
 csuf
+CSULB
 CSUS
 Cubers
 cucina
@@ -3147,6 +3149,7 @@ Gothenburg
 GothFashion
 GothGirls
 gothmakeup
+gothmemes
 GothStyle
 gottagetagrip
 Gouache
@@ -4054,6 +4057,7 @@ KingdomHearts
 KingkillerChronicle
 KingOfTheHill
 kings
+KingstonOntario
 KingVon
 KiraKosarin
 KiraraMains
@@ -4771,6 +4775,7 @@ mildlyevangelion
 mildlyinfuriating
 mildlyinteresting
 mildlypenis
+mildlyterrifying
 MildlyVandalised
 MilitaryARClones
 MilitaryPorn
@@ -6000,6 +6005,7 @@ QuotesPorn
 R6ProLeague
 Rabbits
 RabiscosBr
+Raccoons
 RachelPizzolato
 RachelRiley
 RachelZegler
