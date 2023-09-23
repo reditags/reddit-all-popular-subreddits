@@ -431,6 +431,7 @@ AO3
 aoe2
 aoe4
 apexlegends
+ApexLore
 ApexOutlands
 ApexUncovered
 apexuniversity
