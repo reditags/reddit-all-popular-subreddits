@@ -272,6 +272,7 @@ AlternateAngles
 AlternateHistory
 alternativefashion
 AlternativeHistory
+AltFashion
 AltStreetBets
 AlturaNFT
 AlzheimersGroup
@@ -1175,6 +1176,7 @@ buffalobills
 BuffaloWildWings
 buffy
 bugidentification
+buhaydigital
 buildabear
 buildapc
 buildapcsales
@@ -2833,6 +2835,7 @@ framework
 france
 FrankOcean
 Frasier
+Frat
 FreckledGirls
 Free_Paypal_Money
 freebsd
