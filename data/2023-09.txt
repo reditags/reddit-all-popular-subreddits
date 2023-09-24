@@ -512,6 +512,7 @@ ArmchairExpert
 armenia
 armordecor
 armoredcore
+ArmoredCoreVI
 army
 aromantic
 AroundTheNFL
@@ -2259,6 +2260,7 @@ donthelpjustfilm
 dontputyourdickinthat
 dontyouknowwhoiam
 DonutMedia
+doodles
 doodoofard
 Doom
 doommetal
