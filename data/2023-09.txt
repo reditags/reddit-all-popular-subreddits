@@ -3042,6 +3042,7 @@ GBO2
 GCSE
 gdansk
 GearsOfWar
+geckos
 GeForceNOW
 gekte
 geldzaken
