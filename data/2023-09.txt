@@ -6685,6 +6685,7 @@ shittymcsuggestions
 shittymobilegameads
 shittymoviedetails
 shittyrainbow6
+shittyreactiongifs
 shittyrobots
 shittyskylines
 shittysuperpowers
@@ -7076,6 +7077,7 @@ stremtch
 strength_training
 StructuralEngineering
 StudentLoans
+Students_AcademicHelp
 studentsph
 Studium
 StudyInTheNetherlands
@@ -8052,6 +8054,7 @@ wanchain
 wankil
 wappiesinhetwild
 WarAndPeas
+WarCry
 Warframe
 WarframeRunway
 wargame
