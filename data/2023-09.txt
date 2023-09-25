@@ -4678,6 +4678,7 @@ MarioKartTour
 MarioKartWii
 MarioRPG
 Market76
+marketing
 marketpredictors
 Markiplier
 MarkNarrations
@@ -5567,6 +5568,7 @@ opendata
 opensea
 OpenSeaNFT
 OpenseaPromotions
+opensource
 Opeth
 OpiatesRecovery
 opossum_irl
