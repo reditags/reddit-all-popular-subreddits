@@ -546,6 +546,7 @@ AsianTikTokGirls
 AsiaTripper
 ask
 AskABrit
+AskAcademia
 AskAGerman
 AskAMechanic
 AskAnAmerican
@@ -2008,6 +2009,7 @@ darwin
 DarwinAwards
 dashcamgifs
 dashcams
+dataanalysis
 dataengineering
 DataHoarder
 dataisbeautiful
