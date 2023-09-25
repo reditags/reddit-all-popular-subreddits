@@ -340,6 +340,7 @@ AnadeArmas
 analog
 AnalogCircleJerk
 AnalogCommunity
+AnaloguePocket
 Anarcho_Capitalism
 Anarchy4Everyone
 AnarchyChess
@@ -442,6 +443,7 @@ AO3
 aoe2
 aoe4
 Apartmentliving
+apexcirclejerk
 apexlegends
 ApexLore
 ApexOutlands
@@ -2348,6 +2350,7 @@ ducks
 DuelLinks
 DuggarsSnark
 dumbasseswithlighters
+dumplingmeme
 DumpsterDiving
 DunderMifflin
 dune
@@ -2898,6 +2901,7 @@ Frasier
 Frat
 FreckledGirls
 Free_Paypal_Money
+freebies
 freebsd
 FreeCompliments
 FreeCrypto
@@ -6750,6 +6754,7 @@ Simpsons
 SimpsonsMemes
 simpsonsshitposting
 simracing
+Simracingstewards
 Sims3
 Simulated
 Simulations
@@ -7395,6 +7400,7 @@ TheDollop
 TheDonaldTrump2024
 thedoors
 TheDragonPrince
+thedumbzone
 TheEminenceInShadow
 TheExpanse
 TheFarSide
