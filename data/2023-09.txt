@@ -122,6 +122,7 @@ ACOTARHulu
 ACPocketCamp
 ACQR
 AcrossTheSpider_Verse
+acrylicpainting
 ActionFigures
 ActivationSound
 ActiveMeasures
@@ -1104,6 +1105,7 @@ botw
 boulder
 bouldering
 boutiquebluray
+BouvierDesFlandres
 bowhunting
 Bowling
 Boxer
@@ -5540,6 +5542,7 @@ onerarefoodverse
 OneSecondBeforeDisast
 oneshot
 OneTopicAtATime
+onewheel
 OneyPlays
 onguardforthee
 OniichanOshimai
