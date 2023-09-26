@@ -222,6 +222,7 @@ aiyu
 AjaxAmsterdam
 AJR
 ak47
+akalimains
 akira
 akita
 Alabama
@@ -593,6 +594,7 @@ askTO
 asktransgender
 AskUK
 AskVet
+asl
 Asmongold
 ASMRScriptHaven
 asoiaf
@@ -8306,6 +8308,7 @@ wikipedia
 wildcampingintheuk
 WildernessBackpacking
 wildhearthstone
+wildhockey
 wildlifephotography
 WildlifeRehab
 wildrift
