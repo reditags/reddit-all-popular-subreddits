@@ -2182,6 +2182,7 @@ digimon
 DigimonCardGame2020
 DigitalArt
 digitalnomad
+DigitalPainting
 digix
 dimecoin
 Dimension20
@@ -3554,6 +3555,7 @@ hostedgames
 hot_reporters
 hotbit
 HOTDGreens
+hotdogs
 HotlineMiami
 hotones
 HotPaper
@@ -5007,6 +5009,7 @@ MonsterHunter
 MonsterHunterWorld
 Monsterverse
 Montana
+Monterrey
 montreal
 moonbeam
 MoonCoin
@@ -6400,6 +6403,7 @@ RotMG
 Rottweiler
 RoughRomanMemes
 RoverPetSitting
+royalcaribbean
 RoyaleHigh_Roblox
 royalenfield
 royalmail
@@ -8324,6 +8328,7 @@ Workspaces
 WorldBank
 Worldbox
 worldbuilding
+worldcup
 WorldEaters40k
 worldjerking
 worldnews
