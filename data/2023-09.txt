@@ -830,6 +830,7 @@ BBODResearch
 BBQ
 bbwselfies
 BCPublicServants
+BeachCity
 beadsprites
 beagle
 beagles
@@ -3085,6 +3086,7 @@ Gamingcirclejerk
 GamingDetails
 GamingLaptops
 GamingLeaksAndRumours
+gamingmemes
 gamingnews
 gamingsuggestions
 gank
@@ -5486,6 +5488,7 @@ noworking
 NPPfunny
 NPR
 nrl
+NSYNC
 NTU
 NuclearRevenge
 NUFC
