@@ -1289,6 +1289,7 @@ canadahousing
 CanadaHousing2
 canadaleft
 canadanews
+CanadianCoins
 CanadianInvestor
 canberra
 canceledpod
@@ -7749,6 +7750,7 @@ Transformemes
 transformers
 transgender
 transit
+TransitDiagrams
 TransLater
 translator
 TransMasc
