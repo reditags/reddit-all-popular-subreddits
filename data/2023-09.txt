@@ -2175,6 +2175,7 @@ DestinyFashion
 DestinyLore
 DestinyMemes
 DestinyTheGame
+DestinyVaushLoyalists
 DestroyedTanks
 DestroyLonely
 DetaEth
@@ -8591,6 +8592,7 @@ YuB
 yugioh
 YuGiOhMasterDuel
 YuGiOhMemes
+yugiohshowcase
 yumenikki
 yuna
 yunyun
