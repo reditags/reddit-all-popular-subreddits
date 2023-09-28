@@ -2126,6 +2126,7 @@ deloitte
 DelphiMurders
 delta
 Deltarune
+delusionalartists
 DelusionsOfAdequacy
 DemiBagby
 deMiko
@@ -3381,6 +3382,7 @@ GymMotivation
 gymsnark
 h1b
 h1z1
+h3h3_productions
 h3h3productions
 H3VR
 HabboNFT
@@ -3478,6 +3480,7 @@ heavyvinyl
 HEB
 Hedgehog
 heels
+hegetsus
 HeidiLavon
 HeimerdingerMains
 HeinousHumanity
@@ -4845,6 +4848,7 @@ MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
 MechanicalPandey
+mechanics
 Mechwarrior5
 MECoOp
 MedicalCannabisOz
@@ -6237,6 +6241,7 @@ PvZGardenWarfare
 PvZHeroes
 pwnagotchi
 pygame
+Pyrex_Love
 pyrocynical
 Python
 PythonJobs
@@ -7296,6 +7301,8 @@ SurvivingMars
 survivor
 sushi
 sushiflavoredmilkkk
+susu
+susu_jpg
 sutesfozes
 SuzanneMorphew
 suzerain
