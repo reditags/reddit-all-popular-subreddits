@@ -2128,6 +2128,7 @@ deftones
 degoogle
 Degrassi
 Dehyamains
+Delaware
 delhi
 deliciouscompliance
 Delightfullychubby
@@ -2430,6 +2431,7 @@ dynamo
 DynastyFF
 E30
 EA_NHL
+EAF
 earfurnishings
 earlsweatshirt
 Earnabletoken
@@ -7598,6 +7600,7 @@ thedoors
 TheDragonPrince
 thedumbzone
 TheEminenceInShadow
+TheEricAndreShow
 TheExpanse
 TheFarSide
 TheFence
