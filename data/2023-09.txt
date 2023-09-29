@@ -549,6 +549,7 @@ ArtPorn
 artstore
 Asexual
 asexuality
+AshesofCreation
 asheville
 AshleyBenson
 asianamerican
@@ -1722,6 +1723,7 @@ CompetitiveTFT
 compoface
 composting
 Compound
+compsci
 computadores
 computers
 computing
@@ -3149,6 +3151,7 @@ Gary_The_Cat
 GasBlowBack
 gastricsleeve
 Gatcat
+gate
 gatebliss
 GateioExchange
 gatekeeping
@@ -4857,6 +4860,7 @@ MarvelSnap
 MarvelStrikeForce
 MarvelStudios_Rumours
 Marxism_Memes
+MarxistCulture
 MaryElizabethWinstead
 maryland
 marymouser_
@@ -8003,6 +8007,7 @@ turkish
 turkish_celeb
 TurkishCats
 TurkishCeleb
+turkishlearning
 Turkiye
 TurkiyeCelebrity
 Turkophobia
