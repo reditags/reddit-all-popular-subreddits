@@ -1641,6 +1641,7 @@ CLOUDS
 CloverFinance
 cluj
 CMHAirfareDeals
+cna
 Coachella
 cocaine
 cockatiel
@@ -3488,6 +3489,7 @@ HauntedMound
 HauntingOfHillHouse
 Havanese
 HAWKFreedomSquad
+hawks
 Hawksight
 haydenpanettiere
 HayleyAtwell
@@ -6690,6 +6692,7 @@ Satisfyingasfuck
 SatoshiStreetBets
 saudiarabia
 SavageGarden
+savannah
 SavannahDemers
 savedyouaclick
 saw
@@ -7213,6 +7216,7 @@ starwarsblackseries
 starwarsbooks
 StarWarsCantina
 StarWarsCirclejerk
+starwarscollecting
 StarWarsEmpireAtWar
 StarWarsEU
 StarWarsJediSurvivor
