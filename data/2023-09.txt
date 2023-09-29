@@ -630,6 +630,7 @@ Asuka
 ASUS
 ASX_Bets
 ATBGE
+ATC
 ATEEZ
 AteistTurk
 AteTheOnion
@@ -1018,6 +1019,7 @@ BlackPink
 Blacksmith
 blackstonegriddle
 BlackTemplars
+BladeMains
 bladerunner
 Bladesmith
 BLAHAJ
@@ -3261,6 +3263,7 @@ GlockMod
 Glocks
 gloomspitegitz
 Gloryhammer
+glossier
 GlowUps
 gluesniffer
 glutenfree
@@ -6220,6 +6223,7 @@ Powerwolf
 pozilei
 PPC
 PraiseTheCameraMan
+predator
 PregCelebs
 PrehistoricMemes
 Prematurecelebration
