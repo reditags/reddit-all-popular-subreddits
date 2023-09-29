@@ -1581,6 +1581,7 @@ churchofharu
 ChurchOfJirou
 ChurchOfKasumi
 ChurchofMarnie
+ChurchOfMinaAshido
 ChurchOfRyo
 ChurchOfSenko
 churchofskadi
@@ -3450,6 +3451,7 @@ HaileeSteinfeld
 Hailey_Baldwin
 HairDye
 hajimenoippo
+HaleyLu_Richardson
 HalfLife
 halifax
 Halle_Bailey
@@ -3492,6 +3494,7 @@ hardware
 hardwaregore
 Harley
 HarleyQuinn
+Harmontown
 HarryandMeghanNetflix
 harrypotter
 HarryPotteronHBO
@@ -6407,6 +6410,7 @@ rangers
 rant
 Rants
 RantsFromRetail
+rap
 rapbattles
 Rapids
 rareinsults
