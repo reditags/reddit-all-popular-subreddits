@@ -3598,6 +3598,7 @@ hindumemes
 hiphoptr
 hireanartist
 Histoire
+HistoriaCivilis
 HistoriasDeReddit
 HistoricalCostuming
 history
@@ -7214,6 +7215,7 @@ SquaredCircle
 SquidGameUltra
 squirrels
 squishmallow
+SRGroup
 SS13
 SSBM
 SSBPM
