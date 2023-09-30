@@ -502,6 +502,7 @@ Archery
 ArchitecturalRevival
 architecture
 ArchitecturePorn
+archlinux
 arcticmonkeys
 Ardor
 arduino
@@ -8687,6 +8688,7 @@ Xlightmoonx_Only
 xmen
 xqcow
 XTExchange
+XXRunning
 XXXTENTACION
 XYONetwork
 YaeMiko
