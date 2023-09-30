@@ -883,6 +883,7 @@ beer
 beermoneyAus
 beermoneyeasteu
 beermoneyph
+beetle
 beetlejuicing
 BEFire
 BeforeNAfterAdoption
