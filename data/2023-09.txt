@@ -1592,6 +1592,7 @@ ChurchOfJirou
 ChurchOfKasumi
 ChurchofMarnie
 ChurchOfMinaAshido
+ChurchofRise
 ChurchOfRyo
 ChurchOfSenko
 churchofskadi
@@ -2086,6 +2087,7 @@ dataanalysis
 dataengineering
 DataHoarder
 dataisbeautiful
+dataisugly
 datascience
 datealive
 DatGuyLirik
@@ -2366,6 +2368,7 @@ doommetal
 doordash
 doordash_drivers
 DoorDashDrivers
+DoppleAI
 Doppleganger
 Dorohedoro
 DOS
@@ -5578,6 +5581,7 @@ norske
 northcounty
 northernireland
 northernlion
+Northumberland
 NorthVancouver
 NoRulesCalgary
 Norway
