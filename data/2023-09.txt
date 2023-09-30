@@ -971,6 +971,7 @@ BirdsArentReal
 Birdsfacingforward
 birdswitharms
 birdwatching
+Birkenstocks
 Birmingham
 BirminghamUK
 bisexual
@@ -3423,6 +3424,7 @@ guitars
 Gulong
 Gundam
 gundeals
+Gunime
 Gunners
 Gunpla
 gunpolitics
@@ -7650,6 +7652,7 @@ TheBullWins
 thecampaigntrail
 TheCapitalLink
 TheCatTrapIsWorking
+thechallengemtv
 TheCinemassacreTruth
 TheCivilService
 TheClickOwO
