@@ -1119,6 +1119,7 @@ BorderCollie
 Borderlands2
 borderlands3
 BorderlandsPreSequel
+Borderlandsshiftcodes
 BorderTerrier
 bored
 boringdystopia
@@ -6457,6 +6458,7 @@ ratterriers
 rattlecannedguns
 rav4club
 Ravencoin
+RavenGuard40k
 ravens
 rawdenim
 Rayman
