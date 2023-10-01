@@ -2,6 +2,7 @@
 10s
 19684
 197
+1morewow
 2007scape
 21stCenturyHumour
 2Asia4u
@@ -49,6 +50,7 @@ AccidentalSlapStick
 accidents
 Accounting
 acecombat
+Achievement_Hunter
 ACMilan
 acnh
 acotar
@@ -72,6 +74,7 @@ Aespa
 Aether_Mains
 AEWOfficial
 AFCEastMemeWar
+AFCNorthMemeWar
 AFL
 agedlikemilk
 agedtattoos
@@ -152,6 +155,7 @@ Anticonsumption
 antimeme
 antiMLM
 antinatalism
+Antiques
 antitrampo
 AntiTrumpAlliance
 antiwork
@@ -214,6 +218,7 @@ AskThe_Donald
 askTO
 asktransgender
 AskUK
+Asmongold
 AssassinsCreedMemes
 assholedesign
 astoria
@@ -223,6 +228,7 @@ Astros
 ATBGE
 AteistTurk
 atheism
+attackeyes
 attackontitan
 auckland
 Audi
@@ -268,6 +274,7 @@ bangtan
 Bannerlord
 BanPitBulls
 BarbaraPalvin
+Barbie
 Barcelona
 bartenders
 baseball
@@ -415,6 +422,7 @@ BrexitMemes
 bridezillas
 bridget
 BrieLarson
+brighton
 brisbane
 Britain
 BritishCelebrityBabes
@@ -527,6 +535,7 @@ Chainsawfolk
 ChainsawMan
 chainsawmancirclejerk
 Championship
+Chaos40k
 chaoticgood
 CharacterAI
 characterarcs
@@ -618,11 +627,13 @@ confusing_perspective
 Conservative
 ConservativeMemes
 conservativeterrorism
+Consoom
 conspiracy
 conspiracy_commons
 Construction
 ContagiousLaughter
 ContraPoints
+cookiedecorating
 Cooking
 coolguides
 coonhounds
@@ -646,6 +657,7 @@ CrazyFuckingVideos
 CreationNtheUniverse
 creepy
 cremposting
+crete
 Cricket
 CricketShitpost
 cricketworldcup
@@ -677,6 +689,7 @@ cuteguys
 cuteguyswithcats
 Cyberpunk
 cyberpunkgame
+cyberpunkred
 cybersecurity
 czech
 czechmemes
@@ -781,6 +794,7 @@ distractible
 distressingmemes
 dividends
 DiWHY
+DIYUK
 DnD
 DnDcirclejerk
 dndnext
@@ -830,6 +844,7 @@ DumpsterDiving
 DunderMifflin
 dunememes
 DungeonMeshi
+dyinglight
 DynastyFF
 EarthPorn
 EASportsFC
@@ -1089,6 +1104,7 @@ Genshin_Lore
 Genshin_Wallpaper
 GenshinGaysE
 GenshinImpact
+GenshinImpactTips
 gentlemanboners
 GenUsa
 GenX
@@ -1234,6 +1250,7 @@ hockey
 hoi4
 HOI4memes
 holdmycatnip
+holdmycosmo
 HollowKnight
 HollowKnightMemes
 holocure
@@ -1242,6 +1259,7 @@ HololiveYuri
 Holostars
 HolUp
 Homebuilding
+HomeDecorating
 HomeDepot
 homelab
 hometheater
@@ -1312,10 +1330,12 @@ imaginarymaps
 ImaginaryMonsterGirls
 ImaginaryMonsters
 ImaginarySliceOfLife
+ImaginaryStarships
 ImaginaryTechnology
 ImaginaryWarhammer
 ImaginaryWesteros
 ImaginaryWitches
+ImFinnaGoToHell
 imsorryjon
 ImTheMainCharacter
 Incorgnito
@@ -1440,6 +1460,7 @@ Justrolledintotheshop
 KafkaMains
 Kagurabachi
 Kaiserreich
+kaleycuoco
 kallmekris
 KamenRider
 KamenRiderMemes
@@ -1473,6 +1494,7 @@ kittens
 Kitting
 kittyhasaquestion
 KittyPupperLove
+KoboldLegion
 Kochi
 Komi_san
 Konosuba
@@ -1644,6 +1666,7 @@ MandJTV
 MangaCollectors
 manhwa
 Manitoba
+ManorLords
 MapPorn
 mapporncirclejerk
 MarchAgainstNazis
@@ -1658,6 +1681,7 @@ marriott
 martialarts
 Marvel
 marvelcirclejerk
+MarvelLegends
 marvelmemes
 MarvelSnap
 Marxism_Memes
@@ -1704,6 +1728,7 @@ MemeVideos
 MensRights
 menwritingwomen
 MEOW_IRL
+merdasdoolx
 metaldetecting
 MetalGearInMyAss
 MetalMemes
@@ -1742,6 +1767,7 @@ minnesota
 minnesotatwins
 minnesotavikings
 missbricosplay
+MitchellAndWebb
 mitski
 MixedRaceGirls
 MkeBucks
@@ -1836,6 +1862,7 @@ neoliberal
 neopets
 nespresso
 Nestofeggs
+Netherlands
 NeuvilletteMains_
 Neverbrokeabone
 newcastle
@@ -1917,6 +1944,7 @@ NuxTakuSubmissions
 nvidia
 nwordington
 NYCinfluencersnark
+NYGiants
 nyjets
 NYStateOfMind
 oblivion
@@ -2289,6 +2317,7 @@ RussiaUkraineWar2022
 russiawarinukraine
 rva
 RWBY
+RWBYcritics
 ryujin
 sabaton
 Sacramento
@@ -2329,6 +2358,7 @@ science
 scienceisdope
 sciencememes
 ScienceNcoolThings
+ScienceUncensored
 scifi
 SCJerk
 Scotland
@@ -2445,6 +2475,7 @@ SocialismIsCapitalism
 SocialistRA
 SofiaVergara
 softwaregore
+sohee
 sololeveling
 SomeOfYouMayDie
 somethingimade
@@ -2535,6 +2566,7 @@ StupidFood
 stupidpol
 subnautica
 Suburbanhell
+SuccessionTV
 SuddenlyGay
 SuddenlyLesbian
 suicidebywords
@@ -2620,6 +2652,7 @@ thatHappened
 ThatLookedExpensive
 ThatsInsane
 The10thDentist
+the1975
 The8BitRyanReddit
 The_Mueller
 TheAstraMilitarum
@@ -2778,6 +2811,7 @@ UFOdocumentaries
 UFOs
 UK_Food
 ukdrill
+UKPersonalFinance
 ukraine
 UkraineWarVideoReport
 UkrainianConflict
@@ -2796,6 +2830,7 @@ Universitaly
 unket
 UnpopularLoreOlympus
 unpopularopinion
+UnsentLetters
 unusual_whales
 UnusualVideos
 unvaccinated
@@ -2836,6 +2871,7 @@ videos
 VietNam
 Vinesauce
 vintageads
+vintagecomputing
 VintageFashion
 vinyl
 VioletEvergarden
@@ -2944,6 +2980,7 @@ worldbuilding
 worldjerking
 worldnews
 worldnewsvideo
+WorldofDankmemes
 WorldofTanks
 WorldOfTShirts
 WorldOfWarships
@@ -2988,6 +3025,7 @@ youseeingthisshit
 YouShouldKnow
 youtube
 ytvretro
+YuB
 yugioh
 YuGiOhMemes
 yuna
