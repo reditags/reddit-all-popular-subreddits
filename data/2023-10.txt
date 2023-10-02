@@ -20,6 +20,7 @@
 2westerneurope4u
 30PlusSkinCare
 30ROCK
+3Dmodeling
 3Dprinting
 3DS
 40k
@@ -29,6 +30,7 @@
 5ToubunNoHanayome
 691
 70s
+75HARD
 80s
 90DayFiance
 90dayfianceuncensored
@@ -124,6 +126,7 @@ amiugly
 amIuglyBrutallyHonest
 amiwrong
 AmongUs
+Amouranth
 Amtrak
 AmyAdams
 AnadeArmas
@@ -163,12 +166,14 @@ Animemes
 AnimeMirchi
 animenocontext
 Animewallpaper
+annakendrick
 ANormalDayInRussia
 Anticonsumption
 antimeme
 antiMLM
 antinatalism
 Antiques
+antitheistcheesecake
 antitrampo
 AntiTrumpAlliance
 antiwork
@@ -204,6 +209,7 @@ Arkansas
 arknights
 ArlecchinoMains
 armenia
+armordecor
 armoredcore
 ArmoredCoreVI
 army
@@ -326,6 +332,7 @@ BayernMunich
 bbaldiback
 BBBY
 BBQ
+beagles
 BeAmazed
 BeamNG
 BeardedDragons
@@ -383,6 +390,7 @@ bizarrelife
 blackcats
 Blackcelebrity
 BlackClover
+Blacklabs
 blackmagicfuckery
 BlackPeopleComedy
 BlackPeopleTwitter
@@ -489,6 +497,7 @@ burgers
 Buttcoin
 BuyItForLife
 byebyejob
+CAguns
 cakedecorating
 CalamityMod
 Calango
@@ -503,6 +512,7 @@ CamilaCabello
 camphalfblood
 canada
 Canada_sub
+canadaguns
 canadahousing
 CanadaHousing2
 canberra
@@ -796,6 +806,7 @@ DarkTide
 DarkViperAU
 darkwingsdankmemes
 DarwinAwards
+dashcamgifs
 dashcams
 dataisbeautiful
 datascience
@@ -897,6 +908,7 @@ dontputyourdickinthat
 DonutMedia
 doodoofard
 Doom
+doommetal
 doordash
 doordash_drivers
 Doppleganger
@@ -918,6 +930,7 @@ drehscheibe
 DrewGooden
 drivingUK
 Drizzy
+DrMartens
 DronedOrc
 dropout
 drums
@@ -930,6 +943,7 @@ dunememes
 DungeonMeshi
 duolingo
 dyinglight
+DylanteroYT
 DynastyFF
 EarthPorn
 EASportsFC
@@ -944,6 +958,7 @@ EDH
 Edinburgh
 Edmonton
 educationalgifs
+edwinbarnesc
 Eevee
 egg_irl
 Eggy_memes
@@ -1028,6 +1043,7 @@ falloutnewvegas
 familyguy
 FamousFaces
 fantasyfootball
+fantasyfootballadvice
 fantasymoe
 FantasyPL
 farcry
@@ -1454,6 +1470,7 @@ ImaginaryWarhammer
 ImaginaryWesteros
 ImaginaryWitches
 ImFinnaGoToHell
+ImpracticalJokers
 imsorryjon
 ImTheMainCharacter
 Incorgnito
@@ -1481,6 +1498,7 @@ indiasocial
 IndiaSpeaks
 IndiaTech
 indonesia
+INDYCAR
 infamous
 Infographics
 InfowarriorRides
@@ -1528,6 +1546,7 @@ IVE
 iwoulddiefornoodle
 iZone
 IzuOcha
+jackrussellterrier
 jackstauber
 Jaguars
 jaidenanimations
@@ -1731,6 +1750,7 @@ linux
 linux_gaming
 linuxmasterrace
 liseliler
+listentothis
 LittlestPetShop
 LiveFromNewYork
 LiverpoolFC
@@ -1858,6 +1878,7 @@ McDonaldsEmployees
 McFarlaneFigures
 MCFC
 McMansionHell
+McMaster
 me_irl
 me_irlgbt
 MechanicAdvice
@@ -1960,6 +1981,7 @@ motorcitykitties
 motorcycle
 motorcycles
 mouf
+Mounjaro
 mountandblade
 moviecritic
 MovieDetails
@@ -2171,6 +2193,7 @@ oliviadunne
 OliviaRodrigo
 olympia
 OMORI
+oneanddone
 OneBlackBraincell
 onegoldenbraincell
 onejob
@@ -2212,8 +2235,10 @@ otomegames
 OtomeIsekai
 ottawa
 Otters
+Ouchmyflaps
 OurFlagMeansDeath
 Outdoors
+outerwilds
 OUTFITS
 outofcontextcomics
 OutOfTheLoop
@@ -2226,6 +2251,7 @@ overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
 OverwatchLeague
+OverwatchTMZ
 Owls
 Padres
 painting
@@ -2233,6 +2259,7 @@ palebeauties
 Palestine
 PallasCats
 PandR
+PanPorn
 pansexual
 paperearmate
 ParadoxExtra
@@ -2381,6 +2408,7 @@ povertyfinance
 powerrangers
 powerwashingporn
 PragerUrine
+PraiseTheCameraMan
 PrehistoricMemes
 Prematurecelebration
 PremierLeague
@@ -2744,6 +2772,7 @@ splatoon
 sploot
 spongebob
 sports
+sportsbook
 spotted
 spreadytoes
 Spunchbob
@@ -2823,6 +2852,7 @@ SupermodelCats
 Supernatural
 Superstonk
 superstore
+Supra
 surrealmemes
 SurreyBC
 survivor
@@ -2975,6 +3005,7 @@ titanfall
 titanic
 tja
 tjournal_refugees
+TLCsisterwives
 TMKOC
 TMNT
 TNOmod
@@ -3269,8 +3300,10 @@ WorldofDankmemes
 WorldofTanks
 WorldOfTShirts
 WorldOfWarships
+WormMemes
 WoT
 wow
+wowservers
 Wrasslin
 WrestleCuties
 WriothesleyMains
