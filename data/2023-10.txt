@@ -89,6 +89,7 @@ AFCNorthMemeWar
 AFCSouthMemeWar
 AFCWestMemeWar
 AFL
+afrikaans
 AfterEffects
 agedlikemilk
 agedtattoos
@@ -239,6 +240,7 @@ armoredcore
 ArmoredCoreVI
 army
 aromantic
+AroundTheNFL
 arresteddevelopment
 Arrowheads
 ArsenalFC
@@ -332,6 +334,7 @@ BackYardChickens
 Bad_Cop_No_Donut
 badhistory
 BadMensAnatomy
+BadMtgCombos
 badroommates
 badwomensanatomy
 baeirene
@@ -777,6 +780,7 @@ Competitiveoverwatch
 compoface
 computers
 conan
+Concrete
 confession
 confessions
 confidentlyincorrect
@@ -931,6 +935,7 @@ DC_Cinematic
 DCAU
 DCcomics
 dccomicscirclejerk
+DCEUleaks
 DDLC
 de
 deadbydaylight
@@ -951,6 +956,7 @@ DemonSchoolIrumakun
 DemonSlayerAnime
 Denmark
 DenverBroncos
+denvernuggets
 DeppDelusion
 depression_memes
 depressionmeals
@@ -1261,6 +1267,7 @@ fnatic
 fnki
 fnv
 fo4
+fo76
 Followback
 food
 foodbutforbabies
@@ -1271,6 +1278,7 @@ Foofighters
 football
 footballmanagergames
 foraging
+forbiddensnacks
 ForgottenWeapons
 forhonor
 formuladank
@@ -1363,6 +1371,7 @@ Gardevoir
 Garmin
 gatekeeping
 GatekeepingYuri
+Gatos
 GawrGura
 gay_irl
 gaybros
@@ -1372,6 +1381,7 @@ gaymemes
 gaymers
 GayRateMe
 GaySoundsShitposts
+GCSE
 geckos
 gekte
 GenderAnarchy
@@ -1658,6 +1668,7 @@ ImaginaryTechnology
 ImaginaryWarhammer
 ImaginaryWesteros
 ImaginaryWitches
+ImanVellani
 imax
 ImFinnaGoToHell
 ImpracticalJokers
@@ -1906,6 +1917,7 @@ lakers
 Lalisa
 lamborghini
 lanadelrey
+LancerRPG
 LandCruisers
 Landlord
 LandlordLove
@@ -1925,6 +1937,7 @@ LateStageImperialism
 LaurenCohan
 law
 lawncare
+LawSchool
 LaylaMains
 LCDSoundsystem
 lds
@@ -2131,6 +2144,7 @@ MechanicAdvice
 MechanicalKeyboards
 MechanicalPandey
 MedicalGore
+MediocreTutorials
 medizzy
 megafaunarewilding
 MegalithPorn
@@ -2603,6 +2617,7 @@ PersonalFinanceCanada
 perth
 pesmobile
 PeterExplainsTheJoke
+PetiteFitness
 PetPeeves
 PetsareAmazing
 PetTheDamnCat
@@ -2740,6 +2755,7 @@ privacy
 ProCreate
 ProgrammerHumor
 programming
+progun
 Project_Wingman
 projectcar
 projecteternity
@@ -3559,6 +3575,7 @@ VanLife
 Vanossgaming
 VaporwaveAesthetics
 VaushV
+vaxxhappened
 vdm
 vegan
 vegancirclejerk
@@ -3585,6 +3602,7 @@ vintagecomputing
 VintageFashion
 vinyl
 vinyljerk
+VinylReleases
 VioletEvergarden
 Virginia
 virginvschad
@@ -3628,6 +3646,7 @@ Wavyhair
 WeaponsMoe
 webcomics
 webdev
+Webkinz
 webtoons
 wec
 WECcirclejerk
