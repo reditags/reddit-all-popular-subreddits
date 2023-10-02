@@ -79,6 +79,7 @@ AEWOfficial
 AFCEastMemeWar
 AFCNorthMemeWar
 AFCSouthMemeWar
+AFCWestMemeWar
 AFL
 agedlikemilk
 agedtattoos
@@ -89,6 +90,7 @@ airplaneears
 airsoft
 AITAH
 aiyu
+ak47
 AkoBaYungGago
 Albany
 AlbedosCreations
@@ -114,6 +116,7 @@ Amberverse_
 amcstock
 AmericaBad
 americandad
+americangirl
 AmericanHorrorStory
 AmIHotSFW
 AmItheAsshole
@@ -196,6 +199,7 @@ argentina
 ArgentinaBenderStyle
 Aritzia
 arizona
+ARK
 Arkansas
 arknights
 ArlecchinoMains
@@ -276,8 +280,10 @@ azerbaijan
 Azoozkie
 AZURE
 BabyBumps
+BabyCorgis
 BachelorNation
 BackpackingDogs
+BacktotheFuture
 BackYardChickens
 Bad_Cop_No_Donut
 BadMensAnatomy
@@ -337,6 +343,7 @@ BeelcitosMemes
 beer
 beetle
 BeforeNAfterAdoption
+BeginnerWoodWorking
 behindthebastards
 BelgianMalinois
 belgium
@@ -409,6 +416,7 @@ BokuNoMetaAcademia
 Bolehland
 BollyBlindsNGossip
 bollywood
+BollywoodFashion
 bollywoodmemes
 BollywoodMusic
 BollywoodUHQonly
@@ -600,6 +608,7 @@ Chonkers
 ChoosingBeggars
 Christianity
 christinahendricks
+ChronicPain
 churchofharu
 ChurchOfKasumi
 ChurchofMarnie
@@ -646,6 +655,7 @@ colleensheen
 college
 CollegeBasketball
 collingwoodfc
+Colombia
 Colorado
 ColoradoRockies
 Colts
@@ -717,6 +727,7 @@ crime
 CringePurgatory
 CringeTikToks
 CringetopiaRM
+criticalblunder
 croatia
 crochet
 crossdressing
@@ -809,6 +820,7 @@ DeathrattlePorn
 DeathStranding
 Decks
 DeepRockGalactic
+DeepSpaceNine
 delhi
 delta
 Deltarune
@@ -837,6 +849,7 @@ developersIndia
 DevilMayCry
 devinbrugman
 DHHMemes
+Diablo
 diablo4
 DidntKnowIWantedThat
 digimon
@@ -1023,6 +1036,7 @@ farialimabets
 fashionhistory
 fashionph
 FashionReps
+Fate
 fatestaynight
 Fauxmoi
 FCCincinnati
@@ -1274,6 +1288,7 @@ gtaonline
 Guildwars2
 Guiltygear
 guineapigs
+Guitar
 guitarcirclejerk
 Gundam
 Gunime
@@ -1363,6 +1378,7 @@ HomeDecorating
 HomeDepot
 homelab
 hometheater
+HomeworkHelp
 HongKong
 HonkaiStarRail
 HonkaiStarRail_leaks
@@ -1483,6 +1499,7 @@ Instagramreality
 instantbarbarians
 instantkarma
 insurgency
+interesting
 interestingasfuck
 InterestingVideoClips
 interiordecorating
@@ -1497,6 +1514,7 @@ ireland
 IRLEasterEggs
 ironmaiden
 ironscape
+IrrationalMadness
 Israel
 Italia
 ItalianGreyhounds
@@ -1589,6 +1607,7 @@ KendrickLamar
 Kengan_Ashura
 Kenshi
 Kerala
+KerbalSpaceProgram
 KessokuBand
 keto
 kfeets
@@ -1597,6 +1616,7 @@ KGBTR
 KidsAreFuckingStupid
 KiernanShipka
 KillLaKill
+killteam
 Killtony
 KingdomHearts
 KingOfTheHill
@@ -1609,6 +1629,7 @@ kittens
 Kitting
 kittyhasaquestion
 KittyPupperLove
+KneadyCats
 KoboldLegion
 Kochi
 Komi_san
@@ -1625,6 +1646,7 @@ kpopthoughts
 kristenstewart
 ksi
 KumoDesu
+KUWTKsnark
 l4d2
 labrador
 labrats
@@ -1948,6 +1970,7 @@ MrBeast
 mscsmedia
 MST3K
 mtg
+MuayThai
 mumbai
 MurderBuns
 MurderDrones
@@ -2161,6 +2184,7 @@ OneTruthPrevails
 OneyPlays
 onguardforthee
 OniichanOshimai
+OnionLovers
 OnlineUnderGround
 OnlyFaces
 OnlyFansChatter
@@ -2223,6 +2247,7 @@ ParlerWatch
 parrots
 PartyParrot
 PassportPorn
+pasta
 PastorArrested
 Pathfinder2e
 Pathfinder_Kingmaker
@@ -2466,6 +2491,7 @@ Residency
 residentevil
 retailhell
 RetroAR
+RetroBowl
 RetroFuturism
 retrogaming
 RheaRipley
@@ -2532,6 +2558,7 @@ saltierthankrayt
 samaraweaving
 samharris
 samoyeds
+sanantonio
 sandiego
 sanfrancisco
 sanrio
@@ -2817,6 +2844,7 @@ Takagi_san
 TalesFromThePharmacy
 TalesFromYourServer
 tall
+Tallahassee
 tallyhall
 tampabayrays
 tankiejerk
@@ -3031,6 +3059,7 @@ twicemedia
 twilight
 TwinCities
 twinpeaks
+Twitter
 Twitter_Brasil
 twittermoment
 TwoHotTakes
@@ -3054,6 +3083,7 @@ ukdrill
 UKfood
 UKPersonalFinance
 ukraine
+UkraineInvasionVideos
 UkraineWarVideoReport
 UkrainianConflict
 Ulta
