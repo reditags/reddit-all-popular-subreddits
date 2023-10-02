@@ -136,6 +136,7 @@ andreyoung
 angelsbaseball
 Angryupvote
 AnimalCrossing
+Animals
 AnimalsBeingBros
 AnimalsBeingDerps
 AnimalsBeingGeniuses
@@ -233,6 +234,7 @@ AskUK
 Asmongold
 AssassinsCreedMemes
 assholedesign
+AstonMartin
 astoria
 astrologymemes
 Astronomy
@@ -249,6 +251,7 @@ AusMemes
 australia
 australian
 AustralianCattleDog
+AustralianMilitary
 AustralianShepherd
 Austria
 autism
@@ -496,11 +499,14 @@ canadahousing
 CanadaHousing2
 canberra
 canceledpod
+candy
 canucks
 CapitalismSux
 CapitolConsequences
+Cardinals
 CARiverPlate
 CarlaMedrano
+carmemes
 Carola
 carporn
 CarryMinati
@@ -621,6 +627,7 @@ Cleveland
 clevercomebacks
 climate
 climatechange
+climateskeptics
 climbing
 clonehigh
 CloneWarsMemes
@@ -772,6 +779,7 @@ Daredevil
 DarkAndDarker
 DarkBRANDON
 darkestdungeon
+darknet
 DarkSouls2
 DarkTide
 DarkViperAU
@@ -870,6 +878,7 @@ dogpictures
 dogs
 dogsusingpillows
 Dolls
+dontdeadopeninside
 donthelpjustfilm
 dontputyourdickinthat
 DonutMedia
@@ -985,6 +994,7 @@ exmormon
 exmuslim
 ExpectationVsReality
 ExperiencedDevs
+explainitpeter
 explainlikeimfive
 ExplainTheJoke
 ExtremeCarCrashes
@@ -1058,6 +1068,7 @@ fixedbytheduet
 Flagrant2
 Flamepoints
 FlashTV
+FlexinLesbians
 flightradar24
 flightsim
 Floof
@@ -1074,6 +1085,7 @@ fnki
 fnv
 fo4
 food
+foodbutforbabies
 Foodforthought
 FoodPorn
 FoodVideoPorn
@@ -1563,6 +1575,7 @@ kaleycuoco
 kallmekris
 KamenRider
 KamenRiderMemes
+KamikazeByWords
 kansascity
 KansasCityChiefs
 Kantenhausen
@@ -1634,6 +1647,7 @@ landscaping
 languagelearningjerk
 LanternDie
 LarissaManoelaa
+LastEpoch
 lastimages
 lastpodcastontheleft
 LasVegas
@@ -1652,6 +1666,7 @@ learnprogramming
 learntodraw
 lebowski
 LeftHandPath
+legal
 legaladvicecanada
 LegalAdviceUK
 legalcatadvice
@@ -1750,6 +1765,7 @@ mac
 MachineLearning
 Machinists
 MacOS
+macsetups
 Madden
 MaddieZiegler1
 MadelynCline
@@ -1888,6 +1904,7 @@ minnesota
 minnesotatwins
 minnesotavikings
 missbricosplay
+MissingPersons
 MitchellAndWebb
 mitski
 MixedRaceGirls
@@ -1921,6 +1938,7 @@ motorcitykitties
 motorcycle
 motorcycles
 mouf
+mountandblade
 moviecritic
 MovieDetails
 MovieLeaksAndRumors
@@ -1991,6 +2009,7 @@ Nestofeggs
 Netherlands
 NeuvilletteMains_
 Neverbrokeabone
+nevertellmetheodds
 newcastle
 NewcastleUponTyne
 NewGreentexts
@@ -2119,6 +2138,7 @@ okkolegauposledzony
 okmatewanker
 okpolarncp
 okprietenretardat
+Old_Recipes
 OldManDog
 OldPhotosInRealLife
 OldSchoolCelebs
@@ -2222,6 +2242,7 @@ Pennsylvania
 PennyLaneIsTheName
 PeopleFuckingDying
 PercyJacksonMemes
+Perfectfit
 PerfectlyCutBooms
 perfectlycutfucks
 PerfectlyCutMeows
@@ -2236,6 +2257,7 @@ PeterExplainsTheJoke
 PetPeeves
 PetsareAmazing
 PetTheDamnCat
+PetTheDamnDog
 pettyrevenge
 PewdiepieSubmissions
 pharmacy
@@ -2345,6 +2367,7 @@ PrettyOlderWomen
 Priconne
 PrideAndPinion
 PrimeiraLiga
+PrincessesOfPower
 PrintedWarhammer
 ProCreate
 ProgrammerHumor
@@ -2404,6 +2427,7 @@ rarepuppers
 RATS
 Ratschlag
 ravens
+RBI
 rccars
 RDR2
 Re_Zero
@@ -2461,6 +2485,7 @@ RocketLeague
 RocketLeagueEsports
 RodriguesFamilySnark
 RoleReversal
+rollercoasterjerk
 rollercoasters
 rolltide
 Romania
@@ -2481,6 +2506,7 @@ runescape
 running
 RunningCirclejerk
 rupaulsdragrace
+rush
 RussiaUkraineWar2022
 russiawarinukraine
 rva
@@ -2760,6 +2786,7 @@ Suburbanhell
 SuccessionTV
 SuddenlyGay
 SuddenlyLesbian
+suggestmeabook
 suicidebywords
 sunraybee
 sunset
@@ -2833,6 +2860,7 @@ Terraria
 TerrariaMemes
 terriblefacebookmemes
 TerrifyingAsFuck
+TeslaLounge
 TeslaModel3
 teslamotors
 teslareferralcode
@@ -2871,6 +2899,7 @@ TheFarSide
 thefighterandthekid
 thegrandtour
 TheInbetweeners
+theJoeBuddenPodcast
 TheLastAirbender
 thelastofus
 TheLegitBoss
@@ -2906,12 +2935,14 @@ thomastheplankengine
 ThriftGrift
 ThroughTheWire
 Thunder
+ThunderThots
 tifu
 TIGHTPUSSY
 TIHI
 TikTokCringe
 Tinder
 TipOfMyFork
+tippytaps
 titanfall
 titanic
 tja
@@ -3041,6 +3072,7 @@ Universitaly
 unket
 UnpopularLoreOlympus
 unpopularopinion
+UnresolvedMysteries
 UnsentLetters
 unusual_whales
 UnusualVideos
@@ -3050,6 +3082,7 @@ urbanexploration
 UrbanHell
 urbanplanning
 USMC
+USPS
 ussoccer
 Utah
 uttarpradesh
@@ -3231,17 +3264,20 @@ XFiles
 xkcd
 xmen
 xqcow
+XXXTENTACION
 YaeMiko
 yakuzagames
 yandere
 Yeji
 YelanMains
+yesyesyesno
 yesyesyesyesno
 YofukashiNoUta
 yoga
 Yoimiya_Mains
 yoojimin
 Yorkies
+Yosemite
 YouBelongWithMemes
 YoujoSenki
 youngpeoplereddit
