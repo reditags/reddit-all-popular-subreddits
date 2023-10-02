@@ -57,6 +57,7 @@ AccidentalRenaissance
 AccidentalSlapStick
 accidents
 Accounting
+AceAttorney
 acecombat
 Achievement_Hunter
 ACMilan
@@ -254,6 +255,7 @@ askgaybros
 AskHistorians
 askhungary
 askmath
+AskMechanics
 AskMen
 AskMiddleEast
 AskPH
@@ -316,6 +318,7 @@ azdiamondbacks
 azerbaijan
 Azoozkie
 AZURE
+babyanimals
 BabyBumps
 BabyCorgis
 BachelorNation
@@ -340,6 +343,7 @@ BanPitBulls
 BarbaraPalvin
 Barbie
 Barcelona
+barexam
 Barotrauma
 Barstoolboners2
 barstoolsports
@@ -350,6 +354,7 @@ baseballcirclejerk
 BashTheFash
 basset
 bassfishing
+BassGuitar
 bathandbodyworks
 batman
 BatmanArkham
@@ -451,6 +456,7 @@ blunderyears
 blurrypicturesofcats
 blursed_videos
 BMW
+boardgames
 bobbystock
 BobsBurgers
 BocaJuniors
@@ -830,6 +836,7 @@ csgo
 csMajors
 CultOfTheLamb
 CuratedTumblr
+curb
 curledfeetsies
 cursedcomments
 Cursedgunimages
@@ -944,6 +951,7 @@ DestinyMemes
 DestinyTheGame
 DestroyLonely
 detroitlions
+DetroitPistons
 deutschememes
 developersIndia
 DevilMayCry
@@ -1059,6 +1067,7 @@ Eevee
 egg_irl
 Eggy_memes
 Egypt
+EhBuddyHoser
 EightySix
 Eldenring
 ElderScrolls
@@ -1156,6 +1165,7 @@ farcry
 fardballsland
 farialimabets
 FaruzanMains
+fashion
 fashionhistory
 fashionph
 FashionReps
@@ -1191,6 +1201,7 @@ Filmmakers
 FinalFantasy
 FinalFantasyVII
 finance
+financialindependence
 Finanzen
 Finland
 fionnaandcake
@@ -1303,6 +1314,7 @@ futurama
 Futurology
 fuufuijou
 FuXuan_Mains
+Fzero
 G59
 GachaClub
 gachagaming
@@ -1731,8 +1743,10 @@ jerma985
 jerseycity
 jerseyshore
 jessicaalba
+JessicaChastain
 Jewdank
 jewelry
+JewishCooking
 jiggledolls
 jihyo
 JingLiu
@@ -1754,6 +1768,7 @@ Josiehamming
 jpegmafia
 jschlatt
 jschlattsubmissions
+JudgeDredd
 Jujutsufolk
 JuJutsuKaisen
 Jujutsushi
@@ -1876,6 +1891,7 @@ LaurenCohan
 law
 lawncare
 LaylaMains
+LCDSoundsystem
 lds
 leafs
 leagueoflegends
@@ -1966,6 +1982,7 @@ lostpause
 lostredditors
 lotr
 lotrmemes
+Lovecraft
 LoveForLandchads
 LoveForRedditors
 LoveForUkraine
@@ -2026,6 +2043,7 @@ malehairadvice
 malelivingspace
 MaliciousCompliance
 mallninjashit
+malluhorny
 manchester
 ManchesterUnited
 MandirGang
@@ -2038,6 +2056,7 @@ MapPorn
 mapporncirclejerk
 MarchAgainstNazis
 MargotRobbie
+marijuanaenthusiasts
 MarinaNabokina
 Mariners
 Mario
@@ -2195,6 +2214,7 @@ MrBeast
 mscsmedia
 MST3K
 mtg
+MtvChallenge
 MuayThai
 mumbai
 MurderBuns
@@ -2316,6 +2336,7 @@ Nmpx
 NMSCoordinateExchange
 NoahGetTheBoat
 Noctor
+Noellemains
 NoFap
 NoFuckingComment
 NolanBatmanMemes
@@ -2357,8 +2378,10 @@ NuxTakuSubmissions
 nvidia
 nwordington
 NYCinfluencersnark
+nycrail
 NYGiants
 nyjets
+NYKnicks
 NYStateOfMind
 NYYankees
 oblivion
@@ -2439,6 +2462,7 @@ Opossums
 orangecats
 orangecounty
 orangetheory
+orchids
 oregon
 OriginalCharacter
 orioles
@@ -2632,6 +2656,7 @@ Pomeranians
 popculturechat
 popheadscirclejerk
 popping
+poppunkers
 Popularmmos
 PornIsMisogyny
 porramauricio
@@ -3097,6 +3122,7 @@ sticknpokes
 stlouiscitysc
 stockholm
 stocks
+stonedswifties
 StonerEngineering
 stonerfood
 stopdrinking
@@ -3136,6 +3162,7 @@ sushi
 sutesfozes
 SweatyPalms
 sweden
+SWGalaxyOfHeroes
 Switzerland
 SWlegion
 swordartonline
@@ -3195,6 +3222,7 @@ Tennessee
 Tennesseetitans
 tennis
 TenseiSlime
+TerrainBuilding
 Terraria
 TerrariaMemes
 terriblefacebookmemes
@@ -3210,6 +3238,7 @@ TexasRangers
 TextingTheory
 texts
 tf2
+TF2fashionadvice
 tf2shitposterclub
 tf_irl
 thalassophobia
@@ -3285,6 +3314,7 @@ tifu
 TIGHTPUSSY
 TIHI
 TikTokCringe
+timberwolves
 TimPool
 Tinder
 TipOfMyFork
@@ -3417,7 +3447,9 @@ UkrainianConflict
 Ulta
 Ultrakill
 UNBGBBIIVCHIDCTIICBG
+unclebens
 Undertale
+UnearthedArcana
 UnethicalLifeProTips
 UnexpectedlyWholesome
 Unexplained
@@ -3592,6 +3624,7 @@ wildlifephotography
 wildrift
 WingsOfFire
 WinStupidPrizes
+wiredpeople
 wirklichgutefrage
 wisconsin
 witcher
