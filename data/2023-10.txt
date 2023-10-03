@@ -45,6 +45,7 @@
 911archive
 A24
 aaaaaaacccccccce
+Aarhus
 abandoned
 AbandonedPorn
 aberBitteLaminiert
@@ -222,6 +223,7 @@ aoe2
 apexlegends
 ApexOutlands
 ApexUncovered
+Aphantasia
 apolloapp
 apple
 AppleWatch
@@ -727,6 +729,7 @@ CharacterRant
 Chargers
 Charlotte
 CharlotteSena
+CharruaDevs
 ChatGPT
 chch
 checkme1
@@ -1022,6 +1025,7 @@ DemonSchoolIrumakun
 DemonSlayerAnime
 Denmark
 DenverBroncos
+DenverCirclejerk
 denvernuggets
 DeppDelusion
 depression_memes
@@ -1097,6 +1101,7 @@ DoglaREDDIT
 dogpictures
 dogs
 dogsusingpillows
+DokkanBattleCommunity
 Dolls
 donaldglover
 dontdeadopeninside
@@ -1146,6 +1151,7 @@ DunderMifflin
 dunememes
 DungeonMeshi
 duolingo
+dutch
 dwarffortress
 dyinglight
 DylanteroYT
@@ -1312,6 +1318,7 @@ FifaCareers
 Fighters
 FightLibrary
 fightporn
+fightsticks
 filipinofood
 Filmmakers
 FinalFantasy
@@ -1364,6 +1371,7 @@ FondantHate
 food
 foodbutforbabies
 Foodforthought
+FoodieCutie
 FoodPorn
 FoodVideoPorn
 Foofighters
@@ -1755,6 +1763,7 @@ IceCreamWaifu
 ich_iel
 ichbin14unddasisttief
 ichbin40undlustig
+Idaho
 ididnthaveeggs
 IdiotsInCars
 IdiotsNearlyDying
@@ -1825,6 +1834,7 @@ IndianMemeTemplates
 IndianMeyMeys
 IndiaNostalgia
 IndianOTTbestof
+indiansports
 IndianStockMarket
 IndianStreetBets
 IndianTeenagers
@@ -1833,6 +1843,7 @@ indiasocial
 IndiaSpeaks
 IndiaTech
 IndiaTrending
+indiegames
 indieheads
 indonesia
 INDYCAR
@@ -2002,6 +2013,7 @@ keto
 kfeets
 KGATLW
 KGBTR
+KidCudi
 KidsAreFuckingStupid
 KiernanShipka
 KillLaKill
@@ -2009,6 +2021,7 @@ killsixbilliondemons
 killteam
 Killtony
 KimetsuNoYaiba
+kimminjeong
 kingdomcome
 KingdomHearts
 KingOfTheHill
@@ -2032,6 +2045,7 @@ kollywood
 Komi_san
 Konosuba
 korea
+KoreanFood
 korrasami
 KotakuInAction
 kotakuinaction2
@@ -2193,6 +2207,7 @@ LowQualityMemes
 LowSodiumCyberpunk
 LowStakesConspiracies
 LPOTL
+lrcast
 LSD
 LSUFootball
 LTB_iel
@@ -2341,6 +2356,7 @@ metalgearsolid
 Metallica
 MetalMemes
 Metroid
+metroidvania
 mew_irl
 MexicanMemes
 mexico
@@ -2399,6 +2415,7 @@ MMA
 mmamemes
 MobileLegendsGame
 ModernWarfareII
+ModernWarfareIII
 moedred
 MoeMorphism
 MoiraMains
@@ -2499,6 +2516,7 @@ natureismetal
 NatureofPredators
 natureporn
 Naturewasmetal
+naviamains
 navy
 nayeon
 nba
@@ -3325,9 +3343,11 @@ Slovakia
 Slovenia
 SlowNewsDay
 slp
+smallbusiness
 smashbros
 SmashBrosUltimate
 SMG4
+Smilepleasse
 Smite
 smoking
 SmugIdeologyMan
@@ -3460,6 +3480,7 @@ StrangerThings
 straykids
 StreetFighter
 StreetMartialArts
+Studium
 stunfisk
 StupidFood
 stupidpol
@@ -3729,6 +3750,7 @@ transgender
 transit
 TransLater
 Transmogrification
+transplace
 TrapCuties
 trashpandas
 TrashTaste
@@ -3771,6 +3793,7 @@ Turkophobia
 turtle
 TuxedoCats
 twicemedia
+twicememes
 twilight
 TwinCities
 twinpeaks
@@ -4110,6 +4133,7 @@ ZeldaIsCute
 ZeldaMemes
 ZeLink
 Zendaya
+zerobaseone
 ZeroCovidCommunity
 zillowgonewild
 Zoomerchan3
