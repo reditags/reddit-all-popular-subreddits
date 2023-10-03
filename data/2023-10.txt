@@ -232,6 +232,7 @@ argentina
 ArgentinaBenderStyle
 ArianaGrande
 arielwinter
+ariheads
 Aritzia
 arizona
 ARK
@@ -445,6 +446,7 @@ bindingofisaac
 BinIchDasArschloch
 biology
 bioniclelego
+biotech
 birding
 bisexual
 BisexualTeens
@@ -505,6 +507,7 @@ bookshelf
 BoomersBeingFools
 BorderCollie
 Borderlands2
+borderlands3
 boringdystopia
 BORUpdates
 borussiadortmund
@@ -1371,6 +1374,7 @@ FullmetalAlchemist
 functionalprint
 FundieSnarkUncensored
 funhaus
+funkopop
 funny
 FunnyandSad
 FunnyAnimals
@@ -1545,6 +1549,7 @@ GymMotivation
 h3h3productions
 Habs
 HadesTheGame
+HadToHurt
 HaileeSteinfeld
 HairDye
 HalfLife
@@ -1738,6 +1743,8 @@ IndiaCricket
 indiadiscussion
 indiameme
 Indiana
+indianajones
+indianamassara
 IndianArtAI
 IndianBeautyDeals
 indianbikes
@@ -2362,6 +2369,7 @@ Music
 musicsuggestions
 Mustang
 MXRplays
+MyAdventuresWithSuper
 mycology
 MyHeroAcadamia
 mylittlepony
@@ -2420,6 +2428,7 @@ neopets
 nespresso
 Nestofeggs
 Netherlands
+NeuroSama
 NeuvilletteMains_
 Neverbrokeabone
 nevertellmetheodds
@@ -2655,6 +2664,7 @@ pakistan
 palebeauties
 Paleontology
 Palestine
+Palia
 PallasCats
 PandR
 PanPorn
@@ -2772,10 +2782,12 @@ placeDE
 Planetside
 PlanetZoo
 PlantBasedDiet
+PlantedTank
 plants
 PlantsVSZombies
 playboicarti
 playmygame
+playrust
 PlaySquad
 playstation
 Plumbing
@@ -2970,6 +2982,7 @@ RhodeIsland
 rickandmorty
 rickygervais
 rienabranler
+RighteousGemstones
 RimWorld
 riodejaneiro
 ripcity
@@ -3197,6 +3210,7 @@ slp
 smashbros
 SmashBrosUltimate
 SMG4
+Smite
 smoking
 SmugIdeologyMan
 snails
@@ -3430,6 +3444,7 @@ terriblefacebookmemes
 TerrifyingAsFuck
 TeslaLounge
 TeslaModel3
+TeslaModelY
 teslamotors
 teslareferralcode
 Texans
@@ -3484,6 +3499,7 @@ TheLib
 TheMajorityReport
 TheMandalorianTV
 thenetherlands
+TheNinthHouse
 theocho
 TheOdysseyHadAPurpose
 TheOther14
@@ -3575,12 +3591,14 @@ tragedeigh
 trailerparkboys
 trains
 trans
+TransClones
 Transformemes
 transformers
 transgender
 transit
 TransLater
 Transmogrification
+TrapCuties
 trashpandas
 TrashTaste
 trashy
@@ -3592,6 +3610,7 @@ tressless
 trippinthroughtime
 TrollCoping
 trolleyproblem
+tron
 TruckerCats
 Truckers
 TrueAnon
@@ -3715,6 +3734,7 @@ vegan
 vegancirclejerk
 VeganFoodPorn
 vegas
+vegaslocals
 vegetablegardening
 velvethippos
 venturebros
