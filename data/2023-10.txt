@@ -96,6 +96,7 @@ AFCWestMemeWar
 AFL
 afrikaans
 AfterEffects
+afterjeeneet
 agedlikemilk
 agedtattoos
 agency
@@ -130,6 +131,7 @@ AlternateHistory
 AltFashion
 AlzheimersGroup
 AMA
+AmandaHolden
 AmateurRoomPorn
 AmazonDSPDrivers
 AmazonFC
@@ -171,6 +173,7 @@ AnimalsBeingBros
 AnimalsBeingDerps
 AnimalsBeingGeniuses
 AnimalsBeingJerks
+AnimalsBeingMoms
 AnimalsBeingStrange
 animalsdoingstuff
 AnimalTracking
@@ -312,6 +315,7 @@ australian
 AustralianCattleDog
 AustralianMilitary
 AustralianNostalgia
+AustralianPolitics
 AustralianShepherd
 Austria
 austriahungary
@@ -576,6 +580,7 @@ buhaydigital
 buildapc
 bulgaria
 Bulldogs
+Bullshido
 buncomfortable
 BungouStrayDogs
 Bunnies
@@ -652,6 +657,7 @@ CATHELP
 Catholicism
 CatholicMemes
 Catloaf
+Catmemes
 catpics
 catpictures
 cats
@@ -683,6 +689,7 @@ CelebsInTights
 CelebWivesofNashville
 celestegame
 cellbits
+CelticFC
 CemeteryPorn
 centuryhomes
 CFB
@@ -1016,6 +1023,7 @@ DestinyFashion
 DestinyMemes
 DestinyTheGame
 DestroyLonely
+DetailCraft
 detroitlions
 DetroitPistons
 deutschememes
@@ -1062,6 +1070,7 @@ doctorwho
 DoctorWhumour
 Documentaries
 doener
+Doenerverbrechen
 DOG
 DogAdvice
 dogelore
@@ -1755,6 +1764,7 @@ ImaginaryWitches
 ImanVellani
 imax
 ImFinnaGoToHell
+ImperialFists
 ImpracticalJokers
 imsorryjon
 ImTheMainCharacter
@@ -1832,6 +1842,7 @@ IrrationalMadness
 Isekai
 islam
 Israel
+IsraeliBeauty
 Italia
 ItalianGreyhounds
 italy
@@ -2546,6 +2557,7 @@ notliketheothergirls
 notmycat
 NotMyJob
 notredamefootball
+nottingham
 nova
 nowmycat
 NPR
@@ -2841,6 +2853,7 @@ PokemonMasters
 pokemonmemes
 PokemonScarletViolet
 PokemonSleep
+PokemonSwordAndShield
 PokemonTCG
 PokemonUnite
 poker
@@ -2949,6 +2962,7 @@ raimimemes
 Rainbow6
 RainbowEverything
 RainbowHigh
+raining
 rainworld
 raleigh
 ralsei
@@ -3304,6 +3318,7 @@ sports
 sportsbetting
 sportsbook
 spotted
+spreadsmile
 spreadytoes
 springboks
 Spunchbob
@@ -3365,6 +3380,7 @@ stonerfood
 stopdrinking
 stopdrinkingfitness
 StoppedWorking
+stories
 Stormlight_Archive
 storyofseasons
 StrangeEarth
@@ -3492,6 +3508,7 @@ tf2
 TF2fashionadvice
 tf2shitposterclub
 tf_irl
+Thailand
 thalassophobia
 thankful1
 thanksihateit
@@ -3670,6 +3687,7 @@ TurkeyJerky
 turkish
 TurkishCats
 TurkishCeleb
+Turkophobia
 turtle
 TuxedoCats
 twicemedia
