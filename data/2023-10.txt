@@ -80,6 +80,7 @@ ADHDmemes
 AdorableDragons
 Adulting
 adultingph
+adultswim
 AdvancedRunning
 adventuretime
 Advice
@@ -299,6 +300,7 @@ attackontitan
 auckland
 Audi
 AusFinance
+auslaw
 AusLegal
 AusMemes
 australia
@@ -422,6 +424,7 @@ bernesemountaindogs
 Berserk
 bestconspiracymemes
 bestoflegaladvice
+bettafish
 betterCallSaul
 BetterEveryLoop
 Beyblade
@@ -627,6 +630,7 @@ casualnintendo
 CasualRO
 CasualUK
 cat
+CatAdvice
 CatastrophicFailure
 catcare
 Catculations
@@ -651,6 +655,7 @@ Catsmirin
 catsofrph
 CatsOnCats
 CatsStandingUp
+CatsWhoSmoke
 Catswhoyell
 CatsWithDogs
 Catswithjobs
@@ -889,6 +894,7 @@ Cyberpunk
 cyberpunkgame
 cyberpunkred
 cybersecurity
+cybertruck
 cycling
 czech
 czechmemes
@@ -1047,6 +1053,7 @@ dogpictures
 dogs
 dogsusingpillows
 Dolls
+donaldglover
 dontdeadopeninside
 donthelpjustfilm
 dontputyourdickinthat
@@ -1315,6 +1322,7 @@ FortNiteBR
 FortniteMemes
 forwardsfromgrandma
 ForwardsFromKlandma
+forza
 ForzaHorizon
 foundsatan
 fountainpens
@@ -1493,6 +1501,7 @@ gravityfalls
 graz
 GreatBritishMemes
 greatdanes
+GreatnessOfWrestling
 greatpyrenees
 greebles
 greececirclejerk
@@ -1624,6 +1633,7 @@ HonkaiStarRail_leaks
 HonzukiNoGekokujou
 hopeposting
 Horimiya
+horizon
 HorizonForbiddenWest
 Hornyjail
 horror
@@ -1793,6 +1803,7 @@ ItemShop
 IThinkYouShouldLeave
 itookapicture
 ITookAPicturePH
+itstheyak
 ITZY
 IVE
 iwoulddiefornoodle
@@ -1853,6 +1864,8 @@ Josiehamming
 jpegmafia
 jschlatt
 jschlattsubmissions
+JSOCarchive
+Judaism
 JudgeDredd
 Jujutsufolk
 JuJutsuKaisen
@@ -1946,6 +1959,7 @@ kristenstewart
 ksi
 KumoDesu
 KUWTKsnark
+KyraReneeSivertson
 l4d2
 labrador
 labrats
@@ -2149,6 +2163,7 @@ ManorLords
 MapPorn
 mapporncirclejerk
 MarchAgainstNazis
+marchingband
 MargotRobbie
 marijuanaenthusiasts
 MarinaNabokina
@@ -2216,6 +2231,7 @@ memesITA
 memesopdidnotlike
 MemeVideos
 memexico
+Mensmittenwithkittens
 MensRights
 menwritingwomen
 MEOW_IRL
@@ -2299,9 +2315,11 @@ MordekaiserMains
 moreplatesmoredates
 MoriCalliope
 mormon
+MormonShrivel
 Morrowind
 MortalKombat
 Mortalkombatleaks
+MoscowMurders
 motherinlawsfromhell
 moths
 motogp
@@ -2361,6 +2379,7 @@ NarcoFootage
 Naruto
 narutomemes
 NASCAR
+nashville
 NatalieDormer
 natalieportman
 NationalPark
@@ -2594,6 +2613,7 @@ OTMemes
 otomegames
 OtomeIsekai
 ottawa
+OttawaSenators
 Otters
 Ouchmyflaps
 OurFlagMeansDeath
@@ -2620,6 +2640,7 @@ PaigeSpiranac
 painting
 pakistan
 palebeauties
+Paleontology
 Palestine
 PallasCats
 PandR
@@ -2831,6 +2852,7 @@ PS4
 PS5
 PSVR
 psx
+psych
 psychology
 Psychonaut
 PTCGL
@@ -2843,6 +2865,7 @@ puns
 puppies
 PuppySmiles
 PurplePillDebate
+purrrfect
 pusheen
 puzzles
 pykemains
@@ -2940,6 +2963,7 @@ riskofrain
 Rivian
 RoastMe
 RobloxAvatars
+ROBLOXBans
 Rochester
 RocketLeague
 RocketLeagueEsports
@@ -3154,6 +3178,7 @@ Slipknot
 Slovakia
 Slovenia
 SlowNewsDay
+slp
 smashbros
 SmashBrosUltimate
 SMG4
@@ -3768,6 +3793,7 @@ whatisthisbone
 whatisthisbug
 whatisthiscar
 whatisthisthing
+whatsnakeisthis
 whatsthisbird
 whatsthisbug
 whatsthisplant
@@ -3877,6 +3903,7 @@ Yorkies
 Yosemite
 YouBelongWithMemes
 YoujoSenki
+youngjustice
 youngpeoplereddit
 youngpeopleyoutube
 YouniquePresenterMS
