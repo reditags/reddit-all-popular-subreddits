@@ -222,6 +222,7 @@ anxietymemes
 AnyaTaylorJoy
 AO3
 aoe2
+aoe4
 apexlegends
 ApexOutlands
 ApexUncovered
@@ -453,6 +454,7 @@ BG3
 BG3Builds
 bi_irl
 bicycletouring
+bicycling
 BicyclingCirclejerk
 BigBrother
 BigCatGifs
@@ -752,6 +754,7 @@ childemains
 chile
 China
 Chiraqology
+chloe
 chloegracemoretz
 Choices
 Chonkers
@@ -860,6 +863,7 @@ ContagiousLaughter
 ContestOfChampions
 ContraPoints
 controlgame
+ConvenientCop
 cookiedecorating
 Cooking
 coolguides
@@ -912,6 +916,7 @@ crossdressing
 CrossfitGirls
 CrossStitch
 crowbro
+crows
 crtgaming
 CrucibleGuidebook
 CrusaderKings
@@ -1042,6 +1047,7 @@ DesignMyRoom
 DesignPorn
 desimemes
 DesiVideoMemes
+DesperateHousewives
 DessertPorn
 Destiny
 destiny2
@@ -1055,6 +1061,7 @@ DetroitPistons
 deutschememes
 developersIndia
 DevilMayCry
+devils
 devinbrugman
 DHHMemes
 Diablo
@@ -1126,6 +1133,7 @@ DotA2
 DougDoug
 doughboys
 DoveCameron
+DownvotedToOblivion
 dragonballfighterz
 DragonballLegends
 Dragonballsuper
@@ -1147,6 +1155,7 @@ Drizzy
 DrMartens
 DronedOrc
 dropout
+Drugs
 Drukhari
 drums
 dualipa
@@ -1213,6 +1222,7 @@ Emoney
 ems
 ender3
 endometriosis
+energydrinks
 EngagementRings
 engineeringmemes
 EngineeringPorn
@@ -1323,6 +1333,7 @@ FFVIIRemake
 ffxi
 ffxiv
 FFXVI
+FierceFlow
 FifaCareers
 Fighters
 FightLibrary
@@ -1556,6 +1567,7 @@ goblincore
 GoCommitDie
 GodofWar
 godot
+godtiersuperpowers
 GODZILLA
 Gold
 Goldendoodles
@@ -1894,6 +1906,7 @@ investimentos
 Invincible
 Invisalign
 ios
+Iowa
 iphone
 ireland
 IRLEasterEggs
@@ -1909,6 +1922,7 @@ Italia
 ItaliaMeme
 ItalianGreyhounds
 italy
+Itasha
 ITCareerQuestions
 ItemShop
 IThinkYouShouldLeave
@@ -2077,6 +2091,7 @@ krakow
 kristenstewart
 ksi
 KumoDesu
+KusanaliMains
 KUWTKsnark
 KyraReneeSivertson
 l4d2
@@ -2198,6 +2213,7 @@ longboyes
 LongDistance
 longhair
 LonghornNation
+longrange
 lookatmydog
 lookyourbest
 LOONA
@@ -2289,6 +2305,7 @@ MaleYandere
 MaliciousCompliance
 mallninjashit
 malluhorny
+Maltese
 manchester
 ManchesterUnited
 MandirGang
@@ -2535,6 +2552,7 @@ NASCAR
 nashville
 NatalieDormer
 natalieportman
+National_Pet_Adoption
 NationalPark
 NationalServiceSG
 NativePlantGardening
@@ -2585,6 +2603,7 @@ NewParents
 NewPatriotism
 news
 NewsOfTheStupid
+NewTubers
 NewVegasMemes
 newyorkcity
 NewYorkMets
@@ -2968,6 +2987,7 @@ pokemongobrag
 PokemonInfiniteFusion
 PokemonMasters
 pokemonmemes
+PokemonROMhacks
 PokemonScarletViolet
 PokemonSleep
 PokemonSwordAndShield
@@ -3120,6 +3140,7 @@ redditonwiki
 RedDwarf
 RedheadBeauties
 RedheadedGoddesses
+RedHotChiliPeppers
 RedLetterMedia
 redneckengineering
 redrising
@@ -3330,6 +3351,7 @@ Shitty_Car_Mods
 Shittyaskflying
 shittybloodborne
 shittyfoodporn
+shittyhalolore
 ShittyLifeProTips
 ShittyMapPorn
 shittymoviedetails
@@ -3419,6 +3441,7 @@ SonicTheHedgehog
 SonoBisqueDoll
 SonyAlpha
 SophiaDiamondXX
+SoulblightGravelords
 SoulKnight
 Soundgarden
 soup
@@ -3433,6 +3456,7 @@ SpaceXMasterrace
 spain
 SpanishHistoryMemes
 SpanishMeme
+specializedtools
 SpeculativeEvolution
 SpeedOfLobsters
 speedrun
@@ -3491,6 +3515,7 @@ StarWarsEU
 StarWarsleftymemes
 starwarsmemes
 starwarsrebels
+starwarsspeculation
 Staryuukisincensura
 steak
 Steam
@@ -3835,6 +3860,7 @@ TurkishCats
 TurkishCeleb
 TurkiyeCelebrity
 Turkophobia
+TurnerClassicMovies
 turtle
 TuxedoCats
 twicemedia
