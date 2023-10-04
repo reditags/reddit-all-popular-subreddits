@@ -122,6 +122,7 @@ AlbedosCreations
 alberta
 Albuquerque
 Alderwood
+aldi
 Aleague
 alexandradaddario
 AlexisRen
@@ -148,6 +149,7 @@ Amberverse_
 amcstock
 Amd
 AmericaBad
+americanairlines
 americandad
 americangirl
 AmericanHorrorStory
@@ -351,6 +353,7 @@ AwesomeCarMods
 awfuleverything
 aww
 Awwducational
+awwnimate
 Awww
 awwwtf
 axolotls
@@ -413,6 +416,7 @@ battlestations
 battletech
 bayarea
 BayernMunich
+Bayonetta
 bbaldiback
 BBBY
 bbby_remastered
@@ -603,6 +607,7 @@ bts7
 buccos
 budgetfood
 budgies
+Buffalo
 buffalobills
 buffy
 buhaydigital
@@ -707,6 +712,7 @@ catsofrph
 CatsOnCats
 CatsStandingUp
 CatsWhoSmoke
+CatsWhoSqueak
 Catswhoyell
 CatsWithDogs
 Catswithjobs
@@ -1262,6 +1268,7 @@ engrish
 EnoughCommieSpam
 EnoughLibertarianSpam
 EnoughMuskSpam
+enoughpetersonspam
 entitledparents
 EntitledPeople
 Entomology
@@ -1396,6 +1403,7 @@ Fit_babes
 FitAndNatural
 FitGirlRepack
 fitness30plus
+FitToFat
 fivenightsatfreddys
 fixedbytheduet
 FL_Studio
@@ -1626,6 +1634,7 @@ goodomens
 GoodOmensAfterDark
 goodomensprime
 GooglePixel
+goth
 GothFashion
 GothGirls
 GothStyle
@@ -1710,6 +1719,7 @@ Harley
 harrypotter
 Hasan_Piker
 hatsune
+hauntedchocolatier
 HauntedMound
 Havanese
 HayleyAtwell
@@ -2085,6 +2095,7 @@ KateMiddleton
 KatherynWinnick
 Kawasaki
 KayAdams
+Kayaking
 KellyBrook
 kencarson
 kendalljenner
@@ -2858,6 +2869,7 @@ OnlyMurdersHulu
 ontario
 OooBigStretch
 OopsThatsDeadly
+OpenAI
 opensea
 Opossums
 orangecats
@@ -3237,6 +3249,7 @@ RelationshipMemes
 religiousfruitcake
 reloading
 renfaire
+Reno
 Repsneakers
 RepsneakersDogs
 reptiles
@@ -3459,6 +3472,7 @@ shrooms
 ShuumatsuNoValkyrie
 Siamesecats
 Sidemen
+Sigmarxism
 signalis
 silenthill
 Silksong
@@ -3703,6 +3717,7 @@ talk_hunfluencers
 tall
 Tallahassee
 tallyhall
+tamagotchi
 TamannaBhatia
 TamilNadu
 tampabayrays
@@ -3834,6 +3849,7 @@ TheSimpsons
 thesims
 thesopranos
 TheStrokes
+TheTryGuys
 theunforgiven
 thewalkingdead
 TheWalkingDeadGame
@@ -3861,6 +3877,7 @@ TIGHTPUSSY
 TIHI
 TikTokCringe
 tiktokgossip
+TimAndEric
 timberwolves
 TimPool
 Tinder
@@ -3909,6 +3926,7 @@ totalwar
 TOTK
 touhou
 TowerofGod
+ToyotaTacoma
 TrackMania
 traderjoes
 traditionaltattoos
@@ -4058,6 +4076,7 @@ ValorantCompetitive
 ValorantMemes
 vancouver
 Vanderpumpaholics
+vandwellers
 VanessaHudgens
 VanLife
 Vanossgaming
@@ -4105,6 +4124,7 @@ Vocaloid
 void_memes
 VoidCats
 VolleyballGirls
+Volvo
 VoteDEM
 voyager
 VShojo
@@ -4258,6 +4278,7 @@ writing
 WritingPrompts
 WRX
 WTF
+wtfjennajameson
 wunkus
 WutheringWaves
 WWE
