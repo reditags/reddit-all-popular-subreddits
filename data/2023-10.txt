@@ -120,6 +120,7 @@ ahsokatano
 AIDKE
 Aikuros
 airplaneears
+airpods
 AirRage
 airsoft
 aisekai
@@ -419,6 +420,7 @@ BaldursGate3
 balkans_irl
 BalticStates
 BambuLab
+Banff
 bangalore
 bangtan
 Bannerlord
@@ -814,6 +816,7 @@ CharacterRant
 Chargers
 Charlotte
 CharlotteSena
+Charlottesville
 charmed
 CharruaDevs
 ChatGPT
@@ -1167,6 +1170,7 @@ DestroyLonely
 DetailCraft
 detroitlions
 DetroitPistons
+deusasbrazil
 deutschememes
 developersIndia
 DevilMayCry
@@ -2663,6 +2667,7 @@ MiddleClassFinance
 MiddleEarthMiniatures
 midjourney
 Midsommar
+MightyHarvest
 migraine
 MikuNakano
 MildFemboys
@@ -2810,6 +2815,7 @@ NameNerdCirclejerk
 namenerds
 namesoundalikes
 namethatcar
+Nami_Fanclub
 nanaimo
 NarcoFootage
 Naruto
@@ -3040,6 +3046,7 @@ OliveMUA
 oliviadunne
 OliviaMunn
 OliviaRodrigo
+OliviaRodrigo_
 OliviaTaylorDudley
 olympia
 OMORI
@@ -3343,6 +3350,7 @@ prime
 PrimeiraLiga
 PrincessesOfPower
 PrintedWarhammer
+Prison
 prius
 privacy
 ProCreate
@@ -3441,6 +3449,7 @@ ReasonableFantasy
 REBubble
 recruitinghell
 red_velvet
+reddeadfashion
 reddeadredemption
 reddeadredemption2
 reddevils
@@ -3615,6 +3624,7 @@ ScrapMetal
 Scream
 Screenwriting
 scrungycats
+seaglass
 seals
 Seaofthieves
 Seattle
@@ -4000,6 +4010,7 @@ technicallythetruth
 Technoblade
 technology
 techsupportgore
+TedLasso
 teefies
 Teenager_Polls
 teenagers
