@@ -101,6 +101,7 @@ AFCEastMemeWar
 AFCNorthMemeWar
 AFCSouthMemeWar
 AFCWestMemeWar
+afkarena
 AFL
 afrikaans
 AfterEffects
@@ -160,6 +161,7 @@ americandad
 americangirl
 AmericanHorrorStory
 amex
+Amigurumi
 AmIHotSFW
 AmItheAsshole
 amiugly
@@ -340,6 +342,7 @@ AusFinance
 auslaw
 AusLegal
 AusMemes
+AusRenovation
 australia
 australian
 AustralianCattleDog
@@ -486,6 +489,7 @@ bigfoot
 biglaw
 bihar
 bikepacking
+Bikeporn
 BikiniBottomTwitter
 BillieEilish1
 billsimmons
@@ -502,6 +506,7 @@ bizarrelife
 blackcats
 Blackcelebrity
 BlackClover
+blackdesertonline
 Blacklabs
 blacklagoon
 blackmagicfuckery
@@ -598,6 +603,7 @@ bridezillas
 bridget
 BrieLarson
 brighton
+BrightonHoveAlbion
 brisbane
 bristol
 Britain
@@ -1935,10 +1941,12 @@ ImpracticalJokers
 imsorryjon
 ImTheMainCharacter
 Incorgnito
+IncredibleIndia
 india
 india_cycling
 IndiaCricket
 indiadiscussion
+IndiaInvestments
 indiameme
 Indiana
 indianajones
@@ -2650,6 +2658,7 @@ MurderBuns
 MurderDrones
 MurderedByWords
 murdermittens
+murdochsucks
 MusclesOfAmazons
 mushroomID
 Music
@@ -3243,6 +3252,7 @@ pykemains
 pyrocynical
 Python
 QAnonCasualties
+qatar
 qotsa
 Quebec
 queensofgenshin
@@ -3436,6 +3446,7 @@ scaryeddie
 Schaffrillas
 SchittsCreek
 schizoposters
+schkreckl
 schnauzers
 schrumpflation
 science
@@ -3466,6 +3477,7 @@ SeeleMains
 seinfeld
 SeishunButaYarou
 Sekiro
+selbermachen
 SelenaGomez
 SelfAwarewolves
 selfhosted
@@ -3520,6 +3532,7 @@ ShitPostCrusaders
 shitposting
 ShitpostTC
 ShitpostXIV
+shitrentals
 Shitty_Car_Mods
 Shittyaskflying
 shittybloodborne
@@ -3970,6 +3983,7 @@ todayilearned
 toddlers
 ToiletPaperUSA
 tokkiefeesboek
+tokkiemarktplaats
 tollywood
 TombRaider
 tomorrow
@@ -4103,6 +4117,7 @@ Ulta
 ultimate
 Ultrakill
 ultralight_jerk
+Ultramarines
 UNBGBBIIVCHIDCTIICBG
 unclebens
 Undertale
@@ -4308,6 +4323,7 @@ wikipedia
 wildlifephotography
 wildlyvagina
 wildrift
+windows
 Windows11
 Wings
 WingsOfFire
