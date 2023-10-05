@@ -1874,6 +1874,7 @@ Hardcore
 hardcoreaww
 HardcoreNature
 hardimages
+hardstyle
 hardware
 Harley
 harrypotter
@@ -2368,6 +2369,7 @@ KukiShinobuMains
 KumoDesu
 KusanaliMains
 KUWTKsnark
+kwoneunbi
 KyraReneeSivertson
 l4d2
 labdiamond
@@ -3577,6 +3579,7 @@ rickandmorty
 rickygervais
 rienabranler
 RighteousGemstones
+rimesegate
 RimWorld
 riodejaneiro
 ripcity
@@ -3971,6 +3974,7 @@ starwarsspeculation
 Staryuukisincensura
 steak
 Steam
+steam_giveaway
 steamdeals
 SteamDeck
 steelers
@@ -4025,6 +4029,7 @@ suicidebywords
 summerhousebravo
 SummertimeGirls
 summonerschool
+summonerswar
 sunraybee
 suns
 sunset
