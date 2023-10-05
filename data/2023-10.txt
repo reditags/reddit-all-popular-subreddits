@@ -721,6 +721,7 @@ canberra
 canceledpod
 candy
 canucks
+CanyonBikes
 CapitalismSux
 CapitolConsequences
 capybara
@@ -1147,6 +1148,7 @@ deadmeatjames
 DeadSpace
 deathbattle
 deathgrips
+deathguard40k
 Deathkorpsofkrieg
 deathnote
 DeathrattlePorn
@@ -1448,8 +1450,10 @@ Fallout
 FallOutBoy
 FalloutMemes
 falloutnewvegas
+Falschparker
 familyguy
 FamousFaces
+FanFiction
 fansofcriticalrole
 Fantasy_Football
 fantasyfootball
@@ -2084,6 +2088,7 @@ IndianDankMemes
 IndianFashionAddicts
 IndianFestivals
 Indiangirlsontinder
+IndianHistory
 indianmedschool
 indianmemer
 IndianMemeTemplates
@@ -2356,6 +2361,7 @@ KUWTKsnark
 KyraReneeSivertson
 l4d2
 labdiamond
+LabourUK
 labrador
 labrats
 lacamiseta
@@ -2600,6 +2606,7 @@ MandirGang
 MandJTV
 MangaCollectors
 manhwa
+MANILA
 Manitoba
 ManorLords
 MapPorn
@@ -3265,6 +3272,7 @@ PewdiepieSubmissions
 PeytonList
 PeytonListHR
 PferdeSindKacke
+PhantomForces
 pharmacy
 PhasmophobiaGame
 phcareers
@@ -3387,6 +3395,7 @@ portugal
 PORTUGALCARALHO
 portugueses
 Pottery
+PouchCatatoes
 PoutineCrimes
 povertyfinance
 powerrangers
@@ -3840,6 +3849,7 @@ snakes
 SnapshotHistory
 sneakerreps
 Sneks
+SNKRS
 SnootGame
 snowboarding
 snowleopards
@@ -4310,6 +4320,7 @@ trolleyproblem
 tron
 TruckerCats
 Truckers
+trucksim
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
