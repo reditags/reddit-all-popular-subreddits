@@ -41,6 +41,7 @@
 70s
 75HARD
 7daystodie
+7vsWild
 80s
 80smusic
 90DayFiance
@@ -156,6 +157,7 @@ AllThatIsInteresting
 allthemods
 AllThingsDND
 AlternateHistory
+AlternateHistoryMemes
 AlternativeHistory
 AltFashion
 alvvays
@@ -237,6 +239,7 @@ animepiracy
 AnimeTomboys
 Animewallpaper
 Annabananaxdddd
+AnnaJay
 annakendrick
 AnneHathaway
 annyfox
@@ -452,6 +455,7 @@ baseballcards
 baseballcirclejerk
 BashTheFash
 basset
+bassethounds
 bassfishing
 BassGuitar
 bathandbodyworks
@@ -567,6 +571,7 @@ BlatantMisogyny
 bleach
 BleachBraveSouls
 blender
+blendermemes
 Blep
 blessedimages
 Blink182
@@ -731,6 +736,7 @@ canadahousing
 CanadaHousing2
 canberra
 canceledpod
+cancer
 candy
 canucks
 CanyonBikes
@@ -1112,6 +1118,7 @@ DanielaMelchior
 Daniellarson
 DaniSpeegle
 Dank
+dank_meme
 DankAndrastianMemes
 dankchristianmemes
 dankgentina
@@ -1171,6 +1178,7 @@ deathnote
 DeathrattlePorn
 DeathStranding
 Decks
+DecodingTheGurus
 deeplearning
 DeepRockGalactic
 DeepSpaceNine
@@ -1345,6 +1353,7 @@ EatTheRich
 EbonyImagination
 Economics
 economy
+EDC
 ededdneddy
 Edelgard
 Edgerunners
@@ -1704,6 +1713,7 @@ gaming
 Gamingcirclejerk
 GamingLaptops
 GamingLeaksAndRumours
+gamingnews
 Ganyu
 GarandThumb
 Gardevoir
@@ -1724,6 +1734,7 @@ GayRateMe
 GaySoundsShitposts
 GCSE
 geckos
+GeForceNOW
 gekte
 GenderAnarchy
 genestealercult
@@ -1859,6 +1870,7 @@ Gunpla
 gunpolitics
 GunPorn
 guns
+GunsNRoses
 GuysBeingDudes
 GwenMains
 GYM
@@ -2243,8 +2255,10 @@ jerseycity
 jerseyshore
 jessicaalba
 JessicaChastain
+JetLagTheGame
 Jewdank
 jewelry
+Jewish
 JewishCooking
 jiggledolls
 jihyo
@@ -2652,6 +2666,7 @@ MarinaNabokina
 Mariners
 Mario
 mariokart
+Market76
 marketing
 Markiplier
 Marriage
@@ -2828,6 +2843,7 @@ Monsterverse
 montreal
 monzo
 MoonPissing
+Morbius
 MordekaiserMains
 moreplatesmoredates
 MoriCalliope
@@ -2992,6 +3008,7 @@ nhl
 Ni_Bondha
 Nicegirls
 niceguys
+NichtDieTagespresse
 NicolaCavanis
 nier
 NierAutomataGallery
@@ -3007,6 +3024,7 @@ NikkiGlaser
 NilouMains
 nin
 Ningen
+NingguangMains
 Ninjago
 NinomaeInanis
 nintendo
@@ -3650,6 +3668,7 @@ runescape
 running
 RunningCirclejerk
 rupaulsdragrace
+rurusama
 rusAskReddit
 rush
 russian
@@ -3900,6 +3919,7 @@ SnootGame
 snowboarding
 snowleopards
 snowrunner
+SNSD
 socalhiking
 soccercirclejerk
 socialism
@@ -4130,6 +4150,7 @@ taylormariehill
 TaylorSwift
 TaylorSwiftPictures
 TaylorSwiftsLegs
+tbatenovel
 Teachers
 TeachersInTransition
 teaching
@@ -4271,6 +4292,7 @@ Thisisimportantpod
 thisismylifenow
 ThisLooksFun
 thomastheplankengine
+threestooges
 ThriftGrift
 throneofglassseries
 ThroughTheWire
@@ -4619,6 +4641,7 @@ Welding
 Wellington
 Wellthatsucks
 wendigoon
+werewolves
 WerWieWas
 WesternAustralia
 WestSubEver
