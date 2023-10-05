@@ -867,6 +867,7 @@ chessindia
 CHIBears
 chicago
 chicagobulls
+chickens
 CHICubs
 Chihuahua
 childemains
@@ -1045,6 +1046,7 @@ cricketworldcup
 crime
 CrimeScene
 criminalminds
+cringe
 CringePurgatory
 CringeTikToks
 CringetopiaRM
@@ -1654,6 +1656,7 @@ Frenemies3
 FridayNightFunkin
 friendlyjordies
 Frieren
+FringeTheory
 frogs
 FromKittenToCat
 fromsoftware
@@ -1674,11 +1677,13 @@ FuckNestle
 fuckpongkrell
 Fuckthealtright
 fucktheccp
+FuckYouChiChan
 FUCKYOUINPARTICULAR
 FuckYouKaren
 fujifilm
 fulbo
 FullmetalAlchemist
+Fumofumo
 functionalprint
 FundieSnarkUncensored
 funhaus
@@ -2481,6 +2486,7 @@ leanbeefpatty
 LearmannTwins
 LearnJapanese
 learnprogramming
+learnpython
 learntodraw
 Leathercraft
 leaves
@@ -2499,6 +2505,7 @@ legendofkorra
 LegendsOfRuneterra
 lego
 legocirclejerk
+legogaming
 Legoleak
 legostarwars
 lemauvaiscoin
@@ -2566,6 +2573,7 @@ longisland
 longrange
 lookatmydog
 LookatMyHalo
+lookismcomic
 lookyourbest
 LOONA
 LooneyTunesLogic
@@ -2585,6 +2593,7 @@ lostpause
 lostredditors
 lotr
 lotrmemes
+lotro
 Lottery
 Louisville
 Louisvuitton
@@ -2798,6 +2807,7 @@ midjourney
 Midsommar
 MightyHarvest
 migraine
+MikaylaNogueira
 MikuNakano
 MildFemboys
 mildlyinfuriating
@@ -3040,6 +3050,7 @@ NieRAutomataGame
 nietdespeld
 NightInTheWoods
 NightLords
+NightVision
 Nightwing
 Nijisanji
 NikkeMobile
@@ -3235,6 +3246,7 @@ Osana
 OSHA
 OshiNoKoMemes
 osp
+OSU
 osugame
 OSWReview
 OTMemes
@@ -3448,6 +3460,7 @@ PokemonSleep
 PokemonSwordAndShield
 PokemonTCG
 PokemonUnite
+pokeplush
 poker
 pokerrrr2
 poland
@@ -3886,6 +3899,7 @@ Showerthoughts
 shraddhakapoor
 ShroomID
 shrooms
+shumako
 ShuumatsuNoValkyrie
 Siamesecats
 SiberianCats
@@ -4260,6 +4274,7 @@ TheAstraMilitarum
 TheBear
 TheBidenshitshow
 thebindingofisaac
+TheBloodline
 TheBoys
 TheBullWins
 TheCatTrapIsWorking
@@ -4367,6 +4382,7 @@ tokkiefeesboek
 tokkiemarktplaats
 tollywood
 TombRaider
+TomDelongeGuitars
 tomorrow
 TomorrowByTogether
 TomSka
@@ -4682,6 +4698,7 @@ wendigoon
 werewolves
 WerWieWas
 WesternAustralia
+westies
 WestSubEver
 WetlanderHumor
 WeWantPlates
