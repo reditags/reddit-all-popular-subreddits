@@ -327,6 +327,7 @@ AskChicago
 askdentists
 AskDocs
 AskElectronics
+AskFeminists
 AskFrance
 askgaybros
 AskHistorians
@@ -553,6 +554,7 @@ BirdsArentReal
 bisexual
 BisexualTeens
 bizarrelife
+bjork
 blackcats
 Blackcelebrity
 BlackClover
@@ -642,6 +644,7 @@ boxoffice
 boygenuis
 boykisser
 BPDmemes
+brandnew
 BrandNewSentence
 brandonherrara
 brandonsanderson
@@ -890,6 +893,7 @@ ChurchOfEula
 churchofharu
 ChurchOfKasumi
 ChurchofMarnie
+ChurchOfNejire
 ChurchofRise
 ChurchOfRyo
 CICO
@@ -1412,6 +1416,7 @@ EmmyRossum
 Emo
 Emoney
 EmoStyle
+EmpireDidNothingWrong
 ems
 ender3
 endometriosis
@@ -1866,6 +1871,8 @@ Grimdank
 Grimes
 grimezs
 GriseldaxFR
+GroundedGame
+GrowingMarijuana
 growtopia
 gshock
 GTA
@@ -2740,6 +2747,7 @@ me_irl
 me_irlgbt
 meatcrayon
 MechanicAdvice
+mechanical_gifs
 MechanicalKeyboards
 MechanicalPandey
 MedicalGore
@@ -3114,6 +3122,7 @@ NotMyJob
 notredamefootball
 nottingham
 nova
+NovaScotia
 nowmycat
 NPPfunny
 NPR
@@ -3236,6 +3245,7 @@ orangeisthenewblack
 orangetheory
 orchids
 oregon
+OrganizationPorn
 OriginalCharacter
 orioles
 orks
@@ -3335,6 +3345,7 @@ PecsAndPecBouncing
 PedroDBR
 peloton
 pelotonmemes
+penguins
 Pennsylvania
 PennyLaneIsTheName
 PeopleFuckingDying
@@ -3660,6 +3671,7 @@ RetroAR
 RetroBowl
 RetroFuturism
 retrogaming
+revancedapp
 Revolvers
 RheaRipley
 RhodeIsland
@@ -3704,6 +3716,7 @@ RoyaleHigh_Roblox
 RPClipsGTA
 RPDRDRAMA
 rpghorrorstories
+RSbookclub
 rugbyunion
 runescape
 running
@@ -4345,6 +4358,7 @@ ThisLooksFun
 thomastheplankengine
 threestooges
 ThriftGrift
+ThriftStoreCats
 throneofglassseries
 ThroughTheWire
 thugeshh
@@ -4403,6 +4417,7 @@ toradora
 toRANTo
 tornado
 Torontobluejays
+TorontoMetU
 torontoraptors
 TorontoRealEstate
 torties
@@ -4609,7 +4624,9 @@ VictoriaJusticeShine
 videogames
 videos
 VietNam
+Vindicta
 Vinesauce
+vintage
 vintageads
 vintagecomputing
 VintageFashion
