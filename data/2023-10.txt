@@ -304,6 +304,7 @@ ArchitecturalRevival
 architecture
 ArchitecturePorn
 arcticmonkeys
+arduino
 Argaming
 argentina
 ArgentinaBenderStyle
@@ -781,6 +782,7 @@ calvinandhobbes
 camaro
 cambridge
 CamilaCabello
+camilamendes
 camphalfblood
 canada
 Canada_sub
@@ -906,6 +908,7 @@ characterarcs
 characterdrawing
 CharacterRant
 Chargers
+charlixcx
 Charlotte
 CharlotteSena
 Charlottesville
@@ -2024,6 +2027,7 @@ h3h3_productions
 h3h3productions
 H3VR
 Habs
+hacking
 HadesTheGame
 HadToHurt
 HaileeSteinfeld
@@ -2058,6 +2062,7 @@ hauntedchocolatier
 HauntedMound
 HauntingOfHillHouse
 Havanese
+hawwkey
 HayleyAtwell
 HazbinHotel
 hbo
@@ -3976,6 +3981,7 @@ RWBY
 RWBYcritics
 ryangosling
 ryujin
+S2000
 sabaton
 Saber
 SabrinaCarpenter
@@ -4233,6 +4239,7 @@ snowrunner
 SNSD
 socalhiking
 soccercirclejerk
+socialanxiety
 socialism
 SocialismIsCapitalism
 SocialistRA
@@ -4679,6 +4686,7 @@ toolgifs
 Tools
 ToothpasteBoys
 TopCharacterDesigns
+TopGear
 TopMindsOfReddit
 TopSecretRecipes
 Topster
