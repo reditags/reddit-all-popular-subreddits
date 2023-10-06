@@ -479,6 +479,7 @@ Battlefield
 battlefield2042
 battlefield_one
 battlemaps
+BattleNetwork
 battlestations
 battletech
 bayarea
@@ -849,6 +850,7 @@ cellbits
 CelticFC
 CemeteryPorn
 centuryhomes
+CeresFauna
 CFB
 cfbmemes
 CFL
@@ -861,6 +863,7 @@ Chainsawfolk
 ChainsawMan
 chainsawmancirclejerk
 Championship
+ChangeYourChessFont
 ChantelJeffries
 Chaos40k
 chaoticgood
@@ -923,6 +926,7 @@ circlejerkaustralia
 CirclejerkSopranos
 cirkeltrek
 CitiesSkylines
+citypop
 CityPorn
 civ
 CivVI
@@ -1081,6 +1085,7 @@ criticalblunder
 criticalrole
 croatia
 crochet
+cromch
 Crossdress_Expression
 crossdressing
 CrossfitGirls
@@ -1390,6 +1395,7 @@ dyinglight
 DylanteroYT
 DynastyFF
 EA_NHL
+earlsweatshirt
 EarthPorn
 EASportsFC
 EASportsUFC
@@ -1943,6 +1949,7 @@ GYM
 GymMemes
 GymMotivation
 gymsnark
+h3h3_productions
 h3h3productions
 H3VR
 Habs
@@ -2485,6 +2492,7 @@ ksi
 KujouSaraMains
 KukiShinobuMains
 KumoDesu
+kurtisconner
 KusanaliMains
 KUWTKsnark
 kwoneunbi
@@ -2671,6 +2679,7 @@ LoveIsBlindOnNetflix
 LoveIslandTV
 LoveIslandUSA
 lovejoyband
+LoveLive
 LoveNikki
 LowQualityMemes
 LowSodiumCyberpunk
@@ -4460,6 +4469,7 @@ TIGHTPUSSY
 TIHI
 TikTokCringe
 tiktokgossip
+TILI
 TimAndEric
 timberwolves
 TimHortons
@@ -4949,6 +4959,7 @@ YarnAddicts
 yayfoxxo
 yeat_
 Yeen_irl
+yeezys
 Yeji
 YelanMains
 yesyesyesno
