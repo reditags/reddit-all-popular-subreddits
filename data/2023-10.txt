@@ -345,6 +345,7 @@ askcarsales
 AskChicago
 askdentists
 AskDocs
+AskElectricians
 AskElectronics
 AskFeminists
 AskFrance
@@ -587,6 +588,7 @@ BirdsArentReal
 Birmingham
 bisexual
 BisexualTeens
+BitLifeApp
 bizarrelife
 bjork
 blackcats
@@ -1370,6 +1372,7 @@ DokkanBattleCommunity
 Dolls
 donaldglover
 dontdeadopeninside
+DontFundMe
 donthelpjustfilm
 dontputyourdickinthat
 DonutMedia
@@ -2128,6 +2131,7 @@ homestead
 homestuck
 hometheater
 HomeworkHelp
+HommaInAction
 Honda
 HongKong
 honkaiimpact3
@@ -2246,6 +2250,7 @@ imax
 ImFinnaGoToHell
 Impeach_Trump
 ImperialFists
+ImpracticalArmour
 ImpracticalJokers
 IMSARacing
 imsorryjon
@@ -3308,6 +3313,7 @@ nottingham
 nova
 NovaScotia
 nowmycat
+noworking
 NPPfunny
 NPR
 nrl
@@ -4187,6 +4193,7 @@ Slovakia
 Slovenia
 SlowNewsDay
 slp
+Slycooper
 smallbusiness
 smashbros
 SmashBrosUltimate
@@ -4215,6 +4222,7 @@ socialskills
 SofiaVergara
 softwaregore
 sohee
+solar
 sololeveling
 solotravel
 SombraMains
@@ -4711,6 +4719,7 @@ trucksim
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
+truegaming
 TrueOffMyChest
 truerateme
 TrueReddit
@@ -4934,6 +4943,7 @@ WarthunderPlayerUnion
 washdc
 wasletztepreis
 wasletzterezension
+watch_dogs
 watcherentertainment
 Watches
 Watchexchange
