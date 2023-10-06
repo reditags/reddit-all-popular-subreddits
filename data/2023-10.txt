@@ -2,6 +2,7 @@
 10s
 10yearsatleast
 13or30
+1911
 19684
 197
 19th
@@ -256,6 +257,7 @@ AnnArbor
 AnneHathaway
 annyfox
 ANormalDayInRussia
+Anthropology
 Anticonsumption
 antifastonetoss
 antimeme
@@ -381,6 +383,7 @@ ATBGE
 AteistTurk
 AteTheOnion
 atheism
+atheistmemes
 attackeyes
 attackontitan
 AubreyPlaza
@@ -758,6 +761,7 @@ CalgaryFlames
 CaliBanging
 CalicoKittys
 California
+callofcthulhu
 CallOfDuty
 calvinandhobbes
 camaro
@@ -918,6 +922,7 @@ chloegracemoretz
 Choices
 Chonkers
 ChoosingBeggars
+ChoujinX
 Christianity
 christinahendricks
 ChronicIllness
@@ -1032,6 +1037,7 @@ confusingperspective
 CongratsLikeImFive
 Conservative
 ConservativeMemes
+conservatives
 conservativeterrorism
 Consoom
 conspiracy
@@ -1247,6 +1253,7 @@ DEG
 delhi
 delta
 Deltarune
+DelusionsOfAdequacy
 democrats
 DemonSchoolIrumakun
 DemonSlayerAnime
@@ -1274,6 +1281,7 @@ DestinyFashion
 DestinyMemes
 destinymichelle
 DestinyTheGame
+DestroyedTanks
 DestroyLonely
 DetailCraft
 Detroit
@@ -1437,6 +1445,7 @@ educationalgifs
 edwinbarnesc
 Eesti
 Eevee
+eFootball
 egg_irl
 Eggwick
 Eggy_memes
@@ -1796,11 +1805,13 @@ gamedev
 gamegrumps
 gameofthrones
 GamePhysics
+gamernews
 GameTheorists
 gamindustri
 gaming
 Gamingcirclejerk
 GamingDetails
+gamingelves
 GamingLaptops
 GamingLeaksAndRumours
 gamingnews
@@ -2076,6 +2087,7 @@ hmm
 hmmm
 hobart
 hockey
+hockeyplayers
 hoggit
 hoi4
 HOI4memes
@@ -2241,6 +2253,7 @@ IndianBoysOnTinder
 indiancelebs
 IndianCountry
 IndianDankMemes
+IndianDefense
 IndianFashionAddicts
 IndianFestivals
 Indiangirlsontinder
@@ -2582,6 +2595,7 @@ LasVegas
 LateStageCapitalism
 LateStageImperialism
 LatinoPeopleTwitter
+latterdaysaints
 latvia
 LaurenCohan
 law
@@ -2721,6 +2735,7 @@ lotr
 lotrmemes
 lotro
 Lottery
+louboutins
 Louisville
 Louisvuitton
 Lovecraft
@@ -2798,6 +2813,7 @@ MaladaptiveDreaming
 MalayalamMovies
 malaysia
 MalaysianFood
+Malazan
 malefashionadvice
 malehairadvice
 malelivingspace
@@ -3185,6 +3201,7 @@ nhl
 Ni_Bondha
 Nicegirls
 niceguys
+Nichijou
 NichtDieTagespresse
 NicolaCavanis
 nier
@@ -3234,6 +3251,7 @@ NorfFc
 norge
 normalgossip
 NormMacdonald
+Norse
 northdakota
 northernireland
 northernlion
@@ -3453,6 +3471,7 @@ paperearmate
 papermario
 ParadoxExtra
 paradoxplaza
+Parahumans
 Paramore
 ParanormalEncounters
 PardonMyTake
@@ -3637,6 +3656,7 @@ PoliticsPeopleTwitter
 Polska
 Polska_wpz
 Pomeranians
+ponds
 poodles
 popculturechat
 popheadscirclejerk
@@ -3908,6 +3928,7 @@ sadcringe
 sadiemckenna
 Sadiesink
 sadposting
+sailing
 sailormoon
 SaimanSays
 SaintMeghanMarkle
@@ -4056,6 +4077,7 @@ shitposting
 ShitpostTC
 ShitpostXIV
 shitrentals
+Shitstatistssay
 Shitty_Car_Mods
 Shittyaskflying
 shittybloodborne
@@ -4311,6 +4333,7 @@ SuddenlyLesbian
 Sufjan
 suggestmeabook
 suicidebywords
+suits
 summerhousebravo
 SummertimeGirls
 summonerschool
@@ -4348,6 +4371,7 @@ swordartonline
 swtor
 SWTOR_memes
 SydneySweeney
+sylvaneth
 synthesizers
 sysadmin
 systemofadown
@@ -4385,6 +4409,7 @@ TattooDesigns
 tattoos
 tattooscratchers
 Tau40K
+TayaMiller
 taylormariehill
 TaylorSwift
 TaylorSwiftPictures
@@ -4656,6 +4681,7 @@ TrueUnpopularOpinion
 trump
 Trumpgret
 Trumpvirus
+truscum
 Tsukihime
 TTSverse
 tuckedinkitties
@@ -4833,6 +4859,7 @@ Visiblemending
 visualnovels
 ViviWinkler
 Vivziepopmemes
+vlandiya
 Vocaloid
 void_memes
 VoidCats
