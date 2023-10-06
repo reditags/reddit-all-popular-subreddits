@@ -299,7 +299,9 @@ arborists
 arcane
 ArcBrowser
 Archaeology
+archeologyworld
 ArcherFX
+Archery
 ArchitecturalRevival
 architecture
 ArchitecturePorn
@@ -1344,6 +1346,7 @@ DisneyDiamonds
 DisneyEyes
 Disneyland
 DisneyPlus
+disneyvacation
 DisneyWorld
 distractible
 distressingmemes
@@ -1379,6 +1382,7 @@ dogsusingpillows
 DokkanBattleCommunity
 Dolls
 donaldglover
+Doner
 dontdeadopeninside
 DontFundMe
 donthelpjustfilm
@@ -1764,6 +1768,7 @@ FridayNightFunkin
 friendlyjordies
 Frieren
 FringeTheory
+frogdogs
 frogs
 FromKittenToCat
 fromsoftware
@@ -3131,6 +3136,7 @@ musclecar
 MusclesOfAmazons
 Muse
 mushroomID
+Mushrooms
 Music
 musicsuggestions
 Mustang
@@ -4487,6 +4493,7 @@ TaylorSwift
 TaylorSwiftPictures
 TaylorSwiftsLegs
 tbatenovel
+tea
 Teachers
 TeachersInTransition
 teaching
