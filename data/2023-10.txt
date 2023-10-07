@@ -614,6 +614,7 @@ BlackPink
 Blackstonefortress
 BlackTemplars
 BladeAndSorcery
+bladerunner
 BLAHAJ
 Blasphemous
 BlatantMisogyny
@@ -1614,6 +1615,7 @@ familyguy
 FamousFaces
 FanFiction
 fansofcriticalrole
+fantanoforever
 Fantasy_Football
 fantasyfootball
 fantasyfootballadvice
@@ -2055,6 +2057,7 @@ halloween
 Halloweenmovies
 halo
 HaloMemes
+hamishandandy
 Hammers
 hamsters
 handbags
@@ -2610,6 +2613,7 @@ KujouSaraMains
 KukiShinobuMains
 KumoDesu
 kurtisconner
+kurzgesagt
 KusanaliMains
 KUWTKsnark
 kwoneunbi
@@ -2693,6 +2697,7 @@ legalcatadvice
 legendofkorra
 LegendsOfRuneterra
 lego
+legocastles
 legocirclejerk
 legogaming
 Legoleak
@@ -2796,6 +2801,7 @@ Lottery
 louboutins
 Louisville
 Louisvuitton
+loveafterlockup
 Lovecraft
 LoveForLandchads
 LoveForRedditors
@@ -2900,6 +2906,7 @@ marijuanaenthusiasts
 MarinaNabokina
 Mariners
 Mario
+marioandluigi
 mariokart
 Market76
 marketing
@@ -3306,10 +3313,12 @@ NMIXX_Hotties
 Nmpx
 NMSCoordinateExchange
 NoahGetTheBoat
+NoahKahan
 Noctor
 Noellemains
 NoFap
 NoFuckingComment
+NoglaOfficial
 noita
 NolanBatmanMemes
 NoLawns
@@ -3556,6 +3565,7 @@ ParanormalEncounters
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
+parentsofmultiples
 paris
 ParkJihyo
 parkrun
@@ -3826,6 +3836,7 @@ pusheen
 puzzles
 PvZGardenWarfare
 PvZHeroes
+PWM_Sensitive
 pykemains
 pyrocynical
 Python
@@ -5049,6 +5060,7 @@ whatcarshouldIbuy
 whatcouldgoright
 Whatcouldgowrong
 whatisit
+whatismycookiecutter
 whatisthisbone
 whatisthisbug
 whatisthiscar
