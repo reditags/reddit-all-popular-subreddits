@@ -232,6 +232,7 @@ AnimalsBeingStrange
 animalsdoingstuff
 AnimalTracking
 animation
+anime
 anime_best_moments
 anime_irl
 Anime_Romance
@@ -796,6 +797,7 @@ CanadianInvestor
 canberra
 canceledpod
 cancer
+CandicePatton
 candy
 cannabiscultivation
 canucks
@@ -1357,6 +1359,7 @@ DiWHY
 DIYUK
 DJ_Peach_Cobbler
 DListedCommunity
+DMAcademy
 DMT
 DMZ
 DnB
@@ -2569,6 +2572,7 @@ kittyhasaquestion
 KittyPupperLove
 kiwisavengers
 KneadyCats
+knifemaking
 KnowledgeFight
 KoboldLegion
 Kochi
@@ -3104,6 +3108,7 @@ Mounjaro
 mountainbiking
 Mountaineering
 mountandblade
+mourningderps
 MouseReview
 Moustache
 moviecritic
@@ -3209,6 +3214,7 @@ Necrontyr
 nederlands
 NederlandseMemes
 needforspeed
+NeedyStreamerOverload
 neekolul
 NelliesNest
 neoliberal
@@ -4442,6 +4448,7 @@ SweatyPalms
 sweden
 swedishproblems
 SWGalaxyOfHeroes
+Swimming
 Switzerland
 SWlegion
 swordartonline
@@ -4592,6 +4599,7 @@ TheInbetweeners
 theJoeBuddenPodcast
 TheLastAirbender
 thelastofus
+ThelastofusHBOseries
 TheLegitBoss
 TheLib
 TheMagnusArchives
@@ -4610,6 +4618,7 @@ TheoVon
 theowlhousebutcursed
 ThePalaceOfMiruko
 ThePPShow
+thepunchlineisracism
 TheRandomest
 TheRatEmpire
 TheRedDotComic
@@ -4803,6 +4812,7 @@ tylerthecreator
 Type1Diabetes
 Tyranids
 tzuyu
+UAP
 UBC
 uberdrivers
 UberEATS
@@ -4942,6 +4952,7 @@ Visiblemending
 visualnovels
 ViviWinkler
 Vivziepopmemes
+vizsla
 vlandiya
 Vocaloid
 void_memes
