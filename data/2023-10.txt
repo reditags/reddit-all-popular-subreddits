@@ -144,6 +144,7 @@ AITAH
 aiyu
 AjaxAmsterdam
 ak47
+akita
 AkoBaYungGago
 Alabama
 albania
@@ -1528,6 +1529,7 @@ elderscrollsonline
 ElectricalEngineering
 electricians
 ElectroBOOM
+electronicmusic
 Elektroinstallation
 Elephants
 EliteDangerous
@@ -1776,6 +1778,7 @@ FordBronco
 FordTrucks
 ForgottenWeapons
 forhonor
+Formula1Point5
 FormulaBuddyRetard
 formuladank
 forsen
@@ -2467,9 +2470,11 @@ IzuOcha
 JaackMaate
 jackass
 jackrussellterrier
+JacksFilms
 jacksonville
 jackstauber
 JackSucksAtLife
+jadecargill
 Jaguars
 Jaharia
 jaidenanimations
@@ -3995,6 +4000,7 @@ REBubble
 recruitinghell
 red_scare_pod
 red_velvet
+RedBullRacing
 reddeadfashion
 RedDeadOnline
 reddeadredemption
@@ -4237,6 +4243,7 @@ seriouseats
 Seulgi
 seventeen
 SewayakiKitsune
+Sewerslvt
 sewing
 sexandthecity
 SexyButNotNude
@@ -4250,6 +4257,7 @@ SFWRedheads
 SGExams
 ShahRukhKhan
 Sham_Sharma_Show
+shameless
 ShaneGillis
 Shark_Park
 SharkLab
@@ -4388,6 +4396,7 @@ SofiaVergara
 softwaregore
 sohee
 solar
+solarpunk
 sololeveling
 solotravel
 SombraMains
@@ -4452,6 +4461,7 @@ SquaredCircle
 squirrels
 squishmallow
 srilanka
+SS13
 SSBM
 StableDiffusion
 StacyKeibler
@@ -4860,6 +4870,7 @@ torties
 Totaldrama
 TotalKalesh
 totalwar
+totalwarhammer
 TOTK
 touhou
 tourdefrance
@@ -4955,6 +4966,7 @@ tylerthecreator
 Type1Diabetes
 Tyranids
 tzuyu
+UAE
 UAP
 UBC
 uberdrivers
@@ -5002,6 +5014,7 @@ UnearthedArcana
 UnethicalLifeProTips
 UnexpectedJoJo
 UnexpectedlyWholesome
+UnexpectedTF2
 Unexplained
 unitedairlines
 unitedkingdom
@@ -5249,6 +5262,7 @@ woahdude
 wohnen
 WojakCompass
 Wolfenstein
+wolves
 WomensSoccer
 womensstreetwear
 Woodszin
