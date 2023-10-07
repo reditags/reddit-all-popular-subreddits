@@ -1391,6 +1391,7 @@ DivinityOriginalSin
 DiWHY
 DIYUK
 DJ_Peach_Cobbler
+DLAH
 DListedCommunity
 DMAcademy
 DMT
@@ -2450,6 +2451,7 @@ italy
 italygames
 Itasha
 ITCareerQuestions
+ITcrowd
 ItemShop
 Iteration110Cradle
 IThinkYouShouldLeave
