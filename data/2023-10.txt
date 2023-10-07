@@ -2083,6 +2083,7 @@ HardcoreNature
 hardimages
 hardstyle
 hardware
+hardwaregore
 Harley
 harrypotter
 Hasan_Piker
@@ -2401,6 +2402,7 @@ IrrationalMadness
 Isekai
 islam
 IsMyPokemonCardFake
+ISR
 Israel
 IsraeliBeauty
 ISSK_Manga
@@ -2722,6 +2724,7 @@ LEMMiNO
 LeniKlum
 leopardgeckos
 LeopardsAteMyFace
+LeopardsAteMyFacePH
 LesbianActually
 lesbianfashionadvice
 lesserafim
@@ -3489,6 +3492,7 @@ OnePiecePowerScaling
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
+OneTopicAtATime
 OneTruthPrevails
 OneyPlays
 onguardforthee
@@ -4324,6 +4328,7 @@ SouthDakota
 Southerncharm
 SouthJersey
 space
+SpaceCannibalism
 spaceengineers
 spacefrogs
 spacemarines
