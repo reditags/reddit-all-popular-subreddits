@@ -547,6 +547,7 @@ bbaldiback
 BBBY
 bbby_remastered
 BBQ
+BeachHouse
 beagles
 BeAmazed
 BeamNG
@@ -681,6 +682,7 @@ BocchiTheRock
 bodegaboys
 bodegacats
 bodybuilding
+bodyweightfitness
 BoJackHorseman
 Bokoen1
 BokuNoHeroAcademia
@@ -1947,6 +1949,7 @@ gachagaming
 gadgets
 galatasaray
 GalaxysEdge
+GalaxyWatch
 GalGadot
 Gambiarra
 gambling
@@ -2890,6 +2893,7 @@ lesserafim
 LetsTalkBam
 Letterboxd
 LetzteGeneration
+lewishamilton
 lexfridman
 lgballt
 lgbt
@@ -3977,6 +3981,7 @@ police
 policebrutality
 policeuk
 Political_Revolution
+PoliticalCompass
 PoliticalCompassMemes
 PoliticalHumor
 Politically_NSFW2
@@ -4890,6 +4895,7 @@ theadamfriedlandshow
 TheAdventureZone
 TheAstraMilitarum
 TheBear
+TheBeatles
 TheBidenshitshow
 thebindingofisaac
 TheBloodline
