@@ -2011,6 +2011,7 @@ glee
 Glitch_in_the_Matrix
 GlobalOffensive
 Glocks
+Gloryhammer
 GlowUps
 gluesniffer
 GME
@@ -2043,6 +2044,7 @@ google
 GooglePixel
 gorillaz
 GoRVing
+GossipDK
 GossipGirl
 goth
 GothFashion
@@ -2266,6 +2268,7 @@ hottoys
 HotWheels
 houkai3rd
 Hounds
+HouseMD
 HouseOfTheDragon
 houseplants
 houston
@@ -3179,6 +3182,7 @@ mina_irl
 Mindustry
 Minecraftbuilds
 MinecraftChampionship
+MinecraftDaily
 Minecrafthmmm
 MinecraftMemes
 MinecraftPolska
@@ -4930,6 +4934,7 @@ ToolBand
 toolgifs
 Tools
 ToothpasteBoys
+TopazMainsHSR
 TopCharacterDesigns
 TopGear
 TopMindsOfReddit
