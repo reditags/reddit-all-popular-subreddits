@@ -704,6 +704,7 @@ books
 bookshelf
 BoomersBeingFools
 boottoobig
+Borb
 borbs
 BorderCollie
 Borderlands2
@@ -1152,6 +1153,7 @@ Cooking
 CoolGadgetsTube
 coolguides
 coonhounds
+copenhagen
 corgi
 cork
 cormacmccarthy
@@ -1320,6 +1322,7 @@ datascience
 datealive
 dating
 dating_advice
+datingoverthirty
 davao
 davidlynch
 dayz
@@ -1486,6 +1489,7 @@ doordash_drivers
 Doppleganger
 Dorohedoro
 DotA2
+DottoreMains
 DougDoug
 doughboys
 DoveCameron
@@ -2177,6 +2181,7 @@ HaloMemes
 hamishandandy
 Hammers
 hamsters
+hanakokun
 handbags
 HandfulOfKitten
 HannahBarron
@@ -2310,6 +2315,7 @@ Hounds
 HouseMD
 HouseOfTheDragon
 houseplants
+Houseporn
 houston
 howto
 Howtolooksmax
@@ -3080,6 +3086,7 @@ manhwa
 MANILA
 Manitoba
 ManorLords
+MapChart
 Maplestory
 MapPorn
 mapporncirclejerk
@@ -4040,6 +4047,7 @@ projectcar
 projecteternity
 ProjectSekai
 projectzomboid
+prolife
 PropagandaPosters
 ProRevenge
 protogen
