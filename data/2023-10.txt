@@ -849,6 +849,7 @@ canadaguns
 canadahousing
 CanadaHousing2
 canadaleft
+canadanews
 CanadianInvestor
 canberra
 canceledpod
@@ -2886,6 +2887,7 @@ legocirclejerk
 legogaming
 Legoleak
 legostarwars
+LegoStarWarsLeaks
 lehrerzimmer
 lemauvaiscoin
 LEMMiNO
@@ -3211,6 +3213,7 @@ MetalGearInMyAss
 metalgearsolid
 Metallica
 MetalMemes
+Metoidioplasty
 Metroid
 metroidvania
 mew_irl
@@ -4140,6 +4143,7 @@ RATS
 Ratschlag
 RavenGuard40k
 ravens
+rawdenim
 RBI
 rccars
 RDR2
@@ -4518,6 +4522,7 @@ skateboarding
 skiing
 Skincare_Addiction
 SkincareAddicts
+skrillex
 SkyeBlueOffical
 SkyGame
 skylanders
@@ -5314,6 +5319,7 @@ vlandiya
 Vocaloid
 void_memes
 VoidCats
+Volkswagen
 VolleyballGirls
 Volvo
 VoteDEM
@@ -5396,6 +5402,7 @@ WetlanderHumor
 WeWantPlates
 WFH
 What_JustHappened
+whatbirdisthis
 whatcarshouldIbuy
 whatcouldgoright
 Whatcouldgowrong
