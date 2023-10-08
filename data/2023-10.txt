@@ -478,6 +478,7 @@ BackYardChickens
 Bad_Cop_No_Donut
 badhistory
 BadMensAnatomy
+badMovies
 BadMtgCombos
 BadMUAs
 badroommates
@@ -495,6 +496,7 @@ BambuLab
 BancaDelMeme
 Banff
 bangalore
+BanGDream
 bangtan
 Bannerlord
 BanPitBulls
@@ -1848,6 +1850,7 @@ frugalmalefashion
 Fruitbatcats
 FrutigerAero
 FSAE
+fsusports
 ft86
 FTMMen
 fuckcars
@@ -2476,6 +2479,7 @@ ISR
 Israel
 IsraeliBeauty
 IsraelPalestine
+IsraelWarFootage
 ISSK_Manga
 istanbul
 ITAGLIA
@@ -4476,6 +4480,7 @@ spacefrogs
 spacemarines
 spaceporn
 spacex
+SpaceXLounge
 SpaceXMasterrace
 spain
 SpanishHistoryMemes
@@ -4541,6 +4546,7 @@ starsector
 StarStable
 starterpacks
 StartledCats
+startrekgifs
 startrekmemes
 StarTrekStarships
 StarWars
@@ -4798,6 +4804,7 @@ TheFarSide
 thefighterandthekid
 TheFirstLaw
 TheGirlSurvivalGuide
+theGoldenGirls
 thegrandtour
 TheGriffonsSaddlebag
 TheInbetweeners
