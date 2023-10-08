@@ -896,6 +896,7 @@ Catsmirin
 catsofrph
 catsofukraine
 CatsOnCats
+CatsOnKeyboards
 CatsStandingUp
 CatsWhoConverse
 CatsWhoSmoke
@@ -2018,6 +2019,8 @@ godtiersuperpowers
 GODZILLA
 Gold
 Goldendoodles
+GoldenGirlsTV
+goldenretriever
 goldenretrievers
 Goldfish
 golf
@@ -2815,6 +2818,7 @@ lesserafim
 LetsTalkBam
 Letterboxd
 LetzteGeneration
+lexfridman
 lgballt
 lgbt
 lgbtmemes
@@ -3065,6 +3069,7 @@ McMaster
 MCUTheories
 me_irl
 me_irlgbt
+MealPrepSunday
 meatcrayon
 MechanicAdvice
 mechanical_gifs
@@ -3943,6 +3948,7 @@ programare
 ProgrammerHumor
 programming
 programminghorror
+ProgressionFantasy
 progun
 project1999
 Project_Wingman
@@ -4517,6 +4523,7 @@ StaffordBullTerriers
 StainedGlass
 Stake
 stalker
+Stance
 standardissuecat
 StandUpComedy
 standupshots
