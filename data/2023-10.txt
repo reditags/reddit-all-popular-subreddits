@@ -3499,6 +3499,7 @@ neekolul
 NelliesNest
 neoliberal
 neopets
+neovim
 nerdfighters
 nes
 nespresso
