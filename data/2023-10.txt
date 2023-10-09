@@ -1246,6 +1246,7 @@ csgo
 csharp
 CSHFans
 csMajors
+Cubers
 CultOfTheLamb
 Cuphead
 CuratedTumblr
@@ -4248,6 +4249,7 @@ revancedapp
 Revolvers
 RheaRipley
 RhodeIsland
+richmondbc
 rickandmorty
 rickygervais
 rienabranler
