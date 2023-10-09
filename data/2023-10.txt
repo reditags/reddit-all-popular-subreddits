@@ -304,6 +304,7 @@ AO3
 aoe2
 aoe4
 apexlegends
+ApexLore
 ApexOutlands
 ApexUncovered
 Aphantasia
@@ -586,6 +587,7 @@ BeidouMains
 BelgianMalinois
 belgium
 Belgium2
+Belgium4
 Bellapoarch
 BeloHorizonte
 belowdeck
@@ -1133,6 +1135,7 @@ ColorizedHistory
 Colts
 Columbus
 CombatFootage
+CombatFootageIsrael
 comedy
 ComedyCemetery
 comedyheaven
@@ -2146,6 +2149,7 @@ goodomensprime
 google
 GooglePixel
 gorillaz
+gororoba
 GoRVing
 GossipDK
 GossipGirl
@@ -2326,6 +2330,7 @@ HiTMAN
 HivemindTV
 hmm
 hmmm
+HOA
 hobart
 hockey
 hockeymemes
@@ -2855,6 +2860,7 @@ Konosuba
 korea
 KoreanFood
 korrasami
+kosovo
 KotakuInAction
 kotakuinaction2
 kothibanglacheck
@@ -3078,6 +3084,7 @@ lotr
 lotrmemes
 lotro
 Lottery
+Lotuseaters_com
 louboutins
 Louisiana
 Louisville
@@ -4885,6 +4892,7 @@ sunraybee
 suns
 sunset
 Superbowl
+superjueves
 superlig
 Superligaen
 superman
@@ -4907,6 +4915,7 @@ sushiflavoredmilkkk
 sutesfozes
 svenskpolitik
 Sverige
+swans
 SweatyPalms
 sweden
 swedishproblems
@@ -4948,6 +4957,7 @@ TamilNadu
 tampa
 TampaBayLightning
 tampabayrays
+Tanalorr
 tankiejerk
 TankPorn
 tanks
@@ -5518,6 +5528,7 @@ watercooling
 Waterfalls
 waterloo
 Wavyhair
+WCW
 We_are_weeb
 WeaponsMoe
 webcomics
@@ -5693,6 +5704,7 @@ xboxone
 XboxSeriesS
 XboxSeriesX
 Xcom
+XDefiant
 Xennials
 Xenoblade_Chronicles
 xertunposting
