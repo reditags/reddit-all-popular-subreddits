@@ -544,6 +544,7 @@ battlecats
 Battlefield
 battlefield2042
 battlefield_one
+BattlefieldV
 battlemaps
 BattleNetwork
 battlestations
@@ -2193,6 +2194,7 @@ Guildwars2
 Guiltygear
 guineapigs
 Guitar
+GuitarAmps
 guitarcirclejerk
 guitarporn
 guitars
@@ -2706,6 +2708,7 @@ Jokes
 Jon_Bois
 Jord627_
 Jordan_Peterson_Memes
+jordanabrewster
 JordanPeterson
 Josiehamming
 JoyTaylor
@@ -2778,6 +2781,7 @@ KaynMains
 Kazumin
 KDRAMA
 KeanuBeingAwesome
+KeiraKnightley
 KellyBrook
 kencarson
 kendalljenner
@@ -3315,6 +3319,7 @@ MildFemboys
 mildlyinfuriating
 mildlyinteresting
 mildlypenis
+MildlyVandalised
 milesprower
 MilitaryPorn
 Millennials
@@ -3712,6 +3717,7 @@ oddlyterrifying
 OddSatisfying
 Odisha
 ofcoursethatsathing
+offbeat
 OfflinetvGirls
 OffMyChestPH
 Offroad
@@ -5022,6 +5028,7 @@ TheCitadel
 TheCivilService
 TheClickOwO
 thecringeshowaward
+TheCrownNetflix
 thedavidpakmanshow
 TheDeprogram
 TheDepthsBelow
@@ -5073,6 +5080,7 @@ thesopranos
 TheStrokes
 TheTrumpZone
 TheTryGuys
+TheUltimatumNetflix
 theunforgiven
 theviralthings
 thewalkingdead
@@ -5654,6 +5662,7 @@ Xennials
 Xenoblade_Chronicles
 xertunposting
 XFiles
+XiaoMains
 xkcd
 xmen
 xqcow
