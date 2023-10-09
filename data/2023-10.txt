@@ -635,6 +635,7 @@ Bioshock
 biotech
 birding
 BirdsArentReal
+Birdsfacingforward
 Birmingham
 bisexual
 BisexualTeens
@@ -1866,6 +1867,7 @@ Foofighters
 football
 footballmanagergames
 foraging
+ForbiddenBromance
 forbiddensnacks
 Ford
 FordBronco
@@ -2585,9 +2587,11 @@ islam
 IsMyPokemonCardFake
 ISR
 Israel
+IsraelCrimes
 IsraeliBeauty
 IsraelPalestine
 IsraelWarFootage
+IsraelWarVideoReport
 ISSK_Manga
 istanbul
 ITAGLIA
@@ -4807,6 +4811,7 @@ stupiddovenests
 StupidFood
 stupidpol
 stupidquestions
+StVO
 subaru
 submarines
 submechanophobia
@@ -5466,6 +5471,7 @@ Weddingattireapproval
 weddingdress
 weddingshaming
 WeDoALittlePosting
+WeebTurks
 weed
 weedstocks
 ween
@@ -5572,6 +5578,7 @@ womensstreetwear
 Woodszin
 woodworking
 woooosh
+WordBearers
 wordsonanimegirls
 work
 workaholics
@@ -5590,6 +5597,7 @@ WorldofTanks
 WorldOfTShirts
 WorldOfWarships
 WormMemes
+wortwitzkasse
 WoT
 WoTshow
 WouldYouRather
