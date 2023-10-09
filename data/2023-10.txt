@@ -979,6 +979,7 @@ ChangeYourChessFont
 Channel5ive
 ChantelJeffries
 Chaos40k
+ChaosKnights
 chaoticgood
 CharacterAI
 characterarcs
@@ -2694,6 +2695,7 @@ jumpingspiders
 Jungle_Mains
 junjiito
 JurassicMemes
+JurassicPark
 jurassicworldevo
 JustBootThings
 JustCause
@@ -3349,6 +3351,7 @@ MonicaBellucci
 Monikafandom
 Monopoly_GO
 MonopolyGoTrading
+Monstera
 MonsterHigh
 MonsterHunter
 MonsterHunterWorld
@@ -3500,6 +3503,7 @@ NelliesNest
 neoliberal
 neopets
 neovim
+Nepal
 nerdfighters
 nes
 nespresso
@@ -4195,6 +4199,7 @@ real_China_irl
 realasians
 realbikinis
 realKiannajayof
+ReallyShittyCopper
 realmadrid
 RealTesla
 ReasonableFantasy
@@ -5474,6 +5479,7 @@ whatisthiscar
 WhatIsThisPainting
 whatisthisthing
 whatsnakeisthis
+whatsthemoviecalled
 whatsthisbird
 whatsthisbug
 whatsthisplant
