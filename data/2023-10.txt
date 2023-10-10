@@ -320,6 +320,7 @@ ApexUncovered
 Aphantasia
 apolloapp
 apple
+AppleMusic
 AppleWatch
 ApplyingToCollege
 aquarium
@@ -2450,6 +2451,7 @@ HotWheels
 houkai3rd
 Hounds
 HouseMD
+houseofleaves
 HouseOfTheDragon
 houseplants
 Houseporn
@@ -3002,6 +3004,7 @@ lastimages
 lastpodcastontheleft
 lastweektonight
 LasVegas
+latesitoo
 LateStageCapitalism
 LateStageImperialism
 LatinoPeopleTwitter
@@ -3118,6 +3121,7 @@ literaciafinanceira
 literature
 lithuania
 litrpg
+littlehouseonprairie
 LittlePeopleBigWorld
 LittlestPetShop
 LittleWitchAcademia
@@ -3677,6 +3681,7 @@ nespresso
 Nestofeggs
 netflix
 Netherlands
+Netsphere
 networkingmemes
 NeuroSama
 NeuvilletteMains_
@@ -3966,6 +3971,7 @@ OSHA
 OshiNoKoMemes
 osp
 osrs
+OstrichPlug
 OSU
 osugame
 OSWReview
@@ -5219,6 +5225,7 @@ TheGirlSurvivalGuide
 theGoldenGirls
 thegrandtour
 TheGriffonsSaddlebag
+TheHague
 TheInbetweeners
 theJoeBuddenPodcast
 TheLastAirbender
@@ -5314,6 +5321,7 @@ TLCsisterwives
 TMJ
 TMKOC
 TMNT
+tmobile
 TNOmod
 TNPLE
 Toads
@@ -5923,6 +5931,7 @@ Zendaya
 zerobaseone
 ZeroCovidCommunity
 zillowgonewild
+Zombie100
 Zoomerchan3
 Zoomies
 zootopia
