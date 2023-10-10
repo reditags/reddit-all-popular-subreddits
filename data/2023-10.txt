@@ -203,6 +203,7 @@ Amberverse_
 amcstock
 AMCSTOCKS
 Amd
+AmerExit
 AmericaBad
 americanairlines
 americandad
@@ -390,6 +391,7 @@ AskElectricians
 AskElectronics
 AskFeminists
 AskFrance
+askfuneraldirectors
 askgaybros
 AskHistorians
 askhungary
@@ -1773,6 +1775,7 @@ ExperiencedDevs
 explainitpeter
 explainlikeimfive
 ExplainTheJoke
+ExtraFabulousComics
 ExtremeCarCrashes
 extremelyinfuriating
 Eyebleach
@@ -2876,6 +2879,7 @@ keep2share_premium
 Keep_Track
 KeiraKnightley
 KellyBrook
+kelowna
 kencarson
 kendalljenner
 KendrickLamar
@@ -3181,6 +3185,7 @@ lovejoyband
 LoveLive
 LoveNikki
 LowQualityMemes
+lowriders
 LowSodiumCyberpunk
 LowSodiumHalo
 LowStakesConspiracies
@@ -3558,6 +3563,7 @@ mscsmedia
 MSsEcReTPoDcAsT
 MST3K
 MTB
+Mtf_irl
 mtg
 mtgfinance
 MtvChallenge
@@ -4421,6 +4427,7 @@ RelationshipMemes
 RelatosDoReddit
 religiousfruitcake
 reloading
+RemarkableTablet
 remnantgame
 renfaire
 Reno
@@ -5082,6 +5089,7 @@ Tanalorr
 tankiejerk
 TankPorn
 tanks
+tarik
 TarkovMemes
 taskmaster
 tasmania
@@ -5128,6 +5136,7 @@ Tekken
 telaviv
 telecaster
 telegramcasinos
+telescopes
 TempleofMarianne
 Tennessee
 Tennesseetitans
