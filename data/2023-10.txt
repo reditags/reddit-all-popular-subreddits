@@ -426,6 +426,7 @@ atheism
 atheistmemes
 Atlanta
 AtlantaBraves
+AtlantaHawks
 atrioc
 attackeyes
 attackontitan
@@ -650,6 +651,7 @@ biotech
 birding
 BirdsArentReal
 Birdsfacingforward
+birdsofprey
 Birmingham
 bisexual
 BisexualTeens
@@ -3166,6 +3168,7 @@ MAAU
 mac
 macbook
 macbookpro
+macgaming
 MachikadoMazoku
 MachineLearning
 MachinePorn
@@ -3265,6 +3268,7 @@ masseffect
 MassEffectMemes
 Masterchef
 masterduel
+masterhacker
 MasterReturns
 mathmemes
 matureplants
@@ -3416,6 +3420,7 @@ mirrorsedge
 misfits
 missbricosplay
 MissingPersons
+MissingPersonsCanada
 MissLaineyWilson
 missouri
 Mistborn
@@ -5487,6 +5492,7 @@ vegan
 vegancirclejerk
 VeganDE
 VeganFoodPorn
+veganrecipes
 vegas
 vegaslocals
 vegetablegardening
