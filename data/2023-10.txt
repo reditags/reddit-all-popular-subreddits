@@ -863,6 +863,7 @@ CalicoKittys
 California
 callofcthulhu
 CallOfDuty
+CallOfDutyMobile
 calvinandhobbes
 camaro
 cambridge
@@ -2301,6 +2302,7 @@ hbo
 headpats
 headphones
 Health
+Healthyhooha
 hearthstone
 HeartstopperAO
 HeartstopperNetflix
@@ -2439,10 +2441,12 @@ husky
 HuskyTantrums
 HuTao_Mains
 HVAC
+hvacadvice
 hyderabad
 HydroHomies
 hyouka
 HypixelSkyblock
+hypotheticalsituation
 HyruleEngineering
 Hyundai
 IAmA
@@ -3113,6 +3117,7 @@ louboutins
 Louisiana
 Louisville
 Louisvuitton
+love
 loveafterlockup
 Lovecraft
 LoveForLandchads
@@ -3192,6 +3197,7 @@ MakeMeFeelGood
 MakeMeSuffer
 MakeMoney
 MakeupAddiction
+MakeupRehab
 makeyourchoice
 MaladaptiveDreaming
 MalayalamMovies
@@ -4651,6 +4657,7 @@ shumako
 ShuumatsuNoValkyrie
 Siamesecats
 SiberianCats
+sidehustle
 Sidemen
 Sigmarxism
 signalis
@@ -5213,6 +5220,7 @@ TMKOC
 TMNT
 TNOmod
 TNPLE
+Toads
 toastme
 todayilearned
 toddlers
