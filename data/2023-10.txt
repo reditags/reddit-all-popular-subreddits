@@ -832,6 +832,7 @@ Btechtards
 bts7
 buccos
 Buddhism
+BudgetAudiophile
 budgetfood
 budgies
 BuenosAires
@@ -2660,6 +2661,7 @@ Ioniq5
 ios
 iOSBeta
 Iowa
+ipad
 iphone
 iPhone15Pro
 iPhoneography
@@ -3757,6 +3759,7 @@ NolanBatmanMemes
 NoLawns
 NoMansSkyTheGame
 NonCredibleDiplomacy
+NonCredibleERA
 NonCredibleOffense
 NoneHumanMoe
 nononono
@@ -4408,6 +4411,7 @@ RedvsBlue
 regretfulparents
 regularcarreviews
 regularshow
+ReiAyanami
 RelationshipMemes
 RelatosDoReddit
 religiousfruitcake
@@ -5446,6 +5450,7 @@ UBC
 uberdrivers
 UberEATS
 ubius
+uBlockOrigin
 UCalgary
 UCDavis
 UCI
@@ -5573,6 +5578,7 @@ Veterans
 vexillology
 vexillologycirclejerk
 veYakinEvren
+VGC
 VHS
 victoria2
 victoria3
@@ -5776,6 +5782,7 @@ wohnen
 WojakCompass
 Wolfenstein
 wolves
+women
 WomenSoccerLegs
 WomensSoccer
 womensstreetwear
