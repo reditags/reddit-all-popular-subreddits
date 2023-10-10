@@ -924,6 +924,7 @@ castles
 castlevania
 CasualConversation
 CasualIreland
+casualknitting
 casualnintendo
 CasualPT
 CasualRO
@@ -2712,6 +2713,7 @@ JapanTravelTips
 Jazz
 JCBWritingCorner
 JDM
+JeanMains
 jebacsamochody
 jedicouncilofelrond
 JEENEETards
@@ -3082,6 +3084,7 @@ Livros
 LobotomyCorp
 LocalLLaMA
 LodedDiper
+logh
 logodesign
 Lolirefugees
 london
@@ -5163,6 +5166,7 @@ theowlhousebutcursed
 ThePalaceOfMiruko
 ThePPShow
 thepunchlineisracism
+thepunisher
 TheRandomest
 TheRatEmpire
 TheRedDotComic
