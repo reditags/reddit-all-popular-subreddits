@@ -338,6 +338,7 @@ ArchitecturePorn
 arcticmonkeys
 arduino
 Argaming
+ArgenGaming
 argentina
 ArgentinaBenderStyle
 Argnime
@@ -401,6 +402,7 @@ AskPH
 AskPhotography
 AskReddit
 askscience
+AskScienceFiction
 askSingapore
 AskThe_Donald
 askTO
@@ -1091,6 +1093,7 @@ circlejerkaustralia
 CirclejerkSopranos
 cirkeltrek
 CitiesSkylines
+CitiesSkylines2
 citypop
 CityPorn
 civ
@@ -1529,6 +1532,7 @@ DnB
 DnD
 DnDcirclejerk
 DnDHomebrew
+dndmaps
 dndnext
 DobermanPinscher
 doctorwho
@@ -1683,6 +1687,7 @@ Embroidery
 emergencyintercom
 emergencymedicine
 EmiliaClarke
+EmilyOsment
 emilyrudd
 Eminem
 Emiru_Lewd
@@ -1823,6 +1828,7 @@ FCInterMilan
 fednews
 feedthebeast
 feedthememes
+Feldup
 FeltGoodComingOut
 FemaleAntinatalism
 femalehairadvice
@@ -1977,6 +1983,7 @@ Frenchbulldogs
 Frenchhistorymemes
 FrenchMemes
 Frenemies3
+FreyaAllan
 FridayNightFunkin
 friendlyjordies
 Frieren
@@ -2049,6 +2056,7 @@ galatasaray
 GalaxysEdge
 GalaxyWatch
 GalGadot
+gallifrey
 galway
 Gambiarra
 gambling
@@ -2875,6 +2883,7 @@ keto
 kfeets
 KGATLW
 KGBTR
+kia
 KidCudi
 KidsAreFuckingStupid
 KiernanShipka
@@ -3039,6 +3048,7 @@ lehrerzimmer
 lemauvaiscoin
 LEMMiNO
 LeniKlum
+LeoobalysPictures
 leopardgeckos
 LeopardsAteMyFace
 LeopardsAteMyFacePH
@@ -3781,6 +3791,7 @@ notliketheothergirls
 notmycat
 NotMyJob
 notredamefootball
+notthebeaverton
 nottheonion
 nottingham
 nova
@@ -3945,6 +3956,7 @@ OTMemes
 otomegames
 OtomeIsekai
 OtonariNoTenshiSama
+Otonokizaka
 ottawa
 OttawaSenators
 Otters
@@ -5569,6 +5581,7 @@ VietNam
 Vilebrequin
 Vindicta
 Vinesauce
+VinlandSaga
 vintage
 vintageads
 vintagecomputing
