@@ -580,6 +580,7 @@ battlemaps
 BattleNetwork
 battlestations
 battletech
+Battletechgame
 bavaria
 bayarea
 BayernMunich
@@ -826,6 +827,7 @@ britishshorthair
 BritishSuccess
 BritishTV
 BritneySpears
+britpics
 brittanydawnsnark
 Broadway
 Brochet
@@ -1968,6 +1970,7 @@ FoodPorn
 FoodVideoPorn
 Foofighters
 football
+footballcards
 footballmanagergames
 foraging
 ForbiddenBromance
@@ -2760,6 +2763,7 @@ ITZY
 IVE
 iwatchedanoldmovie
 iwoulddiefornoodle
+Izlam
 Izmir
 iZone
 IzuOcha
