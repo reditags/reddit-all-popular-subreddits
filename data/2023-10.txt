@@ -973,6 +973,7 @@ Catmemes
 Catnames
 catpics
 catpictures
+CATpreparation
 cats
 CatsAreAssholes
 catsareliquid
@@ -1000,6 +1001,7 @@ cavaliers
 Cawwsplay
 CBC_Radio
 CBSE
+CBSECommerce
 CCW
 celeb_nylons
 CelebEvents
@@ -1697,6 +1699,7 @@ ElectricalEngineering
 electricians
 ElectroBOOM
 electronicmusic
+electronics
 Elektroinstallation
 Elephants
 EliteDangerous
@@ -1878,6 +1881,7 @@ FF06B5
 FFVIIRemake
 ffxi
 ffxiv
+ffxivdiscussion
 FFXIVGlamours
 FFXVI
 FierceFlow
@@ -5322,6 +5326,7 @@ TheSimpsons
 thesims
 thesopranos
 TheStrokes
+thetron
 TheTrumpZone
 TheTryGuys
 TheUltimatumNetflix
