@@ -448,6 +448,7 @@ AubreyPlaza
 auckland
 Audi
 AujourdhuiJaiAppris
+auntydonna
 AusFinance
 auslaw
 AusLegal
@@ -1059,6 +1060,7 @@ CHIBears
 chibike
 chicago
 chicagobulls
+chicagofood
 chickens
 CHICubs
 Chihuahua
@@ -1066,6 +1068,7 @@ childemains
 ChildrenFallingOver
 chile
 China
+chinchilla
 Chipotle
 Chiraqology
 Chivalry2
@@ -1772,6 +1775,7 @@ evilautism
 evilbuildings
 EvilDead
 EvilDeadTheGame
+ExclusivelyPumping
 exjw
 exmormon
 exmuslim
@@ -1781,6 +1785,7 @@ ExperiencedDevs
 explainitpeter
 explainlikeimfive
 ExplainTheJoke
+exposingcabalrituals
 ExtraFabulousComics
 ExtremeCarCrashes
 extremelyinfuriating
@@ -3071,6 +3076,7 @@ Legoleak
 legostarwars
 LegoStarWarsLeaks
 lehrerzimmer
+lele_pons
 lemauvaiscoin
 LEMMiNO
 LeniKlum
@@ -4087,6 +4093,7 @@ paydaytheheist
 PaymoneyWubby
 PcBuild
 pcgaming
+pchelp
 pcmasterrace
 PCOS
 PeanutWhiskers
@@ -5151,6 +5158,7 @@ tearsofthekingdom
 tech
 technews
 technicallythetruth
+technicalminecraft
 Technoblade
 technology
 techsupportgore
@@ -5503,6 +5511,7 @@ uberdrivers
 UberEATS
 ubius
 uBlockOrigin
+UBreddit
 UCalgary
 UCDavis
 UCI
@@ -5564,6 +5573,7 @@ Unity3D
 UniUK
 UniversalOrlando
 Universitaly
+UniversityOfHouston
 unket
 UnpopularLoreOlympus
 unpopularopinion
@@ -5690,6 +5700,7 @@ WarCry
 Warframe
 Warhammer
 Warhammer30k
+Warhammer40kEsp
 WarhammerCompetitive
 WarhammerFantasy
 warno
@@ -5709,6 +5720,7 @@ Watches
 Watchexchange
 WatchPeopleDieInside
 watchpeoplesurvive
+WatchWhatCrappens
 Watercolor
 watercooling
 Waterfalls
