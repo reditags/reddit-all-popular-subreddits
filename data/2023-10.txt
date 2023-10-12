@@ -1651,6 +1651,7 @@ DougDoug
 doughboys
 DoveCameron
 DownvotedToOblivion
+dragonball
 dragonballfighterz
 DragonballLegends
 Dragonballsuper
@@ -1818,6 +1819,7 @@ entwives
 EpicSeven
 equestriaatwar
 Equestrian
+Eragon
 Eredivisie
 ErgoMechKeyboards
 ericandre
@@ -1895,6 +1897,7 @@ falloutnewvegas
 Falschparker
 familyguy
 FamousFaces
+FamousLatinas
 Fancast
 FanFiction
 fansofcriticalrole
@@ -2372,6 +2375,7 @@ GTA6
 GTAGE
 gtaonline
 GTAV
+gtd
 GuardianTales
 Guildwars2
 GuildWarsDyeJob
@@ -2915,6 +2919,7 @@ jerseycity
 jerseyshore
 jessicaalba
 JessicaChastain
+jessieleeward
 JetLagTheGame
 Jewdank
 jewelry
@@ -3521,6 +3526,7 @@ Meditation
 medizzy
 medschoolph
 megaconstrux
+Megadeth
 megafaunarewilding
 MegalithPorn
 megalophobia
@@ -3953,6 +3959,7 @@ noita
 NolanBatmanMemes
 NoLawns
 NoMansSkyTheGame
+NonCredibleBundeswehr
 NonCredibleDiplomacy
 NonCredibleERA
 NonCredibleOffense
@@ -5307,6 +5314,7 @@ swordartonline
 SWORDS
 swtor
 SWTOR_memes
+sydnee_goodman
 sydneyswans
 SydneySweeney
 sylvaneth
@@ -5466,6 +5474,7 @@ TheCivilService
 TheClickOwO
 thecringeshowaward
 TheCrownNetflix
+TheDarkTower
 thedavidpakmanshow
 TheDeprogram
 TheDepthsBelow
@@ -5936,6 +5945,7 @@ VShojo
 VuvuzelaIPhone
 VyvanLe
 W2S
+WAGuns
 Wales
 walkaway
 wallpaper
@@ -5945,6 +5955,7 @@ walmart
 WaltDisneyWorld
 wankil
 war
+warcraftlore
 WarCry
 Warframe
 Warhammer
