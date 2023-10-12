@@ -557,6 +557,7 @@ Banff
 bangalore
 BanGDream
 bangtan
+BanjoKazooie
 Bannerlord
 BanPitBulls
 BarbaraPalvin
@@ -939,6 +940,7 @@ CapitolConsequences
 capybara
 CaraDelevingne
 carbonsteel
+carcrash
 Cardinals
 careerguidance
 CARiverPlate
@@ -3638,6 +3640,7 @@ moreplatesmoredates
 MoriCalliope
 mormon
 MormonShrivel
+MorningKombat
 Morocco
 Morrowind
 MortalKombat
