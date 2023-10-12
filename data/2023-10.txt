@@ -332,6 +332,7 @@ AppalachianTrail
 apple
 AppleMusic
 AppleWatch
+Appliances
 ApplyingToCollege
 aquarium
 Aquariums
@@ -531,6 +532,7 @@ BacktotheFuture
 BackYardChickens
 Bad_Cop_No_Donut
 BadDesigns
+badfriendspod
 badhistory
 badmathematics
 BadMensAnatomy
@@ -925,6 +927,7 @@ canceledpod
 cancer
 CandicePatton
 candy
+canes
 cannabiscultivation
 Canning
 canon
@@ -1949,6 +1952,7 @@ FirstTimeHomeBuyer
 Fischl
 Fit_babes
 FitAndNatural
+fitbit
 FitGirlRepack
 fitness30plus
 FitToFat
@@ -2133,6 +2137,7 @@ gamegrumps
 gameofthrones
 GamePhysics
 gamernews
+gamers_immortalized
 gamesEcultura
 GameTheorists
 gameverifying
@@ -2697,6 +2702,7 @@ IndoorGarden
 Indore
 INDYCAR
 infamous
+infinityblade
 Infographics
 InformedWarriorRides
 InfowarriorRides
@@ -3510,6 +3516,7 @@ MexicanMemes
 mexico
 MexicoCity
 mfdoom
+MGRmemes
 MHNowGame
 Miami
 miamidolphins
@@ -3726,6 +3733,7 @@ namenerds
 namesoundalikes
 namethatcar
 Nami_Fanclub
+NamiMains
 nanaimo
 Napoleon
 NarcoFootage
@@ -5561,11 +5569,13 @@ tressless
 tretinoin
 triathlon
 trippinthroughtime
+TrixieMattel
 TrollCoping
 trolleyproblem
 tron
 Trophies
 trouduction
+troutfishing
 TruckerCats
 Truckers
 trucksim
