@@ -353,6 +353,7 @@ architecture
 ArchitecturePorn
 arcticmonkeys
 arduino
+AreYouGarbagePod
 Argaming
 ArgenGaming
 argentina
@@ -814,6 +815,7 @@ Braves
 BravoRealHousewives
 Brawlhalla
 Brawlstars
+BrawlStarsCompetitive
 Brazil
 brdev
 Breadit
@@ -1583,6 +1585,7 @@ DJ_Peach_Cobbler
 dji
 DLAH
 DListedCommunity
+dlsu
 DMAcademy
 DMT
 DMZ
@@ -4411,6 +4414,7 @@ PowerGirl
 powerrangers
 powerwashingporn
 PragerUrine
+Prague
 PraiseTheCameraMan
 PrehistoricMemes
 Prematurecelebration
