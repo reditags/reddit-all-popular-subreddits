@@ -101,6 +101,7 @@ ACPocketCamp
 AcrossTheSpider_Verse
 ActionFigures
 activatewindowskey
+ActivationSound
 ActiveMeasures
 ActLikeYouBelong
 actu_memes
@@ -142,6 +143,7 @@ afterjeeneet
 agedlikemilk
 agedtattoos
 agency
+agender
 ageofsigmar
 aggies
 Agriculturecirclejerk
@@ -1444,6 +1446,7 @@ DanMachi
 DannyGonzalez
 DanTDM
 Daredevil
+DarkAcademia
 DarkAndDarker
 DarkBRANDON
 darkestdungeon
@@ -1628,6 +1631,7 @@ DoggyDNA
 DoglaREDDIT
 dogpictures
 dogs
+DogsAndPlants
 dogsusingpillows
 Dogtraining
 DokkanBattleCommunity
@@ -1653,6 +1657,7 @@ DougDoug
 doughboys
 DoveCameron
 DownvotedToOblivion
+DragonageOrigins
 dragonball
 dragonballfighterz
 DragonballLegends
@@ -1853,6 +1858,7 @@ Everton
 everymanshouldknow
 EveryoneIsGoingToHell
 EverythingScience
+everytimeidie
 evilautism
 evilbuildings
 EvilDead
@@ -2975,6 +2981,7 @@ junjiito
 JurassicMemes
 JurassicPark
 jurassicworldevo
+just2good
 JustBootThings
 JustCause
 justgalsbeingchicks
@@ -3012,6 +3019,7 @@ KarelyRuizFans
 karengillan
 karibyron
 Karma4Free
+KatarinaDemeNew
 KatarinaMains
 KatDennings
 katebeckinsale
@@ -3025,6 +3033,7 @@ KayAdams
 Kayaking
 kayascodelario
 KaynMains
+KazuhaMains
 Kazumin
 KDRAMA
 KeanuBeingAwesome
@@ -3078,6 +3087,7 @@ kittyhasaquestion
 KittyPupperLove
 kiwisavengers
 KneadyCats
+knifeclub
 knifemaking
 knolling
 KnowledgeFight
@@ -4483,6 +4493,7 @@ PouchCatatoes
 poutine
 PoutineCrimes
 povertyfinance
+povertyfinancecanada
 powdereddonutlips
 PowerGirl
 powerrangers
