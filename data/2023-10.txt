@@ -1721,6 +1721,7 @@ economy
 EDC
 ededdneddy
 Edelgard
+EDF
 Edgerunners
 EDH
 Edinburgh
@@ -2329,6 +2330,7 @@ gratefuldead
 gratefuldoe
 gravelcycling
 gravityfalls
+gravityrush
 graz
 GreatBritishMemes
 greatdanes
@@ -3235,6 +3237,7 @@ lilireinhart
 liluzivert
 LilyChee18
 LilyCollins
+LilyJames
 limbuscompany
 LiminalSpace
 lingling40hrs
@@ -4095,6 +4098,7 @@ OneOrangeBraincell
 OnePiece
 OnePieceLiveAction
 OnePiecePowerScaling
+OnePieceTCG
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
@@ -5575,6 +5579,7 @@ tonightsdinner
 TonyZaretOfficial
 toofers
 toogoodtogo
+TooGoodToGoCanada
 TooHotToHandleGame
 tooktoomuch
 ToolBand
@@ -6061,6 +6066,7 @@ Witcher3
 WitchesVsPatriarchy
 Wizard101
 wizardposting
+wnba
 woahdude
 wohnen
 WojakCompass
