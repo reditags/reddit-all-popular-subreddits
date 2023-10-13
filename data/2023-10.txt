@@ -141,6 +141,7 @@ afkarena
 AFL
 AfricanHistory
 afrikaans
+afrosound
 AfterEffects
 afterjeeneet
 agedlikemilk
@@ -734,6 +735,7 @@ bladerunner
 BLAHAJ
 Blasphemous
 BlatantMisogyny
+blaulicht
 bleach
 BleachBraveSouls
 blender
@@ -3000,6 +3002,7 @@ jschlattsubmissions
 JSOCarchive
 Judaism
 JudgeDredd
+judo
 JuiceWRLD
 Jujutsufolk
 JuJutsuKaisen
@@ -3410,6 +3413,7 @@ LUCID
 lucifer
 luciomains
 lucknow
+luckystar
 LucyHale
 LudwigAhgren
 luigi_irl
@@ -4768,6 +4772,7 @@ ripcity
 risa
 riskofrain
 Rivian
+rnb
 Roadcam
 RoastMe
 RoastMyCar
@@ -5621,6 +5626,7 @@ TheWayWeWere
 TheWeeknd
 TheWhyFiles
 TheWire
+theworldnews
 TheYardPodcast
 theydidthemath
 theyknew
