@@ -1564,6 +1564,7 @@ DestinyTheGame
 DestroyedTanks
 DestroyLonely
 DetailCraft
+detrans
 Detroit
 detroitlions
 DetroitPistons
@@ -2961,6 +2962,7 @@ JewishCooking
 jiggledolls
 jihyo
 JingLiu
+JingYuanMains
 jisoo
 JoblessReincarnation
 jobs
@@ -3110,6 +3112,7 @@ kittyhasaquestion
 KittyPupperLove
 kiwisavengers
 kkb
+Klimawandel
 KneadyCats
 knifeclub
 knifemaking
@@ -3668,6 +3671,7 @@ mina_irl
 Mindustry
 Minecraftbuilds
 MinecraftChampionship
+MinecraftCommands
 MinecraftDaily
 Minecrafthmmm
 MinecraftMemes
@@ -4674,6 +4678,7 @@ reallygorgeous
 ReallyShittyCopper
 realmadrid
 RealTesla
+RealTimeStrategy
 ReasonableFantasy
 REBubble
 recruitinghell
