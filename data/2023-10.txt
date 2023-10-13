@@ -2557,6 +2557,7 @@ Hololive
 HololiveYuri
 Holostars
 HolUp
+Home
 homeassistant
 Homebuilding
 HomeDecorating
@@ -4058,6 +4059,7 @@ NYCbike
 NYCinfluencersnark
 nycrail
 NYGiants
+NYguns
 nyjets
 NYKnicks
 NYStateOfMind
@@ -6263,6 +6265,7 @@ ytvretro
 YuB
 yugioh
 YuGiOhMemes
+yugiohshowcase
 yumenikki
 yuna
 yuri_manga
