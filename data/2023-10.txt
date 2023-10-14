@@ -1276,6 +1276,7 @@ Colombia
 Colorado
 ColoradoAvalanche
 ColoradoRockies
+ColoradoSprings
 coloranalysis
 Colorization
 ColorizedHistory
@@ -1791,6 +1792,7 @@ duolingo
 dutch
 dvdcollection
 dwarffortress
+dwarfposting
 dyinglight
 DylanteroYT
 DynastyFF
@@ -2349,6 +2351,7 @@ GenV
 GenX
 GenZ
 geography
+geoguessr
 geology
 geometrydash
 geopolitics
@@ -2784,6 +2787,7 @@ ihadastroke
 iiiiiiitttttttttttt
 iitkgp
 ik_ihe
+ikeahacks
 illegallybigcats
 illegallysmolbirbs
 IllegallySmolBunnies
@@ -4922,6 +4926,7 @@ restaurant
 retailhell
 retardedcornfieldcum
 RetroAR
+retrobattlestations
 RetroBowl
 RetroFuturism
 retrogaming
