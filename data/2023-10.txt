@@ -2633,6 +2633,7 @@ homeassistant
 Homebuilding
 HomeDecorating
 HomeDepot
+homegym
 homelab
 HomeMaintenance
 HomeNetworking
@@ -3766,6 +3767,7 @@ MinecraftMemes
 MinecraftPolska
 minecraftseeds
 MineIslam
+MineralGore
 MineralPorn
 Minesweeper
 miniatures
@@ -5520,6 +5522,7 @@ TacticalUrbanism
 Taiwanese
 Takagi_san
 talesfromcallcenters
+TalesFromRetail
 talesfromtechsupport
 TalesFromTheFrontDesk
 TalesFromThePharmacy
@@ -5538,6 +5541,7 @@ tampa
 TampaBayLightning
 tampabayrays
 Tanalorr
+Tangled
 tankiejerk
 TankPorn
 tanks
@@ -6001,6 +6005,7 @@ ultimate
 Ultrakill
 Ultraleft
 ultralight_jerk
+Ultraman
 Ultramarines
 ultrawidemasterrace
 UmaMusume
@@ -6332,6 +6337,7 @@ woahdude
 wohnen
 WojakCompass
 Wolfenstein
+wollongong
 wolves
 women
 WomenSoccerLegs
