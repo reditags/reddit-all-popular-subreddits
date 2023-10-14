@@ -445,6 +445,7 @@ AskReddit
 askscience
 AskScienceFiction
 askSingapore
+Asksweddit
 AskThe_Donald
 askTO
 asktransgender
@@ -1026,6 +1027,7 @@ cat
 CatAdvice
 CatastrophicFailure
 catbellies
+catbongos
 catcare
 Catculations
 CatDistributionSystem
@@ -2114,6 +2116,7 @@ FondantHate
 food
 foodbutforbabies
 Foodforthought
+foodhacks
 FoodieCutie
 FoodieSnark
 FoodNYC
@@ -4880,6 +4883,7 @@ rickandmorty
 rickygervais
 rienabranler
 RighteousGemstones
+RightJerk
 Rihanna
 rimesegate
 Rimuru
@@ -6179,6 +6183,7 @@ Volvo
 VoteDEM
 voyager
 VShojo
+vtolvr
 VuvuzelaIPhone
 VyvanLe
 vzla
