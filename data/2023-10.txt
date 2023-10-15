@@ -1104,6 +1104,7 @@ CCW
 CDawgVA
 celeb_nylons
 CelebEvents
+celebheels
 CelebPortraits
 celebrity_soles
 CelebrityFeet
@@ -1390,6 +1391,7 @@ CozyPlaces
 CPA
 crabcats
 CrackWatch
+Crainn
 CrappyDesign
 crappyoffbrands
 crashbandicoot
@@ -3273,6 +3275,7 @@ KiraraMains
 Kirby
 KitchenConfidential
 kitchener
+Kitler
 Kitten
 kittengifs
 kittens
@@ -3297,6 +3300,7 @@ kof
 Kokomi_Mains
 kolkata
 kollywood
+Komi_memes
 Komi_san
 Konosuba
 konya
@@ -3683,6 +3687,7 @@ MangaCollectors
 mangalore
 manhwa
 MANILA
+manipur
 Manitoba
 ManorLords
 MapChart
@@ -4934,6 +4939,7 @@ RealTesla
 RealTimeStrategy
 ReasonableFantasy
 REBubble
+recipes
 recruitinghell
 red_scare_pod
 red_velvet
@@ -4956,6 +4962,7 @@ redneckengineering
 redrising
 Reds
 redsox
+RedVelvet_Irene
 RedvsBlue
 RedWingShoes
 regretfulparents
@@ -5870,6 +5877,7 @@ TheGriffonsSaddlebag
 TheHague
 TheInbetweeners
 theJoeBuddenPodcast
+TheKonsey
 TheLastAirbender
 thelastofus
 TheLastOfUs2
