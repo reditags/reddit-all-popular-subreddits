@@ -1095,6 +1095,7 @@ CBSE
 CBSECommerce
 ccda
 CCW
+CDawgVA
 celeb_nylons
 CelebEvents
 CelebPortraits
@@ -3208,6 +3209,7 @@ Katemara
 KateMiddleton
 KatherineMcNamara
 KatherynWinnick
+KathrynNewton
 katyperry
 Kawasaki
 KayAdams
@@ -3751,6 +3753,7 @@ MechanicalKeyboards
 MechanicalPandey
 Mechwarrior5
 MedicalGore
+medicalschoolRomania
 MediocreTutorials
 Meditation
 medizzy
@@ -3880,6 +3883,7 @@ minnesotatwins
 minnesotaunited
 minnesotavikings
 mirrorsedge
+Misato
 misfits
 missbricosplay
 MissingPersons
@@ -5024,6 +5028,7 @@ ROOMSYX
 roosterteeth
 rose
 Roses
+RotMG
 Rottweiler
 RoughRomanMemes
 RoverPetSitting
@@ -6632,3 +6637,4 @@ Zombie100
 Zoomerchan3
 Zoomies
 zootopia
+zuinig
