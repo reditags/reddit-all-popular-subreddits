@@ -317,6 +317,7 @@ animenocontext
 AnimeNoises
 animepiracy
 AnimeSketch
+Animesuggest
 AnimeTomboys
 Animewallpaper
 Animorphs
@@ -786,6 +787,7 @@ BlackPink
 Blacksmith
 Blackstonefortress
 BlackTemplars
+BlackWolfFeed
 BladeAndSorcery
 BladeMains
 bladerunner
@@ -1923,6 +1925,7 @@ EliteDangerous
 EliteEden
 ElizabethOlsen
 ElizabethTurner
+elkhunting
 ellacervetto
 ElleFanning
 elliottsmith
@@ -2746,6 +2749,7 @@ hoi4
 HOI4memes
 holdmycatnip
 holdmycosmo
+holdmyfeedingtube
 holdmyfries
 holdmyjuicebox
 holdmyredbull
@@ -3523,6 +3527,7 @@ Lexirivera
 Lexus
 lgballt
 lgbt
+LGBTindia
 lgbtmemes
 LGBTnews
 LGOLED
@@ -3754,6 +3759,7 @@ MangaCollectors
 mangalore
 manhwa
 MANILA
+manipal
 manipur
 Manitoba
 ManorLords
@@ -4392,6 +4398,7 @@ OaklandAthletics
 oasis
 oblivion
 ObsessedNetwork
+ObsidianMD
 OCD
 OCDmemes
 OceanGateTitan
@@ -4750,6 +4757,7 @@ pinkfloyd
 PinkFloydCircleJerk
 pinoy
 pinoymed
+PioneerMTG
 Piracy
 PiratedGames
 Piratefolk
@@ -6406,6 +6414,7 @@ vegas
 vegaslocals
 vegetablegardening
 velvethippos
+VenomousKeepers
 Vent
 venturebros
 Verkehrswende
