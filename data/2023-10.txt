@@ -453,6 +453,7 @@ askgaybros
 AskHistorians
 askhungary
 AskIreland
+asklatinamerica
 AskLGBT
 askmath
 AskMechanics
@@ -4131,6 +4132,7 @@ namenerds
 namesoundalikes
 namethatcar
 Nami_Fanclub
+nami_m0mmy
 NamiMains
 nanaimo
 nancydrew
@@ -4945,6 +4947,7 @@ qatar
 qotsa
 QualityTacticalGear
 Quebec
+queen
 queensland
 queensofgenshin
 questions
@@ -5153,6 +5156,7 @@ RTGameCrowd
 RugbyAustralia
 RugbyPortugal
 rugbyunion
+rugbyunion2
 runescape
 running
 RunningCirclejerk
