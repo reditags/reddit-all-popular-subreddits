@@ -6,6 +6,7 @@
 1950s
 19684
 197
+198
 19th
 1morewow
 2007scape
@@ -1811,6 +1812,7 @@ Doom
 doommetal
 doordash
 doordash_drivers
+doordashgremlin
 Doppleganger
 Dorohedoro
 DotA2
@@ -2588,6 +2590,7 @@ gravelcycling
 gravityfalls
 gravityrush
 graz
+GreatBritishBakeOff
 GreatBritishMemes
 greatdanes
 GreatnessOfWrestling
@@ -4155,6 +4158,7 @@ Music
 musicsuggestions
 MuslimLounge
 Mustang
+mutt
 MW2
 MXRplays
 MyAdventuresWithSuper
