@@ -3017,6 +3017,7 @@ InfluencergossipDK
 Infographics
 InformedWarriorRides
 InfowarriorRides
+infp
 InfrastructurePorn
 initiald
 INJUSTICE
@@ -5042,6 +5043,7 @@ rarepuppers
 RashidaJones
 raspberry_pi
 RatchetAndClank
+RATM
 Ratorix
 RATS
 Ratschlag
@@ -5376,6 +5378,7 @@ serialkillers
 seriea
 SeriousConversation
 seriouseats
+settmains
 Seulgi
 seventeen
 SeveranceAppleTVPlus
@@ -6818,6 +6821,7 @@ yuna
 Yuqi
 yuri_manga
 YUROP
+YuYuHakusho
 ZaidZIZ
 ZanClan
 ZaraLarsson
