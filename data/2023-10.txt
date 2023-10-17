@@ -522,6 +522,7 @@ Atlanta
 AtlantaBraves
 AtlantaHawks
 AtlantaUnited
+ATLAtv
 atrioc
 attackeyes
 attackontitan
@@ -2404,6 +2405,7 @@ fulbo
 FullEpisodesOfSB
 FullmetalAlchemist
 fullpops
+FullScorpion
 Fumofumo
 functionalprint
 FundieSnarkUncensored
