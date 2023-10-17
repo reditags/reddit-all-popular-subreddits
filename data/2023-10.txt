@@ -877,6 +877,7 @@ bollywoodmemes
 BollywoodMusic
 BollywoodUHQonly
 boltaction
+BoltEV
 BombRush_Cyberfunk
 Bondedpairs
 boneachingjuice
@@ -6595,6 +6596,7 @@ Veterans
 vexillology
 vexillologycirclejerk
 veYakinEvren
+vfx
 VGC
 VHS
 victoria2
@@ -6959,6 +6961,7 @@ Yuqi
 yuri_manga
 YUROP
 YuYuHakusho
+yuzu
 yvonnestrahovski
 ZaidZIZ
 ZanClan
