@@ -293,6 +293,7 @@ Angryupvote
 ani_bm
 AnimalCrossing
 AnimalCrossingNewHor
+AnimalMemes
 Animals
 AnimalsBeingBros
 AnimalsBeingDerps
@@ -544,6 +545,7 @@ AustralianMilitary
 AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
+AustralianTeachers
 australianwildlife
 Austria
 austriahungary
@@ -870,6 +872,7 @@ BollywoodUHQonly
 boltaction
 BombRush_Cyberfunk
 Bondedpairs
+boneachingjuice
 BoneAppleTea
 bonecollecting
 bonehurtingjuice
@@ -3146,6 +3149,7 @@ IsraeliBeauty
 IsraelPalestine
 IsraelWarFootage
 IsraelWarVideoReport
+ISRO
 ISSK_Manga
 istanbul
 IsTodayFridayThe13th
@@ -4503,6 +4507,7 @@ OeffentlicherDienst
 ofcoursethatsathing
 offbeat
 OffGridCabins
+OfficeChairs
 OfflinetvGirls
 OffMyChestPH
 Offroad
