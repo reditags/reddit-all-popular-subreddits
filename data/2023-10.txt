@@ -532,6 +532,7 @@ AusFinance
 auslaw
 AusLegal
 AusMemes
+AusNews
 AusPropertyChat
 AusRenovation
 AussieFrugal
@@ -3597,6 +3598,7 @@ LeopardsAteMyFace
 LeopardsAteMyFacePH
 LesbianActually
 lesbianfashionadvice
+LesbianInsectBrothel2
 lesserafim
 LetsTalkBam
 Letterboxd
@@ -3975,6 +3977,7 @@ Mercari
 mercedes_benz
 MercyMains
 merdasdoolx
+MergeMansion
 Metalcore
 metaldetecting
 MetalForTheMasses
@@ -6116,6 +6119,7 @@ ThelastofusHBOseries
 theleaguefx
 TheLegitBoss
 TheLib
+thelongdark
 TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
