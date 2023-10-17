@@ -672,6 +672,7 @@ BattleBitRemastered
 battlecats
 Battlefield
 battlefield2042
+battlefield_4
 battlefield_one
 BattlefieldV
 battlemaps
@@ -1951,6 +1952,7 @@ eddieandrichie
 eddievr
 ededdneddy
 Edelgard
+EdensZero
 EDF
 Edgerunners
 EDH
@@ -2564,6 +2566,7 @@ glee
 Glitch_in_the_Matrix
 GlitchProductions
 GlobalOffensive
+GlobalTalk
 Glocks
 Gloryhammer
 GlowUps
@@ -5394,6 +5397,7 @@ saskatchewan
 saskatoon
 Sat
 SatanicTemple_Reddit
+satanism
 SatisfactoryGame
 satisfying
 Satisfyingasfuck
@@ -6075,6 +6079,7 @@ TF2fashionadvice
 tf2memes
 tf2shitposterclub
 tf_irl
+tfc
 Thailand
 thalassophobia
 thane
