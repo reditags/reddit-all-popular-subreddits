@@ -491,6 +491,7 @@ AskReddit
 askscience
 AskScienceFiction
 askSingapore
+askSouthAfrica
 Asksweddit
 AskThe_Donald
 askTO
@@ -644,6 +645,7 @@ BambuLab
 BancaDelMeme
 BandMaid
 Bandmemes
+BandofBrothers
 Banff
 bangalore
 BanGDream
@@ -891,6 +893,7 @@ boneachingjuice
 BoneAppleTea
 bonecollecting
 bonehurtingjuice
+BONELAB
 BonneBouffe
 books
 bookshelf
@@ -1006,6 +1009,7 @@ buildabear
 buildapc
 buildapcsales
 bulgaria
+bulgariaeu
 Bulldogs
 bulletjournal
 Bullshido
@@ -1663,6 +1667,7 @@ davao
 DaveChappelle
 DavetheDiverOfficial
 davidlynch
+dayton
 Daytrading
 dayz
 dbxv
@@ -3865,6 +3870,7 @@ MalaysianFood
 MalaysianPF
 Malazan
 malefashionadvice
+malegrooming
 malehairadvice
 malelivingspace
 MaleniCruz
@@ -3880,6 +3886,7 @@ mancave
 manchester
 ManchesterUnited
 Mandalorian
+MandalorianMemes
 MandirGang
 MandJTV
 MangaCollectors
@@ -4419,6 +4426,7 @@ NieRAutomataGame
 nietdespeld
 NightInTheWoods
 NightLords
+Nightshift
 NightVision
 Nightwing
 nightwish
@@ -4563,6 +4571,7 @@ OffGridCabins
 OfficeChairs
 OfficialTinyDinyMatt
 OfflinetvGirls
+offmenupodcast
 OffMyChestPH
 Offroad
 offset
@@ -5418,6 +5427,7 @@ SaoPauloFC
 SapphoAndHerFriend
 SarahHyland
 SarahJMaas
+sarcasm
 Sardonicast
 saskatchewan
 saskatoon
