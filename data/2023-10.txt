@@ -2160,6 +2160,7 @@ Fallout
 fallout76settlements
 FallOutBoy
 FalloutMemes
+FalloutMods
 falloutnewvegas
 Falschparker
 familyguy
@@ -2475,6 +2476,7 @@ gameofthrones
 GamePhysics
 gamernews
 gamers_immortalized
+gamersupps
 gamesEcultura
 GameTheorists
 gameverifying
@@ -2678,6 +2680,7 @@ GreekCelebs
 GreenAndPleasant
 GreenBayPackers
 greenday
+Greenlantern
 GregDoucette
 Greyhounds
 greysanatomy
@@ -3995,6 +3998,7 @@ MedievalHistoryMemes
 MediocreTutorials
 Meditation
 medizzy
+medlabprofessionals
 medschoolph
 megaconstrux
 Megadeth
@@ -5916,6 +5920,7 @@ stopdrinkingfitness
 stophegetsus
 StoppedWorking
 stories
+Stormgate
 Stormlight_Archive
 StormReidMaybe
 Stormworks
@@ -6128,6 +6133,7 @@ TeslaModel3
 TeslaModelY
 teslamotors
 teslareferralcode
+TESOfashion
 Texans
 texas
 TexasChainsawGame
