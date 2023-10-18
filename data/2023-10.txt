@@ -1720,6 +1720,7 @@ deepseacreatures
 DeepSpaceNine
 DeFranco
 DEG
+Degrassi
 Dehyamains
 Deji
 delhi
@@ -2099,6 +2100,7 @@ ESTILOZAP
 estoration
 EstrangedAdultChild
 Ethelcain
+Ethiopia
 ethoslab
 ethtrader
 EtsySellers
@@ -3202,6 +3204,7 @@ ironmaiden
 ironscape
 IronWarriors
 IrrationalMadness
+IsabelaMerced
 Isekai
 IsekaiOjisan
 islam
@@ -3810,6 +3813,7 @@ LowSodiumHalo
 LowStakesConspiracies
 LPOTL
 lrcast
+LSAT
 LSD
 LSUFootball
 LTB_iel
@@ -4315,6 +4319,7 @@ NAFO
 nagatoro
 Nahida_Mains
 NahOPwasrightfuckthis
+NailArt
 Nails
 nakedandafraid
 NameMyCat
@@ -4421,6 +4426,7 @@ NewPatriotism
 NewRoryNMalPodcast
 news
 NewsAroundYou
+NewSkaters
 NewsOfTheStupid
 NewsWithJingjing
 NewTubers
@@ -4571,6 +4577,7 @@ NYguns
 nyjets
 NYKnicks
 NYStateOfMind
+nyu
 NYYankees
 O_PACOTE
 OaklandAthletics
@@ -6840,6 +6847,7 @@ WetlanderHumor
 WeWantPlates
 WFH
 What_JustHappened
+WhatBidenHasDone
 whatbirdisthis
 whatcarshouldIbuy
 whatcouldgoright
