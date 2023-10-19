@@ -632,6 +632,7 @@ badMovies
 BadMtgCombos
 BadMUAs
 badroommates
+badUIbattles
 badwomensanatomy
 baeirene
 bahn
@@ -1053,6 +1054,7 @@ cakedecorating
 cakefails
 CalamariRaceTeam
 CalamityMod
+Calamitymod_
 Calango
 Calgary
 CalgaryFlames
