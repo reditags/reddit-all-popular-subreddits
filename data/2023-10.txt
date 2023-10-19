@@ -383,6 +383,7 @@ AOW4
 apexlegends
 ApexLore
 ApexOutlands
+Apexrollouts
 ApexUncovered
 Aphantasia
 aphextwin
@@ -3215,6 +3216,7 @@ ironmaiden
 ironscape
 IronWarriors
 IrrationalMadness
+IsaacButterfield
 IsabelaMerced
 Isekai
 IsekaiOjisan
