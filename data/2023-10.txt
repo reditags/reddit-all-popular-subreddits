@@ -1197,6 +1197,7 @@ celebheels
 CelebPortraits
 celebrity_soles
 CelebrityFeet
+CelebrityFeetPosts
 celebritylegs
 Celebs_China
 CelebsBikiniUndies
@@ -2295,6 +2296,7 @@ firefly
 firewood
 FirstResponderCringe
 FirstTimeHomeBuyer
+firstworldanarchists
 Fischl
 Fit_babes
 FitAndNatural
@@ -2840,6 +2842,7 @@ HeartstopperAO
 HeartstopperNetflix
 heat
 Heatbit
+HeavySeas
 Hedgehog
 heels
 HeinousHumanity
@@ -5663,6 +5666,7 @@ SHINee
 ShingekiNoKyojin
 ShinyPokemon
 shitcoinmoonshots
+ShitCrusaderKingsSay
 shitfascistssay
 ShitHaloSays
 ShitKonfaSays
@@ -5890,6 +5894,7 @@ spiders
 spiderversedailymemes
 Spielstopp
 spiritbox
+Spiritfarer
 spirituality
 splatoon
 Splendida
@@ -6508,6 +6513,7 @@ treelaw
 trees
 tressless
 tretinoin
+triangle
 triathlon
 triplej
 trippinthroughtime
@@ -6537,6 +6543,7 @@ TrueSTL
 TrueUnpopularOpinion
 trump
 Trumpgret
+trumptweets
 Trumpvirus
 truscum
 Tsukihime
