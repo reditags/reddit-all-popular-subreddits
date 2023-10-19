@@ -231,6 +231,7 @@ allthemods
 AllThingsDND
 AllTomorrows
 alpinism
+AltBlonde
 AlternateHistory
 AlternateHistoryMemes
 AlternativeHistory
@@ -2230,6 +2231,7 @@ fashion
 fashionhistory
 fashionph
 FashionReps
+fastfood
 fasting
 Fate
 fatestaynight
@@ -2896,6 +2898,7 @@ hindumemes
 hingeapp
 hiphoptr
 Hiring_Freelancers
+HistoriasDeReddit
 HistoricalCostuming
 history
 HistoryAnimemes
@@ -6630,6 +6633,7 @@ UAP
 UBC
 uberdrivers
 UberEATS
+Ubiquiti
 ubius
 uBlockOrigin
 UBreddit
@@ -7113,6 +7117,7 @@ xkcd
 xmen
 XochitlGomezFan
 xqcow
+XRP
 XXXTENTACION
 YaeMiko
 YagateKiminiNaru
