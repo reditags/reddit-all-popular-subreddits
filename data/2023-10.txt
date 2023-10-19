@@ -1499,6 +1499,7 @@ cpp
 Cr1TiKaL
 crabcats
 CrackWatch
+craftymighty
 Crainn
 CrappyDesign
 crappyoffbrands
@@ -3051,6 +3052,7 @@ ImaginaryBehemoths
 ImaginaryCharacters
 ImaginaryCityscapes
 ImaginaryCybernetics
+ImaginaryCyberpunk
 ImaginaryDarkSouls
 ImaginaryDragons
 imaginaryelections
@@ -6925,6 +6927,7 @@ WhiskerFireworks
 whiskey
 whitecapsfc
 WhiteCats
+whiteknighting
 whitepeoplegifs
 WhitePeopleTwitter
 WhiteRose
