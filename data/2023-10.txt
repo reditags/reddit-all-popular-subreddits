@@ -804,6 +804,7 @@ birding
 BirdsArentReal
 Birdsfacingforward
 birdsofprey
+birdswitharms
 Birmingham
 birthday
 bisexual
@@ -2062,6 +2063,7 @@ EngineeringPorn
 england
 ENGLISH
 englishbulldog
+EnglishLearning
 engrish
 enkazpetados
 enlistedgame
@@ -4077,6 +4079,7 @@ mew_irl
 MexicanMemes
 mexico
 MexicoCity
+MexicoFinanciero
 mfdoom
 MGRmemes
 MHNowGame
