@@ -401,6 +401,7 @@ AppalachianTrail
 apple
 AppleCard
 AppleMusic
+applestorequeenv2
 AppleWatch
 Appliances
 ApplyingToCollege
@@ -864,6 +865,7 @@ BladeAndSorcery
 BladeMains
 bladerunner
 BLAHAJ
+blakelively
 Blasphemous
 BlatantMisogyny
 blaulicht
@@ -1454,6 +1456,7 @@ CombatFootage
 CombatFootageIsrael
 combinedgifs
 comedy
+comedyamputation
 ComedyCemetery
 comedyheaven
 ComedyHell
@@ -2966,6 +2969,7 @@ HikingAlberta
 HilariaBaldwin
 Hilary_Duff
 HildaTheSeries
+himikotoga
 HIMYM
 HindiMemes
 hinduism
@@ -4467,6 +4471,7 @@ Music
 musicaljenga
 musicsuggestions
 MuslimLounge
+MuslimMarriage
 Mustang
 mutt
 MW2
@@ -4485,6 +4490,7 @@ MyPeopleNeedMe
 myronkoops_
 MySingingMonsters
 MysteriousFacts
+mystery
 MysteryDungeon
 mysticmessenger
 MySummerCar
@@ -5030,6 +5036,7 @@ Pathfinder_Kingmaker
 pathfindermemes
 PathofChampions
 pathofexile
+pathoftitans
 PathToNowhere
 PatMcAfeeShowOfficial
 patrickstestsub
@@ -6738,6 +6745,7 @@ trucksim
 TrueAnon
 TrueCrime
 TrueCrimeDiscussion
+TrueCrimePodcasts
 truegaming
 TrueOffMyChest
 truerateme
