@@ -1348,6 +1348,7 @@ ChurchOfEula
 ChurchOfFeMC
 churchoffutaba
 churchofharu
+ChurchOfJirou
 ChurchOfKasumi
 ChurchofMarnie
 ChurchOfNejire
@@ -2015,6 +2016,7 @@ DungeonCrawlerCarl
 DungeonMeshi
 DungeonsAndDaddies
 DungeonsAndDragons
+DunksNotDead
 duolingo
 dustkitties
 dutch
@@ -2603,6 +2605,7 @@ GarandThumb
 GardeningUK
 Gardevoir
 Garmin
+GarminFenix
 gastricsleeve
 gatekeeping
 GatekeepingYuri
@@ -2940,6 +2943,7 @@ Hellsing
 hellsomememes
 Helltaker
 HelluvaBoss
+HelluvaBossFanArt
 Helluvabossmemes
 HelpMeFind
 HelpMeFindThis
@@ -3855,6 +3859,7 @@ LilyCollins
 LilyJames
 limbuscompany
 LiminalSpace
+Limmy
 Lindsaylohan
 lingling40hrs
 linguisticshumor
@@ -5441,6 +5446,7 @@ Ratschlag
 RavenGuard40k
 ravens
 rawdenim
+Rayman
 razer
 razorfree
 RBI
@@ -6105,6 +6111,7 @@ StaffordBullTerriers
 StainedGlass
 Stake
 stalker
+Stampylongnose
 Stance
 standardissuecat
 StandUpComedy
