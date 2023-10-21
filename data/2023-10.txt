@@ -3737,6 +3737,7 @@ leanbeefpatty
 LearmannTwins
 LearnerDriverUK
 LearnJapanese
+learnpolish
 learnprogramming
 learnpython
 learntodraw
