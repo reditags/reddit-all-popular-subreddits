@@ -2214,6 +2214,7 @@ EUR_irl
 europe
 EuroTruck2
 eurovision
+EuSouOBabaca
 EvaGreen
 evangelinelilly
 evangelion
@@ -5114,6 +5115,7 @@ penguins
 PenmanshipPorn
 Pennsylvania
 PennyLaneIsTheName
+pennystocks
 PeopleBeingJerks
 PeopleFuckingDying
 peopleofwalmart
@@ -6585,6 +6587,7 @@ TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
 TheMassive
+TheMcDojoLife
 TheMonkeysPaw
 TheMorningToastSnark
 thenetherlands
