@@ -433,6 +433,7 @@ Argaming
 ArgenGaming
 argentina
 ArgentinaBenderStyle
+ArgentinaCocina
 Argnime
 ArianaGrande
 arielwinter
@@ -837,6 +838,7 @@ BirdsArentReal
 Birdsfacingforward
 birdsofprey
 birdswitharms
+birdwatching
 Birmingham
 birthday
 bisexual
@@ -3124,6 +3126,7 @@ iastate
 IBO
 icarly
 IcebergCharts
+icecoast
 IceCreamWaifu
 Iceland
 ich_iel
@@ -4542,6 +4545,7 @@ NativeAmerican
 NativePlantGardening
 nattyorjuice
 nature
+natureisbeautiful
 NatureIsFuckingCute
 NatureIsFuckingLit
 natureismetal
@@ -5516,6 +5520,7 @@ regina
 regretfulparents
 regularcarreviews
 regularshow
+REI
 ReiAyanami
 RelationshipMemes
 RelatosDoReddit
@@ -6350,6 +6355,7 @@ tarih
 TarihiSeyler
 tarik
 TarkovMemes
+TarotDecks
 taskmaster
 tasmania
 TastingHistory
@@ -6735,6 +6741,7 @@ treelaw
 trees
 tressless
 tretinoin
+TrevorHenderson
 triangle
 triathlon
 triplej
