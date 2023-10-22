@@ -1938,6 +1938,7 @@ Doenerverbrechen
 DOG
 DogAdvice
 dogelore
+doggohate
 doggrooming
 DoggyDNA
 DoglaREDDIT
@@ -6921,6 +6922,7 @@ UK_TV_Girls
 ukdrill
 UKfood
 UKhiking
+UKJobs
 ukmedicalcannabis
 UKPersonalFinance
 ukraina
