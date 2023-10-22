@@ -1275,6 +1275,7 @@ Chainsawfolk
 ChainsawMan
 chainsawmancirclejerk
 Championship
+championsleague
 chanel
 ChangeYourChessFont
 Channel5ive
@@ -2249,11 +2250,13 @@ Eyebleach
 eyebombing
 Eyebrows
 eyes
+F1FeederSeries
 F1Game
 F1NN5TER
 F1Technical
 Fable
 face
+facebook
 FacebookScience
 facepalm
 FaceRatings
@@ -2522,6 +2525,7 @@ frogs
 Fromis
 FromKittenToCat
 fromsoftware
+FromTheDepths
 Frostpunk
 Frugal
 frugalmalefashion
@@ -4209,6 +4213,7 @@ Mechwarrior5
 MedicalGore
 medicalschoolRomania
 Medievalart
+MedievalCats
 MedievalHistoryMemes
 MediocreTutorials
 Meditation
@@ -4248,6 +4253,7 @@ memesopdidnotlike
 MemeVideos
 memexico
 memphis
+memphisgrizzlies
 MemriTVmemes
 MenAndFemales
 mensfashion
@@ -6190,6 +6196,7 @@ startrekmemes
 StarTrekStarships
 StartUpIndia
 startups
+StarVStheForcesofEvil
 StarWars
 StarWarsAhsoka
 StarWarsAndor
@@ -6353,6 +6360,7 @@ tacobell
 Tacoma
 Tacomaworld
 tacticalgear
+TacticalIssueCat
 TacticalUrbanism
 Taiwanese
 Takagi_san
