@@ -1640,6 +1640,7 @@ Crystals
 cs2
 cscareerquestions
 csgo
+csgogamblingguide
 csharp
 CSHFans
 csMajors
@@ -2194,6 +2195,7 @@ EPFL
 EpicSeven
 epicsystems
 Epstein
+EquallyTopless
 equestriaatwar
 Equestrian
 Eragon
@@ -3130,6 +3132,7 @@ hrvatska
 hsp
 httyd
 hudsonvalley
+Huebi
 HUEstation
 HumanBeingBros
 HumanForScale
@@ -6465,6 +6468,7 @@ TeachersInTransition
 teaching
 TeamfightTactics
 TeamFourStar
+teamliquid
 TeamSolomid
 tearsofthekingdom
 TearsOfThemis
@@ -7108,6 +7112,7 @@ victoriajustice
 VictoriaJusticeShine
 videogamedunkey
 videogames
+videography
 VideojuegosMX
 videos
 VietNam
