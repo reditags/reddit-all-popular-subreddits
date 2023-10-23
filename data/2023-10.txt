@@ -4912,6 +4912,7 @@ okoidawappler
 okpolarncp
 okprietenretardat
 Old_Recipes
+oldhammer
 Oldhouses
 OldManDog
 OldPhotosInRealLife
@@ -6794,6 +6795,7 @@ trans
 TransClones
 Transformemes
 transformers
+transgamers
 transgender
 transit
 TransitDiagrams
@@ -7463,6 +7465,7 @@ YuB
 yugioh
 YuGiOhMemes
 yugiohshowcase
+Yukon
 yumenikki
 yuna
 Yuqi
