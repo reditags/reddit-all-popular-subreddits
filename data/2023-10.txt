@@ -1436,6 +1436,7 @@ clorindemains
 ClothedMuscle
 Cloud9
 CLOUDS
+ClubAmerica
 cluj
 cocaine
 cockatiel
@@ -4079,6 +4080,7 @@ MadiTeeuws
 madlads
 MadMax
 Madonna
+Mafex
 MafiaTheGame
 MAFS_UK
 MAGANAZI
@@ -5923,6 +5925,7 @@ shieldbro
 Shihtzu
 SHINee
 ShingekiNoKyojin
+Shining_Nikki
 ShinyPokemon
 shitcoinmoonshots
 ShitCrusaderKingsSay
