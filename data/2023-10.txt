@@ -3989,6 +3989,7 @@ LocalLLaMA
 LodedDiper
 logh
 logodesign
+loicense
 Lolirefugees
 london
 londoncycling
@@ -4678,6 +4679,7 @@ NeebsGaming
 needforspeed
 NeedyStreamerOverload
 neekolul
+NeilBreen
 NelliesNest
 neoliberal
 NeonGenesisEvangelion
@@ -5585,6 +5587,7 @@ razorbacks
 razorfree
 RBI
 rccars
+RDCWorld
 RDR2
 RDTTR
 Re_Zero
