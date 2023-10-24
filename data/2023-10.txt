@@ -3461,6 +3461,7 @@ ItalianGreyhounds
 ItaliaPersonalFinance
 italy
 italygames
+ItalyInformatica
 Itasha
 ITCareerQuestions
 itcouldhappenhere
@@ -6432,6 +6433,7 @@ SuperStructures
 supportlol
 Supra
 surat
+surdev
 surrealmemes
 SurreyBC
 SurvivalGaming
