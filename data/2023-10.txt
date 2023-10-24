@@ -1960,6 +1960,7 @@ doener
 Doenerverbrechen
 DOG
 DogAdvice
+dogecoin
 dogelore
 doggohate
 doggrooming
@@ -2357,6 +2358,7 @@ Feldup
 Felicity_Jones
 felsefe
 FeltGoodComingOut
+Felting
 FemaleAntinatalism
 femalehairadvice
 femalelivingspace
@@ -2781,6 +2783,7 @@ GlobalOffensive
 GlobalTalk
 Glocks
 Gloryhammer
+glossier
 GlowUps
 gluesniffer
 GME
@@ -5375,6 +5378,7 @@ Polska
 Polska_wpz
 Polytopia
 Pomeranians
+Pomsky
 ponds
 poodles
 PoojaHegdeHub
@@ -6460,6 +6464,7 @@ Tacomaworld
 tacticalgear
 TacticalIssueCat
 TacticalUrbanism
+tahoe
 Taiwanese
 Takagi_san
 talesfromcallcenters
