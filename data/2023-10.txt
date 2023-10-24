@@ -246,6 +246,7 @@ AllThingsDND
 AllTomorrows
 alpinism
 AltBlonde
+AlternateAngles
 AlternateHistory
 AlternateHistoryMemes
 AlternativeHistory
@@ -882,6 +883,7 @@ BlackPeopleComedy
 blackpeoplegifs
 BlackPeopleTwitter
 BlackPink
+blackpowder
 Blacksmith
 Blackstonefortress
 BlackTemplars
@@ -1317,6 +1319,7 @@ CharcuterieBoard
 Chargers
 charlixcx
 Charlotte
+CharlotteHornets
 CharlotteSena
 Charlottesville
 charmed
@@ -3747,6 +3750,7 @@ KingstonOntario
 KiraKosarin
 KiraraMains
 Kirby
+kirikomains
 kiszamolo
 KitchenConfidential
 kitchener
@@ -4574,6 +4578,7 @@ MovieMistakes
 movies
 Moviesinthemaking
 MrBeast
+MrFruit
 MrInbetween
 MrRobot
 mscsmedia
@@ -5965,6 +5970,7 @@ SelenaGomez
 SelenaGomezObsession
 self
 SelfAwarewolves
+SelfDrivingCars
 selfhosted
 selfie
 SelfieOver25
