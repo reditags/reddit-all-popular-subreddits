@@ -5504,6 +5504,7 @@ project1999
 Project_L
 Project_Wingman
 projectcar
+ProjectDiablo2
 projecteternity
 ProjectSekai
 projectzomboid
@@ -6184,6 +6185,7 @@ smoking
 SmugIdeologyMan
 snails
 snakes
+SnapChad
 SnapshotHistory
 sneakerreps
 Sneks
@@ -6590,6 +6592,7 @@ Techno
 Technoblade
 technology
 techsupportgore
+techsupportmacgyver
 TedLasso
 teefies
 Teenager_Polls
