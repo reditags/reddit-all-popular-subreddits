@@ -3294,6 +3294,7 @@ India247trending
 india_cycling
 IndiaCricket
 indiadiscussion
+IndiaEntertainment
 IndiaInvestments
 indiameme
 Indiana
@@ -3769,6 +3770,7 @@ kothibanglacheck
 KOTORmemes
 kpics
 kpop
+kpop_uncensored
 kpophelp
 kpoprants
 kpopthoughts
@@ -5615,6 +5617,7 @@ realmadrid
 RealTesla
 RealTimeStrategy
 ReasonableFantasy
+ReBoot
 REBubble
 recipes
 recruitinghell
