@@ -734,6 +734,7 @@ battlefield2042
 battlefield_4
 battlefield_one
 BattlefieldV
+battlefront2
 battlemaps
 BattleNetwork
 battlestations
