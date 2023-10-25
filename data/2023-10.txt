@@ -2862,6 +2862,7 @@ GoRVing
 GossipDK
 GossipGirl
 goth
+GothamChess
 Gothenburg
 GothFashion
 GothGirls
@@ -3545,6 +3546,7 @@ JapaneseFood
 Japaneselanguage
 japanesepeopletwitter
 japanlife
+japannews
 japanpics
 JapanTravel
 JapanTravelTips
@@ -3618,6 +3620,7 @@ jordan
 Jordan_Peterson_Memes
 jordanabrewster
 JordanPeterson
+JorjaSmith
 Josiehamming
 joueurdugrenier
 Journaling
@@ -3848,6 +3851,7 @@ LadiesofNickelodeon
 ladiesofthemcu
 LadiesOfWrestling
 ladyladyboners
+Laesterschwestern
 LAFC
 laidbackcamp
 Lain
@@ -4416,6 +4420,7 @@ MichiganWolverines
 microblading
 microgrowery
 MicromobilityNYC
+microsoft
 MicrosoftFlightSim
 MicrosoftRewards
 Mid_Century
