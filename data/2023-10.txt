@@ -2456,6 +2456,7 @@ FindAUnit
 findfashion
 Finland
 fionnaandcake
+Fire
 Firearms
 fireemblem
 FireEmblemHeroes
@@ -6478,6 +6479,7 @@ stupiddovenests
 StupidFood
 stupidpol
 stupidquestions
+stuttgart
 StVO
 subaru
 Subaru_Outback
@@ -7334,6 +7336,7 @@ Volumeeating
 Volvo
 VoteDEM
 voyager
+VRchat
 VRGaming
 VShojo
 vtmb
