@@ -279,6 +279,7 @@ amex
 AMG
 Amigurumi
 AmIHotSFW
+amiibo
 AmITheAngel
 AmItheAsshole
 AmItheButtface
@@ -2055,6 +2056,7 @@ DrDisrespectLive
 Dreadlocks
 DreamlightValley
 Dreams
+Dreamtheater
 DreamWasTaken2
 dredge
 drehscheibe
@@ -2562,6 +2564,7 @@ FoundPaper
 foundsatan
 fountainpens
 fourthwavewomen
+fourthwing
 foxes
 FoxFiction
 foxholegame
@@ -2654,6 +2657,7 @@ funnyvideos
 furinamains
 furry_irl
 furrymemes
+FurryMultiverse
 fuseboxgames
 fut
 futbol
@@ -4654,6 +4658,7 @@ Mustang
 mutt
 MW2
 MXRplays
+my_celebrity_crush
 MyAdventuresWithSuper
 MyBigFatFabulousLife
 MyChemicalRomance
@@ -5530,6 +5535,7 @@ ProCreate
 productivity
 progmetal
 programare
+programiranje
 ProgrammerHumor
 programming
 programminghorror
@@ -6299,6 +6305,7 @@ spain
 Spanish
 SpanishHistoryMemes
 SpanishMeme
+Spawn
 specializedtools
 SpecOpsArchive
 spectacularmemes
@@ -7009,6 +7016,7 @@ trolleyproblem
 TrollYChromosome
 tron
 Trophies
+TropicalWeather
 trouduction
 troutfishing
 TruckerCats
