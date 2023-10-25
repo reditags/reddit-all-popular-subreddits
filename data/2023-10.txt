@@ -4135,6 +4135,7 @@ LowQualityMemes
 lowriders
 LowSodiumCyberpunk
 LowSodiumHalo
+LowSodiumSimmers
 LowStakesConspiracies
 LPOTL
 lrcast
@@ -5453,6 +5454,7 @@ Polcompball
 poledancing
 police
 policebrutality
+policeporn
 policeuk
 Political_Revolution
 PoliticalCompass
@@ -6318,6 +6320,7 @@ Spanish
 SpanishHistoryMemes
 SpanishMeme
 Spawn
+SpecialAccess
 specializedtools
 SpecOpsArchive
 spectacularmemes
@@ -6683,6 +6686,7 @@ TerrainBuilding
 Terraria
 TerrariaMemes
 terriblefacebookmemes
+terrifier
 TerrifyingAsFuck
 Terroriser
 tesco
