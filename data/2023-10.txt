@@ -756,6 +756,7 @@ bbaldiback
 BBBY
 bbby_remastered
 BBQ
+BCIT
 beach
 BeachCity
 BeachHouse
@@ -4900,6 +4901,7 @@ noida
 noita
 NoJumper
 NolanBatmanMemes
+NOLAPelicans
 NoLawns
 NoMansSkyTheGame
 NonCredibleBundeswehr
@@ -5838,6 +5840,7 @@ rockmuzik
 rockybalboa
 RodriguesFamilySnark
 ROGAlly
+Rogers
 RoleReversal
 rollercoasterjerk
 rollercoasters
@@ -6068,6 +6071,7 @@ serialkillers
 seriea
 SeriousConversation
 seriouseats
+service_dogs
 settmains
 Seulgi
 seventeen
@@ -6562,6 +6566,7 @@ sutesfozes
 suzerain
 svenskpolitik
 Sverige
+SVU
 swans
 swansea
 SweatyPalms
@@ -7181,6 +7186,7 @@ Ultraleft
 ultralight_jerk
 Ultraman
 Ultramarines
+ultrarunning
 ultrawidemasterrace
 UmaMusume
 umanitoba
