@@ -1496,6 +1496,7 @@ Cloud9
 CLOUDS
 ClubAmerica
 cluj
+CMU_CS_Academy
 cocaine
 cockatiel
 cockerspaniel
@@ -1644,6 +1645,7 @@ CrappyDesign
 crappymusic
 crappyoffbrands
 crashbandicoot
+CrawlerSightings
 crazyexgirlfriend
 CrazyFuckingVideos
 CrazyHuman
@@ -7432,6 +7434,7 @@ VRGaming
 VShojo
 vtmb
 vtolvr
+vultureculture
 VuvuzelaIPhone
 VyvanLe
 vzla
