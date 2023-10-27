@@ -1705,6 +1705,7 @@ CryptoMars
 CryptoMoon
 CryptoMoonShots
 CryptoNews2day
+CryptoPeople
 Cryptozoology
 crystalpalace
 Crystals
@@ -3373,6 +3374,7 @@ ImaginaryMiddleEarth
 ImaginaryMonsterGirls
 ImaginaryMonsters
 ImaginarySliceOfLife
+ImaginarySoldiers
 ImaginaryStarships
 ImaginaryTechnology
 ImaginaryWarhammer
@@ -3642,6 +3644,7 @@ JeffArcuri
 jeffjackson
 JeilaDizon
 jellybeantoes
+Jellycatplush
 JennaFischer
 JennaLouiseColeman
 Jennamarbles
