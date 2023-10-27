@@ -2579,6 +2579,7 @@ FordBronco
 FordTrucks
 Forest
 forestry
+ForFashion
 Forgotten_Realms
 ForgottenWeapons
 forhire
@@ -7342,6 +7343,7 @@ vagabondmanga
 ValentGarzonC
 valerialcala
 valheim
+valkyrae
 VALORANT
 ValorantCompetitive
 ValorantMemes
