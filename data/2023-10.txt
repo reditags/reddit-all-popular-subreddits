@@ -6441,6 +6441,7 @@ spiderbro
 SpiderGwen
 Spiderman
 SpidermanPS4
+spidermanps5
 spiders
 spiderversedailymemes
 Spielstopp
@@ -6507,6 +6508,7 @@ Starfield
 starfield_lore
 starfieldmods
 StarfieldShips
+starfox
 Stargate
 starsector
 StarStable
