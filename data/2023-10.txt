@@ -1575,6 +1575,7 @@ conan
 ConanBeingAwesome
 Concrete
 ConeHeads
+Conestoga
 confession
 confessions
 confidentlyincorrect
@@ -3064,6 +3065,7 @@ HalloweenKittyCombo
 Halloweenmovies
 halo
 halodripfinite
+haloinfinite
 HaloLeaks
 HaloMemes
 HaloStory
@@ -4026,6 +4028,7 @@ Leeds
 LeedsUnited
 leetcode
 LeftHandPath
+leftistvexillology
 LeftyPiece
 legal
 legaladvicecanada
@@ -7113,6 +7116,7 @@ TowerofGod
 Toyota
 ToyotaTacoma
 ToyotaTundra
+TraceAnObject
 trackandfield
 trackers
 TrackMania
@@ -7375,6 +7379,7 @@ UTM
 Uttarakhand
 uttarpradesh
 UtterlyInteresting
+uvic
 UXDesign
 UzakiChan
 uzayzuhal
