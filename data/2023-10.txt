@@ -1170,6 +1170,7 @@ Cameras
 CamilaCabello
 camilamendes
 camphalfblood
+CampingGear
 canada
 Canada_sub
 canadaguns
@@ -3137,6 +3138,7 @@ Highfleet
 HighHeels
 HighQualityGifs
 HighResCelebs
+highschool
 HighStrangeness
 Higurashinonakakoroni
 HikingAlberta
@@ -7551,6 +7553,7 @@ whatismycookiecutter
 whatisthisbone
 whatisthisbug
 whatisthiscar
+whatisthisfish
 WhatIsThisPainting
 whatisthisthing
 whatsnakeisthis
