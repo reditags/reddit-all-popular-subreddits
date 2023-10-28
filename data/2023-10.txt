@@ -1597,6 +1597,7 @@ Conservative
 ConservativeMemes
 conservatives
 conservativeterrorism
+consolerepair
 consoles
 Consoom
 conspiracy
@@ -1939,6 +1940,7 @@ depression_memes
 depressionmeals
 depressionmemes
 DerechoGenial
+DerryLondonderry
 DerScheisser
 desabafos
 DeSantisThreatensUSA
@@ -2290,6 +2292,7 @@ enkazpetados
 enlistedgame
 Enneagram
 Enough_Sanders_Spam
+Enough_Vaush_Spam
 EnoughCommieSpam
 EnoughLibertarianSpam
 EnoughMuskSpam
@@ -2853,6 +2856,7 @@ getdisciplined
 GetMotivated
 GetNoted
 getplayed
+GettingShredded
 GetyourFREE
 GFLNeuralCloud
 GFRIEND
@@ -4141,6 +4145,7 @@ linux
 linux_gaming
 linuxmasterrace
 linuxquestions
+lisathepainfulrpg
 lisboa
 liseliler
 listentothis
@@ -4588,6 +4593,7 @@ milsurp
 milwaukee
 MimiKeene
 Mimosa
+mimovi
 mina_irl
 MindHunter
 Mindustry
@@ -5870,6 +5876,7 @@ redstone
 RedVelvet_Hotties
 RedVelvet_Irene
 RedvsBlue
+redwhiteandroyalblue
 RedWingShoes
 regina
 regretfulparents
@@ -7241,6 +7248,7 @@ turkish_celeb
 TurkishCats
 TurkishCeleb
 turkishlearning
+TurkishTVSerials
 Turkiye
 TurkiyeCelebrity
 Turkophobia
@@ -7725,6 +7733,7 @@ WitchesVsPatriarchy
 WithoutATrace
 Wizard101
 wizardposting
+WKUK
 wnba
 woahdude
 wohnen
