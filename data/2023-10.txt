@@ -4730,6 +4730,7 @@ Mtf_irl
 MTFButch
 mtg
 mtgfinance
+mtgGore
 mtgvorthos
 MtvChallenge
 MUAontheCheap
@@ -5994,6 +5995,7 @@ runningman
 RunningShoeGeeks
 RunNYC
 rupaulsdragrace
+ruralporn
 rurusama
 rusAskReddit
 rush
@@ -6820,6 +6822,7 @@ Tennessee
 Tennesseetitans
 tennis
 TenseiSlime
+TerminallyStupid
 TerrainBuilding
 Terraria
 TerrariaMemes
@@ -7607,6 +7610,7 @@ WestVirginia
 WetlanderHumor
 WeWantPlates
 WFH
+whales
 What_JustHappened
 WhatBidenHasDone
 whatbirdisthis
@@ -7765,6 +7769,7 @@ writers
 writing
 writingcirclejerk
 WritingPrompts
+wrongnumber
 WRX
 wrx_vb
 WTF
