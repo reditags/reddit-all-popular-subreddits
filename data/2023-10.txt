@@ -2849,6 +2849,7 @@ GeorginaRodriguezN1
 German
 GermanRap
 germanshepherds
+germanshorthairs
 germantrees
 GermanWW2photos
 GeschichtsMaimais
@@ -3901,6 +3902,7 @@ kiwisavengers
 kkb
 KleeMains
 Klimawandel
+KM3Snark
 KneadyCats
 knifeclub
 knifemaking
@@ -5506,6 +5508,7 @@ pinoy
 pinoymed
 PioneerMTG
 Piracy
+pirataria
 PiratedGames
 Piratefolk
 PirateKitties
@@ -6235,6 +6238,7 @@ sharpcutting
 sharpei
 sheffield
 SheGotHands
+shehulk
 sheltie
 ShenheMains
 ShermanPosting
@@ -6395,6 +6399,7 @@ SnapChad
 SnapshotHistory
 sneakerreps
 Sneks
+snes
 SNKRS
 SnootGame
 snow
@@ -7715,6 +7720,7 @@ windsorontario
 wine
 Wings
 WingsOfFire
+WinningTime
 winnipegjets
 WinStupidPrizes
 winterporn
