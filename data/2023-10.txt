@@ -1402,6 +1402,7 @@ chicago
 ChicagoBearsNFL
 chicagobulls
 chicagofood
+Chicken_Thoughts
 chickens
 CHICubs
 Chihuahua
@@ -1426,6 +1427,7 @@ chomsky
 Chonkers
 ChoosingBeggars
 ChoujinX
+chowchow
 ChratosGameplay
 chrissycostanza
 Christianity
@@ -1587,6 +1589,7 @@ computers
 conan
 ConanBeingAwesome
 Concrete
+concursospublicos
 ConeHeads
 Conestoga
 confession
@@ -5727,6 +5730,7 @@ psychology
 Psychonaut
 psytrance
 PTCGL
+PUBATTLEGROUNDS
 PublicFreakout
 pudu
 PuertoRico
@@ -7192,6 +7196,7 @@ Transformemes
 transformers
 transgamers
 transgender
+transguns
 transit
 TransitDiagrams
 TransLater
