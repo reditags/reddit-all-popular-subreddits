@@ -244,6 +244,7 @@ AlkeszJofogas
 AllaBruletova
 allblacks
 AllCryptoBets
+allinspanish
 AllStarBrawl
 Allsvenskan
 AllThatIsInteresting
@@ -3239,6 +3240,7 @@ homelab
 HomeMaintenance
 HomeNetworking
 homeschool
+HomestarRunner
 homestead
 Homesteading
 homestuck
@@ -7870,6 +7872,7 @@ Yorkies
 yorku
 Yosemite
 yotsuba
+Yotsubros
 YouBelongWithMemes
 youdontsurf
 YoujoSenki
