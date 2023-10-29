@@ -763,6 +763,7 @@ BattlefieldV
 battlefront2
 battlemaps
 BattleNetwork
+BattlePaintings
 battlestations
 battletech
 Battletechgame
@@ -7454,6 +7455,7 @@ upcycling
 UpliftingKhabre
 UpliftingNews
 upperpeninsula
+UPSC
 UPSers
 UpvoteBecauseButt
 urbanexploration
