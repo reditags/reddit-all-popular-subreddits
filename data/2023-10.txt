@@ -1488,6 +1488,7 @@ ClassConscienceMemes
 classiccars
 ClassicDesiCelebs
 ClassicDesiCool
+classicfilms
 ClassicRock
 classicsoccer
 classicwow
@@ -2812,6 +2813,8 @@ gaybros
 gaybrosfitness
 gaybrosgonemild
 GayBroTeens
+gayfriendfinder
+gaygeek
 Gaylor_Swift
 GaylorSwift
 gaymemes
@@ -4013,6 +4016,7 @@ LaStalla
 LastEpoch
 lastimages
 lastpodcastontheleft
+LastStandMedia
 lastweektonight
 LasVegas
 LateShow
@@ -5707,6 +5711,7 @@ Project_Wingman
 projectcar
 ProjectDiablo2
 projecteternity
+ProjectRunway
 ProjectSekai
 projectzomboid
 prolife
@@ -5912,6 +5917,7 @@ remnantgame
 ren
 renfaire
 Reno
+Reno911
 Renovations
 Renters
 rentnerzeigenaufdinge
@@ -7900,6 +7906,7 @@ YoujoSenki
 youngjustice
 youngpeoplereddit
 youngpeopleyoutube
+YoungThug
 YouniquePresenterMS
 YourRAGE
 youseeingthisshit
