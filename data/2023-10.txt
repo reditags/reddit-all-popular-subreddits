@@ -2938,6 +2938,7 @@ Glocks
 Gloryhammer
 glossier
 GlowUps
+GlowUpTvSeries
 gluesniffer
 GME
 gme_meltdown
