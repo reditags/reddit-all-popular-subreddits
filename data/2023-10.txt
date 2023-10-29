@@ -420,6 +420,7 @@ AO3
 aoe2
 aoe4
 AOW4
+Apartmentliving
 apexlegends
 ApexLore
 ApexOutlands
@@ -7959,6 +7960,7 @@ youseeingthisshit
 YouShouldKnow
 youtube
 YoutubeMusic
+youtubetv
 Youtubeviews
 YouTubeViewsSubs
 ytvretro
