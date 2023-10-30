@@ -825,6 +825,7 @@ Bend
 benfica
 bengalcats
 bengals
+bengaluru_speaks
 BenGarrisonCumEdits
 Benilde
 benshapiro
@@ -2938,6 +2939,7 @@ GlacierNationalPark
 glasgow
 glee
 Glitch_in_the_Matrix
+GlitchInTheMatrix
 GlitchProductions
 GlobalOffensive
 GlobalTalk
