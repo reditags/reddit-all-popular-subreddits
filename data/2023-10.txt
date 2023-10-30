@@ -898,6 +898,7 @@ BirdsArentReal
 Birdsfacingforward
 birdsofprey
 birdswitharms
+BIRDTEAMS
 birdwatching
 Birmingham
 birthday
@@ -2533,6 +2534,7 @@ fightsticks
 FigureSkating
 filipinofood
 FilmClubPH
+filmes
 filmeseseries
 FilmIndustryLA
 Filmmakers
@@ -3607,6 +3609,7 @@ irishpersonalfinance
 irishrugby
 IRLEasterEggs
 IronFrontUSA
+IronHands40k
 ironmaiden
 ironmouse
 ironscape
@@ -4142,6 +4145,7 @@ lexfridman
 lexington
 Lexirivera
 Lexus
+LexusIS
 lgballt
 lgbt
 LGBTindia
@@ -5961,6 +5965,7 @@ reloading
 RemarkableTablet
 remnantgame
 ren
+RenewableEnergy
 renfaire
 Reno
 Reno911
