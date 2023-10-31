@@ -2284,6 +2284,7 @@ ElantraN
 Eldar
 EldenBling
 Eldenring
+EldenRingPVP
 ElderKings
 ElderScrolls
 elderscrollsonline
