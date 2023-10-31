@@ -123,6 +123,7 @@ ACOTARHulu
 ACPocketCamp
 AcrossTheSpider_Verse
 ActionFigures
+ActionTaimaninGame
 activatewindowskey
 ActivationSound
 ActiveMeasures
@@ -1839,6 +1840,7 @@ DaniDev
 DanielaMelchior
 Daniellarson
 DaniellePanabaker
+DanielleRoseRussell
 DaniSpeegle
 Dank
 dank_meme
@@ -3452,6 +3454,7 @@ Illustration
 Illyasviel
 ILoveLucy
 ilovemypolishheritage
+ILoveYoutubeVideos
 im14andthisisdeep
 Im15AndThisIsYeet
 ImaginaryArmor
@@ -4518,6 +4521,7 @@ MauLer
 MauriceMandy
 Mavericks
 maximalism
+maxpayne
 MaxVerstappen33
 MaxVerstappenRacing
 maybemaybemaybe
@@ -6648,6 +6652,7 @@ Splendida
 sploot
 Spokane
 spongebob
+spooktober
 Spore
 SportingKC
 sports
