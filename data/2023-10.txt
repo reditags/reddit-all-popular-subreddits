@@ -1772,6 +1772,7 @@ CSULB
 CSURams
 CSUS
 Cubers
+CulinaryPlating
 CultofMorganLeFay
 CultOfTheLamb
 Cuphead
@@ -1908,6 +1909,7 @@ dayton
 Daytrading
 dayz
 DayzXbox
+dbrand
 dbxv
 dbz
 DBZDokkanBattle
@@ -4946,6 +4948,7 @@ nami_m0mmy
 NamiMains
 nanaimo
 NanashiMumei
+NanatsunoTaizai
 nancydrew
 NANIKPosting
 Napoleon
@@ -6461,6 +6464,7 @@ shoujo
 shouldercats
 Showerthoughts
 shraddhakapoor
+ShrimpsIsBugs
 shrimptank
 shrinkflation
 ShroomID
@@ -7949,6 +7953,7 @@ WojakCompass
 Wolfenstein
 wollongong
 wolves
+WolvesAreBigYo
 women
 WomenOfWeed
 WomenSoccerLegs
