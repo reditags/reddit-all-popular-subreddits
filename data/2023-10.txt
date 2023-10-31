@@ -1189,6 +1189,7 @@ CalamityMod
 Calamitymod_
 Calango
 calculus
+CalebHammer
 Calgary
 CalgaryFlames
 calgaryrocks
@@ -2135,6 +2136,7 @@ DonutOperator
 doodles
 doodoofard
 Doom
+doomfistmains
 doommetal
 doordash
 doordash_drivers
@@ -4401,6 +4403,7 @@ MadelynCline
 MadeMeCry
 MadeMeSmile
 Madisonbeer
+MadisonPettis
 madisonwi
 MadiTeeuws
 madlads
@@ -5024,6 +5027,7 @@ nes
 nespresso
 Nestofeggs
 netflix
+NetflixSexEducation
 Netherlands
 Netsphere
 networkingmemes
