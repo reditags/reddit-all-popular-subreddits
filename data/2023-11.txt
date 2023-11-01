@@ -55,6 +55,7 @@ AFCEastMemeWar
 AFCNorthMemeWar
 AFCSouthMemeWar
 AFCWestMemeWar
+AFL
 agedlikemilk
 ageofsigmar
 AHatInTime
@@ -84,6 +85,7 @@ AmerExit
 AmericaBad
 americandad
 AmericanHorrorStory
+AmIHotSFW
 AmItheAsshole
 amiugly
 amiwrong
@@ -109,6 +111,7 @@ anime_irl
 anime_titties
 AnimeART
 animecirclejerk
+AnimeFunny
 AnimeHoodies
 AnimeMeme
 animememes
@@ -116,6 +119,7 @@ Animemes
 animenocontext
 Animewallpaper
 ANormalDayInRussia
+ANRime
 Anticonsumption
 antimeme
 antinatalism
@@ -162,6 +166,7 @@ AskMen
 AskMiddleEast
 AskPhotography
 AskReddit
+askSingapore
 AskUK
 assassinscreed
 AssassinsCreedMemes
@@ -174,6 +179,7 @@ auckland
 AusFinance
 AusMemes
 australia
+australian
 AustralianCattleDog
 autism
 AutismInWomen
@@ -198,6 +204,7 @@ BaldursGate3
 baldursgatememes
 balkans_irl
 ballutverso
+BancaDelMeme
 bangalore
 Bannerlord
 BanPitBulls
@@ -275,6 +282,7 @@ blender
 Blep
 blessedimages
 Blink182
+BloodAngels
 BlueLock
 bluey
 blunderyears
@@ -295,10 +303,12 @@ bollyarm
 BollyBlindsNGossip
 bollywood
 bollywoodmemes
+BollywoodMusic
 BollywoodUHQonly
 Bondedpairs
 bonehurtingjuice
 books
+BoomersBeingFools
 boottoobig
 borbs
 BorderCollie
@@ -359,6 +369,7 @@ California
 CallOfDuty
 CallTheMidwife
 calvinandhobbes
+CamilaCabello
 canada
 Canada_sub
 CanadaHousing2
@@ -381,6 +392,7 @@ cat
 CatastrophicFailure
 CatDistributionSystem
 catfaceplant
+CatgirlSFW
 CatholicMemes
 Catloaf
 Catmemes
@@ -400,6 +412,7 @@ CCW
 celebrity_soles
 CelebrityFeet
 cellbits
+CelticFC
 CemeteryPorn
 centuryhomes
 CFB
@@ -410,6 +423,8 @@ Chainsawfolk
 ChainsawMan
 chainsawmancirclejerk
 Championship
+Chandigarh
+Chaos40k
 CharacterAI
 Chargers
 ChatGPT
@@ -439,6 +454,7 @@ ClashOfClans
 ClashRoyale
 classiccars
 classicwow
+ClassroomOfTheElite
 clevercomebacks
 climate
 ClimateShitposting
@@ -550,11 +566,13 @@ Damnthatsinteresting
 dancemoms
 dancingwiththestars
 danganronpa
+DaniDev
 DanielaMelchior
 Daniellarson
 DankAndrastianMemes
 dankchristianmemes
 dankgentina
+dankindianmemes
 dankinindia
 dankmark
 dankmemes
@@ -654,6 +672,7 @@ doggrooming
 dogpictures
 dogsusingpillows
 DokkanBattleCommunity
+dontdeadopeninside
 dontputyourdickinthat
 DonutMedia
 doodoofard
@@ -677,6 +696,7 @@ Drizzy
 DrMartens
 dropout
 drums
+dubai
 ducks
 DuggarsSnark
 dumplingmeme
@@ -706,6 +726,7 @@ Eggy_memes
 Eldenring
 EldenRingPVP
 electricians
+ellacervetto
 Embroidery
 EmiliaClarke
 EmmaMyers
@@ -764,6 +785,7 @@ farialimabets
 fatestaynight
 Fauxmoi
 fednews
+feedthememes
 FeltGoodComingOut
 FemaleAntinatalism
 femalelivingspace
@@ -855,6 +877,7 @@ fuufuijou
 gachagaming
 gadgets
 GalGadot
+gallifrey
 gamecollecting
 gamedev
 gamegrumps
@@ -888,6 +911,7 @@ geometrydash
 geopolitics
 German
 germanshepherds
+GeschichtsMaimais
 GetMotivated
 GetNoted
 ghettowhitegirls
@@ -978,6 +1002,7 @@ HayleyAtwell
 HazbinHotel
 headphones
 hearthstone
+HeinousHumanity
 Helicopters
 Helltaker
 HelluvaBoss
@@ -992,6 +1017,7 @@ HighHeels
 HilariaBaldwin
 HIMYM
 hindumemes
+history
 HistoryPorn
 hmm
 hmmm
@@ -1034,6 +1060,7 @@ HuntsvilleAlabama
 husky
 HuskyTantrums
 HuTao_Mains
+hyderabad
 HydroHomies
 HypixelSkyblock
 iamatotalpieceofshit
@@ -1063,6 +1090,7 @@ ImaginaryWarhammer
 ImaginaryWesteros
 ImFinnaGoToHell
 ImTheMainCharacter
+IncredibleIndia
 india
 IndiaCricket
 Indiana
@@ -1088,8 +1116,10 @@ insaneparents
 insanepeoplefacebook
 insanepinoyfacebook
 inscryption
+InsideMollywood
 InstaCelebsGossip
 Instagramreality
+instant_regret
 instantbarbarians
 interestingasfuck
 InteriorDesign
@@ -1105,10 +1135,12 @@ iPhoneography
 ireland
 IrishHistory
 IRLEasterEggs
+IsaacButterfield
 islam
 IsraelCrimes
 israelexposed
 IsraelPalestine
+ITAGLIA
 ItemShop
 IThinkYouShouldLeave
 itookapicture
@@ -1121,7 +1153,9 @@ JamesBond
 janeausten
 japan_insoul
 japanesepeopletwitter
+japanpics
 JEENEETards
+JennaFischer
 JenniferLawrence
 jerma985
 jerseyshore
@@ -1151,15 +1185,19 @@ Kagurabachi
 Kaiserreich
 kallmekris
 KamenRider
+KanePixelsBackrooms
 KansasCityChiefs
+Kantenhausen
 Kanye
 kardashians
 karibyron
+karnataka
 katebeckinsale
 KatherineMcNamara
 KaynMains
 kencarson
 kendalljenner
+Kengan_Ashura
 Kenshi
 KeqingMains
 Kerala
@@ -1216,6 +1254,7 @@ learntodraw
 Leathercraft
 leaves
 lebowski
+LegalAdviceIndia
 LegalAdviceUK
 legalcatadvice
 legendofkorra
@@ -1223,12 +1262,14 @@ lego
 legocirclejerk
 LegoMarvel
 legostarwars
+LegsSFW
 LeniKlum
 leopardgeckos
 LeopardsAteMyFace
 lesbianfashionadvice
 lesserafim
 lgbt
+lgbtmemes
 Liberal
 liberalgunowners
 Libertarian
@@ -1292,6 +1333,7 @@ MakeMeSmile
 MakeMeSuffer
 MakeupAddiction
 malaysia
+MalaysianFood
 malelivingspace
 MaliciousCompliance
 MamaJuneFromNotToHot
@@ -1323,6 +1365,7 @@ MasterReturns
 mathmemes
 maybemaybemaybe
 MayDayStrike
+mbtimemes
 McDonaldsEmployees
 MCFC
 mcgill
@@ -1333,12 +1376,14 @@ me_irlgbt
 MechanicAdvice
 MechanicalKeyboards
 MedicalGore
+megalophobia
 Megumin
 meirl
 MeJulgue
 melbourne
 meme
 memeframe
+MemeHunter
 MemePiece
 memes
 Memes_Of_The_Dank
@@ -1434,6 +1479,7 @@ MysteryDungeon
 n64
 NAFO
 nagatoro
+nagpur
 Nahida_Mains
 Nails
 NameMyCat
@@ -1477,6 +1523,7 @@ newjersey
 news
 NewsOfTheStupid
 NewVegasMemes
+NewYorkNineMild
 newzealand
 nextdoor
 nextfuckinglevel
@@ -1522,6 +1569,7 @@ notliketheothergirls
 notmycat
 nottheonion
 nowmycat
+nrl
 NTU
 nursing
 nus
@@ -1549,6 +1597,7 @@ okbuddychicanery
 okbuddycinephile
 OkBuddyFresca
 okbuddygenshin
+OKbuddyHalfLife
 OkBuddyPersona
 okbuddyreiner
 okbuddytrailblazer
@@ -1662,6 +1711,8 @@ photoshopbattles
 PhotoshopRequest
 physicsmemes
 pics
+pigeon
+Pikabu
 Pikmin
 pinaytiktokhotties
 Piracy
@@ -1676,6 +1727,7 @@ pitbullsinjammies
 pittsburgh
 PixelArt
 Pizza
+PizzaCrimes
 pizzagator
 PizzaTower
 Planetside
@@ -1705,12 +1757,14 @@ PoliticalCompassMemes
 PoliticalHumor
 PoliticalMemes
 politics
+Polska
 Polska_wpz
 Pomeranians
 poodles
 popculturechat
 popheadscirclejerk
 popping
+PornIsMisogyny
 porramauricio
 Porsche
 Portal
@@ -1738,6 +1792,7 @@ PublicFreakout
 pukicho
 PunishingGrayRaven
 Punny
+PunPatrol
 puns
 puppies
 pyrocynical
@@ -1763,6 +1818,7 @@ RATS
 ravens
 reactiongifs
 realasians
+ReallyShittyCopper
 realmadrid
 RealTesla
 ReasonableFantasy
@@ -1774,6 +1830,7 @@ reddevils
 RedditLaqueristas
 redditonwiki
 RedDwarf
+RedheadBeauties
 RedheadedGoddesses
 RedLetterMedia
 redneckengineering
@@ -1821,6 +1878,7 @@ rutgers
 RWBY
 RWBYcritics
 RX7
+ryujin
 SabrinaCarpenter
 sadcringe
 Sadiesink
@@ -1857,6 +1915,7 @@ scottthewoz
 scotus
 Scream
 scrungycats
+seals
 Seattle
 seinfeld
 SeishunButaYarou
@@ -1867,6 +1926,7 @@ selfie
 SellingSunset
 seniorkitties
 Sephora
+serbia
 Seulgi
 sewing
 sexygirls
@@ -1874,6 +1934,7 @@ sexyhair
 sffpc
 SFWNextDoorGirls
 SFWRedheads
+Sham_Sharma_Show
 Shark_Park
 sharks
 sharpei
@@ -1908,6 +1969,7 @@ Sigmatopia
 signalis
 silenthill
 SilverDegenClub
+silverhair
 SilverWolfMains
 simpsonsshitposting
 simracing
@@ -1923,10 +1985,12 @@ SkyrimMemes
 SlavaUkrayini
 slaythespire
 SleepToken
+Slipknot
 Slycooper
 smalllebowsky
 SmashBrosUltimate
 Smilepleasse
+smileygirls
 Smite
 smoking
 snails
@@ -1956,6 +2020,8 @@ space
 spacemarines
 spaceporn
 spacex
+SpanishMeme
+SpiceGirls
 Spiderman
 SpidermanPS4
 splatoon
@@ -1985,6 +2051,7 @@ Starfield
 StarfieldShips
 Stargate
 StarKid
+starsector
 starterpacks
 startrekmemes
 StarTrekStarships
@@ -2034,6 +2101,7 @@ survivinginfidelity
 survivor
 sushi
 susu_jpg
+sutesfozes
 svengoolie
 SVU
 SweatyPalms
@@ -2147,6 +2215,7 @@ TipOfMyFork
 titanfall
 titanic
 tja
+tjournal_refugees
 TLCsisterwives
 TMNT
 TNOmod
@@ -2155,6 +2224,7 @@ ToiletPaperUSA
 tokkiemarktplaats
 Tokyo
 tomorrow
+tonightsdinner
 TooGoodToGoCanada
 tooktoomuch
 ToolBand
@@ -2222,6 +2292,7 @@ UkraineWarVideoReport
 UkrainianConflict
 Ulta
 Ultrakill
+UmbrellaAcademy
 UMD
 Undertale
 UnearthedArcana
@@ -2229,6 +2300,7 @@ UnethicalLifeProTips
 unitedkingdom
 unitedstatesofindia
 Unity3D
+unket
 UnpopularLoreOlympus
 unpopularopinion
 UnresolvedMysteries
@@ -2249,6 +2321,7 @@ vandwellers
 VanessaHudgens
 VaushV
 vce
+vdm
 veganfitness
 velvethippos
 venturebros
@@ -2264,10 +2337,12 @@ vikingstv
 vintageads
 VintageFashion
 virtualreality
+Vocaloid
 void_memes
 VoidCats
 VoteDEM
 VRchat
+VShojo
 vtmb
 walkaway
 wallstreetbets
@@ -2287,6 +2362,7 @@ watchpeoplesurvive
 Waterfalls
 WCW
 webcomics
+WECcirclejerk
 weddingdress
 WeDoALittlePosting
 weeviltime
@@ -2324,6 +2400,7 @@ WhyWomenLiveLonger
 WidacZabory
 WiggleButts
 wikipedia
+wildcampingintheuk
 wildlifephotography
 WildWestPics
 wisconsin
@@ -2373,6 +2450,7 @@ yeezys
 yesyesyesyesno
 YofukashiNoUta
 Yoimiya_Mains
+yoojimin
 Yorkies
 yorku
 YouBelongWithMemes
