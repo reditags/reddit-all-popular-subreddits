@@ -244,6 +244,7 @@ Autumn
 Avatar
 AvatarMemes
 avengedsevenfold
+aves
 avfc
 aviation
 awesome
@@ -291,6 +292,7 @@ BattleBitRemastered
 battlecats
 Battlefield
 battlefield2042
+battlefield_4
 battlefield_one
 BattlefieldV
 battlestations
@@ -308,6 +310,7 @@ BeautifulFemales
 BeautifulIndianWomen
 beauty
 BeelcitosMemes
+beermoney
 BeforeNAfterAdoption
 BeginnerWoodWorking
 behindthebastards
@@ -333,6 +336,7 @@ bigbrotheruk
 BigCatGifs
 bikecommuting
 BikiniBottomTwitter
+BillBurr
 billsimmons
 BillyStrings
 bindingofisaac
@@ -548,6 +552,7 @@ Chaos40k
 ChaosKnights
 chaoticgood
 CharacterAI
+characterdrawing
 CharacterRant
 Chargers
 Charlotte
@@ -650,6 +655,7 @@ conspiracy_commons
 Construction
 consulting
 ContagiousLaughter
+conversas
 CookieRunKingdoms
 Cooking
 coolguides
@@ -673,6 +679,7 @@ CozyGamers
 CozyPlaces
 Cr1TiKaL
 CrappyDesign
+crappymusic
 crappyoffbrands
 CrazyFuckingVideos
 CrazyHuman
@@ -680,6 +687,7 @@ CreateMod
 CreationNtheUniverse
 creepy
 cremposting
+crescentcitysjm
 Cricket
 CricketShitpost
 cricketworldcup
@@ -801,6 +809,7 @@ denvernuggets
 depression_memes
 depressionmeals
 DerScheisser
+desabafos
 DesignPorn
 desimemes
 DesiVideoMemes
@@ -812,6 +821,7 @@ destiny2
 DestinyFashion
 DestinyMemes
 DestinyTheGame
+Detroit
 detroitlions
 deusasbrazil
 DeutscheComics
@@ -819,6 +829,7 @@ deutschememes
 developersIndia
 DevilMayCry
 devsarg
+dezwo
 DHHMemes
 diabetes
 Diablo
@@ -871,6 +882,7 @@ doordash
 doordash_drivers
 Dorohedoro
 DotA2
+DownvotedToOblivion
 DragonballLegends
 Dragonballsuper
 DragonMaid
@@ -1143,6 +1155,7 @@ GamingLeaksAndRumours
 Ganyu
 garageporn
 Gardevoir
+gatekeeping
 GatekeepingYuri
 gatesopencomeonin
 Gatos
@@ -1383,6 +1396,7 @@ ihadastroke
 iiiiiiitttttttttttt
 ik_ihe
 illegallysmolbirbs
+IllegallySmolBunnies
 IllegallySmolCats
 illinois
 ILLOJUANOFICIAL
@@ -1393,6 +1407,7 @@ ImACelebTV
 ImaginaryArmor
 ImaginaryCharacters
 ImaginaryCityscapes
+ImaginaryCybernetics
 ImaginaryDarkSouls
 ImaginaryDragons
 imaginaryelections
@@ -1525,6 +1540,7 @@ JoeBiden
 JoeRogan
 johnbrownposting
 joinsquad
+JOJOLANDS
 JoJoMemes
 Jokes
 JordanPeterson
@@ -1538,6 +1554,7 @@ Jujutsushi
 julieeandcamilla
 jumpingspiders
 junjiito
+JustBootThings
 justgalsbeingchicks
 JustGuysBeingDudes
 JustMonika
@@ -1589,6 +1606,7 @@ kitchener
 Kitten
 kittengifs
 kittens
+Kitting
 KneadyCats
 Knoxville
 Kokomi_Mains
@@ -1968,6 +1986,7 @@ necromunda
 Necrontyr
 nederlands
 NederlandseMemes
+neekolul
 NeonGenesisEvangelion
 neopets
 nerdfighters
@@ -2031,6 +2050,7 @@ nonononoyes
 NonPoliticalTwitter
 nope
 norge
+NormMacdonald
 northdakota
 Norway
 NoSanaNoLife
@@ -2212,9 +2232,11 @@ PersonalFinanceCanada
 perth
 PeterExplainsTheJoke
 Petloss
+PetPeeves
 PetTheDamnDog
 pettyrevenge
 PeytonList
+PferdeSindKacke
 PhantomForces
 PhasmophobiaGame
 phcareers
@@ -2331,6 +2353,7 @@ PunPatrol
 puns
 puppies
 puppygirlpetsmart
+PuppySmiles
 Purdue
 pyrocynical
 QAnonCasualties
@@ -2391,6 +2414,7 @@ ReiAyanami
 ReinhardtMains
 RelatosDoReddit
 religiousfruitcake
+reloading
 remnantgame
 renfaire
 Repsneakers
@@ -2454,6 +2478,7 @@ sailing
 sailormoon
 SaimanSays
 SaintMeghanMarkle
+Salamanders40k
 salmahayek
 saltierthancrait
 saltierthankrayt
@@ -2484,6 +2509,7 @@ sciencememes
 ScienceNcoolThings
 scifi
 SCJerk
+Scoobydoo
 Scotland
 ScottishPeopleTwitter
 scottthewoz
@@ -2559,12 +2585,14 @@ Sigmatopia
 signalis
 silenthill
 Silksong
+Silmarillionmemes
 SilverDegenClub
 silverhair
 SilverWolfMains
 simpsonsshitposting
 simracing
 Sims3
+Simulated
 singapore
 singaporehappenings
 singularity
@@ -2574,6 +2602,7 @@ SisterWives
 SisterWivesFans
 skamtebord
 skaven
+skiing
 SkincareAddictionUK
 SkyeBlueOffical
 SkyGame
@@ -2740,6 +2769,7 @@ SVU
 SweatyPalms
 sweden
 SWGalaxyOfHeroes
+Switzerland
 swordartonline
 SWORDS
 sydnee_goodman
@@ -2841,6 +2871,7 @@ thelongdark
 TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
+TheMcDojoLife
 TheMorningToastSnark
 thenetherlands
 TheNightFeeling
@@ -2875,6 +2906,7 @@ ThriftGrift
 thugeshh
 ThunderThots
 tianguancifu
+tierlists
 tifu
 TIHI
 TikTokCringe
@@ -2960,6 +2992,7 @@ TurkeyJerky
 TurkishCats
 TurkishCeleb
 TuxedoCats
+twilight
 TwinCities
 twinpeaks
 Twitter
@@ -3042,6 +3075,7 @@ VietNam
 vikingstv
 vintageads
 VintageFashion
+Virginia
 virtualreality
 Visiblemending
 vizsla
@@ -3070,6 +3104,7 @@ warthundermemes
 washdc
 wasletztepreis
 Watches
+Watchexchange
 watchpeoplesurvive
 Watercolor
 Waterfalls
@@ -3113,6 +3148,7 @@ wheeloftime
 whenthe
 WhiskerFireworks
 WhitePeopleTwitter
+WhiteRose
 wholesome
 wholesome_girls
 wholesomegifs
@@ -3149,6 +3185,8 @@ WorldEaters40k
 worldjerking
 worldnews
 worldnewsvideo
+worldofpvp
+WorldofTanks
 WorldOfWarships
 WoT
 WoTshow
@@ -3157,6 +3195,7 @@ Wrasslin
 WrestleCuties
 WriothesleyMains
 writing
+writingcirclejerk
 WritingPrompts
 WRX
 WTF
@@ -3166,6 +3205,7 @@ WWIIplanes
 xbox
 XboxGamePass
 XboxSeriesX
+XDefiant
 Xennials
 Xenoblade_Chronicles
 xertunposting
