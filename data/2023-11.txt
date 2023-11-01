@@ -19,6 +19,7 @@
 30PlusSkinCare
 30ROCK
 3Dprinting
+3DS
 40kLore
 49ers
 4chan
@@ -52,6 +53,7 @@ acecombat
 ACMilan
 acnh
 acotar
+ACPocketCamp
 actu_memes
 actuallesbians
 ActualPublicFreakouts
@@ -86,6 +88,7 @@ airsoft
 airsoftcirclejerk
 aisekai
 AITAH
+AIVoiceMemes
 aiyu
 ak47
 Alabama
@@ -158,6 +161,7 @@ ANRime
 Anticonsumption
 antimeme
 antiMLM
+Antimoneymemes
 antinatalism
 antitrampo
 AntiTrumpAlliance
@@ -200,14 +204,17 @@ ArlecchinoMains
 arma
 armordecor
 armoredcore
+ArmoredCoreVI
 army
 arresteddevelopment
 ArtDeco
 ArtefactPorn
 Artisticallyill
+ArtPorn
 asexuality
 asianfitgirls
 ask
+AskDocs
 askgaybros
 AskHistorians
 askhungary
@@ -219,6 +226,7 @@ AskPhotography
 AskReddit
 AskScienceFiction
 askSingapore
+asktransgender
 AskUK
 Asmongold
 asoiafcirclejerk
@@ -301,6 +309,7 @@ battlefield_4
 battlefield_one
 BattlefieldV
 battlestations
+battletech
 bayarea
 bbaasho
 BBBY
@@ -425,6 +434,7 @@ Boxing
 boxoffice
 boygenuis
 boykisser
+BPD
 BPDmemes
 brandnew
 BrandNewSentence
@@ -464,6 +474,7 @@ bulgariaeu
 Bulldogs
 Bullshido
 buncomfortable
+Bundesliga
 Bunnies
 burgers
 Buttcoin
@@ -515,6 +526,7 @@ Catculations
 CatDistributionSystem
 catfaceplant
 CatgirlSFW
+CATHELP
 Catholicism
 CatholicMemes
 Catloaf
@@ -884,6 +896,7 @@ dogpictures
 dogsusingpillows
 dogvideos
 DokkanBattleCommunity
+Dolls
 dontdeadopeninside
 dontputyourdickinthat
 DonutMedia
@@ -894,6 +907,7 @@ doordash
 doordash_drivers
 Dorohedoro
 DotA2
+DougDoug
 DownvotedToOblivion
 DragonballLegends
 Dragonballsuper
@@ -1154,6 +1168,7 @@ futurama
 Futurology
 fuufuijou
 G2eSports
+G59
 gachagaming
 gadgets
 GalGadot
@@ -1175,6 +1190,7 @@ GatekeepingYuri
 gatesopencomeonin
 Gatos
 GawrGura
+gay
 gay_irl
 gaybros
 gaybrosgonemild
@@ -1229,6 +1245,7 @@ goblincore
 GoCommitDie
 GodofWar
 godot
+godtiersuperpowers
 GODZILLA
 Gold
 Goldendoodles
@@ -1583,6 +1600,7 @@ Kaiserreich
 kallmekris
 KamenRider
 KanePixelsBackrooms
+KanojoOkarishimasu
 KansasCityChiefs
 Kantenhausen
 Kanye
@@ -1746,11 +1764,13 @@ LoveForRedditors
 LoveIsBlindOnNetflix
 LowerCaseScreams
 LowQualityMemes
+lowriders
 LowSodiumCyberpunk
 LPOTL
 LSAT
 LSD
 lucario
+luciomains
 lululemon
 LumineMains
 Lumity
@@ -1912,6 +1932,7 @@ MMA
 mmamemes
 MMAPoliticsAndCulture
 MobileLegendsGame
+Modern_Family
 ModernWarfareII
 ModernWarfareIII
 moedred
@@ -1920,6 +1941,7 @@ Moissanite
 MoldlyInteresting
 MoldyMemes
 MonaMains
+monarchism
 Monk
 Monopoly_GO
 MonopolyGoTrading
@@ -2048,6 +2070,7 @@ NicolaCavanis
 nier
 NieRAutomataGame
 NightInTheWoods
+NightLords
 Nijisanji
 NikkeMobile
 NikkeOutpost
@@ -2074,6 +2097,7 @@ nope
 norge
 NormMacdonald
 northdakota
+northernlion
 Norway
 NoSanaNoLife
 NoSodiumStarfield
@@ -2166,6 +2190,7 @@ OnlineDating
 OnlyFaces
 OnlyMurdersHulu
 ontario
+OopsDidntMeanTo
 OperaGX
 Opeth
 OppenheimerMovie
@@ -2556,6 +2581,7 @@ SelfAwarewolves
 selfie
 selfimprovement
 SellingSunset
+SemContexto
 seniorkitties
 seolhyun
 Sephora
@@ -2629,6 +2655,7 @@ sistersofbattle
 SisterWives
 SisterWivesFans
 skamtebord
+skateboarding
 skaven
 skiing
 SkincareAddictionUK
@@ -3034,6 +3061,7 @@ TwoSentenceHorror
 TwoSentenceSadness
 TwoXChromosomes
 TXChainSawGame
+tylerthecreator
 typeonegative
 tzuyu
 UAP
@@ -3047,6 +3075,7 @@ UKPersonalFinance
 ukraine
 UkraineWarVideoReport
 UkrainianConflict
+uktrains
 Ulta
 Ultrakill
 UmbrellaAcademy
@@ -3120,6 +3149,7 @@ VShojo
 vtmb
 walkaway
 wallstreetbets
+WallStreetbetsELITE
 Wallstreetsilver
 WaltDisneyWorld
 wankil
