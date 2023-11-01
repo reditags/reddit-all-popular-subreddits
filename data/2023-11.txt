@@ -125,6 +125,7 @@ amiwrong
 Amoledbackgrounds
 amphibia
 Amtrak
+AmyAdams
 AnadeArmas
 analog
 AnalogCommunity
@@ -229,6 +230,7 @@ askSingapore
 asktransgender
 AskUK
 Asmongold
+asoiaf
 asoiafcirclejerk
 assassinscreed
 AssassinsCreedMemes
@@ -283,6 +285,7 @@ baldursgate
 BaldursGate3
 baldursgatememes
 balkans_irl
+ballpython
 ballutverso
 BalticStates
 BancaDelMeme
@@ -297,6 +300,7 @@ barstoolsports
 bartenders
 baseball
 baseballcards
+BashTheFash
 basset
 bassethounds
 batman
@@ -618,6 +622,7 @@ classiccars
 classicsoccer
 classicwow
 ClassroomOfTheElite
+CleaningTips
 clevercomebacks
 climate
 ClimateShitposting
@@ -638,6 +643,7 @@ CoffinofAndyandLeyley
 coins
 colleensheen
 college
+CollegeBasketball
 Colorado
 Colts
 columbiamo
@@ -756,6 +762,7 @@ DaftPunk
 dahyun
 DailyChristinaRicci
 dailywire
+DakotaFanning
 Dallas
 dalle2
 Damnthatsinteresting
@@ -779,6 +786,7 @@ dankrishu
 dankruto
 dankvideos
 DanMachi
+DannyGonzalez
 daria
 DarkAndDarker
 DarkBRANDON
@@ -829,6 +837,7 @@ DenverBroncos
 DenverCirclejerk
 denvernuggets
 DenzelCurry
+DeppDelusion
 depression_memes
 depressionmeals
 DerScheisser
@@ -1003,6 +1012,7 @@ eurovision
 evangelion
 evangelionmemes
 Eve
+Everton
 everymanshouldknow
 EverythingScience
 evilautism
@@ -1109,6 +1119,7 @@ FoodPorn
 FoodVideoPorn
 football
 footballmanagergames
+forbiddensnacks
 ForgottenWeapons
 forhonor
 formuladank
@@ -1142,6 +1153,7 @@ FUCKFACEPOD
 FuckImOld
 FuckPierre
 Fuckthealtright
+fucktheccp
 fuckxavier
 FUCKYOUINPARTICULAR
 FuckYouKaren
@@ -1252,6 +1264,7 @@ Goldendoodles
 goldenretrievers
 Goldfish
 golf
+gonenatural
 GoodAssSub
 goodboomerhumor
 goodmythicalmorning
@@ -1328,6 +1341,7 @@ hardimages
 hardware
 hardwaregore
 harrypotter
+Harvard
 Hasan_Piker
 hatsune
 HauntedMound
@@ -1336,6 +1350,7 @@ HayleyAtwell
 HazbinHotel
 headphones
 hearthstone
+hearthstonecirclejerk
 HeartstopperAO
 HeartstopperNetflix
 HeinousHumanity
@@ -1418,6 +1433,7 @@ HydroHomies
 hyouka
 HypixelSkyblock
 HyruleEngineering
+IAmA
 iamatotalpieceofshit
 IAmTheMainCharacter
 IASIP
@@ -1501,6 +1517,7 @@ InstaCelebsGossip
 Instagramreality
 instant_regret
 instantbarbarians
+instantkarma
 insurgency
 interestingasfuck
 interiordecorating
@@ -1723,6 +1740,7 @@ liberalgunowners
 Libertarian
 librandu
 Libraries
+libraryofruina
 libsofreddit
 lies
 LiesOfP
@@ -1967,6 +1985,7 @@ mountandblade
 MouseReview
 Moustache
 moviecritic
+MovieLeaksAndRumors
 movies
 Moviesinthemaking
 MrRobot
@@ -2051,6 +2070,7 @@ NewJeans_Hotties
 newjersey
 news
 NewsOfTheStupid
+NewsWithJingjing
 NewVegasMemes
 NewYorkNineMild
 newzealand
@@ -2100,6 +2120,7 @@ northdakota
 northernlion
 Norway
 NoSanaNoLife
+Noses
 NoSodiumStarfield
 nostalgia
 NoStupidQuestions
@@ -2119,10 +2140,12 @@ nowmycat
 NPR
 nrl
 NTU
+NUFC
 Nujabes
 numetal
 nursing
 nus
+NuxTakuSubmissions
 nvidia
 nwordington
 NYCinfluencersnark
@@ -2335,6 +2358,7 @@ PointlessStories
 PointyTailedKittens
 pokememes
 pokemon
+PokemonBDSP
 pokemoncards
 PokemonEmerald
 pokemongo
@@ -2352,6 +2376,7 @@ PoliticalCompassMemes
 PoliticalHumor
 PoliticalMemes
 politics
+PoliticsPeopleTwitter
 Polska
 Polska_wpz
 Pomeranians
@@ -2527,6 +2552,7 @@ sailing
 sailormoon
 SaimanSays
 SaintMeghanMarkle
+saiyanpeopletwitter
 Salamanders40k
 salmahayek
 saltierthancrait
@@ -2709,6 +2735,7 @@ SommerRay
 SonicTheHedgehog
 SonoBisqueDoll
 Sonsofanarchy
+SonyAlpha
 Southerncharm
 SovietWomble
 space
@@ -2967,6 +2994,7 @@ tifu
 TIHI
 TikTokCringe
 tiktoktrophies
+TimAndEric
 Tinder
 TipOfMyFork
 tippytaps
@@ -3065,6 +3093,7 @@ tylerthecreator
 typeonegative
 tzuyu
 UAP
+Ubiquiti
 ucf
 ufc
 UFOB
@@ -3206,6 +3235,7 @@ whatsthisplant
 whatsthissnake
 WhatsWrongWithYourCat
 WhatsWrongWithYourDog
+whatthefrockk
 WhatWeDointheShadows
 wheeloftime
 whenthe
@@ -3305,6 +3335,7 @@ YuYuHakusho
 yvonnestrahovski
 zelda
 ZeldaIsCute
+ZeldaMemes
 ZeLink
 zillowgonewild
 ZoeyDeutch
