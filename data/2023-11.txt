@@ -60,6 +60,7 @@ ACMilan
 acnh
 acotar
 ACPocketCamp
+ActionFigures
 actu_memes
 actuallesbians
 ActualPublicFreakouts
@@ -606,6 +607,7 @@ Canada_sub
 canadahousing
 CanadaHousing2
 CanadianInvestor
+canceledpod
 cannabis
 CannedSardines
 canucks
@@ -801,6 +803,7 @@ Commanders
 CommunismMemes
 community
 CompetitiveApex
+CompetitiveHalo
 Competitiveoverwatch
 compoface
 computers
@@ -875,6 +878,7 @@ criticalrole
 croatia
 crochet
 Crocodiles
+Crossdress_Expression
 crossdressing
 CrossfitGirls
 CrossStitch
@@ -902,6 +906,7 @@ custommagic
 cute
 cuteanimals
 cutegayshit
+cuteguyswithcats
 Cyberpunk
 cyberpunkgame
 cybersecurity
@@ -1527,6 +1532,7 @@ goth
 GothFashion
 GothGirls
 GothStyle
+Gouache
 GraceCFulton
 GradSchool
 Graffiti
@@ -1632,6 +1638,7 @@ hermitcraftmemes
 heroesofthestorm
 HeroForgeMinis
 herpetology
+heyUK
 HFY
 HighHeels
 HighQualityGifs
@@ -1660,6 +1667,7 @@ holdmycosmo
 holdmyfries
 HollowKnight
 HollowKnightMemes
+holocure
 Hololive
 HololiveYuri
 Holostars
@@ -1996,6 +2004,7 @@ kittens
 Kitting
 KneadyCats
 knifeclub
+knifemaking
 Knoxville
 Kokomi_Mains
 kolkata
@@ -2083,6 +2092,7 @@ LeniKlum
 leopardgeckos
 LeopardsAteMyFace
 lesbianfashionadvice
+lesbianmemes
 lesserafim
 Letterboxd
 Lexus
@@ -2126,6 +2136,7 @@ lookismcomic
 LooneyTunesLogic
 Lorcana
 lordoftherings
+LordsoftheFallen
 loreofleague
 loseit
 Losercity
@@ -2200,6 +2211,7 @@ malluhorny
 MamaJuneFromNotToHot
 MamaLane
 ManavManglani
+manchester
 ManchesterUnited
 Mandalorian
 MandirGang
@@ -2590,6 +2602,7 @@ OddSatisfying
 offbeat
 OfflinetvGirls
 OffMyChestPH
+offset
 Ohio
 OhioStateFootball
 oilpainting
@@ -2890,6 +2903,7 @@ protogen
 PS3
 PS4
 PS5
+PSVR
 psx
 PublicFreakout
 pukicho
@@ -3033,6 +3047,7 @@ RPDRDRAMA
 RTGameCrowd
 rugbyunion
 runescape
+running
 rupaulsdragrace
 rush
 russian
@@ -3044,6 +3059,7 @@ RWBY
 RWBYcritics
 RX7
 ryujin
+sabaton
 Saber
 SabrinaCarpenter
 Sacramento
@@ -3088,6 +3104,7 @@ sbubby
 scambait
 Scams
 ScaramoucheMains
+scaryeddie
 SchittsCreek
 schizoposters
 schnauzers
@@ -3778,6 +3795,7 @@ velvethippos
 venturebros
 Vermintide
 vermont
+Veterans
 vexillology
 vexillologycirclejerk
 veYakinEvren
@@ -3814,9 +3832,11 @@ VShojo
 vtmb
 VyvanLe
 walkaway
+wallpaper
 wallstreetbets
 WallStreetbetsELITE
 Wallstreetsilver
+WalmartCanada
 WaltDisneyWorld
 wankil
 warcraft3
@@ -3843,6 +3863,7 @@ webdev
 webtoons
 wec
 WECcirclejerk
+Weddingattireapproval
 weddingdress
 weddingshaming
 WeDoALittlePosting
