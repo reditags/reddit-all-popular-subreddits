@@ -6,6 +6,7 @@
 19th
 2007scape
 21stCenturyHumour
+23andme
 2asians4u_irl
 2bharat4you
 2greek4you
@@ -190,6 +191,7 @@ anime_titties
 AnimeART
 animecirclejerk
 AnimeFunny
+AnimeHate
 AnimeHoodies
 AnimeMeme
 animememes
@@ -364,6 +366,7 @@ Azubis
 azudaioh
 BabyBumps
 BabyCorgis
+babylon5
 BABYMETAL
 BachelorNation
 BackYardChickens
@@ -570,6 +573,7 @@ botecodoreddit
 bottlebrush
 bouldering
 boutiquebluray
+bowhunting
 Boxer
 Boxers
 Boxing
@@ -581,6 +585,7 @@ BPDmemes
 brandnew
 BrandNewAnimal
 BrandNewSentence
+BrandonDE
 brandonherrara
 brandonsanderson
 brasil
@@ -724,6 +729,7 @@ CatsWhoSmoke
 Catswhoyell
 CatsWithDogs
 Catswithjobs
+CatTraining
 CavaPoo
 Cawwsplay
 CCW
@@ -853,6 +859,7 @@ colleensheen
 college
 CollegeBasketball
 ColleiMains
+Colombia
 Colorado
 ColoradoAvalanche
 ColoradoSprings
@@ -1024,6 +1031,7 @@ dankgentina
 dankindianmemes
 dankinindia
 dankmark
+dankmeme
 dankmemes
 DankMemesFromSite19
 DankPods
@@ -1115,6 +1123,7 @@ DeutscheComics
 deutschememes
 developersIndia
 DevilMayCry
+devils
 devsarg
 dewrim
 dezwo
@@ -1155,6 +1164,7 @@ DivorcedBirds
 DiWHY
 DIYUK
 DMZ
+DnB
 DnD
 DnDcirclejerk
 dndnext
@@ -1263,6 +1273,7 @@ Eldar
 EldenBling
 Eldenring
 EldenRingPVP
+ElderKings
 ElderScrolls
 electricians
 Elephants
@@ -1286,6 +1297,7 @@ energydrinks
 EngagementRings
 engineeringmemes
 EngineeringPorn
+ENGLISH
 engrish
 EnoughCommieSpam
 EnoughMuskSpam
@@ -1531,6 +1543,7 @@ fuseboxgames
 fut
 futbol
 futebol
+FUTMobile
 futurama
 Futurology
 fuufuijou
@@ -1546,6 +1559,7 @@ gamecollecting
 gamedev
 gamegrumps
 gameofthrones
+GamePhysics
 gamersupps
 GameStop
 GameTheorists
@@ -1925,6 +1939,7 @@ ImanVellani
 imax
 ImFinnaGoToHell
 Impeach_Trump
+ImperialKnights
 ImTheMainCharacter
 Incorgnito
 IncredibleIndia
@@ -2134,6 +2149,7 @@ kardashians
 karibyron
 Karma4Free
 karnataka
+KatanaZero
 katebeckinsale
 KatherineMcNamara
 KatherynWinnick
@@ -2183,6 +2199,7 @@ KneadyCats
 knifeclub
 knifemaking
 Knoxville
+kof
 Kokomi_Mains
 kolkata
 kollywood
@@ -2241,6 +2258,7 @@ laurabeverlinsnarks
 LaurenCohan
 law
 LawSchool
+LaylaMains
 leafs
 leagueoflegends
 LeagueOfMemes
@@ -2317,6 +2335,7 @@ lookatmydog
 lookismcomic
 LooneyTunesLogic
 Lorcana
+lorde
 lordoftherings
 LordsoftheFallen
 loreofleague
@@ -2330,6 +2349,7 @@ lotr
 lotrmemes
 louboutins
 Louisiana
+Louisville
 love
 LoveForLandchads
 LoveForRedditors
@@ -2598,6 +2618,7 @@ motorcitykitties
 MotorcyclePorn
 motorcycles
 mouf
+Mounjaro
 mountainbiking
 mountandblade
 MouseReview
@@ -2749,6 +2770,7 @@ nintendo
 NintendoMemes
 NintendoStitch
 NintendoSwitch
+Nirvana
 NLBest
 NoahGetTheBoat
 Noellemains
@@ -2897,6 +2919,7 @@ OnlyFaces
 OnlyMurdersHulu
 ontario
 OopsDidntMeanTo
+oots
 OperaGX
 Opeth
 Opossums
@@ -2915,6 +2938,7 @@ orslokx
 Osana
 OSHA
 OshiNoKoMemes
+osr
 osugame
 OTMemes
 otomegames
@@ -3029,6 +3053,7 @@ PHhandsgonewild
 philadelphia
 Philippines
 phillies
+philosophy
 PhilosophyMemes
 phmigrate
 phoebebridgers
@@ -3062,6 +3087,7 @@ pizzagator
 PizzaTower
 pj_explained
 PKA
+placeDE
 planesgonewild
 Planetside
 PlanetZoo
@@ -3070,6 +3096,7 @@ PlantIdentification
 PlantsVSZombies
 playboicarti
 playrust
+PlaySquad
 playstation
 PlayStationPlus
 PleX
@@ -3219,6 +3246,7 @@ Ratorix
 RATS
 RavenGuard40k
 ravens
+Rayman
 rccars
 Re_Zero
 reactiongifs
@@ -3319,6 +3347,7 @@ royalenfield
 RPClipsGTA
 RPDR_UK
 RPDRDRAMA
+rspod
 RTGameCrowd
 rugbyunion
 runescape
@@ -3348,6 +3377,7 @@ sailing
 sailormoon
 SaimanSays
 SaintMeghanMarkle
+saitatsumaki
 saiyanpeopletwitter
 SakamotoDays
 Salamanders40k
@@ -3529,8 +3559,10 @@ SleepToken
 Slipknot
 Slovakia
 Slovenia
+slowcooking
 slp
 Slycooper
+smallbusiness
 smalllebowsky
 smashbros
 SmashBrosUltimate
@@ -3665,6 +3697,7 @@ stockholm
 stocks
 StonerEngineering
 stopdrinking
+stopdrinkingfitness
 StoppedWorking
 stories
 Stormlight_Archive
@@ -3677,6 +3710,7 @@ StreetMartialArts
 StreetWomanFighter
 stremtch
 StudentLoans
+studentsph
 Studium
 stunfisk
 StupidFood
@@ -3724,6 +3758,7 @@ SWORDS
 swtor
 sydnee_goodman
 SydneySweeney
+SympatheticMonsters
 sysadmin
 tacobell
 tacticalgear
@@ -3735,6 +3770,7 @@ TalesFromTheFrontDesk
 TalesFromYourServer
 talk_hunfluencers
 tallyhall
+tamamahbapengelli
 TameImpala
 tampa
 Tanalorr
@@ -3744,6 +3780,7 @@ tanks
 taoism
 TarihiSeyler
 taskmaster
+tattoo
 tattooadvice
 TattooDesigns
 TattooRemoval
@@ -4020,6 +4057,7 @@ Turkey
 TurkeyJerky
 TurkishCats
 TurkishCeleb
+Turnip28
 turtle
 TuxedoCats
 twentyonepilots
@@ -4106,6 +4144,7 @@ vancouver
 Vanderpumpaholics
 vandwellers
 VanessaHudgens
+Vanossgaming
 VaushV
 vaxxhappened
 vce
