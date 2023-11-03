@@ -59,6 +59,7 @@ AccidentalAlly
 AccidentalComedy
 AccidentalRenaissance
 accidents
+ACCompetizione
 Accounting
 AceAttorney
 acecombat
@@ -478,6 +479,7 @@ Bhubaneswar
 bi_irl
 bicycling
 BicyclingCirclejerk
+bigboobproblems
 bigboye
 BigBrother
 bigbrotheruk
@@ -543,7 +545,9 @@ BobsBurgers
 BocchiTheRock
 bodegacats
 bodybuilding
+bodymods
 boeing
+Bogleheads
 BoJackHorseman
 Bokoen1
 BokuNoHeroAcademia
@@ -1122,6 +1126,7 @@ depression_memes
 depressionmeals
 DerScheisser
 desabafos
+DesignMyRoom
 DesignPorn
 desimemes
 DesiVideoMemes
@@ -1259,6 +1264,7 @@ dustkitties
 dwarffortress
 DynastyFF
 earlsweatshirt
+earthbound
 EarthPorn
 EASportsFC
 EASPORTSWRC
@@ -1478,6 +1484,7 @@ fnaftheories
 fnki
 fnv
 fo4
+fo76
 FondantHate
 food
 foodbutforbabies
@@ -1497,6 +1504,7 @@ ForgottenWeapons
 forhonor
 formuladank
 forsen
+FORTnITE
 FortNiteBR
 FortniteLeaks
 FortniteMemes
@@ -1589,6 +1597,7 @@ GameTheorists
 gamindustri
 gaming
 Gamingcirclejerk
+GamingDetails
 GamingLaptops
 GamingLeaksAndRumours
 gamingnews
@@ -1703,6 +1712,7 @@ GothGirls
 GothStyle
 Gouache
 GPUK
+GR86
 GraceCFulton
 GradSchool
 Graffiti
@@ -2071,6 +2081,7 @@ ItaliaPersonalFinance
 italy
 ItalyInformatica
 Itasha
+ITcrowd
 ItemShop
 IThinkYouShouldLeave
 itookapicture
@@ -2232,6 +2243,7 @@ KneadyCats
 knifeclub
 knifemaking
 Knoxville
+KoboldLegion
 kof
 Kokomi_Mains
 kolkata
@@ -2443,6 +2455,7 @@ MajorityReport
 MakeMeFeelGood
 MakeMeSmile
 MakeMeSuffer
+Makeup
 MakeupAddiction
 makeyourchoice
 MalayalamMovies
@@ -2680,6 +2693,7 @@ Muppets
 MurderBuns
 MurderDrones
 MurderedByWords
+murdermittens
 MURICA
 MusclesOfAmazons
 MushroomGrowers
@@ -2754,6 +2768,7 @@ neopets
 Nepal
 nerdfighters
 Nerf
+nes
 NetflixSexEducation
 Netherlands
 NeuvilletteMains_
@@ -2974,6 +2989,7 @@ orangecounty
 orangetheory
 orchids
 oregon
+OriAndTheBlindForest
 orioles
 orks
 orlando
@@ -2983,6 +2999,7 @@ orslokx
 Osana
 OSHA
 OshiNoKoMemes
+osp
 osr
 osugame
 OTMemes
@@ -3156,6 +3173,7 @@ PNWhiking
 pointlesslygendered
 PointlessStories
 PointyTailedKittens
+PokeMedia
 pokememes
 pokemon
 PokemonBDSP
@@ -3200,6 +3218,7 @@ portugal
 PORTUGALCARALHO
 PORTUGALCYKABLYAT
 Possums
+postal
 PostMalone
 Pottery
 PouchCatatoes
@@ -3248,6 +3267,7 @@ pundarblocket
 pune
 PunishingGrayRaven
 punk
+punkfashion
 Punny
 PunPatrol
 puns
@@ -3398,6 +3418,7 @@ royalenfield
 RPClipsGTA
 RPDR_UK
 RPDRDRAMA
+rpg
 rspod
 RTGameCrowd
 rugbyunion
@@ -3452,6 +3473,7 @@ SanJoseSharks
 sanrio
 saopaulo
 SapphoAndHerFriend
+SarahJMaas
 saskatchewan
 SatanicTemple_Reddit
 SatisfactoryGame
@@ -3555,6 +3577,7 @@ Shitty_Car_Mods
 shittyaquariums
 Shittyaskflying
 shittyfoodporn
+shittyhalolore
 ShittyMapPorn
 shittymobilegameads
 shittymoviedetails
@@ -3685,6 +3708,7 @@ SpiceGirls
 spicy
 SpicyKittens
 spicypillows
+SpiderGwen
 Spiderman
 SpidermanPS4
 spiders
@@ -3734,6 +3758,7 @@ StartUpIndia
 StarWars
 starwarsblackseries
 StarWarsCantina
+StarWarsCirclejerk
 StarWarsEU
 StarWarsleftymemes
 starwarsmemes
@@ -4374,9 +4399,11 @@ Wizard101
 wizardposting
 WKUK
 woahdude
+WojakCompass
 WolvesAreBigYo
 WomenSoccerLegs
 WomensSoccer
+Woodszin
 woodworking
 woooosh
 wordsonanimegirls
@@ -4414,6 +4441,7 @@ xbox360
 XboxGamePass
 xboxone
 XboxSeriesX
+Xcom
 XDefiant
 Xennials
 Xenoblade_Chronicles
