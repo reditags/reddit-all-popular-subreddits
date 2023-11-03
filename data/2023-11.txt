@@ -320,6 +320,7 @@ australia
 australian
 AustralianBirds
 AustralianCattleDog
+AustralianMilitary
 AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
@@ -1168,6 +1169,7 @@ DrakeTheType
 Draven
 Drawfee
 drawing
+DrDisrespectLive
 DreamlightValley
 Dreamtheater
 drehscheibe
@@ -1224,6 +1226,7 @@ egg_irl
 Eggy_memes
 EhBuddyHoser
 EizaGonzalez
+Eldar
 EldenBling
 Eldenring
 EldenRingPVP
@@ -1496,6 +1499,7 @@ gachagaming
 gadgets
 GalGadot
 gallifrey
+Gameboy
 gamecollecting
 gamedev
 gamegrumps
@@ -1816,6 +1820,7 @@ HyruleEngineering
 IAmA
 iamatotalpieceofshit
 IAmTheMainCharacter
+iamverysmart
 IASIP
 iastate
 IceCreamWaifu
@@ -1878,6 +1883,7 @@ indiameme
 Indiana
 indianajones
 indianbikes
+IndianBoysOnTinder
 IndianCountry
 IndianDankMemes
 IndianFashionAddicts
@@ -1976,6 +1982,7 @@ JackSucksAtGeography
 Jaguars
 jaidenanimations
 jailbreak
+jaipur
 JamesBond
 janeausten
 JanitorAI_Official
@@ -2363,6 +2370,7 @@ masseffect
 MassEffectMemes
 masterduel
 MasterReturns
+Mastiff
 mathematics
 mathmemes
 MauLer
@@ -3938,6 +3946,7 @@ UkrainianConflict
 uktrains
 Ulta
 Ultrakill
+Ultraman
 Ultramarines
 ultrawidemasterrace
 umanitoba
@@ -4082,6 +4091,7 @@ WeirdWheels
 WeirdWings
 WelcomeToGilead
 WelcomeToPlathville
+Wellington
 Wellthatsucks
 wendigoon
 wesanderson
