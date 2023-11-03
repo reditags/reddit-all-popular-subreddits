@@ -24,6 +24,7 @@
 3Dprinting
 3DS
 40kLore
+40kmemes
 49ers
 4chan
 4kbluray
@@ -523,6 +524,7 @@ boneachingjuice
 BoneAppleTea
 bonehurtingjuice
 bonnaroo
+bookporn
 books
 BoomersBeingFools
 boottoobig
@@ -765,6 +767,7 @@ CICO
 cincinnati
 cinescenes
 CineShots
+circlejerk
 CirclejerkSopranos
 cirkeltrek
 CitiesSkylines
@@ -869,6 +872,7 @@ cork
 cormacmccarthy
 Cornell
 Coronavirus
+Corvette
 cosplayers
 Costco
 cottagecore
@@ -883,6 +887,7 @@ coys
 cozy
 CozyGamers
 CozyPlaces
+CPA
 Cr1TiKaL
 CrackWatch
 CrappyDesign
@@ -1300,6 +1305,7 @@ familyguy
 FamousFaces
 FamousLatinas
 FanFiction
+Fantasy_Football
 fantasyfootball
 fantasyfootballadvice
 fantasymoe
@@ -1464,6 +1470,7 @@ furry_irl
 furrymemes
 fuseboxgames
 fut
+futbol
 futebol
 futurama
 Futurology
@@ -1643,6 +1650,7 @@ GwenMains
 GYM
 GymMemes
 GymMotivation
+gymsnark
 h3h3_productions
 h3snark
 Habs
@@ -1702,6 +1710,7 @@ heyUK
 HFY
 HighHeels
 HighQualityGifs
+highschool
 HighStrangeness
 HilariaBaldwin
 HIMYM
@@ -1763,6 +1772,7 @@ houseplants
 Houseporn
 houston
 HowBigAreThey
+howto
 Howtolooksmax
 howyoudoin
 hrvatska
@@ -1877,6 +1887,7 @@ INDYCAR
 infamous
 inflation
 Infographics
+InformedWarriorRides
 InfowarriorRides
 initiald
 InlovewithKarengillan
@@ -2224,6 +2235,7 @@ love
 LoveForLandchads
 LoveForRedditors
 LoveForUkraine
+LoveIsBlindNetflix
 LoveIsBlindOnNetflix
 LoveIslandTV
 lovejoyband
@@ -2720,6 +2732,7 @@ okhavermugbal
 OkHomo
 okkamaraderetarde
 okkolegauposledzony
+oklahoma
 okmatewanker
 okoidawappler
 okprietenretardat
@@ -2922,6 +2935,7 @@ PlayStationPlus
 PLTR
 plushies
 PlusSizeFashion
+PNWhiking
 pointlesslygendered
 PointlessStories
 PointyTailedKittens
@@ -3514,6 +3528,7 @@ submechanophobia
 subnautica
 SuccessionTV
 SuddenlyGay
+suggestmeabook
 suicidebywords
 suits
 summerhousebravo
@@ -3653,6 +3668,7 @@ TheEminenceInShadow
 thefighterandthekid
 thefinals
 TheGirlSurvivalGuide
+TheGoldenBachelor_
 TheGoodPlace
 thegrandtour
 TheGriffonsSaddlebag
@@ -3668,6 +3684,7 @@ TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
 TheMcDojoLife
+TheMonkeysPaw
 TheMorningToastSnark
 TheNanny
 thenetherlands
@@ -3794,6 +3811,7 @@ transplace
 trashpandas
 TrashTaste
 trashy
+traumatizeThemBack
 travel
 travisscott
 treelaw
@@ -3820,6 +3838,7 @@ TsukiMichi
 TTSverse
 tuckedinkitties
 Tucson
+Tudorhistory
 tumblr
 Turkey
 TurkeyJerky
@@ -3963,6 +3982,7 @@ wallpaper
 wallstreetbets
 WallStreetbetsELITE
 Wallstreetsilver
+walmart
 WalmartCanada
 WaltDisneyWorld
 wankil
@@ -3980,13 +4000,16 @@ washdc
 wasletztepreis
 Watches
 Watchexchange
+Watchmen
 WatchPeopleDieInside
 watchpeoplesurvive
+WatchWhatCrappens
 Watercolor
 Waterfalls
 WCW
 webcomics
 webdev
+Webkinz
 webtoons
 wec
 WECcirclejerk
@@ -4012,6 +4035,7 @@ WestVirginia
 westworld
 WetlanderHumor
 WFH
+whatcarshouldIbuy
 Whatcouldgowrong
 Whatifalthist
 whatisit
