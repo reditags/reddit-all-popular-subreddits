@@ -90,6 +90,7 @@ afkarena
 AFL
 AfterEffects
 agedlikemilk
+AgeOfCivilizations
 ageofsigmar
 aggies
 AHatInTime
@@ -151,6 +152,7 @@ AnadeArmas
 analog
 AnalogCommunity
 Anarcho_Capitalism
+anarchocommunism
 Anarchy4Everyone
 AnarchyChess
 Anbennar
@@ -409,6 +411,7 @@ BeautifulFemales
 BeautifulIndianWomen
 beauty
 BeavisAndButthead
+BeckyG
 BeelcitosMemes
 beermoney
 beetle
@@ -675,6 +678,7 @@ cats
 CatsAreAssholes
 catsareliquid
 CatsBeingCats
+CatSlaps
 Catsmirin
 catsofrph
 catsofukraine
@@ -757,6 +761,7 @@ ChurchofMarnie
 ChurchofRise
 ChurchOfRyo
 ChurchOfSenko
+CICO
 cincinnati
 cinescenes
 CineShots
@@ -1134,6 +1139,7 @@ doordash_drivers
 Dorohedoro
 DotA2
 DougDoug
+DoveCameron
 DownvotedToOblivion
 DragonballLegends
 Dragonballsuper
@@ -1286,6 +1292,7 @@ Falcom
 falcons
 FallenOrder
 Fallout
+FallOutBoy
 FalloutMemes
 falloutnewvegas
 Falschparker
@@ -1358,6 +1365,7 @@ FitAndNatural
 fitness30plus
 fivenightsatfreddys
 fixedbytheduet
+FixedGearBicycle
 Flamepoints
 FlexinLesbians
 flightsim
@@ -1509,6 +1517,7 @@ GenshinHomeworld
 GenshinImpact
 gentlemanboners
 GenUsa
+GenV
 GenX
 GenZ
 geography
@@ -1645,6 +1654,7 @@ Hailey_Baldwin
 hajimenoippo
 HalfLife
 halifax
+Halle_Bailey
 halloween
 halo
 halodripfinite
@@ -1876,6 +1886,7 @@ insanepinoyfacebook
 inscryption
 InsideJob
 InsideMollywood
+InstacartShoppers
 InstaCelebsGossip
 Instagramreality
 instant_regret
@@ -1960,6 +1971,7 @@ jenniferlovehewitt
 Jeongyeon
 jerma985
 jerseyshore
+jessicaalba
 JetLagTheGame
 Jewdank
 jewelry
@@ -1980,6 +1992,7 @@ Jokes
 JordanPeterson
 joueurdugrenier
 jovemnerd
+jschlatt
 jschlattsubmissions
 JSOCarchive
 Judaism
@@ -2304,6 +2317,7 @@ marvelmemes
 MarvelSnap
 MarvelStrikeForce
 Marxism_Memes
+MarxistCulture
 marymouser_
 mash
 massachusetts
@@ -2500,12 +2514,14 @@ Nahida_Mains
 NahOPwasrightfuckthis
 Nails
 NameMyCat
+NameMyDog
 NameNerdCirclejerk
 namenerds
 NamiMains
 NanashiMumei
 Naruto
 narutomemes
+nasa
 NASCAR
 nashville
 natalieportman
@@ -2559,6 +2575,7 @@ NewJeans
 NewJeans_Hotties
 newjersey
 NewOrleans
+NewParents
 news
 NewsOfTheStupid
 NewsWithJingjing
@@ -2842,6 +2859,7 @@ Persona5
 PersonalFinanceCanada
 perth
 pesmobile
+PetAdvice
 PeterExplainsTheJoke
 Petloss
 PetPeeves
@@ -2852,6 +2870,7 @@ pettyrevenge
 PeytonList
 PferdeSindKacke
 PhantomForces
+pharmacy
 PhasmophobiaGame
 phcareers
 PhD
@@ -2901,6 +2920,7 @@ playrust
 playstation
 PlayStationPlus
 PLTR
+plushies
 PlusSizeFashion
 pointlesslygendered
 PointlessStories
@@ -2921,6 +2941,7 @@ poker
 pokespe
 poland
 polandball
+Polaroid
 policeuk
 Political_Revolution
 PoliticalCompassMemes
@@ -2937,6 +2958,7 @@ poodles
 popculturechat
 popheadscirclejerk
 popping
+poppunkers
 Popular_Science_Ru
 Popularmmos
 PornIsMisogyny
@@ -3081,6 +3103,7 @@ religiousfruitcake
 reloading
 remnantgame
 renfaire
+Renters
 Repsneakers
 RepsneakersDogs
 reptiles
@@ -3108,6 +3131,7 @@ Rivian
 RoastMe
 RoAww
 RobloxAvatars
+RobloxHelp
 Rochester
 RocketLeague
 RocketLeagueEsports
@@ -3180,6 +3204,7 @@ sandiego
 Sandman
 sanfrancisco
 SanJose
+sanrio
 saopaulo
 SapphoAndHerFriend
 saskatchewan
@@ -3989,6 +4014,7 @@ WetlanderHumor
 WFH
 Whatcouldgowrong
 Whatifalthist
+whatisit
 whatisthisbug
 whatisthiscar
 WhatIsThisPainting
