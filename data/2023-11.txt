@@ -380,6 +380,7 @@ AZCardinals
 azdiamondbacks
 Azubis
 azudaioh
+babyanimals
 babybigcatgifs
 BabyBumps
 BabyCorgis
@@ -679,6 +680,7 @@ ByzantineMemes
 CabinPorn
 CAguns
 cakedecorating
+cakefails
 CalamariRaceTeam
 CalamityMod
 Calgary
@@ -725,6 +727,7 @@ castlecrashers
 castles
 castlevania
 CasualConversation
+CasualIreland
 casualnintendo
 CasualPT
 CasualRO
@@ -900,6 +903,7 @@ Colombia
 Colorado
 ColoradoAvalanche
 ColoradoSprings
+Colorization
 Colts
 columbiamo
 Columbus
@@ -951,6 +955,7 @@ coolguides
 coonhounds
 copenhagen
 cordcutters
+Cordoba
 corgi
 cork
 cormacmccarthy
@@ -1936,6 +1941,7 @@ Howtolooksmax
 howyoudoin
 HRSPRS
 hrvatska
+HubermanLab
 HUEstation
 HumanBeingBros
 HumansAreMetal
@@ -3155,6 +3161,7 @@ perfectlycutscreams
 Perfumes
 Persecutionfetish
 PERSoNA
+persona4golden
 Persona5
 PersonalFinanceCanada
 perth
@@ -3240,6 +3247,7 @@ PointyTailedKittens
 PokeMedia
 pokememes
 pokemon
+pokemonanime
 PokemonBDSP
 pokemoncards
 PokemonEmerald
@@ -3325,6 +3333,7 @@ PSP
 PSVR
 psx
 psychology
+Psychonaut
 PublicFreakout
 PuertoRico
 pukicho
@@ -3899,6 +3908,7 @@ SuperMegaShow
 SupermodelCats
 Supernatural
 Superstonk
+Supertf
 surrealmemes
 survivinginfidelity
 survivor
@@ -4199,6 +4209,7 @@ travel
 travisscott
 treelaw
 trees
+tressless
 trippinthroughtime
 trishapaytas
 TrollCoping
@@ -4308,6 +4319,7 @@ USC
 USMC
 ussoccer
 Utah
+UzakiChan
 vagabond
 vagabondmanga
 ValentGarzonC
@@ -4405,6 +4417,7 @@ watchpeoplesurvive
 WatchWhatCrappens
 Watercolor
 Waterfalls
+waterloo
 WCW
 WeAreAllTurks
 webcomics
@@ -4530,6 +4543,7 @@ ww2memes
 WWE
 wwiipics
 WWIIplanes
+xbiking
 xbox
 xbox360
 XboxGamePass
