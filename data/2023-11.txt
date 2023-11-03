@@ -105,6 +105,7 @@ AIVoiceMemes
 aiyu
 ak47
 Alabama
+alaska
 AlbedosCreations
 alberta
 Aleague
@@ -625,9 +626,11 @@ canadahousing
 CanadaHousing2
 CanadianInvestor
 canceledpod
+canes
 cannabis
 CannedSardines
 canucks
+CapitalismSux
 CapitolConsequences
 caps
 capybara
@@ -744,6 +747,7 @@ Chonkers
 ChoosingBeggars
 chrissycostanza
 Christianity
+christinahendricks
 ChristinaMilian
 christmas
 ChronicPain
@@ -768,6 +772,7 @@ ClashOfClans
 ClashRoyale
 ClashRoyaleCirclejerk
 classiccars
+ClassicRock
 classicsoccer
 classicwow
 ClassroomOfTheElite
@@ -960,6 +965,7 @@ danglers
 DaniDev
 DanielaMelchior
 Daniellarson
+DaniMarina
 dank_meme
 DankAndrastianMemes
 dankchristianmemes
@@ -1108,6 +1114,7 @@ DOG
 DogAdvice
 dogelore
 doggrooming
+DoggyDNA
 DoglaREDDIT
 dogpictures
 dogsusingpillows
@@ -1186,6 +1193,7 @@ Edinburgh
 EDM
 Edmonton
 educationalgifs
+eeaao
 Eesti
 Eevee
 egg_irl
@@ -1341,6 +1349,7 @@ fionnaandcake
 Firearms
 fireemblem
 FireEmblemHeroes
+FireEmblemThreeHouses
 Firefighting
 firefly
 FirstTimeHomeBuyer
@@ -1360,6 +1369,7 @@ FloridaMan
 FlorkofCowsOfficial
 flowers
 FluentInFinance
+flyfishing
 flying
 fnafmeme
 fnaftheories
@@ -1482,6 +1492,7 @@ gay_irl
 gaybros
 gaybrosgonemild
 GayBroTeens
+Gaylor_Swift
 gaymemes
 gaymers
 GayRateMe
@@ -1535,6 +1546,7 @@ GlitchProductions
 GlobalOffensive
 Glocks
 Gloomhaven
+glossier
 GlowUps
 glutenfree
 GME
@@ -1715,6 +1727,7 @@ homelab
 HomeNetworking
 homeschool
 homestead
+hometheater
 HomeworkHelp
 Honda
 HongKong
@@ -2099,6 +2112,7 @@ languagelearning
 LanternDie
 LarissaManoelaa
 lastimages
+lastpodcastontheleft
 LasVegas
 LateStageCapitalism
 LatinoPeopleTwitter
@@ -2237,6 +2251,7 @@ MagicArena
 MagicEye
 magicTCG
 magicthecirclejerking
+magpies
 MaguiCorceiro
 Maine
 mainecoons
@@ -2343,6 +2358,7 @@ MensLib
 Mensmittenwithkittens
 MensRights
 MEOW_IRL
+mercedes_benz
 metaldetecting
 MetalGearInMyAss
 metalgearrising
@@ -2394,6 +2410,7 @@ minnesotavikings
 misfits
 missbricosplay
 mississippi
+Mistborn
 MitchellAndWebb
 MixedRaceGirls
 MiyooMini
@@ -2675,6 +2692,7 @@ okbuddyguardian
 OKbuddyHalfLife
 okbuddyHRetard
 OkBuddyPersona
+okbuddyphd
 okbuddyreiner
 okbuddyrosalyn
 okbuddytrailblazer
@@ -2908,6 +2926,7 @@ Political_Revolution
 PoliticalCompassMemes
 PoliticalHumor
 PoliticalMemes
+PoliticalVideo
 politics
 PoliticsPeopleTwitter
 Polska
@@ -2964,6 +2983,7 @@ protogen
 PS3
 PS4
 PS5
+PSP
 PSVR
 psx
 PublicFreakout
@@ -2983,6 +3003,7 @@ Purdue
 pyrocynical
 Python
 QAnonCasualties
+QualityTacticalGear
 Quebec
 queensuniversity
 quilting
@@ -3031,6 +3052,7 @@ realmadrid
 RealTesla
 ReasonableFantasy
 REBubble
+Recife
 recruitinghell
 red_velvet
 RedDeadOnline
@@ -3109,6 +3131,7 @@ RoughRomanMemes
 RoverPetSitting
 RoyaleHigh_Roblox
 RPClipsGTA
+RPDR_UK
 RPDRDRAMA
 RTGameCrowd
 rugbyunion
@@ -3217,6 +3240,7 @@ seventeen
 SewayakiKitsune
 sewing
 sexandthecity
+SexyButNotNude
 sexygirls
 sexyhair
 sffpc
@@ -3520,6 +3544,7 @@ TarihiSeyler
 taskmaster
 tattooadvice
 TattooDesigns
+TattooRemoval
 tattoos
 Tau40K
 TaylorSwift
@@ -3631,6 +3656,7 @@ TheoVon
 ThePPShow
 TheRandomest
 TheRatEmpire
+TheRealJoke
 TheRedDotComic
 therewasanattempt
 TheRightCantMeme
@@ -3658,6 +3684,7 @@ thisismylifenow
 ThisLooksFun
 ThomasinMcKenzie
 thomastheplankengine
+THPS
 threestooges
 ThriftGrift
 thugeshh
@@ -3697,6 +3724,7 @@ TombRaider
 tomorrow
 tonightsdinner
 toofers
+toogoodtogo
 TooGoodToGoCanada
 tooktoomuch
 ToolBand
@@ -3763,6 +3791,7 @@ truespotify
 TrueSTL
 Trumpgret
 Trumpvirus
+TsukiMichi
 TTSverse
 tuckedinkitties
 Tucson
@@ -3952,8 +3981,10 @@ WelcomeToGilead
 WelcomeToPlathville
 Wellthatsucks
 wendigoon
+wesanderson
 westies
 WestVirginia
+westworld
 WetlanderHumor
 WFH
 Whatcouldgowrong
@@ -4040,7 +4071,9 @@ wunkus
 WWE
 WWIIplanes
 xbox
+xbox360
 XboxGamePass
+xboxone
 XboxSeriesX
 XDefiant
 Xennials
