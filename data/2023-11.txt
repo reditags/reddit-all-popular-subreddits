@@ -121,6 +121,7 @@ AIVoiceMemes
 aiyu
 ak47
 Alabama
+AlanBecker
 AlanWake
 alaska
 AlbedosCreations
@@ -233,6 +234,7 @@ antiMLM
 Antimoneymemes
 antinatalism
 Antiques
+AntiTaff
 antitheistcheesecake
 antitrampo
 AntiTrumpAlliance
@@ -681,6 +683,7 @@ Broadway
 Brochet
 Brogress
 bronco
+Brooklyn
 brooklynninenine
 Browns
 Brunei
@@ -1166,6 +1169,7 @@ datascience
 dating
 dating_advice
 datingoverthirty
+DaveChappelle
 davidlynch
 dayz
 dbxv
@@ -1399,6 +1403,7 @@ electricians
 Elephants
 EliteDangerous
 ElizabethOlsen
+ElizabethTurner
 ellacervetto
 elonmusk
 Elysia
@@ -1420,6 +1425,7 @@ EngagementRings
 engineeringmemes
 EngineeringPorn
 ENGLISH
+EnglishLearning
 engrish
 EnoughCommieSpam
 EnoughLibertarianSpam
@@ -2034,6 +2040,7 @@ houston
 HowBigAreThey
 howto
 Howtolooksmax
+howtonotgiveafuck
 howyoudoin
 HRSPRS
 hrvatska
@@ -2070,6 +2077,7 @@ IceCreamWaifu
 ich_iel
 ichbin14unddasisttief
 ichbin40undlustig
+Idaho
 IdentityV
 ididnthaveeggs
 idiocracy
@@ -2794,6 +2802,7 @@ mildlyinteresting
 Mildlynomil
 mildlypenis
 mildlyterrifying
+milesprower
 MilitaryPorn
 Millennials
 MillieBobbyBrown2
@@ -2990,6 +2999,7 @@ Newbalance
 NewcastleUponTyne
 NewDealAmerica
 Newfoundlander
+NewGirl
 NewGreentexts
 newhampshire
 NewHeights
@@ -3063,6 +3073,7 @@ northdakota
 northernireland
 northernlion
 Norway
+NorwegianForestCats
 NoSanaNoLife
 Noses
 nosleep
@@ -3167,6 +3178,7 @@ OldManDog
 OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
+OldSkaters
 OldWorldBlues
 OLED_Gaming
 OliveMUA
@@ -3219,6 +3231,7 @@ orangetheory
 orchids
 oregon
 OriAndTheBlindForest
+originalxbox
 orioles
 orks
 orlando
@@ -3444,6 +3457,7 @@ PoliticalMemes
 PoliticalVideo
 politics
 PoliticsPeopleTwitter
+Politiek
 Polska
 Polska_wpz
 polydactyl
@@ -3474,6 +3488,7 @@ povertyfinancecanada
 powerrangers
 powerwashingporn
 PraiseTheCameraMan
+PrehistoricMemes
 PremierLeague
 PrepperIntel
 PrequelMemes
@@ -3828,6 +3843,7 @@ ShambhaviRajput
 shameless
 ShaneDawson
 ShaneGillis
+Shantae
 ShareYourSelfie
 Shark_Park
 SharkLab
@@ -3856,6 +3872,7 @@ shittyaquariums
 Shittyaskflying
 shittyfoodporn
 shittyhalolore
+ShittyLifeProTips
 ShittyMapPorn
 shittymobilegameads
 shittymoviedetails
@@ -4084,6 +4101,7 @@ StreetMartialArts
 streetwearstartup
 StreetWomanFighter
 stremtch
+Stretched
 StudentLoans
 studentsph
 Studium
@@ -4349,6 +4367,7 @@ TIHI
 TikTokCringe
 tiktoktrophies
 TimAndEric
+Timberborn
 timberwolves
 TimHortons
 TimPool
@@ -4365,6 +4384,7 @@ tjournal_refugees
 TLCsisterwives
 TMKOC
 TMNT
+tmobile
 TNOmod
 TNPLE
 todayilearned
@@ -4451,6 +4471,7 @@ truerateme
 TrueReddit
 truespotify
 TrueSTL
+trump
 Trumpgret
 Trumpvirus
 TsukiMichi
@@ -4676,6 +4697,7 @@ weed
 weeklyplanetpodcast
 weeviltime
 weezer
+WegovyWeightLoss
 Weird
 weirddalle
 Weirdlyfamiliar
@@ -4691,6 +4713,7 @@ westies
 WestVirginia
 westworld
 WetlanderHumor
+WeWantPlates
 WFH
 whatcarshouldIbuy
 Whatcouldgowrong
@@ -4842,6 +4865,7 @@ YouShouldKnow
 youtube
 ytvretro
 yugioh
+YuGiOhMemes
 yuna
 yuri_manga
 YUROP
