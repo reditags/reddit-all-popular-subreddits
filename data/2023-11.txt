@@ -262,6 +262,7 @@ ApplyingToCollege
 AquaJail
 Aquariums
 AquaSama
+Aquascape
 ar15
 araragi
 ArAutos
@@ -749,6 +750,7 @@ canadahousing
 CanadaHousing2
 CanadaImmigrant
 canadaleft
+canadanews
 CanadianInvestor
 canberra
 canceledpod
@@ -1789,6 +1791,7 @@ GeorginaRodriguezN1
 German
 GermanRap
 germanshepherds
+germanshorthairs
 GermanWW2photos
 GeschichtsMaimais
 GetMotivated
@@ -2311,6 +2314,7 @@ Jazz
 Jcole
 JDM
 JEENEETards
+Jeep
 JeffArcuri
 JeilaDizon
 jellybeantoes
@@ -2485,6 +2489,7 @@ KyraReneeSivertson
 l4d2
 LabourUK
 labrador
+LaBrantFamSnark
 labrats
 lacamiseta
 Lackadaisy
@@ -3479,6 +3484,7 @@ Poetry
 pointlesslygendered
 PointlessStories
 PointyTailedKittens
+PokeInvesting
 PokeMedia
 pokememes
 pokemon
@@ -4151,6 +4157,7 @@ Stellaris
 StellarisMemes
 stephenking
 stevenuniverse
+sticknpokes
 StLouis
 stockholm
 stocks
@@ -4793,6 +4800,7 @@ westworld
 WetlanderHumor
 WeWantPlates
 WFH
+whales
 whatcarshouldIbuy
 Whatcouldgowrong
 Whatifalthist
@@ -4835,6 +4843,7 @@ wien
 WiggleButts
 wikipedia
 wildcampingintheuk
+WildernessBackpacking
 wildhockey
 wildlifephotography
 WildWestPics
@@ -4855,6 +4864,7 @@ WKUK
 woahdude
 WojakCompass
 Wolfdogs
+Wolfenstein
 WolvesAreBigYo
 WomenSoccerLegs
 WomensSoccer
