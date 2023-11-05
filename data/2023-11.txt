@@ -1251,6 +1251,7 @@ dashcams
 DataHoarder
 dataisbeautiful
 datascience
+datealive
 dating
 dating_advice
 datingoverthirty
@@ -1637,6 +1638,7 @@ fashionph
 FashionReps
 fastfood
 fasting
+Fate
 fatestaynight
 fatherted
 fatsquirrelhate
@@ -1860,6 +1862,7 @@ gamingnews
 Ganyu
 garageporn
 GarandThumb
+GardeningUK
 Gardevoir
 Garmin
 gate
@@ -2132,6 +2135,7 @@ highschool
 HighStrangeness
 HikaruNakamura
 HilariaBaldwin
+Hilary_Duff
 HIMYM
 HindiMemes
 hinduism
@@ -2164,6 +2168,7 @@ Hololive
 HololiveYuri
 Holostars
 HolUp
+Homebuilding
 HomeDecorating
 homelab
 HomeNetworking
@@ -3777,6 +3782,7 @@ PrequelMemes
 Prescott
 Presidents
 PrettyGirls
+PrettyLittleLiars
 PrettyOlderWomen
 Priconne
 PrideAndPinion
@@ -4608,6 +4614,7 @@ theadamfriedlandshow
 theamazingdigitalciru
 TheArcana
 TheAstraMilitarum
+TheBatmanFilm
 TheBear
 TheBeatles
 TheBidenshitshow
