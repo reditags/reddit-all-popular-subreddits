@@ -183,6 +183,7 @@ AmITheBadApple
 AmItheButtface
 AmItheCloaca
 amiugly
+amIuglyBrutallyHonest
 amiwrong
 amogus
 Amoledbackgrounds
@@ -601,6 +602,7 @@ blackpeoplegifs
 BlackPeopleTwitter
 BlackPink
 BlackTemplars
+BladeAndSorcery
 BladeMains
 bladerunner
 Bladesmith
@@ -1772,6 +1774,7 @@ Frenchbulldogs
 FrenchMemes
 FreyaAllan
 FridayNightFunkin
+FridgeDetective
 friendlyjordies
 FriendsofthePod
 Frieren
@@ -1861,6 +1864,7 @@ gate
 gatekeeping
 GatekeepingYuri
 gatesopencomeonin
+gatewaytapes
 Gatos
 GawrGura
 gay
@@ -2089,6 +2093,7 @@ Hasan_Piker
 hatsune
 HauntedMound
 HauntingOfHillHouse
+Havanese
 hawks
 haydenpanettiere
 HayleyAtwell
@@ -2334,6 +2339,7 @@ indiasocial
 IndiaSpeaks
 IndiaTech
 IndiaTrending
+indie
 IndieDev
 indiegames
 IndieGaming
@@ -2496,6 +2502,7 @@ Jokes
 JordanPeterson
 joueurdugrenier
 jovemnerd
+jpegmafia
 jschlatt
 jschlattsubmissions
 JSOCarchive
@@ -2540,6 +2547,7 @@ karibyron
 Karma4Free
 karnataka
 KatanaZero
+KatDennings
 katebeckinsale
 KatherineMcNamara
 KatherynWinnick
@@ -3450,6 +3458,7 @@ oneplus
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
+OneTopicAtATime
 oneui
 onewheel
 onexindia
@@ -4089,6 +4098,7 @@ SCPSecretLab
 Scream
 Scrubs
 scrungycats
+scuba
 seaglass
 seals
 seaofstars
@@ -4118,6 +4128,7 @@ seraphon
 serbia
 serbiancringe
 serialkillers
+settmains
 Seulgi
 seventeen
 SewayakiKitsune
@@ -4228,6 +4239,7 @@ SkincareAddictionUK
 SkirkMains
 SkyeBlueOffical
 SkyGame
+skylanders
 SkyLine
 SkyPorn
 skyrim
@@ -4367,6 +4379,7 @@ Stargate
 StarKid
 Starlink
 starsector
+StarshipPorn
 starterpacks
 StartledCats
 startrekmemes
@@ -4480,6 +4493,7 @@ tacticalgear
 TacticalIssueCat
 taikonotatsujin
 Takagi_san
+TalesFromDF
 talesfromtechsupport
 TalesFromTheFrontDesk
 TalesFromYourServer
@@ -4920,6 +4934,7 @@ valheim
 VALORANT
 ValorantCompetitive
 ValorantMemes
+VampireSurvivors
 vancouver
 Vanderpumpaholics
 vandwellers
@@ -5014,6 +5029,7 @@ WarshipPorn
 warthundermemes
 washdc
 wasletztepreis
+wasletzterezension
 Watches
 watchesindia
 Watchexchange
@@ -5166,6 +5182,7 @@ writers
 writing
 writingcirclejerk
 WritingPrompts
+wroclaw
 WRX
 WTF
 wunkus
