@@ -189,6 +189,7 @@ Amtrak
 AmyAdams
 AnadeArmas
 analog
+AnalogCircleJerk
 AnalogCommunity
 Anarcho_Capitalism
 anarchocommunism
@@ -238,6 +239,7 @@ Annabananaxdddd
 annakendrick
 AnneHathaway
 AnnieEdison
+AnniTheDuck___
 annyfox
 ANormalDayInRussia
 ANRime
@@ -333,6 +335,7 @@ AskBalkans
 AskDocs
 AskElectricians
 AskFeminists
+AskFrance
 askgaybros
 AskHistorians
 AskHR
@@ -424,6 +427,7 @@ axolotls
 AyakaMains
 AZCardinals
 azdiamondbacks
+azerbaijan
 Azoozkie
 Azubis
 azudaioh
@@ -509,6 +513,7 @@ BeautifulIndianWomen
 beauty
 BeautyGuruChatter
 BeavisAndButthead
+beberexha
 BeckyG
 BeelcitosMemes
 beermoney
@@ -539,6 +544,7 @@ bestoflegaladvice
 bestoftheinternet
 betterCallSaul
 BetterEveryLoop
+BeyoncePics
 BG3
 BG3Builds
 Bhubaneswar
@@ -752,6 +758,7 @@ Bunnies
 BunniesStandingUp
 burdurland
 burgers
+burial
 bursa
 Buttcoin
 BuyItForLife
@@ -796,6 +803,7 @@ CapitolConsequences
 caps
 capybara
 CaraDelevingne
+carbonsteel
 carcrash
 CARiverPlate
 CarlaMedrano
@@ -820,6 +828,7 @@ castles
 castlevania
 CasualConversation
 CasualIreland
+casualknitting
 casualnintendo
 CasualPT
 CasualRO
@@ -940,6 +949,7 @@ Christianity
 christinahendricks
 ChristinaMilian
 christmas
+ChristopherNolan
 ChronicPain
 chronotrigger
 ChurchOfFeMC
@@ -1396,6 +1406,7 @@ DougDoug
 doughboys
 DoveCameron
 DownvotedToOblivion
+dragonballfighterz
 DragonballLegends
 Dragonballsuper
 DragonMaid
@@ -1415,6 +1426,7 @@ Dreamtheater
 drehscheibe
 dresden
 DrewDurnil
+DrewGooden
 drivingUK
 Drizzy
 DrMartens
@@ -1587,6 +1599,7 @@ FalloutMemes
 falloutnewvegas
 Falschparker
 familyguy
+FamilyMedicine
 famoseworte
 FamousFaces
 FamousLatinas
@@ -2400,6 +2413,7 @@ iwoulddiefornoodle
 Izlam
 iZone
 IzuOcha
+JaackMaate
 jackass
 jacketsforbattle
 jackrussellterrier
@@ -2714,11 +2728,13 @@ limbuscompany
 LiminalSpace
 linguisticshumor
 LinkedInLunatics
+LinkinPark
 LinusTechTips
 linux
 linux_gaming
 linuxmasterrace
 liseliler
+listentothis
 lithuania
 littlehouseonprairie
 LiveFromNewYork
@@ -2798,6 +2814,7 @@ MachikadoMazoku
 MachineLearning
 Machinists
 MacMiller
+macsetups
 Madden
 MaddieZiegler1
 MadelynCline
@@ -2907,6 +2924,7 @@ mclaren
 McMansionHell
 me_irl
 me_irlgbt
+meatcrayon
 MechanicAdvice
 mechanical_gifs
 MechanicalKeyboards
@@ -3359,6 +3377,7 @@ OKbuddyHalfLife
 okbuddyHRetard
 OkBuddyPersona
 okbuddyphd
+okbuddyrathalos
 okbuddyreiner
 okbuddyrosalyn
 okbuddytimekeeper
@@ -3657,6 +3676,7 @@ PokemonBDSP
 pokemoncards
 PokemonEmerald
 pokemongo
+PokemonInfiniteFusion
 PokemonLegendsArceus
 PokemonMasters
 pokemonmemes
@@ -3750,6 +3770,7 @@ PS5
 PSP
 PSVR
 psx
+psych
 psychology
 Psychonaut
 PublicFreakout
@@ -4019,6 +4040,7 @@ sbubby
 scambait
 Scams
 ScaramoucheMains
+ScarletNexus
 scaryeddie
 Schaffrillas
 SchittsCreek
@@ -4901,6 +4923,7 @@ vexillology
 vexillologycirclejerk
 veYakinEvren
 vfx
+VGC
 VHS
 victoria3
 VictoriaBC
@@ -5104,6 +5127,7 @@ WorldofTanks
 WorldOfWarships
 WorstAid
 WoT
+wotlk
 WoTshow
 wow
 WoWs_Legends
@@ -5165,6 +5189,7 @@ Yotsubros
 YouBelongWithMemes
 YoujoSenki
 youngjustice
+youngpeoplereddit
 youngpeopleyoutube
 YoungThug
 YouniquePresenterMS
