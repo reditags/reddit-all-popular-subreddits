@@ -870,6 +870,7 @@ catmuffins
 Catnames
 catpics
 catpictures
+CATpreparation
 cats
 CatsAreAssholes
 catsareliquid
@@ -1477,6 +1478,7 @@ dualipa
 dubai
 Dublin
 Ducati
+duck
 ducks
 DuggarsSnark
 dumplingmeme
@@ -4224,6 +4226,7 @@ shield
 shieldbro
 Shihtzu
 ShingekiNoKyojin
+Shining_Nikki
 ShinyPokemon
 ShitCrusaderKingsSay
 ShitKonfaSays
