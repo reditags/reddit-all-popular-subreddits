@@ -950,6 +950,7 @@ Chipotle
 Chiraqology
 Chivalry2
 chloe
+ChloeBennet
 chloegracemoretz
 Choices
 chomsky
@@ -1033,6 +1034,7 @@ Colognes
 Colombia
 Colorado
 ColoradoAvalanche
+ColoradoRockies
 ColoradoSprings
 Colorization
 Colts
@@ -1097,6 +1099,7 @@ cork
 cormacmccarthy
 Cornell
 Coronavirus
+corvallis
 Corvette
 cosplayers
 Costco
@@ -1364,6 +1367,7 @@ DiscoElysium
 discordapp
 Discordmemes
 discordVideos
+DiscoveryID
 disenchantment
 dishonored
 Dislyte
@@ -3390,6 +3394,7 @@ O_PACOTE
 OaklandAthletics
 oasis
 oblivion
+ObsessedNetwork
 OCD
 OCDmemes
 OceanGateTitan
@@ -3639,6 +3644,7 @@ PetsareAmazing
 PetTheDamnCat
 PetTheDamnDog
 pettyrevenge
+PewdiepieSubmissions
 PeytonCoffee_2
 PeytonList
 PferdeSindKacke
@@ -4182,6 +4188,7 @@ sharks
 sharpei
 sheffield
 shehulk
+sheltie
 ShenheMains
 ShermanPosting
 shib
@@ -4379,6 +4386,7 @@ SpottedonRightmove
 spreadsmile
 spreadytoes
 springboks
+springerspaniel
 Spunchbob
 SpyxFamily
 SQL
@@ -4790,6 +4798,7 @@ tornado
 TornadoEncounters
 torontobiking
 Torontobluejays
+TorontoDriving
 TorontoMetU
 torontoraptors
 TorontoRealEstate
@@ -5062,6 +5071,7 @@ warthundermemes
 washdc
 wasletztepreis
 wasletzterezension
+WatchDogsWoofInside
 Watches
 watchesindia
 Watchexchange
