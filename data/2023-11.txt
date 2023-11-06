@@ -129,6 +129,7 @@ AITAH
 aivideo
 AIVoiceMemes
 aiyu
+AjaxAmsterdam
 ak47
 Alabama
 AlanBecker
@@ -1704,6 +1705,7 @@ FightLibrary
 fighton
 fightporn
 FigureSkating
+FilipinoHistory
 FilmClubPH
 Filmmakers
 FilthyFrank
@@ -2629,6 +2631,7 @@ KimetsuNoYaiba
 kimminjeong
 kindle
 KingCrimson
+Kingdom
 kingdomcome
 KingdomHearts
 KingkillerChronicle
@@ -3533,6 +3536,7 @@ OooBigStretch
 OopsDidntMeanTo
 OopsThatsDeadly
 oots
+OpenAI
 OperaGX
 Opeth
 opossum_irl
