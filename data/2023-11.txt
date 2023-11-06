@@ -88,6 +88,7 @@ Adelaide
 AdeptusCustodes
 AdeptusMechanicus
 ADHDmemes
+Adirondacks
 AdorableDragons
 Adulting
 adultingph
@@ -360,6 +361,7 @@ askmath
 AskMechanics
 AskMen
 AskMiddleEast
+AskOuija
 AskPH
 AskPhotography
 AskReddit
@@ -1220,6 +1222,7 @@ Cyberpunk
 cyberpunkgame
 cybersecurity
 cybertruck
+CynoMains
 czech
 czechmemes
 Dabs
@@ -1367,6 +1370,7 @@ developersIndia
 DevilMayCry
 devils
 devinbrugman
+devops
 devsarg
 dewrim
 dezwo
@@ -1632,6 +1636,7 @@ ExperiencedDevs
 explainlikeimfive
 ExplainTheJoke
 exposingcabalrituals
+ExtraFabulousComics
 ExtremeCarCrashes
 extremelyinfuriating
 Eyebleach
@@ -1645,6 +1650,7 @@ facepalm
 FaceRatings
 factorio
 Factoriohno
+facts
 FairytaleasFuck
 fakehistoryporn
 fakemon
@@ -1716,6 +1722,7 @@ ffxiv
 FFXIVGlamours
 FFXVI
 FGO
+FierceFlow
 FifaCareers
 Fighters
 FightLibrary
@@ -2565,6 +2572,7 @@ JoJoMemes
 Jokes
 JordanPeterson
 joueurdugrenier
+Journaling
 jovemnerd
 jpegmafia
 jschlatt
@@ -2601,6 +2609,7 @@ kallmekris
 KamenRider
 KanePixelsBackrooms
 KanojoOkarishimasu
+kanpur
 kansascity
 KansasCityChiefs
 Kantenhausen
@@ -2969,6 +2978,7 @@ MandJTV
 MangaCollectors
 manhwa
 manipur
+ManorLords
 Maplestory
 MapPorn
 mapporncirclejerk
@@ -4032,6 +4042,7 @@ Repsneakers
 RepsneakersDogs
 reptiles
 RepTime
+Republica_Argentina
 RepublicaArgentina
 RepublicadeChile
 rescuecats
@@ -4274,6 +4285,7 @@ ShingekiNoKyojin
 Shining_Nikki
 ShinyPokemon
 ShitCrusaderKingsSay
+shitfascistssay
 ShitKonfaSays
 ShitLiberalsSay
 ShitMomGroupsSay
@@ -4436,6 +4448,7 @@ spain
 SpanishHistoryMemes
 SpanishMeme
 SpecOpsArchive
+SpeculativeEvolution
 SpeedOfLobsters
 sphynx
 SpiceandWolf
@@ -4699,9 +4712,11 @@ tf2shitposterclub
 tf_irl
 tfc
 thalassophobia
+thane
 ThanksCyno
 thanksihateit
 thanosdidnothingwrong
+That70sshow
 thatHappened
 ThatLookedExpensive
 Thatsactuallyverycool
@@ -5365,6 +5380,7 @@ yorku
 Yosemite
 Yotsubros
 YouBelongWithMemes
+youdontsurf
 YoujoSenki
 youngjustice
 youngpeoplereddit
