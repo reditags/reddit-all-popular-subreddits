@@ -837,6 +837,7 @@ capybara
 CaraDelevingne
 carbonsteel
 carcrash
+Cardinals
 careerguidance
 CARiverPlate
 CarlaMedrano
@@ -1288,6 +1289,7 @@ dashcamgifs
 dashcams
 DataHoarder
 dataisbeautiful
+DataRecoveryHelp
 datascience
 datealive
 dating
@@ -2038,6 +2040,7 @@ GoodGoodMemes
 goodmythicalmorning
 goodomens
 GoodOmensAfterDark
+goodyearwelt
 GooglePixel
 gorillaz
 gororoba
@@ -2944,6 +2947,7 @@ magicthecirclejerking
 magpies
 MaguiCorceiro
 Maharashtra
+Mahouka
 Maine
 mainecoons
 MaintenancePhase
@@ -3166,6 +3170,7 @@ MMORPG
 MobileLegendsGame
 modeltrains
 Modern_Family
+ModernMagic
 modernwarfare
 ModernWarfareII
 ModernWarfareIII
@@ -3842,6 +3847,7 @@ Polska
 Polska_wpz
 polydactyl
 polygonnetwork
+Polytopia
 Pomeranians
 poodles
 popculturechat
@@ -4900,6 +4906,7 @@ TorontoMetU
 torontoraptors
 TorontoRealEstate
 torties
+tortoise
 Totaldrama
 TotalKalesh
 totalwar
@@ -4924,6 +4931,7 @@ TransLater
 TransMasc
 Transmogrification
 transplace
+TransportFever2
 TrapCuties
 trashpandas
 TrashTaste
@@ -5214,6 +5222,7 @@ WelcomeToPlathville
 Wellington
 Wellthatsucks
 wendigoon
+WerWieWas
 wesanderson
 westies
 WestVirginia
@@ -5274,6 +5283,7 @@ wildlifephotography
 WildWestPics
 WillaHolland
 willwood
+WILTY
 Windows11
 WingsOfFire
 winnipegjets
@@ -5344,6 +5354,7 @@ xbox
 xbox360
 XboxGamePass
 xboxone
+XboxSeriesS
 XboxSeriesX
 Xcom
 XDefiant
