@@ -628,6 +628,7 @@ BlackClover
 blackfridayads2023
 Blacklabs
 blackmagicfuckery
+blackops3
 BlackPeopleComedy
 blackpeoplegifs
 BlackPeopleTwitter
@@ -828,6 +829,7 @@ CallOfDutyMobile
 CallTheMidwife
 calvinandhobbes
 CamilaCabello
+camilamendes
 camphalfblood
 canada
 Canada_sub
@@ -1018,6 +1020,7 @@ ChurchofMarnie
 ChurchofRise
 ChurchOfRyo
 ChurchOfSenko
+chutyapa
 CICO
 cincinnati
 cinematography
@@ -1344,6 +1347,7 @@ deadmeatjames
 DeadSpace
 deathbattle
 DeathBattleMatchups
+Deathcore
 deathgrips
 deathguard40k
 Deathloop
@@ -1606,6 +1610,7 @@ EmmaMyers
 EmmaStone
 EmmaWatson
 EmmyRossum
+Emo
 Emoney
 EmoStyle
 EmperorsChildren
@@ -2281,6 +2286,7 @@ Homebuilding
 HomeDecorating
 HomeDepot
 homelab
+HomeMaintenance
 HomeNetworking
 homeschool
 homestead
@@ -2690,6 +2696,7 @@ KayAdams
 KaynMains
 Kazumin
 KCRoyals
+kde
 KDRAMA
 KeanuBeingAwesome
 Keep_Track
@@ -3581,6 +3588,7 @@ okbuddyblacklung
 okbuddycapitalist
 okbuddychicanery
 okbuddycinephile
+okbuddydaylight
 OkBuddyFresca
 okbuddygenshin
 okbuddyguardian
@@ -5085,6 +5093,7 @@ TurkishCeleb
 Turnip28
 turtle
 TuxedoCats
+TVTooHigh
 twentyonepilots
 twicemedia
 twilight
@@ -5114,6 +5123,7 @@ UCDavis
 ucf
 UCI
 ucla
+udub
 ufc
 ufl
 ufo
@@ -5341,6 +5351,7 @@ WeWantPlates
 WFH
 whales
 whatcarshouldIbuy
+whatcouldgoright
 Whatcouldgowrong
 Whatifalthist
 whatisit
