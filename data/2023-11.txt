@@ -1635,6 +1635,7 @@ ElderKings
 ElderScrolls
 ElectricalEngineering
 electricians
+ElectroBOOM
 electronicmusic
 Elephants
 EliteDangerous
@@ -3028,6 +3029,7 @@ lostpause
 lostredditors
 lotr
 lotrmemes
+lotro
 louboutins
 Louisiana
 Louisville
@@ -3976,6 +3978,7 @@ pj_explained
 PKA
 placeDE
 planesgonewild
+Planespotting
 Planetside
 PlanetZoo
 PlantedTank
@@ -4850,6 +4853,7 @@ SydneySweeney
 SympatheticMonsters
 sypherpk
 sysadmin
+sza
 TabbyCats
 tacobell
 tacticalgear
@@ -5065,6 +5069,7 @@ TheYardPodcast
 theydidthemath
 theyknew
 ThickFit
+thinkpad
 ThirdLifeSMP
 Thisisimportantpod
 thisismylifenow
@@ -5354,6 +5359,7 @@ veganrecipes
 veganuk
 vegas
 vegaslocals
+vegetablegardening
 vegetarischDE
 velvethippos
 Vent
