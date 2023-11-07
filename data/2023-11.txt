@@ -113,6 +113,7 @@ AFCSouthMemeWar
 AFCWestMemeWar
 afkarena
 AFL
+afrikaans
 AfterEffects
 agedlikemilk
 AgentAcademy
@@ -359,6 +360,7 @@ ask
 AskAGerman
 AskAnAustralian
 AskBalkans
+askcarsales
 AskDocs
 AskElectricians
 AskFeminists
@@ -572,6 +574,7 @@ Bellapoarch
 belowdeck
 Ben10
 BendyAndTheInkMachine
+benfica
 bengalcats
 bengals
 BenGarrisonCumEdits
@@ -645,6 +648,7 @@ BlackPeopleComedy
 blackpeoplegifs
 BlackPeopleTwitter
 BlackPink
+Blacksmith
 BlackTemplars
 BladeAndSorcery
 BladeMains
@@ -1001,6 +1005,7 @@ CHIBears
 chicagobulls
 chickens
 ChickFilA
+ChickFilAWorkers
 CHICubs
 Chihuahua
 ChikaPH
@@ -1128,6 +1133,7 @@ CompetitiveApex
 CompetitiveHalo
 Competitiveoverwatch
 CompetitiveTFT
+CompetitiveWoW
 compoface
 computadores
 computers
@@ -1238,6 +1244,7 @@ CrusaderKings
 cryptocasino
 CryptoCurrency
 CryptoMoonShots
+CryptoTechnology
 crystalpalace
 cs2
 cscareerquestions
@@ -1257,6 +1264,7 @@ CursedGuns
 cursedimages
 cursedmemes
 cursedvideos
+CurseofStrahd
 customhearthstone
 custommagic
 cute
@@ -1399,6 +1407,7 @@ depression_memes
 depressionmeals
 DerScheisser
 desabafos
+Design
 DesignDesign
 DesignMyRoom
 DesignPorn
@@ -1766,6 +1775,7 @@ fcbayern
 FCCincinnati
 fcporto
 fednews
+Fedora
 feedthebeast
 feedthememes
 Feldup
@@ -1961,6 +1971,7 @@ funnyvideos
 furinamains
 furry_irl
 furrymemes
+FurryMultiverse
 fuseboxgames
 fut
 futbol
@@ -1984,6 +1995,7 @@ gamedev
 gamegrumps
 gameofthrones
 GamePhysics
+gamernews
 gamersupps
 gamesEcultura
 GameStop
@@ -2565,6 +2577,7 @@ IrishHistory
 irishrugby
 IRLEasterEggs
 ironmaiden
+ironmouse
 ironscape
 IronWarriors
 IrrationalMadness
@@ -3139,6 +3152,7 @@ massachusetts
 masseffect
 MassEffectMemes
 masterduel
+masterhacker
 MasterReturns
 Mastiff
 mathematics
@@ -3546,8 +3560,10 @@ nononono
 nonononoyes
 NonPoliticalTwitter
 nope
+norfolk
 norge
 NormMacdonald
+norske
 northdakota
 northernireland
 northernlion
@@ -3625,6 +3641,7 @@ OfflinetvGirls
 OffMyChestPH
 offset
 Ohio
+OhioMarijuana
 OhioStateFootball
 ohnePixel
 oilpainting
@@ -3654,6 +3671,7 @@ okbuddyvicodin
 okbuddyvowsh
 OkCupid
 okdraugedebile
+okemakkermaloot
 OkeyRakanMalaysia
 okhavermugbal
 OkHomo
@@ -3891,6 +3909,7 @@ phoebebridgers
 phoenix
 PhoenixSC
 photocritique
+photography
 photoshopbattles
 PhotoshopRequest
 Physics
@@ -4211,6 +4230,7 @@ retailhell
 RetroAR
 RetroFuturism
 retrogaming
+Rettungsdienst
 revancedapp
 Reverse1999
 reverseanimalrescue
@@ -4738,6 +4758,7 @@ stupidpol
 stupidquestions
 StVO
 subaru
+submarines
 submechanophobia
 subnautica
 SubwayCreatures
@@ -5207,6 +5228,7 @@ UK_Food
 ukdrill
 UKfood
 UKhiking
+UKJobs
 UKPersonalFinance
 ukraina
 ukraine
