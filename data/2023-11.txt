@@ -46,6 +46,7 @@
 7vsWild
 80s
 80smusic
+8outof10cats
 90DayFiance
 90dayfianceuncensored
 90s
@@ -433,6 +434,7 @@ auroramusic
 aus
 AusFinance
 ausjdocs
+AusLegal
 AusMemes
 AusPropertyChat
 AusRenovation
@@ -467,6 +469,7 @@ aviationmaintenance
 awesome
 AwesomeCarMods
 awfuleverything
+awoo
 aww
 Awwducational
 awwnverts
@@ -2248,6 +2251,7 @@ guitarporn
 guitars
 Gundam
 gundeals
+Gunime
 Gunners
 Gunpla
 gunpolitics
@@ -3424,6 +3428,7 @@ MoonPissing
 Morbius
 mordheim
 moreplatesmoredates
+MoriCalliope
 Morocco
 Morrowind
 MortalKombat
@@ -5039,6 +5044,7 @@ TF2fashionadvice
 tf2shitposterclub
 tf_irl
 tfc
+Thailand
 thalassophobia
 thane
 ThanksCyno
@@ -5054,6 +5060,7 @@ the1975
 The1980s
 The8BitRyanReddit
 The_Black_Tower
+The_Crew
 The_Leftorium
 The_Mueller
 THE_PACK
@@ -5538,6 +5545,7 @@ Warhammer
 Warhammer30k
 Warhammer40kEsp
 WarhammerFantasy
+warno
 WarplanePorn
 WarriorCats
 warriors
