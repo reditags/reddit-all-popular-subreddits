@@ -361,8 +361,10 @@ ArtDeco
 ArtefactPorn
 ArtHistory
 Arthur
+artificial
 Artisticallyill
 ArtPorn
+asaprocky
 Asexual
 asexualdating
 asexuality
@@ -1090,6 +1092,7 @@ CitiesSkylines2
 citypop
 CityPorn
 civ
+civic
 civilengineering
 CivVI
 CJPerry
@@ -1148,6 +1151,7 @@ ColoradoAvalanche
 coloradohikers
 ColoradoRockies
 ColoradoSprings
+coloranalysis
 Colorization
 Colts
 columbiamo
@@ -3288,6 +3292,7 @@ MayaJama
 maybemaybemaybe
 MayDayStrike
 mazda
+MBMBAM
 mbti
 mbtimemes
 McDonaldsEmployees
@@ -4216,6 +4221,7 @@ programiranje
 ProgrammerHumor
 programming
 programminghorror
+ProgressionFantasy
 progun
 Project_Wingman
 projectcar
@@ -4501,6 +4507,7 @@ salmahayek
 saltierthancrait
 saltierthankrayt
 SaltLakeCity
+Salvia
 Samadhi_Zendejas
 SamAndColby
 SameGrassButGreener
@@ -4998,6 +5005,7 @@ tacticalgear
 TacticalIssueCat
 taikonotatsujin
 Takagi_san
+takecareofmayaFree
 TalesFromDF
 talesfromtechsupport
 TalesFromTheFrontDesk
@@ -5737,6 +5745,7 @@ wiredpeople
 wirklichgutefrage
 wisconsin
 WisconsinBadgers
+Wiseposting
 witcher
 Witcher3
 WitchesVsPatriarchy
