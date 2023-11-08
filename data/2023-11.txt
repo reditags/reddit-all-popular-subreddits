@@ -223,6 +223,7 @@ AnarchyChess
 Anbennar
 AncestryDNA
 ancientrome
+Andjustlikethat
 andor
 andreyoung
 anesthesiology
@@ -1018,6 +1019,7 @@ chessbeginners
 chessindia
 CHIBears
 chicagobulls
+chicagofood
 chickens
 ChickFilA
 ChickFilAWorkers
@@ -1869,6 +1871,7 @@ FitAndNatural
 fitness30plus
 FitToFat
 fivenightsatfreddys
+fivethirtyeight
 fixedbytheduet
 FixedGearBicycle
 Flagrant2
@@ -2897,6 +2900,7 @@ lacamiseta
 Lackadaisy
 LAClippers
 ladiesinsuits
+LadiesofNickelodeon
 ladiesofthemcu
 LadiesOfWrestling
 ladyladyboners
@@ -3107,12 +3111,14 @@ macbookpro
 macgaming
 MachikadoMazoku
 MachineLearning
+MachinePorn
 Machinists
 MacMiller
 macsetups
 Madden
 MaddieZiegler1
 MadelainePetsch
+MadelineHope
 MadelynCline
 MadeMeCry
 MadeMeSmile
@@ -3973,6 +3979,7 @@ phillies
 philosophy
 PhilosophyMemes
 PhilosophyTube
+phineasandferb
 phish
 phmigrate
 PHMotorcycles
@@ -4023,6 +4030,7 @@ PlanetZoo
 PlantedTank
 PlantIdentification
 PlantsVSZombies
+PlathvilleUncensored
 playark
 playboicarti
 playrust
@@ -5154,6 +5162,7 @@ TingyunShrine
 Tinycatsinbigspaces
 TinyHouses
 TipOfMyFork
+tipofmytongue
 tippytaps
 titanfall
 titanic
@@ -5253,6 +5262,7 @@ troutfishing
 TruckerCats
 Truckers
 trucksim
+True_Kentucky
 TrueChristian
 TrueCrime
 TrueCrimeDiscussion
@@ -5285,6 +5295,7 @@ TuxedoCats
 TVTooHigh
 twentyonepilots
 twicemedia
+twicememes
 twilight
 TwinCities
 twinpeaks
