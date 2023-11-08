@@ -211,6 +211,7 @@ amIuglyBrutallyHonest
 amiwrong
 amogus
 Amoledbackgrounds
+AmongUs
 amphibia
 Amtrak
 AmyAdams
@@ -419,6 +420,7 @@ Astronomy
 Astros
 ATBGE
 ATEEZ
+AteistTurk
 atheism
 ATLA
 AtlantaHawks
@@ -834,6 +836,7 @@ bulgariaeu
 Bulldogs
 Bullshido
 BullTerrier
+bully
 Bumble
 buncomfortable
 Bundesliga
@@ -1066,6 +1069,7 @@ christmas
 ChristopherNolan
 ChronicPain
 chronotrigger
+Chucky
 ChurchOfFeMC
 ChurchOfKasumi
 ChurchofMarnie
@@ -1923,6 +1927,7 @@ fnki
 fnv
 fo4
 fo76
+FolkPunk
 FondantHate
 food
 foodbutforbabies
@@ -2154,6 +2159,7 @@ GirlsUndShitposts
 girlswithbigmuscles
 glasgow
 glee
+glitch_art
 GlitchProductions
 GlobalOffensive
 Glocks
@@ -2563,6 +2569,7 @@ indiameme
 Indiana
 indianajones
 indianapolis
+IndianArtAI
 indianbikes
 IndianBoysOnTinder
 indiancelebs
@@ -2757,6 +2764,7 @@ JingLiu
 jisoo
 jobs
 JoeBiden
+JoeBuddenPodcasts
 JoePera
 JoeRogan
 JoeyKing
@@ -2874,6 +2882,7 @@ KingCrimson
 Kingdom
 kingdomcome
 KingdomHearts
+kingdomrush
 KingkillerChronicle
 KingOfTheHill
 kings
@@ -3108,6 +3117,7 @@ lostmedia
 lostpause
 lostredditors
 lotr
+LOTR_on_Prime
 lotrmemes
 lotro
 louboutins
@@ -3174,6 +3184,7 @@ madlads
 MadMax
 MAFS_UK
 MAGANAZI
+Magic
 MagicArena
 MagicCardPulls
 MagicEye
@@ -4345,6 +4356,7 @@ redrising
 Reds
 redsox
 redstone
+RedvsBlue
 ReefTank
 regina
 regularshow
@@ -4491,6 +4503,7 @@ saltierthankrayt
 SaltLakeCity
 Samadhi_Zendejas
 SamAndColby
+SameGrassButGreener
 SamONellaAcademy
 samoyeds
 SamSulek
@@ -4948,6 +4961,7 @@ SupermodelCats
 Supernatural
 Superstonk
 superstore
+SuperStructures
 Supertf
 Supra
 surrealism
@@ -5413,6 +5427,7 @@ UFObelievers
 UFOs
 ufyh
 uichicago
+UIUC
 UK_Food
 ukdrill
 UKfood
@@ -5571,6 +5586,7 @@ vtmb
 VuvuzelaIPhone
 VyvanLe
 WagoonLadies
+Wales
 walkaway
 wallpaper
 wallstreetbets
