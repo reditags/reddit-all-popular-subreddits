@@ -388,6 +388,7 @@ AskElectricians
 AskFeminists
 AskFrance
 askgaybros
+AskGayMen
 AskHistorians
 AskHR
 askhungary
@@ -644,6 +645,7 @@ biglaw
 bih
 bihar
 bikecommuting
+bikedc
 Bikeporn
 BikiniBottomTwitter
 bikinitalk
@@ -792,6 +794,7 @@ Braves
 BravoRealHousewives
 Brawlhalla
 Brawlstars
+BrawlStarsCompetitive
 Brazil
 brdev
 Breadit
@@ -1356,6 +1359,7 @@ DakotaFanning
 Daliban
 Dallas
 dalle2
+dalmatians
 Damnthatsinteresting
 dancegavindance
 dancemoms
@@ -3015,6 +3019,7 @@ laptops
 LarissaManoelaa
 lastimages
 lastpodcastontheleft
+lastweektonight
 LasVegas
 LateStageCapitalism
 LateStageImperialism
@@ -3704,6 +3709,7 @@ nietdespeld
 NightInTheWoods
 NightLords
 Nightshift
+NightVision
 Nijisanji
 NikkeMobile
 NikkeOutpost
@@ -3917,6 +3923,7 @@ OnlyFaces
 OnlyMurdersHulu
 OnPatrolLive
 ontario
+OntarioNews
 OooBigStretch
 OopsDidntMeanTo
 OopsThatsDeadly
@@ -3945,6 +3952,7 @@ OrlandoMagic
 OrphanCrushingMachine
 orslokx
 Osana
+oscarrace
 OSHA
 OshiNoKoMemes
 osp
@@ -4335,6 +4343,7 @@ RachelPizzolato
 RachelZegler
 radiohead
 radioheadcirclejerk
+radradio
 ragdolls
 RaidenMains
 raiders
@@ -4561,6 +4570,7 @@ Salvia
 Samadhi_Zendejas
 SamAndColby
 SameGrassButGreener
+samharris
 SamONellaAcademy
 samoyeds
 SamSulek
@@ -5438,6 +5448,7 @@ TrueSwifties
 trump
 Trumpgret
 Trumpvirus
+truscum
 TsukiMichi
 TTSverse
 tuckedinkitties
@@ -5564,6 +5575,7 @@ USPS
 ussoccer
 USWNT
 Utah
+UTAustin
 uttarpradesh
 UtterlyBizarre
 UtterlyInteresting
