@@ -1199,6 +1199,7 @@ computers
 conan
 Concordia
 Concrete
+concursospublicos
 confession
 confessions
 confidentlyincorrect
@@ -1441,6 +1442,7 @@ deadmeatjames
 DeadSpace
 deathbattle
 DeathBattleMatchups
+DeathByMillennial
 Deathcore
 deathgrips
 deathguard40k
@@ -3573,6 +3575,7 @@ Mustang
 mutt
 MyChemicalRomance
 mycology
+myfavoritemurder
 MyHeroAcadamia
 mylittlepony
 MyNameIsBat
@@ -4102,6 +4105,7 @@ PHikingAndBackpacking
 philadelphia
 Philippines
 phillies
+PhillyUnion
 philosophy
 PhilosophyMemes
 PhilosophyTube
@@ -4464,6 +4468,7 @@ rickygervais
 ricohGR
 rienabranler
 RighteousGemstones
+rilakkuma
 rimesegate
 Rimuru
 RimWorld
@@ -4894,6 +4899,7 @@ spidermanps5
 spiders
 spideysightings
 Spielstopp
+spiritbox
 splatoon
 sploot
 spongebob
@@ -5032,6 +5038,7 @@ SupermanAndLois
 SuperMegaShow
 SupermodelCats
 Supernatural
+supersmashbros
 Superstonk
 superstore
 SuperStructures
@@ -5279,6 +5286,7 @@ TheStrokes
 TheSummerITurnedPrett
 thethickofit
 theticket
+TheTpGentleman
 TheTrumpZone
 TheTryGuys
 theunforgiven
@@ -5464,6 +5472,7 @@ TurkishCats
 TurkishCeleb
 TurkiyeCelebrity
 Turnip28
+turo
 turtle
 TuxedoCats
 TVTooHigh
