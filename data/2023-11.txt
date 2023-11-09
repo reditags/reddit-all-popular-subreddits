@@ -1710,6 +1710,7 @@ Eldenring
 EldenRingPVP
 ElderKings
 ElderScrolls
+elderscrollsonline
 ElectricalEngineering
 electricians
 ElectroBOOM
@@ -2376,6 +2377,7 @@ hardware
 hardwaregore
 harrypotter
 Harvard
+HARVESTELLA
 Hasan_Piker
 hatsune
 HauntedMound
@@ -4254,6 +4256,7 @@ porramauricio
 Porsche
 Portal
 PortlandOR
+Portmoody
 portugal
 PORTUGALCARALHO
 PORTUGALCYKABLYAT
@@ -4501,6 +4504,7 @@ RoAww
 RobloxAvatars
 RobloxHelp
 Rochester
+rocketbeans
 RocketLeague
 RocketLeagueEsports
 rockets
