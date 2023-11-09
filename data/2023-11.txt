@@ -464,6 +464,7 @@ AustralianMilitary
 AustralianNostalgia
 AustralianPolitics
 AustralianShepherd
+AustralianTeachers
 australianwildlife
 Austria
 autism
@@ -938,6 +939,7 @@ casetoomeme
 CashApp
 casio
 cassettefuturism
+CAStateWorkers
 castiron
 castlecrashers
 castles
@@ -1309,6 +1311,7 @@ CrusaderKings
 cryptocasino
 CryptoCurrency
 CryptoMoonShots
+CryptoOnchain
 CryptoTechnology
 crystalpalace
 cs2
@@ -1409,6 +1412,7 @@ DarkTide
 DarkViperAU
 darkwingsdankmemes
 DarlingInTheFranxx
+darwin
 DarwinAwards
 daschund
 dashcamgifs
@@ -1915,6 +1919,7 @@ FilmIndustryLA
 Filmmakers
 FilthyFrank
 FinalFantasy
+finalfantasytactics
 FinalFantasyVII
 finance
 Finanzen
@@ -2916,6 +2921,7 @@ KendrickLamar
 Kengan_Ashura
 Kenshi
 Kentucky
+Kenya
 KeqingMains
 Kerala
 KerbalSpaceProgram
@@ -3151,6 +3157,7 @@ lizgillies
 Locochon
 LodedDiper
 logh
+logodesign
 london
 londoncycling
 LondonUnderground
