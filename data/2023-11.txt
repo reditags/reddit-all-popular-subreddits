@@ -729,6 +729,7 @@ blunderyears
 blurrypicturesofcats
 blursed_videos
 BMW
+bmwmotorrad
 boardgames
 bobbystock
 BobsBurgers
@@ -786,6 +787,7 @@ BotanicalPorn
 Botchedsurgeries
 botecodoreddit
 bottlebrush
+botw
 boulder
 bouldering
 boutiquebluray
@@ -1475,6 +1477,7 @@ de_EDV
 DeadAhead
 deadbydaylight
 deadcells
+deadmalls
 deadmeatjames
 DeadSpace
 deadwood
@@ -3243,6 +3246,8 @@ Locochon
 LodedDiper
 logh
 logodesign
+loki
+LokiTV
 london
 londoncycling
 LondonUnderground
@@ -4581,6 +4586,7 @@ redstone
 RedvsBlue
 ReefTank
 regina
+regularcarreviews
 regularshow
 ReiAyanami
 ReinhardtMains
