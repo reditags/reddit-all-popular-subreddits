@@ -536,6 +536,7 @@ Bad_Cop_No_Donut
 badads
 badfriendspod
 badhistory
+badmathematics
 badMovies
 BadMtgCombos
 badroommates
@@ -1817,6 +1818,7 @@ EmiliaClarke
 emilyrudd
 Eminem
 emiru
+EmKay
 EmmaLangevin
 EmmaMackey
 EmmaMyers
@@ -2348,6 +2350,7 @@ GoldenAgeMinecraft
 Goldendoodles
 GoldenGirlsTV
 goldenknights
+goldenretriever
 goldenretrievers
 Goldfish
 goldrush
@@ -2857,6 +2860,7 @@ iphone
 iPhoneography
 iphonewallpapers
 ipl
+ipod
 iRacing
 ireland
 IrishHistory
@@ -3870,6 +3874,7 @@ NeedyStreamerOverload
 neekolul
 neekomains
 NelliesNest
+Nendoroid
 NeonGenesisEvangelion
 neopets
 neovim
@@ -4106,6 +4111,7 @@ oknotizie
 okoidawappler
 okprietenretardat
 Old_Recipes
+oldbritishtelly
 Oldhouses
 OldManDad
 OldManDog
@@ -4439,6 +4445,7 @@ pokemonradicalred
 PokemonROMhacks
 PokemonScarletViolet
 PokemonSleep
+PokemonSleepBetter
 PokemonSwordAndShield
 PokemonTCG
 PokemonUnite
@@ -4712,6 +4719,7 @@ rescuedogs
 ReservationDogs
 Residency
 residentevil
+residentevil4
 resinprinting
 resumes
 retailhell
@@ -5581,6 +5589,7 @@ ThePPShow
 thepunchlineisracism
 thepunisher
 TheRandomest
+TherapeuticKetamine
 TheRatEmpire
 TheRealJoke
 TheRedDotComic
