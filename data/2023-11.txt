@@ -319,6 +319,7 @@ ApexLore
 ApexOutlands
 Apexrollouts
 ApexUncovered
+aphextwin
 apolloapp
 apple
 appletv
@@ -493,6 +494,7 @@ aves
 avfc
 aviation
 aviationmaintenance
+avrillavigne
 awesome
 AwesomeCarMods
 awfuleverything
@@ -1087,6 +1089,7 @@ Chennai
 chernobyl
 chessbeginners
 chessindia
+ChevySS
 CHIBears
 chicagobulls
 chicagofood
@@ -2490,6 +2493,7 @@ heroesofthestorm
 HeroForgeMinis
 herpetology
 hessich_iel
+hewillbebaked
 HeyArnold
 heyUK
 HFY
@@ -3778,6 +3782,7 @@ nbacirclejerk
 nbadiscussion
 Nbamemes
 NBASpurs
+NBAYoungboy
 NCAAFBseries
 NCAAgirls
 NCT
@@ -4823,6 +4828,7 @@ SeattleWA
 secilmiskitap
 SecondWindGroup
 secretcompartments
+securityguards
 seeyounextyear
 seinfeld
 SeishunButaYarou
@@ -5637,6 +5643,7 @@ treelaw
 trees
 tressless
 tretinoin
+trippieredd
 trippinthroughtime
 trishapaytas
 TrixieMattel
@@ -5734,7 +5741,9 @@ ukmedicalcannabis
 UKPersonalFinance
 ukraina
 ukraine
+Ukraine_UA
 UkraineConflict
+UkraineInvasionVideos
 UkraineWarVideoReport
 UkrainianConflict
 uktrains
@@ -5882,6 +5891,7 @@ vlandiya
 Vocaloid
 Voicesofthevoid
 void_memes
+VoidCake
 VoidCats
 Volkswagen
 VolleyballGirls
