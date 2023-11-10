@@ -153,6 +153,7 @@ aivideo
 AIVoiceMemes
 aiyu
 AjaxAmsterdam
+AJR
 ak47
 Alabama
 AlanBecker
@@ -195,6 +196,7 @@ AltFashion
 AlzheimersGroup
 Alzwards_Corner
 AMA
+AmandaSeyfriedOnline
 AmateurRoomPorn
 AmazonDSPDrivers
 AmazonFC
@@ -695,6 +697,7 @@ Birmingham
 birthday
 bisexual
 BisexualTeens
+BitLifeApp
 bizarrelife
 bjj
 bjork
@@ -1267,6 +1270,7 @@ conservativeterrorism
 Consoom
 conspiracy
 conspiracy_commons
+conspiracytheories
 Construction
 consulting
 ContagiousLaughter
@@ -1305,6 +1309,7 @@ cowboybebop
 cowboys
 cowcats
 Cows
+coybig
 coys
 cozy
 CozyGamers
@@ -1720,6 +1725,7 @@ Dublin
 Ducati
 duck
 ducks
+DuelLinks
 DuggarsSnark
 dumplingmeme
 DumpsterDiving
@@ -1918,6 +1924,7 @@ FamilyMedicine
 famoseworte
 FamousFaces
 FamousLatinas
+Fancast
 FanFiction
 FansHansenvsPredator
 fantanoforever
@@ -2129,6 +2136,7 @@ Frugal
 frugalmalefashion
 Fruitbatcats
 FrutigerAero
+fsusports
 FTMMen
 fuckcars
 FuckCarscirclejerk
@@ -2291,6 +2299,7 @@ girls_smiling
 girlsfrontline
 girlsgonewired
 GirlsLastTour
+GirlsSoccer
 GirlsTennis
 GirlsUndShitposts
 girlswithbigmuscles
@@ -2372,6 +2381,7 @@ graz
 GreatBritishBakeOff
 GreatBritishMemes
 greatdanes
+GreatLakesShipping
 GreatnessOfWrestling
 greatpyrenees
 greebles
@@ -2473,6 +2483,7 @@ Hardtailgang
 hardware
 hardwaregore
 harrypotter
+HarryPotterBooks
 Harvard
 HARVESTELLA
 Hasan_Piker
@@ -3026,6 +3037,7 @@ KatherynWinnick
 KathrynNewton
 katyperry
 KayAdams
+Kayaking
 KaynMains
 Kazumin
 KCRoyals
@@ -3053,6 +3065,7 @@ kettlebell
 kfeets
 KGATLW
 KGBTR
+khiphop
 Khyleri
 KidCudi
 KidsAreFuckingStupid
@@ -3274,6 +3287,7 @@ LinusTechTips
 linux
 linux_gaming
 linuxmasterrace
+lisboa
 liseliler
 listentothis
 lithuania
@@ -3287,6 +3301,7 @@ LivestreamFail
 LivMorgan
 lizgillies
 Locochon
+locs
 LodedDiper
 logh
 logodesign
@@ -3973,6 +3988,7 @@ nova
 NovaScotia
 noveltranslations
 nowmycat
+noworking
 NPPfunny
 NPR
 nrl
@@ -5102,6 +5118,7 @@ SoulCalibur
 souleater
 SoulKnight
 SoundersFC
+soup
 sousvide
 southcarolina
 Southerncharm
@@ -6008,6 +6025,7 @@ waterloo
 Wavyhair
 WCW
 WeAreAllTurks
+web_design
 webcomics
 webdev
 Webkinz
