@@ -732,6 +732,7 @@ BMW
 bmwmotorrad
 boardgames
 bobbystock
+BobDoesSports
 BobsBurgers
 BobsTavern
 BocaJuniors
@@ -1794,6 +1795,7 @@ ems
 Endfield
 EndlessWar
 enem
+energy
 energydrinks
 EnergyINTEL
 EngagementRings
@@ -2632,6 +2634,7 @@ IdiotsInCars
 IdiotsNearlyDying
 IdiotsOnBikes
 Idiotswithguns
+IDmydog
 IDONTGIVEASWAG
 IDontWorkHereLady
 IFFans
@@ -4274,6 +4277,7 @@ piano
 Picard
 PickleFinancial
 pics
+pidgeypower
 piercing
 PietSmiet
 pigeon
@@ -5027,6 +5031,7 @@ SomeOrdinaryGmrs
 somethingimade
 SommerRay
 SonicTheHedgehog
+SonnyAngel
 SonoBisqueDoll
 Sonsofanarchy
 SonyAlpha
@@ -6002,6 +6007,7 @@ WhiskerFireworks
 whiskey
 WhiteCats
 whitecoatinvestor
+whitepeoplegifs
 WhitePeopleTwitter
 WhiteRose
 WhiteScars40K
