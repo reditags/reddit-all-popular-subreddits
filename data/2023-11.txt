@@ -34,6 +34,7 @@
 3Dmodeling
 3Dprinting
 3DS
+40k
 40kLore
 40kmemes
 49ers
@@ -659,6 +660,7 @@ Bestbuy
 bestconspiracymemes
 bestof
 bestoflegaladvice
+bestofpositiveupdates
 bestoftheinternet
 bettafish
 betterCallSaul
@@ -671,6 +673,7 @@ bi_irl
 BiancaBelair
 bicycling
 BicyclingCirclejerk
+BidenIsNotMyPresident
 bigbang
 bigbangtheory
 bigboobproblems
@@ -1488,6 +1491,7 @@ dankmeme
 dankmemes
 DankMemesFromSite19
 DankPods
+DankPrecolumbianMemes
 dankrishu
 dankruto
 dankvideos
@@ -2091,8 +2095,10 @@ fivenightsatfreddys
 fivethirtyeight
 fixedbytheduet
 FixedGearBicycle
+FL_Studio
 Flagrant2
 Flamepoints
+flashlight
 FlashTV
 Fleabag
 FleshEaterCourts
@@ -3802,6 +3808,7 @@ Monsterverse
 montreal
 MoonPissing
 mopar
+MorbidWaysToDie
 Morbius
 mordheim
 moreplatesmoredates
@@ -4775,6 +4782,7 @@ redrising
 Reds
 redsox
 redstone
+RedVelvet_Hotties
 RedvsBlue
 ReefTank
 regina
@@ -5369,6 +5377,7 @@ SteamDeck
 SteamDeckModded
 steelers
 steinsgate
+StellarCannaCoin
 Stellaris
 StellarisMemes
 stephenking
@@ -5572,6 +5581,7 @@ TeslaLounge
 TeslaModel3
 teslamotors
 teslareferralcode
+Testosterone
 Texans
 texas
 TexasChainsawGame
@@ -5959,6 +5969,7 @@ UIUC
 UK_Food
 ukdrill
 UKfood
+UKGardening
 UKhiking
 UKJobs
 ukmedicalcannabis
@@ -6125,6 +6136,7 @@ Volkswagen
 VolleyballGirls
 Volumeeating
 Volvo
+Vonnegut
 VoteDEM
 voyager
 VRchat
