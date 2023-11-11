@@ -1705,6 +1705,7 @@ doomfistmains
 doordash
 doordash_drivers
 Doppleganger
+Doraemon
 Dorohedoro
 DotA2
 DottoreMains
@@ -1848,6 +1849,7 @@ EmmaMackey
 EmmaMyers
 EmmaRoseKenney
 EmmaStone
+EmmaStone_Worship
 EmmaWatson
 EmmyRossum
 Emo
@@ -4862,6 +4864,7 @@ RunningCirclejerk
 runningman
 RunNYC
 rupaulsdragrace
+rurusama
 rusAskReddit
 rush
 russellbrand
@@ -5675,6 +5678,7 @@ TheSummerITurnedPrett
 thethickofit
 theticket
 TheTpGentleman
+thetron
 TheTrumpZone
 TheTryGuys
 theunforgiven
