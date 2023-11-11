@@ -409,6 +409,7 @@ ask
 AskAGerman
 AskAnAustralian
 AskAShittyMechanic
+askastronomy
 AskBalkans
 askcarsales
 AskDocs
@@ -2152,6 +2153,7 @@ footballmemes
 foraging
 ForAllMankindTV
 forbiddensnacks
+Ford
 FordBronco
 FordMaverickTruck
 fordranger
@@ -2671,6 +2673,7 @@ homeautomation
 Homebuilding
 HomeDecorating
 HomeDepot
+homegym
 homelab
 homeless
 HomeMaintenance
@@ -2930,6 +2933,7 @@ Invincible
 Invisalign
 ios
 iOSBeta
+iosgaming
 Iowa
 iphone
 iPhoneography
@@ -4217,6 +4221,7 @@ oklahoma
 okmatewanker
 oknotizie
 okoidawappler
+okpolarncp
 okprietenretardat
 Old_Recipes
 oldbritishtelly
@@ -6051,6 +6056,7 @@ unusual_whales
 UnusualVideos
 unvaccinated
 uofm
+upcycling
 UpliftingNews
 UploadTV
 UPSC
