@@ -327,6 +327,7 @@ ApexUncovered
 aphextwin
 apolloapp
 apple
+applestorequeenv2
 appletv
 AppleWatch
 ApplyingToCollege
@@ -622,6 +623,7 @@ beautytalkph
 BeavisAndButthead
 beberexha
 BeckyG
+BeckyLynch
 BeelcitosMemes
 beermoney
 beetle
@@ -926,6 +928,7 @@ cakedecorating
 cakefails
 CalamariRaceTeam
 CalamityMod
+calculus
 Calgary
 CalgaryFlames
 CaliBanging
@@ -1147,6 +1150,7 @@ ChristopherNolan
 ChronicPain
 chronotrigger
 Chucky
+ChurchOfEula
 ChurchOfFeMC
 churchofharu
 ChurchOfKasumi
@@ -1369,7 +1373,9 @@ crowbro
 crows
 crtgaming
 CrueltySquad
+CrumblCookies
 CrusaderKings
+crusaderkings3
 cryptocasino
 CryptoCurrency
 CryptoMoonShots
@@ -1412,6 +1418,7 @@ Cyberpunk
 cyberpunkgame
 cybersecurity
 cybertruck
+cycling
 CynoMains
 czech
 czechmemes
@@ -1863,6 +1870,7 @@ Entrepreneur
 entwives
 EpicSeven
 equestriaatwar
+Equestrian
 Eragon
 Eredivisie
 ErgoMechKeyboards
@@ -1886,6 +1894,7 @@ europe
 europeanunion
 eurovision
 EuSouOBabaca
+EvaGreen
 evangelion
 evangelionmemes
 Eve
@@ -2056,6 +2065,7 @@ flightsim
 floggit
 flonkers
 Floof
+Flooring
 Florence_Pugh
 florida
 FloridaGators
@@ -2889,6 +2899,7 @@ ITAGLIA
 Italia
 ItaliaMeme
 Italian
+ItalianGreyhounds
 ItaliaPersonalFinance
 italy
 ItalyInformatica
@@ -2915,6 +2926,7 @@ jackass
 jacketsforbattle
 jackrussellterrier
 JacksFilms
+jacksonville
 JackSucksAtGeography
 jadecargill
 Jaguars
@@ -3058,6 +3070,7 @@ KatherineMcNamara
 KatherynWinnick
 KathrynNewton
 katyperry
+Kawasaki
 KayAdams
 Kayaking
 KaynMains
@@ -3266,6 +3279,7 @@ Leica
 lele_pons
 lemauvaiscoin
 LEMMiNO
+LengfOrGirf
 LeniKlum
 leopardgeckos
 LeopardsAteMyFace
@@ -3318,6 +3332,7 @@ listentothis
 lithuania
 littlebigplanet
 littlehouseonprairie
+LittleNightmares
 LittleWitchAcademia
 LiveFromNewYork
 Liverpool
@@ -3604,6 +3619,7 @@ mensfashion
 MensLib
 Mensmittenwithkittens
 MensRights
+mentalhealth
 menwritingwomen
 MEOW_IRL
 mercedes_benz
@@ -3733,6 +3749,7 @@ MonsterHunterWorld
 Monsterverse
 montreal
 MoonPissing
+mopar
 Morbius
 mordheim
 moreplatesmoredates
@@ -3872,6 +3889,7 @@ Necrontyr
 nederlands
 NederlandseMemes
 needforspeed
+Needlefelting
 NeedyStreamerOverload
 neekolul
 neekomains
@@ -5203,6 +5221,7 @@ Spielstopp
 spiritbox
 splatoon
 sploot
+Spokane
 spongebob
 Spore
 SportingKC
@@ -5297,6 +5316,7 @@ StoppedWorking
 stories
 Stormgate
 Stormlight_Archive
+StormReidMaybe
 Stormworks
 StrangeAndFunny
 StrangeEarth
@@ -5346,6 +5366,7 @@ Superligaen
 superman
 SupermanAdventures
 SupermanAndLois
+supermariologan_
 SuperMegaShow
 SupermodelCats
 Supernatural
@@ -5376,6 +5397,7 @@ SWlegion
 swordartonline
 SWORDS
 swtor
+SWTOR_memes
 sydnee_goodman
 sydneyswans
 SydneySweeney
@@ -5543,6 +5565,7 @@ TheDonaldTrump2024
 TheDragonPrince
 TheDreamAcademy
 TheEminenceInShadow
+TheeOhSees
 TheExpanse
 TheFarSide
 TheFence
@@ -5754,6 +5777,7 @@ TransMasc
 Transmogrification
 transplace
 TransportFever2
+transvoice
 TrapCuties
 trashpandas
 TrashTaste
@@ -5768,6 +5792,7 @@ tretinoin
 trippieredd
 trippinthroughtime
 trishapaytas
+TristinMays
 TrixieMattel
 TrollCoping
 trolleyproblem
@@ -6175,6 +6200,7 @@ WiggleButts
 wikipedia
 wildcampingintheuk
 WildernessBackpacking
+Wildfire
 wildhearthstone
 wildhockey
 wildlifephotography
@@ -6295,6 +6321,7 @@ yesyesyesno
 yesyesyesyesno
 YigaClanOfficial
 yimby
+YMS
 yo_ctm
 YofukashiNoUta
 yoga
