@@ -218,6 +218,7 @@ AmericanHorrorStory
 AMG
 Amigurumi
 AmIHotSFW
+AmITheAngel
 AmItheAsshole
 AmITheBadApple
 AmItheButtface
@@ -748,6 +749,7 @@ blop
 Bloxburg
 bloxfruits
 bloxymemes
+BlueJackets
 BlueLock
 BlueRyai
 bluesguitarist
@@ -1037,6 +1039,7 @@ catpics
 catpictures
 CATpreparation
 cats
+CatsAndDogsBFF
 CatsAreAssholes
 catsareliquid
 CatsBeingCats
@@ -1078,6 +1081,7 @@ CelebsPH
 CelebWivesofNashville
 celestegame
 celestememes
+CelineFarach
 cellbits
 CelticFC
 CemeteryPorn
@@ -1120,6 +1124,7 @@ ChatGPTPro
 chats
 Chattanooga
 chch
+Cheers
 Cheese
 chelseafc
 ChemicalEngineering
@@ -1285,6 +1290,7 @@ conan
 Concordia
 Concrete
 concursospublicos
+ConeHeads
 confession
 confessions
 confidentlyincorrect
@@ -3392,6 +3398,7 @@ loki
 LokiTV
 london
 londoncycling
+londonontario
 LondonUnderground
 LoneStarGhetto
 longbeach
@@ -3719,6 +3726,7 @@ MillyAlcock
 milsurp
 milwaukee
 MilwaukeeTool
+MimiKeene
 Mimosa
 mimovi
 mina_irl
@@ -4273,6 +4281,7 @@ osp
 osr
 OSU
 osugame
+OSWReview
 OTMemes
 otomegames
 OtomeIsekai
@@ -4719,6 +4728,7 @@ RATM
 Ratorix
 RATS
 Ratschlag
+ratterriers
 RavenGuard40k
 ravens
 rawdenim
@@ -5350,6 +5360,7 @@ starwarsrebels
 starwarsspeculation
 Staryuukisincensura
 StassieBaby
+STAYC
 stbernards
 steak
 Steam
@@ -5649,6 +5660,7 @@ TheInbetweeners
 theJoeBuddenPodcast
 TheKillers
 TheKM
+TheKonsey
 TheLastAirbender
 thelastofus
 ThelastofusHBOseries
@@ -6133,6 +6145,7 @@ walmart
 WalmartCanada
 WaltDisneyWorld
 wankil
+war
 warcraft3
 warcraftrumble
 Warframe
@@ -6350,6 +6363,7 @@ WTF
 wuerzburg
 wunkus
 wutang
+ww2
 ww2memes
 WWE
 WWFC
