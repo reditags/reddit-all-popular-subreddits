@@ -437,6 +437,7 @@ AskReddit
 askscience
 AskScienceFiction
 askSingapore
+askSouthAfrica
 AskThe_Donald
 askTO
 asktransgender
@@ -2721,6 +2722,7 @@ HoosiersBasketball
 hopeposting
 Horimiya
 horizon
+HorizonForbiddenWest
 Hornyjail
 horror
 Horses
@@ -3943,6 +3945,7 @@ mylittlepony
 MyNameIsBat
 MyouiMina
 MyPeopleNeedMe
+myronkoops_
 mysore
 mystery
 MysteryDungeon
