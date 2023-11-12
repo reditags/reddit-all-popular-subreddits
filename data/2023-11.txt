@@ -770,6 +770,7 @@ blurrypicturesofcats
 blursed_videos
 BMW
 bmwmotorrad
+bmx
 boardgames
 bobbystock
 BobDoesSports
@@ -1179,6 +1180,7 @@ christinahendricks
 ChristinaMilian
 christmas
 ChristopherNolan
+ChronicIllness
 ChronicPain
 chronotrigger
 Chucky
@@ -1700,6 +1702,7 @@ DMZ
 DnB
 DnD
 DnDcirclejerk
+DnDHomebrew
 dndmaps
 dndnext
 Doberman
@@ -1808,6 +1811,7 @@ dutch
 dwarffortress
 dyinglight
 DylanteroYT
+dynamo
 DynastyFF
 EA_NHL
 earlsweatshirt
@@ -1861,6 +1865,7 @@ ElectricalEngineering
 electricians
 ElectroBOOM
 electronicmusic
+electronics
 Elephants
 EliteDangerous
 ElizabethOlsen
@@ -2609,6 +2614,7 @@ HeinousHumanity
 Helicopters
 HellLetLoose
 HelloKitty
+HelloKittyIsland
 HellsKitchen
 hellsomememes
 Helltaker
@@ -3389,6 +3395,7 @@ lifeguardkitties
 lifehacks
 LifeProTips
 LigaMX
+lightsabers
 LilGrabbies
 lilireinhart
 LilPeep
@@ -4942,6 +4949,7 @@ runescape
 running
 RunningCirclejerk
 runningman
+RunningShoeGeeks
 RunNYC
 rupaulsdragrace
 rurusama
