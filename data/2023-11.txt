@@ -436,6 +436,7 @@ AskLE
 askmath
 AskMechanics
 AskMen
+AskMeuf
 AskMiddleEast
 AskOuija
 AskPH
@@ -1571,6 +1572,7 @@ datingoverforty
 datingoverthirty
 DaveChappelle
 DavetheDiverOfficial
+davidgoggins
 davidlynch
 davidtennant
 DaysGone
@@ -1806,6 +1808,7 @@ dreifragezeichen
 dresden
 DrewDurnil
 DrewGooden
+Drifting
 drivingUK
 Drizzy
 DrMartens
@@ -2203,6 +2206,7 @@ footballmanagergames
 footballmemes
 foraging
 ForAllMankindTV
+forbiddenboops
 forbiddensnacks
 Ford
 FordBronco
@@ -5368,6 +5372,7 @@ soccercirclejerk
 socialanxiety
 socialism
 SocialismIsCapitalism
+SocialistGaming
 SocialistRA
 socialskills
 SofiaVergara
@@ -5615,6 +5620,7 @@ SVU
 SweatyPalms
 sweden
 SWGalaxyOfHeroes
+SwiftieMerch
 Switch
 Switzerland
 SWlegion
@@ -5766,6 +5772,7 @@ The1980s
 The8BitRyanReddit
 The_Black_Tower
 The_Crew
+the_darnold
 The_Dennis
 The_Leftorium
 The_Mueller
@@ -6549,6 +6556,7 @@ WWE
 WWFC
 wwiipics
 WWIIplanes
+xayahmains
 xbiking
 xbox
 xbox360
