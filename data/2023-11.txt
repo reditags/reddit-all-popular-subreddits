@@ -485,6 +485,7 @@ AusFinance
 ausjdocs
 AusLegal
 AusMemes
+AusProperty
 AusPropertyChat
 AusRenovation
 AussieFrugal
@@ -5255,6 +5256,7 @@ skyscrapers
 SlavaUkrayini
 slaytheprincess
 slaythespire
+Slayypoint
 SleepingCats
 SleepToken
 Sleepycabin
