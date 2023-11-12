@@ -1643,6 +1643,7 @@ devsarg
 dewrim
 dezwo
 DHHMemes
+DHMIS
 diabetes
 Diablo
 diablo2
@@ -1972,6 +1973,7 @@ ExtremeCarCrashes
 extremelyinfuriating
 Eyebleach
 Eyebrows
+f150
 F1Brasil
 F1Game
 F1NN5TER
@@ -3462,6 +3464,7 @@ lotr
 LOTR_on_Prime
 lotrmemes
 lotro
+lotus
 louboutins
 Louisiana
 Louisville
@@ -3783,6 +3786,7 @@ minnesota
 minnesotatwins
 minnesotavikings
 mintuit
+mirrorsedge
 misfits
 missbricosplay
 MissingOrSpareParts
@@ -3795,6 +3799,7 @@ MitchellAndWebb
 mitski
 MixedRaceGirls
 MiyooMini
+miz
 Mizkif
 MkeBucks
 mlb
@@ -5301,6 +5306,7 @@ sousvide
 southcarolina
 Southerncharm
 SouthwestAirlines
+Sovereigncitizen
 SovietWomble
 space
 SpaceCannibalism
@@ -5499,6 +5505,7 @@ Supertf
 Supra
 surrealism
 surrealmemes
+SurvivalGaming
 survivinginfidelity
 survivor
 sushi
@@ -5643,6 +5650,7 @@ thane
 ThanksCyno
 thanksgiving
 thanksihateit
+thanksimcured
 thanosdidnothingwrong
 That70sshow
 thatHappened
@@ -6351,6 +6359,7 @@ WILTY
 wimmelbilder
 windows
 Windows11
+wine
 Wings
 WingsOfFire
 WinningTime
