@@ -3420,6 +3420,7 @@ legalcatadvice
 legendofdragoon
 legendofkorra
 LegendsOfRuneterra
+LegendsOfTomorrow
 LegionsImperialis
 LegitCheck
 lego
@@ -4121,6 +4122,7 @@ NewParents
 NewPatriotism
 NewRoryNMalPodcast
 news
+NewSkaters
 NewsOfTheStupid
 NewsWithJingjing
 NewVegasMemes
@@ -4588,6 +4590,7 @@ phmigrate
 PHMotorcycles
 phoebebridgers
 phoenix
+PhoenixRisingFC
 PhoenixSC
 photocritique
 photography
@@ -5627,6 +5630,7 @@ Supertf
 Supra
 surrealism
 surrealmemes
+SurreyBC
 SurvivalGaming
 survivinginfidelity
 survivor
@@ -5862,6 +5866,7 @@ thelongdark
 TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
+TheMassive
 TheMcDojoLife
 TheMonkeysPaw
 TheMorningToastSnark
@@ -5907,6 +5912,7 @@ TheTryGuys
 theunforgiven
 TheVampireDiaries
 theviralthings
+TheVirginZone
 thevoidz
 thewalkingdead
 TheWalkingDeadGame
