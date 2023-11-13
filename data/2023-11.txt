@@ -768,6 +768,7 @@ Blasphemous
 BlatantMisogyny
 blaulicht
 bleach
+BleachBraveSouls
 blender
 Blep
 blessedimages
@@ -3648,6 +3649,7 @@ MakeMeSuffer
 MakeNewFriendsHere
 Makeup
 MakeupAddiction
+MakeupLounge
 makeyourchoice
 MalaikaTerry
 MalayalamMovies
@@ -5007,6 +5009,7 @@ riodejaneiro
 ripcity
 risa
 riskofrain
+Rivenmains
 Rivian
 Roadcam
 roadtrip
@@ -5059,6 +5062,7 @@ RSA
 rspod
 RTGameCrowd
 rugbyunion
+runefactory
 runescape
 running
 RunningCirclejerk
