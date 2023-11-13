@@ -77,6 +77,7 @@ absolutelynotme_irl
 absolutelynotmeirl
 AbsoluteUnits
 Absurdism
+ac_newhorizons
 ACAB
 Acceleracers
 AccidentalAlly
@@ -1918,6 +1919,7 @@ electricians
 ElectroBOOM
 electronicmusic
 electronics
+Elektroinstallation
 Elephants
 EliteDangerous
 ElizabethOlsen
@@ -2355,6 +2357,7 @@ galatasaray
 GalaxysEdge
 GalGadot
 gallifrey
+galway
 Gambiarra
 Gameboy
 gamecollecting
@@ -2663,6 +2666,7 @@ Hasan_Piker
 hatsune
 HauntedMound
 HauntingOfHillHouse
+Haustiere
 Havanese
 hawks
 haydenpanettiere
@@ -2995,6 +2999,7 @@ instant_regret
 instantbarbarians
 instantkarma
 insurgency
+intel
 IntellectualDarkWeb
 interesting
 interestingasfuck
@@ -3011,6 +3016,7 @@ internettoday
 interstellar
 InterviewVampire
 inthenews
+INTJmemes
 IntoTheSpiderverse
 intresseklubben
 introvert
@@ -3413,6 +3419,7 @@ LeaksDBD
 leanbeefpatty
 LearmannTwins
 LearnJapanese
+learnpolish
 learnprogramming
 learntodraw
 LearnUselessTalents
@@ -4070,6 +4077,7 @@ NationalPark
 NativePlantGardening
 nattyorjuice
 nature
+natureisbeautiful
 NatureIsFuckingCute
 NatureIsFuckingLit
 natureismetal
@@ -5432,6 +5440,7 @@ SofiaVergara
 softwaregore
 sohee
 solana
+solanabitcoin
 solar
 solarpunk
 sololeveling
@@ -6398,6 +6407,7 @@ wargame
 Warhammer
 Warhammer30k
 Warhammer40kEsp
+WarhammerCompetitive
 WarhammerFantasy
 warno
 WarplanePorn
