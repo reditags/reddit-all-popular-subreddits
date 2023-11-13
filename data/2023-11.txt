@@ -1096,6 +1096,7 @@ Catsmirin
 CatsNamedToothless
 catsofrph
 catsofukraine
+CatsOnPizza
 CatsStandingUp
 CatsWhoConverse
 CatsWhoSmoke
@@ -1697,6 +1698,7 @@ devinbrugman
 devops
 devsarg
 dewrim
+Dexter
 dezwo
 DHHMemes
 DHMIS
@@ -3844,6 +3846,7 @@ mexicanfood
 MexicanMemes
 mexico
 MexicoCity
+Mexicowave
 mfdoom
 MGRmemes
 MHNowGame
@@ -6111,6 +6114,7 @@ transgamers
 transgender
 transit
 TransLater
+translator
 TransMasc
 Transmogrification
 transplace
