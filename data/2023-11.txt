@@ -1256,6 +1256,7 @@ ClassConscienceMemes
 classiccars
 ClassicDesiCelebs
 ClassicDesiCool
+classicfallout
 ClassicRock
 classicsoccer
 classicwow
@@ -2831,6 +2832,7 @@ humansarespaceorcs
 HumansBeingBros
 humblebundles
 Humboldt
+hummingbirds
 hungarian
 hungary
 Hungergames
@@ -3289,6 +3291,7 @@ KGATLW
 KGBTR
 khiphop
 Khyleri
+kia
 KidCudi
 KidsAreFuckingStupid
 KiernanBrennanShipka
@@ -3885,6 +3888,7 @@ mildlyinteresting
 Mildlynomil
 mildlypenis
 mildlyterrifying
+MildlyVandalised
 MileHigherPodcast
 milesprower
 MilitaryPorn
@@ -5924,6 +5928,7 @@ thegrandtour
 TheGreatNorth
 TheGriffonsSaddlebag
 TheHague
+TheHillsMTV
 TheInbetweeners
 theJoeBuddenPodcast
 TheKillers
@@ -6044,6 +6049,7 @@ tinyorangekittens
 TipOfMyFork
 tipofmytongue
 tippytaps
+Tiresaretheenemy
 titanfall
 titanic
 tja
