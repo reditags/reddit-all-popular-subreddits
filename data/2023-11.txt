@@ -348,6 +348,7 @@ AOC
 aoe2
 aoe4
 Apartmentliving
+ape
 apexlegends
 ApexLore
 ApexOutlands
@@ -1743,6 +1744,7 @@ Dinosaure
 Dinosaurs
 DiovanaKoni
 Dipcifica
+diplomaschooling
 Dirtbikes
 discgolf
 disclosureparty
@@ -2760,6 +2762,7 @@ HIMYM
 HindiMemes
 hinduism
 hindumemes
+hiphoptr
 hiphopvinyl
 HistoricalCostuming
 HistoricalRomance
@@ -3016,6 +3019,7 @@ indieheads
 indieheadscirclejerk
 indonesia
 IndoorGarden
+Indore
 industrialmusic
 INDYCAR
 infamous
@@ -4484,6 +4488,7 @@ OnlyMurdersHulu
 OnPatrolLive
 ontario
 OntarioNews
+oompasubs
 OooBigStretch
 OopsDidntMeanTo
 OopsThatsDeadly
@@ -4567,6 +4572,7 @@ Palia
 PallasCats
 palmeiras
 PalmettoStateArms
+PampamilyangPaoLUL
 Panarab
 Pandabuy
 PandR
@@ -5740,6 +5746,7 @@ sunraybee
 suns
 sunset
 Superbowl
+superjueves
 superlig
 Superligaen
 superman
@@ -6477,6 +6484,7 @@ Voicesofthevoid
 void_memes
 VoidCake
 VoidCats
+Volksverpetzer
 Volkswagen
 VolleyballGirls
 Volumeeating
