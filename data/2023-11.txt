@@ -359,6 +359,7 @@ aphextwin
 apolloapp
 appiememes
 apple
+AppleMusic
 applestorequeenv2
 appletv
 AppleWatch
@@ -434,6 +435,7 @@ AsianTikTokGirls
 ask
 AskAGerman
 AskAnAustralian
+AskArgentina
 AskAShittyMechanic
 askastronomy
 AskBalkans
@@ -1047,6 +1049,7 @@ CaraDelevingne
 carbonsteel
 carcrash
 Cardinals
+Cardven
 careerguidance
 CARiverPlate
 CarlaMedrano
@@ -1112,6 +1115,7 @@ CatsCalledFood
 catscarryingstuffies
 CatsEnjoyingPets
 CatsInBusinessAttire
+CatsInSinks
 CatSlaps
 CatSmiles
 Catsmirin
@@ -1889,6 +1893,7 @@ DumpsterDiving
 DunderMifflin
 dune
 dunememes
+DungeonCrawlerCarl
 DungeonMeshi
 DungeonsAndDaddies
 DungeonsAndDragons
@@ -2396,6 +2401,7 @@ GAA
 GachaClub
 gachagaming
 gadgets
+GakiNoTsukai
 galatasaray
 GalaxysEdge
 GalGadot
@@ -2638,6 +2644,7 @@ guineapigs
 Guitar
 GuitarAmps
 guitarcirclejerk
+guitarlessons
 guitarporn
 guitars
 Gundam
@@ -2748,6 +2755,7 @@ Helltaker
 HelluvaBoss
 HelluvaBossFanArt
 Helluvabossmemes
+help
 HelpMeFind
 HelpMeFindThis
 HermanCainAward
@@ -3837,6 +3845,7 @@ MayaJama
 maybemaybemaybe
 MayDayStrike
 mazda
+MBA
 MBMBAM
 mbti
 mbtimemes
@@ -4122,6 +4131,7 @@ mutt
 MVIS
 MW2
 MyAnimeList
+MyBloodyValentine
 MyChemicalRomance
 mycology
 myfavoritemurder
@@ -4784,6 +4794,7 @@ playrust
 PlaySquad
 playstation
 PlayStationPlus
+PlaystationPortal
 PLC
 PleX
 PLTR
@@ -4898,6 +4909,7 @@ PrequelMemes
 Prescott
 Presidents
 PrettyGirls
+prettylights
 PrettyLittleLiars
 PrettyOlderWomen
 Priconne
@@ -6104,6 +6116,7 @@ ThickFit
 ThingsCutInHalfPorn
 thinkpad
 ThirdLifeSMP
+thirdsentenceworse
 Thisisimportantpod
 thisismylifenow
 ThisLooksFun
@@ -6399,6 +6412,7 @@ unusual_whales
 UnusualVideos
 unvaccinated
 uofm
+UofT
 upcycling
 UpliftingNews
 UploadTV
