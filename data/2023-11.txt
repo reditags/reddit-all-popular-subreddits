@@ -4644,6 +4644,7 @@ PERSoNA
 persona4golden
 Persona5
 PersonalFinanceCanada
+personalfinanceindia
 PersonalFinanceNZ
 perth
 pesmobile
@@ -5929,6 +5930,7 @@ TheAdventureZone
 theamazingdigitalciru
 TheAmazingRace
 TheArcana
+TheAsianAffairs
 TheAstraMilitarum
 TheBatmanFilm
 TheBear
