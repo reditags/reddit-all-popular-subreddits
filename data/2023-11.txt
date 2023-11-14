@@ -1697,6 +1697,7 @@ DestinyFashion
 DestinyLore
 DestinyMemes
 DestinyTheGame
+DestroyLonely
 DetailCraft
 detrans
 Detroit
@@ -2563,6 +2564,7 @@ Gouache
 GPUK
 GR86
 GraceCFulton
+gradadmissions
 GradSchool
 Graffiti
 Granblue_en
@@ -4075,6 +4077,7 @@ MushroomGrowers
 mushroomID
 Mushrooms
 Music
+musicaljenga
 musicians
 musicproduction
 MuslimMarriage
@@ -6440,6 +6443,7 @@ vintage
 vintageads
 vintagecomputing
 VintageFashion
+vintagejapaneseautos
 vinted
 Vinted_hungary
 vinyl
