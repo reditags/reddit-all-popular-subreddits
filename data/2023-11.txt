@@ -89,6 +89,7 @@ ACAB
 Acceleracers
 AccidentalAlly
 AccidentalComedy
+AccidentalRacism
 AccidentalRenaissance
 AccidentalWesAnderson
 accidents
@@ -1676,6 +1677,7 @@ deathgrips
 deathguard40k
 Deathkorpsofkrieg
 Deathloop
+deathnote
 DeathrattlePorn
 DeathStranding
 DecentralizedFinance
@@ -3707,6 +3709,7 @@ LoveIslandUSA
 lovejoyband
 LoveLive
 LoveNikki
+LowAltitudeJets
 LowerCaseScreams
 LowQualityMemes
 lowriders
@@ -4163,6 +4166,7 @@ mutt
 MVIS
 MW2
 MyAnimeList
+MyBigFatFabulousLife
 MyBloodyValentine
 MyChemicalRomance
 mycology
