@@ -1213,6 +1213,7 @@ ChatGPTPro
 chats
 Chattanooga
 chch
+cheating_stories
 Cheers
 Cheese
 chelseafc
@@ -3882,6 +3883,7 @@ McknightFamily
 mclaren
 McMansionHell
 McMaster
+MDMA
 me_irl
 me_irlgbt
 MealPrepSunday
@@ -6036,6 +6038,8 @@ TheBoys
 TheBullWins
 thecampaigntrail
 TheCatTrapIsWorking
+thechallengemtv
+TheCinemassacreTruth
 TheCivilService
 TheClickOwO
 TheCompletionist
@@ -6339,6 +6343,7 @@ TurkeyJerky
 TurkishCats
 TurkishCeleb
 TurkiyeCelebrity
+TurnerClassicMovies
 Turnip28
 turo
 turtle
@@ -6545,6 +6550,7 @@ vintageads
 vintagecomputing
 VintageFashion
 vintagejapaneseautos
+vintagesewing
 vinted
 Vinted_hungary
 vinyl
