@@ -813,6 +813,7 @@ blop
 Bloxburg
 bloxfruits
 bloxymemes
+BlueBox
 BlueJackets
 BlueLock
 BlueRyai
@@ -2596,6 +2597,7 @@ goodomens
 GoodOmensAfterDark
 goodyearwelt
 GooglePixel
+goons
 gorillaz
 gororoba
 GossipDK
@@ -6484,6 +6486,7 @@ USPS
 ussoccer
 USWNT
 Utah
+UtahJazz
 UTAustin
 Uttarakhand
 uttarpradesh
