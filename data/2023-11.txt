@@ -652,6 +652,7 @@ battlefield2042
 battlefield_4
 battlefield_one
 BattlefieldV
+battlefleetgothic
 BattleForDreamIsland
 battlemaps
 BattlePaintings
@@ -770,6 +771,7 @@ Birmingham
 birthday
 bisexual
 BisexualTeens
+bitchimabus
 BitchImATrain
 BitLifeApp
 bizarrelife
@@ -1527,6 +1529,7 @@ cscareerquestions
 csgo
 csharp
 CSHFans
+csk
 csMajors
 CSULB
 CSUS
@@ -3262,6 +3265,7 @@ JetLagTheGame
 Jewdank
 jewelry
 Jewpiter
+JewsOfConscience
 jiggledolls
 jigokuraku
 jihyo
@@ -3446,6 +3450,7 @@ Konosuba
 korea
 KoreanFood
 korrasami
+kosovo
 KotakuInAction
 kotakuinaction2
 kothibanglacheck
@@ -3769,6 +3774,7 @@ MadeMeSmile
 Madisonbeer
 MadisonPettis
 madisonwi
+MadiTeeuws
 madlads
 MadMax
 Madonna
@@ -5677,6 +5683,7 @@ spacex
 SpaceXLounge
 SpaceXMasterrace
 spain
+Spanish
 SpanishHistoryMemes
 SpanishMeme
 Spawn
@@ -5718,6 +5725,7 @@ spreadsmile
 spreadytoes
 springboks
 springerspaniel
+SprocketTankDesign
 Spunchbob
 SpyxFamily
 SQL
