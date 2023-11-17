@@ -618,6 +618,7 @@ badhistory
 badmathematics
 badMovies
 BadMtgCombos
+BadMUAs
 badroommates
 badwomensanatomy
 baeirene
@@ -1291,6 +1292,7 @@ Chivalry2
 chloe
 ChloeBennet
 chloegracemoretz
+chocolatelabs
 Choices
 chomsky
 Chonkers
@@ -4993,6 +4995,7 @@ PlantsVSZombies
 PlathvilleUncensored
 playark
 playarkservers
+PlayAvengers
 playboicarti
 playrust
 PlaySquad
@@ -5360,6 +5363,7 @@ RichmondFC
 rickandmorty
 rickygervais
 ricohGR
+RidiculousRealEstate
 rienabranler
 RighteousGemstones
 RightJerk
@@ -5699,6 +5703,7 @@ SiberianCats
 sickpanthertattoos
 Sidemen
 siegen
+SiestaKeyMTV
 sighthounds
 Sigmarxism
 Sigmatopia
@@ -6543,6 +6548,7 @@ TrueReddit
 truespotify
 TrueSTL
 TrueSwifties
+TrueUnpopularOpinion
 trump
 Trumpgret
 Trumpvirus
