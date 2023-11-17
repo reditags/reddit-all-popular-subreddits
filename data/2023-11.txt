@@ -218,6 +218,7 @@ AllThatIsInteresting
 AllTomorrows
 Alphachan
 AltBlonde
+altcoin
 AltcoinTalk
 AlternateAngles
 AlternateHistory
@@ -1572,9 +1573,11 @@ CrumblCookies
 CrusaderKings
 crusaderkings3
 cryptids
+Crypto_Currency_News
 cryptocasino
 CryptoCurrency
 CryptoMarkets
+CryptoMoon
 CryptoMoonShots
 CryptoOnchain
 CryptoTechnology
@@ -2193,6 +2196,7 @@ f150
 F1Brasil
 F1FeederSeries
 F1Game
+F1Manager
 F1NN5TER
 F1Porn
 F1Technical
@@ -4184,6 +4188,7 @@ MineralPorn
 Minesweeper
 MINI
 miniatures
+miniaturesculpting
 minimalism
 miniminter
 minipainting
@@ -4351,6 +4356,7 @@ MysteryDungeon
 MySummerCar
 mythbusters
 mythologymemes
+MyTimeAtSandrock
 n64
 NaBoaChavaloRetardado
 NAFO
@@ -4795,6 +4801,7 @@ Otters
 OurFlagMeansDeath
 Outdoors
 outerwilds
+outfitoftheday
 OUTFITS
 outofcontextcomics
 OutOfTheLoop
@@ -5022,6 +5029,7 @@ Planespotting
 Planetside
 PlanetZoo
 PlantBasedDiet
+plantclinic
 PlantedTank
 PlantIdentification
 PlantsVSZombies
@@ -5102,6 +5110,7 @@ Polytopia
 Pomeranians
 Pomsky
 poodles
+PoojaHegdeHub
 pools
 popculturechat
 popheadscirclejerk
