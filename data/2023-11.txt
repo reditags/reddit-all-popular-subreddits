@@ -270,6 +270,7 @@ AnadeArmas
 analog
 AnalogCircleJerk
 AnalogCommunity
+AnaloguePocket
 AnaMains
 Anarchism
 Anarcho_Capitalism
@@ -1994,6 +1995,7 @@ duck
 ducks
 DuelLinks
 DuggarsSnark
+duluth
 dumplingmeme
 DumpsterDiving
 DunderMifflin
@@ -2344,6 +2346,7 @@ fixedbytheduet
 FixedGearBicycle
 FL_Studio
 Flagrant2
+flags
 Flamepoints
 flashlight
 FlashTV
@@ -2708,6 +2711,7 @@ goodyearwelt
 google
 GooglePixel
 goons
+GooseBumps
 gorillaz
 gororoba
 GossipDK
@@ -4913,6 +4917,7 @@ pelotoncycle
 pelotonmemes
 penguins
 PenmanshipPorn
+PennStateUniversity
 Pennsylvania
 PennyLaneIsTheName
 Pensacola
@@ -5145,6 +5150,7 @@ portugueses
 Possums
 postal
 PostMalone
+Potastic_Jeannie
 pottedcats
 Pottery
 PouchCatatoes
@@ -5440,6 +5446,7 @@ RoAww
 RobloxAvatars
 RobloxHelp
 Robocop
+robotics
 Rochester
 rocketbeans
 RocketLeague
@@ -6041,6 +6048,7 @@ stlouiscitysc
 stockholm
 StockMarket
 stocks
+StoicMemes
 StonerEngineering
 stonerfood
 Stonetossingjuice
