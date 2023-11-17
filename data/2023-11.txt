@@ -467,6 +467,7 @@ askcarsales
 askcroatia
 AskDocs
 AskElectricians
+AskElectronics
 AskFeminists
 AskFrance
 askgaybros
@@ -1476,6 +1477,7 @@ Cooking
 coolguides
 coonhounds
 copenhagen
+coralisland
 cordcutters
 Cordoba
 corgi
@@ -2109,6 +2111,7 @@ englishbulldog
 EnglishLearning
 engrish
 enhypen
+enkazpetados
 Enough_Sanders_Spam
 EnoughCommieSpam
 EnoughLibertarianSpam
@@ -4318,6 +4321,7 @@ mutt
 MvC3
 MVIS
 MW2
+my_celebrity_crush
 MyAnimeList
 Myanmarcombatfootage
 MyBigFatFabulousLife
