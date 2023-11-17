@@ -613,6 +613,7 @@ backrooms
 BackYardChickens
 Bad_Cop_No_Donut
 badads
+BadArt
 badfriendspod
 badhistory
 badmathematics
@@ -649,6 +650,7 @@ BanPitBulls
 BarbaraPalvin
 Barbie
 Barcelona
+BarnFinds
 Barotrauma
 Barstoolboners2
 barstoolsports
@@ -1742,6 +1744,7 @@ declutter
 deepdream
 DeepFuckingValue
 DeepRockGalactic
+deepseacreatures
 DeepSpaceNine
 DeepThoughts
 Defenders
@@ -2513,6 +2516,7 @@ gallifrey
 galway
 Gambiarra
 Gameboy
+Gamecocks
 gamecollecting
 gamedev
 gamegrumps
@@ -2818,6 +2822,7 @@ hamstercare
 hamsters
 handbags
 HandfulOfKitten
+handmade
 HandOfMemes
 Handwriting
 HannahBarron
@@ -3595,6 +3600,7 @@ LadiesOfWrestling
 ladyladyboners
 Laesterschwestern
 laidbackcamp
+laika
 Lain
 LAinfluencersnark
 lakers
@@ -5287,6 +5293,7 @@ RebeccaLouisaFerguson
 REBubble
 Recife
 recipes
+recovery
 recruitinghell
 red_velvet
 RedDeadOnline
