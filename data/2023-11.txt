@@ -299,6 +299,7 @@ ANI_COMMUNISM
 Animal
 AnimalCrossing
 AnimalCrossingNewHor
+AnimalCrossingNewLeaf
 AnimalMemes
 AnimalsBeingBros
 AnimalsBeingDerps
@@ -411,6 +412,7 @@ ArchitecturePorn
 arcticmonkeys
 arduino
 Argaming
+ArgenGaming
 argentina
 ArgentinaBenderStyle
 Argnime
@@ -1307,6 +1309,7 @@ Choices
 chomsky
 Chonkers
 ChoosingBeggars
+ChoujinX
 chrissycostanza
 Christianity
 christinahendricks
@@ -1345,6 +1348,7 @@ CIVILWAR
 CivVI
 CJPerry
 Clamworks
+ClarksonsFarm
 ClashOfClans
 ClashOfClansLeaks
 ClashRoyale
@@ -1445,6 +1449,7 @@ compoface
 CompTIA
 computadores
 computers
+computervision
 conan
 ConanBeingAwesome
 ConanExiles
@@ -2673,6 +2678,7 @@ glossier
 GlowUps
 gluesniffer
 glutenfree
+glutenfreerecipes
 GME
 gme_meltdown
 GMEJungle
@@ -4654,6 +4660,7 @@ odense
 OeffentlicherDienst
 ofcoursethatsathing
 offbeat
+OffGridCabins
 OfficialTinyDinyMatt
 OfflinetvGirls
 OffMyChestPH
@@ -6103,6 +6110,7 @@ SuddenlyGay
 SuddenlyLesbian
 Sufjan
 suggestmeabook
+SuicideBoys
 suicidebywords
 suits
 summerhousebravo
