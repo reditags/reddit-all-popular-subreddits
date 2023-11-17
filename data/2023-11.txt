@@ -1926,6 +1926,7 @@ Doppleganger
 Doraemon
 Dorohedoro
 DotA2
+dotnet
 DottoreMains
 DougDoug
 doughboys
@@ -3237,6 +3238,7 @@ Invisalign
 ios
 iOSBeta
 iosgaming
+iOSsetups
 Iowa
 ipad
 iphone
@@ -3647,6 +3649,7 @@ LawSchool
 lawschooladmissions
 Lawyertalk
 LaylaMains
+LCDSoundsystem
 leafs
 LeagueOfIreland
 leagueoflegends
