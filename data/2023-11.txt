@@ -665,6 +665,7 @@ Barbie
 Barcelona
 BarnFinds
 Barotrauma
+barrescue
 Barstoolboners2
 barstoolsports
 bartenders
@@ -2082,6 +2083,7 @@ EldenRingPVP
 ElderKings
 ElderScrolls
 elderscrollsonline
+elderwitches
 ElectricalEngineering
 ElectricForest
 electricians
@@ -4643,6 +4645,7 @@ NPPfunny
 NPR
 nrl
 NRLPremiumPlus
+NSCollectors
 NSFW_Andrea_Botez
 NTU
 nuclear
@@ -6695,6 +6698,7 @@ TurkishCeleb
 TurkiyeCelebrity
 TurnerClassicMovies
 Turnip28
+turnitinaidetection
 turo
 turtle
 TuxedoCats
