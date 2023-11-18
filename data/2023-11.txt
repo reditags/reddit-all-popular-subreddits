@@ -1980,6 +1980,7 @@ dragonquest
 dragons
 DragonsDogma
 dragonvale
+DragRaceTea
 Dragula
 DrakeTheType
 DramaFreeBJJ
@@ -3043,6 +3044,7 @@ Honda
 HongKong
 HonkaiHusbandos
 honkaiimpact3
+HonkaiImpact3rd
 HonkaiStarRail
 HonkaiStarRail_leaks
 honoraryweevils
@@ -5299,6 +5301,7 @@ PrincessesOfPower
 PrintedMinis
 PrintedWarhammer
 privacy
+proceduralgeneration
 ProCreate
 productivity
 ProductManagement
@@ -5995,6 +5998,7 @@ SocialistRA
 socialskills
 SoFaygo
 SofiaVergara
+software
 softwaregore
 sohee
 solana
