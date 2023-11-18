@@ -110,6 +110,7 @@ ACMilan
 acnh
 acotar
 ACPocketCamp
+acrylicpainting
 ActionFigures
 ActivationSound
 ActiveMeasures
@@ -1195,6 +1196,7 @@ Catsmirin
 CatsNamedToothless
 catsofrph
 catsofukraine
+CatsOnCats
 CatsOnPizza
 CatsStandingUp
 CatsWhoConverse
@@ -2857,6 +2859,7 @@ HaileeSteinfeld
 Hailey_Baldwin
 Haircare
 HairDye
+Hairloss
 hairstylist
 hajimenoippo
 HaleyLu_Richardson
@@ -4825,6 +4828,7 @@ OooBigStretch
 OopsDidntMeanTo
 OopsThatsDeadly
 oots
+Opals
 OpenAI
 OperaGX
 Opeth
