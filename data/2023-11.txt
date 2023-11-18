@@ -2408,6 +2408,7 @@ fnki
 fnv
 fo4
 fo76
+FocalorsMains
 FolkPunk
 FondantHate
 food
@@ -2697,6 +2698,7 @@ GlobalOffensive
 Glocks
 Gloomhaven
 gloomspitegitz
+Gloryhammer
 glossier
 GlowUps
 gluesniffer
@@ -5053,6 +5055,7 @@ photocritique
 photographs
 photography
 photoshopbattles
+PhotoshopFails
 PhotoshopRequest
 Physics
 physicsmemes
