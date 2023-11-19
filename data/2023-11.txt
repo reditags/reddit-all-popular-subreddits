@@ -1381,6 +1381,7 @@ CIVILWAR
 CivVI
 CJPerry
 Clamworks
+ClaraProtectionClub
 ClarksonsFarm
 ClashOfClans
 ClashOfClansLeaks
@@ -1966,6 +1967,7 @@ Doenerverbrechen
 DOG
 DogAdvice
 dogelore
+doggos
 doggrooming
 DoggyDNA
 DoglaREDDIT
@@ -3349,6 +3351,7 @@ Instagramreality
 instant_regret
 instantbarbarians
 instantkarma
+Instantregret
 insurgency
 intel
 IntellectualDarkWeb
