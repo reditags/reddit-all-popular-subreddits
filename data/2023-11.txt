@@ -1410,6 +1410,7 @@ climateskeptics
 climbing
 ClimbingCircleJerk
 clinicalresearch
+CloneHero
 clonewars
 CloneWarsMemes
 clorindemains
@@ -1753,6 +1754,7 @@ dating
 dating_advice
 datingoverforty
 datingoverthirty
+davao
 DaveChappelle
 DavetheDiverOfficial
 davidgoggins
@@ -2825,6 +2827,7 @@ GrandTheftAutoV
 granturismo
 GranTurismo7
 graphic_design
+graphicnovels
 Grapplerbaki
 grateful_dead
 gratefuldead
@@ -2949,6 +2952,7 @@ Hannover
 happycowgifs
 happycryingdads
 HappyTrees
+HappyWoofGifs
 harborfreight
 Hardcore
 hardcoreaww
@@ -2959,6 +2963,7 @@ Hardtailgang
 hardware
 hardwaregore
 Harlequins40K
+Harley
 HarleyQuinnTV
 harrypotter
 HarryPotterBooks
@@ -4847,6 +4852,7 @@ OkBuddyPersona
 okbuddyphd
 okbuddyrathalos
 okbuddyreiner
+okbuddyreze
 okbuddyrosalyn
 okbuddytimekeeper
 okbuddytrailblazer
@@ -5223,6 +5229,7 @@ PlantBasedDiet
 plantclinic
 PlantedTank
 PlantIdentification
+plants
 PlantsVSZombies
 PlathvilleUncensored
 playark
@@ -5487,6 +5494,7 @@ Rammstein
 rance
 randomactsofkindness
 RandomThoughts
+RandomVictorianStuff
 rangers
 rangersfc
 rant
@@ -6211,6 +6219,7 @@ StarKid
 Starlink
 starsector
 Starset
+StarshipDevelopment
 StarshipPorn
 StarStable
 starterpacks
