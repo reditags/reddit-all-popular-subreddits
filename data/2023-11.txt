@@ -1478,6 +1478,7 @@ ComedyCemetery
 comedyheaven
 ComedyHell
 comedyhomicide
+comedynecromancy
 ComedyNecrophilia
 comicbookcollecting
 comicbookmovies
@@ -7454,6 +7455,7 @@ WoTshow
 wow
 WoWs_Legends
 Wrasslin
+WRC
 WrestleCuties
 WrexhamAFC
 WriothesleyMains
