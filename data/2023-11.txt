@@ -540,6 +540,7 @@ Astronomy
 Astros
 Asuka
 ATBGE
+ATC
 ATEEZ
 AteistTurk
 AteTheOnion
@@ -932,6 +933,7 @@ BollywoodFashion
 bollywoodmemes
 BollywoodMusic
 BollywoodUHQonly
+bologna
 boltaction
 BombRush_Cyberfunk
 Bondedpairs
@@ -1482,6 +1484,7 @@ ComedyHell
 comedyhomicide
 comedynecromancy
 ComedyNecrophilia
+comicbookart
 comicbookcollecting
 comicbookmovies
 comicbooks
@@ -1901,6 +1904,7 @@ DevilMayCry
 devils
 devinbrugman
 devo
+DevonUK
 devops
 devsarg
 dewrim
@@ -2194,6 +2198,7 @@ Emoney
 EmoStyle
 EmperorsChildren
 ems
+emulation
 ender3
 Endfield
 EndlessWar
@@ -2268,6 +2273,7 @@ evilautism
 evilbuildings
 EvilDead
 ewphoria
+excatholic
 ExclusivelyPumping
 existentialcrisiscat
 exjw
@@ -2546,6 +2552,7 @@ Frasier
 freaksandgeeks
 FreckledGirls
 fredagain
+freebies
 FreeCompliments
 FreedomofRussia
 freefolk
@@ -4356,6 +4363,7 @@ Michigan
 MichiganWolverines
 microblading
 microgrowery
+MicromobilityNYC
 MicrosoftFlightSim
 MicrosoftRewards
 Mid_Century
@@ -4825,6 +4833,7 @@ nottingham
 nova
 NovaScotia
 noveltranslations
+NovoNoReddit
 nowmycat
 noworking
 NPPfunny
@@ -5839,6 +5848,7 @@ SandersForPresident
 SanDiegan
 sandiego
 Sandman
+SandwichesofHistory
 sanfrancisco
 SanJose
 SanJoseSharks
@@ -6095,6 +6105,7 @@ sketches
 skiing
 SkincareAddictionUK
 SkirkMains
+skirt
 skrillex
 SkyeBlueOffical
 SkyGame
