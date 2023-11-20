@@ -495,6 +495,7 @@ AskElectronics
 AskFeminists
 AskFrance
 askgaybros
+AskGaybrosOver30
 AskGayMen
 AskHistorians
 AskHR
@@ -2078,6 +2079,7 @@ Drumming
 drums
 drywall
 dualipa
+Dualsport
 dubai
 Dublin
 Ducati
@@ -3534,6 +3536,7 @@ jedicouncilofelrond
 JEENEETards
 Jeep
 JeffArcuri
+jeffjackson
 JeilaDizon
 jellybeantoes
 Jellycatplush
@@ -4338,6 +4341,7 @@ MetalGearRisingRVNGNC
 metalgearsolid
 Metallica
 MetalMemes
+metalworking
 Metoidioplasty
 metro
 Metroid
