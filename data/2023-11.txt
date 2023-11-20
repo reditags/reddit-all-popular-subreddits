@@ -1584,6 +1584,7 @@ Crainn
 CrappyDesign
 crappymusic
 crappyoffbrands
+crashbandicoot
 CrazyFuckingVideos
 CrazyHuman
 CreateMod
@@ -4466,6 +4467,7 @@ mopar
 morbidlybeautiful
 MorbidWaysToDie
 Morbius
+Mordhau
 mordheim
 moreplatesmoredates
 MoriCalliope
@@ -5290,6 +5292,7 @@ Plumbing
 plushies
 PlusSizeFashion
 PNWhiking
+Poems
 Poetry
 pointlesslygendered
 PointlessStories
@@ -5828,6 +5831,7 @@ SatanicTemple_Reddit
 SatisfactoryGame
 satisfying
 Satisfyingasfuck
+SatisfyingClean
 saudiarabia
 SavannahDemers
 Save3rdPartyApps
@@ -6228,6 +6232,7 @@ spreadytoes
 springboks
 springerspaniel
 SprocketTankDesign
+SPTarkov
 Spunchbob
 SpyxFamily
 SQL
@@ -6327,6 +6332,7 @@ Stormgate
 Stormlight_Archive
 StormReidMaybe
 Stormworks
+StraightsBeingOK
 StrangeAndFunny
 StrangeEarth
 StrangerThings
@@ -7513,6 +7519,7 @@ yoga
 Yoimiya_Mains
 yokaiwatch
 YomiHustle
+YoneMains
 yoojimin
 Yorkies
 yorku
