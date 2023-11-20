@@ -682,6 +682,7 @@ bangtan
 Bankstraphunting
 Bannerlord
 BanPitBulls
+BanVideoGames
 BarbaraPalvin
 Barbie
 Barcelona
@@ -3047,6 +3048,7 @@ HeavySeas
 heavyvinyl
 Hedgehog
 HeinousHumanity
+hela_gewuerzketchup
 Helicopters
 HellBoy
 HellLetLoose
@@ -5867,6 +5869,7 @@ SaltLakeCity
 Salvia
 Samadhi_Zendejas
 SamAndColby
+samaraweaving
 SameGrassButGreener
 samharris
 SamONellaAcademy
