@@ -689,6 +689,7 @@ baseball
 baseballcards
 baseballcirclejerk
 BashTheFash
+basketballcards
 basset
 bassethounds
 bassfishing
@@ -2005,6 +2006,7 @@ doodles
 doodoofard
 Doom
 doomfistmains
+doommetal
 doordash
 doordash_drivers
 doordashgremlin
@@ -3137,6 +3139,7 @@ hotsauce
 hottoys
 HotWheels
 houkai3rd
+Hounds
 HouseMD
 HouseOfTheDragon
 HouseofUsher
@@ -3545,6 +3548,7 @@ JewsOfConscience
 JIDSV
 jiggledolls
 jigokuraku
+Jigsawpuzzles
 jihyo
 JimCornette
 JingLiu
@@ -5890,6 +5894,7 @@ Sekiro
 SelenaGomez
 SelenaGomezObsession
 SelfAwarewolves
+SelfDrivingCars
 selfharm_memes
 selfhosted
 selfie
@@ -7217,6 +7222,7 @@ warno
 WarplanePorn
 WarriorCats
 warriors
+WarriorTV
 warsaw
 WarshipPorn
 warthundermemes
@@ -7440,6 +7446,7 @@ writingcirclejerk
 WritingPrompts
 wroclaw
 WRX
+wrx_vb
 WRXSTi
 WTF
 wuerzburg
