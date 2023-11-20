@@ -3966,6 +3966,7 @@ LinkinPark
 LinusTechTips
 linux
 linux_gaming
+linuxadmin
 linuxmasterrace
 linuxquestions
 Lisa_Mains
@@ -4429,6 +4430,7 @@ MMAPoliticsAndCulture
 MMORPG
 MoaiGreddit
 MobileLegendsGame
+mobilephotography
 ModelShips
 modeltrains
 Modern_Family
@@ -4602,6 +4604,7 @@ nathanforyou
 nathanwpyle
 National_Pet_Adoption
 NationalPark
+NationalServiceSG
 NativePlantGardening
 nattyorjuice
 nature
@@ -6146,6 +6149,7 @@ SocialistModernism
 SocialistRA
 socialskills
 SoFaygo
+SofiaJamora
 SofiaVergara
 software
 softwaregore
@@ -6490,6 +6494,7 @@ TattooRemoval
 tattoos
 tattooscratchers
 Tau40K
+tawawa
 TayaMiller
 taylorandtravis
 taylormariehill
@@ -7162,6 +7167,7 @@ VideojuegosMX
 videos
 VietNam
 vikingstv
+Vilebrequin
 Vindicta
 Vinesauce
 VinlandSaga
@@ -7364,6 +7370,7 @@ WholesomeFantasyArt
 wholesomegifs
 wholesomegreentext
 wholesomememes
+WholesomeSliceOfLife
 whothefuckup
 WhyWereTheyFilming
 WhyWomenLiveLonger
