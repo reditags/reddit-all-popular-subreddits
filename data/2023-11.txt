@@ -1724,6 +1724,7 @@ dailywire
 DakotaFanning
 Daliban
 Dallas
+DallasStars
 dalle2
 dalmatians
 Damnthatsinteresting
@@ -2938,6 +2939,7 @@ GTAV
 GuardianTales
 GUIBELREVIEWS
 Guildwars2
+GuillermoDelToro
 GuiltyDogs
 Guiltygear
 guineapigs
@@ -3929,6 +3931,7 @@ lebanon
 lebowski
 LeCreuset
 ledzeppelin
+lee_17_2_
 Leeds
 LeedsUnited
 leetcode
@@ -6560,6 +6563,7 @@ TamannaBhatia
 TameImpala
 TamilNadu
 tampa
+TampaBayLightning
 Tanalorr
 tankiejerk
 TankPorn
