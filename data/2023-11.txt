@@ -1138,6 +1138,7 @@ callofdragons
 CallOfDuty
 CallOfDutyMobile
 CallTheMidwife
+CalPolyPomona
 calvinandhobbes
 CamilaCabello
 camilamendes
@@ -2120,6 +2121,7 @@ Drukhari
 drumcorps
 Drumming
 drums
+drunkencookery
 drywall
 dualipa
 Dualsport
@@ -3833,6 +3835,7 @@ Klengan
 Klimawandel
 KneadyCats
 knifeclub
+KnifeDeals
 knifemaking
 KnowledgeFight
 Knoxville
@@ -6981,6 +6984,7 @@ tomochanwaonnanoko
 tomorrow
 TomorrowByTogether
 tonightsdinner
+ToniStorm
 TonyZaretOfficial
 toofers
 toogoodtogo
@@ -7271,6 +7275,7 @@ USWNT
 Utah
 UtahJazz
 UTAustin
+utdallas
 UTM
 UTSC
 Uttarakhand
