@@ -4003,6 +4003,7 @@ LeaksAndRumors
 LeaksDBD
 leanbeefpatty
 LearmannTwins
+learndota2
 LearnerDriverUK
 learningtocat
 LearnJapanese
@@ -7239,6 +7240,7 @@ Tyranids
 tzuyu
 TzuyuChou
 U2Band
+UAE
 UAP
 UBC
 uberdrivers
