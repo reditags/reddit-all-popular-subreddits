@@ -1019,6 +1019,7 @@ brasil
 BrasildoB
 brasilivre
 Bratz
+brave_browser
 Braves
 BravoRealHousewives
 Brawlhalla
@@ -4230,6 +4231,7 @@ lyney
 MAAU
 mac
 macapps
+macbook
 macbookpro
 macgaming
 MachikadoMazoku
