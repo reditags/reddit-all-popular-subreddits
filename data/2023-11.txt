@@ -1322,6 +1322,7 @@ chaeyoung
 Chainsawfolk
 ChainsawMan
 chainsawmancirclejerk
+Chameleons
 Championship
 ChampionshipHistory
 championsleague
@@ -4405,6 +4406,7 @@ mechanical_gifs
 MechanicalKeyboards
 MechanicalPandey
 Mechwarrior5
+MedicalCannabisOz
 MedicalGore
 MedievalCats
 MediocreTutorials
@@ -6727,6 +6729,7 @@ teaching
 teachinginjapan
 TeamfightTactics
 TeamFourStar
+teamliquid
 TeardownGame
 tearsofthekingdom
 TearsOfThemis
@@ -7296,6 +7299,7 @@ UniUK
 UniversalOrlando
 Universitaly
 UniversityOfHouston
+unixsocks
 unket
 unOrdinary
 UnpopularLoreOlympus
