@@ -74,6 +74,7 @@
 911archive
 911dispatchers
 A24
+aaaaaaaarrrrro
 aaaaaaacccccccce
 AatroxMains
 abandoned
@@ -660,6 +661,7 @@ Bad_Cop_No_Donut
 badads
 BadArt
 badassanimals
+Badfaketexts
 badfriendspod
 badhistory
 badmathematics
@@ -1252,6 +1254,7 @@ CATpreparation
 cats
 CatsAndDogsBFF
 CatsAreAssholes
+catsarefuckingstupid
 catsareliquid
 CatsBeingCats
 CatsCalledFood
@@ -5643,6 +5646,7 @@ ProgrammerAnimemes
 ProgrammerHumor
 programming
 programminghorror
+programmingHungary
 ProgressionFantasy
 progun
 project1999
