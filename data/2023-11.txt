@@ -4145,6 +4145,7 @@ Liverpool
 LiverpoolFC
 LivestreamFail
 LivMorgan
+Livros
 lizgillies
 LobotomyCorp
 LocalLLaMA
@@ -6728,6 +6729,7 @@ TameImpala
 TamilNadu
 tampa
 TampaBayLightning
+tampabayrays
 Tanalorr
 tankiejerk
 TankPorn
@@ -7000,6 +7002,7 @@ TheWeeknd
 thewestwing
 TheWhiteLotusHBO
 TheWhyFiles
+TheWire
 thewitcher3
 theworldnews
 TheYardPodcast
@@ -7855,6 +7858,7 @@ YouShouldKnow
 Youtooz
 youtube
 youtubehaiku
+YoutubeSelfPromotion
 ytvretro
 YuB
 yugioh
