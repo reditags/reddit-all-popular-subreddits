@@ -151,6 +151,7 @@ Aespa
 AESPA_Hotties
 aesthetic
 Aether_Mains
+AetherGazer
 AEWFightForever
 AEWOfficial
 AFCEastMemeWar
@@ -2988,6 +2989,7 @@ gshock
 GSP
 GTA
 GTA6
+GTA6_NEW
 gtaonline
 GTAV
 GuardianTales
