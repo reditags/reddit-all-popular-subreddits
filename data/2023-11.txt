@@ -122,6 +122,7 @@ ActionFigures
 ActivationSound
 ActiveMeasures
 actu_memes
+actualite
 actuallesbians
 ActualPublicFreakouts
 actuary
@@ -2333,6 +2334,7 @@ ErgoMechKeyboards
 Ernst_Twins
 es
 EscapefromTarkov
+esHistoria
 esist
 Espana
 esports
@@ -5263,6 +5265,7 @@ osrs
 OstrichPlug
 OSU
 osugame
+osvaldo12
 OSWReview
 OTMemes
 otomegames
@@ -6419,6 +6422,7 @@ Sneks
 snes
 snidereps
 SNKRS
+snooker
 SnootGame
 Snorkblot
 snow
