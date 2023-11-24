@@ -817,6 +817,7 @@ bestof
 bestoflegaladvice
 bestofpositiveupdates
 bestoftheinternet
+BethesdaSoftworks
 bettafish
 betterCallSaul
 BetterEveryLoop
@@ -2193,6 +2194,7 @@ DungeonMeshi
 DungeonsAndDaddies
 DungeonsAndDragons
 duolingo
+durham
 dustkitties
 dutch
 dvdcollection
@@ -6796,6 +6798,7 @@ TalesFromYourServer
 talk_hunfluencers
 tall
 Tallahassee
+TallGirls
 tallyhall
 Talonmains
 tamagotchi
