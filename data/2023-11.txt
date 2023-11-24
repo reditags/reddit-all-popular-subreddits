@@ -410,6 +410,7 @@ ApexLore
 ApexOutlands
 Apexrollouts
 ApexUncovered
+apexuniversity
 aphextwin
 apolloapp
 AppalachianTrail
