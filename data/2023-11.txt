@@ -1049,6 +1049,7 @@ Brazil
 brdev
 Breadit
 BreadStapledToTrees
+BreadTube
 Breakfast
 BreakfastFood
 breakingbad
@@ -3833,6 +3834,7 @@ KansasCityChiefs
 Kantenhausen
 Kanye
 KaraDelToro
+karate
 kardashians
 KarenFukuhara
 karengillan
