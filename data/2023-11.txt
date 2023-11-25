@@ -4107,6 +4107,7 @@ LegalAdviceUK
 legalcatadvice
 legendofdragoon
 legendofkorra
+LegendsMemes
 LegendsOfRuneterra
 LegendsOfTomorrow
 LegionGo
@@ -5483,6 +5484,7 @@ PhasmophobiaGame
 phcareers
 phclassifieds
 PhD
+PHFoodPorn
 PHGamers
 PHhandsgonewild
 PHikingAndBackpacking
