@@ -799,6 +799,7 @@ beetle
 BeforeNAfterAdoption
 BeginnerWoodWorking
 behindthebastards
+Beichtstuhl
 BeidouMains
 BelgianMalinois
 belgium
@@ -2084,6 +2085,7 @@ DIYGelNails
 diypedals
 DIYUK
 DJ_Peach_Cobbler
+Djent
 dji
 DJs
 Djungelskog
@@ -2696,6 +2698,7 @@ ForzaHorizon
 forzamotorsport
 fossilid
 FostTalicskaUnchained
+Fotografie
 FoundPaper
 FoundPhotos
 foundsatan
@@ -6699,6 +6702,7 @@ standupshots
 StanleyKubrick
 starbucks
 starcitizen
+starcitizen_refunds
 starcraft
 StardewMemes
 stardomjoshi
