@@ -520,6 +520,7 @@ askastronomy
 AskBalkans
 askcarsales
 askcroatia
+askcrochet
 AskDocs
 AskElectricians
 AskElectronics
@@ -2285,6 +2286,7 @@ eeaao
 Eesti
 Eevee
 eFootball
+efteling
 egg_irl
 Eggwick
 Eggy_memes
@@ -2351,6 +2353,7 @@ ender3
 Endfield
 EndlessSpace
 EndlessWar
+EndTipping
 enem
 energy
 energydrinks
@@ -5608,6 +5611,7 @@ PhotoshopRequest
 physicianassistant
 Physics
 physicsmemes
+Physik
 piano
 Picard
 PickleFinancial
@@ -7106,6 +7110,7 @@ TheBoys
 TheBreaker
 TheBullWins
 thecampaigntrail
+thecatdimension
 TheCatTrapIsWorking
 thechallengemtv
 TheCinemassacreTruth
