@@ -253,6 +253,7 @@ AlternateHistory
 AlternateHistoryMemes
 AlternativeHistory
 AltFashion
+AlwaysTheSameMap
 AlysonHannigan
 AlzheimersGroup
 Alzwards_Corner
@@ -1125,6 +1126,7 @@ BuenosAires
 Buffalo
 buffalobills
 buffy
+bugmansbrewery
 buhaydigital
 buildabear
 buildapc
@@ -2490,6 +2492,7 @@ FanFiction
 FansHansenvsPredator
 fansofcriticalrole
 fantanoforever
+FantasticFour
 Fantasy_Football
 fantasybball
 fantasyfootball
@@ -4568,6 +4571,7 @@ MechanicalPandey
 Mechwarrior5
 MedicalCannabisOz
 MedicalGore
+Medieval2TotalWar
 Medievalart
 MedievalCats
 MediocreTutorials
@@ -6245,6 +6249,7 @@ SandwichesofHistory
 sanfrancisco
 SanJose
 SanJoseSharks
+SanJuanAirportTaxiPR
 SannaMarinFanclub
 sanpedrocactus
 sanrio
@@ -7126,6 +7131,7 @@ TheFirstLaw
 thegildedage
 TheGirlsNextLevelPod
 TheGirlSurvivalGuide
+TheGlassCannonPodcast
 TheGoldenBachelor_
 theGoldenGirls
 TheGoodPlace
@@ -7928,6 +7934,7 @@ wildrift
 WildWestPics
 WillaHolland
 willhaben
+WilliamsF1
 willwood
 WILTY
 wimmelbilder
@@ -8063,6 +8070,7 @@ yandere
 YanfeiMains
 YarnAddicts
 yarntrolls
+Yatirim
 yayfoxxo
 yeat_
 Yeen_irl
