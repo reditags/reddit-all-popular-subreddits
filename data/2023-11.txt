@@ -2755,6 +2755,7 @@ freefolk
 FreeGameFindings
 FreeGamesOnSteam
 FREEMEDIAHECKYEAH
+French
 Frenchbulldogs
 Frenchhistorymemes
 FrenchMemes
@@ -2913,6 +2914,7 @@ gdansk
 GearsOfWar
 GeForceNOW
 gekte
+GemischtesHack
 GenderAnarchy
 genestealercult
 genewolfe
@@ -3760,6 +3762,7 @@ jacksonville
 jackstauber
 JackSucksAtGeography
 JackSucksAtLife
+jackwhite
 jadecargill
 Jaguar
 Jaguars
@@ -5638,6 +5641,7 @@ photography
 photoshopbattles
 PhotoshopFails
 PhotoshopRequest
+phtravel
 physicianassistant
 Physics
 physicsmemes
