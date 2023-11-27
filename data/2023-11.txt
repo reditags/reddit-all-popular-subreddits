@@ -1649,6 +1649,7 @@ copenhagen
 coralisland
 cordcutters
 Cordoba
+Cordwaining
 corgi
 Corinthians
 cork
@@ -2182,6 +2183,7 @@ dragonquest
 dragons
 DragonsDogma
 dragonvale
+DragRacePhilippines
 DragRaceTea
 Dragula
 DrakeTheType
@@ -6679,6 +6681,7 @@ Spanish
 SpanishHistoryMemes
 SpanishMeme
 Spawn
+Spearfishing
 SpecialAccess
 SpecOpsArchive
 SpeculativeEvolution
