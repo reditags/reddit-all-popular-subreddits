@@ -2302,6 +2302,7 @@ eeaao
 Eesti
 Eevee
 eFootball
+eFreebies
 efteling
 egg_irl
 Eggwick
@@ -3380,6 +3381,7 @@ Horimiya
 horizon
 HorizonForbiddenWest
 Hornyjail
+HorribleHistoryMemes
 horror
 Horses
 hostedgames
@@ -6295,6 +6297,7 @@ SantaFe
 saopaulo
 SaoPauloFC
 SapphoAndHerFriend
+SarahHyland
 SarahJMaas
 saskatchewan
 saskatoon
@@ -6742,6 +6745,7 @@ squidgame
 squirrels
 squishmallow
 srbija
+srilanka
 SS13
 SSBM
 StableDiffusion
