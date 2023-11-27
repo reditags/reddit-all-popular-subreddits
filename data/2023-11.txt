@@ -2846,6 +2846,7 @@ gadgets
 GakiNoTsukai
 galatasaray
 GalaxyFold
+GalaxyS23Ultra
 GalaxysEdge
 GalaxyWatch
 GalGadot
@@ -3233,6 +3234,7 @@ HarryPotterBooks
 Harvard
 HARVESTELLA
 Hasan_Piker
+Hatfilms
 hatsune
 HauntedMound
 HauntingOfHillHouse
