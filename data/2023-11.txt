@@ -685,6 +685,7 @@ Bad_Cop_No_Donut
 badads
 BadArt
 badassanimals
+BadDesigns
 Badfaketexts
 badfriendspod
 badhistory
@@ -2841,6 +2842,7 @@ Gambiarra
 Gameboy
 Gamecocks
 gamecollecting
+Gamecube
 gamedev
 gameDevClassifieds
 gamegrumps
@@ -7811,6 +7813,7 @@ washingtonwizards
 wasletztepreis
 wasletzterezension
 wasletztestern
+WataOshi
 WatchDogsWoofInside
 watcherentertainment
 Watches
@@ -7988,6 +7991,7 @@ Wizard101
 wizardposting
 WKUK
 WMMA
+wmnf
 woahdude
 wohnen
 WojakCompass
