@@ -448,6 +448,7 @@ araragi
 ArAutos
 arborists
 arcane
+ArcaneOdyssey
 Archaeology
 archeologyworld
 ArcherFX
@@ -881,6 +882,7 @@ BinanceReferral
 bindingofisaac
 bingbongtheorem
 BinIchDasArschloch
+binichderalman
 Biohackers
 biology
 bioniclelego
@@ -6678,6 +6680,7 @@ SophiaDiamondXX
 SoulCalibur
 souleater
 SoulKnight
+SoulKnightPrequel
 SoundersFC
 SoundsLikeMusic
 soup
