@@ -151,6 +151,7 @@ ADVChina
 adventuretime
 Advice
 AdviceAnimals
+AdviceForTeens
 aeiou
 AEKAthensFC
 AerospaceEngineering
@@ -950,6 +951,7 @@ Blep
 blessedimages
 Blink182
 blizzcon
+blockbustervideo
 BlockedByJax
 BloodAngels
 bloomington
@@ -2765,6 +2767,7 @@ fredagain
 freebies
 FreeCompliments
 FreedomofRussia
+FreeEBOOKS
 freefolk
 FreeGameFindings
 FreeGamesOnSteam
@@ -3369,10 +3372,12 @@ Hololive
 HololiveYuri
 Holostars
 HolUp
+holyshit
 homeassistant
 homeautomation
 Homebuilding
 HomeDecorating
+homedecoratingCJ
 HomeDepot
 homegym
 homelab
