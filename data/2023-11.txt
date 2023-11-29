@@ -437,6 +437,7 @@ apolloapp
 AppalachianTrail
 appiememes
 apple
+AppleCard
 AppleMusic
 applestorequeenv2
 appletv
@@ -1494,6 +1495,7 @@ chronotrigger
 Chucky
 ChurchOfEula
 ChurchOfFeMC
+churchoffutaba
 churchofharu
 ChurchOfKasumi
 ChurchofMarnie
@@ -1772,6 +1774,7 @@ CrossStitch
 crowbro
 crows
 crtgaming
+CrucibleGuidebook
 CrueltySquad
 Cruise
 CrumblCookies
@@ -2435,6 +2438,7 @@ Entrepreneur
 entwives
 EpicSeven
 Episode
+epoxy
 equestriaatwar
 Equestrian
 Eragon
@@ -4157,6 +4161,7 @@ KusanaliMains
 kutautos
 kuttichevuru
 KUWTKsnark
+Kwite
 kwoneunbi
 KyraReneeSivertson
 l4d2
@@ -6008,6 +6013,7 @@ Punny
 PunPatrol
 puns
 puppies
+puppy
 puppy101
 puppygirlpetsmart
 PuppySmiles
@@ -7275,6 +7281,7 @@ TheDreamAcademy
 TheEminenceInShadow
 TheeOhSees
 TheExpanse
+TheFamilyChantel
 TheFarSide
 TheFence
 thefighterandthekid
