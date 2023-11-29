@@ -2761,6 +2761,7 @@ FoodPorn
 FoodVideoPorn
 Foofighters
 football
+footballcards
 footballmanagergames
 footballmemes
 foradecasa
@@ -3545,6 +3546,7 @@ HyruleTown
 Hyundai
 IAmA
 iamatotalpieceofshit
+IAmTheAsshole
 IAmTheMainCharacter
 iamverysmart
 IASIP
@@ -4905,6 +4907,7 @@ MMORPG
 MoaiGreddit
 MobileLegendsGame
 mobilephotography
+MoDaoZuShi
 ModelShips
 modeltrains
 Modern_Family
@@ -5721,6 +5724,7 @@ Petioles
 PetiteFashionAdvice
 PetiteFitness
 Petloss
+PetMice
 PetPeeves
 Pets
 PetsareAmazing
@@ -6201,6 +6205,7 @@ RedditForGrownups
 RedditLaqueristas
 redditonwiki
 RedditPHCyclingClub
+redditrequest
 RedDwarf
 Redhair
 RedheadBeauties
@@ -7174,6 +7179,7 @@ tarih
 TarihiSeyler
 TarkovMemes
 TarotDecks
+tarsasjatek
 taskmaster
 tatemcrae
 tattoo
