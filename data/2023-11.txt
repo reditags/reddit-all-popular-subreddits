@@ -281,6 +281,7 @@ AmazonDSPDrivers
 AmazonFC
 AmberMains
 Amberverse_
+amc
 AMCsAList
 amcstock
 AMCSTOCKS
@@ -3683,6 +3684,7 @@ IndianaJonesMemes
 indianapolis
 IndianArtAI
 IndianBeautyDeals
+indianbeautyhauls
 indianbikes
 Indianbooks
 IndianBoysOnTinder
@@ -7883,6 +7885,7 @@ UpvoteBecauseButt
 urbancarliving
 urbanexploration
 UrbanHell
+Urbanism
 urbanplanning
 UrbanRescueRanch
 UrbexRo
