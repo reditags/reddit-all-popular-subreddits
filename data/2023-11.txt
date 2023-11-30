@@ -2347,6 +2347,7 @@ dyinglight
 DylanteroYT
 dynamo
 DynastyFF
+E30
 EA_NHL
 EAF
 earfurnishings
@@ -3172,6 +3173,7 @@ GraceCFulton
 gradadmissions
 GradSchool
 Graffiti
+GraffitiTagging
 Granblue_en
 GrandBlue
 grandcanyon
@@ -4136,6 +4138,7 @@ KGBTR
 khiphop
 Khyleri
 kia
+kibbecirclejerk
 KidCudi
 KidsAreFuckingSmart
 KidsAreFuckingStupid
@@ -8211,6 +8214,7 @@ whenthe
 WhenWeWereYoungFest
 whenwomenrefuse
 whereisthis
+WhereIsThisPlace
 WhiskerFireworks
 whiskey
 WhiteCats
