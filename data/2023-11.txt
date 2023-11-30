@@ -558,6 +558,7 @@ AskHistorians
 AskHR
 askhungary
 AskIreland
+asklatinamerica
 AskLE
 askmath
 AskMec
@@ -1509,6 +1510,7 @@ christinahendricks
 ChristinaMilian
 christmas
 ChristmasTrees
+ChristopherHitchens
 ChristopherNolan
 ChronicIllness
 ChronicPain
@@ -4260,6 +4262,7 @@ lastpodcastontheleft
 LastStandMedia
 lastweektonight
 LasVegas
+LateNightTalkShows
 LateShow
 latesitoo
 LateStageCapitalism
@@ -4447,6 +4450,7 @@ longbeach
 longboyes
 longcats
 LongDistance
+LongFurbies
 longhair
 LonghornNation
 longisland
