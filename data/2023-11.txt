@@ -941,6 +941,7 @@ bitchimabus
 BitchImATrain
 BitcoinGoldHQ
 BitLifeApp
+BITSPilani
 bizarrelife
 bjj
 BJM
@@ -2330,6 +2331,7 @@ DungeonMeshi
 DungeonsAndDaddies
 DungeonsAndDragons
 DungeonsAndMemes
+DunksNotDead
 duolingo
 durham
 dustkitties
@@ -5812,6 +5814,7 @@ PhoenixSC
 photocritique
 photographs
 photography
+photoshop
 photoshopbattles
 PhotoshopFails
 PhotoshopRequest
@@ -6236,6 +6239,7 @@ realYoumo
 ReasonableFantasy
 RebeccaLouisaFerguson
 REBubble
+recap
 Recife
 recipes
 reclassified
