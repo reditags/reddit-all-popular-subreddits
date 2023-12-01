@@ -80,6 +80,7 @@ Aether_Mains
 AEWOfficial
 AFCEastMemeWar
 AFCNorthMemeWar
+AFCSouthMemeWar
 AFCWestMemeWar
 afkarena
 AFL
@@ -135,6 +136,7 @@ AMG
 Amigurumi
 AmIHotSFW
 AmITheAngel
+AmItheButtface
 AmItheEx
 amithejerkpodcast
 amiugly
@@ -201,6 +203,7 @@ anxietymemes
 AnyaTaylorJoy
 AnyaTaylorJoyFans
 AO3
+aoe2
 aoe4
 apexlegends
 ApexOutlands
@@ -225,6 +228,7 @@ ARK
 arknights
 ArlecchinoMains
 arma
+armenia
 armoredcore
 ArmoredCoreVI
 army
@@ -276,6 +280,7 @@ AusRenovation
 austincirclejerk
 australia
 australian
+AustralianBirds
 AustralianCattleDog
 AustralianShepherd
 AustralianSpiders
@@ -408,6 +413,7 @@ BlackPeopleTwitter
 BlackPink
 BlackTemplars
 BLAHAJ
+blakelively
 Blasphemous
 BlatantMisogyny
 bleach
@@ -415,6 +421,7 @@ blender
 Blep
 blessedimages
 Blink182
+BloodAngels
 blop
 bloxfruits
 BlueLock
@@ -462,6 +469,7 @@ botecodoreddit
 BottleDigging
 bouldering
 Boxer
+Boxers
 Boxing
 boxoffice
 boygenuis
@@ -474,6 +482,7 @@ brasilivre
 Braves
 BravoRealHousewives
 Brawlstars
+BrawlStarsCompetitive
 Breadit
 breakingbad
 Breath_of_the_Wild
@@ -504,6 +513,7 @@ buffalobills
 buffy
 buildapcsales
 Bulldogs
+Bullshido
 BullTerrier
 Bunnies
 burgers
@@ -643,6 +653,7 @@ ChoujinX
 chrissycostanza
 christmas
 ChristmasTrees
+ChristopherNolan
 ChurchOfFeMC
 churchofharu
 ChurchOfKasumi
@@ -667,6 +678,7 @@ ClashOfClans
 ClashOfClansLeaks
 ClashRoyale
 ClashRoyaleCirclejerk
+classicalmusic
 classiccars
 classicwow
 ClassroomOfTheElite
@@ -675,6 +687,7 @@ CleaningTips
 Cleveland
 clevercomebacks
 climate
+climatechange
 climateskeptics
 climbing
 ClimbingCircleJerk
@@ -693,6 +706,7 @@ colleensheen
 college
 CollegeBasketball
 ColoradoSprings
+coloranalysis
 Colts
 Columbus
 combinedgifs
@@ -818,6 +832,7 @@ Damnthatsinteresting
 Dandadan
 danganronpa
 danglers
+DanielaMelchior
 Daniellarson
 danishlanguage
 DaniSpeegle
@@ -893,6 +908,7 @@ depoop
 Depop
 depression_memes
 depressionmeals
+DerScheisser
 desabafos
 DesiFragranceAddicts
 DesignMyRoom
@@ -902,6 +918,7 @@ DesperateHousewives
 Destiny
 destiny2
 DestinyFashion
+DestinyLore
 DestinyMemes
 DestinyTheGame
 detroitlions
@@ -973,6 +990,7 @@ Dragonballsuper
 DragonMaid
 dragonquest
 DragonsDogma
+dragrace
 Dragula
 DrakeTheType
 DramaFreeBJJ
@@ -1046,6 +1064,7 @@ EmmaMyers
 EmmaRoseKenney
 EmmaStone
 EmmaWatson
+Emoney
 EmoStyle
 ems
 EngagementRings
@@ -1054,6 +1073,7 @@ EngineeringPorn
 enkazpetados
 EnoughCommieSpam
 EnoughMuskSpam
+EntitledBitch
 entitledparents
 EntitledPeople
 entwives
@@ -1108,10 +1128,13 @@ falloutnewvegas
 familyguy
 FamosasTugas
 FamousFaces
+FanFiction
 fantanoforever
+Fantasy_Football
 fantasyfootball
 fantasymoe
 FantasyPL
+FanumTroupe
 farcry
 fardballsland
 farialimabets
@@ -1348,6 +1371,7 @@ GodofWarRagnarok
 godot
 GODZILLA
 GoldCoast
+Goldendoodles
 goldenretrievers
 golf
 GolfGTI
@@ -1361,6 +1385,7 @@ GoosetheBand
 gororoba
 GothFashion
 GothGirls
+Gouache
 GraceCFulton
 GraffitiTagging
 GrandmasPantry
@@ -1384,6 +1409,7 @@ greysanatomy
 GriefSupport
 grilledcheese
 Grimdank
+Grishaverse
 GTA
 GTA5Online
 GTA6
@@ -1415,6 +1441,7 @@ Habs
 hacking
 HadesTheGame
 HadToHurt
+Hailey_Baldwin
 Haircare
 HalfLife
 halloween
@@ -1451,6 +1478,7 @@ HeinousHumanity
 Helicopters
 HelluvaBoss
 HelluvaBossFanArt
+Helluvabossmemes
 HelpMeFind
 HermanCainAward
 HermitCraft
@@ -1512,6 +1540,7 @@ humansarespaceorcs
 HumansBeingBros
 humblebundles
 Humboldt
+hummingbirds
 hungary
 Hungergames
 HunterXHunter
@@ -1549,6 +1578,7 @@ Illustration
 im14andthisisdeep
 ImaginaryCharacters
 ImaginaryCityscapes
+ImaginaryCybernetics
 imaginaryelections
 ImaginaryElves
 ImaginaryHorrors
@@ -1657,6 +1687,7 @@ IzuOcha
 jackrussellterrier
 jadecargill
 Jaguars
+Jaharia
 JailbreakCreations
 jambands
 JamesBond
@@ -1721,6 +1752,7 @@ KansasCityChiefs
 Kantenhausen
 Kanye
 karate
+kardashians
 KarenFukuhara
 KarenGillanLegs
 KateMiddleton
@@ -1840,6 +1872,7 @@ LegsSFW
 leopardgeckos
 LeopardsAteMyFace
 LesbianActually
+lesbianfashionadvice
 lesbianmemes
 lesserafim
 LeSserafim_Hotties
@@ -1872,6 +1905,7 @@ linkoping
 LinusTechTips
 linux
 liseliler
+LittlestPetShop
 LiveFromNewYork
 LiverpoolFC
 LivestreamFail
@@ -2119,6 +2153,7 @@ MurderDrones
 MurderDronesOfficial
 MurderedByWords
 murdermittens
+MURICA
 musclecar
 MushroomGrowers
 mushroomID
@@ -2126,6 +2161,7 @@ Music
 musicproduction
 mutt
 MyBigFatFabulousLife
+MyChemicalRomance
 mycology
 MyHeroAcadamia
 mylittlepony
@@ -2176,6 +2212,7 @@ NeuvilletteMains_
 Neverbrokeabone
 nevertellmetheodds
 NewGreentexts
+NewHeights
 NewIran
 NewJeans
 NewJeans_Hotties
@@ -2237,6 +2274,7 @@ NoStupidQuestions
 NotADragQueen
 NotHowGirlsWork
 notinteresting
+Notion
 notliketheothergirls
 notmycat
 nottheonion
@@ -2361,6 +2399,7 @@ Overwatch_Memes
 OverwatchCirclejerk
 OWConsole
 Owls
+Ozempic
 P1ZZ4_M0ZZARELL4
 Padmalakshmi
 pagan
@@ -2383,6 +2422,7 @@ Paramore
 PardonMyTake
 Pareidolia
 ParentsAreFuckingDumb
+ParlerWatch
 parrots
 PartyParrot
 PassportPorn
@@ -2408,6 +2448,7 @@ pelotonmemes
 penguins
 Pennsylvania
 PeopleFuckingDying
+PercyJacksonTV
 PerfectlyCutBooms
 perfectlycutfucks
 PerfectlyCutMeows
@@ -2548,6 +2589,7 @@ providence
 PS3
 PS5
 PSVR
+psychology
 PublicFreakout
 pukicho
 Pumaconcolor
@@ -2565,6 +2607,7 @@ PvZHeroes
 pykemains
 Pyrex_Love
 pyrocynical
+QAnonCasualties
 Quebec
 queensuniversity
 QuestBridge
@@ -2708,6 +2751,7 @@ SaltLakeCity
 samoyeds
 SamSulek
 sanantonio
+SanDiegan
 sandiego
 SandwichesofHistory
 sanepolitics
@@ -2895,6 +2939,7 @@ Spiderman
 SpidermanPS4
 splatoon
 spongebob
+SportingKC
 sports
 sportsbetting
 spotted
@@ -2992,6 +3037,7 @@ Superstonk
 superstore
 supremeclothing
 surrealmemes
+survivinginfidelity
 survivor
 sushi
 Sverige
@@ -3011,6 +3057,7 @@ talesfromcallcenters
 talesfromtechsupport
 TalesFromTheFrontDesk
 talk_hunfluencers
+tallyhall
 TameImpala
 tankiejerk
 TankPorn
@@ -3038,6 +3085,7 @@ Technoblade
 technology
 techsupportgore
 Teddy
+TeddyFresh
 teefies
 teenagers
 TeenMomOGandTeenMom2
@@ -3115,6 +3163,7 @@ TheNightFeeling
 TheNinthHouse
 TheOnion
 ThePalaceOfMiruko
+thepunchlineisracism
 TheRandomest
 TheRatEmpire
 TheRealJoke
@@ -3142,6 +3191,7 @@ thisismylifenow
 ThomasinMcKenzie
 thomastheplankengine
 ThredUp
+threestooges
 thumbcats
 Thunder
 ThunderThots
@@ -3277,6 +3327,7 @@ Ultrakill
 Ultraleft
 Ultraman
 UNBGBBIIVCHIDCTIICBG
+UndeadUnluck
 Undertale
 UnearthedArcana
 UnethicalLifeProTips
@@ -3382,6 +3433,7 @@ Waterfalls
 waterloo
 Wavyhair
 WCW
+wde
 webcomics
 wec
 Weddingattireapproval
@@ -3424,6 +3476,7 @@ WhitePeopleTwitter
 WhiteScars40K
 wholesome
 wholesomebpt
+WholesomeFantasyArt
 wholesomegifs
 wholesomegreentext
 wholesomememes
