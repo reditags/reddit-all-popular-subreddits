@@ -22,6 +22,7 @@
 30ROCK
 3Dmodeling
 3Dprinting
+3DS
 40kLore
 49ers
 4chan
@@ -33,6 +34,7 @@
 676
 691
 6thForm
+70s
 7vsWild
 80s
 90DayFiance
@@ -47,6 +49,7 @@ ABoringDystopia
 AbruptChaos
 absolutelynotme_irl
 AbsoluteUnits
+ac_newhorizons
 ACAB
 AccidentalAlly
 AccidentalComedy
@@ -100,6 +103,7 @@ ak47
 akita
 Alabama
 AlanWake
+alaska
 Albany
 AlbedosCreations
 alberta
@@ -184,6 +188,7 @@ ANormalDayInRussia
 AnthonyBourdain
 Anticonsumption
 antimeme
+antiMLM
 Antimoneymemes
 antinatalism
 Antiques
@@ -198,6 +203,7 @@ AnyaTaylorJoyFans
 AO3
 aoe4
 apexlegends
+ApexOutlands
 apple
 ApplyingToCollege
 Aquariums
@@ -213,6 +219,7 @@ arduino
 Argaming
 argentina
 ArgentinaBenderStyle
+ArianaGreenblatt_
 arizona
 ARK
 arknights
@@ -277,6 +284,7 @@ Austria
 autism
 AutismInWomen
 autismmemes
+Autos
 Autumn
 AvatarMemes
 Avatarthelastairbende
@@ -316,6 +324,7 @@ BanPitBulls
 BarbaraPalvin
 Barbie
 bardmains
+BarnFinds
 barstoolsports
 baseball
 baseballcards
@@ -520,6 +529,7 @@ calvinandhobbes
 camphalfblood
 canada
 Canada_sub
+canadahousing
 CanadaHousing2
 canes
 canucks
@@ -563,6 +573,7 @@ CatsCalledFood
 catscarryingstuffies
 CatsEnjoyingPets
 CatsInSinks
+CatSmiles
 Catsmirin
 catsofrph
 catsofukraine
@@ -577,6 +588,7 @@ CatTaps
 CBSE
 CelebEvents
 CelebPortraits
+celebrity_soles
 CelebrityFeet
 CelebsBootyTreasure
 CelebsInTights
@@ -604,9 +616,11 @@ Chargers
 CharliDamelio654
 Charlotte
 CharlotteHornets
+charmed
 ChatGPT
 Cheese
 chelseafc
+chemistry
 Chennai
 chessbeginners
 CHIBears
@@ -766,6 +780,7 @@ CrueltySquad
 Cruise
 CrusaderKings
 CryptoCurrency
+CryptoMoonShots
 cs2
 cscareerquestions
 csgo
@@ -795,6 +810,7 @@ DaftPunk
 dagadtmacskak
 dahyun
 DailyChristinaRicci
+dailywire
 Dallas
 dalle2
 dalmatians
@@ -804,6 +820,7 @@ danganronpa
 danglers
 Daniellarson
 danishlanguage
+DaniSpeegle
 dank_meme
 dankchristianmemes
 dankgentina
@@ -825,6 +842,7 @@ darkestdungeon
 darknet
 DarkSouls2
 DarkTide
+darktower
 DarkViperAU
 darkwingsdankmemes
 DarlingInTheFranxx
@@ -849,6 +867,7 @@ de
 deadbydaylight
 deadwood
 deathbattle
+DeathBattleMatchups
 Deathcore
 deathgrips
 deathguard40k
@@ -877,6 +896,7 @@ depressionmeals
 desabafos
 DesiFragranceAddicts
 DesignMyRoom
+DesignPorn
 DesiVideoMemes
 DesperateHousewives
 Destiny
@@ -922,6 +942,7 @@ DIY
 DMAcademy
 DMZ
 DnD
+dndnext
 DobermanPinscher
 doctorwho
 DoctorWhumour
@@ -1019,6 +1040,7 @@ ellacervetto
 Embroidery
 emergencymedicine
 EmiliaClarke
+EmilyOsment
 Eminem
 EmmaMyers
 EmmaRoseKenney
@@ -1069,6 +1091,7 @@ explainlikeimfive
 ExplainTheJoke
 ExtremeCarCrashes
 Eyebleach
+f150
 F1Game
 F1NN5TER
 FacebookScience
@@ -1076,6 +1099,7 @@ facepalm
 FaceRatings
 factorio
 Factoriohno
+FairytaleasFuck
 fakehistoryporn
 fakemon
 FallenOrder
@@ -1110,6 +1134,7 @@ feminineboys
 Feminism
 Ferrari
 ferrets
+FFVIIRemake
 ffxiv
 FFXVI
 fidelityinvestments
@@ -1122,6 +1147,7 @@ FinalFantasy
 FinalFantasyVII
 FinalFantasyVIII
 finance
+financialindependence
 Finanzen
 FindAUnit
 findfashion
@@ -1426,6 +1452,7 @@ Helicopters
 HelluvaBoss
 HelluvaBossFanArt
 HelpMeFind
+HermanCainAward
 HermitCraft
 hermitcraftmemes
 heroes3
@@ -1522,6 +1549,7 @@ Illustration
 im14andthisisdeep
 ImaginaryCharacters
 ImaginaryCityscapes
+imaginaryelections
 ImaginaryElves
 ImaginaryHorrors
 ImaginaryKanto
@@ -1538,6 +1566,7 @@ ImaginaryWesteros
 ImFinnaGoToHell
 ImpracticalArmour
 ImTheMainCharacter
+Incorgnito
 IncredibleIndia
 india
 india_tourism
@@ -1799,6 +1828,7 @@ LegalAdviceUK
 legalcatadvice
 legendofkorra
 LegendsOfRuneterra
+LegionGo
 lego
 legocastles
 legocirclejerk
@@ -1816,6 +1846,7 @@ LeSserafim_Hotties
 lethalcompany
 Letterboxd
 Lexus
+lgballt
 lgbt
 lgbtmemes
 LGBTnews
@@ -1849,6 +1880,7 @@ lobotomyposting
 LocalLLaMA
 london
 lonely
+longboyes
 LongDistance
 longhair
 LonghornNation
@@ -1909,6 +1941,7 @@ MalayalamMovies
 malaysia
 Malazan
 malegrooming
+malehairadvice
 malelivingspace
 MaleSurvivingSpace
 MaliciousCompliance
@@ -1944,6 +1977,7 @@ mathmemes
 MauLer
 Mavericks
 maybemaybemaybe
+MayDayStrike
 mbtimemes
 MCFC
 mcgill
@@ -2042,6 +2076,7 @@ ModernWarfareIII
 MoeMorphism
 Moissanite
 MoldyMemes
+monarchism
 Money
 mongolia
 Monikafandom
@@ -2078,6 +2113,7 @@ mtgfinance
 MtvChallenge
 MujicoCity
 Muppets
+murderbot
 MurderBuns
 MurderDrones
 MurderDronesOfficial
@@ -2094,6 +2130,7 @@ mycology
 MyHeroAcadamia
 mylittlepony
 MyouiMina
+MyPeopleNeedMe
 mythologymemes
 MyTimeAtSandrock
 n64
@@ -2132,6 +2169,7 @@ nederlands
 needforspeed
 Needlefelting
 neopets
+nes
 Netherlands
 networkingmemes
 NeuvilletteMains_
@@ -2148,6 +2186,7 @@ news
 NewsOfTheStupid
 NewsWithJingjing
 NewVegasMemes
+newworldgame
 newyorkcity
 NewYorkMets
 NewYorkNineMild
@@ -2216,6 +2255,7 @@ NYGiants
 nyjets
 NYKnicks
 NYStateOfMind
+NYYankees
 oblivion
 OCDmemes
 OceansAreFuckingLit
@@ -2335,6 +2375,7 @@ PallasCats
 Panarab
 PangetPeroMasarap
 Papaplatte
+paperearmate
 papermario
 ParadoxExtra
 paradoxplaza
@@ -2553,6 +2594,7 @@ rap
 rareinsults
 rarepuppers
 raspberry_pi
+RASPBERRY_PI_PROJECTS
 RATS
 Ratschlag
 RBI
@@ -2586,6 +2628,7 @@ regularcarreviews
 regularshow
 RelationshipMemes
 religiousfruitcake
+remnantgame
 renfaire
 Reno
 Repsneakers
@@ -2687,6 +2730,7 @@ SchizophreniaRides
 schizoposters
 schnauzers
 SchnitzelVerbrechen
+schrumpflation
 science
 scienceisdope
 sciencememes
@@ -2700,6 +2744,7 @@ SCP
 scrungycats
 seals
 seaofstars
+Seaofthieves
 Seattle
 SeattleWA
 SeeleMains
@@ -2777,6 +2822,7 @@ silenthill
 Silksong
 SilverDegenClub
 silverhair
+simplynailogical
 simpsonsshitposting
 simracing
 Sims3
@@ -2794,6 +2840,7 @@ skyrim
 SkyrimMemes
 slaytheprincess
 slaythespire
+Slipknot
 Slovakia
 Slovenia
 slowcooking
@@ -2836,6 +2883,7 @@ spacemarines
 spaceporn
 SpaceWolves
 spacex
+SpaceXLounge
 SpaceXMasterrace
 SpanishMeme
 specializedtools
@@ -2910,6 +2958,7 @@ straykids
 StreetFighter
 streetphotography
 stremtch
+strength_training
 Stretched
 StudentLoans
 StuffOnCats
@@ -2965,6 +3014,7 @@ talk_hunfluencers
 TameImpala
 tankiejerk
 TankPorn
+tanks
 TarihiSeyler
 tarot
 taskmaster
@@ -3135,9 +3185,11 @@ TOR
 Torontobluejays
 torontoraptors
 torties
+Totaldrama
 totalwar
 totalwarhammer
 TOTK
+Touge
 touhou
 TowerofGod
 Toyota
