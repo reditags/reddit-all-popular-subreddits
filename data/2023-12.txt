@@ -265,6 +265,7 @@ arduino
 Argaming
 argentina
 ArgentinaBenderStyle
+ArgentinaCocina
 ArianaGreenblatt_
 arizona
 ARK
@@ -794,6 +795,7 @@ chrissycostanza
 christmas
 ChristmasTrees
 ChristopherNolan
+ChronicPain
 ChurchOfFeMC
 churchofharu
 ChurchOfKasumi
@@ -1020,6 +1022,7 @@ Daniellarson
 danishlanguage
 DaniSpeegle
 dank_meme
+DankAndrastianMemes
 dankchristianmemes
 dankgentina
 dankinindia
@@ -1118,6 +1121,7 @@ DestinyLore
 DestinyMemes
 DestinyTheGame
 Detroit
+DetroitBecomeHuman
 detroitlions
 DetroitPistons
 deusasbrazil
@@ -1127,6 +1131,7 @@ developersIndia
 DevilMayCry
 devils
 dewrim
+dezwo
 DHHMemes
 Diablo
 diablo4
@@ -1736,6 +1741,7 @@ guineapigs
 GuitarAmps
 guitarcirclejerk
 guitarporn
+guitars
 Gundam
 Gunime
 Gunners
@@ -1822,6 +1828,7 @@ HilariaBaldwin
 HIMYM
 hinduism
 hindumemes
+hiphop101
 HipHopImages
 history
 HistoryAnimemes
@@ -1850,6 +1857,7 @@ HolUp
 homeassistant
 HomeDecorating
 homedecoratingCJ
+HomeDepot
 homelab
 HomeNetworking
 homestead
@@ -1869,6 +1877,7 @@ Horses
 hot_reporters
 HOTDBlacks
 HOTDGreens
+hotdogs
 HotlineMiami
 HotWheels
 houkai3rd
@@ -2248,6 +2257,7 @@ law
 Law_and_Politics
 LawSchool
 Lawyertalk
+LeaEluiGinet
 leafs
 leagueoflegends
 LeagueOfMemes
@@ -2499,6 +2509,7 @@ memesopdidnotlike
 MemeVideos
 memexico
 memphis
+MenAndFemales
 MensLib
 MensRights
 menwritingwomen
@@ -2554,6 +2565,8 @@ MinecraftMemes
 minecraftseeds
 MineIslam
 MineralPorn
+MiniatureSchnauzer
+miniminter
 minipainting
 minnesota
 minnesotatwins
@@ -2610,6 +2623,7 @@ motorcycles
 mouf
 Mounjaro
 mountaindew
+mountandblade
 Moustache
 moviecritic
 MovieDetails
@@ -2928,6 +2942,7 @@ overlord
 OverSimplified
 overthegardenwall
 Overwatch
+overwatch2
 Overwatch_Memes
 OverwatchCirclejerk
 OWConsole
@@ -2965,6 +2980,7 @@ ParlerWatch
 parrots
 PartyParrot
 PassportPorn
+passwordmanagerapps
 PastAndPresentPics
 patekphilippe
 Pathfinder2e
@@ -3044,6 +3060,7 @@ pigeon
 Pikabu
 Pikmin
 Pilzarmee
+PineapplebratSexyPics
 pinoy
 Piracy
 PiratedGames
@@ -3110,6 +3127,7 @@ Polska
 Polska_wpz
 polydactyl
 Pomeranians
+ponds
 poodles
 poor
 popculturechat
@@ -3426,6 +3444,7 @@ seinfeld
 SeishunButaYarou
 Sekiro
 SelenaGomez
+self
 SelfAwarewolves
 selfie
 Selfie_Girl
@@ -3545,6 +3564,7 @@ Slycooper
 smashbros
 SmashBrosUltimate
 SmashRage
+SMG4
 Smilepleasse
 smileygirls
 smoking
@@ -4023,6 +4043,7 @@ trees
 tretinoin
 trippinthroughtime
 trishapaytas
+TrishStratus
 TrollCoping
 trolleyproblem
 TrollYChromosome
@@ -4186,6 +4207,7 @@ vinyl
 Virginia
 virginvschad
 virtualreality
+Visiblemending
 visualnovels
 Vivziepopmemes
 vizsla
@@ -4197,11 +4219,13 @@ VolleyballGirls
 Volvo
 vosfinances
 VoteDEM
+vpnusers
 VRchat
 VShojo
 vtm
 vtmb
 vultureculture
+VuvuzelaIPhone
 VyvanLe
 walkaway
 wallstreetbets
@@ -4234,6 +4258,7 @@ waterloo
 Wavyhair
 WCW
 wde
+WeAreAllTurks
 webcomics
 webdev
 Webkinz
