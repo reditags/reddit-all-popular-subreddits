@@ -67,6 +67,7 @@ actuallesbians
 ActualPublicFreakouts
 Acura
 ADCMains
+AddisonRae
 Adelaide
 AdeptusCustodes
 AdeptusMechanicus
@@ -151,6 +152,7 @@ amiwrong
 AmongUs
 amphibia
 Amtrak
+AmyAdams
 AnadeArmas
 analog
 AnalogCommunity
@@ -185,6 +187,7 @@ AnimeFunny
 animegifs
 AnimeHate
 AnimeHoodies
+animeindian
 AnimeMeme
 animememes
 Animemes
@@ -577,6 +580,7 @@ canada
 Canada_sub
 canadahousing
 CanadaHousing2
+CanadaSoccer
 candy
 canes
 canucks
@@ -584,6 +588,7 @@ CapitolConsequences
 capybara
 carporn
 CarryMinati
+CarsAustralia
 carscirclejerk
 CarsIndia
 Cartalk
@@ -782,6 +787,7 @@ confidentlyincorrect
 confusing_perspective
 CongratsLikeImFive
 CongratulationsSailer
+conlangscirclejerk
 Conservative
 ConservativeMemes
 conservatives
@@ -868,6 +874,7 @@ custommagic
 cute
 cuteanimals
 cuteguyswithcats
+cyberDeck
 Cyberpunk
 cyberpunkgame
 cyberpunkred
@@ -912,6 +919,7 @@ DannyGonzalez
 Daredevil
 daria
 DarkAndDarker
+DarkAngels40k
 DarkArtwork
 DarkBRANDON
 darkestdungeon
@@ -1015,6 +1023,8 @@ DiscoElysium
 discordapp
 Discordmemes
 discordVideos
+dishonored
+Dislyte
 disney
 DisneyDiamonds
 DisneyEyes
@@ -1339,6 +1349,7 @@ Frasier
 FreckledGirls
 freefolk
 FreeGameFindings
+FreezingFuckingCold
 Frenchbulldogs
 FreyaAllan
 FridayNightFunkin
@@ -1349,6 +1360,7 @@ fromsoftware
 FromTVEpix
 Frostpunk
 Frugal
+Fruitbatcats
 fsusports
 fuckcars
 FuckImOld
@@ -1399,10 +1411,12 @@ gamindustri
 gaming
 Gamingcirclejerk
 GamingLeaksAndRumours
+gamingmemes
 gamingpc
 Ganyu
 garageporn
 GarandThumb
+Gardevoir
 gatekeeping
 GatekeepingYuri
 Gatos
@@ -1734,6 +1748,7 @@ indiadiscussion
 indiameme
 Indiana
 indianajones
+IndianArtAI
 IndianBeautyDeals
 indianbikes
 IndianBoysOnTinder
@@ -1749,6 +1764,7 @@ Indiangirlsontinder
 IndianHipHopHeads
 indianmemer
 IndianMemeTemplates
+IndiaNostalgia
 IndianPets
 indianrailways
 indiasocial
@@ -1766,6 +1782,7 @@ InlovewithKarengillan
 InRealLifeGirls
 insaneparents
 insanepeoplefacebook
+InsanePeopleQuora
 insanepinoyfacebook
 InsideJob
 InsideMollywood
@@ -1849,6 +1866,7 @@ jobs
 JoeBiden
 JoeRogan
 JohnMayer
+JohnWick
 joinsquad
 Jojo
 JoJoMemes
@@ -2191,6 +2209,7 @@ me_irlgbt
 meatcrayon
 MechanicAdvice
 MechanicalKeyboards
+MechanicalPandey
 MedicalGore
 MedievalCats
 medlabprofessionals
@@ -2552,6 +2571,7 @@ OnePiece
 OnePieceLiveAction
 OnePiecePowerScaling
 OnePieceTCG
+oneplus
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
@@ -2621,6 +2641,7 @@ painting
 PakCricket
 pakistan
 palebeauties
+Paleontology
 Palestine
 Palestinian_Violence
 PallasCats
@@ -3035,6 +3056,7 @@ SchizophreniaRides
 schizoposters
 schnauzers
 SchnitzelVerbrechen
+schoolcounseling
 schrumpflation
 science
 scienceisdope
@@ -3249,6 +3271,7 @@ StarshipPorn
 starterpacks
 startrekmemes
 StarTrekStarships
+StartUpIndia
 StarWars
 StarWarsBattlefront
 StarWarsCantina
@@ -3543,6 +3566,7 @@ Torontobluejays
 torontoraptors
 torties
 Totaldrama
+TotalKalesh
 totalwar
 totalwarhammer
 TOTK
@@ -3573,6 +3597,7 @@ travisscott
 treedibles
 trees
 trippinthroughtime
+trishapaytas
 TrollCoping
 trolleyproblem
 TrollYChromosome
@@ -3767,6 +3792,7 @@ WCW
 wde
 webcomics
 wec
+WECcirclejerk
 Weddingattireapproval
 weddingshaming
 WeDoALittlePosting
@@ -3854,6 +3880,7 @@ worldjerking
 worldnews
 worldnewsvideo
 WorldofTanks
+WormMemes
 wortwitzkasse
 wow
 Wrangler
