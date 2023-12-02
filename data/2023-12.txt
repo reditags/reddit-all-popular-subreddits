@@ -110,6 +110,7 @@ alaska
 Albany
 AlbedosCreations
 alberta
+Albuquerque
 Alderwood
 Aleague
 alexandradaddario
@@ -486,6 +487,7 @@ botecodoreddit
 BottleDigging
 bouldering
 Boxer
+BoxerDogs
 Boxers
 Boxing
 boxoffice
@@ -660,6 +662,7 @@ CHICubs
 Chihuahua
 ChikaPH
 childemains
+ChildrenFallingOver
 chile
 China
 chinaglass
@@ -681,6 +684,7 @@ ChurchofMarnie
 ChurchOfRyo
 ChurchOfSenko
 CICO
+cigars
 CillianMurphy
 cincinnati
 cinematography
@@ -831,6 +835,7 @@ csMajors
 CultOfTheLamb
 Cuphead
 CuratedTumblr
+curb
 curledfeetsies
 cursed_videomemes
 cursedcomments
@@ -923,6 +928,7 @@ debtfree
 Decks
 DecodingTheGurus
 DeepRockGalactic
+DeFranco
 deftones
 Dehyamains
 delhi
@@ -1074,6 +1080,7 @@ Edgerunners
 EDH
 Edinburgh
 Edmonton
+educationalgifs
 edwinbarnesc
 Eesti
 Eevee
@@ -1433,11 +1440,13 @@ goodyearwelt
 google
 GoosetheBand
 gororoba
+goth
 GothFashion
 GothGirls
 Gouache
 GraceCFulton
 GraffitiTagging
+Granblue_en
 GrandmasPantry
 grandorder
 grandrapids
@@ -1502,6 +1511,7 @@ halodripfinite
 HaloMemes
 Hammers
 hamsters
+handbags
 handtools
 HannahBarron
 happycowgifs
@@ -1518,6 +1528,7 @@ Hasan_Piker
 hatsune
 HauntedMound
 hawks
+haydenpanettiere
 HayleyAtwell
 HazbinHotel
 headpats
@@ -1540,6 +1551,7 @@ hermitcraftmemes
 heroes3
 heroesofthestorm
 HeroForgeMinis
+hewillbebaked
 heyUK
 HFY
 HighHeels
@@ -1578,6 +1590,7 @@ HondaElement
 HonkaiStarRail
 HonkaiStarRail_leaks
 honoraryweevils
+HoosiersBasketball
 hopeposting
 Hornyjail
 horror
@@ -1860,6 +1873,7 @@ Kitten
 kittens
 Kitting
 kittyhasaquestion
+KneadyCats
 knifemaking
 KnowledgeFight
 Kokomi_Mains
@@ -1874,6 +1888,7 @@ kpics
 kpop
 kpop_uncensored
 kpopthoughts
+KreigPosting
 kristenstewart
 ksi
 KumoDesu
@@ -1999,6 +2014,7 @@ loreofleague
 LosAngelesRams
 loseit
 Losercity
+lost
 Lost_Architecture
 lostarkgame
 lostpause
@@ -2213,6 +2229,7 @@ Morocco
 Morrowind
 MortalKombat
 Mortalkombatleaks
+moths
 motogp
 motorcitykitties
 motorcycle
@@ -2227,6 +2244,7 @@ movies
 Moviesinthemaking
 MrRobot
 MSsEcReTPoDcAsT
+MST3K
 mtfashion
 mtg
 mtgfinance
@@ -2253,6 +2271,7 @@ MyHeroAcadamia
 mylittlepony
 MyouiMina
 MyPeopleNeedMe
+MysteryDungeon
 mythologymemes
 MyTimeAtSandrock
 n64
@@ -2338,6 +2357,7 @@ nin
 Ningen
 NinomaeInanis
 nintendo
+NintendoMemes
 NintendoSwitch
 Nirvana
 NLBest
@@ -2369,6 +2389,7 @@ notliketheothergirls
 notmycat
 nottheonion
 nova
+nowmycat
 nrl
 nukedmemes
 nursepractitioner
@@ -2394,6 +2415,7 @@ oddlysatisfying
 oddlyspecific
 oddlyterrifying
 OddSatisfying
+OffGridCabins
 OfflinetvGirls
 OffMyChestPH
 Ohio
@@ -2479,6 +2501,7 @@ OTMemes
 OtomeIsekai
 OtonariNoTenshiSama
 ottawa
+OttawaSenators
 Otters
 OurFlagMeansDeath
 Outdoors
@@ -2649,6 +2672,7 @@ PoliticalCompassMemes
 PoliticalHumor
 PoliticalMemes
 politics
+PoliticsPeopleTwitter
 Politiek
 PolitiekeMemes
 Polska
@@ -2677,6 +2701,7 @@ PrepperIntel
 PrequelMemes
 Presidents
 PrettyGirls
+PrettyLittleLiars
 PrettyOlderWomen
 PrintedWarhammer
 prius
@@ -2741,6 +2766,7 @@ ralsei
 ramen
 rance
 RandomThoughts
+rangers
 rap
 rareinsults
 rarepuppers
@@ -2784,10 +2810,12 @@ reloading
 remnantgame
 renfaire
 Reno
+Renters
 Repsneakers
 RepsneakersDogs
 reptiles
 RepTime
+RepublicaArgentina
 rescuecats
 rescuedogs
 ReservationDogs
@@ -2818,6 +2846,7 @@ RocketLeague
 RocketLeagueEsports
 rockhounds
 rockstar
+RodriguesFamilySnark
 RoleReversal
 rolltide
 RomanceClub
@@ -2848,6 +2877,7 @@ RussiaUkraineWar2022
 rutgers
 rva
 RWBY
+RWBYcritics
 ryujin
 sabaton
 Saber
@@ -2941,9 +2971,11 @@ SFWsoftcore
 SGExams
 Sham_Sharma_Show
 shameless
+ShaneGillis
 ShareYourSelfie
 Shark_Park
 SharkLab
+sharpei
 shehulk
 ShenheMains
 ShermanPosting
@@ -3163,6 +3195,7 @@ SupermanAdventures
 SuperMegaShow
 SupermodelCats
 Supernatural
+supersmashbros
 Superstonk
 superstore
 Supra
@@ -3218,6 +3251,7 @@ technology
 techsupportgore
 Teddy
 TeddyFresh
+TedLasso
 teefies
 teenagers
 TeenMomOGandTeenMom2
@@ -3246,6 +3280,7 @@ tf_irl
 thalassophobia
 thanksihateit
 thatHappened
+ThatLookedExpensive
 ThatsInsane
 Thaumcraft
 The10thDentist
@@ -3343,13 +3378,16 @@ timisoara
 TimPool
 Tinder
 TingyunShrine
+tinyanimalsonfingers
 Tinycatsinbigspaces
+TinyHouses
 titanfall
 titanic
 tja
 tjournal_refugees
 TMKOC
 TMNT
+TNG
 TNOmod
 toarumajutsunoindex
 todayilearned
@@ -3401,6 +3439,7 @@ Transmogrification
 trashpandas
 TrashTaste
 trashy
+traumatizeThemBack
 travel
 travisscott
 treedibles
@@ -3629,6 +3668,7 @@ whenthe
 whenwomenrefuse
 WhiskerFireworks
 whiskey
+WhiteCats
 WhitePeopleTwitter
 WhiteScars40K
 wholesome
@@ -3701,6 +3741,7 @@ Xenoblade_Chronicles
 xertunposting
 XFiles
 XGALX
+xkcd
 xmen
 xqcow
 XXXTENTACION
@@ -3711,6 +3752,7 @@ yayfoxxo
 Yeji
 YelanMains
 yesyesyesyesno
+YigaClanOfficial
 yo_ctm
 YOASOBI
 YofukashiNoUta
