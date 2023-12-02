@@ -321,6 +321,7 @@ awwnverts
 Awww
 AyakaMains
 babyanimals
+BabyBumps
 Backen
 BacktotheFuture
 BackYardChickens
@@ -434,6 +435,7 @@ bjj
 blackcats
 BlackClover
 blackmagicfuckery
+BlackPeopleComedy
 blackpeoplegifs
 BlackPeopleTwitter
 BlackPink
@@ -494,6 +496,7 @@ BostonTerrier
 Botchedsurgeries
 botecodoreddit
 BottleDigging
+boulder
 bouldering
 Boxer
 BoxerDogs
@@ -648,6 +651,7 @@ Chainsawfolk
 ChainsawMan
 chainsawmancirclejerk
 ChampionshipHistory
+Changarrito
 ChantelJeffries
 Chaos40k
 ChaosKnights
@@ -677,6 +681,7 @@ ChildrenFallingOver
 chile
 China
 chinaglass
+Chipotle
 Chiraqology
 Chivalry2
 chloegracemoretz
@@ -790,6 +795,7 @@ CookieRunKingdoms
 Cooking
 coolguides
 coonhounds
+coralisland
 cordcutters
 corgi
 Coronavirus
@@ -1022,9 +1028,11 @@ dogelore
 DoggyDNA
 DoglaREDDIT
 dogpictures
+dogs
 dogsgettingdogs
 DogsMirin
 dogsusingpillows
+DojaCat
 Dolls
 Donkeys
 dontputyourdickinthat
@@ -1037,6 +1045,7 @@ doordash
 doordash_drivers
 doordashgremlin
 DotA2
+DougDoug
 dragonballfighterz
 DragonballLegends
 Dragonballsuper
@@ -1065,6 +1074,7 @@ Dublin
 duck
 ducks
 DuggarsSnark
+duke
 dumplingmeme
 DumpsterDiving
 DunderMifflin
@@ -1130,6 +1140,7 @@ EndTipping
 EngagementRings
 engineeringmemes
 EngineeringPorn
+englishbulldog
 enkazpetados
 EnoughCommieSpam
 EnoughMuskSpam
@@ -1248,6 +1259,7 @@ FireEmblemHeroes
 FireEmblemThreeHouses
 Firefighting
 firefly
+firewood
 FirstTimeHomeBuyer
 Fit_babes
 FitAndNatural
@@ -1276,6 +1288,7 @@ fnki
 fnv
 fo4
 fo76
+FocalorsMains
 food
 foodbutforbabies
 foodhacks
@@ -1471,6 +1484,7 @@ Granblue_en
 GrandmasPantry
 grandorder
 grandrapids
+GrandTheftAutoV
 granturismo
 graphic_design
 Grapplerbaki
@@ -1488,6 +1502,7 @@ Greyhounds
 greysanatomy
 GriefSupport
 grilledcheese
+grilling
 Grimdank
 Grishaverse
 GTA
@@ -1959,9 +1974,11 @@ LearmannTwins
 learningtocat
 LearnJapanese
 learnmath
+leaves
 lebowski
 lee_17_2_
 legal
+legaladvicecanada
 LegalAdviceIndia
 LegalAdviceUK
 legalcatadvice
@@ -2111,6 +2128,7 @@ Maplestory
 MapPorn
 mapporncirclejerk
 MarchAgainstNazis
+MargotRobbie
 Mariners
 Mario
 mariokart
@@ -2141,6 +2159,7 @@ mcgill
 McMansionHell
 me_irl
 me_irlgbt
+meatcrayon
 MechanicAdvice
 MechanicalKeyboards
 MedicalGore
@@ -2231,9 +2250,11 @@ MMA
 mmamemes
 MMORPG
 MobileLegendsGame
+modeltrains
 ModernMagic
 ModernWarfareII
 ModernWarfareIII
+moedred
 MoeMorphism
 Moissanite
 MoldyMemes
@@ -2416,6 +2437,7 @@ notinteresting
 Notion
 notliketheothergirls
 notmycat
+NotMyJob
 nottheonion
 nova
 nowmycat
@@ -2477,6 +2499,7 @@ okmatewanker
 okoidawappler
 okprietenretardat
 Old_Recipes
+Oldhouses
 OldManDog
 OldPhotosInRealLife
 OldSchoolCelebs
@@ -2710,6 +2733,7 @@ Polska_wpz
 polydactyl
 Pomeranians
 poodles
+poor
 popculturechat
 popheadscirclejerk
 popping
@@ -2725,6 +2749,7 @@ poutine
 PoutineCrimes
 povertyfinance
 powerrangers
+PraiseTheCameraMan
 PrehistoricMemes
 PremierLeague
 PrepperIntel
@@ -2751,6 +2776,7 @@ protogen
 providence
 PS3
 PS5
+PSP
 PSVR
 psychology
 PublicFreakout
@@ -2771,6 +2797,7 @@ pykemains
 Pyrex_Love
 pyrocynical
 QAnonCasualties
+qotsa
 Quebec
 queensuniversity
 QuestBridge
@@ -2786,6 +2813,7 @@ radioheadcirclejerk
 ragdolls
 RaidenMains
 raiders
+raidsecrets
 railroading
 raimimemes
 Rainbow6
@@ -3014,6 +3042,7 @@ Shark_Park
 SharkLab
 sharpei
 shehulk
+sheltie
 ShenheMains
 ShermanPosting
 shiba
@@ -3036,6 +3065,7 @@ Shittyaskflying
 shittyfoodporn
 Shittygamecollecting
 shittyhalolore
+ShittyLifeProTips
 ShittyMapPorn
 shittymobilegameads
 shittymoviedetails
@@ -3093,6 +3123,7 @@ SmugIdeologyMan
 snakes
 SnapshotHistory
 sneakerreps
+Sneks
 SNKRS
 snow
 snowboarding
@@ -3306,6 +3337,7 @@ terriblefacebookmemes
 TerrifyingAsFuck
 Terroriser
 TeslaLounge
+TeslaModel3
 teslamotors
 Texans
 texas
@@ -3373,6 +3405,7 @@ TheMongrelPunt
 thenetherlands
 TheNightFeeling
 TheNinthHouse
+TheOdysseyHadAPurpose
 TheOnion
 ThePalaceOfMiruko
 thepunchlineisracism
@@ -3424,6 +3457,7 @@ TingyunShrine
 tinyanimalsonfingers
 Tinycatsinbigspaces
 TinyHouses
+TipOfMyFork
 titanfall
 titanic
 tja
@@ -3540,6 +3574,7 @@ ubius
 UCalgary
 UCI
 UCSD
+udub
 ufc
 UFC4
 ufl
@@ -3647,6 +3682,7 @@ VoidCats
 VolleyballGirls
 VoteDEM
 VShojo
+vtmb
 vultureculture
 VyvanLe
 walkaway
@@ -3693,6 +3729,7 @@ Wellington
 Wellthatsucks
 wendigoon
 WerWieWas
+WestHighlandTerriers
 westies
 WestSubEver
 WetlanderHumor
