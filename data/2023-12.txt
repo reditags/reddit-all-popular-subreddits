@@ -117,6 +117,7 @@ airpods
 airsoft
 AITAH
 aiyu
+AJR
 ak47
 akita
 Alabama
@@ -195,6 +196,7 @@ AnimalsBeingJerks
 AnimalsBeingMoms
 AnimalsBeingStrange
 animalsdoingstuff
+AnimalTracking
 animation
 anime_best_moments
 anime_irl
@@ -263,11 +265,13 @@ architecture
 ArchitecturePorn
 archlinux
 arduino
+AreYouGarbagePod
 Argaming
 argentina
 ArgentinaBenderStyle
 ArgentinaCocina
 ArianaGreenblatt_
+ariheads
 arizona
 ARK
 arkham
@@ -380,6 +384,7 @@ BackYardChickens
 Bad_Cop_No_Donut
 badads
 badfriendspod
+badlegaladvice
 BadMtgCombos
 BadMUAs
 badroommates
@@ -411,6 +416,7 @@ baseballcards
 baseballcirclejerk
 basset
 bassethounds
+bassfishing
 BassGuitar
 bathandbodyworks
 batman
@@ -697,6 +703,7 @@ Catculations
 CatDistributionSystem
 catfaceplant
 CatgirlSFW
+CATHELP
 Catholicism
 CatholicMemes
 CathyKelley
@@ -748,6 +755,7 @@ celestememes
 CelineFarach
 cellbits
 CemeteryPorn
+CentralChurch
 centuryhomes
 CFB
 cfbmemes
@@ -964,6 +972,7 @@ crescentcitysjm
 Cricket
 CricketShitpost
 cricketworldcup
+crime
 CrimeScene
 cringe
 CringePurgatory
@@ -1069,6 +1078,7 @@ DarlingInTheFranxx
 DarwinAwards
 daschund
 dashcamgifs
+dashcams
 DataHoarder
 dataisbeautiful
 datealive
@@ -1129,6 +1139,7 @@ desimemes
 DesiVideoMemes
 desperatebag1125
 DesperateHousewives
+DessertPorn
 Destiny
 destiny2
 DestinyFashion
@@ -1216,6 +1227,7 @@ doordashgremlin
 Dorohedoro
 DotA2
 DougDoug
+DownvotedToOblivion
 dragonballfighterz
 DragonballLegends
 Dragonballsuper
@@ -1265,6 +1277,7 @@ dyinglight
 DylanteroYT
 DynastyFF
 Dysonairwrap
+EA_NHL
 EarthPorn
 EASportsFC
 EatCheapAndHealthy
@@ -1487,6 +1500,7 @@ FloridaMan
 florists
 flowers
 FluentInFinance
+flyfishing
 flying
 fnafmeme
 fnaftheories
@@ -1516,6 +1530,7 @@ FortNiteBR
 FortniteCompetitive
 FortniteLeaks
 FortniteMemes
+FortniteSavetheWorld
 forwardsfromgrandma
 ForwardsFromKlandma
 forza
@@ -1545,6 +1560,7 @@ FreyaAllan
 FridayNightFunkin
 friendlyjordies
 Frieren
+fringe
 frogs
 FromKittenToCat
 fromsoftware
@@ -1764,6 +1780,7 @@ GuardianTales
 Guildwars2
 Guiltygear
 guineapigs
+Guitar
 GuitarAmps
 guitarcirclejerk
 guitarporn
@@ -1915,6 +1932,7 @@ houston
 HowEarnMoneyOnline
 Howtolooksmax
 howyoudoin
+Hozier
 httyd
 HUEstation
 humansarespaceorcs
@@ -2045,6 +2063,7 @@ insanepinoyfacebook
 inscryption
 InsideJob
 InsideMollywood
+InstacartShoppers
 InstaCelebsGossip
 Instagramreality
 instantbarbarians
@@ -2232,6 +2251,7 @@ KneadyCats
 knifemaking
 KnowledgeFight
 KoboldLegion
+kof
 Kokomi_Mains
 kolkata
 KolkataKnightRiders
@@ -2512,6 +2532,7 @@ MauLer
 Mavericks
 maybemaybemaybe
 MayDayStrike
+Mazatlan
 mbtimemes
 McDonaldsEmployees
 McFarlaneFigures
@@ -2534,6 +2555,7 @@ megantheestallion
 Megumin
 meirl
 MeJulgue
+meks22litfeet
 MelanieMartinez
 melbourne
 meme
@@ -2604,6 +2626,7 @@ mimovi
 mina_irl
 Mindustry
 Minecraftbuilds
+MinecraftChampionship
 Minecrafthmmm
 MinecraftMemes
 minecraftseeds
@@ -2712,6 +2735,7 @@ MyouiMina
 MyPeopleNeedMe
 mystery
 MysteryDungeon
+mysticmessenger
 mythologymemes
 MyTimeAtSandrock
 n64
@@ -2767,6 +2791,7 @@ networkingmemes
 NeuvilletteMains_
 Neverbrokeabone
 nevertellmetheodds
+NewDealAmerica
 NewGreentexts
 NewHeights
 NewIran
@@ -2842,6 +2867,7 @@ nothingeverhappens
 NotHowGirlsWork
 notinteresting
 Notion
+notlikeothergirls
 notliketheothergirls
 notmycat
 NotMyJob
@@ -3128,6 +3154,8 @@ PizzaCrimes
 PizzaTower
 pj_explained
 placeDE
+Planespotting
+Planetside
 PlanetZoo
 plantclinic
 PlantedTank
@@ -3384,6 +3412,7 @@ Rochester
 Rockband
 RocketLeague
 RocketLeagueEsports
+rockets
 rockhounds
 rockstar
 RodriguesFamilySnark
@@ -3695,6 +3724,7 @@ Spore
 SportingKC
 sports
 sportsbetting
+sportsbook
 spotify
 spotted
 spreadsmile
@@ -3739,6 +3769,7 @@ StarWarsEU
 StarWarsleftymemes
 starwarsmemes
 Staryuukisincensura
+StassieBaby
 STAYC
 stbernards
 steak
@@ -3880,6 +3911,7 @@ TedLasso
 teefies
 teenagers
 teenagersbuthot
+teenmom
 TeenMomOGandTeenMom2
 teentitans
 Tekken
@@ -3969,6 +4001,7 @@ TheLib
 TheMagnusArchives
 TheMajorityReport
 TheMandalorianTV
+TheMassive
 TheMcDojoLife
 TheMongrelPunt
 thenetherlands
@@ -4252,6 +4285,7 @@ vegan
 vegancirclejerk
 VeganDE
 veganfitness
+VeganFoodPorn
 veganrecipes
 vegas
 velvethippos
@@ -4345,6 +4379,7 @@ WeDoALittlePosting
 weed
 ween
 weeviltime
+WegovyWeightLoss
 Weird
 Weird_Girls
 weirddalle
@@ -4501,6 +4536,7 @@ YouniquePresenterMS
 youseeingthisshit
 YouShouldKnow
 youtube
+youtubedrama
 ytvretro
 YuB
 yugioh
