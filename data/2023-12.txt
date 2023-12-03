@@ -248,6 +248,7 @@ ANTM
 Anveshi_Jain
 anxietymemes
 Anya_TaylorJoy
+anya_zendaya
 AnyaTaylorJoy
 AnyaTaylorJoyFans
 AO3
@@ -321,6 +322,7 @@ AskHistory
 AskMec
 AskMechanics
 AskMen
+AskMenAdvice
 AskMiddleEast
 AskPH
 AskReddit
@@ -335,6 +337,7 @@ asoiaf
 asoiafcirclejerk
 assam
 assassinscreed
+AssassinsCreedMemes
 assettocorsa
 assholedesign
 astrologymemes
@@ -392,6 +395,7 @@ aww
 awwnimate
 awwnverts
 Awww
+axolotls
 AyakaMains
 babyanimals
 BabyBumps
@@ -660,6 +664,7 @@ Brooklyn
 brooklynninenine
 Browns
 brussels
+BryceDallasHoward
 btd6
 Btechtards
 bts7
@@ -1059,6 +1064,7 @@ csgo
 csMajors
 CulinaryPlating
 CultOfEchidna
+CultofMorganLeFay
 CultOfTheLamb
 cults
 Cuphead
@@ -1621,6 +1627,7 @@ forsen
 FORTnITE
 FortNiteBR
 FortniteCompetitive
+FortniteFashion
 FortniteLeaks
 FortniteMemes
 FortniteSavetheWorld
@@ -1639,6 +1646,7 @@ fourthwing
 foxes
 FoxFiction
 foxholegame
+fpv
 FragileWhiteRedditor
 france
 FranceDetendue
@@ -1755,6 +1763,7 @@ Genshin_Impact_Leaks
 Genshin_Lore
 Genshin_Wallpaper
 GenshinGaysE
+GenshinHomeworld
 GenshinImpact
 gentlemanboners
 GenUsa
@@ -1783,6 +1792,7 @@ ghostbusters
 ghostoftsushima
 Ghosts
 GIDLE_Hotties
+GifRecipes
 gifs
 gifsthatendtoosoon
 gifsthatkeepongiving
@@ -1862,6 +1872,8 @@ GreekMythology
 GreenAndPleasant
 GreenBayPackers
 greenday
+greggsappreciation
+gremio
 Greyhounds
 greysanatomy
 GriefSupport
@@ -1910,6 +1922,7 @@ HadToHurt
 HaileeSteinfeld
 Hailey_Baldwin
 Haircare
+HairDye
 hajimenoippo
 HalfLife
 halifax
@@ -1924,6 +1937,7 @@ handmade
 HandOfMemes
 handtools
 HannahBarron
+HannahStocking_
 Hannover
 happycowgifs
 happycryingdads
@@ -2169,6 +2183,7 @@ IndoorGarden
 Indore
 INDYCAR
 InfinityTrain
+inflation
 Infographics
 InfowarriorRides
 InfrastructurePorn
@@ -2197,6 +2212,7 @@ interstellar
 inthenews
 IntoTheSpiderverse
 intresseklubben
+introvertmemes
 Invincible
 Iowa
 ipad
@@ -2574,6 +2590,7 @@ lotr
 lotrmemes
 louboutins
 Louisiana
+Louisvuitton
 loveafterlockup
 LoveForLandchads
 LoveForRedditors
@@ -2610,6 +2627,7 @@ Madden
 MadelynCline
 MadeMeCry
 MadeMeSmile
+madisonwi
 madlads
 MadMax
 MAFS_UK
@@ -2678,6 +2696,7 @@ massachusetts
 masseffect
 MassEffectMemes
 masterduel
+Mastiff
 mathmemes
 matureplants
 MauLer
@@ -2825,6 +2844,7 @@ MoldyMemes
 MonaMains
 monarchism
 Money
+MoneyDiariesACTIVE
 mongolia
 MonicaBellucci
 Monikafandom
@@ -3060,6 +3080,7 @@ nursepractitioner
 nursing
 nus
 NuxTakuSubmissions
+nuzlocke
 nvidia
 nwordington
 NYCinfluencersnark
@@ -3439,6 +3460,7 @@ PrettyGirls
 PrettyLittleLiars
 PrettyOlderWomen
 PrideandPrejudice
+prime
 PrincessesOfPower
 PrintedWarhammer
 prius
@@ -3464,6 +3486,7 @@ PS5
 PSP
 PSV
 PSVR
+psych
 Psychiatry
 psychology
 PublicFreakout
@@ -3687,6 +3710,7 @@ SaimanSays
 SaintMeghanMarkle
 saitatsumaki
 saiyanpeopletwitter
+SakamotoDays
 Salamanders40k
 sales
 salmahayek
@@ -3705,8 +3729,10 @@ sanfrancisco
 SanJoseSharks
 SantaCatarina
 Santiago
+saopaulo
 SapphoAndHerFriend
 SarahJMaas
+saskatchewan
 Sat
 SatanicTemple_Reddit
 satanism
@@ -4116,6 +4142,7 @@ tacobell
 tacos
 tacticalgear
 TacticalIssueCat
+Takagi_san
 tales
 talesfromcallcenters
 TalesFromDF
@@ -4486,6 +4513,7 @@ UK_Food
 ukdrill
 UKJobs
 UKPersonalFinance
+ukraina
 ukraine
 Ukraine_UA
 UkraineInvasionVideos
@@ -4594,6 +4622,7 @@ Vocaloid
 Voicesofthevoid
 void_memes
 VoidCats
+Volcanoes
 Volksverpetzer
 VolleyballGirls
 Volvo
@@ -4717,6 +4746,7 @@ wildlifephotography
 WildWestPics
 willhaben
 willwood
+windsorontario
 wine
 wineandcrimepodcast
 WingsOfFire
