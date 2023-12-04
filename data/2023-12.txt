@@ -61,6 +61,7 @@ AbolishTheMonarchy
 ABoringDystopia
 AbruptChaos
 absolutelynotme_irl
+absolutelynotmeirl
 AbsoluteUnits
 Abyssinians
 ac_newhorizons
@@ -431,6 +432,7 @@ Autumn
 Avatar
 AvatarMemes
 Avatarthelastairbende
+avengedsevenfold
 aves
 avesNYC
 aviation
@@ -457,6 +459,7 @@ BacktotheFuture
 BackYardChickens
 Bad_Cop_No_Donut
 badads
+badassanimals
 badfriendspod
 badlegaladvice
 BadMtgCombos
@@ -502,6 +505,7 @@ bathandbodyworks
 batman
 BatmanArkham
 BattleBitRemastered
+BattleBrothers
 battlecats
 Battlefield
 battlefield2042
@@ -588,6 +592,7 @@ Bioshock
 biotech
 birding
 BirdingGermany
+BirdLoaf
 BirdsArentReal
 Birdsfacingforward
 Birmingham
@@ -1120,6 +1125,7 @@ cowboys
 cowcats
 Cows
 coybig
+Coyotes
 coys
 cozy
 CozyPlaces
@@ -1406,6 +1412,7 @@ DoglaREDDIT
 dogpictures
 dogs
 dogs_getting_dogs
+DogsAndPlants
 dogsgettingdogs
 DogsMirin
 dogsusingpillows
@@ -1894,10 +1901,12 @@ gamegrumps
 gameofthrones
 gamernews
 gamesEcultura
+GameStop
 GameTheorists
 gamindustri
 gaming
 Gamingcirclejerk
+GamingLaptops
 GamingLeaksAndRumours
 gamingmemes
 gamingnews
@@ -2512,6 +2521,7 @@ JennyNicholson
 jerma985
 jerseyshore
 jessicaalba
+JetLagTheGame
 Jewdank
 jewelry
 jiggledolls
@@ -2632,6 +2642,7 @@ kittens
 Kitting
 kittyhasaquestion
 kittykankles
+KittyPupperLove
 KleeMains
 KneadyCats
 knifemaking
@@ -3452,6 +3463,7 @@ OldPhotosInRealLife
 OldSchoolCelebs
 OldSchoolCool
 OldWorldBlues
+OLED_Gaming
 OliviaCooke
 OliviaMunn
 OliviaRodrigo_
@@ -3755,6 +3767,7 @@ PolitiekeMemes
 Polska
 Polska_wpz
 polydactyl
+Polytopia
 Pomeranians
 ponds
 poodles
@@ -3919,6 +3932,7 @@ ReasonableFantasy
 REBubble
 recap
 recipes
+reclassified
 recruitinghell
 red_velvet
 redbull
@@ -4148,6 +4162,7 @@ Selfie_Girl
 SelfieOver25
 selfimprovement
 SellingSunset
+Semaglutide
 SemContexto
 seniorkitties
 seolhyun
@@ -4248,6 +4263,7 @@ Sims3
 singapore
 SingaporeRaw
 singularity
+Sino
 SipsTea
 sissyfitness
 sistersofbattle
@@ -4260,6 +4276,7 @@ skateboarding
 skaven
 sketches
 skiing
+Skincare_Addiction
 SkincareAddicts
 SkirkMains
 SkyeBlueOffical
@@ -4278,6 +4295,7 @@ Slovakia
 Slovenia
 slowcooking
 Slycooper
+smallbusiness
 smashbros
 SmashBrosUltimate
 SmashRage
@@ -4303,6 +4321,7 @@ soccercirclejerk
 socialanxiety
 socialism
 SocialismIsCapitalism
+SocialistGaming
 SocialistModernism
 SocialistRA
 socialskills
@@ -4923,6 +4942,7 @@ tzuyu
 Ubiquiti
 ubius
 UCalgary
+ucf
 UCI
 ucla
 UCSD
@@ -5189,6 +5209,7 @@ WiggleButts
 wii
 wikipedia
 wildcampingintheuk
+WildernessBackpacking
 wildlifephotography
 WildWestPics
 willhaben
@@ -5297,6 +5318,7 @@ yoga
 Yoimiya_Mains
 yoojimin
 Yorkies
+yorku
 Yosemite
 yotsuba
 YouBelongWithMemes
