@@ -725,6 +725,7 @@ CAguns
 caitlinerinoneil
 cake
 cakedecorating
+cakefails
 CalamariRaceTeam
 CalamityMod
 Calgary
@@ -751,6 +752,7 @@ CapitolConsequences
 caps
 capybara
 carbonsteel
+CARiverPlate
 carlyraejepsen
 carmemes
 carporn
@@ -986,6 +988,7 @@ comicbookmovies
 comicbooks
 comics
 Commanders
+CommercialsIHate
 CommunismMemes
 community
 CompetitiveApex
@@ -1034,6 +1037,7 @@ corgi
 cork
 Coronavirus
 Corridor
+Corsair
 corsets
 cosplayers
 CosplayForEveryone
@@ -1408,6 +1412,7 @@ EASportsUFC
 EastendersWomen
 EatCheapAndHealthy
 eatsandwiches
+ebikes
 EbonyImagination
 ECEProfessionals
 ecologie
@@ -1437,6 +1442,7 @@ Eldenring
 EldenRingPVP
 ElderScrolls
 elderscrollsonline
+elderwitches
 ElectricForest
 electricians
 Elephants
@@ -1884,6 +1890,7 @@ GodofWar
 GodofWarRagnarok
 godot
 GODZILLA
+Gold
 GoldCoast
 Goldendoodles
 GoldenGirlsTV
@@ -2097,6 +2104,7 @@ HomeDecorating
 homedecoratingCJ
 HomeDepot
 homelab
+HomeMaintenance
 HomeNetworking
 homestead
 homestuck
@@ -2507,6 +2515,7 @@ ksi
 KSPMemes
 KukiShinobuMains
 KumoDesu
+kurtisconner
 kurzgesagt
 KusanaliMains
 KUWTKsnark
@@ -2658,6 +2667,7 @@ LongDistance
 longhair
 LonghornNation
 longisland
+longnaturalnails
 longrange
 lookatmydog
 lookismcomic
@@ -2694,6 +2704,7 @@ LSD
 LTB_iel
 lucario
 luciomains
+LudwigAhgren
 lululemon
 Lumine_Mains
 LumineMains
@@ -2925,6 +2936,7 @@ MLS
 MMA
 mmamemes
 MMORPG
+MoaiGreddit
 MobileLegendsGame
 MoDaoZuShi
 modeltrains
@@ -3258,6 +3270,7 @@ OliviaRodrigo_
 OliviaRodrigoHD
 omad
 OmegaStrikers
+OmegaWatches
 OMG_Hotties
 OMORI
 OneBlackBraincell
@@ -3272,6 +3285,7 @@ oneplus
 OnePunchMan
 OneSecondBeforeDisast
 oneshot
+OneTopicAtATime
 OneTruthPrevails
 OneyPlays
 onguardforthee
@@ -3439,6 +3453,7 @@ Philippines
 phillies
 phillycycling
 PhilosophyMemes
+PhilosophyTube
 phish
 phmoneysaving
 phoebebridgers
@@ -3459,12 +3474,14 @@ PietSmiet
 pigeon
 Pikabu
 Pikmin
+PikminBloomApp
 Pilzarmee
 PineapplebratSexyPics
 pinkfloyd
 PinkOmega
 pinoy
 Piracy
+pirataria
 PiratedGames
 Piratefolk
 PirateKitties
@@ -3691,6 +3708,7 @@ recap
 recipes
 recruitinghell
 red_velvet
+redbull
 RedDeadOnline
 reddeadredemption
 reddeadredemption2
@@ -4308,6 +4326,7 @@ TaylorSwiftPictures
 TaylorSwiftsLegs
 tbatenovel
 Teachers
+TeachersInTransition
 TeamfightTactics
 TeamFourStar
 teamliquid
@@ -4455,6 +4474,7 @@ thethickofit
 TheTryGuys
 theunforgiven
 TheVampireDiaries
+TheVirginZone
 thewalkingdead
 TheWayWeWere
 TheWeeknd
