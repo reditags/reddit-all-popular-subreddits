@@ -177,6 +177,7 @@ AlkeszJofogas
 AllaBruletova
 allinspanish
 AllThatIsInteresting
+AllThingsDND
 Alphachan
 AltBlonde
 AlternateHistory
@@ -836,6 +837,7 @@ CamilaCabello
 camphalfblood
 canada
 Canada_sub
+canadaguns
 canadahousing
 CanadaHousing2
 CanadaSoccer
@@ -1582,6 +1584,7 @@ EarthPorn
 EASportsFC
 EASportsUFC
 EastendersWomen
+EasyAlliesUnofficial
 EatCheapAndHealthy
 eatsandwiches
 EatTheRich
@@ -1751,6 +1754,7 @@ fantanoforever
 Fantasy_Football
 fantasybball
 fantasyfootball
+fantasyfootballadvice
 fantasymoe
 FantasyPL
 FanumTroupe
@@ -1766,6 +1770,7 @@ fastfood
 fasting
 fatcats
 fatestaynight
+fatsquirrelhate
 fatsquirrelhatred
 FatuiHQ
 Fauxmoi
@@ -1839,6 +1844,7 @@ FitToFat
 fivenightsatfreddys
 fixedbytheduet
 FixedGearBicycle
+flags
 Flamepoints
 flashlight
 FlashTV
@@ -2825,6 +2831,7 @@ kurtisconner
 kurzgesagt
 KusanaliMains
 KUWTKsnark
+KyraReneeSivertson
 l4d2
 LabourUK
 labradoodles
@@ -3117,6 +3124,7 @@ MapPorn
 mapporncirclejerk
 MarchAgainstNazis
 MargotRobbie
+marijuanaenthusiasts
 Mariners
 Mario
 mariokart
@@ -3161,6 +3169,7 @@ McFarlaneFigures
 MCFC
 mcgill
 MckennaGrace_pics
+McknightFamily
 McMansionHell
 McMaster
 me_irl
@@ -3168,8 +3177,10 @@ me_irlgbt
 MealPrepSunday
 meatcrayon
 MechanicAdvice
+mechanical_gifs
 MechanicalKeyboards
 MechanicalPandey
+Mechwarrior5
 MedicalGore
 MedievalCats
 medizzy
@@ -4185,10 +4196,12 @@ redpandas
 redrising
 Reds
 redsox
+RedvsBlue
 redwhiteandroyalblue
 ReefTank
 regularcarreviews
 regularshow
+ReiAyanami
 RelationshipMemes
 RelatosDoReddit
 religiousfruitcake
@@ -4300,6 +4313,7 @@ rutgers
 rva
 RWBY
 RWBYcritics
+RX7
 RyenRussillo
 ryujin
 S2000
@@ -4339,6 +4353,7 @@ sanfrancisco
 SanJoseSharks
 sanrio
 SantaCatarina
+santarosa
 Santiago
 saopaulo
 SapphoAndHerFriend
@@ -4439,6 +4454,7 @@ Shark_Park
 SharkLab
 sharks
 sharpei
+sheep
 sheffield
 shehulk
 sheltie
@@ -4598,6 +4614,7 @@ sophieturner
 SoulCalibur
 souleater
 SoulKnight
+SoundersFC
 SoundsLikeMusic
 SouthDakota
 Southerncharm
@@ -4646,6 +4663,7 @@ spreadsmile
 spreadytoes
 springboks
 Spunchbob
+Spyro
 SpyxFamily
 squarebodies
 SquaredCircle
@@ -4819,6 +4837,7 @@ Takagi_san
 tales
 talesfromcallcenters
 TalesFromDF
+TalesFromRetail
 talesfromtechsupport
 TalesFromTheFrontDesk
 TalesFromYourServer
@@ -5506,6 +5525,7 @@ wildlifephotography
 WildWestPics
 willhaben
 willwood
+windows
 Windows11
 windsorontario
 wine
