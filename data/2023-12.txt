@@ -131,6 +131,7 @@ aggies
 AHatInTime
 ahmedabad
 AhriMains
+AIDKE
 Aikuros
 ainbow
 aircanada
@@ -681,6 +682,7 @@ BokuNoMetaAcademia
 Bolehland
 bollyarm
 BollyBlindsNGossip
+BollyGoodVibes
 bollywood
 bollywoodcirclejerk
 BollywoodFashion
@@ -1004,6 +1006,7 @@ ChristopherNolan
 ChronicIllness
 ChronicPain
 ChurchOfFeMC
+churchoffutaba
 churchofharu
 ChurchOfKasumi
 ChurchofMarnie
@@ -1938,6 +1941,7 @@ fullhouse
 FullmetalAlchemist
 Fumofumo
 functionalprint
+fundiesnarkiesnark
 FundieSnarkUncensored
 funkopop
 funny
@@ -2081,6 +2085,7 @@ Glocks
 GlowUps
 GME
 gme_meltdown
+GMEJungle
 gmod
 goatvalleycampgrounds
 goblincore
@@ -2171,6 +2176,7 @@ GTA7
 GTAIV
 gtaonline
 GTAV
+gtavcustoms
 Guadalajara
 GuardianTales
 Guildwars2
@@ -2453,6 +2459,7 @@ ImpracticalJokers
 ImTheMainCharacter
 Incorgnito
 IncredibleIndia
+incremental_games
 india
 india_tourism
 IndiaCricket
@@ -2492,6 +2499,7 @@ indiasocial
 IndiaSpeaks
 IndiaTech
 IndiaTrending
+IndieDev
 indiegames
 IndieGaming
 indieheadscirclejerk
@@ -2638,6 +2646,7 @@ johncarpenter
 JohnMayer
 JohnWick
 joinsquad
+Joji
 Jojo
 JoJoMemes
 Jokes
@@ -2673,6 +2682,7 @@ JustYuri
 k_on
 KafkaMains
 Kagurabachi
+Kaiserposting
 kaiserredux
 Kaiserreich
 KaIT
@@ -2967,6 +2977,7 @@ lotr
 lotrmemes
 louboutins
 Louisiana
+Louisville
 Louisvuitton
 love
 loveafterlockup
@@ -3713,6 +3724,7 @@ Palia
 PallasCats
 palmeiras
 Panarab
+Pandabuy
 PandabuyItalia
 PandR
 Panera
@@ -4834,6 +4846,7 @@ the1975
 The1980s
 the_darnold
 The_Dennis
+The_Leftorium
 The_Mueller
 THE_PACK
 theadamfriedlandshow
@@ -5118,6 +5131,7 @@ twinpeaks
 TwistedWonderland
 Twitter
 Twitter_Brasil
+twittermoment
 TwoHotTakes
 Twokinds
 TwoSentenceHorror
@@ -5129,6 +5143,7 @@ TyKwonDoeTV
 tylerthecreator
 Tyranids
 tzuyu
+TzuyuChou
 UAP
 UBC
 Ubiquiti
@@ -5524,6 +5539,7 @@ yotsuba
 YouBelongWithMemes
 YoujoSenki
 youngjustice
+youngpeoplereddit
 youngpeopleyoutube
 YoungThug
 YouniquePresenterMS
