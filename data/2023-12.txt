@@ -562,6 +562,7 @@ belowdeck
 Ben10
 bengalcats
 bengals
+berkeley
 berlin
 Bernedoodles
 bernesemountaindogs
@@ -719,6 +720,7 @@ brasil
 BrasildoB
 brasilivre
 Bratz
+brave_browser
 Braves
 BravoRealHousewives
 Brawlhalla
@@ -935,6 +937,7 @@ chaoticgood
 CharacterAI
 characterdrawing
 CharacterRant
+CharcuterieBoard
 Chargers
 CharliDamelio654
 Charlotte
@@ -1415,6 +1418,7 @@ dividends
 DiWHY
 DIY
 DIYUK
+DJs
 DMAcademy
 DMT
 DMZ
@@ -1736,6 +1740,7 @@ FFXV
 FFXVI
 FGO
 fidelityinvestments
+FierceFlow
 FifaCareers
 FighterJets
 Fighters
@@ -3564,6 +3569,7 @@ OnlineUnderGround
 OnlyFaces
 OnlyFangsbg3
 ontario
+OntarioNews
 OopsThatsDeadly
 oots
 OpenAI
@@ -3733,6 +3739,7 @@ phillycycling
 philosophy
 PhilosophyMemes
 PhilosophyTube
+phineasandferb
 phish
 phmoneysaving
 phoebebridgers
@@ -4170,6 +4177,7 @@ SaltLakeCity
 samoyeds
 SamSulek
 sanantonio
+SandersForPresident
 SanDiegan
 sandiego
 SandraBullock
@@ -4311,6 +4319,7 @@ ShittyMapPorn
 shittymobilegameads
 shittymoviedetails
 shittyrainbow6
+shittyrobots
 shittyskylines
 shittysuperpowers
 shittytattoos
@@ -4604,6 +4613,7 @@ Superstonk
 superstore
 supportlol
 Supra
+Supreme
 supremeclothing
 surrealmemes
 survivinginfidelity
