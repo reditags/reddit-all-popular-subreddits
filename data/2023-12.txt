@@ -693,6 +693,7 @@ bollywoodmemes
 BollywoodMusic
 BollywoodUHQonly
 boltaction
+BoltEV
 bon_appetit
 Bondedpairs
 bonehurtingjuice
@@ -703,6 +704,7 @@ BoomersBeingFools
 boottoobig
 borbs
 BorderCollie
+Borderlands2
 boringdystopia
 BORUpdates
 borussiadortmund
@@ -711,6 +713,7 @@ boston
 BostonBruins
 bostonceltics
 BostonTerrier
+BotanicalPorn
 Botchedsurgeries
 botecodoreddit
 BotezHub
@@ -1052,6 +1055,7 @@ classygirls
 classywomenofcolor
 claymore
 CleaningTips
+cleanjokes
 Cleveland
 ClevelandGuardians
 clevercomebacks
@@ -1276,6 +1280,7 @@ dalle2
 dalmatians
 Damnthatsinteresting
 dancemoms
+dancingwiththestars
 Dandadan
 danganronpa
 danglers
@@ -1385,6 +1390,7 @@ depoop
 Depop
 depression_memes
 depressionmeals
+depressionmemes
 DerechoGenial
 DerScheisser
 desabafos
@@ -1442,6 +1448,7 @@ DiscoElysium
 discordapp
 Discordmemes
 discordVideos
+Discussion
 dishonored
 Dislyte
 disney
@@ -1582,6 +1589,7 @@ economy
 EDC
 eddieandrichie
 Edelgard
+EdensZero
 Edgerunners
 EDH
 Edinburgh
@@ -1631,6 +1639,7 @@ EmoStyle
 ems
 EnculerLesVoitures
 ender3
+enderal
 Endfield
 EndTipping
 energy
@@ -1773,6 +1782,7 @@ feminineboys
 Feminism
 Ferrari
 ferrets
+festivals
 FestundFlauschig
 FF06B5
 FFVIIRemake
@@ -1825,6 +1835,7 @@ FixedGearBicycle
 Flamepoints
 flashlight
 FlashTV
+flatearth
 flightradar24
 flightsim
 flipperzero
@@ -2249,6 +2260,7 @@ hardimages
 hardstyle
 hardware
 hardwaregore
+Harley
 harrypotter
 Harvard
 Hasan_Piker
@@ -3107,6 +3119,7 @@ marvelcirclejerk
 MarvelLegends
 marvelmemes
 MarvelSnap
+marvelsnapcomp
 MarvelStudios_Rumours
 Marxism_Memes
 MarxistCulture
@@ -3243,6 +3256,7 @@ MinecraftMemes
 minecraftseeds
 MineIslam
 MineralPorn
+miniatures
 MiniatureSchnauzer
 miniminter
 minipainting
@@ -3670,6 +3684,7 @@ OnlyFaces
 OnlyFangsbg3
 ontario
 OntarioNews
+OooBigStretch
 OopsThatsDeadly
 oots
 OpenAI
@@ -3904,6 +3919,7 @@ PlantsVSZombies
 PlathvilleUncensored
 playboicarti
 playrust
+PlaySquad
 playstation
 PlayStationPlus
 playtoearngames
@@ -4019,6 +4035,7 @@ providence
 PS3
 PS4
 PS5
+PSLF
 PSP
 PSV
 PSVR
@@ -4052,6 +4069,7 @@ PvZHeroes
 pykemains
 Pyrex_Love
 pyrocynical
+Python
 QAnonCasualties
 qatar
 qotsa
@@ -4240,6 +4258,7 @@ RoyalsGossip
 RPClipsGTA
 RPDR_UK
 RPDRDRAMA
+rpg
 rpghorrorstories
 rspod
 RTGameCrowd
@@ -4267,6 +4286,7 @@ Saber
 SabrinaCarpenter
 Sacramento
 sadboys
+sadcats
 sadcringe
 SaddestBackflip
 Sadiesink
@@ -4311,6 +4331,7 @@ satisfying
 Satisfyingasfuck
 saw
 sb19
+SBCGaming
 sbeve
 SBU
 sbubby
@@ -4446,6 +4467,7 @@ shortscarystories
 shouldercats
 Showerthoughts
 ShrimpsIsBugs
+shrimptank
 ShroomID
 shrooms
 ShuumatsuNoValkyrie
@@ -4667,6 +4689,7 @@ sticknpokes
 StLouis
 StockMarket
 stocks
+Stoicism
 stonerfood
 Stonetossingjuice
 stopdrinking
@@ -5393,6 +5416,7 @@ ween
 weeviltime
 WegovyWeightLoss
 weightlifting
+weihnachten
 Weird
 Weird_Girls
 weirddalle
@@ -5564,6 +5588,7 @@ YOASOBI
 YofukashiNoUta
 yoga
 Yoimiya_Mains
+YomiHustle
 yoojimin
 Yorkies
 yorku
