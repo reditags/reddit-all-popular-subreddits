@@ -1,3 +1,4 @@
+0xPolygon
 100Kanojo
 13or30
 19684
@@ -44,6 +45,7 @@
 691
 6thForm
 70s
+75HARD
 7daystodie
 7vsWild
 80s
@@ -498,6 +500,7 @@ BandofBrothers
 bangalore
 BanGDream
 bangtan
+Bannerlord
 BanPitBulls
 BarbaraPalvin
 Barbie
@@ -821,6 +824,7 @@ canadahousing
 CanadaHousing2
 CanadaSoccer
 CanadianInvestor
+canberra
 canceledpod
 candy
 canes
@@ -982,6 +986,7 @@ Chipotle
 Chiraqology
 Chivalry2
 chloegracemoretz
+Choices
 chomsky
 Chonkers
 ChoosingBeggars
@@ -1261,6 +1266,7 @@ dancemoms
 Dandadan
 danganronpa
 danglers
+DaniDev
 DanielaMelchior
 Daniellarson
 danishlanguage
@@ -1375,6 +1381,7 @@ Design
 DesignMyRoom
 DesignPorn
 desimemes
+DesiMemeTemplates
 DesiVideoMemes
 desperatebag1125
 DesperateHousewives
@@ -1609,6 +1616,7 @@ EmoStyle
 ems
 EnculerLesVoitures
 ender3
+Endfield
 EndTipping
 energy
 energydrinks
@@ -2130,6 +2138,7 @@ greatdanes
 GreatLakesShipping
 GreatnessOfWrestling
 greatpyrenees
+greebles
 GreekMythology
 GreenAndPleasant
 GreenBayPackers
@@ -2383,6 +2392,7 @@ IdiotsNearlyDying
 IdiotsOnBikes
 Idiotswithguns
 IDONTGIVEASWAG
+IDontWorkHereLady
 IHateSportsball
 ihaveihaveihavereddit
 iiiiiiitttttttttttt
@@ -2571,6 +2581,7 @@ Jaguars
 Jaharia
 jaidenanimations
 JailbreakCreations
+jaimelescartes
 jakanddaxter
 jambands
 JamesBond
@@ -2880,6 +2891,7 @@ lifeguardkitties
 lifehacks
 LifeProTips
 LigaMX
+lightsabers
 LilGrabbies
 lilireinhart
 LilPeep
@@ -2894,6 +2906,7 @@ LinkedInLunatics
 linkoping
 LinusTechTips
 linux
+linux_gaming
 linuxmasterrace
 liseliler
 literature
@@ -3323,6 +3336,7 @@ MySummerCar
 mythologymemes
 MyTimeAtSandrock
 n64
+NaBoaChavaloRetardado
 NAFO
 nagatoro
 nagpur
@@ -3909,6 +3923,7 @@ PORTUGALCYKABLYAT
 portugueses
 Possums
 postscriptum
+Potastic_Jeannie
 Pottery
 PouchCatatoes
 poutine
@@ -4096,6 +4111,7 @@ Reno
 Reno911
 Renters
 repchicks
+RepDeveloperboring
 RepladiesDesigner
 Repsneakers
 RepsneakersDogs
@@ -4243,6 +4259,7 @@ SatisfactoryGame
 satisfying
 Satisfyingasfuck
 saw
+sb19
 sbeve
 SBU
 sbubby
@@ -4476,6 +4493,7 @@ sonarears
 SonicTheHedgehog
 SonnyAngel
 SonoBisqueDoll
+SonsOfTheForest
 SonyAlpha
 Sophia_Lillis
 SophiaDiamondXX
@@ -4638,6 +4656,7 @@ suits
 summerhousebravo
 SummertimeGirls
 summonerswar
+Sumo
 sunburnOMORI
 sunraybee
 SunrisersHyderabad
@@ -4813,6 +4832,7 @@ theboondocks
 TheBoys
 TheBullWins
 TheCatTrapIsWorking
+TheCivilService
 TheClickOwO
 TheCompletionist
 thecringeshowaward
