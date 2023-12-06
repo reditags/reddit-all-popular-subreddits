@@ -393,6 +393,7 @@ AskPH
 AskReddit
 askSingapore
 Asksweddit
+AskTeachers
 AskThe_Donald
 askTO
 asktransgender
@@ -1040,6 +1041,7 @@ chrissycostanza
 Christianity
 christinahendricks
 christmas
+ChristmasCats
 ChristmasDecorating
 ChristmasTrees
 ChristopherHitchens
@@ -1119,6 +1121,7 @@ codyko
 CODZombies
 coins
 Coldmirror
+ColdOnes
 ColeColleen
 ColleenBallingerSnark
 colleensheen
@@ -2713,6 +2716,7 @@ JeilaDizon
 jellybeantoes
 Jemima_Robinson
 JennaFischer
+JennaLouiseColeman
 Jennamarbles
 JennaOrtega_
 jennie
@@ -3117,6 +3121,7 @@ lululemonleggingz
 Lumine_Mains
 LumineMains
 Lumity
+Lurchers
 LushCosmetics
 Lustig
 Luthier
@@ -3921,6 +3926,7 @@ PaymoneyWubby
 PcBuild
 pcgaming
 pcmasterrace
+peachmilky
 PeanutWhiskers
 PecsAndPecBouncing
 Pedro_Pascal
@@ -4244,6 +4250,7 @@ RanbirKapoorUniverse
 rance
 RandomThoughts
 rangers
+rant
 rap
 rapbattles
 rareinsults
@@ -4502,6 +4509,7 @@ Scottsdale
 scottthewoz
 scotus
 SCP
+SCPMemes
 Scream
 Screenwriting
 Scrubs
@@ -5325,6 +5333,7 @@ TrueUnpopularOpinion
 trump
 Trumpgret
 Trumpvirus
+truscum
 Tsukihime
 TsukiMichi
 TTSverse
