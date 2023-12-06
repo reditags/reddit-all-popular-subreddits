@@ -901,6 +901,7 @@ capybara
 CaraDelevingne
 carbonsteel
 Cardinals
+careerguidance
 CARiverPlate
 CarlaMedrano
 carlyraejepsen
@@ -1467,6 +1468,7 @@ denvernuggets
 DenzelCurry
 depoop
 Depop
+DeppDelusion
 depression_memes
 depressionmeals
 depressionmemes
@@ -2103,6 +2105,7 @@ Gamecube
 gamedev
 gamegrumps
 gameofthrones
+GamePhysics
 gamernews
 gamesEcultura
 GameStop
@@ -2124,6 +2127,7 @@ GarandThumb
 Gardevoir
 garfield
 Garmin
+Gatcat
 gatekeeping
 GatekeepingYuri
 gatesopencomeonin
@@ -2402,6 +2406,7 @@ Hedgehog
 HeinousHumanity
 Helicopters
 HellLetLoose
+hellofresh
 HelloKitty
 HelluvaBoss
 HelluvaBossFanArt
@@ -2549,6 +2554,7 @@ IdiotsOnBikes
 Idiotswithguns
 IDONTGIVEASWAG
 IDontWorkHereLady
+Idubbbz
 IHateSportsball
 ihaveihaveihavereddit
 iiiiiiitttttttttttt
@@ -4109,6 +4115,7 @@ Pilzarmee
 pinaytiktokhotties
 PineapplebratSexyPics
 pinkfloyd
+PinkFloydCircleJerk
 PinkOmega
 pinoy
 PioneerMTG
@@ -4228,6 +4235,7 @@ PoutineCrimes
 povertyfinance
 povertyfinancecanada
 PowerGirl
+PowerMetal
 powerrangers
 PPC
 PraiseTheCameraMan
@@ -4536,6 +4544,7 @@ ryangosling
 RyenRussillo
 ryujin
 S2000
+saab
 sabaton
 Saber
 SabrinaCarpenter
@@ -5004,6 +5013,7 @@ Stretched
 strictlycomedancing
 StudentLoans
 studentsph
+Studium
 StuffOnCats
 stunfisk
 StupidFood
@@ -5577,6 +5587,7 @@ UniUK
 UniversalOrlando
 Universitaly
 unket
+UNLV
 UnpopularLoreOlympus
 unpopularopinion
 UnresolvedMysteries
@@ -5693,6 +5704,7 @@ vtolvr
 vultureculture
 VuvuzelaIPhone
 VyvanLe
+WagoonLadies
 Wales
 walkaway
 wallstreetbets
@@ -5759,6 +5771,7 @@ weirddalle
 WeirdWheels
 WeirdWings
 WelcomeToGilead
+WelcomeToPlathville
 Welding
 Wellington
 Wellthatsucks
