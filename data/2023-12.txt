@@ -102,11 +102,13 @@ Adelaide
 AdeptusCustodes
 AdeptusMechanicus
 ADHDmemes
+ADO
 AdobeIllustrator
 AdorableDragons
 Adulting
 adultingph
 adultswim
+ADVChina
 adventofcode
 adventuretime
 Advice
@@ -290,6 +292,7 @@ ANormalDayInRussia
 answers
 AnthonyBourdain
 Anticonsumption
+antifastonetoss
 antimeme
 antiMLM
 Antimoneymemes
@@ -614,6 +617,7 @@ Bestbuy
 bestconspiracymemes
 bestof
 bestoflegaladvice
+bestoftheinternet
 bettafish
 betterCallSaul
 BetterEveryLoop
@@ -952,6 +956,7 @@ CatsOnCats
 CatsOnPizza
 CatsStandingUp
 catswhocrochet
+CatsWhoSmoke
 CatsWhoSqueak
 Catswhoyell
 catswithbuns
@@ -1338,6 +1343,7 @@ Dallas
 dalle2
 dalmatians
 Damnthatsinteresting
+dancarlin
 dancemoms
 dancingwiththestars
 Dandadan
@@ -1777,6 +1783,7 @@ exjw
 exmormon
 exmuslim
 ExNoContact
+exo
 expats
 ExpectationVsReality
 ExperiencedDevs
@@ -1784,6 +1791,7 @@ explainlikeimfive
 ExplainTheJoke
 exposingcabalrituals
 ExposurePorn
+ExtraFabulousComics
 ExtremeCarCrashes
 Eyebleach
 Eyebrows
@@ -2000,6 +2008,7 @@ Frasier
 FreckledGirls
 freefolk
 FreeGameFindings
+FreeGamesOnSteam
 FreezingFuckingCold
 Frenchbulldogs
 FrenchMemes
@@ -2569,6 +2578,7 @@ ImaginaryTechnology
 ImaginaryWarhammer
 ImaginaryWesteros
 ImaginaryWitches
+ImanVellani
 imax
 ImFinnaGoToHell
 Immobilieninvestments
@@ -2730,6 +2740,7 @@ jailbreak
 JailbreakCreations
 jaimelescartes
 jakanddaxter
+jakeandamir
 jambands
 JamesBond
 jameswebb
@@ -3120,6 +3131,7 @@ LookatMyHalo
 lookismcomic
 LOONA
 loopringorg
+Lorcana
 LordofTheMysteries
 lordoftherings
 loreofleague
@@ -3249,6 +3261,7 @@ marijuanaenthusiasts
 Mariners
 Mario
 mariokart
+MarioKart8Deluxe
 Market76
 marketing
 Markiplier
@@ -3581,6 +3594,7 @@ natureismetal
 NatureofPredators
 natureporn
 Naturewasmetal
+naturfreunde
 naviamains
 navy
 nayeon
@@ -3594,6 +3608,7 @@ NCAAFBseries
 NCT
 ndp
 nebelung
+Nebula
 necoarc
 necromunda
 Necrontyr
@@ -3763,6 +3778,7 @@ oddlyspecific
 oddlyterrifying
 OddSatisfying
 Odisha
+OeffentlicherDienst
 offbeat
 OffGridCabins
 OfflinetvGirls
@@ -3943,6 +3959,7 @@ PandR
 Panera
 PangetPeroMasarap
 PanPorn
+Pantera
 panthers
 Papaplatte
 paperearmate
@@ -4991,6 +5008,7 @@ Supernatural
 supersmashbros
 Superstonk
 superstore
+SupportforBetrayed
 supportlol
 Supra
 Supreme
@@ -5160,6 +5178,7 @@ TheBonfire
 theboondocks
 TheBoys
 TheBullWins
+thecampaigntrail
 TheCatTrapIsWorking
 TheCivilService
 TheClickOwO
@@ -5580,6 +5599,7 @@ velvethippos
 Vent
 venturebros
 Vermintide
+vermont
 vexillology
 vexillologycirclejerk
 veYakinEvren
