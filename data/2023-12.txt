@@ -351,6 +351,7 @@ ArchitecturalRevival
 architecture
 ArchitecturePorn
 archlinux
+arcticmonkeys
 arduino
 AreYouGarbagePod
 Argaming
@@ -511,6 +512,7 @@ axolotls
 AyakaMains
 AZCardinals
 azdiamondbacks
+Azoozkie
 Azubis
 azudaioh
 babesfrom1996
@@ -1262,6 +1264,7 @@ CookieRunKingdoms
 Cooking
 coolguides
 coonhounds
+coral_sharon
 coralisland
 cordcutters
 corgi
@@ -2432,6 +2435,7 @@ hajimenoippo
 HalfLife
 halifax
 halloween
+Halloweenmovies
 halo
 halodripfinite
 haloinfinite
@@ -2629,6 +2633,7 @@ iamatotalpieceofshit
 IAmTheMainCharacter
 iamveryculinary
 IASIP
+icecoast
 IceCreamWaifu
 ich_iel
 ichbin14unddasisttief
@@ -2710,6 +2715,7 @@ indiameme
 Indiana
 indianajones
 indianamassara
+indianapolis
 IndianArtAI
 IndianBeautyDeals
 indianbikes
@@ -3696,6 +3702,7 @@ Mustang
 mutt
 MVIS
 MW2
+Myanmarcombatfootage
 MyBigFatFabulousLife
 MyChemicalRomance
 mycology
@@ -4109,6 +4116,7 @@ Padmalakshmi
 Padres
 pagan
 PaigeSpiranac
+paintball
 painting
 PakCricket
 pakistan
@@ -4134,6 +4142,8 @@ papermario
 papgrappen
 ParadoxExtra
 paradoxplaza
+Parahumans
+Paralives
 Paramore
 ParanormalEncounters
 PardonMyTake
@@ -4180,6 +4190,7 @@ Pennsylvania
 PennyLaneIsTheName
 PeopleFuckingDying
 peopleofwalmart
+peopleplayground
 PercyJacksonMemes
 PercyJacksonTV
 PerfectlyCutBooms
@@ -5530,6 +5541,7 @@ TingyunShrine
 tinyanimalsonfingers
 Tinycatsinbigspaces
 TinyHouses
+tinyorangekittens
 TipOfMyFork
 tippytaps
 Tiresaretheenemy
