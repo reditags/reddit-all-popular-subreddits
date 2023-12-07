@@ -761,6 +761,7 @@ borderlands3
 boringdystopia
 BORUpdates
 borussiadortmund
+Boruto
 Bossfight
 boston
 BostonBruins
@@ -2065,6 +2066,7 @@ Frenemies3
 FreshBeans
 FreyaAllan
 FridayNightFunkin
+fridaythe13th
 friendlyjordies
 Frieren
 fringe
@@ -2329,6 +2331,7 @@ GreekMythology
 GreenAndPleasant
 GreenBayPackers
 greenday
+Greenlantern
 greggsappreciation
 gremio
 Greyhounds
@@ -3408,6 +3411,7 @@ medlabprofessionals
 megafaunarewilding
 megalophobia
 Megaman
+MeganFox
 megantheestallion
 Megumin
 meirl
@@ -5025,6 +5029,7 @@ starcraft
 StardewMemes
 StardustCrusaders
 Starfield
+starfield_lore
 starfieldmods
 StarfieldOutposts
 StarfieldShips
@@ -5273,6 +5278,7 @@ TexasRangers
 TextingTheory
 texts
 tf2
+tf2memes
 tf2shitposterclub
 tf_irl
 tfc
