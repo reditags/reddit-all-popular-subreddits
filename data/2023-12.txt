@@ -330,6 +330,7 @@ aphextwin
 apolloapp
 apple
 AppleCard
+AppleWatch
 applewatchultra
 ApplyingToCollege
 Aquariums
@@ -1216,6 +1217,7 @@ confusingperspective
 CongratsLikeImFive
 CongratulationsSailer
 conlangscirclejerk
+ConselhosLegais
 Conservative
 ConservativeMemes
 conservatives
@@ -1526,12 +1528,14 @@ developersIndia
 DevilMayCry
 devils
 devinbrugman
+devo
 dewrim
 dezwo
 DHHMemes
 Diablo
 diablo2
 diablo4
+diamondpainting
 diannaagron
 DidntKnowIWantedThat
 digimon
@@ -1683,6 +1687,7 @@ Dysonairwrap
 EA_NHL
 earlsweatshirt
 EarthPorn
+Earwolf
 EASportsFC
 EASportsUFC
 EastendersWomen
@@ -3299,6 +3304,7 @@ MakeMeFeelGood
 MakeMeSuffer
 MakeNewFriendsHere
 MakeupAddiction
+MakeupAddicts
 MaladaptiveDreaming
 MalaikaTerry
 MalayalamMovies
@@ -3614,6 +3620,7 @@ musclecar
 MusclesOfAmazons
 MushroomGrowers
 mushroomID
+Mushrooms
 Music
 musicals
 musicproduction
@@ -3751,6 +3758,7 @@ NieRAutomataGame
 nietdespeld
 NightInTheWoods
 NightLords
+NightVision
 Nightwing
 Nijisanji
 Nijmegen
@@ -5937,6 +5945,7 @@ Wizard101
 wizardposting
 woahdude
 WojakCompass
+Wolfdogs
 wolves
 women
 womenintech
