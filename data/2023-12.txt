@@ -1972,6 +1972,7 @@ Flamepoints
 flashlight
 FlashTV
 flatearth
+FlexinLesbians
 flightradar24
 flightsim
 flipperzero
@@ -2202,6 +2203,7 @@ GenX
 GenZ
 geography
 geoguessr
+geology
 geometrydash
 geopolitics
 GeopoliticsIndia
@@ -2523,6 +2525,7 @@ hometheater
 HomeworkHelp
 HondaElement
 HongKong
+HonkaiImpact
 honkaiimpact3
 HonkaiStarRail
 HonkaiStarRail_leaks
