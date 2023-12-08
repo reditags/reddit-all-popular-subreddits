@@ -214,6 +214,7 @@ AmberMains
 Amberverse_
 AMCsAList
 amcstock
+AMCSTOCKS
 Amd
 AmericaBad
 AmericanBully
@@ -338,6 +339,7 @@ ApexOutlands
 Apexrollouts
 aphextwin
 apolloapp
+appiememes
 apple
 AppleCard
 AppleWatch
@@ -574,6 +576,7 @@ bartenders
 baseball
 baseballcards
 baseballcirclejerk
+basketballcards
 basset
 bassethounds
 bassfishing
@@ -1016,6 +1019,7 @@ CatsWhoSqueak
 Catswhoyell
 catswithbuns
 CatsWithDogs
+CatsWithEyeliner
 Catswithjobs
 CatTaps
 CatwalkGif
@@ -1489,6 +1493,7 @@ DC_Cinematic
 DCAU
 DCcomics
 dccomicscirclejerk
+DCEUleaks
 DDintoGME
 DDLC
 de
@@ -1790,6 +1795,7 @@ ElizabethOlsen
 ellacervetto
 ElleFanning
 elonmusk
+Elysia
 Embroidery
 emergencymedicine
 EmiliaClarke
@@ -2059,6 +2065,7 @@ Foodforthought
 foodhacks
 FoodieCutie
 FoodieSnark
+foodnetwork
 FoodPorn
 FoodToronto
 FoodVideoPorn
@@ -2446,6 +2453,8 @@ GwenMains
 GYM
 GymMemes
 GymMotivation
+h3h3_productions
+h3h3productions
 h3snark
 H3VR
 Habs
@@ -2934,6 +2943,7 @@ jessicaalba
 JetLagTheGame
 Jewdank
 jewelry
+JewishCooking
 Jewpiter
 jiggledolls
 jigsawpuzzlecats
@@ -2954,6 +2964,7 @@ Jojo
 JoJoMemes
 jokercringe
 Jokes
+Jon_Bois
 JonBenetRamsey
 jordan
 JordanPeterson
@@ -3199,6 +3210,7 @@ lego
 legocastles
 legocirclejerk
 legodnd
+LEGOfortnite
 legogaming
 LegoIndianaJones
 Legoleak
@@ -3221,6 +3233,7 @@ lesserafim
 LeSserafim_Hotties
 lethalcompany
 Lethbridge
+LetsTalkBam
 Letterboxd
 Letterkenny
 LetzteGeneration
@@ -3333,6 +3346,7 @@ LoveDeathAndRobots
 LoveForLandchads
 LoveForRedditors
 LoveForUkraine
+LoveIsBlindOnNetflix
 LoveIslandGames
 LoveIslandTV
 lovejoyband
@@ -3564,6 +3578,7 @@ MGRmemes
 MHNowGame
 Miami
 miamidolphins
+MiamiMarlins
 Miata
 MichaelJackson
 Michigan
@@ -3631,6 +3646,7 @@ miz
 Mizkif
 MkeBucks
 mlb
+mlem
 MLS
 MMA
 mmamemes
@@ -5007,6 +5023,7 @@ skiing
 Skincare_Addiction
 SkincareAddicts
 SkirkMains
+skyblivion
 SkyChildrenOfLight
 SkyeBlueOffical
 SkyeBlueWrestler
@@ -5420,6 +5437,7 @@ teslareferralcode
 TESOfashion
 Texans
 texas
+TexasChainsawGame
 TexasPolitics
 TexasRangers
 TextingTheory
@@ -5699,6 +5717,7 @@ treedibles
 treelaw
 trees
 TrekkingItaly
+Treknobabble
 tressless
 tretinoin
 triathlon
@@ -5780,9 +5799,11 @@ TzuyuChou
 UAE
 UAP
 UBC
+uberdrivers
 Ubiquiti
 ubius
 UCalgary
+UCDavis
 ucf
 UCI
 ucla
@@ -6125,6 +6146,7 @@ WitchesVsPatriarchy
 Wizard101
 wizardposting
 woahdude
+wohnen
 WojakCompass
 Wolfdogs
 wolves
@@ -6161,6 +6183,7 @@ wortwitzkasse
 WoT
 WoTshow
 wow
+WoWs_Legends
 Wrangler
 Wrasslin
 WRC
@@ -6231,6 +6254,7 @@ Yosemite
 yotsuba
 YouBelongWithMemes
 youdontmattergiveup
+youdontsurf
 YoujoSenki
 youngjustice
 youngpeoplereddit
