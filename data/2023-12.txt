@@ -889,6 +889,7 @@ buffy
 buildabear
 buildapc
 buildapcsales
+BuiltFromTheGroundUp
 bulgaria
 Bulldogs
 Bullshido
@@ -1750,6 +1751,7 @@ DungeonsAndDragons
 duolingo
 Duskwood
 dustkitties
+dutch
 dvdcollection
 dwarffortress
 dwarfposting
@@ -3152,6 +3154,7 @@ kurtisconner
 kurzgesagt
 KusanaliMains
 KusuriyaNoHitorigoto
+kuttichevuru
 KUWTKsnark
 Kwite
 KyraReneeSivertson
@@ -5818,6 +5821,7 @@ TumblrDraws
 Turkey
 TurkeyJerky
 TurkicHistory
+turkish_celeb
 TurkishCats
 TurkishCeleb
 TurkishTVSerials
