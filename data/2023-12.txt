@@ -1297,6 +1297,7 @@ ColleiMains
 Colognes
 Colorado
 ColoradoAvalanche
+ColoradoRockies
 ColoradoSprings
 coloranalysis
 Colts
@@ -2637,6 +2638,7 @@ haloinfinite
 HaloMemes
 Hamilton
 Hammers
+hamster
 hamsters
 handbags
 HandfulOfKitten
@@ -3373,6 +3375,7 @@ LaurenCohan
 laurenmayberry
 law
 Law_and_Politics
+lawncare
 LawSchool
 lawschooladmissions
 LawStudentsPH
@@ -3554,6 +3557,7 @@ Louisville
 Louisvuitton
 love
 loveafterlockup
+Lovecraft
 LoveDeathAndRobots
 LoveForLandchads
 LoveForRedditors
@@ -4077,6 +4081,7 @@ needforspeed
 Needlefelting
 neekolul
 neekomains
+NeonGenesisEvangelion
 neopets
 neovim
 Nepal
@@ -4413,11 +4418,13 @@ Otonokizaka
 ottawa
 OttawaSenators
 Otters
+otvandfriendsrumors
 OurFlagMeansDeath
 Outdoors
 outerwilds
 outfitoftheday
 OUTFITS
+outofcontextcomics
 OutOfTheLoop
 overemployed
 overlanding
