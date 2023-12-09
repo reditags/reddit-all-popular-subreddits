@@ -1215,6 +1215,7 @@ CivMC
 CivVI
 CJPerry
 Clamworks
+ClaraMainsStarRail
 ClarksonsFarm
 ClashMini
 ClashOfClans
@@ -1271,6 +1272,7 @@ colleensheenOF
 college
 college_student
 CollegeBasketball
+ColleiMains
 Colognes
 Colorado
 ColoradoAvalanche
@@ -2401,6 +2403,7 @@ GhostRecon
 Ghosts
 GhostsBBC
 Ghoststories
+GhostTrick
 GIDLE_Hotties
 GifRecipes
 gifs
@@ -5231,6 +5234,7 @@ simpsonsshitposting
 simracing
 Sims3
 singapore
+singaporefi
 SingaporeRaw
 singularity
 Sino
@@ -5623,6 +5627,7 @@ Tattoocoverups
 TattooDesigns
 tattoos
 Tau40K
+Tauranga
 taylorandtravis
 TaylorSwift
 TaylorSwiftPictures
