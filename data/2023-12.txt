@@ -837,6 +837,7 @@ borbs
 BorderCollie
 Borderlands2
 borderlands3
+BorderTerrier
 boringdystopia
 BORUpdates
 borussiadortmund
@@ -994,6 +995,7 @@ CanadaSoccer
 CanadianInvestor
 canberra
 canceledpod
+candiceswanepoel
 candy
 CaneCorso
 canes
@@ -1914,6 +1916,7 @@ EmilyKinney
 EmilyOsment
 emilyrudd
 Eminem
+EmKay
 EmmaMyers
 EmmaRoseKenney
 EmmaStone
@@ -3922,6 +3925,7 @@ motorcitykitties
 motorcycle
 MotorcyclePorn
 motorcycles
+motorfietsen
 mouf
 Mounjaro
 mountainbiking
@@ -4615,6 +4619,7 @@ plantclinic
 PlantedTank
 PlantIdentification
 PlantsVSZombies
+Plaqueboymax
 PlathvilleUncensored
 PlayAvengers
 playboicarti
@@ -4685,6 +4690,7 @@ Polytopia
 Pomeranians
 ponds
 poodles
+PoojaHegdeHub
 poor
 popculturechat
 popheadscirclejerk
@@ -4705,6 +4711,7 @@ Possums
 postal
 postscriptum
 Potastic_Jeannie
+pottedcats
 Pottery
 PouchCatatoes
 poutine
@@ -4815,6 +4822,7 @@ QAnonCasualties
 qatar
 qotsa
 QTNCrypto
+quake
 Quebec
 QuebecLibre
 queensuniversity
@@ -4938,6 +4946,7 @@ renfaire
 Reno
 Reno911
 Renters
+rentnerzeigenaufdinge
 repchicks
 RepDeveloperboring
 RepladiesDesigner
@@ -5675,6 +5684,7 @@ sypherpk
 sysadmin
 TabbyCats
 tacobell
+Tacoma
 tacos
 tacticalgear
 TacticalIssueCat
