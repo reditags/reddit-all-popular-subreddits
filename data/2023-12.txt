@@ -605,6 +605,7 @@ Bard
 bardmains
 BarnFinds
 Barotrauma
+Barstoolboners2
 barstoolsports
 bartenders
 baseball
@@ -784,6 +785,7 @@ blendermemes
 Blep
 blessedimages
 Blink182
+blockbustervideo
 BloodAngels
 blop
 bloxfruits
@@ -2857,6 +2859,7 @@ IAmTheMainCharacter
 iamveryculinary
 iamverysmart
 IASIP
+IBEW
 icecoast
 IceCreamWaifu
 ich_iel
@@ -3353,6 +3356,7 @@ LadiesOfWrestling
 ladyladyboners
 Laesterschwestern
 LAFC
+LAGalaxy
 laidbackcamp
 laika
 Lain
@@ -5364,6 +5368,7 @@ simplynailogical
 simpsonsshitposting
 simracing
 Sims3
+Simulated
 singapore
 singaporefi
 singaporehappenings
@@ -5483,6 +5488,7 @@ Southerncharm
 SouthJersey
 southpark
 SouthwestAirlines
+SP404
 space
 spaceengineers
 spacefrogs
@@ -5494,6 +5500,7 @@ spacex
 SpaceXLounge
 SpaceXMasterrace
 spain
+SpanishCelebs_
 SpanishHistoryMemes
 SpanishMeme
 Spearfishing
@@ -6197,6 +6204,7 @@ Twitter_Brasil
 twittermoment
 TwoHotTakes
 Twokinds
+TwoRedditorsOneCup
 TwoSentenceHorror
 TwoSentenceSadness
 TwoXChromosomes
@@ -6514,6 +6522,7 @@ Whatcouldgowrong
 Whatifalthist
 whatisit
 whatismycookiecutter
+whatisthisbone
 whatisthisbug
 whatisthiscar
 whatisthisthing
