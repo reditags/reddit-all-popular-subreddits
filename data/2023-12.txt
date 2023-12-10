@@ -427,6 +427,7 @@ AskAGerman
 AskAnAmerican
 AskAnAustralian
 AskArgentina
+AskAShittyMechanic
 AskBalkans
 askcarsales
 askcroatia
@@ -1779,6 +1780,7 @@ dogsusingpillows
 DojaCat
 DokkanBattleCommunity
 Dolls
+donaldglover
 Doner
 Donkeys
 dontdeadopeninside
@@ -2293,6 +2295,7 @@ fridaythe13th
 friendlyjordies
 Frieren
 fringe
+frogdogs
 frogs
 FromKittenToCat
 fromsoftware
@@ -3296,6 +3299,7 @@ KingkillerChronicle
 kingofqueens
 KingOfTheHill
 kings
+KiraraMains
 Kirby
 Kitboga
 KitchenConfidential
@@ -3336,6 +3340,7 @@ kpopthoughts
 KreigPosting
 kristenbell
 kristenstewart
+KritiSanon
 ksi
 KSPMemes
 KukiShinobuMains
@@ -3978,6 +3983,7 @@ Mounjaro
 mountainbiking
 mountaindew
 mountandblade
+MouseReview
 Moustache
 moviecritic
 MovieDetails
@@ -4440,6 +4446,7 @@ osr
 osrs
 ossiarchbonereapers
 OstrichPlug
+OSU
 osubuddyretard
 osugame
 osvaldo12
@@ -5050,6 +5057,7 @@ RighteousGemstones
 Rihanna
 rilakkuma
 rimesegate
+rimjob_steve
 Rimuru
 RimWorld
 ripcity
@@ -6439,6 +6447,7 @@ walkaway
 wallpaper
 wallstreet
 wallstreetbets
+WallStreetbetsELITE
 Wallstreetsilver
 walmart
 WaltDisneyWorld
