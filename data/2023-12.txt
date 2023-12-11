@@ -224,6 +224,7 @@ AltFashion
 AlysonHannigan
 AlzheimersGroup
 AMA
+amandaseyfried
 AmandaSeyfriedOnline
 AmateurPhotography
 amateurradio
@@ -1571,6 +1572,7 @@ DakotaFanning
 DakotaKaiWWE
 Daliban
 Dallas
+Dallas_Cowboys
 dalle2
 dalmatians
 DamnNatureYouScary
@@ -2616,6 +2618,7 @@ GoodPizzaGreatPizza
 goodyearwelt
 google
 GooglePixel
+goons
 GoosetheBand
 Gooseworx
 gorillaz
@@ -4752,6 +4755,7 @@ PewdiepieSubmissions
 PeytonCoffee_2
 PeytonList
 PferdeSindKacke
+PhantomForces
 pharmacy
 PhasmophobiaGame
 phcareers
@@ -4883,6 +4887,7 @@ poland
 polandball
 Polandballart
 Polcompball
+Polestar
 police
 policeporn
 policeuk
@@ -6236,6 +6241,7 @@ TNG
 TNOmod
 Toads
 toarumajutsunoindex
+toastme
 todayilearned
 ToddintheShadow
 toddlers
@@ -6297,6 +6303,7 @@ traditionaltattoos
 tragedeigh
 trailerparkboys
 trailrunning
+trainmemes
 TrainPorn
 trains
 trans
@@ -6530,6 +6537,7 @@ vagabond
 ValentGarzonC
 valerialcala
 valheim
+valkyrae
 VALORANT
 ValorantCompetitive
 ValveIndex
