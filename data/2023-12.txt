@@ -515,6 +515,7 @@ augsburg
 auntydonna
 AusFemaleFashion
 AusFinance
+AusLegal
 AusMemes
 AusProperty
 AusPropertyChat
@@ -545,6 +546,7 @@ autobloed
 automobil
 Autos
 Autumn
+avali
 Avatar
 AvatarMemes
 Avatarthelastairbende
@@ -2437,6 +2439,7 @@ furby
 furinamains
 furry_irl
 furrymemes
+FurryMultiverse
 fursedimages
 fussball
 fut
@@ -2680,6 +2683,7 @@ GreenAndPleasant
 GreenBayPackers
 greenday
 Greenlantern
+greenville
 GregDoucette
 greggsappreciation
 gremio
@@ -3663,6 +3667,7 @@ linuxmasterrace
 linuxmemes
 liseliler
 listentothis
+literaciafinanceira
 literature
 lithuania
 littlebigplanet
@@ -3799,6 +3804,7 @@ magicbuilding
 MagicEye
 magicTCG
 magicthecirclejerking
+magnetfishing
 magpies
 MaguiCorceiro
 Maharashtra
@@ -3901,6 +3907,7 @@ MayDayStrike
 Mazatlan
 mazda3
 MBMBAM
+mbta
 mbti
 mbtimemes
 McDonaldsEmployees
@@ -4815,6 +4822,7 @@ PicsOfUnusualBirds
 piercing
 PietSmiet
 pigeon
+Pigifs
 pigs
 Pikabu
 Pikmin
@@ -5973,6 +5981,7 @@ tacos
 tacticalgear
 TacticalIssueCat
 TacticalMedicine
+taiamonet22
 Taiwanese
 Takagi_san
 tales
@@ -6013,6 +6022,7 @@ TaylorSwiftMerch
 TaylorSwiftPictures
 TaylorSwiftsLegs
 tbatenovel
+tdu3
 tea
 Teachers
 TeachersInTransition
@@ -6628,6 +6638,7 @@ vidid
 VietNam
 VietnamWar
 Vilebrequin
+VillagePorn
 Vindicta
 Vinesauce
 VinlandSaga
@@ -6724,6 +6735,7 @@ We_are_weeb
 WeAreAllTurks
 WeArePennState
 WeAreTheMusicMakers
+weatherfactory
 webcomics
 webdev
 Webkinz
@@ -6763,6 +6775,7 @@ westjet
 WestSubEver
 westworld
 WetlanderHumor
+WeWantPlates
 WFH
 WGU
 WH40KTacticus
