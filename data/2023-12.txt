@@ -1916,6 +1916,7 @@ dubai
 Dublin
 duck
 ducks
+DuelLinks
 DuggarsSnark
 duke
 dumbasseswithlighters
@@ -2452,6 +2453,7 @@ gadgets
 galatasaray
 GalaxyFold
 GalaxyS23
+GalaxyS23Ultra
 GalGadot
 gallifrey
 galway
@@ -3210,6 +3212,7 @@ itsaunixsystem
 itstheyak
 ITZY
 IVE
+Ive_Hotties
 IVF
 iwatchedanoldmovie
 iwoulddiefornoodle
@@ -6362,6 +6365,7 @@ TrollCoping
 trolleyproblem
 TrollYChromosome
 tron
+trondheim
 Trophies
 trouduction
 troutfishing
@@ -6855,6 +6859,7 @@ worldnewsvideo
 WorldofDankmemes
 worldofpvp
 WorldofTanks
+WorldOfTanksBlitz
 WorldOfTShirts
 WorldOfWarships
 WorldPanorama
