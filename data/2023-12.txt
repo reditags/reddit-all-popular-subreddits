@@ -286,6 +286,7 @@ ANI_COMMUNISM
 AnimalCrossing
 AnimalCrossingNewHor
 AnimalMemes
+Animals
 AnimalsBeingBros
 AnimalsBeingDerps
 AnimalsBeingGeniuses
@@ -1504,6 +1505,7 @@ crtgaming
 CrucibleGuidebook
 CrueltySquad
 Cruise
+CrumblCookies
 CrusaderKings
 CryptidDogs
 CryptoCurrency
@@ -2766,6 +2768,7 @@ harrypotter
 Harvard
 Hasan_Piker
 hatsune
+hauntedchocolatier
 HauntedMound
 HauntingOfHillHouse
 Haustiere
@@ -3290,6 +3293,7 @@ Josephine_Skriver
 Journaling
 jovemnerd
 jpegmafia
+Jreg
 JRPG
 jschlattsubmissions
 Judaism
@@ -5261,6 +5265,7 @@ running
 RunningCirclejerk
 runningman
 RunningShoeGeeks
+RunNYC
 rupaulsdragrace
 rusAskReddit
 rush
@@ -5914,6 +5919,7 @@ synology
 synthesizers
 sypherpk
 sysadmin
+sza
 TabbyCats
 tacobell
 Tacoma
