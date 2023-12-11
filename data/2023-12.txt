@@ -1436,6 +1436,7 @@ Corridor
 Corsair
 corsets
 Corvette
+corvids
 CoryxKenshin
 Cosmere
 cosplayers
@@ -5207,6 +5208,7 @@ rhettandlink
 RhodeIsland
 Rhodesia
 rhoslc
+richmondbc
 rickandmorty
 rickygervais
 RighteousGemstones
