@@ -380,6 +380,7 @@ appiememes
 apple
 AppleCard
 AppleMusic
+appletv
 AppleWatch
 applewatchultra
 ApplyingToCollege
@@ -834,6 +835,7 @@ blueface
 BlueJackets
 BlueLock
 bluesguitarist
+bluetongueskinks
 bluey
 blunderyears
 blurrypicturesofcats
@@ -1781,6 +1783,7 @@ dewrim
 Dexter
 dezwo
 DHHMemes
+diabetes_t1
 Diablo
 diablo2
 diablo4
@@ -2161,6 +2164,7 @@ Fallout
 FallOutBoy
 FalloutMemes
 falloutnewvegas
+falloutsettlements
 Falschparker
 familyguy
 FamosasTugas
@@ -2398,6 +2402,7 @@ fridaythe13th
 friendlyjordies
 Frieren
 fringe
+frisco
 frogdogs
 frogs
 Fromis
@@ -2661,6 +2666,7 @@ GossipGirl
 goth
 GothFashion
 GothGirls
+gothmakeup
 GothStyle
 gotransit
 Gouache
@@ -4135,6 +4141,7 @@ MoneyDiariesACTIVE
 mongolia
 MonicaBellucci
 Monikafandom
+MonkeyIsland
 Monopoly_GO
 monopolygo_fairtrade
 MonopolyGoTrading
@@ -4256,6 +4263,7 @@ nagpur
 NahOPwasrightfuckthis
 NailArt
 Nails
+NakeyJakey
 NameMyCat
 NameMyDog
 NameNerdCirclejerk
@@ -4892,6 +4900,7 @@ Planespotting
 Planetside
 PlanetZoo
 Planned_Pooling
+plano
 plantclinic
 PlantedTank
 PlantIdentification
@@ -4998,6 +5007,7 @@ Potastic_Jeannie
 pottedcats
 Pottery
 PouchCatatoes
+pourover
 poutine
 PoutineCrimes
 pouts
@@ -5015,6 +5025,7 @@ premiere
 PremierLeague
 PrepperIntel
 preppers
+preppy
 PrequelMemes
 Presidents
 pressurewashing
@@ -5552,6 +5563,7 @@ SHFiguarts
 shiba
 Shibainucoin
 SHIBArmy
+shield
 shieldbro
 Shihtzu
 ShikimoriIsntJustCute
@@ -6042,6 +6054,7 @@ Tampere
 tankiejerk
 TankPorn
 tanks
+tanulommagam
 TarihiSeyler
 TarkovMemes
 tarot
