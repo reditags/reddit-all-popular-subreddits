@@ -91,6 +91,7 @@ ac_newhorizons
 ACAB
 Acapulco
 ACC
+Acceleracers
 AccidentalAlly
 AccidentalComedy
 AccidentalRenaissance
@@ -1511,6 +1512,7 @@ CreateMod
 CreationNtheUniverse
 CreatorsAdvice
 creepy
+creepypasta
 CreepyWikipedia
 cremposting
 crescentcitysjm
@@ -3756,6 +3758,7 @@ londonontario
 LondonUnderground
 lonely
 LoneStarGhetto
+longbeach
 longboyes
 longcats
 LongDistance
@@ -4464,6 +4467,7 @@ NoahGetTheDeathStar
 NoahKahan
 Noctor
 Noellemains
+NoFap
 NoFuckingComment
 NoglaOfficial
 noita
