@@ -369,6 +369,7 @@ AO3
 AOC
 aoe2
 aoe4
+ApartmentHacks
 Apartmentliving
 apexlegends
 ApexLore
@@ -428,6 +429,7 @@ armwrestling
 army
 AroAceMemes
 aromantic
+aromanticasexual
 arresteddevelopment
 Arrowheads
 ArsenalFC
@@ -1041,6 +1043,7 @@ CalgaryFlames
 CaliBanging
 CalicoKittys
 California
+CallofCthulhumemes
 CallOfDuty
 CallOfDutyMobile
 CalPolyPomona
@@ -1054,6 +1057,7 @@ canadaguns
 canadahousing
 CanadaHousing2
 CanadaSoccer
+CanadianCoins
 CanadianInvestor
 canberra
 canceledpod
@@ -2105,6 +2109,7 @@ etymologymaps
 eu4
 eu_nvr
 Eugene
+EUGENIACOONEY
 EulaMains
 euphoria
 EUR_irl
@@ -3224,6 +3229,7 @@ ironscape
 IronWarriors
 IrrationalMadness
 irvine
+IsaacArthur
 IsabelaMerced
 Isekai
 iskissingerdeadyet
@@ -3872,6 +3878,7 @@ malegrooming
 malehairadvice
 malelivingspace
 MaleniCruz
+malepolish
 MaleSurvivingSpace
 MaliciousCompliance
 MalluBabes
@@ -4026,6 +4033,7 @@ metalgearsolid
 Metallica
 MetalMemes
 Metamask_Wallet
+MetamaskOfficial
 metro
 Metroid
 mew_irl
@@ -4297,6 +4305,7 @@ nathanforyou
 National_Pet_Adoption
 nationalguard
 NationalPark
+nationalparks
 NationalServiceSG
 NativePlantGardening
 nattyorjuice
@@ -6275,6 +6284,7 @@ TheVampireDiaries
 theviralthings
 TheVirginZone
 thewalkingdead
+TheWalkingDeadGame
 TheWayWeWere
 TheWeeknd
 thewestwing
@@ -6324,6 +6334,7 @@ Timberborn
 timbers
 timberwolves
 TimDillon
+timesplitters
 TimHortons
 timisoara
 TimPool
@@ -6618,6 +6629,7 @@ UPenn
 UpliftingNews
 UPSC
 UpvoteBecauseButt
+uraniumglass
 urbancarliving
 urbanexploration
 UrbanHell
@@ -6721,6 +6733,7 @@ virginvschad
 virtualreality
 Visiblemending
 visualnovels
+VitaPiracy
 ViviWinkler
 Vivziepopmemes
 vizsla
